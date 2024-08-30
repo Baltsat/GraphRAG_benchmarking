@@ -6,6 +6,45 @@ Benchmarking GraphRAG and Arigraph on Musique, HotpotQA and Babilong QA1 dataset
 - [TheAiSingularity/graphrag-local-ollama](https://github.com/TheAiSingularity/graphrag-local-ollama)
 - [AIRI-Institute/AriGraph](https://github.com/AIRI-Institute/AriGraph)
 
+## Problem
+Retrieval-Augmented Generation (RAG) struggles to generate accurate answers to complex or “global” questions that require understanding the entire dataset, not just individual fragments. Traditional RAG approaches rely heavily on vector search, which often results in incomplete or misleading answers because it only considers the top-k most semantically similar text segments, missing the broader context and relationships within the data.
+
+## Objective
+Test approaches that can map and analyze contextual relationships between entities in a large dataset, capturing both direct and indirect relationships that provide a deeper understanding of the data structure and provide an answer by reflecting their roles and interactions in the broader context of the dataset.
+
+## Results
+### GraphRAG vs. AriGraph
+| Метод | GraphRAG (GPT-4o-mini) | AriGraph (GPT-40-mini) | AriGraph wwwww (LLama-3-70B) | AriGraph (GPT-4) |
+|-------|------------------------|------------------------|------------------------------|-------------------|
+| **MuSiQue** |
+| EM | 40.0 | 23.0 | 27.0 | 37.0 |
+| F1 | <u>53.5</u> | 35.1 | 36.7 | 47.4 |
+| **HotpotQA** |
+| EM | 58.7 | 50.9 | 43.0 | 59.5 |
+| F1 | 63.3 | 60.3 | 51.8 | <u>69.6</u> |
+
+### AriGraph benchmarking (N=10) on Babilong QA1 dataset
+| Metric\Context | 0k     | 4k     | 8k     | 16k    |
+|-----------------|--------|--------|--------|--------|
+| EM              | 0.615  | 0.5    | 0.3    | 0.3    |
+| F1              | 0.675  | 0.5    | 0.3    | 0.3    |
+*Exact Match = true answer is a subset of generated answer*
+
+### Benchmarking results Llama-3-70B vs GPT-4o-mini с Microsoft GraphRAG
+| Model         | HotpotQA |       | BABILong 0k |       | MuSiQue |       | BABILong 4k, 8k, 16k, 32k |       |
+|---------------|----------|-------|--------------|-------|---------|-------|---------------------------|-------|
+|               | EM       | F1    | EM           | F1    | EM      | F1    | EM                        | F1    |
+| Local         | 18.0     | 33.7  | 8.7          | 2.1   | 69.2    | 67.2  | 0                         | 0     |
+| Global        | 4.0      | 5.1   | 3.2          | 1.7   | 61.5    | 33.2  | 0                         | 0     |
+| GPT-4o-mini   | 58.7     | 63.3  | 40.0         | 53.5  | -       | -     | -                         | -     |
+
+### Benchmarking Llama-3-70B with Microsoft GraphRAG vs AriGraph
+| Model    | HotpotQA |       | BABILong 0k |       | MuSiQue |       | BABILong 4k, 8k, 16k, 32k |       |
+|----------|----------|-------|-------------|-------|---------|-------|---------------------------|-------|
+|          | EM       | F1    | EM          | F1    | EM      | F1    | EM                        | F1    |
+| Local    | 18.0     | 33.7  | 8.7         | 2.1   | 69.2    | 67.2  | 0                         | 0     |
+| Global   | 4.0      | 5.1   | 3.2         | 1.7   | 61.5    | 33.2  | 0                         | 0     |
+| Arigraph | 43.0     | 51.8  | 27.0        | 36.7  | 61.5    | 67.2  | 0.3                       | 0.3   |
 
 ### 🤝 Contributing
 
