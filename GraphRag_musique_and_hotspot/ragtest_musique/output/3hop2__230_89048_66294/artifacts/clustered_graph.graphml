@@ -1,0 +1,1652 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="level" attr.type="long" />
+  <key id="d6" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d5" for="node" attr.name="id" attr.type="string" />
+  <key id="d4" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d3" for="node" attr.name="degree" attr.type="long" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;BEN AFFLECK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ben Affleck was initially attached to play the lead character in Ghosts of Girlfriends Past but opted out."</data>
+      <data key="d2">39a18c8517d8758a552b464c5724789b</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;CASTLE HILL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Castle Hill in Ipswich, Massachusetts is a filming location for Ghosts of Girlfriends Past."</data>
+      <data key="d2">39a18c8517d8758a552b464c5724789b</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;IPSWICH, MASSACHUSETTS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ipswich, Massachusetts is the location where Castle Hill, a filming site for Ghosts of Girlfriends Past, is situated."</data>
+      <data key="d2">39a18c8517d8758a552b464c5724789b</data>
+      <data key="d3">0</data>
+      <data key="d4">2</data>
+      <data key="d5">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;MICHAEL DOUGLAS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Michael Douglas stars in Ghosts of Girlfriends Past, reuniting with Anne Archer since Fatal Attraction in 1987."</data>
+      <data key="d2">39a18c8517d8758a552b464c5724789b</data>
+      <data key="d3">1</data>
+      <data key="d4">3</data>
+      <data key="d5">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;ANNE ARCHER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Anne Archer co-stars with Michael Douglas in Ghosts of Girlfriends Past, their first collaboration since Fatal Attraction in 1987."</data>
+      <data key="d2">39a18c8517d8758a552b464c5724789b</data>
+      <data key="d3">1</data>
+      <data key="d4">4</data>
+      <data key="d5">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;JENNIFER GARNER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jennifer Garner appears in Ghosts of Girlfriends Past, reuniting with Christa B. Allen since 13 Going on 30 in 2004."</data>
+      <data key="d2">39a18c8517d8758a552b464c5724789b</data>
+      <data key="d3">1</data>
+      <data key="d4">5</data>
+      <data key="d5">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;CHRISTA B. ALLEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Christa B. Allen co-stars with Jennifer Garner in Ghosts of Girlfriends Past, their second collaboration after 13 Going on 30 in 2004."</data>
+      <data key="d2">39a18c8517d8758a552b464c5724789b</data>
+      <data key="d3">1</data>
+      <data key="d4">6</data>
+      <data key="d5">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;TOUCHSTONE PICTURES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">39a18c8517d8758a552b464c5724789b</data>
+      <data key="d3">1</data>
+      <data key="d4">7</data>
+      <data key="d5">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">0200fc59f8c8c01504a50e4801f1ce39,05fe6b467933eced006bacffdb4f8191,11f71af43c1890e2690e5aa4d70fee07,39a18c8517d8758a552b464c5724789b,62eb374f3af609e440aa8a5519bd0717,6c7bd460940d0c0a4242944dfd3f81da,75749b38430c45c14aff59a422debc4e,7d340325bacd8f448ec2fdd1bcf6ff3d,83ec2c1bcea12ba9787f29e256193191,855baa6ec425b8c9312f44afe7c954e4,8c2fda1627291fc200b4027076b9b1c7,918341ffd9fe77e1131c831977c4db59,93c1140c886489c42d49f2ab9c876334,c428234fc2efc2ac7a65eb80a9430957,d5377939e630cb37a23adf4a5312263f,e2799317b17bcf8eed82ab2575fb47d7,e36c24af44d6aabdfc1281dd53de0932,eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d3">2</data>
+      <data key="d4">8</data>
+      <data key="d5">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">0200fc59f8c8c01504a50e4801f1ce39,05fe6b467933eced006bacffdb4f8191,11f71af43c1890e2690e5aa4d70fee07,39a18c8517d8758a552b464c5724789b,62eb374f3af609e440aa8a5519bd0717,6c7bd460940d0c0a4242944dfd3f81da,75749b38430c45c14aff59a422debc4e,7d340325bacd8f448ec2fdd1bcf6ff3d,83ec2c1bcea12ba9787f29e256193191,855baa6ec425b8c9312f44afe7c954e4,8c2fda1627291fc200b4027076b9b1c7,918341ffd9fe77e1131c831977c4db59,93c1140c886489c42d49f2ab9c876334,c428234fc2efc2ac7a65eb80a9430957,d5377939e630cb37a23adf4a5312263f,e2799317b17bcf8eed82ab2575fb47d7,e36c24af44d6aabdfc1281dd53de0932,eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d3">1</data>
+      <data key="d4">9</data>
+      <data key="d5">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">0200fc59f8c8c01504a50e4801f1ce39,05fe6b467933eced006bacffdb4f8191,11f71af43c1890e2690e5aa4d70fee07,39a18c8517d8758a552b464c5724789b,62eb374f3af609e440aa8a5519bd0717,6c7bd460940d0c0a4242944dfd3f81da,75749b38430c45c14aff59a422debc4e,7d340325bacd8f448ec2fdd1bcf6ff3d,83ec2c1bcea12ba9787f29e256193191,855baa6ec425b8c9312f44afe7c954e4,8c2fda1627291fc200b4027076b9b1c7,918341ffd9fe77e1131c831977c4db59,93c1140c886489c42d49f2ab9c876334,c428234fc2efc2ac7a65eb80a9430957,d5377939e630cb37a23adf4a5312263f,e2799317b17bcf8eed82ab2575fb47d7,e36c24af44d6aabdfc1281dd53de0932,eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d3">4</data>
+      <data key="d4">10</data>
+      <data key="d5">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">0200fc59f8c8c01504a50e4801f1ce39,05fe6b467933eced006bacffdb4f8191,11f71af43c1890e2690e5aa4d70fee07,39a18c8517d8758a552b464c5724789b,62eb374f3af609e440aa8a5519bd0717,6c7bd460940d0c0a4242944dfd3f81da,75749b38430c45c14aff59a422debc4e,7d340325bacd8f448ec2fdd1bcf6ff3d,83ec2c1bcea12ba9787f29e256193191,855baa6ec425b8c9312f44afe7c954e4,8c2fda1627291fc200b4027076b9b1c7,918341ffd9fe77e1131c831977c4db59,93c1140c886489c42d49f2ab9c876334,c428234fc2efc2ac7a65eb80a9430957,d5377939e630cb37a23adf4a5312263f,e2799317b17bcf8eed82ab2575fb47d7,e36c24af44d6aabdfc1281dd53de0932,eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d3">1</data>
+      <data key="d4">11</data>
+      <data key="d5">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">0200fc59f8c8c01504a50e4801f1ce39,05fe6b467933eced006bacffdb4f8191,11f71af43c1890e2690e5aa4d70fee07,39a18c8517d8758a552b464c5724789b,62eb374f3af609e440aa8a5519bd0717,6c7bd460940d0c0a4242944dfd3f81da,75749b38430c45c14aff59a422debc4e,7d340325bacd8f448ec2fdd1bcf6ff3d,83ec2c1bcea12ba9787f29e256193191,855baa6ec425b8c9312f44afe7c954e4,8c2fda1627291fc200b4027076b9b1c7,918341ffd9fe77e1131c831977c4db59,93c1140c886489c42d49f2ab9c876334,c428234fc2efc2ac7a65eb80a9430957,d5377939e630cb37a23adf4a5312263f,e2799317b17bcf8eed82ab2575fb47d7,e36c24af44d6aabdfc1281dd53de0932,eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d3">1</data>
+      <data key="d4">12</data>
+      <data key="d5">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">0200fc59f8c8c01504a50e4801f1ce39,05fe6b467933eced006bacffdb4f8191,11f71af43c1890e2690e5aa4d70fee07,39a18c8517d8758a552b464c5724789b,62eb374f3af609e440aa8a5519bd0717,6c7bd460940d0c0a4242944dfd3f81da,75749b38430c45c14aff59a422debc4e,7d340325bacd8f448ec2fdd1bcf6ff3d,83ec2c1bcea12ba9787f29e256193191,855baa6ec425b8c9312f44afe7c954e4,8c2fda1627291fc200b4027076b9b1c7,918341ffd9fe77e1131c831977c4db59,93c1140c886489c42d49f2ab9c876334,c428234fc2efc2ac7a65eb80a9430957,d5377939e630cb37a23adf4a5312263f,e2799317b17bcf8eed82ab2575fb47d7,e36c24af44d6aabdfc1281dd53de0932,eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d3">2</data>
+      <data key="d4">13</data>
+      <data key="d5">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">0200fc59f8c8c01504a50e4801f1ce39,05fe6b467933eced006bacffdb4f8191,11f71af43c1890e2690e5aa4d70fee07,39a18c8517d8758a552b464c5724789b,62eb374f3af609e440aa8a5519bd0717,6c7bd460940d0c0a4242944dfd3f81da,75749b38430c45c14aff59a422debc4e,7d340325bacd8f448ec2fdd1bcf6ff3d,83ec2c1bcea12ba9787f29e256193191,855baa6ec425b8c9312f44afe7c954e4,8c2fda1627291fc200b4027076b9b1c7,918341ffd9fe77e1131c831977c4db59,93c1140c886489c42d49f2ab9c876334,c428234fc2efc2ac7a65eb80a9430957,d5377939e630cb37a23adf4a5312263f,e2799317b17bcf8eed82ab2575fb47d7,e36c24af44d6aabdfc1281dd53de0932,eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d3">1</data>
+      <data key="d4">14</data>
+      <data key="d5">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">0200fc59f8c8c01504a50e4801f1ce39,05fe6b467933eced006bacffdb4f8191,11f71af43c1890e2690e5aa4d70fee07,39a18c8517d8758a552b464c5724789b,62eb374f3af609e440aa8a5519bd0717,6c7bd460940d0c0a4242944dfd3f81da,75749b38430c45c14aff59a422debc4e,7d340325bacd8f448ec2fdd1bcf6ff3d,83ec2c1bcea12ba9787f29e256193191,855baa6ec425b8c9312f44afe7c954e4,8c2fda1627291fc200b4027076b9b1c7,918341ffd9fe77e1131c831977c4db59,93c1140c886489c42d49f2ab9c876334,c428234fc2efc2ac7a65eb80a9430957,d5377939e630cb37a23adf4a5312263f,e2799317b17bcf8eed82ab2575fb47d7,e36c24af44d6aabdfc1281dd53de0932,eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d3">1</data>
+      <data key="d4">15</data>
+      <data key="d5">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">0200fc59f8c8c01504a50e4801f1ce39,05fe6b467933eced006bacffdb4f8191,11f71af43c1890e2690e5aa4d70fee07,39a18c8517d8758a552b464c5724789b,62eb374f3af609e440aa8a5519bd0717,6c7bd460940d0c0a4242944dfd3f81da,75749b38430c45c14aff59a422debc4e,7d340325bacd8f448ec2fdd1bcf6ff3d,83ec2c1bcea12ba9787f29e256193191,855baa6ec425b8c9312f44afe7c954e4,8c2fda1627291fc200b4027076b9b1c7,918341ffd9fe77e1131c831977c4db59,93c1140c886489c42d49f2ab9c876334,c428234fc2efc2ac7a65eb80a9430957,d5377939e630cb37a23adf4a5312263f,e2799317b17bcf8eed82ab2575fb47d7,e36c24af44d6aabdfc1281dd53de0932,eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d3">0</data>
+      <data key="d4">16</data>
+      <data key="d5">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0200fc59f8c8c01504a50e4801f1ce39,05fe6b467933eced006bacffdb4f8191,11f71af43c1890e2690e5aa4d70fee07,39a18c8517d8758a552b464c5724789b,62eb374f3af609e440aa8a5519bd0717,6c7bd460940d0c0a4242944dfd3f81da,75749b38430c45c14aff59a422debc4e,7d340325bacd8f448ec2fdd1bcf6ff3d,83ec2c1bcea12ba9787f29e256193191,855baa6ec425b8c9312f44afe7c954e4,8c2fda1627291fc200b4027076b9b1c7,918341ffd9fe77e1131c831977c4db59,93c1140c886489c42d49f2ab9c876334,c428234fc2efc2ac7a65eb80a9430957,d5377939e630cb37a23adf4a5312263f,e2799317b17bcf8eed82ab2575fb47d7,e36c24af44d6aabdfc1281dd53de0932,eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d3">5</data>
+      <data key="d4">17</data>
+      <data key="d5">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;DOWNTOWN RALEIGH AMPHITHEATER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Downtown Raleigh Amphitheater, now sponsored as the Red Hat Amphitheater, hosts numerous concerts primarily in the summer months."</data>
+      <data key="d2">e36c24af44d6aabdfc1281dd53de0932</data>
+      <data key="d3">1</data>
+      <data key="d4">18</data>
+      <data key="d5">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;NORTH CAROLINA MUSEUM OF ART&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"North Carolina Museum of Art hosts a summer concert series and outdoor movies at its amphitheater."</data>
+      <data key="d2">e36c24af44d6aabdfc1281dd53de0932</data>
+      <data key="d3">1</data>
+      <data key="d4">19</data>
+      <data key="d5">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;KOKA BOOTH AMPHITHEATRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Koka Booth Amphitheatre in Cary hosts additional summer concerts and outdoor movies, and serves as the venue for regularly scheduled outdoor concerts by the North Carolina Symphony."</data>
+      <data key="d2">e36c24af44d6aabdfc1281dd53de0932</data>
+      <data key="d3">1</data>
+      <data key="d4">20</data>
+      <data key="d5">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;NORTH CAROLINA SYMPHONY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"North Carolina Symphony is a musical organization based in Raleigh that performs at various venues, including the Koka Booth Amphitheatre."</data>
+      <data key="d2">e36c24af44d6aabdfc1281dd53de0932</data>
+      <data key="d3">1</data>
+      <data key="d4">21</data>
+      <data key="d5">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;DORTON ARENA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Dorton Arena hosts headline acts during the North Carolina State Fair."</data>
+      <data key="d2">e36c24af44d6aabdfc1281dd53de0932</data>
+      <data key="d3">0</data>
+      <data key="d4">22</data>
+      <data key="d5">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;LINCOLN THEATRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Lincoln Theatre is a private club in downtown Raleigh that schedules many concerts throughout the year in multiple formats."</data>
+      <data key="d2">e36c24af44d6aabdfc1281dd53de0932</data>
+      <data key="d3">0</data>
+      <data key="d4">23</data>
+      <data key="d5">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;TIME WARNER CABLE MUSIC PAVILION AT WALNUT CREEK&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e36c24af44d6aabdfc1281dd53de0932</data>
+      <data key="d3">1</data>
+      <data key="d4">24</data>
+      <data key="d5">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;RALEIGH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e36c24af44d6aabdfc1281dd53de0932</data>
+      <data key="d3">4</data>
+      <data key="d4">25</data>
+      <data key="d5">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;CARY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e36c24af44d6aabdfc1281dd53de0932</data>
+      <data key="d3">1</data>
+      <data key="d4">26</data>
+      <data key="d5">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;BRENT TITCOMB&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Brent Titcomb originally voiced Clifford in the 1988 direct-to-video series."</data>
+      <data key="d2">d5377939e630cb37a23adf4a5312263f</data>
+      <data key="d3">1</data>
+      <data key="d4">27</data>
+      <data key="d5">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;CLIFFORD THE BIG RED DOG&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Clifford the Big Red Dog is a TV series and film franchise that features John Ritter as the voice of Clifford."</data>
+      <data key="d2">d5377939e630cb37a23adf4a5312263f</data>
+      <data key="d3">3</data>
+      <data key="d4">28</data>
+      <data key="d5">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;ABC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ABC is a television network where John Ritter starred in 8 Simple Rules."</data>
+      <data key="d2">d5377939e630cb37a23adf4a5312263f</data>
+      <data key="d3">1</data>
+      <data key="d4">29</data>
+      <data key="d5">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;PBS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"PBS debuted Clifford's Puppy Days, a show that continued Clifford's legacy after John Ritter's death."</data>
+      <data key="d2">d5377939e630cb37a23adf4a5312263f</data>
+      <data key="d3">1</data>
+      <data key="d4">30</data>
+      <data key="d5">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;JOHN RITTER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d5377939e630cb37a23adf4a5312263f</data>
+      <data key="d3">2</data>
+      <data key="d4">31</data>
+      <data key="d5">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&quot;CASS DILLON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Cass Dillon is a person who sang on the 2007 studio recording of 'Christmas in Fallujah'."</data>
+      <data key="d2">eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d3">1</data>
+      <data key="d4">32</data>
+      <data key="d5">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&quot;ACER ARENA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Acer Arena is a location in Sydney where Joel recorded his rendition of 'Christmas in Fallujah' during a concert."</data>
+      <data key="d2">eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d3">1</data>
+      <data key="d4">33</data>
+      <data key="d5">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&quot;SYDNEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Sydney is a city in Australia where Joel performed 'Christmas in Fallujah' during a concert at Acer Arena."</data>
+      <data key="d2">eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d3">1</data>
+      <data key="d4">34</data>
+      <data key="d5">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&quot;AUSTRALIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Australia is a country that has hosted various notable events and performances throughout its history. In 1937, Essie Ackland toured Australia, performing concerts and entertaining soldiers during World War II. Later, in December 2008, Joel released his live single of 'Christmas in Fallujah' and embarked on a tour across the country.</data>
+      <data key="d2">855baa6ec425b8c9312f44afe7c954e4,eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d3">2</data>
+      <data key="d4">35</data>
+      <data key="d5">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&quot;DECEMBER 11, 2008&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"December 11, 2008 is the date when Joel recorded his rendition of 'Christmas in Fallujah' during a concert at Acer Arena in Sydney."</data>
+      <data key="d2">eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d3">1</data>
+      <data key="d4">36</data>
+      <data key="d5">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&quot;JOEL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d3">3</data>
+      <data key="d4">37</data>
+      <data key="d5">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&quot;LIONSGATE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Lionsgate is an organization involved in the production of the film, announcing it in May 2014."</data>
+      <data key="d2">75749b38430c45c14aff59a422debc4e</data>
+      <data key="d3">2</data>
+      <data key="d4">38</data>
+      <data key="d5">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&quot;ROBERTO ORCI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Roberto Orci is a person who was originally attached to produce the film but left to work on Star Trek Beyond."</data>
+      <data key="d2">75749b38430c45c14aff59a422debc4e</data>
+      <data key="d3">1</data>
+      <data key="d4">39</data>
+      <data key="d5">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <node id="&quot;ASHLEY MILLER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ashley Miller is a person hired to write the film's script."</data>
+      <data key="d2">75749b38430c45c14aff59a422debc4e</data>
+      <data key="d3">0</data>
+      <data key="d4">40</data>
+      <data key="d5">3ce7c210a21b4deebad7cc9308148d86</data>
+    </node>
+    <node id="&quot;ZACK STENTZ&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Zack Stentz is a person hired to write the film's script."</data>
+      <data key="d2">75749b38430c45c14aff59a422debc4e</data>
+      <data key="d3">0</data>
+      <data key="d4">41</data>
+      <data key="d5">d64ed762ea924caa95c8d06f072a9a96</data>
+    </node>
+    <node id="&quot;DEAN ISRAELITE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dean Israelite is a person who directed the film, aiming to make it playful, fun, and grounded."</data>
+      <data key="d2">75749b38430c45c14aff59a422debc4e</data>
+      <data key="d3">1</data>
+      <data key="d4">42</data>
+      <data key="d5">adf4ee3fbe9b4d0381044838c4f889c8</data>
+    </node>
+    <node id="&quot;BRIAN TYLER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Brian Tyler is a person who composed the film's music."</data>
+      <data key="d2">75749b38430c45c14aff59a422debc4e</data>
+      <data key="d3">1</data>
+      <data key="d4">43</data>
+      <data key="d5">32ee140946e5461f9275db664dc541a5</data>
+    </node>
+    <node id="&quot;STAR TREK BEYOND&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Star Trek Beyond is an event that Roberto Orci left the project to work on."</data>
+      <data key="d2">75749b38430c45c14aff59a422debc4e</data>
+      <data key="d3">1</data>
+      <data key="d4">44</data>
+      <data key="d5">c160b9cb27d6408ba6ab20214a2f3f81</data>
+    </node>
+    <node id="&quot;SABAN CAPITAL GROUP&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">75749b38430c45c14aff59a422debc4e</data>
+      <data key="d3">2</data>
+      <data key="d4">45</data>
+      <data key="d5">23527cd679ff4d5a988d52e7cd056078</data>
+    </node>
+    <node id="&quot;MUAMMAR GADDAFI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Muammar Gaddafi was the Libyan ruler whose family Beyonc&#233; performed for."</data>
+      <data key="d2">0200fc59f8c8c01504a50e4801f1ce39</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">46</data>
+      <data key="d5">f1c6eed066f24cbdb376b910fce29ed4</data>
+    </node>
+    <node id="&quot;CLINTON BUSH HAITI FUND&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Clinton Bush Haiti Fund is a charitable organization that received a donation from Beyonc&#233;."</data>
+      <data key="d2">0200fc59f8c8c01504a50e4801f1ce39</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">47</data>
+      <data key="d5">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+    </node>
+    <node id="&quot;ROLLING STONE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Rolling Stone is a music industry publication that reported on the controversy surrounding Beyonc&#233;'s performance for the Gaddafi family."</data>
+      <data key="d2">0200fc59f8c8c01504a50e4801f1ce39</data>
+      <data key="d3">1</data>
+      <data key="d4">48</data>
+      <data key="d5">147c038aef3e4422acbbc5f7938c4ab8</data>
+    </node>
+    <node id="&quot;THE HUFFINGTON POST&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Huffington Post is a news outlet that confirmed Beyonc&#233;'s donation to the Clinton Bush Haiti Fund."</data>
+      <data key="d2">0200fc59f8c8c01504a50e4801f1ce39</data>
+      <data key="d3">0</data>
+      <data key="d4">49</data>
+      <data key="d5">b7702b90c7f24190b864e8c6e64612a5</data>
+    </node>
+    <node id="&quot;GLASTONBURY FESTIVAL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2011 Glastonbury Festival was an event where Beyonc&#233; became the first solo female artist to headline the main Pyramid stage in over twenty years."</data>
+      <data key="d2">0200fc59f8c8c01504a50e4801f1ce39</data>
+      <data key="d3">0</data>
+      <data key="d4">50</data>
+      <data key="d5">de6fa24480894518ab3cbcb66f739266</data>
+    </node>
+    <node id="&quot;BEYONC&#201;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0200fc59f8c8c01504a50e4801f1ce39,05fe6b467933eced006bacffdb4f8191,62eb374f3af609e440aa8a5519bd0717,83ec2c1bcea12ba9787f29e256193191,918341ffd9fe77e1131c831977c4db59,93c1140c886489c42d49f2ab9c876334</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">20</data>
+      <data key="d4">51</data>
+      <data key="d5">6fae5ee1a831468aa585a1ea09095998</data>
+    </node>
+    <node id="&quot;MUSIC INDUSTRY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0200fc59f8c8c01504a50e4801f1ce39</data>
+      <data key="d3">1</data>
+      <data key="d4">52</data>
+      <data key="d5">ef32c4b208d041cc856f6837915dc1b0</data>
+    </node>
+    <node id="&quot;MICHAEL JACKSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Michael Jackson is a musician who has had a significant impact on Beyonc&#233;'s career, being her major musical influence."</data>
+      <data key="d2">93c1140c886489c42d49f2ab9c876334</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">53</data>
+      <data key="d5">07b2425216bd4f0aa4e079827cb48ef5</data>
+    </node>
+    <node id="&quot;DIANA ROSS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Diana Ross is an all-around entertainer who has inspired Beyonc&#233;."</data>
+      <data key="d2">93c1140c886489c42d49f2ab9c876334</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">54</data>
+      <data key="d5">2670deebfa3f4d69bb82c28ab250a209</data>
+    </node>
+    <node id="&quot;WHITNEY HOUSTON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Whitney Houston is a musician who has inspired Beyonc&#233; to perform."</data>
+      <data key="d2">93c1140c886489c42d49f2ab9c876334</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">55</data>
+      <data key="d5">404309e89a5241d6bff42c05a45df206</data>
+    </node>
+    <node id="&quot;MARIAH CAREY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mariah Carey's singing, particularly her song 'Vision of Love', has influenced Beyonc&#233;'s vocal practice as a child."</data>
+      <data key="d2">93c1140c886489c42d49f2ab9c876334</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">56</data>
+      <data key="d5">b785a9025069417f94950ad231bb1441</data>
+    </node>
+    <node id="&quot;AALIYAH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Aaliyah is one of the musical influences of Beyonc&#233;."</data>
+      <data key="d2">93c1140c886489c42d49f2ab9c876334</data>
+      <data key="d3">0</data>
+      <data key="d4">57</data>
+      <data key="d5">3b6cd96a27304614850709aba1c9598b</data>
+    </node>
+    <node id="&quot;PRINCE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Prince is one of the musical influences of Beyonc&#233;."</data>
+      <data key="d2">93c1140c886489c42d49f2ab9c876334</data>
+      <data key="d3">0</data>
+      <data key="d4">58</data>
+      <data key="d5">d54956b79dd147f894b67a8b97dcbef0</data>
+    </node>
+    <node id="&quot;LAURYN HILL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lauryn Hill is one of the musical influences of Beyonc&#233;."</data>
+      <data key="d2">93c1140c886489c42d49f2ab9c876334</data>
+      <data key="d3">0</data>
+      <data key="d4">59</data>
+      <data key="d5">958beecdb5bb4060948415ffd75d2b03</data>
+    </node>
+    <node id="&quot;SADE ADU&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sade Adu is one of the musical influences of Beyonc&#233;."</data>
+      <data key="d2">93c1140c886489c42d49f2ab9c876334</data>
+      <data key="d3">0</data>
+      <data key="d4">60</data>
+      <data key="d5">b999ed77e19e4f85b7f1ae79af5c002a</data>
+    </node>
+    <node id="&quot;DONNA SUMMER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Donna Summer is one of the musical influences of Beyonc&#233;."</data>
+      <data key="d2">93c1140c886489c42d49f2ab9c876334</data>
+      <data key="d3">0</data>
+      <data key="d4">61</data>
+      <data key="d5">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+    </node>
+    <node id="&quot;MARY J. BLIGE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mary J. Blige is one of the musical influences of Beyonc&#233;."</data>
+      <data key="d2">93c1140c886489c42d49f2ab9c876334</data>
+      <data key="d3">0</data>
+      <data key="d4">62</data>
+      <data key="d5">4f3c97517f794ebfb49c4c6315f9cf23</data>
+    </node>
+    <node id="&quot;JANET JACKSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Janet Jackson is one of the musical influences of Beyonc&#233;."</data>
+      <data key="d2">93c1140c886489c42d49f2ab9c876334</data>
+      <data key="d3">0</data>
+      <data key="d4">63</data>
+      <data key="d5">1745a2485a9443bab76587ad650e9be0</data>
+    </node>
+    <node id="&quot;ANITA BAKER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Anita Baker is one of the musical influences of Beyonc&#233;."</data>
+      <data key="d2">93c1140c886489c42d49f2ab9c876334</data>
+      <data key="d3">0</data>
+      <data key="d4">64</data>
+      <data key="d5">32e6ccab20d94029811127dbbe424c64</data>
+    </node>
+    <node id="&quot;RACHELLE FERRELL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Rachelle Ferrell is one of the musical influences of Beyonc&#233;."</data>
+      <data key="d2">93c1140c886489c42d49f2ab9c876334</data>
+      <data key="d3">0</data>
+      <data key="d4">65</data>
+      <data key="d5">94a964c6992945ebb3833dfdfdc8d655</data>
+    </node>
+    <node id="&quot;LOOK SHARP!&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Look Sharp! is the debut album of Joe Jackson, which includes the track 'Is She Really Going Out with Him?'."</data>
+      <data key="d2">6c7bd460940d0c0a4242944dfd3f81da</data>
+      <data key="d3">1</data>
+      <data key="d4">66</data>
+      <data key="d5">1eb829d0ace042089f0746f78729696c</data>
+    </node>
+    <node id="&quot;JOE JACKSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6c7bd460940d0c0a4242944dfd3f81da</data>
+      <data key="d3">1</data>
+      <data key="d4">67</data>
+      <data key="d5">015e7b58d1a14b44beab3bbc9f912c18</data>
+    </node>
+    <node id="&quot;JOSEPHINE BAKER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Josephine Baker was a singer who inspired Beyonc&#233;'s feminism and female empowerment themes in B'Day."</data>
+      <data key="d2">918341ffd9fe77e1131c831977c4db59</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">68</data>
+      <data key="d5">26f88ab3e2e04c33a459ad6270ade565</data>
+    </node>
+    <node id="&quot;JAY Z&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jay Z inspired Beyonc&#233;'s third solo album I Am... Sasha Fierce, particularly with regards to exploring new musical genres and styles."</data>
+      <data key="d2">918341ffd9fe77e1131c831977c4db59</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">69</data>
+      <data key="d5">babe97e1d9784cffa1c85abc1e588126</data>
+    </node>
+    <node id="&quot;ETTA JAMES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Etta James was a blues singer who inspired Beyonc&#233;, an American singer, actress, and entrepreneur. In 2008, Beyonc&#233; portrayed Etta James in the musical biopic Cadillac Records. Additionally, Etta James' boldness had a profound impact on Beyonc&#233;'s music, inspiring her to explore other genres and styles in her third solo album, I Am... Sasha Fierce.</data>
+      <data key="d2">05fe6b467933eced006bacffdb4f8191,918341ffd9fe77e1131c831977c4db59</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">70</data>
+      <data key="d5">1033a18c45aa4584b2aef6ab96890351</data>
+    </node>
+    <node id="&quot;FELA KUTI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Fela Kuti was an inspiration for Beyonc&#233;'s fourth solo album, 4."</data>
+      <data key="d2">918341ffd9fe77e1131c831977c4db59</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">71</data>
+      <data key="d5">c9b8ce91fc2945b4907fe35519339cac</data>
+    </node>
+    <node id="&quot;DREAMGIRLS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+"DREAMGIRLS" is a Broadway musical that has had a significant impact on various artists. In 2000, it featured a one-night concert where Leslie Odom Jr. appeared in the ensemble. Additionally, "Dreamgirls" was a role that inspired Beyonc&#233;'s feminism and female empowerment themes in her album B'Day.</data>
+      <data key="d2">8c2fda1627291fc200b4027076b9b1c7,918341ffd9fe77e1131c831977c4db59</data>
+      <data key="d3">1</data>
+      <data key="d4">72</data>
+      <data key="d5">fa3c4204421c48609e52c8de2da4c654</data>
+    </node>
+    <node id="&quot;FASHION ROCKS CONCERT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Fashion Rocks concert was where Beyonc&#233; paid homage to Josephine Baker by performing 'D&#233;j&#224; Vu' wearing Baker's trademark mini-hula skirt."</data>
+      <data key="d2">918341ffd9fe77e1131c831977c4db59</data>
+      <data key="d3">0</data>
+      <data key="d4">73</data>
+      <data key="d5">53af055f068244d0ac861b2e89376495</data>
+    </node>
+    <node id="&quot;SUGA MAMA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Suga Mama is Beyonc&#233;'s all-female tour band, consisting of various musicians."</data>
+      <data key="d2">62eb374f3af609e440aa8a5519bd0717</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">74</data>
+      <data key="d5">c03ab3ce8cb74ad2a03b94723bfab3c7</data>
+    </node>
+    <node id="&quot;THE MAMAS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Mamas are Beyonc&#233;'s background singers, comprising Montina Cooper-Donnell, Crystal Collins, and Tiffany Moniqu&#233; Riddick."</data>
+      <data key="d2">62eb374f3af609e440aa8a5519bd0717</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">4</data>
+      <data key="d4">75</data>
+      <data key="d5">ed6d2eee9d7b4f5db466b1f6404d31cc</data>
+    </node>
+    <node id="&quot;MONTINA COOPER-DONNELL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Montina Cooper-Donnell is a member of The Mamas, Beyonc&#233;'s background singers."</data>
+      <data key="d2">62eb374f3af609e440aa8a5519bd0717</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">76</data>
+      <data key="d5">fc01e9baa80e417c9206f941bb279407</data>
+    </node>
+    <node id="&quot;CRYSTAL COLLINS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Crystal Collins is a member of The Mamas, Beyonc&#233;'s background singers."</data>
+      <data key="d2">62eb374f3af609e440aa8a5519bd0717</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">77</data>
+      <data key="d5">56d0e5ebe79e4814bd1463cf6ca21394</data>
+    </node>
+    <node id="&quot;TIFFANY MONIQU&#201; RIDDICK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Tiffany Moniqu&#233; Riddick is a member of The Mamas, Beyonc&#233;'s background singers."</data>
+      <data key="d2">62eb374f3af609e440aa8a5519bd0717</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">78</data>
+      <data key="d5">7c49f2710e8b4d3b8dc9310834406ea5</data>
+    </node>
+    <node id="&quot;THE BEYONC&#201; EXPERIENCE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Beyonc&#233; Experience is a concert tour by Beyonc&#233; in 2007."</data>
+      <data key="d2">62eb374f3af609e440aa8a5519bd0717</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">79</data>
+      <data key="d5">c6d1e4f56c2843e89cf0b91c10bb6de2</data>
+    </node>
+    <node id="&quot;I AM... WORLD TOUR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"I Am... World Tour is a concert tour by Beyonc&#233; from 2009 to 2010."</data>
+      <data key="d2">62eb374f3af609e440aa8a5519bd0717</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">80</data>
+      <data key="d5">0adb2d9941f34ef7b2f7743cc6225844</data>
+    </node>
+    <node id="&quot;THE MRS. CARTER SHOW WORLD TOUR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Mrs. Carter Show World Tour is a concert tour by Beyonc&#233; from 2013 to 2014."</data>
+      <data key="d2">62eb374f3af609e440aa8a5519bd0717</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">81</data>
+      <data key="d5">6b02373137fd438ba96af28f735cdbdb</data>
+    </node>
+    <node id="&quot;PHOENIX HOUSE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Phoenix House is an organization of rehabilitation centers for heroin addicts around the country, which received a donation from Beyonc&#233;'s salary from Cadillac Records."</data>
+      <data key="d2">05fe6b467933eced006bacffdb4f8191</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">82</data>
+      <data key="d5">36a4fcd8efc144e6b8af9a1c7ab8b2ce</data>
+    </node>
+    <node id="&quot;ALI LARTER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ali Larter is an actress who starred opposite Beyonc&#233; in the thriller Obsessed."</data>
+      <data key="d2">05fe6b467933eced006bacffdb4f8191</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">83</data>
+      <data key="d5">fbeef791d19b413a9c93c6608286ab63</data>
+    </node>
+    <node id="&quot;IDRIS ELBA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Idris Elba is an actor who starred alongside Beyonc&#233; and Ali Larter in the thriller Obsessed."</data>
+      <data key="d2">05fe6b467933eced006bacffdb4f8191</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">84</data>
+      <data key="d5">d2b629c0396f4180a03e16ddf3818589</data>
+    </node>
+    <node id="&quot;CADILLAC RECORDS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Cadillac Records is a 2008 musical biopic film starring Beyonc&#233; as Etta James."</data>
+      <data key="d2">05fe6b467933eced006bacffdb4f8191</data>
+      <data key="d3">0</data>
+      <data key="d4">85</data>
+      <data key="d5">6102fc6619ed422ebc42588bfa97355d</data>
+    </node>
+    <node id="&quot;OBSESSED&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Obsessed is a thriller film released in 2009, starring Beyonc&#233;, Ali Larter, and Idris Elba."</data>
+      <data key="d2">05fe6b467933eced006bacffdb4f8191</data>
+      <data key="d3">0</data>
+      <data key="d4">86</data>
+      <data key="d5">8d141c0b80f74b79a05eed7fe161fe49</data>
+    </node>
+    <node id="&quot;JIM MORRISON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jim Morrison was the lead singer of The Doors and was arrested during a concert in New Haven in 1967."</data>
+      <data key="d2">11f71af43c1890e2690e5aa4d70fee07</data>
+      <data key="d3">2</data>
+      <data key="d4">87</data>
+      <data key="d5">e22d1d1cd8d14f12b81828d940f40d70</data>
+    </node>
+    <node id="&quot;THE DOORS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Doors is a rock group that performed at the New Haven Arena in 1967, where Jim Morrison was arrested."</data>
+      <data key="d2">11f71af43c1890e2690e5aa4d70fee07</data>
+      <data key="d3">1</data>
+      <data key="d4">88</data>
+      <data key="d5">9ab48505fb1b487babd0d1f6d3a3f980</data>
+    </node>
+    <node id="&quot;NEW HAVEN ARENA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New Haven Arena is a concert venue where The Doors performed and Jim Morrison was arrested in 1967."</data>
+      <data key="d2">11f71af43c1890e2690e5aa4d70fee07</data>
+      <data key="d3">2</data>
+      <data key="d4">89</data>
+      <data key="d5">148fffeb994541b2b4b6dcefda7001a8</data>
+    </node>
+    <node id="&quot;THE DOORS (1991)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Doors (1991) is a movie that portrays the event of Jim Morrison's arrest at the New Haven Arena."</data>
+      <data key="d2">11f71af43c1890e2690e5aa4d70fee07</data>
+      <data key="d3">1</data>
+      <data key="d4">90</data>
+      <data key="d5">89c08e793298442686292454a1abff31</data>
+    </node>
+    <node id="&quot;EUROSPEEDWAY LAUSITZ&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Eurospeedway Lausitz is a location in Germany where the Vaya Con Tioz festival was held."</data>
+      <data key="d2">c428234fc2efc2ac7a65eb80a9430957</data>
+      <data key="d3">1</data>
+      <data key="d4">91</data>
+      <data key="d5">0467928aa65e4a4fba62bdb1467e3a54</data>
+    </node>
+    <node id="&quot;VAYA CON TIOZ&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Vaya Con Tioz is a farewell show and festival performed by B&#246;hse Onkelz on 17-18 June 2005."</data>
+      <data key="d2">c428234fc2efc2ac7a65eb80a9430957</data>
+      <data key="d3">1</data>
+      <data key="d4">92</data>
+      <data key="d5">43c3390303c6476cb65f584e37c3e81c</data>
+    </node>
+    <node id="&quot;B&#214;HSE ONKELZ&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c428234fc2efc2ac7a65eb80a9430957</data>
+      <data key="d3">2</data>
+      <data key="d4">93</data>
+      <data key="d5">fa14b16c17e3417dba5a4b473ea5b18d</data>
+    </node>
+    <node id="&quot;AMALIE MATERNA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Amalie Materna was Hermine Kittel's singing teacher in Vienna."</data>
+      <data key="d2">7d340325bacd8f448ec2fdd1bcf6ff3d</data>
+      <data key="d3">1</data>
+      <data key="d4">94</data>
+      <data key="d5">7cc3356d38de4328a51a5cbcb187dac3</data>
+    </node>
+    <node id="&quot;GUSTAV MAHLER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gustav Mahler was a conductor at the Vienna Hofoper where Hermine Kittel sang under his direction."</data>
+      <data key="d2">7d340325bacd8f448ec2fdd1bcf6ff3d</data>
+      <data key="d3">1</data>
+      <data key="d4">95</data>
+      <data key="d5">bef16fb5fd7344cca5e295b13ef3e0cd</data>
+    </node>
+    <node id="&quot;VIENNA HOFOPER (VIENNA STATE OPERA)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Vienna Hofoper is an opera house in Vienna where Hermine Kittel sang under Gustav Mahler's direction."</data>
+      <data key="d2">7d340325bacd8f448ec2fdd1bcf6ff3d</data>
+      <data key="d3">1</data>
+      <data key="d4">96</data>
+      <data key="d5">bb9e01bc171d4326a29afda59ece8d17</data>
+    </node>
+    <node id="&quot;BAYREUTH FESTIVAL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Bayreuth Festival is a music festival where Hermine Kittel sang in 1902 and 1908."</data>
+      <data key="d2">7d340325bacd8f448ec2fdd1bcf6ff3d</data>
+      <data key="d3">1</data>
+      <data key="d4">97</data>
+      <data key="d5">3c063eea52e94164b70c99431ea30bae</data>
+    </node>
+    <node id="&quot;SALZBURG FESTIVAL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Salzburg Festival is a music festival where Hermine Kittel often played Marcellina in 'The Marriage of Figaro'."</data>
+      <data key="d2">7d340325bacd8f448ec2fdd1bcf6ff3d</data>
+      <data key="d3">1</data>
+      <data key="d4">98</data>
+      <data key="d5">252cc8452bfc4c2aa58cab68d8b61879</data>
+    </node>
+    <node id="&quot;VIENNA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Vienna is the city where Hermine Kittel was from and studied singing."</data>
+      <data key="d2">7d340325bacd8f448ec2fdd1bcf6ff3d</data>
+      <data key="d3">0</data>
+      <data key="d4">99</data>
+      <data key="d5">7e2c84548fb94ee395ba8588d8f2a006</data>
+    </node>
+    <node id="&quot;LJUBLJANA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ljubljana is the city where Hermine Kittel made her operatic debut in 1897."</data>
+      <data key="d2">7d340325bacd8f448ec2fdd1bcf6ff3d</data>
+      <data key="d3">0</data>
+      <data key="d4">100</data>
+      <data key="d5">f034618dde7948beb6dab30176d0fc87</data>
+    </node>
+    <node id="&quot;HERMINE KITTEL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7d340325bacd8f448ec2fdd1bcf6ff3d</data>
+      <data key="d3">5</data>
+      <data key="d4">101</data>
+      <data key="d5">5c41f96be13e49dba649454297834546</data>
+    </node>
+    <node id="&quot;ERNEST LLEWELLYN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ernest Llewellyn was a violinist who accompanied Essie Ackland on her tour of Australia."</data>
+      <data key="d2">855baa6ec425b8c9312f44afe7c954e4</data>
+      <data key="d3">0</data>
+      <data key="d4">102</data>
+      <data key="d5">7ea4afbf8a264f29af29950ce98105ba</data>
+    </node>
+    <node id="&quot;RAYMOND LAMBERT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Raymond Lambert was a pianist who accompanied Essie Ackland on her tour of Australia."</data>
+      <data key="d2">855baa6ec425b8c9312f44afe7c954e4</data>
+      <data key="d3">0</data>
+      <data key="d4">103</data>
+      <data key="d5">91ff849d12b24574b0691dbddf44968b</data>
+    </node>
+    <node id="&quot;NEW ZEALAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New Zealand is a country that Essie Ackland toured for two months after her Australian tour."</data>
+      <data key="d2">855baa6ec425b8c9312f44afe7c954e4</data>
+      <data key="d3">1</data>
+      <data key="d4">104</data>
+      <data key="d5">d73c1f2fb3094d8dace42ad2a76e9a52</data>
+    </node>
+    <node id="&quot;GREAT BRITAIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Great Britain is the country where Essie Ackland entertained Australian soldiers at her London home during World War II."</data>
+      <data key="d2">855baa6ec425b8c9312f44afe7c954e4</data>
+      <data key="d3">1</data>
+      <data key="d4">105</data>
+      <data key="d5">cdc8901e668749889bd49bebdc4ff1f6</data>
+    </node>
+    <node id="&quot;SYDNEY TOWN HALL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Sydney Town Hall was the venue for Essie Ackland's first concert in Sydney on 13 March 1937."</data>
+      <data key="d2">855baa6ec425b8c9312f44afe7c954e4</data>
+      <data key="d3">0</data>
+      <data key="d4">106</data>
+      <data key="d5">36084a9fab53433493f079e97e68bf65</data>
+    </node>
+    <node id="&quot;ESSIE ACKLAND&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">855baa6ec425b8c9312f44afe7c954e4</data>
+      <data key="d3">3</data>
+      <data key="d4">107</data>
+      <data key="d5">eebcc7ec8e3e4df7aea83659bbdc2199</data>
+    </node>
+    <node id="&quot;VAN MORRISON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Van Morrison is a musician who sang Gilmour's vocal parts in the 1990 performance of 'Comfortably Numb'."</data>
+      <data key="d2">e2799317b17bcf8eed82ab2575fb47d7</data>
+      <data key="d3">1</data>
+      <data key="d4">108</data>
+      <data key="d5">ceadf262ef834e9ab146b20650912cae</data>
+    </node>
+    <node id="&quot;RICK DANKO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Rick Danko is a musician who provided backup vocals for the 1990 performance of 'Comfortably Numb'."</data>
+      <data key="d2">e2799317b17bcf8eed82ab2575fb47d7</data>
+      <data key="d3">0</data>
+      <data key="d4">109</data>
+      <data key="d5">7f65feab75424b53b24470d305ba331a</data>
+    </node>
+    <node id="&quot;LEVON HELM&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Levon Helm is a musician who provided backup vocals for the 1990 performance of 'Comfortably Numb'."</data>
+      <data key="d2">e2799317b17bcf8eed82ab2575fb47d7</data>
+      <data key="d3">0</data>
+      <data key="d4">110</data>
+      <data key="d5">fd9cb733b28d420cb5cef01e545a132c</data>
+    </node>
+    <node id="&quot;RICK DI FONZO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Rick Di Fonzo is a musician who played guitar solos in the 1990 performance of 'Comfortably Numb'."</data>
+      <data key="d2">e2799317b17bcf8eed82ab2575fb47d7</data>
+      <data key="d3">0</data>
+      <data key="d4">111</data>
+      <data key="d5">0fbcca3f17c649a08aea64b5a7d9ef36</data>
+    </node>
+    <node id="&quot;SNOWY WHITE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Snowy White is a musician who played guitar solos in the 1990 performance of 'Comfortably Numb'."</data>
+      <data key="d2">e2799317b17bcf8eed82ab2575fb47d7</data>
+      <data key="d3">0</data>
+      <data key="d4">112</data>
+      <data key="d5">482027a59f32484c9c44fd700615c1b6</data>
+    </node>
+    <node id="&quot;RUNDFUNK ORCHESTRA &amp; CHOIR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Rundfunk Orchestra &amp; Choir provided backup for the 1990 performance of 'Comfortably Numb'."</data>
+      <data key="d2">e2799317b17bcf8eed82ab2575fb47d7</data>
+      <data key="d3">0</data>
+      <data key="d4">113</data>
+      <data key="d5">de837ff3d626451282ff6ac77a82216d</data>
+    </node>
+    <node id="&quot;MARTIN SCORSESE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Martin Scorsese is a film director who used the 1990 version of 'Comfortably Numb' in his Academy Award-winning film The Departed."</data>
+      <data key="d2">e2799317b17bcf8eed82ab2575fb47d7</data>
+      <data key="d3">0</data>
+      <data key="d4">114</data>
+      <data key="d5">460295fed3ae4cd39f9f274cec9c2506</data>
+    </node>
+    <node id="&quot;THE WALL -- LIVE IN BERLIN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Wall -- Live in Berlin was a concert event held on July 21, 1990, to commemorate the fall of the Berlin Wall."</data>
+      <data key="d2">e2799317b17bcf8eed82ab2575fb47d7</data>
+      <data key="d3">1</data>
+      <data key="d4">115</data>
+      <data key="d5">553b285bba60460ab1ed8341ae61282b</data>
+    </node>
+    <node id="&quot;THE DEPARTED&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Departed is an Academy Award-winning film released in 2006 that features the 1990 version of 'Comfortably Numb'."</data>
+      <data key="d2">e2799317b17bcf8eed82ab2575fb47d7</data>
+      <data key="d3">0</data>
+      <data key="d4">116</data>
+      <data key="d5">cec95bf17e7e4c939b56c9c6f402a29f</data>
+    </node>
+    <node id="&quot;THE SOPRANOS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Sopranos is a TV show that featured the 1990 version of 'Comfortably Numb' in an episode titled 'Kennedy and Heidi'."</data>
+      <data key="d2">e2799317b17bcf8eed82ab2575fb47d7</data>
+      <data key="d3">0</data>
+      <data key="d4">117</data>
+      <data key="d5">599164aead034bc19446efacc77554d2</data>
+    </node>
+    <node id="&quot;VAN MORRISON AT THE MOVIES -- SOUNDTRACK HITS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e2799317b17bcf8eed82ab2575fb47d7</data>
+      <data key="d3">1</data>
+      <data key="d4">118</data>
+      <data key="d5">bbf148ae4d48422f8fdef754cfa2b9e4</data>
+    </node>
+    <node id="&quot;BERLIN WALL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e2799317b17bcf8eed82ab2575fb47d7</data>
+      <data key="d3">1</data>
+      <data key="d4">119</data>
+      <data key="d5">de61b2670999433f807a6a1dc2b81e43</data>
+    </node>
+    <node id="&quot;RENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Rent is a Broadway show where Odom made his debut at the age of 17."</data>
+      <data key="d2">8c2fda1627291fc200b4027076b9b1c7</data>
+      <data key="d3">1</data>
+      <data key="d4">120</data>
+      <data key="d5">3e95dacfe57b4d57b5da4310ef2e157f</data>
+    </node>
+    <node id="&quot;ODOM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8c2fda1627291fc200b4027076b9b1c7</data>
+      <data key="d3">2</data>
+      <data key="d4">121</data>
+      <data key="d5">1f1545308e9347af91fd03b94aadc21f</data>
+    </node>
+    <node id="&quot;SASHA FIERCE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sasha Fierce is Beyonc&#233;'s alter ego, described as aggressive, strong, sassy, and sexy, which was introduced in 2008 and later revived in 2012."</data>
+      <data key="d2">83ec2c1bcea12ba9787f29e256193191</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">122</data>
+      <data key="d5">6ea81acaf232485e94fff638e03336e1</data>
+    </node>
+    <node id="&quot;ALLURE MAGAZINE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Allure magazine is a publication where Beyonc&#233; gave an interview in 2010, discussing her comfort with herself and the retirement of Sasha Fierce."</data>
+      <data key="d2">83ec2c1bcea12ba9787f29e256193191</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">123</data>
+      <data key="d5">d136b08d586d488f9e4188b524c85a29</data>
+    </node>
+    <node id="&quot;REVEL PRESENTS: BEYONC&#201; LIVE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Revel Presents: Beyonc&#233; Live is a series of shows where Beyonc&#233; revived Sasha Fierce in May 2012."</data>
+      <data key="d2">83ec2c1bcea12ba9787f29e256193191</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">124</data>
+      <data key="d5">cccfa151fedc4b218a8d96adc7dceabe</data>
+    </node>
+    <edge source="&quot;BEN AFFLECK&quot;" target="&quot;TOUCHSTONE PICTURES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ben Affleck was initially attached to Touchstone Pictures' project Ghosts of Girlfriends Past but opted out."</data>
+      <data key="d10">39a18c8517d8758a552b464c5724789b</data>
+      <data key="d11">ce54725672a74ebcabe6127577dacb2b</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MICHAEL DOUGLAS&quot;" target="&quot;ANNE ARCHER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Michael Douglas and Anne Archer star together in Ghosts of Girlfriends Past, their first collaboration since Fatal Attraction in 1987."</data>
+      <data key="d10">39a18c8517d8758a552b464c5724789b</data>
+      <data key="d11">ea2b28ca1a974ffab4517811dc1d1e5c</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JENNIFER GARNER&quot;" target="&quot;CHRISTA B. ALLEN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jennifer Garner and Christa B. Allen play the older and younger versions of the same character in Ghosts of Girlfriends Past."</data>
+      <data key="d10">39a18c8517d8758a552b464c5724789b</data>
+      <data key="d11">aff21f1da1654e7babdcf3fb0e4a75fc</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">18.0</data>
+      <data key="d9">"Tucson is the county seat of Pima County."</data>
+      <data key="d10">0200fc59f8c8c01504a50e4801f1ce39,05fe6b467933eced006bacffdb4f8191,11f71af43c1890e2690e5aa4d70fee07,39a18c8517d8758a552b464c5724789b,62eb374f3af609e440aa8a5519bd0717,6c7bd460940d0c0a4242944dfd3f81da,75749b38430c45c14aff59a422debc4e,7d340325bacd8f448ec2fdd1bcf6ff3d,83ec2c1bcea12ba9787f29e256193191,855baa6ec425b8c9312f44afe7c954e4,8c2fda1627291fc200b4027076b9b1c7,918341ffd9fe77e1131c831977c4db59,93c1140c886489c42d49f2ab9c876334,c428234fc2efc2ac7a65eb80a9430957,d5377939e630cb37a23adf4a5312263f,e2799317b17bcf8eed82ab2575fb47d7,e36c24af44d6aabdfc1281dd53de0932,eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d11">dc2cc9016e3f49dbac7232f05cce794d</data>
+      <data key="d12">3</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d8">18.0</data>
+      <data key="d9">"Pima County is a county in Arizona."</data>
+      <data key="d10">0200fc59f8c8c01504a50e4801f1ce39,05fe6b467933eced006bacffdb4f8191,11f71af43c1890e2690e5aa4d70fee07,39a18c8517d8758a552b464c5724789b,62eb374f3af609e440aa8a5519bd0717,6c7bd460940d0c0a4242944dfd3f81da,75749b38430c45c14aff59a422debc4e,7d340325bacd8f448ec2fdd1bcf6ff3d,83ec2c1bcea12ba9787f29e256193191,855baa6ec425b8c9312f44afe7c954e4,8c2fda1627291fc200b4027076b9b1c7,918341ffd9fe77e1131c831977c4db59,93c1140c886489c42d49f2ab9c876334,c428234fc2efc2ac7a65eb80a9430957,d5377939e630cb37a23adf4a5312263f,e2799317b17bcf8eed82ab2575fb47d7,e36c24af44d6aabdfc1281dd53de0932,eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d11">6ea0cef05f694dcea455478f40674e45</data>
+      <data key="d12">4</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">18.0</data>
+      <data key="d9">"The University of Arizona is located in Tucson."</data>
+      <data key="d10">0200fc59f8c8c01504a50e4801f1ce39,05fe6b467933eced006bacffdb4f8191,11f71af43c1890e2690e5aa4d70fee07,39a18c8517d8758a552b464c5724789b,62eb374f3af609e440aa8a5519bd0717,6c7bd460940d0c0a4242944dfd3f81da,75749b38430c45c14aff59a422debc4e,7d340325bacd8f448ec2fdd1bcf6ff3d,83ec2c1bcea12ba9787f29e256193191,855baa6ec425b8c9312f44afe7c954e4,8c2fda1627291fc200b4027076b9b1c7,918341ffd9fe77e1131c831977c4db59,93c1140c886489c42d49f2ab9c876334,c428234fc2efc2ac7a65eb80a9430957,d5377939e630cb37a23adf4a5312263f,e2799317b17bcf8eed82ab2575fb47d7,e36c24af44d6aabdfc1281dd53de0932,eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d11">7ab5d53a872f4dfc98f3d386879f3c75</data>
+      <data key="d12">5</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d8">18.0</data>
+      <data key="d9">"Arizona is a state in the United States."</data>
+      <data key="d10">0200fc59f8c8c01504a50e4801f1ce39,05fe6b467933eced006bacffdb4f8191,11f71af43c1890e2690e5aa4d70fee07,39a18c8517d8758a552b464c5724789b,62eb374f3af609e440aa8a5519bd0717,6c7bd460940d0c0a4242944dfd3f81da,75749b38430c45c14aff59a422debc4e,7d340325bacd8f448ec2fdd1bcf6ff3d,83ec2c1bcea12ba9787f29e256193191,855baa6ec425b8c9312f44afe7c954e4,8c2fda1627291fc200b4027076b9b1c7,918341ffd9fe77e1131c831977c4db59,93c1140c886489c42d49f2ab9c876334,c428234fc2efc2ac7a65eb80a9430957,d5377939e630cb37a23adf4a5312263f,e2799317b17bcf8eed82ab2575fb47d7,e36c24af44d6aabdfc1281dd53de0932,eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d11">af1d0fec22114a3398b8016f5225f9ed</data>
+      <data key="d12">6</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">18.0</data>
+      <data key="d9">"Tucson is a city in Arizona."</data>
+      <data key="d10">0200fc59f8c8c01504a50e4801f1ce39,05fe6b467933eced006bacffdb4f8191,11f71af43c1890e2690e5aa4d70fee07,39a18c8517d8758a552b464c5724789b,62eb374f3af609e440aa8a5519bd0717,6c7bd460940d0c0a4242944dfd3f81da,75749b38430c45c14aff59a422debc4e,7d340325bacd8f448ec2fdd1bcf6ff3d,83ec2c1bcea12ba9787f29e256193191,855baa6ec425b8c9312f44afe7c954e4,8c2fda1627291fc200b4027076b9b1c7,918341ffd9fe77e1131c831977c4db59,93c1140c886489c42d49f2ab9c876334,c428234fc2efc2ac7a65eb80a9430957,d5377939e630cb37a23adf4a5312263f,e2799317b17bcf8eed82ab2575fb47d7,e36c24af44d6aabdfc1281dd53de0932,eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d11">b07a7f088364459098cd8511ff27a4c8</data>
+      <data key="d12">7</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d8">18.0</data>
+      <data key="d9">"Phoenix is a city in Arizona."</data>
+      <data key="d10">0200fc59f8c8c01504a50e4801f1ce39,05fe6b467933eced006bacffdb4f8191,11f71af43c1890e2690e5aa4d70fee07,39a18c8517d8758a552b464c5724789b,62eb374f3af609e440aa8a5519bd0717,6c7bd460940d0c0a4242944dfd3f81da,75749b38430c45c14aff59a422debc4e,7d340325bacd8f448ec2fdd1bcf6ff3d,83ec2c1bcea12ba9787f29e256193191,855baa6ec425b8c9312f44afe7c954e4,8c2fda1627291fc200b4027076b9b1c7,918341ffd9fe77e1131c831977c4db59,93c1140c886489c42d49f2ab9c876334,c428234fc2efc2ac7a65eb80a9430957,d5377939e630cb37a23adf4a5312263f,e2799317b17bcf8eed82ab2575fb47d7,e36c24af44d6aabdfc1281dd53de0932,eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d11">8870cf2b5df64d2cab5820f67e29b9f1</data>
+      <data key="d12">8</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">18.0</data>
+      <data key="d9">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d10">0200fc59f8c8c01504a50e4801f1ce39,05fe6b467933eced006bacffdb4f8191,11f71af43c1890e2690e5aa4d70fee07,39a18c8517d8758a552b464c5724789b,62eb374f3af609e440aa8a5519bd0717,6c7bd460940d0c0a4242944dfd3f81da,75749b38430c45c14aff59a422debc4e,7d340325bacd8f448ec2fdd1bcf6ff3d,83ec2c1bcea12ba9787f29e256193191,855baa6ec425b8c9312f44afe7c954e4,8c2fda1627291fc200b4027076b9b1c7,918341ffd9fe77e1131c831977c4db59,93c1140c886489c42d49f2ab9c876334,c428234fc2efc2ac7a65eb80a9430957,d5377939e630cb37a23adf4a5312263f,e2799317b17bcf8eed82ab2575fb47d7,e36c24af44d6aabdfc1281dd53de0932,eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d11">cd130938a2844050be991af70baf5ee0</data>
+      <data key="d12">9</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d8">18.0</data>
+      <data key="d9">"Mexico shares an international border with the United States."</data>
+      <data key="d10">0200fc59f8c8c01504a50e4801f1ce39,05fe6b467933eced006bacffdb4f8191,11f71af43c1890e2690e5aa4d70fee07,39a18c8517d8758a552b464c5724789b,62eb374f3af609e440aa8a5519bd0717,6c7bd460940d0c0a4242944dfd3f81da,75749b38430c45c14aff59a422debc4e,7d340325bacd8f448ec2fdd1bcf6ff3d,83ec2c1bcea12ba9787f29e256193191,855baa6ec425b8c9312f44afe7c954e4,8c2fda1627291fc200b4027076b9b1c7,918341ffd9fe77e1131c831977c4db59,93c1140c886489c42d49f2ab9c876334,c428234fc2efc2ac7a65eb80a9430957,d5377939e630cb37a23adf4a5312263f,e2799317b17bcf8eed82ab2575fb47d7,e36c24af44d6aabdfc1281dd53de0932,eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d11">43544b99c3b04b059546198a0ae6366d</data>
+      <data key="d12">10</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">18.0</data>
+      <data key="d9">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d10">0200fc59f8c8c01504a50e4801f1ce39,05fe6b467933eced006bacffdb4f8191,11f71af43c1890e2690e5aa4d70fee07,39a18c8517d8758a552b464c5724789b,62eb374f3af609e440aa8a5519bd0717,6c7bd460940d0c0a4242944dfd3f81da,75749b38430c45c14aff59a422debc4e,7d340325bacd8f448ec2fdd1bcf6ff3d,83ec2c1bcea12ba9787f29e256193191,855baa6ec425b8c9312f44afe7c954e4,8c2fda1627291fc200b4027076b9b1c7,918341ffd9fe77e1131c831977c4db59,93c1140c886489c42d49f2ab9c876334,c428234fc2efc2ac7a65eb80a9430957,d5377939e630cb37a23adf4a5312263f,e2799317b17bcf8eed82ab2575fb47d7,e36c24af44d6aabdfc1281dd53de0932,eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d11">a671bf7fea2f4514b6e96ba99127fafd</data>
+      <data key="d12">11</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DOWNTOWN RALEIGH AMPHITHEATER&quot;" target="&quot;RALEIGH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Downtown Raleigh Amphitheater is located in Raleigh and hosts numerous concerts primarily in the summer months."</data>
+      <data key="d10">e36c24af44d6aabdfc1281dd53de0932</data>
+      <data key="d11">525f41ea20274a05af4e52b625b473f3</data>
+      <data key="d12">12</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NORTH CAROLINA MUSEUM OF ART&quot;" target="&quot;RALEIGH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The North Carolina Museum of Art is located in or near Raleigh and hosts a summer concert series and outdoor movies."</data>
+      <data key="d10">e36c24af44d6aabdfc1281dd53de0932</data>
+      <data key="d11">071a416efbec4f0886c19ac68f6d43cb</data>
+      <data key="d12">13</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;KOKA BOOTH AMPHITHEATRE&quot;" target="&quot;CARY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Koka Booth Amphitheatre is located in Cary and hosts additional summer concerts and outdoor movies."</data>
+      <data key="d10">e36c24af44d6aabdfc1281dd53de0932</data>
+      <data key="d11">6d8473ef3b1042bf87178a611e3dbcc6</data>
+      <data key="d12">14</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NORTH CAROLINA SYMPHONY&quot;" target="&quot;RALEIGH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The North Carolina Symphony is based in Raleigh and performs at various venues, including the Koka Booth Amphitheatre."</data>
+      <data key="d10">e36c24af44d6aabdfc1281dd53de0932</data>
+      <data key="d11">30c9641543c24773938bd8ec57ea98ab</data>
+      <data key="d12">15</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TIME WARNER CABLE MUSIC PAVILION AT WALNUT CREEK&quot;" target="&quot;RALEIGH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Time Warner Cable Music Pavilion at Walnut Creek is located in or near Raleigh, hosting major international touring acts."</data>
+      <data key="d10">e36c24af44d6aabdfc1281dd53de0932</data>
+      <data key="d11">18b839da898e4026b81727d759d95c6a</data>
+      <data key="d12">16</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BRENT TITCOMB&quot;" target="&quot;CLIFFORD THE BIG RED DOG&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Brent Titcomb originally voiced Clifford in the 1988 direct-to-video series."</data>
+      <data key="d10">d5377939e630cb37a23adf4a5312263f</data>
+      <data key="d11">eeef6ae5c464400c8755900b4f1ac37a</data>
+      <data key="d12">17</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CLIFFORD THE BIG RED DOG&quot;" target="&quot;JOHN RITTER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"John Ritter voiced Clifford in all episodes of Clifford the Big Red Dog."</data>
+      <data key="d10">d5377939e630cb37a23adf4a5312263f</data>
+      <data key="d11">422433aa45804c7ebb973b2fafce5da6</data>
+      <data key="d12">18</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CLIFFORD THE BIG RED DOG&quot;" target="&quot;PBS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"PBS debuted Clifford's Puppy Days, a show that continued Clifford's legacy after John Ritter's death."</data>
+      <data key="d10">d5377939e630cb37a23adf4a5312263f</data>
+      <data key="d11">86505bca739d4bccaaa1a8e0f3baffdc</data>
+      <data key="d12">19</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ABC&quot;" target="&quot;JOHN RITTER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"John Ritter starred in 8 Simple Rules on ABC's prime-time schedule."</data>
+      <data key="d10">d5377939e630cb37a23adf4a5312263f</data>
+      <data key="d11">1af9faf341e14a5bbf4ddc9080e8dc0b</data>
+      <data key="d12">20</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CASS DILLON&quot;" target="&quot;DECEMBER 11, 2008&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Cass Dillon did not perform with Joel on December 11, 2008, as he sang on the 2007 studio recording of 'Christmas in Fallujah'."&gt;</data>
+      <data key="d10">eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d11">353d91abc68648639d65a549e59b5cf3</data>
+      <data key="d12">21</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ACER ARENA&quot;" target="&quot;JOEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Joel performed at Acer Arena in Sydney where he recorded his rendition of 'Christmas in Fallujah'."&gt;</data>
+      <data key="d10">eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d11">7ce637e4f35b42e3a9f8272cab69cd22</data>
+      <data key="d12">22</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SYDNEY&quot;" target="&quot;JOEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Joel performed in Sydney during a concert at Acer Arena where he recorded his rendition of 'Christmas in Fallujah'."&gt;</data>
+      <data key="d10">eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d11">4d999d7744b04a998475f8f8531589f0</data>
+      <data key="d12">23</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AUSTRALIA&quot;" target="&quot;JOEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Joel released his live single of 'Christmas in Fallujah' and toured in Australia in December 2008."</data>
+      <data key="d10">eece805569ebff80f51b74a09ecde63f</data>
+      <data key="d11">9a6f414210e14841a5b0e661aedc898d</data>
+      <data key="d12">24</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AUSTRALIA&quot;" target="&quot;ESSIE ACKLAND&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Essie Ackland toured Australia in 1937, performing concerts and entertaining soldiers during World War II."</data>
+      <data key="d10">855baa6ec425b8c9312f44afe7c954e4</data>
+      <data key="d11">db541b7260974db8bac94e953009f60e</data>
+      <data key="d12">25</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LIONSGATE&quot;" target="&quot;SABAN CAPITAL GROUP&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Saban Capital Group and Lionsgate are organizations involved in the production of the film, announcing it together."</data>
+      <data key="d10">75749b38430c45c14aff59a422debc4e</data>
+      <data key="d11">f2ff8044718648e18acef16dd9a65436</data>
+      <data key="d12">26</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LIONSGATE&quot;" target="&quot;BRIAN TYLER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Brian Tyler composed the music for the film produced by Lionsgate."</data>
+      <data key="d10">75749b38430c45c14aff59a422debc4e</data>
+      <data key="d11">00d785e7d76b47ec81b508e768d40584</data>
+      <data key="d12">27</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ROBERTO ORCI&quot;" target="&quot;STAR TREK BEYOND&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Roberto Orci left the project to work on Star Trek Beyond."</data>
+      <data key="d10">75749b38430c45c14aff59a422debc4e</data>
+      <data key="d11">87915637da3e474c9349bd0ae604bd95</data>
+      <data key="d12">28</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DEAN ISRAELITE&quot;" target="&quot;SABAN CAPITAL GROUP&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Dean Israelite directed the film produced by Saban Capital Group."</data>
+      <data key="d10">75749b38430c45c14aff59a422debc4e</data>
+      <data key="d11">8f1eba29f39e411188200bf0d14628ec</data>
+      <data key="d12">29</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MUAMMAR GADDAFI&quot;" target="&quot;BEYONC&#201;&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Beyonc&#233; performed for Muammar Gaddafi's family, but later donated the earnings to charity."</data>
+      <data key="d10">0200fc59f8c8c01504a50e4801f1ce39</data>
+      <data key="d11">7282c73622b8408e97289d959faff483</data>
+      <data key="d12">30</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CLINTON BUSH HAITI FUND&quot;" target="&quot;BEYONC&#201;&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Beyonc&#233; donated her earnings from performing for the Gaddafi family to the Clinton Bush Haiti Fund."</data>
+      <data key="d10">0200fc59f8c8c01504a50e4801f1ce39</data>
+      <data key="d11">3deb220d31f74103aa44870a36a63220</data>
+      <data key="d12">31</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ROLLING STONE&quot;" target="&quot;MUSIC INDUSTRY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Rolling Stone reported on the music industry's reaction to Beyonc&#233;'s performance for the Gaddafi family."</data>
+      <data key="d10">0200fc59f8c8c01504a50e4801f1ce39</data>
+      <data key="d11">af7a1584dd15492cb9a4940e285f57fc</data>
+      <data key="d12">32</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BEYONC&#201;&quot;" target="&quot;MICHAEL JACKSON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Beyonc&#233; credits Michael Jackson as her major musical influence."</data>
+      <data key="d10">93c1140c886489c42d49f2ab9c876334</data>
+      <data key="d11">6e8d9029ce4e4ea182367173ab2c7bbf</data>
+      <data key="d12">33</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BEYONC&#201;&quot;" target="&quot;DIANA ROSS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Beyonc&#233; admires Diana Ross as an all-around entertainer."</data>
+      <data key="d10">93c1140c886489c42d49f2ab9c876334</data>
+      <data key="d11">cbf232211e7d4eb6abdbe182f71c2cf0</data>
+      <data key="d12">34</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BEYONC&#201;&quot;" target="&quot;WHITNEY HOUSTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Beyonc&#233; was inspired by Whitney Houston to perform."</data>
+      <data key="d10">93c1140c886489c42d49f2ab9c876334</data>
+      <data key="d11">bb0cff774a4440b289cc6f3b929fe13c</data>
+      <data key="d12">35</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BEYONC&#201;&quot;" target="&quot;MARIAH CAREY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Beyonc&#233;'s vocal practice as a child was influenced by Mariah Carey's singing."</data>
+      <data key="d10">93c1140c886489c42d49f2ab9c876334</data>
+      <data key="d11">ce55841ebfdd47008bab8c258f10372e</data>
+      <data key="d12">36</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BEYONC&#201;&quot;" target="&quot;JOSEPHINE BAKER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Beyonc&#233; drew inspiration from Josephine Baker for her feminism and female empowerment themes in B'Day."</data>
+      <data key="d10">918341ffd9fe77e1131c831977c4db59</data>
+      <data key="d11">6090e736374d45fd84f0e4610a314f8f</data>
+      <data key="d12">37</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BEYONC&#201;&quot;" target="&quot;JAY Z&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jay Z inspired Beyonc&#233;'s third solo album I Am... Sasha Fierce."</data>
+      <data key="d10">918341ffd9fe77e1131c831977c4db59</data>
+      <data key="d11">0e8d921ccd8d4a8594b65b7fd19f7120</data>
+      <data key="d12">38</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BEYONC&#201;&quot;" target="&quot;ETTA JAMES&quot;">
+      <data key="d8">2.0</data>
+      <data key="d9">Here is a comprehensive summary of the data:
+
+Beyonc&#233; and Etta James were two influential figures in the music industry. In 2008, Beyonc&#233; portrayed Etta James in the musical biopic Cadillac Records, showcasing her acting skills and paying tribute to the legendary singer. Etta James' boldness and legacy had a profound impact on Beyonc&#233;, inspiring her to explore new musical genres and styles in her third solo album I Am... Sasha Fierce.</data>
+      <data key="d10">05fe6b467933eced006bacffdb4f8191,918341ffd9fe77e1131c831977c4db59</data>
+      <data key="d11">59c726a8792d443e84ab052cb7942b4a</data>
+      <data key="d12">39</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BEYONC&#201;&quot;" target="&quot;FELA KUTI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Fela Kuti was an inspiration for Beyonc&#233;'s fourth solo album, 4."</data>
+      <data key="d10">918341ffd9fe77e1131c831977c4db59</data>
+      <data key="d11">4f2c665decf242b0bfcaf7350b0e02ed</data>
+      <data key="d12">40</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BEYONC&#201;&quot;" target="&quot;SUGA MAMA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Beyonc&#233; introduced and leads the all-female tour band Suga Mama."</data>
+      <data key="d10">62eb374f3af609e440aa8a5519bd0717</data>
+      <data key="d11">66cdf168f36d4a57a505028c97dc06e0</data>
+      <data key="d12">41</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BEYONC&#201;&quot;" target="&quot;THE MAMAS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Mamas are Beyonc&#233;'s background singers."</data>
+      <data key="d10">62eb374f3af609e440aa8a5519bd0717</data>
+      <data key="d11">38f51478f41f48db9bee570859b6f43e</data>
+      <data key="d12">42</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BEYONC&#201;&quot;" target="&quot;THE BEYONC&#201; EXPERIENCE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Beyonc&#233; performed in the concert tour The Beyonc&#233; Experience."</data>
+      <data key="d10">62eb374f3af609e440aa8a5519bd0717</data>
+      <data key="d11">896d2a51e8de47de85ba8ced108c3d53</data>
+      <data key="d12">43</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BEYONC&#201;&quot;" target="&quot;I AM... WORLD TOUR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Beyonc&#233; performed in the concert tour I Am... World Tour."</data>
+      <data key="d10">62eb374f3af609e440aa8a5519bd0717</data>
+      <data key="d11">14555b518e954637b83aa762dc03164e</data>
+      <data key="d12">44</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BEYONC&#201;&quot;" target="&quot;THE MRS. CARTER SHOW WORLD TOUR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Beyonc&#233; performed in the concert tour The Mrs. Carter Show World Tour."</data>
+      <data key="d10">62eb374f3af609e440aa8a5519bd0717</data>
+      <data key="d11">b1f6164116d44fe8b8f135d7f65b9e58</data>
+      <data key="d12">45</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BEYONC&#201;&quot;" target="&quot;PHOENIX HOUSE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Beyonc&#233; donated her salary from Cadillac Records to Phoenix House."</data>
+      <data key="d10">05fe6b467933eced006bacffdb4f8191</data>
+      <data key="d11">c8b2408617804483b620e1a6691ac90d</data>
+      <data key="d12">46</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BEYONC&#201;&quot;" target="&quot;ALI LARTER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Beyonc&#233; and Ali Larter starred together in the thriller Obsessed."</data>
+      <data key="d10">05fe6b467933eced006bacffdb4f8191</data>
+      <data key="d11">a5e0d1644eb547ba9a5c3211aac4631a</data>
+      <data key="d12">47</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BEYONC&#201;&quot;" target="&quot;IDRIS ELBA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Beyonc&#233;, Ali Larter, and Idris Elba starred together in the thriller Obsessed."</data>
+      <data key="d10">05fe6b467933eced006bacffdb4f8191</data>
+      <data key="d11">5a28b94bc63b44edb30c54748fd14f15</data>
+      <data key="d12">48</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BEYONC&#201;&quot;" target="&quot;SASHA FIERCE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Beyonc&#233; created and portrayed Sasha Fierce as her alter ego, separating her stage persona from her real-life personality."</data>
+      <data key="d10">83ec2c1bcea12ba9787f29e256193191</data>
+      <data key="d11">f97011b2a99d44648e18d517e1eae15c</data>
+      <data key="d12">49</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BEYONC&#201;&quot;" target="&quot;ALLURE MAGAZINE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Beyonc&#233; gave an interview to Allure magazine in 2010, discussing her relationship with Sasha Fierce."</data>
+      <data key="d10">83ec2c1bcea12ba9787f29e256193191</data>
+      <data key="d11">35489ca6a63b47d6a8913cf333818bc1</data>
+      <data key="d12">50</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LOOK SHARP!&quot;" target="&quot;JOE JACKSON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Joe Jackson is the artist behind the album Look Sharp!, which features the single 'Is She Really Going Out with Him?'."</data>
+      <data key="d10">6c7bd460940d0c0a4242944dfd3f81da</data>
+      <data key="d11">5d3344f45e654d2c808481672f2f08dd</data>
+      <data key="d12">51</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DREAMGIRLS&quot;" target="&quot;ODOM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Odom appeared in the ensemble of the one-night Broadway concert version of Dreamgirls in 2000."</data>
+      <data key="d10">8c2fda1627291fc200b4027076b9b1c7</data>
+      <data key="d11">6fb57f83baec45c9b30490ee991f433f</data>
+      <data key="d12">52</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;THE MAMAS&quot;" target="&quot;MONTINA COOPER-DONNELL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Montina Cooper-Donnell is a member of The Mamas."</data>
+      <data key="d10">62eb374f3af609e440aa8a5519bd0717</data>
+      <data key="d11">68762e6f0d1c41cd857c6b964a8e76c3</data>
+      <data key="d12">53</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;THE MAMAS&quot;" target="&quot;CRYSTAL COLLINS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Crystal Collins is a member of The Mamas."</data>
+      <data key="d10">62eb374f3af609e440aa8a5519bd0717</data>
+      <data key="d11">70634e10a5e845aa8c6a32fe7e8eb2b2</data>
+      <data key="d12">54</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;THE MAMAS&quot;" target="&quot;TIFFANY MONIQU&#201; RIDDICK&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Tiffany Moniqu&#233; Riddick is a member of The Mamas."</data>
+      <data key="d10">62eb374f3af609e440aa8a5519bd0717</data>
+      <data key="d11">04085f7cf46544b79597fc49286ff84d</data>
+      <data key="d12">55</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JIM MORRISON&quot;" target="&quot;NEW HAVEN ARENA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jim Morrison was arrested during a concert at the New Haven Arena in 1967."</data>
+      <data key="d10">11f71af43c1890e2690e5aa4d70fee07</data>
+      <data key="d11">d203efdbfb2f4b2a899abfb31cf72e82</data>
+      <data key="d12">56</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JIM MORRISON&quot;" target="&quot;THE DOORS (1991)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The movie The Doors (1991) portrays the event of Jim Morrison's arrest."</data>
+      <data key="d10">11f71af43c1890e2690e5aa4d70fee07</data>
+      <data key="d11">6731a665561840c2898ce8c9788e4c88</data>
+      <data key="d12">57</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;THE DOORS&quot;" target="&quot;NEW HAVEN ARENA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Doors performed at the New Haven Arena, where Jim Morrison was arrested."</data>
+      <data key="d10">11f71af43c1890e2690e5aa4d70fee07</data>
+      <data key="d11">4026806fa92f4e849a59a7f5c9a45c79</data>
+      <data key="d12">58</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;EUROSPEEDWAY LAUSITZ&quot;" target="&quot;B&#214;HSE ONKELZ&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The band B&#246;hse Onkelz performed at the Eurospeedway Lausitz during their Vaya Con Tioz festival."</data>
+      <data key="d10">c428234fc2efc2ac7a65eb80a9430957</data>
+      <data key="d11">68e0c60d2e8845d89d9d0ad397833648</data>
+      <data key="d12">59</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VAYA CON TIOZ&quot;" target="&quot;B&#214;HSE ONKELZ&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"B&#246;hse Onkelz is the main performer of the Vaya Con Tioz festival, which was also their farewell show."</data>
+      <data key="d10">c428234fc2efc2ac7a65eb80a9430957</data>
+      <data key="d11">101572f552b54e529fe7765c05168981</data>
+      <data key="d12">60</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AMALIE MATERNA&quot;" target="&quot;HERMINE KITTEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hermine Kittel studied singing with Amalie Materna."</data>
+      <data key="d10">7d340325bacd8f448ec2fdd1bcf6ff3d</data>
+      <data key="d11">60c58026b2764b40adffca6eaa31d6d9</data>
+      <data key="d12">61</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GUSTAV MAHLER&quot;" target="&quot;HERMINE KITTEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hermine Kittel sang under Gustav Mahler's direction at the Vienna Hofoper."</data>
+      <data key="d10">7d340325bacd8f448ec2fdd1bcf6ff3d</data>
+      <data key="d11">ad1595a78935472999444c9330e7730e</data>
+      <data key="d12">62</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VIENNA HOFOPER (VIENNA STATE OPERA)&quot;" target="&quot;HERMINE KITTEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hermine Kittel sang at the Vienna Hofoper."</data>
+      <data key="d10">7d340325bacd8f448ec2fdd1bcf6ff3d</data>
+      <data key="d11">735d19aea0744b2295556841c5c4c3fd</data>
+      <data key="d12">63</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BAYREUTH FESTIVAL&quot;" target="&quot;HERMINE KITTEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hermine Kittel sang at the Bayreuth Festival in 1902 and 1908."</data>
+      <data key="d10">7d340325bacd8f448ec2fdd1bcf6ff3d</data>
+      <data key="d11">c725babdb14a485582f8fbdf95429030</data>
+      <data key="d12">64</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SALZBURG FESTIVAL&quot;" target="&quot;HERMINE KITTEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hermine Kittel often played Marcellina in 'The Marriage of Figaro' at the Salzburg Festival."</data>
+      <data key="d10">7d340325bacd8f448ec2fdd1bcf6ff3d</data>
+      <data key="d11">a0047221896d418d849847d422fa4bb8</data>
+      <data key="d12">65</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NEW ZEALAND&quot;" target="&quot;ESSIE ACKLAND&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Essie Ackland toured New Zealand for two months after her Australian tour."</data>
+      <data key="d10">855baa6ec425b8c9312f44afe7c954e4</data>
+      <data key="d11">98fc2ee593184c5a839454db4eec7013</data>
+      <data key="d12">66</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GREAT BRITAIN&quot;" target="&quot;ESSIE ACKLAND&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Essie Ackland entertained Australian soldiers at her London home during World War II."</data>
+      <data key="d10">855baa6ec425b8c9312f44afe7c954e4</data>
+      <data key="d11">80020a1da63042459e00266b2a605452</data>
+      <data key="d12">67</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VAN MORRISON&quot;" target="&quot;VAN MORRISON AT THE MOVIES -- SOUNDTRACK HITS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Van Morrison's compilation album includes the 1990 version of 'Comfortably Numb'."</data>
+      <data key="d10">e2799317b17bcf8eed82ab2575fb47d7</data>
+      <data key="d11">31a7e680c4d54101afe4c8d52d246913</data>
+      <data key="d12">68</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;THE WALL -- LIVE IN BERLIN&quot;" target="&quot;BERLIN WALL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Wall -- Live in Berlin concert event commemorated the fall of the Berlin Wall."</data>
+      <data key="d10">e2799317b17bcf8eed82ab2575fb47d7</data>
+      <data key="d11">351abba16e5c448994c6daf48121b14d</data>
+      <data key="d12">69</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;RENT&quot;" target="&quot;ODOM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Odom made his Broadway debut in Rent at the age of 17."</data>
+      <data key="d10">8c2fda1627291fc200b4027076b9b1c7</data>
+      <data key="d11">50ea7d3b69614bcdbfbff7ddbfbf3d34</data>
+      <data key="d12">70</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SASHA FIERCE&quot;" target="&quot;REVEL PRESENTS: BEYONC&#201; LIVE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Sasha Fierce was revived by Beyonc&#233; for the Revel Presents: Beyonc&#233; Live shows in May 2012."</data>
+      <data key="d10">83ec2c1bcea12ba9787f29e256193191</data>
+      <data key="d11">004f40a5aeca48a1879db728eb12bcba</data>
+      <data key="d12">71</data>
+      <data key="d13">0</data>
+    </edge>
+  </graph>
+</graphml>

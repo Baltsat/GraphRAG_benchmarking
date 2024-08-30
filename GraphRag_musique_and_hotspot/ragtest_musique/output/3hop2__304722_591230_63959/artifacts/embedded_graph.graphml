@@ -1,0 +1,1033 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;ST. DOMINGO FC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"St. Domingo FC was the initial name of the football team formed by a Methodist New Connexion congregation in Everton, Liverpool."</data>
+      <data key="d2">5e892be64bf5e97242183fa5f904c11c</data>
+    </node>
+    <node id="&quot;METHODIST NEW CONNEXION CONGREGATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Methodist New Connexion congregation had a chapel on the corner of Breckfield Road North and St. Domingo Vale in Everton, Liverpool."</data>
+      <data key="d2">5e892be64bf5e97242183fa5f904c11c</data>
+    </node>
+    <node id="&quot;EVERTON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Everton is a district in Liverpool, and it is also the name of a football team. The football team, Everton, was named after the district where it originated. Additionally, the team has had notable achievements, including coming close to completing an unprecedented Treble if they had won a specific match.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">522ab46e9f057aacfcd29ba5542042e4,5d4889dd4fe915ad5352435614d8ae22,5e892be64bf5e97242183fa5f904c11c</data>
+    </node>
+    <node id="&quot;LIVERPOOL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Liverpool is a city where Everton Football Club is based, and it is also home to Liverpool Football Club, which played against Arsenal in the 1971 FA Cup Final. Additionally, Liverpool Football Club appeared in its first FA Cup Final in 1914.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">5e892be64bf5e97242183fa5f904c11c,d0098ce160a92020a81fd130f149b8d5,fc25e6583a0612439f27310eaeed5970</data>
+    </node>
+    <node id="&quot;EVERTON FOOTBALL CLUB&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5e892be64bf5e97242183fa5f904c11c</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">122c3a91a90fd05c93d51239ad9156dd,25e295e3e124a9ce53c84132f9b9244f,3bb0c084e190f59b21104660ab977fcc,522ab46e9f057aacfcd29ba5542042e4,5a1581a857cb1bd6a80ae521cee8d079,5d4889dd4fe915ad5352435614d8ae22,5e892be64bf5e97242183fa5f904c11c,6143da848de7e0d5e6c591d684c5eb52,633fd5027c28e7b2a03b1d9de46a6e88,8ca37c7598c623b4a7d43550c0861221,90e855177888cd23d9cc7dc92d03ad97,97ed084c18e64cea61c6f9ed3c23427c,a9c843c7196233d86010a410786cadea,b4aeec194bac2dfc22c63418c2b7dcf6,c0e15fa209dc5b58d41d339f6cfd55f4,d0098ce160a92020a81fd130f149b8d5,d3dbc8dd9798ac7b8b6e93156f668b6d,dd40c2b1f3dfd4c6987cdc503dff28b9,dee317f074552014ce9fdaa3ff211b2f,fc25e6583a0612439f27310eaeed5970</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">122c3a91a90fd05c93d51239ad9156dd,25e295e3e124a9ce53c84132f9b9244f,3bb0c084e190f59b21104660ab977fcc,522ab46e9f057aacfcd29ba5542042e4,5a1581a857cb1bd6a80ae521cee8d079,5d4889dd4fe915ad5352435614d8ae22,5e892be64bf5e97242183fa5f904c11c,6143da848de7e0d5e6c591d684c5eb52,633fd5027c28e7b2a03b1d9de46a6e88,8ca37c7598c623b4a7d43550c0861221,90e855177888cd23d9cc7dc92d03ad97,97ed084c18e64cea61c6f9ed3c23427c,a9c843c7196233d86010a410786cadea,b4aeec194bac2dfc22c63418c2b7dcf6,c0e15fa209dc5b58d41d339f6cfd55f4,d0098ce160a92020a81fd130f149b8d5,d3dbc8dd9798ac7b8b6e93156f668b6d,dd40c2b1f3dfd4c6987cdc503dff28b9,dee317f074552014ce9fdaa3ff211b2f,fc25e6583a0612439f27310eaeed5970</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">122c3a91a90fd05c93d51239ad9156dd,25e295e3e124a9ce53c84132f9b9244f,3bb0c084e190f59b21104660ab977fcc,522ab46e9f057aacfcd29ba5542042e4,5a1581a857cb1bd6a80ae521cee8d079,5d4889dd4fe915ad5352435614d8ae22,5e892be64bf5e97242183fa5f904c11c,6143da848de7e0d5e6c591d684c5eb52,633fd5027c28e7b2a03b1d9de46a6e88,8ca37c7598c623b4a7d43550c0861221,90e855177888cd23d9cc7dc92d03ad97,97ed084c18e64cea61c6f9ed3c23427c,a9c843c7196233d86010a410786cadea,b4aeec194bac2dfc22c63418c2b7dcf6,c0e15fa209dc5b58d41d339f6cfd55f4,d0098ce160a92020a81fd130f149b8d5,d3dbc8dd9798ac7b8b6e93156f668b6d,dd40c2b1f3dfd4c6987cdc503dff28b9,dee317f074552014ce9fdaa3ff211b2f,fc25e6583a0612439f27310eaeed5970</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">122c3a91a90fd05c93d51239ad9156dd,25e295e3e124a9ce53c84132f9b9244f,3bb0c084e190f59b21104660ab977fcc,522ab46e9f057aacfcd29ba5542042e4,5a1581a857cb1bd6a80ae521cee8d079,5d4889dd4fe915ad5352435614d8ae22,5e892be64bf5e97242183fa5f904c11c,6143da848de7e0d5e6c591d684c5eb52,633fd5027c28e7b2a03b1d9de46a6e88,8ca37c7598c623b4a7d43550c0861221,90e855177888cd23d9cc7dc92d03ad97,97ed084c18e64cea61c6f9ed3c23427c,a9c843c7196233d86010a410786cadea,b4aeec194bac2dfc22c63418c2b7dcf6,c0e15fa209dc5b58d41d339f6cfd55f4,d0098ce160a92020a81fd130f149b8d5,d3dbc8dd9798ac7b8b6e93156f668b6d,dd40c2b1f3dfd4c6987cdc503dff28b9,dee317f074552014ce9fdaa3ff211b2f,fc25e6583a0612439f27310eaeed5970</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">122c3a91a90fd05c93d51239ad9156dd,25e295e3e124a9ce53c84132f9b9244f,3bb0c084e190f59b21104660ab977fcc,522ab46e9f057aacfcd29ba5542042e4,5a1581a857cb1bd6a80ae521cee8d079,5d4889dd4fe915ad5352435614d8ae22,5e892be64bf5e97242183fa5f904c11c,6143da848de7e0d5e6c591d684c5eb52,633fd5027c28e7b2a03b1d9de46a6e88,8ca37c7598c623b4a7d43550c0861221,90e855177888cd23d9cc7dc92d03ad97,97ed084c18e64cea61c6f9ed3c23427c,a9c843c7196233d86010a410786cadea,b4aeec194bac2dfc22c63418c2b7dcf6,c0e15fa209dc5b58d41d339f6cfd55f4,d0098ce160a92020a81fd130f149b8d5,d3dbc8dd9798ac7b8b6e93156f668b6d,dd40c2b1f3dfd4c6987cdc503dff28b9,dee317f074552014ce9fdaa3ff211b2f,fc25e6583a0612439f27310eaeed5970</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">122c3a91a90fd05c93d51239ad9156dd,25e295e3e124a9ce53c84132f9b9244f,3bb0c084e190f59b21104660ab977fcc,522ab46e9f057aacfcd29ba5542042e4,5a1581a857cb1bd6a80ae521cee8d079,5d4889dd4fe915ad5352435614d8ae22,5e892be64bf5e97242183fa5f904c11c,6143da848de7e0d5e6c591d684c5eb52,633fd5027c28e7b2a03b1d9de46a6e88,8ca37c7598c623b4a7d43550c0861221,90e855177888cd23d9cc7dc92d03ad97,97ed084c18e64cea61c6f9ed3c23427c,a9c843c7196233d86010a410786cadea,b4aeec194bac2dfc22c63418c2b7dcf6,c0e15fa209dc5b58d41d339f6cfd55f4,d0098ce160a92020a81fd130f149b8d5,d3dbc8dd9798ac7b8b6e93156f668b6d,dd40c2b1f3dfd4c6987cdc503dff28b9,dee317f074552014ce9fdaa3ff211b2f,fc25e6583a0612439f27310eaeed5970</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">122c3a91a90fd05c93d51239ad9156dd,25e295e3e124a9ce53c84132f9b9244f,3bb0c084e190f59b21104660ab977fcc,522ab46e9f057aacfcd29ba5542042e4,5a1581a857cb1bd6a80ae521cee8d079,5d4889dd4fe915ad5352435614d8ae22,5e892be64bf5e97242183fa5f904c11c,6143da848de7e0d5e6c591d684c5eb52,633fd5027c28e7b2a03b1d9de46a6e88,8ca37c7598c623b4a7d43550c0861221,90e855177888cd23d9cc7dc92d03ad97,97ed084c18e64cea61c6f9ed3c23427c,a9c843c7196233d86010a410786cadea,b4aeec194bac2dfc22c63418c2b7dcf6,c0e15fa209dc5b58d41d339f6cfd55f4,d0098ce160a92020a81fd130f149b8d5,d3dbc8dd9798ac7b8b6e93156f668b6d,dd40c2b1f3dfd4c6987cdc503dff28b9,dee317f074552014ce9fdaa3ff211b2f,fc25e6583a0612439f27310eaeed5970</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">122c3a91a90fd05c93d51239ad9156dd,25e295e3e124a9ce53c84132f9b9244f,3bb0c084e190f59b21104660ab977fcc,522ab46e9f057aacfcd29ba5542042e4,5a1581a857cb1bd6a80ae521cee8d079,5d4889dd4fe915ad5352435614d8ae22,5e892be64bf5e97242183fa5f904c11c,6143da848de7e0d5e6c591d684c5eb52,633fd5027c28e7b2a03b1d9de46a6e88,8ca37c7598c623b4a7d43550c0861221,90e855177888cd23d9cc7dc92d03ad97,97ed084c18e64cea61c6f9ed3c23427c,a9c843c7196233d86010a410786cadea,b4aeec194bac2dfc22c63418c2b7dcf6,c0e15fa209dc5b58d41d339f6cfd55f4,d0098ce160a92020a81fd130f149b8d5,d3dbc8dd9798ac7b8b6e93156f668b6d,dd40c2b1f3dfd4c6987cdc503dff28b9,dee317f074552014ce9fdaa3ff211b2f,fc25e6583a0612439f27310eaeed5970</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">122c3a91a90fd05c93d51239ad9156dd,25e295e3e124a9ce53c84132f9b9244f,3bb0c084e190f59b21104660ab977fcc,522ab46e9f057aacfcd29ba5542042e4,5a1581a857cb1bd6a80ae521cee8d079,5d4889dd4fe915ad5352435614d8ae22,5e892be64bf5e97242183fa5f904c11c,6143da848de7e0d5e6c591d684c5eb52,633fd5027c28e7b2a03b1d9de46a6e88,8ca37c7598c623b4a7d43550c0861221,90e855177888cd23d9cc7dc92d03ad97,97ed084c18e64cea61c6f9ed3c23427c,a9c843c7196233d86010a410786cadea,b4aeec194bac2dfc22c63418c2b7dcf6,c0e15fa209dc5b58d41d339f6cfd55f4,d0098ce160a92020a81fd130f149b8d5,d3dbc8dd9798ac7b8b6e93156f668b6d,dd40c2b1f3dfd4c6987cdc503dff28b9,dee317f074552014ce9fdaa3ff211b2f,fc25e6583a0612439f27310eaeed5970</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">122c3a91a90fd05c93d51239ad9156dd,25e295e3e124a9ce53c84132f9b9244f,3bb0c084e190f59b21104660ab977fcc,522ab46e9f057aacfcd29ba5542042e4,5a1581a857cb1bd6a80ae521cee8d079,5d4889dd4fe915ad5352435614d8ae22,5e892be64bf5e97242183fa5f904c11c,6143da848de7e0d5e6c591d684c5eb52,633fd5027c28e7b2a03b1d9de46a6e88,8ca37c7598c623b4a7d43550c0861221,90e855177888cd23d9cc7dc92d03ad97,97ed084c18e64cea61c6f9ed3c23427c,a9c843c7196233d86010a410786cadea,b4aeec194bac2dfc22c63418c2b7dcf6,c0e15fa209dc5b58d41d339f6cfd55f4,d0098ce160a92020a81fd130f149b8d5,d3dbc8dd9798ac7b8b6e93156f668b6d,dd40c2b1f3dfd4c6987cdc503dff28b9,dee317f074552014ce9fdaa3ff211b2f,fc25e6583a0612439f27310eaeed5970</data>
+    </node>
+    <node id="&quot;BIRMINGHAM CITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Birmingham City is a football team that competes against Aston Villa in various matches and has had players such as Kenneth Gordon Faulkner, who played for the team in the Football League.</data>
+      <data key="d2">97ed084c18e64cea61c6f9ed3c23427c,dee317f074552014ce9fdaa3ff211b2f</data>
+    </node>
+    <node id="&quot;WELLINGTON ROAD&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Wellington Road is a venue where a match between Aston Villa and Small Heath took place in 1887."</data>
+      <data key="d2">dee317f074552014ce9fdaa3ff211b2f</data>
+    </node>
+    <node id="&quot;MUNTZ STREET&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Muntz Street is a venue where a match between Small Heath and Aston Villa took place in 1901."</data>
+      <data key="d2">dee317f074552014ce9fdaa3ff211b2f</data>
+    </node>
+    <node id="&quot;VILLA PARK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Villa Park is the home stadium of Aston Villa, hosting various matches including FA Cup and League Cup."</data>
+      <data key="d2">dee317f074552014ce9fdaa3ff211b2f</data>
+    </node>
+    <node id="&quot;ST ANDREW'S&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"St Andrew's is a venue where Birmingham City hosts matches against Aston Villa."</data>
+      <data key="d2">dee317f074552014ce9fdaa3ff211b2f</data>
+    </node>
+    <node id="&quot;SMALL HEATH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Small Heath is a football team that played against Aston Villa in 1901."</data>
+      <data key="d2">dee317f074552014ce9fdaa3ff211b2f</data>
+    </node>
+    <node id="&quot;ASTON VILLA&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Aston Villa is a football team that Howard Vaughton played for before opening a silversmith's business.</data>
+      <data key="d2">633fd5027c28e7b2a03b1d9de46a6e88,dee317f074552014ce9fdaa3ff211b2f</data>
+    </node>
+    <node id="&quot;FA CUP QUARTER FINAL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">dee317f074552014ce9fdaa3ff211b2f</data>
+    </node>
+    <node id="&quot;LEAGUE CUP FINAL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">dee317f074552014ce9fdaa3ff211b2f</data>
+    </node>
+    <node id="&quot;ROBERT KAUFFMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Robert Kauffman is the founder and managing partner of Fortress Investment Group, and a co-owner of Michael Waltrip Racing."</data>
+      <data key="d2">dd40c2b1f3dfd4c6987cdc503dff28b9</data>
+    </node>
+    <node id="&quot;MICHAEL WALTRIP&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Michael Waltrip is a two-time Daytona 500 winner and co-founder of Michael Waltrip Racing."</data>
+      <data key="d2">dd40c2b1f3dfd4c6987cdc503dff28b9</data>
+    </node>
+    <node id="&quot;FORTRESS INVESTMENT GROUP&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Fortress Investment Group is an investment firm founded by Robert Kauffman, who is also a co-owner of Michael Waltrip Racing."</data>
+      <data key="d2">dd40c2b1f3dfd4c6987cdc503dff28b9</data>
+    </node>
+    <node id="&quot;TOYOTA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Toyota is a car manufacturer that entered the Sprint Cup racing fold in 2007, with Michael Waltrip Racing as one of its teams."</data>
+      <data key="d2">dd40c2b1f3dfd4c6987cdc503dff28b9</data>
+    </node>
+    <node id="&quot;JOE GIBBS RACING&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Joe Gibbs Racing is another team that joined Toyota in the Sprint Cup Series in 2008."</data>
+      <data key="d2">dd40c2b1f3dfd4c6987cdc503dff28b9</data>
+    </node>
+    <node id="&quot;BILL DAVIS RACING&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Bill Davis Racing was a team that ceased operations, and was one of the original Toyota teams in the Sprint Cup Series."</data>
+      <data key="d2">dd40c2b1f3dfd4c6987cdc503dff28b9</data>
+    </node>
+    <node id="&quot;RED BULL RACING TEAM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Red Bull Racing Team was a team that ceased operations, and was one of the original Toyota teams in the Sprint Cup Series."</data>
+      <data key="d2">dd40c2b1f3dfd4c6987cdc503dff28b9</data>
+    </node>
+    <node id="&quot;MICHAEL WALTRIP RACING HOLDINGS LLC&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">dd40c2b1f3dfd4c6987cdc503dff28b9</data>
+    </node>
+    <node id="&quot;ENGLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+England is the country where Kenneth Gordon Faulkner was from and is also home to the Premier League, which has 19 teams participating.</data>
+      <data key="d2">6143da848de7e0d5e6c591d684c5eb52,97ed084c18e64cea61c6f9ed3c23427c,c0e15fa209dc5b58d41d339f6cfd55f4,d3dbc8dd9798ac7b8b6e93156f668b6d</data>
+    </node>
+    <node id="&quot;WALES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Wales is a country that has one team participating in the Premier League."</data>
+      <data key="d2">6143da848de7e0d5e6c591d684c5eb52,c0e15fa209dc5b58d41d339f6cfd55f4</data>
+    </node>
+    <node id="&quot;UEFA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is a comprehensive summary:
+
+UEFA is not the confederation that governs the Premier League, but rather the Premier League is part of UEFA. This clarification resolves the contradiction between the two descriptions, as UEFA does not directly govern the Premier League, but instead, the Premier League operates under the umbrella of UEFA's governance structure.</data>
+      <data key="d2">6143da848de7e0d5e6c591d684c5eb52,c0e15fa209dc5b58d41d339f6cfd55f4</data>
+    </node>
+    <node id="&quot;MANCHESTER CITY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Manchester City is a football club that won the Premier League title three times, including the 2017-18 season."</data>
+      <data key="d2">c0e15fa209dc5b58d41d339f6cfd55f4</data>
+    </node>
+    <node id="&quot;MANCHESTER UNITED&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Manchester United is a football club that has won the most championships in the Premier League, with 13 titles. The team has participated in the FA Cup Final and notably played against Arsenal in the 2005 FA Cup Final.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">3bb0c084e190f59b21104660ab977fcc,5d4889dd4fe915ad5352435614d8ae22,6143da848de7e0d5e6c591d684c5eb52,c0e15fa209dc5b58d41d339f6cfd55f4</data>
+    </node>
+    <node id="&quot;GARETH BARRY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gareth Barry is a football player who holds the record for most appearances in the Premier League, with 653 games played."</data>
+      <data key="d2">c0e15fa209dc5b58d41d339f6cfd55f4</data>
+    </node>
+    <node id="&quot;ALAN SHEARER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alan Shearer is a former football player who is the top goalscorer in the Premier League, with 260 goals scored."</data>
+      <data key="d2">c0e15fa209dc5b58d41d339f6cfd55f4</data>
+    </node>
+    <node id="&quot;PREMIER LEAGUE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6143da848de7e0d5e6c591d684c5eb52,c0e15fa209dc5b58d41d339f6cfd55f4</data>
+    </node>
+    <node id="&quot;LEEDS UNITED&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Leeds United is a football club that beat Arsenal in the 1972 FA Cup Final."</data>
+      <data key="d2">fc25e6583a0612439f27310eaeed5970</data>
+    </node>
+    <node id="&quot;ARSENAL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3bb0c084e190f59b21104660ab977fcc,fc25e6583a0612439f27310eaeed5970</data>
+    </node>
+    <node id="&quot;1971 FA CUP FINAL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fc25e6583a0612439f27310eaeed5970</data>
+    </node>
+    <node id="&quot;1972 FA CUP FINAL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fc25e6583a0612439f27310eaeed5970</data>
+    </node>
+    <node id="&quot;S.LEAGUE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"S.League is a league that participates in the Singapore FA Cup, with its clubs allowed to field their developmental Prime League teams."</data>
+      <data key="d2">b4aeec194bac2dfc22c63418c2b7dcf6</data>
+    </node>
+    <node id="&quot;SINGAPORE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Singapore is the location where the Singapore FA Cup takes place."</data>
+      <data key="d2">b4aeec194bac2dfc22c63418c2b7dcf6</data>
+    </node>
+    <node id="&quot;NFL CLUBS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"NFL Clubs are participants in the Singapore FA Cup, initially being the only ones allowed to compete."</data>
+      <data key="d2">b4aeec194bac2dfc22c63418c2b7dcf6</data>
+    </node>
+    <node id="&quot;SINGAPORE FA CUP&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b4aeec194bac2dfc22c63418c2b7dcf6</data>
+    </node>
+    <node id="&quot;PATRICK VIEIRA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Patrick Vieira is a football player who scored the winning penalty for Arsenal in the 2005 FA Cup Final."</data>
+      <data key="d2">3bb0c084e190f59b21104660ab977fcc</data>
+    </node>
+    <node id="&quot;PAUL SCHOLES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Paul Scholes is a football player whose shot was saved by Jens Lehmann in the 2005 FA Cup Final."</data>
+      <data key="d2">3bb0c084e190f59b21104660ab977fcc</data>
+    </node>
+    <node id="&quot;JENS LEHMANN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jens Lehmann is Arsenal's goalkeeper who saved Paul Scholes' shot in the 2005 FA Cup Final."</data>
+      <data key="d2">3bb0c084e190f59b21104660ab977fcc</data>
+    </node>
+    <node id="&quot;MILLENNIUM STADIUM, CARDIFF&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Millennium Stadium, Cardiff is the location where the 2005 FA Cup Final was held."</data>
+      <data key="d2">3bb0c084e190f59b21104660ab977fcc</data>
+    </node>
+    <node id="&quot;2005 FA CUP FINAL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2005 FA Cup Final is a football match played between Arsenal and Manchester United on 21 May 2005."</data>
+      <data key="d2">3bb0c084e190f59b21104660ab977fcc</data>
+    </node>
+    <node id="&quot;KENNETH GORDON FAULKNER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">97ed084c18e64cea61c6f9ed3c23427c</data>
+    </node>
+    <node id="&quot;JOE MERCER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Joe Mercer was part of the management team that led the club to significant successes in the late 1960s and early 1970s."</data>
+      <data key="d2">8ca37c7598c623b4a7d43550c0861221</data>
+    </node>
+    <node id="&quot;MALCOLM ALLISON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Malcolm Allison was part of the management team that led the club to significant successes in the late 1960s and early 1970s."</data>
+      <data key="d2">8ca37c7598c623b4a7d43550c0861221</data>
+    </node>
+    <node id="&quot;ABU DHABI UNITED GROUP&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Abu Dhabi United Group is the owner of the club, having purchased it in 2008 and contributing to its current wealth."</data>
+      <data key="d2">8ca37c7598c623b4a7d43550c0861221</data>
+    </node>
+    <node id="&quot;FA CUP FINAL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The FA Cup Final is a significant football event that has featured various teams throughout its history. In 1914, the final was played between Burnley and Liverpool on April 25. Notably, it is also remembered for being the first time a player, Kevin Moran, was sent off in an FA Cup Final, which involved Manchester United. Additionally, one club suffered a decline after losing the FA Cup Final in 1981.</data>
+      <data key="d2">5d4889dd4fe915ad5352435614d8ae22,8ca37c7598c623b4a7d43550c0861221,d0098ce160a92020a81fd130f149b8d5</data>
+    </node>
+    <node id="&quot;LEAGUE CHAMPIONSHIP&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The League Championship is a major honour won by the club during its successful period in the late 1960s and early 1970s."</data>
+      <data key="d2">8ca37c7598c623b4a7d43550c0861221</data>
+    </node>
+    <node id="&quot;EUROPEAN CUP WINNERS' CUP&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The European Cup Winners' Cup is a major international football competition that was won by various clubs during its successful period. Notably, Everton secured a victory in this tournament in 1985, adding to their achievements during their successful period in the late 1960s and early 1970s.</data>
+      <data key="d2">522ab46e9f057aacfcd29ba5542042e4,8ca37c7598c623b4a7d43550c0861221</data>
+    </node>
+    <node id="&quot;THE CLUB&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8ca37c7598c623b4a7d43550c0861221</data>
+    </node>
+    <node id="&quot;CHELSEA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Chelsea is a football club that won the Premier League title in 2016-17, their 5th title.</data>
+      <data key="d2">6143da848de7e0d5e6c591d684c5eb52,90e855177888cd23d9cc7dc92d03ad97</data>
+    </node>
+    <node id="&quot;PETER REID&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Peter Reid is a player who was involved in an incident with Kevin Moran that led to his sending off."</data>
+      <data key="d2">5d4889dd4fe915ad5352435614d8ae22</data>
+    </node>
+    <node id="&quot;KEVIN MORAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5d4889dd4fe915ad5352435614d8ae22</data>
+    </node>
+    <node id="&quot;THE FOOTBALL LEAGUE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Football League is an organization that Everton was a founding member of in 1888."</data>
+      <data key="d2">522ab46e9f057aacfcd29ba5542042e4</data>
+    </node>
+    <node id="&quot;FA CUP&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The FA Cup is an annual football tournament in England, with broadcasting rights held by various networks. The tournament has a rich history, with several notable winners and runners-up over the years. Everton has won the FA Cup multiple times, including in 1995, while Chelsea has also tasted victory in 1970 and finished as runners-up in 1967.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">25e295e3e124a9ce53c84132f9b9244f,522ab46e9f057aacfcd29ba5542042e4,90e855177888cd23d9cc7dc92d03ad97,a9c843c7196233d86010a410786cadea</data>
+    </node>
+    <node id="&quot;WALES NATIONAL FOOTBALL TEAM&quot;">
+      <data key="d0">"TEAM"</data>
+      <data key="d1">"The Wales national football team has participated in every World Cup since 1950, but only qualified once in 1958."</data>
+      <data key="d2">122c3a91a90fd05c93d51239ad9156dd</data>
+    </node>
+    <node id="&quot;BRAZIL&quot;">
+      <data key="d0">"TEAM"</data>
+      <data key="d1">"Brazil is a national football team that won the World Cup in 1958, eliminating Wales in the quarter-finals."</data>
+      <data key="d2">122c3a91a90fd05c93d51239ad9156dd</data>
+    </node>
+    <node id="&quot;FIFA WORLD CUP&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The FIFA World Cup is an international association football competition held every four years since 1930, except during World War II."</data>
+      <data key="d2">122c3a91a90fd05c93d51239ad9156dd</data>
+    </node>
+    <node id="&quot;HARRY CATTERICK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Harry Catterick was a former manager of Everton FC, holding the position from 1961-1973 and taking charge of 594 first team matches."</data>
+      <data key="d2">5a1581a857cb1bd6a80ae521cee8d079</data>
+    </node>
+    <node id="&quot;HOWARD KENDALL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Howard Kendall is a former manager of Everton FC who won multiple domestic and international trophies, including two Division One championships and the UEFA Cup Winners' Cup."</data>
+      <data key="d2">5a1581a857cb1bd6a80ae521cee8d079</data>
+    </node>
+    <node id="&quot;EVERTON FC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Everton FC is a football club that has had 14 permanent managers since its establishment in 1939."</data>
+      <data key="d2">5a1581a857cb1bd6a80ae521cee8d079</data>
+    </node>
+    <node id="&quot;ROBERTO MART&#205;NEZ&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5a1581a857cb1bd6a80ae521cee8d079</data>
+    </node>
+    <node id="&quot;BBC SPORT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"BBC Sport is a division of the BBC that will broadcast the FA Cup, including the final on BBC One."</data>
+      <data key="d2">a9c843c7196233d86010a410786cadea</data>
+    </node>
+    <node id="&quot;BT SPORT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"BT Sport is a pay TV network that holds the rights to broadcast the FA Cup."</data>
+      <data key="d2">a9c843c7196233d86010a410786cadea</data>
+    </node>
+    <node id="&quot;BBC ONE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"BBC One is a television channel that will show the final of the FA Cup."</data>
+      <data key="d2">a9c843c7196233d86010a410786cadea</data>
+    </node>
+    <node id="&quot;ITV&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a9c843c7196233d86010a410786cadea</data>
+    </node>
+    <node id="&quot;NEWTON ROW&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Newton Row is a location in Birmingham where the Trophy was stolen from W. Shillcock's shop."</data>
+      <data key="d2">633fd5027c28e7b2a03b1d9de46a6e88</data>
+    </node>
+    <node id="&quot;BIRMINGHAM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Birmingham is a city where the Trophy was stolen from W. Shillcock's shop in Newton Row."</data>
+      <data key="d2">633fd5027c28e7b2a03b1d9de46a6e88</data>
+    </node>
+    <node id="&quot;HOWARD VAUGHTON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Howard Vaughton is a former Aston Villa player and England international who made a copy of the original Trophy after his retirement."</data>
+      <data key="d2">633fd5027c28e7b2a03b1d9de46a6e88</data>
+    </node>
+    <node id="&quot;W. SHILLCOCK&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">633fd5027c28e7b2a03b1d9de46a6e88</data>
+    </node>
+    <node id="&quot;THE TROPHY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">633fd5027c28e7b2a03b1d9de46a6e88</data>
+    </node>
+    <node id="&quot;TOTTENHAM HOTSPUR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Tottenham Hotspur is a football club that won the FA Cup in 1901, being the only non-league winners of the tournament."</data>
+      <data key="d2">25e295e3e124a9ce53c84132f9b9244f</data>
+    </node>
+    <node id="&quot;WOLVERHAMPTON WANDERERS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Wolverhampton Wanderers is a football club that won the FA Cup in 1908, demonstrating their success in the competition."</data>
+      <data key="d2">25e295e3e124a9ce53c84132f9b9244f</data>
+    </node>
+    <node id="&quot;BARNSLEY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Barnsley is a football club that won the FA Cup in 1912, highlighting their achievement in the tournament."</data>
+      <data key="d2">25e295e3e124a9ce53c84132f9b9244f</data>
+    </node>
+    <node id="&quot;WEST BROMWICH ALBION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"West Bromwich Albion is a football club that won the FA Cup in 1931, showcasing their success in the competition."</data>
+      <data key="d2">25e295e3e124a9ce53c84132f9b9244f</data>
+    </node>
+    <node id="&quot;SUNDERLAND&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Sunderland is a football club that won the FA Cup in 1973, demonstrating their achievement in the tournament."</data>
+      <data key="d2">25e295e3e124a9ce53c84132f9b9244f</data>
+    </node>
+    <node id="&quot;SOUTHAMPTON&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Southampton is a football club that won the FA Cup in 1976 and was also a finalist in 1902, highlighting their success in the competition."</data>
+      <data key="d2">25e295e3e124a9ce53c84132f9b9244f</data>
+    </node>
+    <node id="&quot;WEST HAM UNITED&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"West Ham United is a football club that won the FA Cup in 1980, showcasing their achievement in the tournament."</data>
+      <data key="d2">25e295e3e124a9ce53c84132f9b9244f</data>
+    </node>
+    <node id="&quot;NOTTS COUNTY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">25e295e3e124a9ce53c84132f9b9244f</data>
+    </node>
+    <node id="&quot;JOHN NEAL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+John Neal is a person who led Chelsea Football Club to a revival in the mid-1980s, winning the Second Division title and re-establishing the club in the top flight. During his managerial career, he did not manage the England national team from 1981 to 1985, but rather focused on his successful stint at Chelsea, where he won the Second Division title in 1984.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">90e855177888cd23d9cc7dc92d03ad97,d3dbc8dd9798ac7b8b6e93156f668b6d</data>
+    </node>
+    <node id="&quot;STAMFORD BRIDGE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Stamford Bridge is a location, specifically the home stadium of Chelsea Football Club, where an ambitious redevelopment attempt led to financial problems."</data>
+      <data key="d2">90e855177888cd23d9cc7dc92d03ad97</data>
+    </node>
+    <node id="&quot;LEAGUE CUP&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The League Cup is a football competition that Chelsea has won in 1965 and been runners-up in 1972."</data>
+      <data key="d2">90e855177888cd23d9cc7dc92d03ad97</data>
+    </node>
+    <node id="&quot;UEFA CUP WINNERS' CUP&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The UEFA Cup Winners' Cup is a football competition that Chelsea has won in 1971."</data>
+      <data key="d2">90e855177888cd23d9cc7dc92d03ad97</data>
+    </node>
+    <node id="&quot;TOMMY DOCHERTY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Tommy Docherty was a manager of Scotland national team from 1961 to 1967, winning Football League Cup in 1965."</data>
+      <data key="d2">d3dbc8dd9798ac7b8b6e93156f668b6d</data>
+    </node>
+    <node id="&quot;DAVE SEXTON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dave Sexton was a manager of England national team from 1967 to 1974, winning FA Cup in 1970 and European Cup Winners' Cup in 1971."</data>
+      <data key="d2">d3dbc8dd9798ac7b8b6e93156f668b6d</data>
+    </node>
+    <node id="&quot;JOHN HOLLINS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"John Hollins was a manager of England national team from 1985 to 1988, winning Full Members Cup in 1986."</data>
+      <data key="d2">d3dbc8dd9798ac7b8b6e93156f668b6d</data>
+    </node>
+    <node id="&quot;BOBBY CAMPBELL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bobby Campbell was a manager of England national team from 1988 to 1991, winning Second Division in 1989 and Full Members Cup in 1990."</data>
+      <data key="d2">d3dbc8dd9798ac7b8b6e93156f668b6d</data>
+    </node>
+    <node id="&quot;RUUD GULLIT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ruud Gullit was a manager of Netherlands national team from 1996 to 1998, winning FA Cup in 1997."</data>
+      <data key="d2">d3dbc8dd9798ac7b8b6e93156f668b6d</data>
+    </node>
+    <node id="&quot;GIANLUCA VIALLI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gianluca Vialli was a manager of Italy national team from 1998 to 2000, winning Football League Cup and UEFA Cup Winners' Cup in 1998, and FA Cup and FA Charity Shield in 2000."</data>
+      <data key="d2">d3dbc8dd9798ac7b8b6e93156f668b6d</data>
+    </node>
+    <node id="&quot;JOS&#201; MOURINHO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jos&#233; Mourinho was a manager of Portugal national team from 2004 to 2007 and 2013 to 2015, winning multiple titles including Football League Cup, Premier League, and FA Cup."</data>
+      <data key="d2">d3dbc8dd9798ac7b8b6e93156f668b6d</data>
+    </node>
+    <node id="&quot;GUUS HIDDINK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Guus Hiddink was a manager of Netherlands national team in 2009 and from 2015 to 2016, winning FA Cup in 2009."</data>
+      <data key="d2">d3dbc8dd9798ac7b8b6e93156f668b6d</data>
+    </node>
+    <node id="&quot;CARLO ANCELOTTI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Carlo Ancelotti was a manager of Italy national team from 2009 to 2011, winning FA Community Shield and Premier League in 2010, and FA Cup in 2010."</data>
+      <data key="d2">d3dbc8dd9798ac7b8b6e93156f668b6d</data>
+    </node>
+    <node id="&quot;ROBERTO DI MATTEO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Roberto Di Matteo was a manager of Italy national team in 2012, winning FA Cup and UEFA Champions League in 2012."</data>
+      <data key="d2">d3dbc8dd9798ac7b8b6e93156f668b6d</data>
+    </node>
+    <node id="&quot;RAFAEL BEN&#205;TEZ&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Rafael Ben&#237;tez was a manager of Spain national team from 2012 to 2013, winning UEFA Europa League in 2013."</data>
+      <data key="d2">d3dbc8dd9798ac7b8b6e93156f668b6d</data>
+    </node>
+    <node id="&quot;ANTONIO CONTE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Antonio Conte was a manager of Italy national team from 2016 to 2018, winning Premier League in 2017 and FA Cup in 2018."</data>
+      <data key="d2">d3dbc8dd9798ac7b8b6e93156f668b6d</data>
+    </node>
+    <node id="&quot;TED DRAKE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d3dbc8dd9798ac7b8b6e93156f668b6d</data>
+    </node>
+    <node id="&quot;SCOTLAND&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d3dbc8dd9798ac7b8b6e93156f668b6d</data>
+    </node>
+    <node id="&quot;CRYSTAL PALACE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Crystal Palace is a location in London where the 1914 FA Cup Final was held."</data>
+      <data key="d2">d0098ce160a92020a81fd130f149b8d5</data>
+    </node>
+    <node id="&quot;LONDON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"London is a city where the 1914 FA Cup Final was held at Crystal Palace."</data>
+      <data key="d2">d0098ce160a92020a81fd130f149b8d5</data>
+    </node>
+    <node id="&quot;BURNLEY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d0098ce160a92020a81fd130f149b8d5</data>
+    </node>
+    <edge source="&quot;ST. DOMINGO FC&quot;" target="&quot;EVERTON FOOTBALL CLUB&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Everton Football Club was initially formed as St. Domingo FC before being renamed in 1878."</data>
+      <data key="d5">5e892be64bf5e97242183fa5f904c11c</data>
+    </edge>
+    <edge source="&quot;ST. DOMINGO FC&quot;" target="&quot;METHODIST NEW CONNEXION CONGREGATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Methodist New Connexion congregation formed St. Domingo FC, which later became Everton Football Club."</data>
+      <data key="d5">5e892be64bf5e97242183fa5f904c11c</data>
+    </edge>
+    <edge source="&quot;EVERTON&quot;" target="&quot;EVERTON FOOTBALL CLUB&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Everton Football Club was named after the district of Everton in Liverpool."</data>
+      <data key="d5">5e892be64bf5e97242183fa5f904c11c</data>
+    </edge>
+    <edge source="&quot;EVERTON&quot;" target="&quot;PETER REID&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Peter Reid is likely a player for Everton, although this is not explicitly stated in the text."</data>
+      <data key="d5">5d4889dd4fe915ad5352435614d8ae22</data>
+    </edge>
+    <edge source="&quot;EVERTON&quot;" target="&quot;FA CUP FINAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The FA Cup Final is an event that Everton could have won to complete the Treble."</data>
+      <data key="d5">5d4889dd4fe915ad5352435614d8ae22</data>
+    </edge>
+    <edge source="&quot;EVERTON&quot;" target="&quot;THE FOOTBALL LEAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Everton was a founding member of The Football League."</data>
+      <data key="d5">522ab46e9f057aacfcd29ba5542042e4</data>
+    </edge>
+    <edge source="&quot;EVERTON&quot;" target="&quot;FA CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Everton has won the FA Cup multiple times, including in 1995."</data>
+      <data key="d5">522ab46e9f057aacfcd29ba5542042e4</data>
+    </edge>
+    <edge source="&quot;EVERTON&quot;" target="&quot;EUROPEAN CUP WINNERS' CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Everton won the European Cup Winners' Cup in 1985."</data>
+      <data key="d5">522ab46e9f057aacfcd29ba5542042e4</data>
+    </edge>
+    <edge source="&quot;LIVERPOOL&quot;" target="&quot;ARSENAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Arsenal played against Liverpool in the 1971 FA Cup Final."</data>
+      <data key="d5">fc25e6583a0612439f27310eaeed5970</data>
+    </edge>
+    <edge source="&quot;LIVERPOOL&quot;" target="&quot;FA CUP FINAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Liverpool participated in the 1914 FA Cup Final against Burnley."</data>
+      <data key="d5">d0098ce160a92020a81fd130f149b8d5</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">122c3a91a90fd05c93d51239ad9156dd,25e295e3e124a9ce53c84132f9b9244f,3bb0c084e190f59b21104660ab977fcc,522ab46e9f057aacfcd29ba5542042e4,5a1581a857cb1bd6a80ae521cee8d079,5d4889dd4fe915ad5352435614d8ae22,5e892be64bf5e97242183fa5f904c11c,6143da848de7e0d5e6c591d684c5eb52,633fd5027c28e7b2a03b1d9de46a6e88,8ca37c7598c623b4a7d43550c0861221,90e855177888cd23d9cc7dc92d03ad97,97ed084c18e64cea61c6f9ed3c23427c,a9c843c7196233d86010a410786cadea,b4aeec194bac2dfc22c63418c2b7dcf6,c0e15fa209dc5b58d41d339f6cfd55f4,d0098ce160a92020a81fd130f149b8d5,d3dbc8dd9798ac7b8b6e93156f668b6d,dd40c2b1f3dfd4c6987cdc503dff28b9,dee317f074552014ce9fdaa3ff211b2f,fc25e6583a0612439f27310eaeed5970</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">122c3a91a90fd05c93d51239ad9156dd,25e295e3e124a9ce53c84132f9b9244f,3bb0c084e190f59b21104660ab977fcc,522ab46e9f057aacfcd29ba5542042e4,5a1581a857cb1bd6a80ae521cee8d079,5d4889dd4fe915ad5352435614d8ae22,5e892be64bf5e97242183fa5f904c11c,6143da848de7e0d5e6c591d684c5eb52,633fd5027c28e7b2a03b1d9de46a6e88,8ca37c7598c623b4a7d43550c0861221,90e855177888cd23d9cc7dc92d03ad97,97ed084c18e64cea61c6f9ed3c23427c,a9c843c7196233d86010a410786cadea,b4aeec194bac2dfc22c63418c2b7dcf6,c0e15fa209dc5b58d41d339f6cfd55f4,d0098ce160a92020a81fd130f149b8d5,d3dbc8dd9798ac7b8b6e93156f668b6d,dd40c2b1f3dfd4c6987cdc503dff28b9,dee317f074552014ce9fdaa3ff211b2f,fc25e6583a0612439f27310eaeed5970</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">122c3a91a90fd05c93d51239ad9156dd,25e295e3e124a9ce53c84132f9b9244f,3bb0c084e190f59b21104660ab977fcc,522ab46e9f057aacfcd29ba5542042e4,5a1581a857cb1bd6a80ae521cee8d079,5d4889dd4fe915ad5352435614d8ae22,5e892be64bf5e97242183fa5f904c11c,6143da848de7e0d5e6c591d684c5eb52,633fd5027c28e7b2a03b1d9de46a6e88,8ca37c7598c623b4a7d43550c0861221,90e855177888cd23d9cc7dc92d03ad97,97ed084c18e64cea61c6f9ed3c23427c,a9c843c7196233d86010a410786cadea,b4aeec194bac2dfc22c63418c2b7dcf6,c0e15fa209dc5b58d41d339f6cfd55f4,d0098ce160a92020a81fd130f149b8d5,d3dbc8dd9798ac7b8b6e93156f668b6d,dd40c2b1f3dfd4c6987cdc503dff28b9,dee317f074552014ce9fdaa3ff211b2f,fc25e6583a0612439f27310eaeed5970</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">122c3a91a90fd05c93d51239ad9156dd,25e295e3e124a9ce53c84132f9b9244f,3bb0c084e190f59b21104660ab977fcc,522ab46e9f057aacfcd29ba5542042e4,5a1581a857cb1bd6a80ae521cee8d079,5d4889dd4fe915ad5352435614d8ae22,5e892be64bf5e97242183fa5f904c11c,6143da848de7e0d5e6c591d684c5eb52,633fd5027c28e7b2a03b1d9de46a6e88,8ca37c7598c623b4a7d43550c0861221,90e855177888cd23d9cc7dc92d03ad97,97ed084c18e64cea61c6f9ed3c23427c,a9c843c7196233d86010a410786cadea,b4aeec194bac2dfc22c63418c2b7dcf6,c0e15fa209dc5b58d41d339f6cfd55f4,d0098ce160a92020a81fd130f149b8d5,d3dbc8dd9798ac7b8b6e93156f668b6d,dd40c2b1f3dfd4c6987cdc503dff28b9,dee317f074552014ce9fdaa3ff211b2f,fc25e6583a0612439f27310eaeed5970</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">122c3a91a90fd05c93d51239ad9156dd,25e295e3e124a9ce53c84132f9b9244f,3bb0c084e190f59b21104660ab977fcc,522ab46e9f057aacfcd29ba5542042e4,5a1581a857cb1bd6a80ae521cee8d079,5d4889dd4fe915ad5352435614d8ae22,5e892be64bf5e97242183fa5f904c11c,6143da848de7e0d5e6c591d684c5eb52,633fd5027c28e7b2a03b1d9de46a6e88,8ca37c7598c623b4a7d43550c0861221,90e855177888cd23d9cc7dc92d03ad97,97ed084c18e64cea61c6f9ed3c23427c,a9c843c7196233d86010a410786cadea,b4aeec194bac2dfc22c63418c2b7dcf6,c0e15fa209dc5b58d41d339f6cfd55f4,d0098ce160a92020a81fd130f149b8d5,d3dbc8dd9798ac7b8b6e93156f668b6d,dd40c2b1f3dfd4c6987cdc503dff28b9,dee317f074552014ce9fdaa3ff211b2f,fc25e6583a0612439f27310eaeed5970</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">122c3a91a90fd05c93d51239ad9156dd,25e295e3e124a9ce53c84132f9b9244f,3bb0c084e190f59b21104660ab977fcc,522ab46e9f057aacfcd29ba5542042e4,5a1581a857cb1bd6a80ae521cee8d079,5d4889dd4fe915ad5352435614d8ae22,5e892be64bf5e97242183fa5f904c11c,6143da848de7e0d5e6c591d684c5eb52,633fd5027c28e7b2a03b1d9de46a6e88,8ca37c7598c623b4a7d43550c0861221,90e855177888cd23d9cc7dc92d03ad97,97ed084c18e64cea61c6f9ed3c23427c,a9c843c7196233d86010a410786cadea,b4aeec194bac2dfc22c63418c2b7dcf6,c0e15fa209dc5b58d41d339f6cfd55f4,d0098ce160a92020a81fd130f149b8d5,d3dbc8dd9798ac7b8b6e93156f668b6d,dd40c2b1f3dfd4c6987cdc503dff28b9,dee317f074552014ce9fdaa3ff211b2f,fc25e6583a0612439f27310eaeed5970</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">122c3a91a90fd05c93d51239ad9156dd,25e295e3e124a9ce53c84132f9b9244f,3bb0c084e190f59b21104660ab977fcc,522ab46e9f057aacfcd29ba5542042e4,5a1581a857cb1bd6a80ae521cee8d079,5d4889dd4fe915ad5352435614d8ae22,5e892be64bf5e97242183fa5f904c11c,6143da848de7e0d5e6c591d684c5eb52,633fd5027c28e7b2a03b1d9de46a6e88,8ca37c7598c623b4a7d43550c0861221,90e855177888cd23d9cc7dc92d03ad97,97ed084c18e64cea61c6f9ed3c23427c,a9c843c7196233d86010a410786cadea,b4aeec194bac2dfc22c63418c2b7dcf6,c0e15fa209dc5b58d41d339f6cfd55f4,d0098ce160a92020a81fd130f149b8d5,d3dbc8dd9798ac7b8b6e93156f668b6d,dd40c2b1f3dfd4c6987cdc503dff28b9,dee317f074552014ce9fdaa3ff211b2f,fc25e6583a0612439f27310eaeed5970</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">122c3a91a90fd05c93d51239ad9156dd,25e295e3e124a9ce53c84132f9b9244f,3bb0c084e190f59b21104660ab977fcc,522ab46e9f057aacfcd29ba5542042e4,5a1581a857cb1bd6a80ae521cee8d079,5d4889dd4fe915ad5352435614d8ae22,5e892be64bf5e97242183fa5f904c11c,6143da848de7e0d5e6c591d684c5eb52,633fd5027c28e7b2a03b1d9de46a6e88,8ca37c7598c623b4a7d43550c0861221,90e855177888cd23d9cc7dc92d03ad97,97ed084c18e64cea61c6f9ed3c23427c,a9c843c7196233d86010a410786cadea,b4aeec194bac2dfc22c63418c2b7dcf6,c0e15fa209dc5b58d41d339f6cfd55f4,d0098ce160a92020a81fd130f149b8d5,d3dbc8dd9798ac7b8b6e93156f668b6d,dd40c2b1f3dfd4c6987cdc503dff28b9,dee317f074552014ce9fdaa3ff211b2f,fc25e6583a0612439f27310eaeed5970</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">122c3a91a90fd05c93d51239ad9156dd,25e295e3e124a9ce53c84132f9b9244f,3bb0c084e190f59b21104660ab977fcc,522ab46e9f057aacfcd29ba5542042e4,5a1581a857cb1bd6a80ae521cee8d079,5d4889dd4fe915ad5352435614d8ae22,5e892be64bf5e97242183fa5f904c11c,6143da848de7e0d5e6c591d684c5eb52,633fd5027c28e7b2a03b1d9de46a6e88,8ca37c7598c623b4a7d43550c0861221,90e855177888cd23d9cc7dc92d03ad97,97ed084c18e64cea61c6f9ed3c23427c,a9c843c7196233d86010a410786cadea,b4aeec194bac2dfc22c63418c2b7dcf6,c0e15fa209dc5b58d41d339f6cfd55f4,d0098ce160a92020a81fd130f149b8d5,d3dbc8dd9798ac7b8b6e93156f668b6d,dd40c2b1f3dfd4c6987cdc503dff28b9,dee317f074552014ce9fdaa3ff211b2f,fc25e6583a0612439f27310eaeed5970</data>
+    </edge>
+    <edge source="&quot;BIRMINGHAM CITY&quot;" target="&quot;ST ANDREW'S&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Birmingham City hosts its matches at St Andrew's."</data>
+      <data key="d5">dee317f074552014ce9fdaa3ff211b2f</data>
+    </edge>
+    <edge source="&quot;BIRMINGHAM CITY&quot;" target="&quot;LEAGUE CUP FINAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Birmingham City competed in the League Cup Final against Aston Villa in 1963."</data>
+      <data key="d5">dee317f074552014ce9fdaa3ff211b2f</data>
+    </edge>
+    <edge source="&quot;BIRMINGHAM CITY&quot;" target="&quot;KENNETH GORDON FAULKNER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Kenneth Gordon Faulkner played football for Birmingham City."</data>
+      <data key="d5">97ed084c18e64cea61c6f9ed3c23427c</data>
+    </edge>
+    <edge source="&quot;VILLA PARK&quot;" target="&quot;ASTON VILLA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Aston Villa plays its home matches at Villa Park."</data>
+      <data key="d5">dee317f074552014ce9fdaa3ff211b2f</data>
+    </edge>
+    <edge source="&quot;SMALL HEATH&quot;" target="&quot;FA CUP QUARTER FINAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Small Heath played against Aston Villa in the FA Cup Quarter Final in 1901."</data>
+      <data key="d5">dee317f074552014ce9fdaa3ff211b2f</data>
+    </edge>
+    <edge source="&quot;ASTON VILLA&quot;" target="&quot;FA CUP QUARTER FINAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Aston Villa participated in the FA Cup Quarter Final in 1901."</data>
+      <data key="d5">dee317f074552014ce9fdaa3ff211b2f</data>
+    </edge>
+    <edge source="&quot;ASTON VILLA&quot;" target="&quot;HOWARD VAUGHTON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Howard Vaughton played for Aston Villa before opening a silversmith's business."</data>
+      <data key="d5">633fd5027c28e7b2a03b1d9de46a6e88</data>
+    </edge>
+    <edge source="&quot;ROBERT KAUFFMAN&quot;" target="&quot;MICHAEL WALTRIP RACING HOLDINGS LLC&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Michael Waltrip Racing Holdings LLC is co-owned by Robert Kauffman."</data>
+      <data key="d5">dd40c2b1f3dfd4c6987cdc503dff28b9</data>
+    </edge>
+    <edge source="&quot;ROBERT KAUFFMAN&quot;" target="&quot;FORTRESS INVESTMENT GROUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Robert Kauffman is the founder of Fortress Investment Group."</data>
+      <data key="d5">dd40c2b1f3dfd4c6987cdc503dff28b9</data>
+    </edge>
+    <edge source="&quot;MICHAEL WALTRIP&quot;" target="&quot;MICHAEL WALTRIP RACING HOLDINGS LLC&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Michael Waltrip Racing Holdings LLC was founded by Michael Waltrip."</data>
+      <data key="d5">dd40c2b1f3dfd4c6987cdc503dff28b9</data>
+    </edge>
+    <edge source="&quot;TOYOTA&quot;" target="&quot;MICHAEL WALTRIP RACING HOLDINGS LLC&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Michael Waltrip Racing Holdings LLC was one of the first teams to field Toyota Camrys in the Sprint Cup Series."</data>
+      <data key="d5">dd40c2b1f3dfd4c6987cdc503dff28b9</data>
+    </edge>
+    <edge source="&quot;ENGLAND&quot;" target="&quot;PREMIER LEAGUE&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"The Premier League is based in England and has 19 teams from the country participating."</data>
+      <data key="d5">6143da848de7e0d5e6c591d684c5eb52,c0e15fa209dc5b58d41d339f6cfd55f4</data>
+    </edge>
+    <edge source="&quot;ENGLAND&quot;" target="&quot;KENNETH GORDON FAULKNER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Kenneth Gordon Faulkner was from England."</data>
+      <data key="d5">97ed084c18e64cea61c6f9ed3c23427c</data>
+    </edge>
+    <edge source="&quot;ENGLAND&quot;" target="&quot;DAVE SEXTON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dave Sexton managed the England national team from 1967 to 1974."</data>
+      <data key="d5">d3dbc8dd9798ac7b8b6e93156f668b6d</data>
+    </edge>
+    <edge source="&quot;ENGLAND&quot;" target="&quot;TED DRAKE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ted Drake managed the England national team from 1952 to 1961."</data>
+      <data key="d5">d3dbc8dd9798ac7b8b6e93156f668b6d</data>
+    </edge>
+    <edge source="&quot;WALES&quot;" target="&quot;PREMIER LEAGUE&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"The Premier League has one team from Wales participating."</data>
+      <data key="d5">6143da848de7e0d5e6c591d684c5eb52,c0e15fa209dc5b58d41d339f6cfd55f4</data>
+    </edge>
+    <edge source="&quot;UEFA&quot;" target="&quot;PREMIER LEAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Premier League is part of the UEFA confederation."</data>
+      <data key="d5">6143da848de7e0d5e6c591d684c5eb52</data>
+    </edge>
+    <edge source="&quot;MANCHESTER CITY&quot;" target="&quot;PREMIER LEAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Manchester City is a football club that participates in the Premier League and has won the title three times."</data>
+      <data key="d5">c0e15fa209dc5b58d41d339f6cfd55f4</data>
+    </edge>
+    <edge source="&quot;MANCHESTER UNITED&quot;" target="&quot;PREMIER LEAGUE&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Here is the comprehensive summary:
+
+Manchester United, a football club, has won the most championships in the Premier League.
+
+Let me know if you need any further assistance!</data>
+      <data key="d5">6143da848de7e0d5e6c591d684c5eb52,c0e15fa209dc5b58d41d339f6cfd55f4</data>
+    </edge>
+    <edge source="&quot;MANCHESTER UNITED&quot;" target="&quot;MILLENNIUM STADIUM, CARDIFF&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Manchester United played against Arsenal at the Millennium Stadium, Cardiff in the 2005 FA Cup Final."</data>
+      <data key="d5">3bb0c084e190f59b21104660ab977fcc</data>
+    </edge>
+    <edge source="&quot;MANCHESTER UNITED&quot;" target="&quot;PAUL SCHOLES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Paul Scholes is a player for Manchester United whose shot was saved by Jens Lehmann in the 2005 FA Cup Final."</data>
+      <data key="d5">3bb0c084e190f59b21104660ab977fcc</data>
+    </edge>
+    <edge source="&quot;MANCHESTER UNITED&quot;" target="&quot;KEVIN MORAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Kevin Moran is a player for Manchester United."</data>
+      <data key="d5">5d4889dd4fe915ad5352435614d8ae22</data>
+    </edge>
+    <edge source="&quot;MANCHESTER UNITED&quot;" target="&quot;FA CUP FINAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The FA Cup Final is an event in which Manchester United participated."</data>
+      <data key="d5">5d4889dd4fe915ad5352435614d8ae22</data>
+    </edge>
+    <edge source="&quot;GARETH BARRY&quot;" target="&quot;PREMIER LEAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gareth Barry holds the record for most appearances in the Premier League."</data>
+      <data key="d5">c0e15fa209dc5b58d41d339f6cfd55f4</data>
+    </edge>
+    <edge source="&quot;ALAN SHEARER&quot;" target="&quot;PREMIER LEAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alan Shearer is the top goalscorer in the Premier League."</data>
+      <data key="d5">c0e15fa209dc5b58d41d339f6cfd55f4</data>
+    </edge>
+    <edge source="&quot;PREMIER LEAGUE&quot;" target="&quot;CHELSEA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chelsea won the Premier League title in 2016-17."</data>
+      <data key="d5">6143da848de7e0d5e6c591d684c5eb52</data>
+    </edge>
+    <edge source="&quot;LEEDS UNITED&quot;" target="&quot;ARSENAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Arsenal played against Leeds United in the 1972 FA Cup Final."</data>
+      <data key="d5">fc25e6583a0612439f27310eaeed5970</data>
+    </edge>
+    <edge source="&quot;ARSENAL&quot;" target="&quot;1971 FA CUP FINAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Arsenal won the 1971 FA Cup Final, securing the double for the first time in their history."</data>
+      <data key="d5">fc25e6583a0612439f27310eaeed5970</data>
+    </edge>
+    <edge source="&quot;ARSENAL&quot;" target="&quot;1972 FA CUP FINAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Arsenal lost to Leeds United in the 1972 FA Cup Final."</data>
+      <data key="d5">fc25e6583a0612439f27310eaeed5970</data>
+    </edge>
+    <edge source="&quot;ARSENAL&quot;" target="&quot;PATRICK VIEIRA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patrick Vieira is a player for Arsenal who scored the winning penalty in the 2005 FA Cup Final."</data>
+      <data key="d5">3bb0c084e190f59b21104660ab977fcc</data>
+    </edge>
+    <edge source="&quot;ARSENAL&quot;" target="&quot;JENS LEHMANN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jens Lehmann is Arsenal's goalkeeper who saved Paul Scholes' shot in the 2005 FA Cup Final."</data>
+      <data key="d5">3bb0c084e190f59b21104660ab977fcc</data>
+    </edge>
+    <edge source="&quot;ARSENAL&quot;" target="&quot;MILLENNIUM STADIUM, CARDIFF&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Arsenal played against Manchester United at the Millennium Stadium, Cardiff in the 2005 FA Cup Final."</data>
+      <data key="d5">3bb0c084e190f59b21104660ab977fcc</data>
+    </edge>
+    <edge source="&quot;S.LEAGUE&quot;" target="&quot;SINGAPORE FA CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"S.League clubs participate in the Singapore FA Cup, with restrictions on team selection."</data>
+      <data key="d5">b4aeec194bac2dfc22c63418c2b7dcf6</data>
+    </edge>
+    <edge source="&quot;SINGAPORE&quot;" target="&quot;SINGAPORE FA CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Singapore FA Cup takes place in Singapore."</data>
+      <data key="d5">b4aeec194bac2dfc22c63418c2b7dcf6</data>
+    </edge>
+    <edge source="&quot;NFL CLUBS&quot;" target="&quot;SINGAPORE FA CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"NFL Clubs were initially the only participants in the Singapore FA Cup."</data>
+      <data key="d5">b4aeec194bac2dfc22c63418c2b7dcf6</data>
+    </edge>
+    <edge source="&quot;JOE MERCER&quot;" target="&quot;THE CLUB&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Joe Mercer was part of the management team that led the club to success."</data>
+      <data key="d5">8ca37c7598c623b4a7d43550c0861221</data>
+    </edge>
+    <edge source="&quot;MALCOLM ALLISON&quot;" target="&quot;THE CLUB&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Malcolm Allison was part of the management team that led the club to success."</data>
+      <data key="d5">8ca37c7598c623b4a7d43550c0861221</data>
+    </edge>
+    <edge source="&quot;ABU DHABI UNITED GROUP&quot;" target="&quot;THE CLUB&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Abu Dhabi United Group owns and has contributed to the wealth of the club."</data>
+      <data key="d5">8ca37c7598c623b4a7d43550c0861221</data>
+    </edge>
+    <edge source="&quot;FA CUP FINAL&quot;" target="&quot;THE CLUB&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The club lost the FA Cup Final in 1981, marking a period of decline."</data>
+      <data key="d5">8ca37c7598c623b4a7d43550c0861221</data>
+    </edge>
+    <edge source="&quot;FA CUP FINAL&quot;" target="&quot;CRYSTAL PALACE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 1914 FA Cup Final was held at Crystal Palace in London."</data>
+      <data key="d5">d0098ce160a92020a81fd130f149b8d5</data>
+    </edge>
+    <edge source="&quot;FA CUP FINAL&quot;" target="&quot;BURNLEY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Burnley participated in the 1914 FA Cup Final against Liverpool."</data>
+      <data key="d5">d0098ce160a92020a81fd130f149b8d5</data>
+    </edge>
+    <edge source="&quot;LEAGUE CHAMPIONSHIP&quot;" target="&quot;THE CLUB&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The club won the League Championship during its successful period in the late 1960s and early 1970s."</data>
+      <data key="d5">8ca37c7598c623b4a7d43550c0861221</data>
+    </edge>
+    <edge source="&quot;EUROPEAN CUP WINNERS' CUP&quot;" target="&quot;THE CLUB&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The club won the European Cup Winners' Cup during its successful period in the late 1960s and early 1970s."</data>
+      <data key="d5">8ca37c7598c623b4a7d43550c0861221</data>
+    </edge>
+    <edge source="&quot;CHELSEA&quot;" target="&quot;JOHN NEAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"John Neal led Chelsea to a revival in the mid-1980s, winning the Second Division title and re-establishing the club in the top flight."</data>
+      <data key="d5">90e855177888cd23d9cc7dc92d03ad97</data>
+    </edge>
+    <edge source="&quot;CHELSEA&quot;" target="&quot;STAMFORD BRIDGE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chelsea plays its home games at Stamford Bridge, which was the site of an ambitious redevelopment attempt."</data>
+      <data key="d5">90e855177888cd23d9cc7dc92d03ad97</data>
+    </edge>
+    <edge source="&quot;CHELSEA&quot;" target="&quot;FA CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chelsea has won the FA Cup in 1970 and been runners-up in 1967."</data>
+      <data key="d5">90e855177888cd23d9cc7dc92d03ad97</data>
+    </edge>
+    <edge source="&quot;CHELSEA&quot;" target="&quot;LEAGUE CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chelsea has won the League Cup in 1965 and been runners-up in 1972."</data>
+      <data key="d5">90e855177888cd23d9cc7dc92d03ad97</data>
+    </edge>
+    <edge source="&quot;CHELSEA&quot;" target="&quot;UEFA CUP WINNERS' CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chelsea has won the UEFA Cup Winners' Cup in 1971."</data>
+      <data key="d5">90e855177888cd23d9cc7dc92d03ad97</data>
+    </edge>
+    <edge source="&quot;FA CUP&quot;" target="&quot;BBC SPORT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"BBC Sport will broadcast the FA Cup, including the final on BBC One, starting with the 2014-15 season."</data>
+      <data key="d5">a9c843c7196233d86010a410786cadea</data>
+    </edge>
+    <edge source="&quot;FA CUP&quot;" target="&quot;BT SPORT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"BT Sport holds the pay TV rights to broadcast the FA Cup."</data>
+      <data key="d5">a9c843c7196233d86010a410786cadea</data>
+    </edge>
+    <edge source="&quot;FA CUP&quot;" target="&quot;ITV&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"ITV previously held the rights to broadcast the FA Cup, but lost them starting with the 2014-15 season."</data>
+      <data key="d5">a9c843c7196233d86010a410786cadea</data>
+    </edge>
+    <edge source="&quot;FA CUP&quot;" target="&quot;TOTTENHAM HOTSPUR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tottenham Hotspur won the FA Cup in 1901, being the only non-league winners of the tournament."</data>
+      <data key="d5">25e295e3e124a9ce53c84132f9b9244f</data>
+    </edge>
+    <edge source="&quot;FA CUP&quot;" target="&quot;WOLVERHAMPTON WANDERERS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Wolverhampton Wanderers won the FA Cup in 1908, demonstrating their participation and success in the competition."</data>
+      <data key="d5">25e295e3e124a9ce53c84132f9b9244f</data>
+    </edge>
+    <edge source="&quot;FA CUP&quot;" target="&quot;BARNSLEY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Barnsley won the FA Cup in 1912, highlighting their participation and achievement in the tournament."</data>
+      <data key="d5">25e295e3e124a9ce53c84132f9b9244f</data>
+    </edge>
+    <edge source="&quot;FA CUP&quot;" target="&quot;WEST BROMWICH ALBION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"West Bromwich Albion won the FA Cup in 1931, showcasing their participation and success in the competition."</data>
+      <data key="d5">25e295e3e124a9ce53c84132f9b9244f</data>
+    </edge>
+    <edge source="&quot;FA CUP&quot;" target="&quot;SUNDERLAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sunderland won the FA Cup in 1973, demonstrating their participation and achievement in the tournament."</data>
+      <data key="d5">25e295e3e124a9ce53c84132f9b9244f</data>
+    </edge>
+    <edge source="&quot;FA CUP&quot;" target="&quot;SOUTHAMPTON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Southampton won the FA Cup in 1976 and was also a finalist in 1902, highlighting their participation and success in the competition."</data>
+      <data key="d5">25e295e3e124a9ce53c84132f9b9244f</data>
+    </edge>
+    <edge source="&quot;FA CUP&quot;" target="&quot;WEST HAM UNITED&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"West Ham United won the FA Cup in 1980, showcasing their participation and achievement in the tournament."</data>
+      <data key="d5">25e295e3e124a9ce53c84132f9b9244f</data>
+    </edge>
+    <edge source="&quot;FA CUP&quot;" target="&quot;NOTTS COUNTY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Notts County won the FA Cup in 1894, indicating their participation and success in the competition."</data>
+      <data key="d5">25e295e3e124a9ce53c84132f9b9244f</data>
+    </edge>
+    <edge source="&quot;WALES NATIONAL FOOTBALL TEAM&quot;" target="&quot;FIFA WORLD CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Wales national football team has participated in the FIFA World Cup, but only qualified once in 1958."</data>
+      <data key="d5">122c3a91a90fd05c93d51239ad9156dd</data>
+    </edge>
+    <edge source="&quot;BRAZIL&quot;" target="&quot;FIFA WORLD CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Brazil won the FIFA World Cup in 1958, defeating Wales in the quarter-finals."</data>
+      <data key="d5">122c3a91a90fd05c93d51239ad9156dd</data>
+    </edge>
+    <edge source="&quot;HARRY CATTERICK&quot;" target="&quot;EVERTON FC&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Harry Catterick was a former manager of Everton FC."</data>
+      <data key="d5">5a1581a857cb1bd6a80ae521cee8d079</data>
+    </edge>
+    <edge source="&quot;HOWARD KENDALL&quot;" target="&quot;EVERTON FC&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Howard Kendall is a former manager of Everton FC who won multiple trophies with the club."</data>
+      <data key="d5">5a1581a857cb1bd6a80ae521cee8d079</data>
+    </edge>
+    <edge source="&quot;EVERTON FC&quot;" target="&quot;ROBERTO MART&#205;NEZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Roberto Mart&#237;nez is the current manager of Everton FC."</data>
+      <data key="d5">5a1581a857cb1bd6a80ae521cee8d079</data>
+    </edge>
+    <edge source="&quot;BIRMINGHAM&quot;" target="&quot;W. SHILLCOCK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"W. Shillcock's shop is located in Birmingham."</data>
+      <data key="d5">633fd5027c28e7b2a03b1d9de46a6e88</data>
+    </edge>
+    <edge source="&quot;W. SHILLCOCK&quot;" target="&quot;THE TROPHY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Trophy was stolen from W. Shillcock's shop."</data>
+      <data key="d5">633fd5027c28e7b2a03b1d9de46a6e88</data>
+    </edge>
+    <edge source="&quot;TOMMY DOCHERTY&quot;" target="&quot;SCOTLAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tommy Docherty managed the Scotland national team from 1961 to 1967."</data>
+      <data key="d5">d3dbc8dd9798ac7b8b6e93156f668b6d</data>
+    </edge>
+  </graph>
+</graphml>

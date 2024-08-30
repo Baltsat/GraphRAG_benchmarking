@@ -1,0 +1,1540 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="level" attr.type="long" />
+  <key id="d6" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d5" for="node" attr.name="id" attr.type="string" />
+  <key id="d4" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d3" for="node" attr.name="degree" attr.type="long" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;HENRY'S FORK CALDERA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Henry's Fork Caldera is a geographic location formed during the Mesa Falls eruption 1.3 million years ago."</data>
+      <data key="d2">968e09827ef6b269a0a1b441c8a3fbdd</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;YELLOWSTONE CALDERA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Yellowstone Caldera is a geographic location formed during the Lava Creek eruption approximately 630,000 years ago."</data>
+      <data key="d2">968e09827ef6b269a0a1b441c8a3fbdd</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;HUCKLEBERRY RIDGE ERUPTION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Huckleberry Ridge eruption is an event that occurred 2.1 million years ago, creating the Island Park Caldera and the Huckleberry Ridge Tuff."</data>
+      <data key="d2">968e09827ef6b269a0a1b441c8a3fbdd</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;MESA FALLS ERUPTION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Mesa Falls eruption is an event that occurred 1.3 million years ago, creating the Henry's Fork Caldera and the Mesa Falls Tuff."</data>
+      <data key="d2">968e09827ef6b269a0a1b441c8a3fbdd</data>
+      <data key="d3">1</data>
+      <data key="d4">3</data>
+      <data key="d5">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;LAVA CREEK ERUPTION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Lava Creek eruption is an event that occurred approximately 630,000 years ago, creating the Yellowstone Caldera and the Lava Creek Tuff."</data>
+      <data key="d2">968e09827ef6b269a0a1b441c8a3fbdd</data>
+      <data key="d3">1</data>
+      <data key="d4">4</data>
+      <data key="d5">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;ISLAND PARK CALDERA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">968e09827ef6b269a0a1b441c8a3fbdd</data>
+      <data key="d3">1</data>
+      <data key="d4">5</data>
+      <data key="d5">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">00112fd67dfd06e42d342943f1095259,0c4eb4ad530e295cdb32a36ec339497d,0d8b529797b370bf4b28e2143157e43f,0ef198779f0b14fe0f0acacc575419e5,1409972ca1d7b37f8390d86819ef03c1,261ddd8d78d3e2f33cb69a7a2eab107a,3e00d0bf1d1a42e9fc35aaaefe140a0a,5ae9b6e0b0070abb4563a2bd1a5152e2,5cbdb5f65e519392ae92a57712c22d38,6260ff4cfe8e3b2f15e9b24274abf58d,702ba1e78944be6f9d2879c1b2352043,70546d52a4a5bbadccaba6c943f68b6f,7fd5a5a0c99dedfa6dad8f027b343aed,80b45ec7cb7729276ec1bc78527a4278,85b2246251b3cd8b3d0a767b5ef09b2f,968e09827ef6b269a0a1b441c8a3fbdd,a32c3a9704b21bf6c3beec81f6d156b7,a534bd034aea377295301818e1dc8541,b27611f9ffbc1f3764fd04cc8216d0cc,fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d3">2</data>
+      <data key="d4">6</data>
+      <data key="d5">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">00112fd67dfd06e42d342943f1095259,0c4eb4ad530e295cdb32a36ec339497d,0d8b529797b370bf4b28e2143157e43f,0ef198779f0b14fe0f0acacc575419e5,1409972ca1d7b37f8390d86819ef03c1,261ddd8d78d3e2f33cb69a7a2eab107a,3e00d0bf1d1a42e9fc35aaaefe140a0a,5ae9b6e0b0070abb4563a2bd1a5152e2,5cbdb5f65e519392ae92a57712c22d38,6260ff4cfe8e3b2f15e9b24274abf58d,702ba1e78944be6f9d2879c1b2352043,70546d52a4a5bbadccaba6c943f68b6f,7fd5a5a0c99dedfa6dad8f027b343aed,80b45ec7cb7729276ec1bc78527a4278,85b2246251b3cd8b3d0a767b5ef09b2f,968e09827ef6b269a0a1b441c8a3fbdd,a32c3a9704b21bf6c3beec81f6d156b7,a534bd034aea377295301818e1dc8541,b27611f9ffbc1f3764fd04cc8216d0cc,fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d3">1</data>
+      <data key="d4">7</data>
+      <data key="d5">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">00112fd67dfd06e42d342943f1095259,0c4eb4ad530e295cdb32a36ec339497d,0d8b529797b370bf4b28e2143157e43f,0ef198779f0b14fe0f0acacc575419e5,1409972ca1d7b37f8390d86819ef03c1,261ddd8d78d3e2f33cb69a7a2eab107a,3e00d0bf1d1a42e9fc35aaaefe140a0a,5ae9b6e0b0070abb4563a2bd1a5152e2,5cbdb5f65e519392ae92a57712c22d38,6260ff4cfe8e3b2f15e9b24274abf58d,702ba1e78944be6f9d2879c1b2352043,70546d52a4a5bbadccaba6c943f68b6f,7fd5a5a0c99dedfa6dad8f027b343aed,80b45ec7cb7729276ec1bc78527a4278,85b2246251b3cd8b3d0a767b5ef09b2f,968e09827ef6b269a0a1b441c8a3fbdd,a32c3a9704b21bf6c3beec81f6d156b7,a534bd034aea377295301818e1dc8541,b27611f9ffbc1f3764fd04cc8216d0cc,fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d3">4</data>
+      <data key="d4">8</data>
+      <data key="d5">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">00112fd67dfd06e42d342943f1095259,0c4eb4ad530e295cdb32a36ec339497d,0d8b529797b370bf4b28e2143157e43f,0ef198779f0b14fe0f0acacc575419e5,1409972ca1d7b37f8390d86819ef03c1,261ddd8d78d3e2f33cb69a7a2eab107a,3e00d0bf1d1a42e9fc35aaaefe140a0a,5ae9b6e0b0070abb4563a2bd1a5152e2,5cbdb5f65e519392ae92a57712c22d38,6260ff4cfe8e3b2f15e9b24274abf58d,702ba1e78944be6f9d2879c1b2352043,70546d52a4a5bbadccaba6c943f68b6f,7fd5a5a0c99dedfa6dad8f027b343aed,80b45ec7cb7729276ec1bc78527a4278,85b2246251b3cd8b3d0a767b5ef09b2f,968e09827ef6b269a0a1b441c8a3fbdd,a32c3a9704b21bf6c3beec81f6d156b7,a534bd034aea377295301818e1dc8541,b27611f9ffbc1f3764fd04cc8216d0cc,fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d3">1</data>
+      <data key="d4">9</data>
+      <data key="d5">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">00112fd67dfd06e42d342943f1095259,0c4eb4ad530e295cdb32a36ec339497d,0d8b529797b370bf4b28e2143157e43f,0ef198779f0b14fe0f0acacc575419e5,1409972ca1d7b37f8390d86819ef03c1,261ddd8d78d3e2f33cb69a7a2eab107a,3e00d0bf1d1a42e9fc35aaaefe140a0a,5ae9b6e0b0070abb4563a2bd1a5152e2,5cbdb5f65e519392ae92a57712c22d38,6260ff4cfe8e3b2f15e9b24274abf58d,702ba1e78944be6f9d2879c1b2352043,70546d52a4a5bbadccaba6c943f68b6f,7fd5a5a0c99dedfa6dad8f027b343aed,80b45ec7cb7729276ec1bc78527a4278,85b2246251b3cd8b3d0a767b5ef09b2f,968e09827ef6b269a0a1b441c8a3fbdd,a32c3a9704b21bf6c3beec81f6d156b7,a534bd034aea377295301818e1dc8541,b27611f9ffbc1f3764fd04cc8216d0cc,fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d3">1</data>
+      <data key="d4">10</data>
+      <data key="d5">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">00112fd67dfd06e42d342943f1095259,0c4eb4ad530e295cdb32a36ec339497d,0d8b529797b370bf4b28e2143157e43f,0ef198779f0b14fe0f0acacc575419e5,1409972ca1d7b37f8390d86819ef03c1,261ddd8d78d3e2f33cb69a7a2eab107a,3e00d0bf1d1a42e9fc35aaaefe140a0a,5ae9b6e0b0070abb4563a2bd1a5152e2,5cbdb5f65e519392ae92a57712c22d38,6260ff4cfe8e3b2f15e9b24274abf58d,702ba1e78944be6f9d2879c1b2352043,70546d52a4a5bbadccaba6c943f68b6f,7fd5a5a0c99dedfa6dad8f027b343aed,80b45ec7cb7729276ec1bc78527a4278,85b2246251b3cd8b3d0a767b5ef09b2f,968e09827ef6b269a0a1b441c8a3fbdd,a32c3a9704b21bf6c3beec81f6d156b7,a534bd034aea377295301818e1dc8541,b27611f9ffbc1f3764fd04cc8216d0cc,fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d3">2</data>
+      <data key="d4">11</data>
+      <data key="d5">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">00112fd67dfd06e42d342943f1095259,0c4eb4ad530e295cdb32a36ec339497d,0d8b529797b370bf4b28e2143157e43f,0ef198779f0b14fe0f0acacc575419e5,1409972ca1d7b37f8390d86819ef03c1,261ddd8d78d3e2f33cb69a7a2eab107a,3e00d0bf1d1a42e9fc35aaaefe140a0a,5ae9b6e0b0070abb4563a2bd1a5152e2,5cbdb5f65e519392ae92a57712c22d38,6260ff4cfe8e3b2f15e9b24274abf58d,702ba1e78944be6f9d2879c1b2352043,70546d52a4a5bbadccaba6c943f68b6f,7fd5a5a0c99dedfa6dad8f027b343aed,80b45ec7cb7729276ec1bc78527a4278,85b2246251b3cd8b3d0a767b5ef09b2f,968e09827ef6b269a0a1b441c8a3fbdd,a32c3a9704b21bf6c3beec81f6d156b7,a534bd034aea377295301818e1dc8541,b27611f9ffbc1f3764fd04cc8216d0cc,fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d3">1</data>
+      <data key="d4">12</data>
+      <data key="d5">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">00112fd67dfd06e42d342943f1095259,0c4eb4ad530e295cdb32a36ec339497d,0d8b529797b370bf4b28e2143157e43f,0ef198779f0b14fe0f0acacc575419e5,1409972ca1d7b37f8390d86819ef03c1,261ddd8d78d3e2f33cb69a7a2eab107a,3e00d0bf1d1a42e9fc35aaaefe140a0a,5ae9b6e0b0070abb4563a2bd1a5152e2,5cbdb5f65e519392ae92a57712c22d38,6260ff4cfe8e3b2f15e9b24274abf58d,702ba1e78944be6f9d2879c1b2352043,70546d52a4a5bbadccaba6c943f68b6f,7fd5a5a0c99dedfa6dad8f027b343aed,80b45ec7cb7729276ec1bc78527a4278,85b2246251b3cd8b3d0a767b5ef09b2f,968e09827ef6b269a0a1b441c8a3fbdd,a32c3a9704b21bf6c3beec81f6d156b7,a534bd034aea377295301818e1dc8541,b27611f9ffbc1f3764fd04cc8216d0cc,fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d3">1</data>
+      <data key="d4">13</data>
+      <data key="d5">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">00112fd67dfd06e42d342943f1095259,0c4eb4ad530e295cdb32a36ec339497d,0d8b529797b370bf4b28e2143157e43f,0ef198779f0b14fe0f0acacc575419e5,1409972ca1d7b37f8390d86819ef03c1,261ddd8d78d3e2f33cb69a7a2eab107a,3e00d0bf1d1a42e9fc35aaaefe140a0a,5ae9b6e0b0070abb4563a2bd1a5152e2,5cbdb5f65e519392ae92a57712c22d38,6260ff4cfe8e3b2f15e9b24274abf58d,702ba1e78944be6f9d2879c1b2352043,70546d52a4a5bbadccaba6c943f68b6f,7fd5a5a0c99dedfa6dad8f027b343aed,80b45ec7cb7729276ec1bc78527a4278,85b2246251b3cd8b3d0a767b5ef09b2f,968e09827ef6b269a0a1b441c8a3fbdd,a32c3a9704b21bf6c3beec81f6d156b7,a534bd034aea377295301818e1dc8541,b27611f9ffbc1f3764fd04cc8216d0cc,fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d3">0</data>
+      <data key="d4">14</data>
+      <data key="d5">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">00112fd67dfd06e42d342943f1095259,0c4eb4ad530e295cdb32a36ec339497d,0d8b529797b370bf4b28e2143157e43f,0ef198779f0b14fe0f0acacc575419e5,1409972ca1d7b37f8390d86819ef03c1,261ddd8d78d3e2f33cb69a7a2eab107a,3e00d0bf1d1a42e9fc35aaaefe140a0a,5ae9b6e0b0070abb4563a2bd1a5152e2,5cbdb5f65e519392ae92a57712c22d38,6260ff4cfe8e3b2f15e9b24274abf58d,702ba1e78944be6f9d2879c1b2352043,70546d52a4a5bbadccaba6c943f68b6f,7fd5a5a0c99dedfa6dad8f027b343aed,80b45ec7cb7729276ec1bc78527a4278,85b2246251b3cd8b3d0a767b5ef09b2f,968e09827ef6b269a0a1b441c8a3fbdd,a32c3a9704b21bf6c3beec81f6d156b7,a534bd034aea377295301818e1dc8541,b27611f9ffbc1f3764fd04cc8216d0cc,fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d3">5</data>
+      <data key="d4">15</data>
+      <data key="d5">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;PACIFIC RING OF FIRE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Pacific Ring of Fire is a geographic region where most volcanoes are situated."</data>
+      <data key="d2">a534bd034aea377295301818e1dc8541</data>
+      <data key="d3">1</data>
+      <data key="d4">16</data>
+      <data key="d5">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;SMITHSONIAN GLOBAL VOLCANISM PROGRAM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a534bd034aea377295301818e1dc8541</data>
+      <data key="d3">1</data>
+      <data key="d4">17</data>
+      <data key="d5">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;GEORGES SIMENON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Georges Simenon is a Belgian writer and author of the Inspector Jules Maigret series."</data>
+      <data key="d2">5ae9b6e0b0070abb4563a2bd1a5152e2</data>
+      <data key="d3">2</data>
+      <data key="d4">18</data>
+      <data key="d5">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;INSPECTOR JULES MAIGRET&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Inspector Jules Maigret is a legendary figure in detective fiction, featured in over a hundred stories by Georges Simenon."</data>
+      <data key="d2">5ae9b6e0b0070abb4563a2bd1a5152e2</data>
+      <data key="d3">2</data>
+      <data key="d4">19</data>
+      <data key="d5">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;BELGIUM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Belgium is the country of origin of writer Georges Simenon."</data>
+      <data key="d2">5ae9b6e0b0070abb4563a2bd1a5152e2</data>
+      <data key="d3">1</data>
+      <data key="d4">20</data>
+      <data key="d5">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;THE STRANGE CASE OF PETER THE LETT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Strange Case of Peter the Lett is a detective novel published in 1931, featuring Inspector Jules Maigret."</data>
+      <data key="d2">5ae9b6e0b0070abb4563a2bd1a5152e2</data>
+      <data key="d3">1</data>
+      <data key="d4">21</data>
+      <data key="d5">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;NENNIUS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Nennius is a Welsh cleric attributed with compiling the Historia Brittonum, a 9th-century Latin historical compilation."</data>
+      <data key="d2">5cbdb5f65e519392ae92a57712c22d38</data>
+      <data key="d3">1</data>
+      <data key="d4">22</data>
+      <data key="d5">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;HISTORIA BRITTONUM&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Historia Brittonum is a 9th-century Latin historical compilation that contains the first datable mention of King Arthur and lists twelve battles he fought."</data>
+      <data key="d2">5cbdb5f65e519392ae92a57712c22d38</data>
+      <data key="d3">2</data>
+      <data key="d4">23</data>
+      <data key="d5">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;ANNALES CAMBRIAE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Annales Cambriae, also known as the Welsh Annals, are a collection of historical records that provide evidence for the existence of King Arthur."</data>
+      <data key="d2">5cbdb5f65e519392ae92a57712c22d38</data>
+      <data key="d3">0</data>
+      <data key="d4">24</data>
+      <data key="d5">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;BATTLE OF BADON&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Battle of Badon is a battle where King Arthur is said to have single-handedly killed 960 men, according to the Historia Brittonum."</data>
+      <data key="d2">5cbdb5f65e519392ae92a57712c22d38</data>
+      <data key="d3">1</data>
+      <data key="d4">25</data>
+      <data key="d5">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;KING ARTHUR&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+King Arthur is a legendary figure featured in Geoffrey of Monmouth's Historia Regum Britanniae, symbolizing chivalry and heroism.</data>
+      <data key="d2">5cbdb5f65e519392ae92a57712c22d38,a32c3a9704b21bf6c3beec81f6d156b7</data>
+      <data key="d3">2</data>
+      <data key="d4">26</data>
+      <data key="d5">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;PORREX II&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Porrex II was the father of Cherin, a legendary king of the Britons. He was also the grandson of Catellus and succeeded his father Coel as king.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">0c4eb4ad530e295cdb32a36ec339497d,1409972ca1d7b37f8390d86819ef03c1,3e00d0bf1d1a42e9fc35aaaefe140a0a</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">3</data>
+      <data key="d4">27</data>
+      <data key="d5">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;FULGENIUS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Fulgenius was one of the three sons of Cherin who succeeded him as king"</data>
+      <data key="d2">3e00d0bf1d1a42e9fc35aaaefe140a0a</data>
+      <data key="d3">0</data>
+      <data key="d4">28</data>
+      <data key="d5">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;EDADUS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Edadus was one of the three sons of Cherin who succeeded him as king"</data>
+      <data key="d2">3e00d0bf1d1a42e9fc35aaaefe140a0a</data>
+      <data key="d3">0</data>
+      <data key="d4">29</data>
+      <data key="d5">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;ANDRAGIUS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Andragius was one of the three sons of Cherin who succeeded him as king"</data>
+      <data key="d2">3e00d0bf1d1a42e9fc35aaaefe140a0a</data>
+      <data key="d3">0</data>
+      <data key="d4">30</data>
+      <data key="d5">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;GEOFFREY OF MONMOUTH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Geoffrey of Monmouth is a historian and writer who authored the pseudohistorical chronicle "Historia Regum Britanniae", a collection of stories and legends about King Arthur, written around 1136. In this work, he refers to the island as Britannia major and Britannia minor. The chronicle recounts the stories of various legendary figures, including Catellus, Eldol, Cherin, and Porrex II, who are all presented as kings of Britain. Through his writing, Geoffrey of Monmouth provides a historical account that blends fact and fiction, offering a unique perspective on the history of Britain.</data>
+      <data key="d2">00112fd67dfd06e42d342943f1095259,0c4eb4ad530e295cdb32a36ec339497d,1409972ca1d7b37f8390d86819ef03c1,3e00d0bf1d1a42e9fc35aaaefe140a0a,7fd5a5a0c99dedfa6dad8f027b343aed,a32c3a9704b21bf6c3beec81f6d156b7,b27611f9ffbc1f3764fd04cc8216d0cc</data>
+      <data key="d6">3</data>
+      <data key="d7">0</data>
+      <data key="d3">3</data>
+      <data key="d4">31</data>
+      <data key="d5">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&quot;BRITONS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Britons were a group of people with a disputed leadership history. According to different accounts, they were ruled by either Cherin, a legendary king, or King Catellus, as described by Geoffrey, or alternatively, by King Porrex II. Despite these conflicting reports, it is clear that the Britons were a distinct group of people with a rich history and multiple claims to their leadership heritage.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">0c4eb4ad530e295cdb32a36ec339497d,1409972ca1d7b37f8390d86819ef03c1,3e00d0bf1d1a42e9fc35aaaefe140a0a</data>
+      <data key="d3">0</data>
+      <data key="d4">32</data>
+      <data key="d5">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&quot;HELMETED BRITANNIA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Helmeted Britannia is a figure featured on the front of Series B &#163;5 notes."</data>
+      <data key="d2">70546d52a4a5bbadccaba6c943f68b6f</data>
+      <data key="d3">0</data>
+      <data key="d4">33</data>
+      <data key="d5">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&quot;QUEEN ELIZABETH II&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Queen Elizabeth II is the monarch whose portrait appears on several series of &#163;5 notes."</data>
+      <data key="d2">70546d52a4a5bbadccaba6c943f68b6f</data>
+      <data key="d3">1</data>
+      <data key="d4">34</data>
+      <data key="d5">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&quot;DUKE OF WELLINGTON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Duke of Wellington is a historical figure featured on the back of Series D &#163;5 notes."</data>
+      <data key="d2">70546d52a4a5bbadccaba6c943f68b6f</data>
+      <data key="d3">1</data>
+      <data key="d4">35</data>
+      <data key="d5">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&quot;GEORGE STEPHENSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"George Stephenson is a historical figure featured on the back of Series E &#163;5 notes."</data>
+      <data key="d2">70546d52a4a5bbadccaba6c943f68b6f</data>
+      <data key="d3">0</data>
+      <data key="d4">36</data>
+      <data key="d5">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&quot;ELIZABETH FRY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Elizabeth Fry is a historical figure featured on the back of Series E (variant) &#163;5 notes."</data>
+      <data key="d2">70546d52a4a5bbadccaba6c943f68b6f</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&quot;WINSTON CHURCHILL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Winston Churchill is a historical figure featured on the back of Series G (polymer) &#163;5 notes."</data>
+      <data key="d2">70546d52a4a5bbadccaba6c943f68b6f</data>
+      <data key="d3">0</data>
+      <data key="d4">38</data>
+      <data key="d5">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&quot;BANK OF ENGLAND&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">70546d52a4a5bbadccaba6c943f68b6f</data>
+      <data key="d3">1</data>
+      <data key="d4">39</data>
+      <data key="d5">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <node id="&quot;&#163;5 NOTE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">70546d52a4a5bbadccaba6c943f68b6f</data>
+      <data key="d3">1</data>
+      <data key="d4">40</data>
+      <data key="d5">3ce7c210a21b4deebad7cc9308148d86</data>
+    </node>
+    <node id="&quot;SERIES C &#163;5 NOTE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">70546d52a4a5bbadccaba6c943f68b6f</data>
+      <data key="d3">1</data>
+      <data key="d4">41</data>
+      <data key="d5">d64ed762ea924caa95c8d06f072a9a96</data>
+    </node>
+    <node id="&quot;SERIES D &#163;5 NOTE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">70546d52a4a5bbadccaba6c943f68b6f</data>
+      <data key="d3">1</data>
+      <data key="d4">42</data>
+      <data key="d5">adf4ee3fbe9b4d0381044838c4f889c8</data>
+    </node>
+    <node id="&quot;KING MORVIDUS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"King Morvidus is the father of Peredurus and other brothers in Geoffrey of Monmouth's chronicle"</data>
+      <data key="d2">7fd5a5a0c99dedfa6dad8f027b343aed</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">43</data>
+      <data key="d5">32ee140946e5461f9275db664dc541a5</data>
+    </node>
+    <node id="&quot;GORBONIANUS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gorbonianus is a brother of Peredurus and son of King Morvidus in Geoffrey of Monmouth's chronicle"</data>
+      <data key="d2">7fd5a5a0c99dedfa6dad8f027b343aed</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">44</data>
+      <data key="d5">c160b9cb27d6408ba6ab20214a2f3f81</data>
+    </node>
+    <node id="&quot;ARCHGALLO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Archgallo is a brother of Peredurus and son of King Morvidus in Geoffrey of Monmouth's chronicle"</data>
+      <data key="d2">7fd5a5a0c99dedfa6dad8f027b343aed</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">45</data>
+      <data key="d5">23527cd679ff4d5a988d52e7cd056078</data>
+    </node>
+    <node id="&quot;ELIDURUS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Elidurus is a brother of Peredurus and son of King Morvidus in Geoffrey of Monmouth's chronicle"</data>
+      <data key="d2">7fd5a5a0c99dedfa6dad8f027b343aed</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">46</data>
+      <data key="d5">f1c6eed066f24cbdb376b910fce29ed4</data>
+    </node>
+    <node id="&quot;INGENIUS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ingenius is a brother of Peredurus and son of King Morvidus in Geoffrey of Monmouth's chronicle"</data>
+      <data key="d2">7fd5a5a0c99dedfa6dad8f027b343aed</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">47</data>
+      <data key="d5">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+    </node>
+    <node id="&quot;HISTORIA REGUM BRITANNIAE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+"Historia Regum Britanniae" is a pseudohistorical chronicle written by Geoffrey of Monmouth around 1136, featuring Eldol as a legendary king of Britain.</data>
+      <data key="d2">00112fd67dfd06e42d342943f1095259,1409972ca1d7b37f8390d86819ef03c1,7fd5a5a0c99dedfa6dad8f027b343aed,a32c3a9704b21bf6c3beec81f6d156b7,b27611f9ffbc1f3764fd04cc8216d0cc</data>
+      <data key="d6">3</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">48</data>
+      <data key="d5">147c038aef3e4422acbbc5f7938c4ab8</data>
+    </node>
+    <node id="&quot;PEREDURUS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7fd5a5a0c99dedfa6dad8f027b343aed</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">6</data>
+      <data key="d4">49</data>
+      <data key="d5">b7702b90c7f24190b864e8c6e64612a5</data>
+    </node>
+    <node id="&quot;TENGGER CALDERA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Tengger Caldera is a geographic location that encompasses Mount Bromo, Semeru, Batok, and Widodaren."</data>
+      <data key="d2">fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d3">4</data>
+      <data key="d4">50</data>
+      <data key="d5">de6fa24480894518ab3cbcb66f739266</data>
+    </node>
+    <node id="&quot;SEMERU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Semeru is a mountain located in the Tengger Caldera, Java, Indonesia."</data>
+      <data key="d2">fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d3">1</data>
+      <data key="d4">51</data>
+      <data key="d5">6fae5ee1a831468aa585a1ea09095998</data>
+    </node>
+    <node id="&quot;BATOK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Batok is a mountain located in the Tengger Caldera, Java, Indonesia."</data>
+      <data key="d2">fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d3">1</data>
+      <data key="d4">52</data>
+      <data key="d5">ef32c4b208d041cc856f6837915dc1b0</data>
+    </node>
+    <node id="&quot;WIDODAREN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Widodaren is a mountain located in the Tengger Caldera, Java, Indonesia."</data>
+      <data key="d2">fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d3">1</data>
+      <data key="d4">53</data>
+      <data key="d5">07b2425216bd4f0aa4e079827cb48ef5</data>
+    </node>
+    <node id="&quot;JAVA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Java is an island in Indonesia where Mount Bromo and other mountains are located."</data>
+      <data key="d2">fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d3">2</data>
+      <data key="d4">54</data>
+      <data key="d5">2670deebfa3f4d69bb82c28ab250a209</data>
+    </node>
+    <node id="&quot;INDONESIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Indonesia is a country in Southeast Asia where Java Island is located."</data>
+      <data key="d2">fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d3">1</data>
+      <data key="d4">55</data>
+      <data key="d5">404309e89a5241d6bff42c05a45df206</data>
+    </node>
+    <node id="&quot;MOUNT BROMO&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d3">2</data>
+      <data key="d4">56</data>
+      <data key="d5">b785a9025069417f94950ad231bb1441</data>
+    </node>
+    <node id="&quot;LEWIS AND CLARK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lewis and Clark were explorers who arrived at Mount Hood in 1805, shortly after a recent eruptive episode."</data>
+      <data key="d2">0d8b529797b370bf4b28e2143157e43f</data>
+      <data key="d3">1</data>
+      <data key="d4">57</data>
+      <data key="d5">3b6cd96a27304614850709aba1c9598b</data>
+    </node>
+    <node id="&quot;CRATER ROCK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Crater Rock is a prominent feature below the summit of Mount Hood, hypothesized to be the remains of an eroded lava dome."</data>
+      <data key="d2">0d8b529797b370bf4b28e2143157e43f</data>
+      <data key="d3">1</data>
+      <data key="d4">58</data>
+      <data key="d5">d54956b79dd147f894b67a8b97dcbef0</data>
+    </node>
+    <node id="&quot;MOUNT HOOD&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0d8b529797b370bf4b28e2143157e43f</data>
+      <data key="d3">2</data>
+      <data key="d4">59</data>
+      <data key="d5">958beecdb5bb4060948415ffd75d2b03</data>
+    </node>
+    <node id="&quot;ERUPTIVE PERIOD&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0d8b529797b370bf4b28e2143157e43f</data>
+      <data key="d3">1</data>
+      <data key="d4">60</data>
+      <data key="d5">b999ed77e19e4f85b7f1ae79af5c002a</data>
+    </node>
+    <node id="&quot;MAJOR ERUPTION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0d8b529797b370bf4b28e2143157e43f</data>
+      <data key="d3">1</data>
+      <data key="d4">61</data>
+      <data key="d5">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+    </node>
+    <node id="&quot;KING GERENNUS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"King Gerennus was the father of Catellus, according to Geoffrey's account."</data>
+      <data key="d2">0c4eb4ad530e295cdb32a36ec339497d</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">62</data>
+      <data key="d5">4f3c97517f794ebfb49c4c6315f9cf23</data>
+    </node>
+    <node id="&quot;MILLUS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Millus was the son of Catellus and succeeded him as king."</data>
+      <data key="d2">0c4eb4ad530e295cdb32a36ec339497d</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">63</data>
+      <data key="d5">1745a2485a9443bab76587ad650e9be0</data>
+    </node>
+    <node id="&quot;COEL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Coel was the son of Catellus in some versions of 'Brut y Brenhinedd', a series of Welsh versions of Geoffrey's 'Historia'."</data>
+      <data key="d2">0c4eb4ad530e295cdb32a36ec339497d</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">64</data>
+      <data key="d5">32e6ccab20d94029811127dbbe424c64</data>
+    </node>
+    <node id="&quot;CATELLUS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0c4eb4ad530e295cdb32a36ec339497d</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">4</data>
+      <data key="d4">65</data>
+      <data key="d5">94a964c6992945ebb3833dfdfdc8d655</data>
+    </node>
+    <node id="&quot;INTERNATIONAL SKATING UNION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The International Skating Union is a governing body that sanctions international figure skating competitions."</data>
+      <data key="d2">80b45ec7cb7729276ec1bc78527a4278</data>
+      <data key="d3">1</data>
+      <data key="d4">66</data>
+      <data key="d5">1eb829d0ace042089f0746f78729696c</data>
+    </node>
+    <node id="&quot;JESENICE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Jesenice is a location in Slovenia where the Triglav Trophy competition is held."</data>
+      <data key="d2">80b45ec7cb7729276ec1bc78527a4278</data>
+      <data key="d3">1</data>
+      <data key="d4">67</data>
+      <data key="d5">015e7b58d1a14b44beab3bbc9f912c18</data>
+    </node>
+    <node id="&quot;SLOVENIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Slovenia is a country where the Triglav Trophy competition takes place."</data>
+      <data key="d2">80b45ec7cb7729276ec1bc78527a4278</data>
+      <data key="d3">0</data>
+      <data key="d4">68</data>
+      <data key="d5">26f88ab3e2e04c33a459ad6270ade565</data>
+    </node>
+    <node id="&quot;TRIGLAV TROPHY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">80b45ec7cb7729276ec1bc78527a4278</data>
+      <data key="d3">2</data>
+      <data key="d4">69</data>
+      <data key="d5">babe97e1d9784cffa1c85abc1e588126</data>
+    </node>
+    <node id="&quot;SALISBURY CRAGS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Salisbury Crags are basalt cliffs formed between Arthur's Seat and the city centre through glacial erosion."</data>
+      <data key="d2">0ef198779f0b14fe0f0acacc575419e5</data>
+      <data key="d3">2</data>
+      <data key="d4">70</data>
+      <data key="d5">1033a18c45aa4584b2aef6ab96890351</data>
+    </node>
+    <node id="&quot;ARTHUR'S SEAT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arthur's Seat is a location resembling a lion couchant, with extinct vents making up the 'Lion's Head' and the 'Lion's Haunch'."</data>
+      <data key="d2">0ef198779f0b14fe0f0acacc575419e5</data>
+      <data key="d3">2</data>
+      <data key="d4">71</data>
+      <data key="d5">c9b8ce91fc2945b4907fe35519339cac</data>
+    </node>
+    <node id="&quot;EDINBURGH CASTLE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0ef198779f0b14fe0f0acacc575419e5</data>
+      <data key="d3">2</data>
+      <data key="d4">72</data>
+      <data key="d5">fa3c4204421c48609e52c8de2da4c654</data>
+    </node>
+    <node id="&quot;LABOUR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Labour is a political party that lost seats to the SNP in the election."</data>
+      <data key="d2">702ba1e78944be6f9d2879c1b2352043</data>
+      <data key="d3">1</data>
+      <data key="d4">73</data>
+      <data key="d5">53af055f068244d0ac861b2e89376495</data>
+    </node>
+    <node id="&quot;LIBERAL DEMOCRATS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Liberal Democrats are a political party that lost seats to the SNP in the election."</data>
+      <data key="d2">702ba1e78944be6f9d2879c1b2352043</data>
+      <data key="d3">0</data>
+      <data key="d4">74</data>
+      <data key="d5">c03ab3ce8cb74ad2a03b94723bfab3c7</data>
+    </node>
+    <node id="&quot;CONSERVATIVES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Conservatives are a political party that lost one seat to the SNP in the election."</data>
+      <data key="d2">702ba1e78944be6f9d2879c1b2352043</data>
+      <data key="d3">0</data>
+      <data key="d4">75</data>
+      <data key="d5">ed6d2eee9d7b4f5db466b1f6404d31cc</data>
+    </node>
+    <node id="&quot;IAIN GRAY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Iain Gray is the leader of the Labour party who retained his seat in East Lothian."</data>
+      <data key="d2">702ba1e78944be6f9d2879c1b2352043</data>
+      <data key="d3">2</data>
+      <data key="d4">76</data>
+      <data key="d5">fc01e9baa80e417c9206f941bb279407</data>
+    </node>
+    <node id="&quot;EAST LOTHIAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"East Lothian is a constituency where Iain Gray retained his seat."</data>
+      <data key="d2">702ba1e78944be6f9d2879c1b2352043</data>
+      <data key="d3">1</data>
+      <data key="d4">77</data>
+      <data key="d5">56d0e5ebe79e4814bd1463cf6ca21394</data>
+    </node>
+    <node id="&quot;SCOTTISH PARLIAMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Scottish Parliament is the legislative body where the SNP won a majority government."</data>
+      <data key="d2">702ba1e78944be6f9d2879c1b2352043</data>
+      <data key="d3">1</data>
+      <data key="d4">78</data>
+      <data key="d5">7c49f2710e8b4d3b8dc9310834406ea5</data>
+    </node>
+    <node id="&quot;SCOTLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Scotland is the country where the election took place and where the referendum on independence may be held."</data>
+      <data key="d2">702ba1e78944be6f9d2879c1b2352043</data>
+      <data key="d3">0</data>
+      <data key="d4">79</data>
+      <data key="d5">c6d1e4f56c2843e89cf0b91c10bb6de2</data>
+    </node>
+    <node id="&quot;REFERENDUM ON SCOTTISH INDEPENDENCE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Referendum on Scottish Independence is a potential event that may take place due to the SNP's majority government."</data>
+      <data key="d2">702ba1e78944be6f9d2879c1b2352043</data>
+      <data key="d3">1</data>
+      <data key="d4">80</data>
+      <data key="d5">0adb2d9941f34ef7b2f7743cc6225844</data>
+    </node>
+    <node id="&quot;SNP&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">702ba1e78944be6f9d2879c1b2352043</data>
+      <data key="d3">2</data>
+      <data key="d4">81</data>
+      <data key="d5">6b02373137fd438ba96af28f735cdbdb</data>
+    </node>
+    <node id="&quot;MOUNT EDZIZA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mount Edziza is a mountain located near Pharaoh Dome in Mount Edziza Provincial Park."</data>
+      <data key="d2">6260ff4cfe8e3b2f15e9b24274abf58d</data>
+      <data key="d3">1</data>
+      <data key="d4">82</data>
+      <data key="d5">36a4fcd8efc144e6b8af9a1c7ab8b2ce</data>
+    </node>
+    <node id="&quot;MOUNT EDZIZA PROVINCIAL PARK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mount Edziza Provincial Park is a park where Pharaoh Dome and Mount Edziza are located."</data>
+      <data key="d2">6260ff4cfe8e3b2f15e9b24274abf58d</data>
+      <data key="d3">2</data>
+      <data key="d4">83</data>
+      <data key="d5">fbeef791d19b413a9c93c6608286ab63</data>
+    </node>
+    <node id="&quot;BRITISH COLUMBIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"British Columbia is a province in Canada where Pharaoh Dome is located."</data>
+      <data key="d2">6260ff4cfe8e3b2f15e9b24274abf58d</data>
+      <data key="d3">1</data>
+      <data key="d4">84</data>
+      <data key="d5">d2b629c0396f4180a03e16ddf3818589</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Canada is a country where British Columbia is located."</data>
+      <data key="d2">6260ff4cfe8e3b2f15e9b24274abf58d</data>
+      <data key="d3">0</data>
+      <data key="d4">85</data>
+      <data key="d5">6102fc6619ed422ebc42588bfa97355d</data>
+    </node>
+    <node id="&quot;PHARAOH DOME&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6260ff4cfe8e3b2f15e9b24274abf58d</data>
+      <data key="d3">2</data>
+      <data key="d4">86</data>
+      <data key="d5">8d141c0b80f74b79a05eed7fe161fe49</data>
+    </node>
+    <node id="&quot;COURTLY LOVE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Courtly Love is an ethos that emerged in royal and noble courts, characterized by romantic and chivalrous ideals."</data>
+      <data key="d2">a32c3a9704b21bf6c3beec81f6d156b7</data>
+      <data key="d3">1</data>
+      <data key="d4">87</data>
+      <data key="d5">e22d1d1cd8d14f12b81828d940f40d70</data>
+    </node>
+    <node id="&quot;OTTO VON FREISING&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Otto von Freising was a historian who wrote Gesta Friderici Imperatoris, detailing the deeds of Emperor Frederick Barbarossa."</data>
+      <data key="d2">a32c3a9704b21bf6c3beec81f6d156b7</data>
+      <data key="d3">1</data>
+      <data key="d4">88</data>
+      <data key="d5">9ab48505fb1b487babd0d1f6d3a3f980</data>
+    </node>
+    <node id="&quot;WILLIAM OF MALMESBURY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"William of Malmesbury was a historian who wrote Gesta Regum, a chronicle of the kings of England."</data>
+      <data key="d2">a32c3a9704b21bf6c3beec81f6d156b7</data>
+      <data key="d3">1</data>
+      <data key="d4">89</data>
+      <data key="d5">148fffeb994541b2b4b6dcefda7001a8</data>
+    </node>
+    <node id="&quot;EMPEROR FREDERICK BARBAROSSA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Emperor Frederick Barbarossa was a historical figure whose deeds were recorded by Otto von Freising in Gesta Friderici Imperatoris."</data>
+      <data key="d2">a32c3a9704b21bf6c3beec81f6d156b7</data>
+      <data key="d3">0</data>
+      <data key="d4">90</data>
+      <data key="d5">89c08e793298442686292454a1abff31</data>
+    </node>
+    <node id="&quot;GESTA FRIDERICI IMPERATORIS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a32c3a9704b21bf6c3beec81f6d156b7</data>
+      <data key="d3">1</data>
+      <data key="d4">91</data>
+      <data key="d5">0467928aa65e4a4fba62bdb1467e3a54</data>
+    </node>
+    <node id="&quot;GESTA REGUM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a32c3a9704b21bf6c3beec81f6d156b7</data>
+      <data key="d3">1</data>
+      <data key="d4">92</data>
+      <data key="d5">43c3390303c6476cb65f584e37c3e81c</data>
+    </node>
+    <node id="&quot;CHIVALRY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a32c3a9704b21bf6c3beec81f6d156b7</data>
+      <data key="d3">1</data>
+      <data key="d4">93</data>
+      <data key="d5">fa14b16c17e3417dba5a4b473ea5b18d</data>
+    </node>
+    <node id="&quot;KING MILLUS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"King Millus was the father of Porrex II"</data>
+      <data key="d2">1409972ca1d7b37f8390d86819ef03c1</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">94</data>
+      <data key="d5">7cc3356d38de4328a51a5cbcb187dac3</data>
+    </node>
+    <node id="&quot;CHERIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Cherin was the son of Porrex II and succeeded him as king"</data>
+      <data key="d2">1409972ca1d7b37f8390d86819ef03c1</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">95</data>
+      <data key="d5">bef16fb5fd7344cca5e295b13ef3e0cd</data>
+    </node>
+    <node id="&quot;HEIAN ERA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Heian era is a time period during which twelve eruptions of New Fuji occurred between 800 and 1083."</data>
+      <data key="d2">85b2246251b3cd8b3d0a767b5ef09b2f</data>
+      <data key="d3">1</data>
+      <data key="d4">96</data>
+      <data key="d5">bb9e01bc171d4326a29afda59ece8d17</data>
+    </node>
+    <node id="&quot;NEW FUJI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">85b2246251b3cd8b3d0a767b5ef09b2f</data>
+      <data key="d3">2</data>
+      <data key="d4">97</data>
+      <data key="d5">3c063eea52e94164b70c99431ea30bae</data>
+    </node>
+    <node id="&quot;HOEI ERUPTION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Hoei eruption is a specific event that occurred in 1707-1708, marking the last recorded eruption of New Fuji."</data>
+      <data key="d2">85b2246251b3cd8b3d0a767b5ef09b2f</data>
+      <data key="d3">1</data>
+      <data key="d4">98</data>
+      <data key="d5">252cc8452bfc4c2aa58cab68d8b61879</data>
+    </node>
+    <node id="&quot;MINOAN ERUPTION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Minoan eruption is a historical event that occurred and led to the formation of the Kameni islands."</data>
+      <data key="d2">261ddd8d78d3e2f33cb69a7a2eab107a</data>
+      <data key="d3">1</data>
+      <data key="d4">99</data>
+      <data key="d5">7e2c84548fb94ee395ba8588d8f2a006</data>
+    </node>
+    <node id="&quot;197 BC&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"197 BC is a specific date when the first Kameni island broke the surface of the sea."</data>
+      <data key="d2">261ddd8d78d3e2f33cb69a7a2eab107a</data>
+      <data key="d3">1</data>
+      <data key="d4">100</data>
+      <data key="d5">f034618dde7948beb6dab30176d0fc87</data>
+    </node>
+    <node id="&quot;1950&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"1950 is the year when the most recent subaerial eruption ended."</data>
+      <data key="d2">261ddd8d78d3e2f33cb69a7a2eab107a</data>
+      <data key="d3">1</data>
+      <data key="d4">101</data>
+      <data key="d5">5c41f96be13e49dba649454297834546</data>
+    </node>
+    <node id="&quot;KAMENI ISLANDS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">261ddd8d78d3e2f33cb69a7a2eab107a</data>
+      <data key="d3">3</data>
+      <data key="d4">102</data>
+      <data key="d5">7ea4afbf8a264f29af29950ce98105ba</data>
+    </node>
+    <node id="&quot;BRITANNIA MAJOR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Britannia major, also known as Greater Britain, is a term used by Geoffrey of Monmouth to refer to the island of Britain."</data>
+      <data key="d2">b27611f9ffbc1f3764fd04cc8216d0cc</data>
+      <data key="d3">1</data>
+      <data key="d4">103</data>
+      <data key="d5">91ff849d12b24574b0691dbddf44968b</data>
+    </node>
+    <node id="&quot;BRITANNIA MINOR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Britannia minor, also known as Lesser Britain, is a term used by Geoffrey of Monmouth to refer to the continental region of Brittany."</data>
+      <data key="d2">b27611f9ffbc1f3764fd04cc8216d0cc</data>
+      <data key="d3">1</data>
+      <data key="d4">104</data>
+      <data key="d5">d73c1f2fb3094d8dace42ad2a76e9a52</data>
+    </node>
+    <node id="&quot;EDWARD IV OF ENGLAND&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Edward IV of England is a king whose daughter Cecily was proposed to marry James, son of James III of Scotland, in 1474."</data>
+      <data key="d2">b27611f9ffbc1f3764fd04cc8216d0cc</data>
+      <data key="d3">1</data>
+      <data key="d4">105</data>
+      <data key="d5">cdc8901e668749889bd49bebdc4ff1f6</data>
+    </node>
+    <node id="&quot;JAMES III OF SCOTLAND&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"James III of Scotland is a king whose son James was proposed to marry Cecily, daughter of Edward IV of England, in 1474."</data>
+      <data key="d2">b27611f9ffbc1f3764fd04cc8216d0cc</data>
+      <data key="d3">1</data>
+      <data key="d4">106</data>
+      <data key="d5">36084a9fab53433493f079e97e68bf65</data>
+    </node>
+    <node id="&quot;KING JAMES VI AND I&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"King James VI and I styled himself as King of Great Brittaine, France and Ireland in 1604."</data>
+      <data key="d2">b27611f9ffbc1f3764fd04cc8216d0cc</data>
+      <data key="d3">1</data>
+      <data key="d4">107</data>
+      <data key="d5">eebcc7ec8e3e4df7aea83659bbdc2199</data>
+    </node>
+    <node id="&quot;BRITAIN&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Britain is a geographic location where, according to Geoffrey of Monmouth's work, Eldol was a legendary king.</data>
+      <data key="d2">00112fd67dfd06e42d342943f1095259,b27611f9ffbc1f3764fd04cc8216d0cc</data>
+      <data key="d3">3</data>
+      <data key="d4">108</data>
+      <data key="d5">ceadf262ef834e9ab146b20650912cae</data>
+    </node>
+    <node id="&quot;CECILY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b27611f9ffbc1f3764fd04cc8216d0cc</data>
+      <data key="d3">1</data>
+      <data key="d4">109</data>
+      <data key="d5">7f65feab75424b53b24470d305ba331a</data>
+    </node>
+    <node id="&quot;JAMES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b27611f9ffbc1f3764fd04cc8216d0cc</data>
+      <data key="d3">1</data>
+      <data key="d4">110</data>
+      <data key="d5">fd9cb733b28d420cb5cef01e545a132c</data>
+    </node>
+    <node id="&quot;GREAT BRITTAINE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b27611f9ffbc1f3764fd04cc8216d0cc</data>
+      <data key="d3">1</data>
+      <data key="d4">111</data>
+      <data key="d5">0fbcca3f17c649a08aea64b5a7d9ef36</data>
+    </node>
+    <node id="&quot;ELDOL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">00112fd67dfd06e42d342943f1095259</data>
+      <data key="d3">1</data>
+      <data key="d4">112</data>
+      <data key="d5">482027a59f32484c9c44fd700615c1b6</data>
+    </node>
+    <edge source="&quot;HENRY'S FORK CALDERA&quot;" target="&quot;MESA FALLS ERUPTION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Mesa Falls eruption formed the Henry's Fork Caldera."</data>
+      <data key="d10">968e09827ef6b269a0a1b441c8a3fbdd</data>
+      <data key="d11">de837ff3d626451282ff6ac77a82216d</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;YELLOWSTONE CALDERA&quot;" target="&quot;LAVA CREEK ERUPTION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Lava Creek eruption formed the Yellowstone Caldera."</data>
+      <data key="d10">968e09827ef6b269a0a1b441c8a3fbdd</data>
+      <data key="d11">460295fed3ae4cd39f9f274cec9c2506</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HUCKLEBERRY RIDGE ERUPTION&quot;" target="&quot;ISLAND PARK CALDERA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Huckleberry Ridge eruption formed the Island Park Caldera."</data>
+      <data key="d10">968e09827ef6b269a0a1b441c8a3fbdd</data>
+      <data key="d11">553b285bba60460ab1ed8341ae61282b</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is the county seat of Pima County."</data>
+      <data key="d10">00112fd67dfd06e42d342943f1095259,0c4eb4ad530e295cdb32a36ec339497d,0d8b529797b370bf4b28e2143157e43f,0ef198779f0b14fe0f0acacc575419e5,1409972ca1d7b37f8390d86819ef03c1,261ddd8d78d3e2f33cb69a7a2eab107a,3e00d0bf1d1a42e9fc35aaaefe140a0a,5ae9b6e0b0070abb4563a2bd1a5152e2,5cbdb5f65e519392ae92a57712c22d38,6260ff4cfe8e3b2f15e9b24274abf58d,702ba1e78944be6f9d2879c1b2352043,70546d52a4a5bbadccaba6c943f68b6f,7fd5a5a0c99dedfa6dad8f027b343aed,80b45ec7cb7729276ec1bc78527a4278,85b2246251b3cd8b3d0a767b5ef09b2f,968e09827ef6b269a0a1b441c8a3fbdd,a32c3a9704b21bf6c3beec81f6d156b7,a534bd034aea377295301818e1dc8541,b27611f9ffbc1f3764fd04cc8216d0cc,fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d11">cec95bf17e7e4c939b56c9c6f402a29f</data>
+      <data key="d12">3</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Pima County is a county in Arizona."</data>
+      <data key="d10">00112fd67dfd06e42d342943f1095259,0c4eb4ad530e295cdb32a36ec339497d,0d8b529797b370bf4b28e2143157e43f,0ef198779f0b14fe0f0acacc575419e5,1409972ca1d7b37f8390d86819ef03c1,261ddd8d78d3e2f33cb69a7a2eab107a,3e00d0bf1d1a42e9fc35aaaefe140a0a,5ae9b6e0b0070abb4563a2bd1a5152e2,5cbdb5f65e519392ae92a57712c22d38,6260ff4cfe8e3b2f15e9b24274abf58d,702ba1e78944be6f9d2879c1b2352043,70546d52a4a5bbadccaba6c943f68b6f,7fd5a5a0c99dedfa6dad8f027b343aed,80b45ec7cb7729276ec1bc78527a4278,85b2246251b3cd8b3d0a767b5ef09b2f,968e09827ef6b269a0a1b441c8a3fbdd,a32c3a9704b21bf6c3beec81f6d156b7,a534bd034aea377295301818e1dc8541,b27611f9ffbc1f3764fd04cc8216d0cc,fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d11">599164aead034bc19446efacc77554d2</data>
+      <data key="d12">4</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The University of Arizona is located in Tucson."</data>
+      <data key="d10">00112fd67dfd06e42d342943f1095259,0c4eb4ad530e295cdb32a36ec339497d,0d8b529797b370bf4b28e2143157e43f,0ef198779f0b14fe0f0acacc575419e5,1409972ca1d7b37f8390d86819ef03c1,261ddd8d78d3e2f33cb69a7a2eab107a,3e00d0bf1d1a42e9fc35aaaefe140a0a,5ae9b6e0b0070abb4563a2bd1a5152e2,5cbdb5f65e519392ae92a57712c22d38,6260ff4cfe8e3b2f15e9b24274abf58d,702ba1e78944be6f9d2879c1b2352043,70546d52a4a5bbadccaba6c943f68b6f,7fd5a5a0c99dedfa6dad8f027b343aed,80b45ec7cb7729276ec1bc78527a4278,85b2246251b3cd8b3d0a767b5ef09b2f,968e09827ef6b269a0a1b441c8a3fbdd,a32c3a9704b21bf6c3beec81f6d156b7,a534bd034aea377295301818e1dc8541,b27611f9ffbc1f3764fd04cc8216d0cc,fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d11">bbf148ae4d48422f8fdef754cfa2b9e4</data>
+      <data key="d12">5</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Arizona is a state in the United States."</data>
+      <data key="d10">00112fd67dfd06e42d342943f1095259,0c4eb4ad530e295cdb32a36ec339497d,0d8b529797b370bf4b28e2143157e43f,0ef198779f0b14fe0f0acacc575419e5,1409972ca1d7b37f8390d86819ef03c1,261ddd8d78d3e2f33cb69a7a2eab107a,3e00d0bf1d1a42e9fc35aaaefe140a0a,5ae9b6e0b0070abb4563a2bd1a5152e2,5cbdb5f65e519392ae92a57712c22d38,6260ff4cfe8e3b2f15e9b24274abf58d,702ba1e78944be6f9d2879c1b2352043,70546d52a4a5bbadccaba6c943f68b6f,7fd5a5a0c99dedfa6dad8f027b343aed,80b45ec7cb7729276ec1bc78527a4278,85b2246251b3cd8b3d0a767b5ef09b2f,968e09827ef6b269a0a1b441c8a3fbdd,a32c3a9704b21bf6c3beec81f6d156b7,a534bd034aea377295301818e1dc8541,b27611f9ffbc1f3764fd04cc8216d0cc,fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d11">de61b2670999433f807a6a1dc2b81e43</data>
+      <data key="d12">6</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is a city in Arizona."</data>
+      <data key="d10">00112fd67dfd06e42d342943f1095259,0c4eb4ad530e295cdb32a36ec339497d,0d8b529797b370bf4b28e2143157e43f,0ef198779f0b14fe0f0acacc575419e5,1409972ca1d7b37f8390d86819ef03c1,261ddd8d78d3e2f33cb69a7a2eab107a,3e00d0bf1d1a42e9fc35aaaefe140a0a,5ae9b6e0b0070abb4563a2bd1a5152e2,5cbdb5f65e519392ae92a57712c22d38,6260ff4cfe8e3b2f15e9b24274abf58d,702ba1e78944be6f9d2879c1b2352043,70546d52a4a5bbadccaba6c943f68b6f,7fd5a5a0c99dedfa6dad8f027b343aed,80b45ec7cb7729276ec1bc78527a4278,85b2246251b3cd8b3d0a767b5ef09b2f,968e09827ef6b269a0a1b441c8a3fbdd,a32c3a9704b21bf6c3beec81f6d156b7,a534bd034aea377295301818e1dc8541,b27611f9ffbc1f3764fd04cc8216d0cc,fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d11">3e95dacfe57b4d57b5da4310ef2e157f</data>
+      <data key="d12">7</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Phoenix is a city in Arizona."</data>
+      <data key="d10">00112fd67dfd06e42d342943f1095259,0c4eb4ad530e295cdb32a36ec339497d,0d8b529797b370bf4b28e2143157e43f,0ef198779f0b14fe0f0acacc575419e5,1409972ca1d7b37f8390d86819ef03c1,261ddd8d78d3e2f33cb69a7a2eab107a,3e00d0bf1d1a42e9fc35aaaefe140a0a,5ae9b6e0b0070abb4563a2bd1a5152e2,5cbdb5f65e519392ae92a57712c22d38,6260ff4cfe8e3b2f15e9b24274abf58d,702ba1e78944be6f9d2879c1b2352043,70546d52a4a5bbadccaba6c943f68b6f,7fd5a5a0c99dedfa6dad8f027b343aed,80b45ec7cb7729276ec1bc78527a4278,85b2246251b3cd8b3d0a767b5ef09b2f,968e09827ef6b269a0a1b441c8a3fbdd,a32c3a9704b21bf6c3beec81f6d156b7,a534bd034aea377295301818e1dc8541,b27611f9ffbc1f3764fd04cc8216d0cc,fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d11">1f1545308e9347af91fd03b94aadc21f</data>
+      <data key="d12">8</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d10">00112fd67dfd06e42d342943f1095259,0c4eb4ad530e295cdb32a36ec339497d,0d8b529797b370bf4b28e2143157e43f,0ef198779f0b14fe0f0acacc575419e5,1409972ca1d7b37f8390d86819ef03c1,261ddd8d78d3e2f33cb69a7a2eab107a,3e00d0bf1d1a42e9fc35aaaefe140a0a,5ae9b6e0b0070abb4563a2bd1a5152e2,5cbdb5f65e519392ae92a57712c22d38,6260ff4cfe8e3b2f15e9b24274abf58d,702ba1e78944be6f9d2879c1b2352043,70546d52a4a5bbadccaba6c943f68b6f,7fd5a5a0c99dedfa6dad8f027b343aed,80b45ec7cb7729276ec1bc78527a4278,85b2246251b3cd8b3d0a767b5ef09b2f,968e09827ef6b269a0a1b441c8a3fbdd,a32c3a9704b21bf6c3beec81f6d156b7,a534bd034aea377295301818e1dc8541,b27611f9ffbc1f3764fd04cc8216d0cc,fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d11">6ea81acaf232485e94fff638e03336e1</data>
+      <data key="d12">9</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Mexico shares an international border with the United States."</data>
+      <data key="d10">00112fd67dfd06e42d342943f1095259,0c4eb4ad530e295cdb32a36ec339497d,0d8b529797b370bf4b28e2143157e43f,0ef198779f0b14fe0f0acacc575419e5,1409972ca1d7b37f8390d86819ef03c1,261ddd8d78d3e2f33cb69a7a2eab107a,3e00d0bf1d1a42e9fc35aaaefe140a0a,5ae9b6e0b0070abb4563a2bd1a5152e2,5cbdb5f65e519392ae92a57712c22d38,6260ff4cfe8e3b2f15e9b24274abf58d,702ba1e78944be6f9d2879c1b2352043,70546d52a4a5bbadccaba6c943f68b6f,7fd5a5a0c99dedfa6dad8f027b343aed,80b45ec7cb7729276ec1bc78527a4278,85b2246251b3cd8b3d0a767b5ef09b2f,968e09827ef6b269a0a1b441c8a3fbdd,a32c3a9704b21bf6c3beec81f6d156b7,a534bd034aea377295301818e1dc8541,b27611f9ffbc1f3764fd04cc8216d0cc,fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d11">d136b08d586d488f9e4188b524c85a29</data>
+      <data key="d12">10</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d10">00112fd67dfd06e42d342943f1095259,0c4eb4ad530e295cdb32a36ec339497d,0d8b529797b370bf4b28e2143157e43f,0ef198779f0b14fe0f0acacc575419e5,1409972ca1d7b37f8390d86819ef03c1,261ddd8d78d3e2f33cb69a7a2eab107a,3e00d0bf1d1a42e9fc35aaaefe140a0a,5ae9b6e0b0070abb4563a2bd1a5152e2,5cbdb5f65e519392ae92a57712c22d38,6260ff4cfe8e3b2f15e9b24274abf58d,702ba1e78944be6f9d2879c1b2352043,70546d52a4a5bbadccaba6c943f68b6f,7fd5a5a0c99dedfa6dad8f027b343aed,80b45ec7cb7729276ec1bc78527a4278,85b2246251b3cd8b3d0a767b5ef09b2f,968e09827ef6b269a0a1b441c8a3fbdd,a32c3a9704b21bf6c3beec81f6d156b7,a534bd034aea377295301818e1dc8541,b27611f9ffbc1f3764fd04cc8216d0cc,fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d11">cccfa151fedc4b218a8d96adc7dceabe</data>
+      <data key="d12">11</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PACIFIC RING OF FIRE&quot;" target="&quot;SMITHSONIAN GLOBAL VOLCANISM PROGRAM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Smithsonian Global Volcanism Program likely studies volcanoes in the Pacific Ring of Fire, given its definition of active volcanoes."</data>
+      <data key="d10">a534bd034aea377295301818e1dc8541</data>
+      <data key="d11">ce54725672a74ebcabe6127577dacb2b</data>
+      <data key="d12">12</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GEORGES SIMENON&quot;" target="&quot;INSPECTOR JULES MAIGRET&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Georges Simenon created the character of Inspector Jules Maigret."</data>
+      <data key="d10">5ae9b6e0b0070abb4563a2bd1a5152e2</data>
+      <data key="d11">ea2b28ca1a974ffab4517811dc1d1e5c</data>
+      <data key="d12">13</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GEORGES SIMENON&quot;" target="&quot;BELGIUM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Georges Simenon is from Belgium."</data>
+      <data key="d10">5ae9b6e0b0070abb4563a2bd1a5152e2</data>
+      <data key="d11">aff21f1da1654e7babdcf3fb0e4a75fc</data>
+      <data key="d12">14</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;INSPECTOR JULES MAIGRET&quot;" target="&quot;THE STRANGE CASE OF PETER THE LETT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Strange Case of Peter the Lett is a novel featuring Inspector Jules Maigret."</data>
+      <data key="d10">5ae9b6e0b0070abb4563a2bd1a5152e2</data>
+      <data key="d11">dc2cc9016e3f49dbac7232f05cce794d</data>
+      <data key="d12">15</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NENNIUS&quot;" target="&quot;HISTORIA BRITTONUM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Nennius is attributed with compiling the Historia Brittonum, a historical compilation that mentions King Arthur."</data>
+      <data key="d10">5cbdb5f65e519392ae92a57712c22d38</data>
+      <data key="d11">6ea0cef05f694dcea455478f40674e45</data>
+      <data key="d12">16</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HISTORIA BRITTONUM&quot;" target="&quot;KING ARTHUR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"King Arthur's battles are recorded in the Historia Brittonum, which provides evidence for his existence."</data>
+      <data key="d10">5cbdb5f65e519392ae92a57712c22d38</data>
+      <data key="d11">7ab5d53a872f4dfc98f3d386879f3c75</data>
+      <data key="d12">17</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BATTLE OF BADON&quot;" target="&quot;KING ARTHUR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Battle of Badon is one of the twelve battles fought by King Arthur, according to the Historia Brittonum."</data>
+      <data key="d10">5cbdb5f65e519392ae92a57712c22d38</data>
+      <data key="d11">af1d0fec22114a3398b8016f5225f9ed</data>
+      <data key="d12">18</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PORREX II&quot;" target="&quot;COEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Porrex II succeeded his father Coel as king."</data>
+      <data key="d10">0c4eb4ad530e295cdb32a36ec339497d</data>
+      <data key="d11">b07a7f088364459098cd8511ff27a4c8</data>
+      <data key="d12">19</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PORREX II&quot;" target="&quot;KING MILLUS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Porrex II was the son of King Millus."</data>
+      <data key="d10">1409972ca1d7b37f8390d86819ef03c1</data>
+      <data key="d11">8870cf2b5df64d2cab5820f67e29b9f1</data>
+      <data key="d12">20</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PORREX II&quot;" target="&quot;CHERIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Porrex II was succeeded by his son, Cherin."</data>
+      <data key="d10">1409972ca1d7b37f8390d86819ef03c1</data>
+      <data key="d11">cd130938a2844050be991af70baf5ee0</data>
+      <data key="d12">21</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GEOFFREY OF MONMOUTH&quot;" target="&quot;PEREDURUS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Peredurus is a character in Geoffrey of Monmouth's chronicle 'Historia Regum Britanniae'"</data>
+      <data key="d10">7fd5a5a0c99dedfa6dad8f027b343aed</data>
+      <data key="d11">43544b99c3b04b059546198a0ae6366d</data>
+      <data key="d12">22</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GEOFFREY OF MONMOUTH&quot;" target="&quot;CATELLUS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Catellus is a figure in Geoffrey of Monmouth's work 'Historia Regum Britanniae'."</data>
+      <data key="d10">0c4eb4ad530e295cdb32a36ec339497d</data>
+      <data key="d11">a671bf7fea2f4514b6e96ba99127fafd</data>
+      <data key="d12">23</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GEOFFREY OF MONMOUTH&quot;" target="&quot;HISTORIA REGUM BRITANNIAE&quot;">
+      <data key="d8">4.0</data>
+      <data key="d9">Here is the comprehensive summary:
+
+Geoffrey of Monmouth is the author of "Historia Regum Britanniae", a pseudohistorical work that features a collection of stories and legends about King Arthur. The book also includes accounts of other legendary kings of Britain, such as Eldol and Porrex II. Through his writing, Geoffrey of Monmouth has contributed significantly to the rich tapestry of British folklore and mythology.
+
+Let me know if you need any further assistance!</data>
+      <data key="d10">00112fd67dfd06e42d342943f1095259,1409972ca1d7b37f8390d86819ef03c1,a32c3a9704b21bf6c3beec81f6d156b7,b27611f9ffbc1f3764fd04cc8216d0cc</data>
+      <data key="d11">525f41ea20274a05af4e52b625b473f3</data>
+      <data key="d12">24</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;QUEEN ELIZABETH II&quot;" target="&quot;SERIES C &#163;5 NOTE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Queen Elizabeth II's portrait appears on Series C &#163;5 notes."</data>
+      <data key="d10">70546d52a4a5bbadccaba6c943f68b6f</data>
+      <data key="d11">071a416efbec4f0886c19ac68f6d43cb</data>
+      <data key="d12">25</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DUKE OF WELLINGTON&quot;" target="&quot;SERIES D &#163;5 NOTE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Duke of Wellington is featured on the back of Series D &#163;5 notes."</data>
+      <data key="d10">70546d52a4a5bbadccaba6c943f68b6f</data>
+      <data key="d11">6d8473ef3b1042bf87178a611e3dbcc6</data>
+      <data key="d12">26</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BANK OF ENGLAND&quot;" target="&quot;&#163;5 NOTE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Bank of England is the issuer of the &#163;5 notes."</data>
+      <data key="d10">70546d52a4a5bbadccaba6c943f68b6f</data>
+      <data key="d11">30c9641543c24773938bd8ec57ea98ab</data>
+      <data key="d12">27</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;KING MORVIDUS&quot;" target="&quot;PEREDURUS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"King Morvidus is the father of Peredurus in Geoffrey of Monmouth's chronicle"</data>
+      <data key="d10">7fd5a5a0c99dedfa6dad8f027b343aed</data>
+      <data key="d11">18b839da898e4026b81727d759d95c6a</data>
+      <data key="d12">28</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GORBONIANUS&quot;" target="&quot;PEREDURUS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Gorbonianus is a brother of Peredurus in Geoffrey of Monmouth's chronicle"</data>
+      <data key="d10">7fd5a5a0c99dedfa6dad8f027b343aed</data>
+      <data key="d11">eeef6ae5c464400c8755900b4f1ac37a</data>
+      <data key="d12">29</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARCHGALLO&quot;" target="&quot;PEREDURUS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Archgallo is a brother of Peredurus in Geoffrey of Monmouth's chronicle"</data>
+      <data key="d10">7fd5a5a0c99dedfa6dad8f027b343aed</data>
+      <data key="d11">422433aa45804c7ebb973b2fafce5da6</data>
+      <data key="d12">30</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ELIDURUS&quot;" target="&quot;PEREDURUS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Elidurus is a brother of Peredurus in Geoffrey of Monmouth's chronicle"</data>
+      <data key="d10">7fd5a5a0c99dedfa6dad8f027b343aed</data>
+      <data key="d11">86505bca739d4bccaaa1a8e0f3baffdc</data>
+      <data key="d12">31</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;INGENIUS&quot;" target="&quot;PEREDURUS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ingenius is a brother of Peredurus in Geoffrey of Monmouth's chronicle"</data>
+      <data key="d10">7fd5a5a0c99dedfa6dad8f027b343aed</data>
+      <data key="d11">1af9faf341e14a5bbf4ddc9080e8dc0b</data>
+      <data key="d12">32</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TENGGER CALDERA&quot;" target="&quot;MOUNT BROMO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Mount Bromo is part of the Tengger Caldera geographic location."</data>
+      <data key="d10">fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d11">353d91abc68648639d65a549e59b5cf3</data>
+      <data key="d12">33</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TENGGER CALDERA&quot;" target="&quot;SEMERU&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Semeru is part of the Tengger Caldera geographic location."</data>
+      <data key="d10">fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d11">7ce637e4f35b42e3a9f8272cab69cd22</data>
+      <data key="d12">34</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TENGGER CALDERA&quot;" target="&quot;BATOK&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Batok is part of the Tengger Caldera geographic location."</data>
+      <data key="d10">fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d11">4d999d7744b04a998475f8f8531589f0</data>
+      <data key="d12">35</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TENGGER CALDERA&quot;" target="&quot;WIDODAREN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Widodaren is part of the Tengger Caldera geographic location."</data>
+      <data key="d10">fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d11">9a6f414210e14841a5b0e661aedc898d</data>
+      <data key="d12">36</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JAVA&quot;" target="&quot;MOUNT BROMO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Mount Bromo is located in Java, Indonesia."</data>
+      <data key="d10">fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d11">db541b7260974db8bac94e953009f60e</data>
+      <data key="d12">37</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JAVA&quot;" target="&quot;INDONESIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Java is an island in Indonesia."</data>
+      <data key="d10">fc66254164f6aa1ce465428501e1aae7</data>
+      <data key="d11">f2ff8044718648e18acef16dd9a65436</data>
+      <data key="d12">38</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LEWIS AND CLARK&quot;" target="&quot;MAJOR ERUPTION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lewis and Clark arrived at Mount Hood shortly after a major eruption in 1781-1782."</data>
+      <data key="d10">0d8b529797b370bf4b28e2143157e43f</data>
+      <data key="d11">00d785e7d76b47ec81b508e768d40584</data>
+      <data key="d12">39</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CRATER ROCK&quot;" target="&quot;MOUNT HOOD&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Crater Rock is a feature located on Mount Hood, hypothesized to be the remains of an eroded lava dome."</data>
+      <data key="d10">0d8b529797b370bf4b28e2143157e43f</data>
+      <data key="d11">87915637da3e474c9349bd0ae604bd95</data>
+      <data key="d12">40</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MOUNT HOOD&quot;" target="&quot;ERUPTIVE PERIOD&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Mount Hood was the location of an eruptive period around 220 to 170 years ago."</data>
+      <data key="d10">0d8b529797b370bf4b28e2143157e43f</data>
+      <data key="d11">8f1eba29f39e411188200bf0d14628ec</data>
+      <data key="d12">41</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;KING GERENNUS&quot;" target="&quot;CATELLUS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Catellus was the son of King Gerennus, according to Geoffrey's account."</data>
+      <data key="d10">0c4eb4ad530e295cdb32a36ec339497d</data>
+      <data key="d11">7282c73622b8408e97289d959faff483</data>
+      <data key="d12">42</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MILLUS&quot;" target="&quot;CATELLUS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Millus succeeded Catellus as king."</data>
+      <data key="d10">0c4eb4ad530e295cdb32a36ec339497d</data>
+      <data key="d11">3deb220d31f74103aa44870a36a63220</data>
+      <data key="d12">43</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;COEL&quot;" target="&quot;CATELLUS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Coel was the son of Catellus in some versions of 'Brut y Brenhinedd'."</data>
+      <data key="d10">0c4eb4ad530e295cdb32a36ec339497d</data>
+      <data key="d11">af7a1584dd15492cb9a4940e285f57fc</data>
+      <data key="d12">44</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;INTERNATIONAL SKATING UNION&quot;" target="&quot;TRIGLAV TROPHY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Triglav Trophy is sanctioned by the International Skating Union."</data>
+      <data key="d10">80b45ec7cb7729276ec1bc78527a4278</data>
+      <data key="d11">6e8d9029ce4e4ea182367173ab2c7bbf</data>
+      <data key="d12">45</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JESENICE&quot;" target="&quot;TRIGLAV TROPHY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Triglav Trophy competition is held in Jesenice, Slovenia."</data>
+      <data key="d10">80b45ec7cb7729276ec1bc78527a4278</data>
+      <data key="d11">cbf232211e7d4eb6abdbe182f71c2cf0</data>
+      <data key="d12">46</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SALISBURY CRAGS&quot;" target="&quot;EDINBURGH CASTLE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Edinburgh Castle is located near Salisbury Crags."</data>
+      <data key="d10">0ef198779f0b14fe0f0acacc575419e5</data>
+      <data key="d11">bb0cff774a4440b289cc6f3b929fe13c</data>
+      <data key="d12">47</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SALISBURY CRAGS&quot;" target="&quot;ARTHUR'S SEAT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Arthur's Seat and Salisbury Crags are adjacent geographical features."</data>
+      <data key="d10">0ef198779f0b14fe0f0acacc575419e5</data>
+      <data key="d11">ce55841ebfdd47008bab8c258f10372e</data>
+      <data key="d12">48</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARTHUR'S SEAT&quot;" target="&quot;EDINBURGH CASTLE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Edinburgh Castle is located near Arthur's Seat."</data>
+      <data key="d10">0ef198779f0b14fe0f0acacc575419e5</data>
+      <data key="d11">6090e736374d45fd84f0e4610a314f8f</data>
+      <data key="d12">49</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LABOUR&quot;" target="&quot;IAIN GRAY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Iain Gray is the leader of the Labour party."</data>
+      <data key="d10">702ba1e78944be6f9d2879c1b2352043</data>
+      <data key="d11">0e8d921ccd8d4a8594b65b7fd19f7120</data>
+      <data key="d12">50</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;IAIN GRAY&quot;" target="&quot;EAST LOTHIAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Iain Gray retained his seat in East Lothian."</data>
+      <data key="d10">702ba1e78944be6f9d2879c1b2352043</data>
+      <data key="d11">59c726a8792d443e84ab052cb7942b4a</data>
+      <data key="d12">51</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SCOTTISH PARLIAMENT&quot;" target="&quot;SNP&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The SNP won a majority government in the Scottish Parliament."</data>
+      <data key="d10">702ba1e78944be6f9d2879c1b2352043</data>
+      <data key="d11">4f2c665decf242b0bfcaf7350b0e02ed</data>
+      <data key="d12">52</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;REFERENDUM ON SCOTTISH INDEPENDENCE&quot;" target="&quot;SNP&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The SNP's majority government may lead to a referendum on Scottish independence."</data>
+      <data key="d10">702ba1e78944be6f9d2879c1b2352043</data>
+      <data key="d11">66cdf168f36d4a57a505028c97dc06e0</data>
+      <data key="d12">53</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MOUNT EDZIZA&quot;" target="&quot;MOUNT EDZIZA PROVINCIAL PARK&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Mount Edziza is located within Mount Edziza Provincial Park."</data>
+      <data key="d10">6260ff4cfe8e3b2f15e9b24274abf58d</data>
+      <data key="d11">38f51478f41f48db9bee570859b6f43e</data>
+      <data key="d12">54</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MOUNT EDZIZA PROVINCIAL PARK&quot;" target="&quot;PHARAOH DOME&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Pharaoh Dome is located within Mount Edziza Provincial Park."</data>
+      <data key="d10">6260ff4cfe8e3b2f15e9b24274abf58d</data>
+      <data key="d11">896d2a51e8de47de85ba8ced108c3d53</data>
+      <data key="d12">55</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BRITISH COLUMBIA&quot;" target="&quot;PHARAOH DOME&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Pharaoh Dome is located in British Columbia, Canada."</data>
+      <data key="d10">6260ff4cfe8e3b2f15e9b24274abf58d</data>
+      <data key="d11">14555b518e954637b83aa762dc03164e</data>
+      <data key="d12">56</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;COURTLY LOVE&quot;" target="&quot;CHIVALRY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Chivalry and Courtly Love are interconnected concepts that emerged in royal and noble courts."</data>
+      <data key="d10">a32c3a9704b21bf6c3beec81f6d156b7</data>
+      <data key="d11">b1f6164116d44fe8b8f135d7f65b9e58</data>
+      <data key="d12">57</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OTTO VON FREISING&quot;" target="&quot;GESTA FRIDERICI IMPERATORIS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Otto von Freising authored Gesta Friderici Imperatoris, detailing the deeds of Emperor Frederick Barbarossa."</data>
+      <data key="d10">a32c3a9704b21bf6c3beec81f6d156b7</data>
+      <data key="d11">c8b2408617804483b620e1a6691ac90d</data>
+      <data key="d12">58</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WILLIAM OF MALMESBURY&quot;" target="&quot;GESTA REGUM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"William of Malmesbury wrote Gesta Regum, a chronicle of the kings of England."</data>
+      <data key="d10">a32c3a9704b21bf6c3beec81f6d156b7</data>
+      <data key="d11">a5e0d1644eb547ba9a5c3211aac4631a</data>
+      <data key="d12">59</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HEIAN ERA&quot;" target="&quot;NEW FUJI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Many of the eruptions of New Fuji occurred during the Heian era."</data>
+      <data key="d10">85b2246251b3cd8b3d0a767b5ef09b2f</data>
+      <data key="d11">5a28b94bc63b44edb30c54748fd14f15</data>
+      <data key="d12">60</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NEW FUJI&quot;" target="&quot;HOEI ERUPTION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Hoei eruption was an eruption of New Fuji that occurred around 300 years ago."</data>
+      <data key="d10">85b2246251b3cd8b3d0a767b5ef09b2f</data>
+      <data key="d11">f97011b2a99d44648e18d517e1eae15c</data>
+      <data key="d12">61</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MINOAN ERUPTION&quot;" target="&quot;KAMENI ISLANDS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Kameni islands were formed as a result of the Minoan eruption."</data>
+      <data key="d10">261ddd8d78d3e2f33cb69a7a2eab107a</data>
+      <data key="d11">35489ca6a63b47d6a8913cf333818bc1</data>
+      <data key="d12">62</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;197 BC&quot;" target="&quot;KAMENI ISLANDS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The first Kameni island broke the surface of the sea in 197 BC."</data>
+      <data key="d10">261ddd8d78d3e2f33cb69a7a2eab107a</data>
+      <data key="d11">5d3344f45e654d2c808481672f2f08dd</data>
+      <data key="d12">63</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;1950&quot;" target="&quot;KAMENI ISLANDS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The most recent subaerial eruption on the Kameni islands ended in 1950."</data>
+      <data key="d10">261ddd8d78d3e2f33cb69a7a2eab107a</data>
+      <data key="d11">6fb57f83baec45c9b30490ee991f433f</data>
+      <data key="d12">64</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BRITANNIA MAJOR&quot;" target="&quot;BRITAIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Britain is referred to as Britannia major by Geoffrey of Monmouth."</data>
+      <data key="d10">b27611f9ffbc1f3764fd04cc8216d0cc</data>
+      <data key="d11">68762e6f0d1c41cd857c6b964a8e76c3</data>
+      <data key="d12">65</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BRITANNIA MINOR&quot;" target="&quot;BRITAIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Britain is distinguished from Britannia minor, the continental region of Brittany."</data>
+      <data key="d10">b27611f9ffbc1f3764fd04cc8216d0cc</data>
+      <data key="d11">70634e10a5e845aa8c6a32fe7e8eb2b2</data>
+      <data key="d12">66</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;EDWARD IV OF ENGLAND&quot;" target="&quot;CECILY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Cecily is the daughter of Edward IV of England."</data>
+      <data key="d10">b27611f9ffbc1f3764fd04cc8216d0cc</data>
+      <data key="d11">04085f7cf46544b79597fc49286ff84d</data>
+      <data key="d12">67</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JAMES III OF SCOTLAND&quot;" target="&quot;JAMES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"James is the son of James III of Scotland."</data>
+      <data key="d10">b27611f9ffbc1f3764fd04cc8216d0cc</data>
+      <data key="d11">d203efdbfb2f4b2a899abfb31cf72e82</data>
+      <data key="d12">68</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;KING JAMES VI AND I&quot;" target="&quot;GREAT BRITTAINE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"King James VI and I styled himself as King of Great Brittaine in 1604."</data>
+      <data key="d10">b27611f9ffbc1f3764fd04cc8216d0cc</data>
+      <data key="d11">6731a665561840c2898ce8c9788e4c88</data>
+      <data key="d12">69</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BRITAIN&quot;" target="&quot;ELDOL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Eldol was a legendary king of Britain according to Geoffrey of Monmouth's work."</data>
+      <data key="d10">00112fd67dfd06e42d342943f1095259</data>
+      <data key="d11">4026806fa92f4e849a59a7f5c9a45c79</data>
+      <data key="d12">70</data>
+      <data key="d13">0</data>
+    </edge>
+  </graph>
+</graphml>

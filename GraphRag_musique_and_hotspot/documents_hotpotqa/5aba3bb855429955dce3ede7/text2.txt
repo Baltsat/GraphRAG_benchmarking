@@ -1,0 +1,5 @@
+In natural language processing, open information extraction (OIE) is the task of generating a structured, machine-readable representation of the information in text, usually in the form of triples or n-ary propositions.
+ A proposition can be understood as truth-bearer, a textual expression of a potential fact (e.g., "Dante wrote the Divine Comedy"), represented in an amenable structure for computers [e.g., ("Dante", "wrote", "Divine Comedy")].
+ An OIE extraction normally consists of a relation and a set of arguments.
+ For instance, ("Dante", "passed away in" "Ravenna") is a proposition formed by the relation "passed away in" and the arguments "Dante" and "Ravenna".
+ The first argument is usually referred as the subject while the second is considered to be the object.

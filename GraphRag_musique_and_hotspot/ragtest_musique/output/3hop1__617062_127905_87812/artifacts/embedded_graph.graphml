@@ -1,0 +1,1146 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;WORLD SERIES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The World Series is a championship series of baseball games played between teams in Major League Baseball."</data>
+      <data key="d2">c74693683650d4dc1f3e497c670baba6</data>
+    </node>
+    <node id="&quot;MAJOR LEAGUE BASEBALL&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Major League Baseball is a professional sports league with its headquarters in New York City.</data>
+      <data key="d2">c74693683650d4dc1f3e497c670baba6,fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </node>
+    <node id="&quot;2011 SEASON&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2011 season is a specific season of Major League Baseball that opened on Thursday or Friday."</data>
+      <data key="d2">c74693683650d4dc1f3e497c670baba6</data>
+    </node>
+    <node id="&quot;2012 SEASON&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2012 season is a specific season of Major League Baseball that opened on Thursday or Friday."</data>
+      <data key="d2">c74693683650d4dc1f3e497c670baba6</data>
+    </node>
+    <node id="&quot;2018 SEASON&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2018 season is a specific season of Major League Baseball that opened on Thursday, March 29."</data>
+      <data key="d2">c74693683650d4dc1f3e497c670baba6</data>
+    </node>
+    <node id="&quot;THURSDAY, MARCH 31&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Thursday, March 31 is a specific date when some teams opened the 2011 season."</data>
+      <data key="d2">c74693683650d4dc1f3e497c670baba6</data>
+    </node>
+    <node id="&quot;FRIDAY, APRIL 1&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Friday, April 1 is a specific date when some teams opened the 2011 season."</data>
+      <data key="d2">c74693683650d4dc1f3e497c670baba6</data>
+    </node>
+    <node id="&quot;THURSDAY, APRIL 5&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Thursday, April 5 is a specific date when some teams opened the 2012 season."</data>
+      <data key="d2">c74693683650d4dc1f3e497c670baba6</data>
+    </node>
+    <node id="&quot;FRIDAY, APRIL 6&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Friday, April 6 is a specific date when some teams opened the 2012 season."</data>
+      <data key="d2">c74693683650d4dc1f3e497c670baba6</data>
+    </node>
+    <node id="&quot;THURSDAY, MARCH 29&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Thursday, March 29 is a specific date when all 30 teams opened the 2018 season."</data>
+      <data key="d2">c74693683650d4dc1f3e497c670baba6</data>
+    </node>
+    <node id="&quot;FRIDAY, MARCH 30&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Friday, March 30 is a specific date when two games were postponed to."</data>
+      <data key="d2">c74693683650d4dc1f3e497c670baba6</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">08e676cd7cb0cb0d6c11b08c3e55ecce,21b46e028901c006aa8b9ead0c135163,3a4f194d60a949eb279aac7ce65ff71b,49d2a65ed4e778234631f680299ff87b,52fa16ab7ed12a87efd8d4c5382b160a,597d653fc9e685e23184f2f90fade3cf,6143da848de7e0d5e6c591d684c5eb52,61ba8f7fd870e7bb509b56b626c857de,6aa43f14f87d14541ec9f7bd4f3801a7,8971a0c4a602887f5f82ac2e83af1c8d,9c636c6dbba1afb887d77d11a68f7f88,b4b0f1cf1f5e62b986b2db388c7696f5,c74693683650d4dc1f3e497c670baba6,cc31f7329d89a437402692380160c423,d421d779f902ed8be6cfe4fae10374f0,e4ce0ab86da15ee64989a587e107521a,e59532f25046c60d597913041d742ab7,e814c2889759ab5e1c2c1d4d19538f73,fa3a9c071659eee682f39571f96f0a28,fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">08e676cd7cb0cb0d6c11b08c3e55ecce,21b46e028901c006aa8b9ead0c135163,3a4f194d60a949eb279aac7ce65ff71b,49d2a65ed4e778234631f680299ff87b,52fa16ab7ed12a87efd8d4c5382b160a,597d653fc9e685e23184f2f90fade3cf,6143da848de7e0d5e6c591d684c5eb52,61ba8f7fd870e7bb509b56b626c857de,6aa43f14f87d14541ec9f7bd4f3801a7,8971a0c4a602887f5f82ac2e83af1c8d,9c636c6dbba1afb887d77d11a68f7f88,b4b0f1cf1f5e62b986b2db388c7696f5,c74693683650d4dc1f3e497c670baba6,cc31f7329d89a437402692380160c423,d421d779f902ed8be6cfe4fae10374f0,e4ce0ab86da15ee64989a587e107521a,e59532f25046c60d597913041d742ab7,e814c2889759ab5e1c2c1d4d19538f73,fa3a9c071659eee682f39571f96f0a28,fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Arizona is a state in the United States, where Tucson and Phoenix are located. Additionally, it is also home to the Cleveland Indians' spring training facility.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">08e676cd7cb0cb0d6c11b08c3e55ecce,21b46e028901c006aa8b9ead0c135163,3a4f194d60a949eb279aac7ce65ff71b,49d2a65ed4e778234631f680299ff87b,52fa16ab7ed12a87efd8d4c5382b160a,597d653fc9e685e23184f2f90fade3cf,6143da848de7e0d5e6c591d684c5eb52,61ba8f7fd870e7bb509b56b626c857de,6aa43f14f87d14541ec9f7bd4f3801a7,8971a0c4a602887f5f82ac2e83af1c8d,9c636c6dbba1afb887d77d11a68f7f88,b4b0f1cf1f5e62b986b2db388c7696f5,c74693683650d4dc1f3e497c670baba6,cc31f7329d89a437402692380160c423,d421d779f902ed8be6cfe4fae10374f0,e4ce0ab86da15ee64989a587e107521a,e59532f25046c60d597913041d742ab7,e814c2889759ab5e1c2c1d4d19538f73,fa3a9c071659eee682f39571f96f0a28,fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">08e676cd7cb0cb0d6c11b08c3e55ecce,21b46e028901c006aa8b9ead0c135163,3a4f194d60a949eb279aac7ce65ff71b,49d2a65ed4e778234631f680299ff87b,52fa16ab7ed12a87efd8d4c5382b160a,597d653fc9e685e23184f2f90fade3cf,6143da848de7e0d5e6c591d684c5eb52,61ba8f7fd870e7bb509b56b626c857de,6aa43f14f87d14541ec9f7bd4f3801a7,8971a0c4a602887f5f82ac2e83af1c8d,9c636c6dbba1afb887d77d11a68f7f88,b4b0f1cf1f5e62b986b2db388c7696f5,c74693683650d4dc1f3e497c670baba6,cc31f7329d89a437402692380160c423,d421d779f902ed8be6cfe4fae10374f0,e4ce0ab86da15ee64989a587e107521a,e59532f25046c60d597913041d742ab7,e814c2889759ab5e1c2c1d4d19538f73,fa3a9c071659eee682f39571f96f0a28,fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">08e676cd7cb0cb0d6c11b08c3e55ecce,21b46e028901c006aa8b9ead0c135163,3a4f194d60a949eb279aac7ce65ff71b,49d2a65ed4e778234631f680299ff87b,52fa16ab7ed12a87efd8d4c5382b160a,597d653fc9e685e23184f2f90fade3cf,6143da848de7e0d5e6c591d684c5eb52,61ba8f7fd870e7bb509b56b626c857de,6aa43f14f87d14541ec9f7bd4f3801a7,8971a0c4a602887f5f82ac2e83af1c8d,9c636c6dbba1afb887d77d11a68f7f88,b4b0f1cf1f5e62b986b2db388c7696f5,c74693683650d4dc1f3e497c670baba6,cc31f7329d89a437402692380160c423,d421d779f902ed8be6cfe4fae10374f0,e4ce0ab86da15ee64989a587e107521a,e59532f25046c60d597913041d742ab7,e814c2889759ab5e1c2c1d4d19538f73,fa3a9c071659eee682f39571f96f0a28,fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">08e676cd7cb0cb0d6c11b08c3e55ecce,21b46e028901c006aa8b9ead0c135163,3a4f194d60a949eb279aac7ce65ff71b,49d2a65ed4e778234631f680299ff87b,52fa16ab7ed12a87efd8d4c5382b160a,597d653fc9e685e23184f2f90fade3cf,6143da848de7e0d5e6c591d684c5eb52,61ba8f7fd870e7bb509b56b626c857de,6aa43f14f87d14541ec9f7bd4f3801a7,8971a0c4a602887f5f82ac2e83af1c8d,9c636c6dbba1afb887d77d11a68f7f88,b4b0f1cf1f5e62b986b2db388c7696f5,c74693683650d4dc1f3e497c670baba6,cc31f7329d89a437402692380160c423,d421d779f902ed8be6cfe4fae10374f0,e4ce0ab86da15ee64989a587e107521a,e59532f25046c60d597913041d742ab7,e814c2889759ab5e1c2c1d4d19538f73,fa3a9c071659eee682f39571f96f0a28,fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">08e676cd7cb0cb0d6c11b08c3e55ecce,21b46e028901c006aa8b9ead0c135163,3a4f194d60a949eb279aac7ce65ff71b,49d2a65ed4e778234631f680299ff87b,52fa16ab7ed12a87efd8d4c5382b160a,597d653fc9e685e23184f2f90fade3cf,6143da848de7e0d5e6c591d684c5eb52,61ba8f7fd870e7bb509b56b626c857de,6aa43f14f87d14541ec9f7bd4f3801a7,8971a0c4a602887f5f82ac2e83af1c8d,9c636c6dbba1afb887d77d11a68f7f88,b4b0f1cf1f5e62b986b2db388c7696f5,c74693683650d4dc1f3e497c670baba6,cc31f7329d89a437402692380160c423,d421d779f902ed8be6cfe4fae10374f0,e4ce0ab86da15ee64989a587e107521a,e59532f25046c60d597913041d742ab7,e814c2889759ab5e1c2c1d4d19538f73,fa3a9c071659eee682f39571f96f0a28,fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">08e676cd7cb0cb0d6c11b08c3e55ecce,21b46e028901c006aa8b9ead0c135163,3a4f194d60a949eb279aac7ce65ff71b,49d2a65ed4e778234631f680299ff87b,52fa16ab7ed12a87efd8d4c5382b160a,597d653fc9e685e23184f2f90fade3cf,6143da848de7e0d5e6c591d684c5eb52,61ba8f7fd870e7bb509b56b626c857de,6aa43f14f87d14541ec9f7bd4f3801a7,8971a0c4a602887f5f82ac2e83af1c8d,9c636c6dbba1afb887d77d11a68f7f88,b4b0f1cf1f5e62b986b2db388c7696f5,c74693683650d4dc1f3e497c670baba6,cc31f7329d89a437402692380160c423,d421d779f902ed8be6cfe4fae10374f0,e4ce0ab86da15ee64989a587e107521a,e59532f25046c60d597913041d742ab7,e814c2889759ab5e1c2c1d4d19538f73,fa3a9c071659eee682f39571f96f0a28,fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">08e676cd7cb0cb0d6c11b08c3e55ecce,21b46e028901c006aa8b9ead0c135163,3a4f194d60a949eb279aac7ce65ff71b,49d2a65ed4e778234631f680299ff87b,52fa16ab7ed12a87efd8d4c5382b160a,597d653fc9e685e23184f2f90fade3cf,6143da848de7e0d5e6c591d684c5eb52,61ba8f7fd870e7bb509b56b626c857de,6aa43f14f87d14541ec9f7bd4f3801a7,8971a0c4a602887f5f82ac2e83af1c8d,9c636c6dbba1afb887d77d11a68f7f88,b4b0f1cf1f5e62b986b2db388c7696f5,c74693683650d4dc1f3e497c670baba6,cc31f7329d89a437402692380160c423,d421d779f902ed8be6cfe4fae10374f0,e4ce0ab86da15ee64989a587e107521a,e59532f25046c60d597913041d742ab7,e814c2889759ab5e1c2c1d4d19538f73,fa3a9c071659eee682f39571f96f0a28,fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">08e676cd7cb0cb0d6c11b08c3e55ecce,21b46e028901c006aa8b9ead0c135163,3a4f194d60a949eb279aac7ce65ff71b,49d2a65ed4e778234631f680299ff87b,52fa16ab7ed12a87efd8d4c5382b160a,597d653fc9e685e23184f2f90fade3cf,6143da848de7e0d5e6c591d684c5eb52,61ba8f7fd870e7bb509b56b626c857de,6aa43f14f87d14541ec9f7bd4f3801a7,8971a0c4a602887f5f82ac2e83af1c8d,9c636c6dbba1afb887d77d11a68f7f88,b4b0f1cf1f5e62b986b2db388c7696f5,c74693683650d4dc1f3e497c670baba6,cc31f7329d89a437402692380160c423,d421d779f902ed8be6cfe4fae10374f0,e4ce0ab86da15ee64989a587e107521a,e59532f25046c60d597913041d742ab7,e814c2889759ab5e1c2c1d4d19538f73,fa3a9c071659eee682f39571f96f0a28,fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </node>
+    <node id="&quot;MICHAEL GORDON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Michael Gordon was a founder of the West Dallas Kings soccer team."</data>
+      <data key="d2">08e676cd7cb0cb0d6c11b08c3e55ecce</data>
+    </node>
+    <node id="&quot;REAGAN ANGELL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Reagan Angell was a founder of the West Dallas Kings soccer team."</data>
+      <data key="d2">08e676cd7cb0cb0d6c11b08c3e55ecce</data>
+    </node>
+    <node id="&quot;DAVID ANGELL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"David Angell was a founder of the West Dallas Kings soccer team."</data>
+      <data key="d2">08e676cd7cb0cb0d6c11b08c3e55ecce</data>
+    </node>
+    <node id="&quot;JIM BENEDEK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jim Benedek was the coach of the West Dallas Kings soccer team."</data>
+      <data key="d2">08e676cd7cb0cb0d6c11b08c3e55ecce</data>
+    </node>
+    <node id="&quot;UNITED SOCCER LEAGUES PREMIER DEVELOPMENT LEAGUE (PDL)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The United Soccer Leagues Premier Development League (PDL) is a tier in the American Soccer Pyramid where the West Dallas Kings played for one season."</data>
+      <data key="d2">08e676cd7cb0cb0d6c11b08c3e55ecce</data>
+    </node>
+    <node id="&quot;WEST DALLAS KINGS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">08e676cd7cb0cb0d6c11b08c3e55ecce</data>
+    </node>
+    <node id="&quot;JIANGSU SAINTY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Jiangsu Sainty is a football club currently playing in the Chinese Super League and based at Nanjing Olympic Sports Center."</data>
+      <data key="d2">8971a0c4a602887f5f82ac2e83af1c8d</data>
+    </node>
+    <node id="&quot;NANJING OLYMPIC SPORTS CENTER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Nanjing Olympic Sports Center is a sports venue that hosts Jiangsu Sainty football club."</data>
+      <data key="d2">8971a0c4a602887f5f82ac2e83af1c8d</data>
+    </node>
+    <node id="&quot;JIANGSU NANGANG BASKETBALL CLUB&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Jiangsu Nangang Basketball Club is a competitive basketball team fighting for the title in China's top-level league, CBA."</data>
+      <data key="d2">8971a0c4a602887f5f82ac2e83af1c8d</data>
+    </node>
+    <node id="&quot;CBA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"CBA refers to China's top-level basketball league where Jiangsu Nangang Basketball Club competes."</data>
+      <data key="d2">8971a0c4a602887f5f82ac2e83af1c8d</data>
+    </node>
+    <node id="&quot;JIANGSU VOLLEYBALL MEN AND WOMEN TEAMS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Jiangsu Volleyball men and women teams are traditionally considered top-level in China volleyball league."</data>
+      <data key="d2">8971a0c4a602887f5f82ac2e83af1c8d</data>
+    </node>
+    <node id="&quot;NANJING&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8971a0c4a602887f5f82ac2e83af1c8d</data>
+    </node>
+    <node id="&quot;INTERNATIONAL ISLAND GAMES ASSOCIATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The International Island Games Association is an organization that Saint Helena is a member of."</data>
+      <data key="d2">49d2a65ed4e778234631f680299ff87b</data>
+    </node>
+    <node id="&quot;SAINT HELENA CRICKET TEAM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Saint Helena cricket team represents the island in international cricket competitions."</data>
+      <data key="d2">49d2a65ed4e778234631f680299ff87b</data>
+    </node>
+    <node id="&quot;COMMONWEALTH GAMES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Commonwealth Games are a multi-sport event where Saint Helena has sent teams to participate."</data>
+      <data key="d2">49d2a65ed4e778234631f680299ff87b</data>
+    </node>
+    <node id="&quot;SAINT HELENA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">49d2a65ed4e778234631f680299ff87b</data>
+    </node>
+    <node id="&quot;AKRON PROS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Akron Pros is a team in the National Football League that the person played for."</data>
+      <data key="d2">52fa16ab7ed12a87efd8d4c5382b160a</data>
+    </node>
+    <node id="&quot;NATIONAL FOOTBALL LEAGUE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The National Football League (NFL) is a professional sports league with its headquarters in New York City, which the Akron Pros are part of.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">52fa16ab7ed12a87efd8d4c5382b160a,fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </node>
+    <node id="&quot;CLEVELAND BULLDOGS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Cleveland Bulldogs are a team that the person played for in 1925.</data>
+      <data key="d2">3a4f194d60a949eb279aac7ce65ff71b,52fa16ab7ed12a87efd8d4c5382b160a</data>
+    </node>
+    <node id="&quot;AMERICAN FOOTBALL LEAGUE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"American Football League is a professional sports league that the Cleveland Panthers are part of."</data>
+      <data key="d2">52fa16ab7ed12a87efd8d4c5382b160a</data>
+    </node>
+    <node id="&quot;CLEVELAND PANTHERS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Cleveland Panthers is a team in the American Football League that the person played for."</data>
+      <data key="d2">52fa16ab7ed12a87efd8d4c5382b160a</data>
+    </node>
+    <node id="&quot;MICHAELS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Michaels is a person who played football for various teams, including Akron Pros and Cleveland Bulldogs."</data>
+      <data key="d2">52fa16ab7ed12a87efd8d4c5382b160a</data>
+    </node>
+    <node id="&quot;OHIO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Ohio is a state in the United States where Ohio State University is located. Additionally, it is also home to several sports teams, including the Cleveland Indians and the Cleveland Bulldogs, which are based in Cleveland, a city located within the state. Furthermore, Ohio is notable as the birthplace and childhood home of Amanda Cinalli, who attended school there.</data>
+      <data key="d2">3a4f194d60a949eb279aac7ce65ff71b,52fa16ab7ed12a87efd8d4c5382b160a,b4b0f1cf1f5e62b986b2db388c7696f5,fa3a9c071659eee682f39571f96f0a28</data>
+    </node>
+    <node id="&quot;OHIO STATE UNIVERSITY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">52fa16ab7ed12a87efd8d4c5382b160a</data>
+    </node>
+    <node id="&quot;NEW YORK YANKEES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The New York Yankees is a baseball team that added numbers to the backs of their uniforms in 1929."</data>
+      <data key="d2">9c636c6dbba1afb887d77d11a68f7f88</data>
+    </node>
+    <node id="&quot;BROOKLYN DODGERS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Brooklyn Dodgers was a baseball team that was established in 1882 as one of the first professional sports teams in New York City. Notably, they became the first to add numbers to the fronts of their uniforms in 1952.</data>
+      <data key="d2">9c636c6dbba1afb887d77d11a68f7f88,fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </node>
+    <node id="&quot;CHICAGO WHITE SOX&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Chicago White Sox is a baseball team that introduced players' names on the back of their jerseys in 1960."</data>
+      <data key="d2">9c636c6dbba1afb887d77d11a68f7f88</data>
+    </node>
+    <node id="&quot;OKKONEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Okkonen is an author who wrote about the history of baseball uniforms, providing information on page numbers 36 and 120."</data>
+      <data key="d2">9c636c6dbba1afb887d77d11a68f7f88</data>
+    </node>
+    <node id="&quot;CLEVELAND INDIANS&quot;">
+      <data key="d0" />
+      <data key="d1">Here is a comprehensive summary of the data:
+
+The Cleveland Indians were initially an NFL franchise in 1922, which should not be confused with the original Indians team.</data>
+      <data key="d2">3a4f194d60a949eb279aac7ce65ff71b,9c636c6dbba1afb887d77d11a68f7f88,fa3a9c071659eee682f39571f96f0a28</data>
+    </node>
+    <node id="&quot;PLAYERS WEEKEND&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9c636c6dbba1afb887d77d11a68f7f88</data>
+    </node>
+    <node id="&quot;PAUL BROWN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Paul Brown was the original coach of the Cleveland Browns and the team is named after him."</data>
+      <data key="d2">597d653fc9e685e23184f2f90fade3cf</data>
+    </node>
+    <node id="&quot;NATIONAL FOOTBALL LEAGUE (NFL)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The National Football League (NFL) is a professional American football league that the Cleveland Browns compete in."</data>
+      <data key="d2">597d653fc9e685e23184f2f90fade3cf</data>
+    </node>
+    <node id="&quot;AMERICAN FOOTBALL CONFERENCE (AFC) NORTH DIVISION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The American Football Conference (AFC) North division is a subdivision of the NFL that the Cleveland Browns are a part of."</data>
+      <data key="d2">597d653fc9e685e23184f2f90fade3cf</data>
+    </node>
+    <node id="&quot;FIRSTENERGY STADIUM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"FirstEnergy Stadium is the home stadium of the Cleveland Browns, located in Cleveland, Ohio."</data>
+      <data key="d2">597d653fc9e685e23184f2f90fade3cf</data>
+    </node>
+    <node id="&quot;BEREA, OHIO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Berea, Ohio is the location of the administrative offices and training facilities of the Cleveland Browns."</data>
+      <data key="d2">597d653fc9e685e23184f2f90fade3cf</data>
+    </node>
+    <node id="&quot;CLEVELAND BROWNS&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+The Cleveland Browns are a professional American football team in the National Football League (NFL) that signed Johnson Bademosi as an undrafted free agent in 2012.</data>
+      <data key="d2">597d653fc9e685e23184f2f90fade3cf,61ba8f7fd870e7bb509b56b626c857de</data>
+    </node>
+    <node id="&quot;ENGLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"England is the country where the Premier League is based, with 19 teams participating."</data>
+      <data key="d2">6143da848de7e0d5e6c591d684c5eb52</data>
+    </node>
+    <node id="&quot;WALES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Wales is a country that has one team participating in the Premier League."</data>
+      <data key="d2">6143da848de7e0d5e6c591d684c5eb52</data>
+    </node>
+    <node id="&quot;UEFA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"UEFA is the confederation that the Premier League is part of."</data>
+      <data key="d2">6143da848de7e0d5e6c591d684c5eb52</data>
+    </node>
+    <node id="&quot;CHELSEA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Chelsea is a football club that won the Premier League title in 2016-17, their 5th title."</data>
+      <data key="d2">6143da848de7e0d5e6c591d684c5eb52</data>
+    </node>
+    <node id="&quot;MANCHESTER UNITED&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Manchester United is a football club that has won the most championships in the Premier League, with 13 titles."</data>
+      <data key="d2">6143da848de7e0d5e6c591d684c5eb52</data>
+    </node>
+    <node id="&quot;PREMIER LEAGUE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6143da848de7e0d5e6c591d684c5eb52</data>
+    </node>
+    <node id="&quot;INDIANS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Indians are a baseball team that released Wilson following the 1986 season."</data>
+      <data key="d2">d421d779f902ed8be6cfe4fae10374f0</data>
+    </node>
+    <node id="&quot;MINNESOTA TWINS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Minnesota Twins are a baseball team whose organization Wilson briefly toured."</data>
+      <data key="d2">d421d779f902ed8be6cfe4fae10374f0</data>
+    </node>
+    <node id="&quot;SEATTLE MARINERS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Seattle Mariners are a baseball team that signed Wilson as a free agent on March 1, 1988."</data>
+      <data key="d2">d421d779f902ed8be6cfe4fae10374f0</data>
+    </node>
+    <node id="&quot;WILSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d421d779f902ed8be6cfe4fae10374f0</data>
+    </node>
+    <node id="&quot;UNITED SOCCER LEAGUES W-LEAGUE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"United Soccer Leagues W-League is a league that Vermont Lady Voltage is a member of."</data>
+      <data key="d2">21b46e028901c006aa8b9ead0c135163</data>
+    </node>
+    <node id="&quot;COLLINS-PERLEY SPORTS COMPLEX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Collins-Perley Sports Complex is the home stadium of Vermont Lady Voltage, located in St. Albans, Vermont."</data>
+      <data key="d2">21b46e028901c006aa8b9ead0c135163</data>
+    </node>
+    <node id="&quot;ST. ALBANS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"St. Albans is a city in Vermont where Collins-Perley Sports Complex is located."</data>
+      <data key="d2">21b46e028901c006aa8b9ead0c135163</data>
+    </node>
+    <node id="&quot;VERMONT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Vermont is a state in the US where St. Albans and Burlington are located."</data>
+      <data key="d2">21b46e028901c006aa8b9ead0c135163</data>
+    </node>
+    <node id="&quot;BURLINGTON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Burlington is the largest city in Vermont, 27 miles south of St. Albans."</data>
+      <data key="d2">21b46e028901c006aa8b9ead0c135163</data>
+    </node>
+    <node id="&quot;VERMONT VOLTAGE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Vermont Voltage is a men's soccer team and a sister organization of Vermont Lady Voltage."</data>
+      <data key="d2">21b46e028901c006aa8b9ead0c135163</data>
+    </node>
+    <node id="&quot;VERMONT LADY VOLTAGE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">21b46e028901c006aa8b9ead0c135163</data>
+    </node>
+    <node id="&quot;NATIONAL BASKETBALL ASSOCIATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The National Basketball Association is a professional sports league with its headquarters in New York City."</data>
+      <data key="d2">fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </node>
+    <node id="&quot;NATIONAL HOCKEY LEAGUE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The National Hockey League is a professional sports league with its headquarters in New York City."</data>
+      <data key="d2">fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </node>
+    <node id="&quot;MAJOR LEAGUE SOCCER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Major League Soccer is a professional sports league with its headquarters in New York City."</data>
+      <data key="d2">fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </node>
+    <node id="&quot;METLIFE STADIUM&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"MetLife Stadium is one of the most expensive stadiums ever built worldwide, located in the New York metropolitan area."</data>
+      <data key="d2">fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </node>
+    <node id="&quot;YANKEE STADIUM&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The new Yankee Stadium is one of the most expensive stadiums ever built worldwide, located in the New York metropolitan area."</data>
+      <data key="d2">fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </node>
+    <node id="&quot;MADISON SQUARE GARDEN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Madison Square Garden is a famous sporting venue and one of the most expensive stadiums ever built worldwide, located in the New York metropolitan area."</data>
+      <data key="d2">fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </node>
+    <node id="&quot;CITI FIELD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Citi Field is one of the most expensive stadiums ever built worldwide, located in the New York metropolitan area."</data>
+      <data key="d2">fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </node>
+    <node id="&quot;NEW YORK CITY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </node>
+    <node id="&quot;ATLANTA BEAT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Atlanta Beat is a team in Women's Professional Soccer that Amanda Cinalli played for."</data>
+      <data key="d2">b4b0f1cf1f5e62b986b2db388c7696f5</data>
+    </node>
+    <node id="&quot;CHICAGO RED STARS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Chicago Red Stars is a team in Women's Premier Soccer League Elite that Amanda Cinalli played for."</data>
+      <data key="d2">b4b0f1cf1f5e62b986b2db388c7696f5</data>
+    </node>
+    <node id="&quot;UNITED STATES U-23 WOMEN'S NATIONAL SOCCER TEAM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The United States U-23 women's national soccer team is a team that Amanda Cinalli was a member of."</data>
+      <data key="d2">b4b0f1cf1f5e62b986b2db388c7696f5</data>
+    </node>
+    <node id="&quot;LAUREL SCHOOL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Laurel School in Shaker Heights, Ohio is the school that Amanda Cinalli attended."</data>
+      <data key="d2">b4b0f1cf1f5e62b986b2db388c7696f5</data>
+    </node>
+    <node id="&quot;NOTRE DAME UNIVERSITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Notre Dame University is the university that Amanda Cinalli attended."</data>
+      <data key="d2">b4b0f1cf1f5e62b986b2db388c7696f5</data>
+    </node>
+    <node id="&quot;CLEVELAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Cleveland is a city in Ohio that has been home to several notable entities and events. It was the location where the Cleveland Bulldogs played, and it is also the base of the Cleveland Indians. Additionally, Cleveland, Ohio is recognized as the birthplace of Amanda Cinalli.</data>
+      <data key="d2">3a4f194d60a949eb279aac7ce65ff71b,b4b0f1cf1f5e62b986b2db388c7696f5,fa3a9c071659eee682f39571f96f0a28</data>
+    </node>
+    <node id="&quot;SHAKER HEIGHTS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Shaker Heights, Ohio is the location of Laurel School, which Amanda Cinalli attended."</data>
+      <data key="d2">b4b0f1cf1f5e62b986b2db388c7696f5</data>
+    </node>
+    <node id="&quot;AMANDA CINALLI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b4b0f1cf1f5e62b986b2db388c7696f5</data>
+    </node>
+    <node id="&quot;HOUSTON TEXANS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Houston Texans are a professional American football team in the National Football League (NFL) that Johnson Bademosi plays for."</data>
+      <data key="d2">61ba8f7fd870e7bb509b56b626c857de</data>
+    </node>
+    <node id="&quot;GONZAGA COLLEGE HIGH SCHOOL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Gonzaga College High School is a high school where Johnson Bademosi was a member of the football, rugby, and track and field teams."</data>
+      <data key="d2">61ba8f7fd870e7bb509b56b626c857de</data>
+    </node>
+    <node id="&quot;STANFORD UNIVERSITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Stanford University is a college where Johnson Bademosi played football."</data>
+      <data key="d2">61ba8f7fd870e7bb509b56b626c857de</data>
+    </node>
+    <node id="&quot;JOHNSON BADEMOSI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">61ba8f7fd870e7bb509b56b626c857de</data>
+    </node>
+    <node id="&quot;NATIONAL HOCKEY LEAGUE (NHL)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The National Hockey League (NHL) is a professional ice hockey league that expanded in 1967, adding six teams including the California Golden Seals."</data>
+      <data key="d2">e59532f25046c60d597913041d742ab7</data>
+    </node>
+    <node id="&quot;OAKLAND SEALS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Oakland Seals were a team in the National Hockey League (NHL), renamed from California Seals partway through the 1967-68 season."</data>
+      <data key="d2">e59532f25046c60d597913041d742ab7</data>
+    </node>
+    <node id="&quot;CALIFORNIA SEALS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The California Seals were a team in the National Hockey League (NHL), initially named before being renamed Oakland Seals and later California Golden Seals."</data>
+      <data key="d2">e59532f25046c60d597913041d742ab7</data>
+    </node>
+    <node id="&quot;CLEVELAND BARONS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Cleveland Barons are a team that resulted from the relocation of the California Golden Seals in 1976."</data>
+      <data key="d2">e59532f25046c60d597913041d742ab7</data>
+    </node>
+    <node id="&quot;OAKLAND, CALIFORNIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Oakland, California is the location where the California Golden Seals were based and played their home games at the Oakland-Alameda County Coliseum Arena."</data>
+      <data key="d2">e59532f25046c60d597913041d742ab7</data>
+    </node>
+    <node id="&quot;CALIFORNIA GOLDEN SEALS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e59532f25046c60d597913041d742ab7</data>
+    </node>
+    <node id="&quot;AMERICAN LEAGUE (AL)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The American League (AL) is one of the two leagues in Major League Baseball (MLB), consisting of 15 teams, and includes teams such as the Cleveland Indians.</data>
+      <data key="d2">cc31f7329d89a437402692380160c423,fa3a9c071659eee682f39571f96f0a28</data>
+    </node>
+    <node id="&quot;NATIONAL LEAGUE (NL)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"National League (NL) is one of the two leagues in Major League Baseball (MLB), consisting of 15 teams."</data>
+      <data key="d2">cc31f7329d89a437402692380160c423</data>
+    </node>
+    <node id="&quot;OPENING DAY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Opening Day marks the beginning of the MLB regular season, typically held in late March or early April."</data>
+      <data key="d2">cc31f7329d89a437402692380160c423</data>
+    </node>
+    <node id="&quot;MAJOR LEAGUE BASEBALL (MLB)&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Major League Baseball (MLB) is a professional sports league.</data>
+      <data key="d2">cc31f7329d89a437402692380160c423,fa3a9c071659eee682f39571f96f0a28</data>
+    </node>
+    <node id="&quot;PROGRESSIVE FIELD&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Progressive Field is the home stadium of the Cleveland Indians in Cleveland, Ohio."</data>
+      <data key="d2">fa3a9c071659eee682f39571f96f0a28</data>
+    </node>
+    <node id="&quot;GOODYEAR BALLPARK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Goodyear Ballpark is the spring training facility of the Cleveland Indians located in Goodyear, Arizona."</data>
+      <data key="d2">fa3a9c071659eee682f39571f96f0a28</data>
+    </node>
+    <node id="&quot;GOODYEAR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Goodyear is a city in Arizona where the Cleveland Indians' spring training facility is located."</data>
+      <data key="d2">fa3a9c071659eee682f39571f96f0a28</data>
+    </node>
+    <node id="&quot;NATIONAL BASKETBALL ASSOCIATION (NBA)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The National Basketball Association (NBA) is a professional sports league that the Sacramento Kings compete in."</data>
+      <data key="d2">e814c2889759ab5e1c2c1d4d19538f73</data>
+    </node>
+    <node id="&quot;WESTERN CONFERENCE'S PACIFIC DIVISION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Western Conference's Pacific Division is a division in the NBA that the Sacramento Kings are a part of."</data>
+      <data key="d2">e814c2889759ab5e1c2c1d4d19538f73</data>
+    </node>
+    <node id="&quot;SACRAMENTO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Sacramento is a city in California where the Sacramento Kings are based."</data>
+      <data key="d2">e814c2889759ab5e1c2c1d4d19538f73</data>
+    </node>
+    <node id="&quot;CALIFORNIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"California is a state in the United States where Sacramento, the home of the Sacramento Kings, is located."</data>
+      <data key="d2">e814c2889759ab5e1c2c1d4d19538f73</data>
+    </node>
+    <node id="&quot;GOLDEN 1 CENTER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Golden 1 Center is an arena in Sacramento, California where the Sacramento Kings play their home games."</data>
+      <data key="d2">e814c2889759ab5e1c2c1d4d19538f73</data>
+    </node>
+    <node id="&quot;SACRAMENTO KINGS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e814c2889759ab5e1c2c1d4d19538f73</data>
+    </node>
+    <node id="&quot;SAMUEL DEUTSCH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Samuel Deutsch was the owner of the Cleveland Bulldogs and purchased the Canton Bulldogs in 1924."</data>
+      <data key="d2">3a4f194d60a949eb279aac7ce65ff71b</data>
+    </node>
+    <node id="&quot;CANTON BULLDOGS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Canton Bulldogs were a team that merged with the Indians to form the Cleveland Bulldogs."</data>
+      <data key="d2">3a4f194d60a949eb279aac7ce65ff71b</data>
+    </node>
+    <node id="&quot;DETROIT WOLVERINES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Detroit Wolverines were a team that the Cleveland Bulldogs relocated to in 1928."</data>
+      <data key="d2">3a4f194d60a949eb279aac7ce65ff71b</data>
+    </node>
+    <node id="&quot;NEW YORK GIANTS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The New York Giants incorporated the Cleveland Bulldogs in 1929."</data>
+      <data key="d2">3a4f194d60a949eb279aac7ce65ff71b</data>
+    </node>
+    <node id="&quot;1924 NFL CHAMPIONSHIP&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 1924 NFL championship was won by the Cleveland Bulldogs."</data>
+      <data key="d2">3a4f194d60a949eb279aac7ce65ff71b</data>
+    </node>
+    <node id="&quot;JACKIE ROBINSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jackie Robinson was a professional athlete who had his uniform number 42 retired across all major league teams, a first in any sport."</data>
+      <data key="d2">6aa43f14f87d14541ec9f7bd4f3801a7</data>
+    </node>
+    <node id="&quot;JACKIE ROBINSON DAY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Jackie Robinson Day is an annual tradition established by MLB to honor Jackie Robinson, held on April 15th."</data>
+      <data key="d2">6aa43f14f87d14541ec9f7bd4f3801a7</data>
+    </node>
+    <node id="&quot;MLB&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6aa43f14f87d14541ec9f7bd4f3801a7</data>
+    </node>
+    <node id="&quot;OREGON STATE UNIVERSITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Oregon State University is an educational institution where Edward Wesley Schulmerich played baseball and football, earning all-conference honors."</data>
+      <data key="d2">e4ce0ab86da15ee64989a587e107521a</data>
+    </node>
+    <node id="&quot;OREGON SPORTS HALL OF FAME&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Oregon Sports Hall of Fame is a prestigious organization that has inducted Edward Wesley Schulmerich for his contributions to sports."</data>
+      <data key="d2">e4ce0ab86da15ee64989a587e107521a</data>
+    </node>
+    <node id="&quot;MAJOR LEAGUES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Major Leagues refer to the top level of professional baseball, where Edward Wesley Schulmerich played for three teams in the early 1930s."</data>
+      <data key="d2">e4ce0ab86da15ee64989a587e107521a</data>
+    </node>
+    <node id="&quot;EDWARD WESLEY SCHULMERICH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e4ce0ab86da15ee64989a587e107521a</data>
+    </node>
+    <edge source="&quot;WORLD SERIES&quot;" target="&quot;MAJOR LEAGUE BASEBALL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Major League Baseball schedules the season to prevent the World Series from extending into November."</data>
+      <data key="d5">c74693683650d4dc1f3e497c670baba6</data>
+    </edge>
+    <edge source="&quot;MAJOR LEAGUE BASEBALL&quot;" target="&quot;2011 SEASON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Major League Baseball scheduled the 2011 season to open on Thursday or Friday."</data>
+      <data key="d5">c74693683650d4dc1f3e497c670baba6</data>
+    </edge>
+    <edge source="&quot;MAJOR LEAGUE BASEBALL&quot;" target="&quot;2012 SEASON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Major League Baseball scheduled the 2012 season to open on Thursday or Friday."</data>
+      <data key="d5">c74693683650d4dc1f3e497c670baba6</data>
+    </edge>
+    <edge source="&quot;MAJOR LEAGUE BASEBALL&quot;" target="&quot;2018 SEASON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Major League Baseball scheduled the 2018 season to open on Thursday, March 29."</data>
+      <data key="d5">c74693683650d4dc1f3e497c670baba6</data>
+    </edge>
+    <edge source="&quot;MAJOR LEAGUE BASEBALL&quot;" target="&quot;THURSDAY, MARCH 31&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Some teams in Major League Baseball opened the 2011 season on Thursday, March 31."</data>
+      <data key="d5">c74693683650d4dc1f3e497c670baba6</data>
+    </edge>
+    <edge source="&quot;MAJOR LEAGUE BASEBALL&quot;" target="&quot;FRIDAY, APRIL 1&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Some teams in Major League Baseball opened the 2011 season on Friday, April 1."</data>
+      <data key="d5">c74693683650d4dc1f3e497c670baba6</data>
+    </edge>
+    <edge source="&quot;MAJOR LEAGUE BASEBALL&quot;" target="&quot;THURSDAY, APRIL 5&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Some teams in Major League Baseball opened the 2012 season on Thursday, April 5."</data>
+      <data key="d5">c74693683650d4dc1f3e497c670baba6</data>
+    </edge>
+    <edge source="&quot;MAJOR LEAGUE BASEBALL&quot;" target="&quot;FRIDAY, APRIL 6&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Some teams in Major League Baseball opened the 2012 season on Friday, April 6."</data>
+      <data key="d5">c74693683650d4dc1f3e497c670baba6</data>
+    </edge>
+    <edge source="&quot;MAJOR LEAGUE BASEBALL&quot;" target="&quot;THURSDAY, MARCH 29&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"All 30 teams in Major League Baseball opened the 2018 season on Thursday, March 29."</data>
+      <data key="d5">c74693683650d4dc1f3e497c670baba6</data>
+    </edge>
+    <edge source="&quot;MAJOR LEAGUE BASEBALL&quot;" target="&quot;FRIDAY, MARCH 30&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Two games in Major League Baseball were postponed to Friday, March 30."</data>
+      <data key="d5">c74693683650d4dc1f3e497c670baba6</data>
+    </edge>
+    <edge source="&quot;MAJOR LEAGUE BASEBALL&quot;" target="&quot;NEW YORK CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"New York City hosts the headquarters of Major League Baseball."</data>
+      <data key="d5">fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">08e676cd7cb0cb0d6c11b08c3e55ecce,21b46e028901c006aa8b9ead0c135163,3a4f194d60a949eb279aac7ce65ff71b,49d2a65ed4e778234631f680299ff87b,52fa16ab7ed12a87efd8d4c5382b160a,597d653fc9e685e23184f2f90fade3cf,6143da848de7e0d5e6c591d684c5eb52,61ba8f7fd870e7bb509b56b626c857de,6aa43f14f87d14541ec9f7bd4f3801a7,8971a0c4a602887f5f82ac2e83af1c8d,9c636c6dbba1afb887d77d11a68f7f88,b4b0f1cf1f5e62b986b2db388c7696f5,c74693683650d4dc1f3e497c670baba6,cc31f7329d89a437402692380160c423,d421d779f902ed8be6cfe4fae10374f0,e4ce0ab86da15ee64989a587e107521a,e59532f25046c60d597913041d742ab7,e814c2889759ab5e1c2c1d4d19538f73,fa3a9c071659eee682f39571f96f0a28,fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">08e676cd7cb0cb0d6c11b08c3e55ecce,21b46e028901c006aa8b9ead0c135163,3a4f194d60a949eb279aac7ce65ff71b,49d2a65ed4e778234631f680299ff87b,52fa16ab7ed12a87efd8d4c5382b160a,597d653fc9e685e23184f2f90fade3cf,6143da848de7e0d5e6c591d684c5eb52,61ba8f7fd870e7bb509b56b626c857de,6aa43f14f87d14541ec9f7bd4f3801a7,8971a0c4a602887f5f82ac2e83af1c8d,9c636c6dbba1afb887d77d11a68f7f88,b4b0f1cf1f5e62b986b2db388c7696f5,c74693683650d4dc1f3e497c670baba6,cc31f7329d89a437402692380160c423,d421d779f902ed8be6cfe4fae10374f0,e4ce0ab86da15ee64989a587e107521a,e59532f25046c60d597913041d742ab7,e814c2889759ab5e1c2c1d4d19538f73,fa3a9c071659eee682f39571f96f0a28,fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">08e676cd7cb0cb0d6c11b08c3e55ecce,21b46e028901c006aa8b9ead0c135163,3a4f194d60a949eb279aac7ce65ff71b,49d2a65ed4e778234631f680299ff87b,52fa16ab7ed12a87efd8d4c5382b160a,597d653fc9e685e23184f2f90fade3cf,6143da848de7e0d5e6c591d684c5eb52,61ba8f7fd870e7bb509b56b626c857de,6aa43f14f87d14541ec9f7bd4f3801a7,8971a0c4a602887f5f82ac2e83af1c8d,9c636c6dbba1afb887d77d11a68f7f88,b4b0f1cf1f5e62b986b2db388c7696f5,c74693683650d4dc1f3e497c670baba6,cc31f7329d89a437402692380160c423,d421d779f902ed8be6cfe4fae10374f0,e4ce0ab86da15ee64989a587e107521a,e59532f25046c60d597913041d742ab7,e814c2889759ab5e1c2c1d4d19538f73,fa3a9c071659eee682f39571f96f0a28,fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">08e676cd7cb0cb0d6c11b08c3e55ecce,21b46e028901c006aa8b9ead0c135163,3a4f194d60a949eb279aac7ce65ff71b,49d2a65ed4e778234631f680299ff87b,52fa16ab7ed12a87efd8d4c5382b160a,597d653fc9e685e23184f2f90fade3cf,6143da848de7e0d5e6c591d684c5eb52,61ba8f7fd870e7bb509b56b626c857de,6aa43f14f87d14541ec9f7bd4f3801a7,8971a0c4a602887f5f82ac2e83af1c8d,9c636c6dbba1afb887d77d11a68f7f88,b4b0f1cf1f5e62b986b2db388c7696f5,c74693683650d4dc1f3e497c670baba6,cc31f7329d89a437402692380160c423,d421d779f902ed8be6cfe4fae10374f0,e4ce0ab86da15ee64989a587e107521a,e59532f25046c60d597913041d742ab7,e814c2889759ab5e1c2c1d4d19538f73,fa3a9c071659eee682f39571f96f0a28,fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">08e676cd7cb0cb0d6c11b08c3e55ecce,21b46e028901c006aa8b9ead0c135163,3a4f194d60a949eb279aac7ce65ff71b,49d2a65ed4e778234631f680299ff87b,52fa16ab7ed12a87efd8d4c5382b160a,597d653fc9e685e23184f2f90fade3cf,6143da848de7e0d5e6c591d684c5eb52,61ba8f7fd870e7bb509b56b626c857de,6aa43f14f87d14541ec9f7bd4f3801a7,8971a0c4a602887f5f82ac2e83af1c8d,9c636c6dbba1afb887d77d11a68f7f88,b4b0f1cf1f5e62b986b2db388c7696f5,c74693683650d4dc1f3e497c670baba6,cc31f7329d89a437402692380160c423,d421d779f902ed8be6cfe4fae10374f0,e4ce0ab86da15ee64989a587e107521a,e59532f25046c60d597913041d742ab7,e814c2889759ab5e1c2c1d4d19538f73,fa3a9c071659eee682f39571f96f0a28,fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">08e676cd7cb0cb0d6c11b08c3e55ecce,21b46e028901c006aa8b9ead0c135163,3a4f194d60a949eb279aac7ce65ff71b,49d2a65ed4e778234631f680299ff87b,52fa16ab7ed12a87efd8d4c5382b160a,597d653fc9e685e23184f2f90fade3cf,6143da848de7e0d5e6c591d684c5eb52,61ba8f7fd870e7bb509b56b626c857de,6aa43f14f87d14541ec9f7bd4f3801a7,8971a0c4a602887f5f82ac2e83af1c8d,9c636c6dbba1afb887d77d11a68f7f88,b4b0f1cf1f5e62b986b2db388c7696f5,c74693683650d4dc1f3e497c670baba6,cc31f7329d89a437402692380160c423,d421d779f902ed8be6cfe4fae10374f0,e4ce0ab86da15ee64989a587e107521a,e59532f25046c60d597913041d742ab7,e814c2889759ab5e1c2c1d4d19538f73,fa3a9c071659eee682f39571f96f0a28,fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">08e676cd7cb0cb0d6c11b08c3e55ecce,21b46e028901c006aa8b9ead0c135163,3a4f194d60a949eb279aac7ce65ff71b,49d2a65ed4e778234631f680299ff87b,52fa16ab7ed12a87efd8d4c5382b160a,597d653fc9e685e23184f2f90fade3cf,6143da848de7e0d5e6c591d684c5eb52,61ba8f7fd870e7bb509b56b626c857de,6aa43f14f87d14541ec9f7bd4f3801a7,8971a0c4a602887f5f82ac2e83af1c8d,9c636c6dbba1afb887d77d11a68f7f88,b4b0f1cf1f5e62b986b2db388c7696f5,c74693683650d4dc1f3e497c670baba6,cc31f7329d89a437402692380160c423,d421d779f902ed8be6cfe4fae10374f0,e4ce0ab86da15ee64989a587e107521a,e59532f25046c60d597913041d742ab7,e814c2889759ab5e1c2c1d4d19538f73,fa3a9c071659eee682f39571f96f0a28,fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">08e676cd7cb0cb0d6c11b08c3e55ecce,21b46e028901c006aa8b9ead0c135163,3a4f194d60a949eb279aac7ce65ff71b,49d2a65ed4e778234631f680299ff87b,52fa16ab7ed12a87efd8d4c5382b160a,597d653fc9e685e23184f2f90fade3cf,6143da848de7e0d5e6c591d684c5eb52,61ba8f7fd870e7bb509b56b626c857de,6aa43f14f87d14541ec9f7bd4f3801a7,8971a0c4a602887f5f82ac2e83af1c8d,9c636c6dbba1afb887d77d11a68f7f88,b4b0f1cf1f5e62b986b2db388c7696f5,c74693683650d4dc1f3e497c670baba6,cc31f7329d89a437402692380160c423,d421d779f902ed8be6cfe4fae10374f0,e4ce0ab86da15ee64989a587e107521a,e59532f25046c60d597913041d742ab7,e814c2889759ab5e1c2c1d4d19538f73,fa3a9c071659eee682f39571f96f0a28,fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">08e676cd7cb0cb0d6c11b08c3e55ecce,21b46e028901c006aa8b9ead0c135163,3a4f194d60a949eb279aac7ce65ff71b,49d2a65ed4e778234631f680299ff87b,52fa16ab7ed12a87efd8d4c5382b160a,597d653fc9e685e23184f2f90fade3cf,6143da848de7e0d5e6c591d684c5eb52,61ba8f7fd870e7bb509b56b626c857de,6aa43f14f87d14541ec9f7bd4f3801a7,8971a0c4a602887f5f82ac2e83af1c8d,9c636c6dbba1afb887d77d11a68f7f88,b4b0f1cf1f5e62b986b2db388c7696f5,c74693683650d4dc1f3e497c670baba6,cc31f7329d89a437402692380160c423,d421d779f902ed8be6cfe4fae10374f0,e4ce0ab86da15ee64989a587e107521a,e59532f25046c60d597913041d742ab7,e814c2889759ab5e1c2c1d4d19538f73,fa3a9c071659eee682f39571f96f0a28,fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </edge>
+    <edge source="&quot;MICHAEL GORDON&quot;" target="&quot;WEST DALLAS KINGS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Michael Gordon was a founder of the West Dallas Kings soccer team."</data>
+      <data key="d5">08e676cd7cb0cb0d6c11b08c3e55ecce</data>
+    </edge>
+    <edge source="&quot;REAGAN ANGELL&quot;" target="&quot;WEST DALLAS KINGS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Reagan Angell was a founder of the West Dallas Kings soccer team."</data>
+      <data key="d5">08e676cd7cb0cb0d6c11b08c3e55ecce</data>
+    </edge>
+    <edge source="&quot;DAVID ANGELL&quot;" target="&quot;WEST DALLAS KINGS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"David Angell was a founder of the West Dallas Kings soccer team."</data>
+      <data key="d5">08e676cd7cb0cb0d6c11b08c3e55ecce</data>
+    </edge>
+    <edge source="&quot;JIM BENEDEK&quot;" target="&quot;WEST DALLAS KINGS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jim Benedek was the coach of the West Dallas Kings soccer team."</data>
+      <data key="d5">08e676cd7cb0cb0d6c11b08c3e55ecce</data>
+    </edge>
+    <edge source="&quot;UNITED SOCCER LEAGUES PREMIER DEVELOPMENT LEAGUE (PDL)&quot;" target="&quot;WEST DALLAS KINGS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The West Dallas Kings played in the United Soccer Leagues Premier Development League (PDL) for one season."</data>
+      <data key="d5">08e676cd7cb0cb0d6c11b08c3e55ecce</data>
+    </edge>
+    <edge source="&quot;JIANGSU SAINTY&quot;" target="&quot;NANJING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nanjing is the home city of Jiangsu Sainty football club."</data>
+      <data key="d5">8971a0c4a602887f5f82ac2e83af1c8d</data>
+    </edge>
+    <edge source="&quot;JIANGSU SAINTY&quot;" target="&quot;NANJING OLYMPIC SPORTS CENTER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jiangsu Sainty is based at Nanjing Olympic Sports Center."</data>
+      <data key="d5">8971a0c4a602887f5f82ac2e83af1c8d</data>
+    </edge>
+    <edge source="&quot;JIANGSU NANGANG BASKETBALL CLUB&quot;" target="&quot;CBA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jiangsu Nangang Basketball Club competes in the CBA league."</data>
+      <data key="d5">8971a0c4a602887f5f82ac2e83af1c8d</data>
+    </edge>
+    <edge source="&quot;JIANGSU NANGANG BASKETBALL CLUB&quot;" target="&quot;NANJING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nanjing is the home city of Jiangsu Nangang Basketball Club."</data>
+      <data key="d5">8971a0c4a602887f5f82ac2e83af1c8d</data>
+    </edge>
+    <edge source="&quot;JIANGSU VOLLEYBALL MEN AND WOMEN TEAMS&quot;" target="&quot;NANJING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nanjing is the home city of Jiangsu Volleyball men and women teams."</data>
+      <data key="d5">8971a0c4a602887f5f82ac2e83af1c8d</data>
+    </edge>
+    <edge source="&quot;INTERNATIONAL ISLAND GAMES ASSOCIATION&quot;" target="&quot;SAINT HELENA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Saint Helena is a member of the International Island Games Association."</data>
+      <data key="d5">49d2a65ed4e778234631f680299ff87b</data>
+    </edge>
+    <edge source="&quot;INTERNATIONAL ISLAND GAMES ASSOCIATION&quot;" target="&quot;SAINT HELENA CRICKET TEAM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Saint Helena cricket team is part of the International Island Games Association through its membership with Saint Helena."</data>
+      <data key="d5">49d2a65ed4e778234631f680299ff87b</data>
+    </edge>
+    <edge source="&quot;SAINT HELENA CRICKET TEAM&quot;" target="&quot;COMMONWEALTH GAMES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Saint Helena cricket team participates in the Commonwealth Games."</data>
+      <data key="d5">49d2a65ed4e778234631f680299ff87b</data>
+    </edge>
+    <edge source="&quot;AKRON PROS&quot;" target="&quot;MICHAELS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Michaels played for the Akron Pros team."</data>
+      <data key="d5">52fa16ab7ed12a87efd8d4c5382b160a</data>
+    </edge>
+    <edge source="&quot;NATIONAL FOOTBALL LEAGUE&quot;" target="&quot;NEW YORK CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"New York City hosts the headquarters of the National Football League."</data>
+      <data key="d5">fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </edge>
+    <edge source="&quot;CLEVELAND BULLDOGS&quot;" target="&quot;MICHAELS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Michaels played for the Cleveland Bulldogs team."</data>
+      <data key="d5">52fa16ab7ed12a87efd8d4c5382b160a</data>
+    </edge>
+    <edge source="&quot;CLEVELAND BULLDOGS&quot;" target="&quot;SAMUEL DEUTSCH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Samuel Deutsch owned the Cleveland Bulldogs."</data>
+      <data key="d5">3a4f194d60a949eb279aac7ce65ff71b</data>
+    </edge>
+    <edge source="&quot;CLEVELAND BULLDOGS&quot;" target="&quot;CANTON BULLDOGS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Canton Bulldogs merged with the Indians to form the Cleveland Bulldogs."</data>
+      <data key="d5">3a4f194d60a949eb279aac7ce65ff71b</data>
+    </edge>
+    <edge source="&quot;CLEVELAND BULLDOGS&quot;" target="&quot;DETROIT WOLVERINES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Cleveland Bulldogs relocated to Detroit and became the Detroit Wolverines."</data>
+      <data key="d5">3a4f194d60a949eb279aac7ce65ff71b</data>
+    </edge>
+    <edge source="&quot;CLEVELAND BULLDOGS&quot;" target="&quot;NEW YORK GIANTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The New York Giants incorporated the Cleveland Bulldogs."</data>
+      <data key="d5">3a4f194d60a949eb279aac7ce65ff71b</data>
+    </edge>
+    <edge source="&quot;CLEVELAND PANTHERS&quot;" target="&quot;MICHAELS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Michaels played for the Cleveland Panthers team."</data>
+      <data key="d5">52fa16ab7ed12a87efd8d4c5382b160a</data>
+    </edge>
+    <edge source="&quot;MICHAELS&quot;" target="&quot;OHIO STATE UNIVERSITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Michaels attended Ohio State University."</data>
+      <data key="d5">52fa16ab7ed12a87efd8d4c5382b160a</data>
+    </edge>
+    <edge source="&quot;OHIO&quot;" target="&quot;CLEVELAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cleveland is a city in Ohio."</data>
+      <data key="d5">b4b0f1cf1f5e62b986b2db388c7696f5</data>
+    </edge>
+    <edge source="&quot;OHIO&quot;" target="&quot;SHAKER HEIGHTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Shaker Heights is a location in Ohio."</data>
+      <data key="d5">b4b0f1cf1f5e62b986b2db388c7696f5</data>
+    </edge>
+    <edge source="&quot;NEW YORK YANKEES&quot;" target="&quot;PLAYERS WEEKEND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The New York Yankees participate in Players Weekend, wearing names on their uniforms only during this event."</data>
+      <data key="d5">9c636c6dbba1afb887d77d11a68f7f88</data>
+    </edge>
+    <edge source="&quot;BROOKLYN DODGERS&quot;" target="&quot;CLEVELAND INDIANS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Both the Brooklyn Dodgers and Cleveland Indians are baseball teams that introduced innovations to their uniforms."</data>
+      <data key="d5">9c636c6dbba1afb887d77d11a68f7f88</data>
+    </edge>
+    <edge source="&quot;BROOKLYN DODGERS&quot;" target="&quot;NEW YORK CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Brooklyn Dodgers were one of the first professional sports teams in New York City."</data>
+      <data key="d5">fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </edge>
+    <edge source="&quot;OKKONEN&quot;" target="&quot;CLEVELAND INDIANS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Cleveland Indians' uniform history is documented by Okkonen's writing."</data>
+      <data key="d5">9c636c6dbba1afb887d77d11a68f7f88</data>
+    </edge>
+    <edge source="&quot;CLEVELAND INDIANS&quot;" target="&quot;MAJOR LEAGUE BASEBALL (MLB)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Cleveland Indians compete in Major League Baseball (MLB)."</data>
+      <data key="d5">fa3a9c071659eee682f39571f96f0a28</data>
+    </edge>
+    <edge source="&quot;CLEVELAND INDIANS&quot;" target="&quot;AMERICAN LEAGUE (AL)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Cleveland Indians are a member club of the American League (AL)."</data>
+      <data key="d5">fa3a9c071659eee682f39571f96f0a28</data>
+    </edge>
+    <edge source="&quot;CLEVELAND INDIANS&quot;" target="&quot;PROGRESSIVE FIELD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Cleveland Indians play at Progressive Field."</data>
+      <data key="d5">fa3a9c071659eee682f39571f96f0a28</data>
+    </edge>
+    <edge source="&quot;CLEVELAND INDIANS&quot;" target="&quot;GOODYEAR BALLPARK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Cleveland Indians have their spring training facility at Goodyear Ballpark."</data>
+      <data key="d5">fa3a9c071659eee682f39571f96f0a28</data>
+    </edge>
+    <edge source="&quot;PAUL BROWN&quot;" target="&quot;CLEVELAND BROWNS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Cleveland Browns are named after Paul Brown, their original coach."</data>
+      <data key="d5">597d653fc9e685e23184f2f90fade3cf</data>
+    </edge>
+    <edge source="&quot;NATIONAL FOOTBALL LEAGUE (NFL)&quot;" target="&quot;CLEVELAND BROWNS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Cleveland Browns compete in the National Football League (NFL)."</data>
+      <data key="d5">597d653fc9e685e23184f2f90fade3cf</data>
+    </edge>
+    <edge source="&quot;AMERICAN FOOTBALL CONFERENCE (AFC) NORTH DIVISION&quot;" target="&quot;CLEVELAND BROWNS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Cleveland Browns are a member of the American Football Conference (AFC) North division."</data>
+      <data key="d5">597d653fc9e685e23184f2f90fade3cf</data>
+    </edge>
+    <edge source="&quot;FIRSTENERGY STADIUM&quot;" target="&quot;CLEVELAND BROWNS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Cleveland Browns play their home games at FirstEnergy Stadium."</data>
+      <data key="d5">597d653fc9e685e23184f2f90fade3cf</data>
+    </edge>
+    <edge source="&quot;BEREA, OHIO&quot;" target="&quot;CLEVELAND BROWNS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Cleveland Browns have administrative offices and training facilities in Berea, Ohio."</data>
+      <data key="d5">597d653fc9e685e23184f2f90fade3cf</data>
+    </edge>
+    <edge source="&quot;CLEVELAND BROWNS&quot;" target="&quot;JOHNSON BADEMOSI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Johnson Bademosi was signed by the Cleveland Browns as an undrafted free agent in 2012."</data>
+      <data key="d5">61ba8f7fd870e7bb509b56b626c857de</data>
+    </edge>
+    <edge source="&quot;ENGLAND&quot;" target="&quot;PREMIER LEAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Premier League is based in England and has 19 teams from the country participating."</data>
+      <data key="d5">6143da848de7e0d5e6c591d684c5eb52</data>
+    </edge>
+    <edge source="&quot;WALES&quot;" target="&quot;PREMIER LEAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Premier League has one team from Wales participating."</data>
+      <data key="d5">6143da848de7e0d5e6c591d684c5eb52</data>
+    </edge>
+    <edge source="&quot;UEFA&quot;" target="&quot;PREMIER LEAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Premier League is part of the UEFA confederation."</data>
+      <data key="d5">6143da848de7e0d5e6c591d684c5eb52</data>
+    </edge>
+    <edge source="&quot;CHELSEA&quot;" target="&quot;PREMIER LEAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chelsea won the Premier League title in 2016-17."</data>
+      <data key="d5">6143da848de7e0d5e6c591d684c5eb52</data>
+    </edge>
+    <edge source="&quot;MANCHESTER UNITED&quot;" target="&quot;PREMIER LEAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Manchester United has won the most championships in the Premier League."</data>
+      <data key="d5">6143da848de7e0d5e6c591d684c5eb52</data>
+    </edge>
+    <edge source="&quot;INDIANS&quot;" target="&quot;WILSON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Wilson was released by the Indians following the 1986 season."</data>
+      <data key="d5">d421d779f902ed8be6cfe4fae10374f0</data>
+    </edge>
+    <edge source="&quot;MINNESOTA TWINS&quot;" target="&quot;WILSON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Wilson briefly toured the Minnesota Twins organization."</data>
+      <data key="d5">d421d779f902ed8be6cfe4fae10374f0</data>
+    </edge>
+    <edge source="&quot;SEATTLE MARINERS&quot;" target="&quot;WILSON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Wilson signed as a free agent with the Seattle Mariners on March 1, 1988."</data>
+      <data key="d5">d421d779f902ed8be6cfe4fae10374f0</data>
+    </edge>
+    <edge source="&quot;UNITED SOCCER LEAGUES W-LEAGUE&quot;" target="&quot;VERMONT LADY VOLTAGE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Vermont Lady Voltage is a member of the United Soccer Leagues W-League."</data>
+      <data key="d5">21b46e028901c006aa8b9ead0c135163</data>
+    </edge>
+    <edge source="&quot;COLLINS-PERLEY SPORTS COMPLEX&quot;" target="&quot;VERMONT LADY VOLTAGE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Vermont Lady Voltage plays their home games at Collins-Perley Sports Complex."</data>
+      <data key="d5">21b46e028901c006aa8b9ead0c135163</data>
+    </edge>
+    <edge source="&quot;ST. ALBANS&quot;" target="&quot;VERMONT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"St. Albans is a city located in the state of Vermont."</data>
+      <data key="d5">21b46e028901c006aa8b9ead0c135163</data>
+    </edge>
+    <edge source="&quot;VERMONT&quot;" target="&quot;BURLINGTON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Burlington is the largest city in the state of Vermont."</data>
+      <data key="d5">21b46e028901c006aa8b9ead0c135163</data>
+    </edge>
+    <edge source="&quot;VERMONT VOLTAGE&quot;" target="&quot;VERMONT LADY VOLTAGE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Vermont Lady Voltage and Vermont Voltage are sister organizations."</data>
+      <data key="d5">21b46e028901c006aa8b9ead0c135163</data>
+    </edge>
+    <edge source="&quot;NATIONAL BASKETBALL ASSOCIATION&quot;" target="&quot;NEW YORK CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"New York City hosts the headquarters of the National Basketball Association."</data>
+      <data key="d5">fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </edge>
+    <edge source="&quot;NATIONAL HOCKEY LEAGUE&quot;" target="&quot;NEW YORK CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"New York City hosts the headquarters of the National Hockey League."</data>
+      <data key="d5">fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </edge>
+    <edge source="&quot;MAJOR LEAGUE SOCCER&quot;" target="&quot;NEW YORK CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"New York City hosts the headquarters of Major League Soccer."</data>
+      <data key="d5">fcc93d66c172a80e050aaabb43a6f6c4</data>
+    </edge>
+    <edge source="&quot;ATLANTA BEAT&quot;" target="&quot;AMANDA CINALLI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Amanda Cinalli played for Atlanta Beat."</data>
+      <data key="d5">b4b0f1cf1f5e62b986b2db388c7696f5</data>
+    </edge>
+    <edge source="&quot;CHICAGO RED STARS&quot;" target="&quot;AMANDA CINALLI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Amanda Cinalli played for Chicago Red Stars."</data>
+      <data key="d5">b4b0f1cf1f5e62b986b2db388c7696f5</data>
+    </edge>
+    <edge source="&quot;UNITED STATES U-23 WOMEN'S NATIONAL SOCCER TEAM&quot;" target="&quot;AMANDA CINALLI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Amanda Cinalli was a member of the United States U-23 women's national soccer team."</data>
+      <data key="d5">b4b0f1cf1f5e62b986b2db388c7696f5</data>
+    </edge>
+    <edge source="&quot;LAUREL SCHOOL&quot;" target="&quot;AMANDA CINALLI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Amanda Cinalli attended Laurel School."</data>
+      <data key="d5">b4b0f1cf1f5e62b986b2db388c7696f5</data>
+    </edge>
+    <edge source="&quot;NOTRE DAME UNIVERSITY&quot;" target="&quot;AMANDA CINALLI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Amanda Cinalli attended Notre Dame University."</data>
+      <data key="d5">b4b0f1cf1f5e62b986b2db388c7696f5</data>
+    </edge>
+    <edge source="&quot;HOUSTON TEXANS&quot;" target="&quot;JOHNSON BADEMOSI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Johnson Bademosi plays for the Houston Texans."</data>
+      <data key="d5">61ba8f7fd870e7bb509b56b626c857de</data>
+    </edge>
+    <edge source="&quot;GONZAGA COLLEGE HIGH SCHOOL&quot;" target="&quot;JOHNSON BADEMOSI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Johnson Bademosi attended Gonzaga College High School and was a member of its sports teams."</data>
+      <data key="d5">61ba8f7fd870e7bb509b56b626c857de</data>
+    </edge>
+    <edge source="&quot;STANFORD UNIVERSITY&quot;" target="&quot;JOHNSON BADEMOSI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Johnson Bademosi played college football for Stanford University."</data>
+      <data key="d5">61ba8f7fd870e7bb509b56b626c857de</data>
+    </edge>
+    <edge source="&quot;NATIONAL HOCKEY LEAGUE (NHL)&quot;" target="&quot;CALIFORNIA GOLDEN SEALS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The California Golden Seals were a team in the National Hockey League (NHL) from 1967 to 1976."</data>
+      <data key="d5">e59532f25046c60d597913041d742ab7</data>
+    </edge>
+    <edge source="&quot;CLEVELAND BARONS&quot;" target="&quot;CALIFORNIA GOLDEN SEALS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The California Golden Seals relocated to become the Cleveland Barons in 1976."</data>
+      <data key="d5">e59532f25046c60d597913041d742ab7</data>
+    </edge>
+    <edge source="&quot;OAKLAND, CALIFORNIA&quot;" target="&quot;CALIFORNIA GOLDEN SEALS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The California Golden Seals were based in Oakland, California and played their home games at the Oakland-Alameda County Coliseum Arena."</data>
+      <data key="d5">e59532f25046c60d597913041d742ab7</data>
+    </edge>
+    <edge source="&quot;AMERICAN LEAGUE (AL)&quot;" target="&quot;MAJOR LEAGUE BASEBALL (MLB)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The American League (AL) is one of the two leagues governed by Major League Baseball (MLB)."</data>
+      <data key="d5">cc31f7329d89a437402692380160c423</data>
+    </edge>
+    <edge source="&quot;NATIONAL LEAGUE (NL)&quot;" target="&quot;MAJOR LEAGUE BASEBALL (MLB)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The National League (NL) is one of the two leagues governed by Major League Baseball (MLB)."</data>
+      <data key="d5">cc31f7329d89a437402692380160c423</data>
+    </edge>
+    <edge source="&quot;OPENING DAY&quot;" target="&quot;MAJOR LEAGUE BASEBALL (MLB)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Opening Day marks the beginning of the MLB regular season."</data>
+      <data key="d5">cc31f7329d89a437402692380160c423</data>
+    </edge>
+    <edge source="&quot;NATIONAL BASKETBALL ASSOCIATION (NBA)&quot;" target="&quot;SACRAMENTO KINGS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Sacramento Kings compete in the National Basketball Association (NBA)."</data>
+      <data key="d5">e814c2889759ab5e1c2c1d4d19538f73</data>
+    </edge>
+    <edge source="&quot;WESTERN CONFERENCE'S PACIFIC DIVISION&quot;" target="&quot;SACRAMENTO KINGS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Sacramento Kings are a member of the Western Conference's Pacific Division."</data>
+      <data key="d5">e814c2889759ab5e1c2c1d4d19538f73</data>
+    </edge>
+    <edge source="&quot;SACRAMENTO&quot;" target="&quot;SACRAMENTO KINGS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Sacramento Kings are based in Sacramento, California."</data>
+      <data key="d5">e814c2889759ab5e1c2c1d4d19538f73</data>
+    </edge>
+    <edge source="&quot;GOLDEN 1 CENTER&quot;" target="&quot;SACRAMENTO KINGS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Golden 1 Center is the home arena of the Sacramento Kings."</data>
+      <data key="d5">e814c2889759ab5e1c2c1d4d19538f73</data>
+    </edge>
+    <edge source="&quot;JACKIE ROBINSON&quot;" target="&quot;MLB&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"MLB retired Jackie Robinson's uniform number and established an annual tradition in his honor."</data>
+      <data key="d5">6aa43f14f87d14541ec9f7bd4f3801a7</data>
+    </edge>
+    <edge source="&quot;JACKIE ROBINSON DAY&quot;" target="&quot;MLB&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"MLB established Jackie Robinson Day as an annual tradition to honor Jackie Robinson."</data>
+      <data key="d5">6aa43f14f87d14541ec9f7bd4f3801a7</data>
+    </edge>
+    <edge source="&quot;OREGON STATE UNIVERSITY&quot;" target="&quot;EDWARD WESLEY SCHULMERICH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Edward Wesley Schulmerich attended Oregon State University, playing multiple sports and earning honors."</data>
+      <data key="d5">e4ce0ab86da15ee64989a587e107521a</data>
+    </edge>
+    <edge source="&quot;OREGON SPORTS HALL OF FAME&quot;" target="&quot;EDWARD WESLEY SCHULMERICH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Edward Wesley Schulmerich is a member of the Oregon Sports Hall of Fame, recognizing his achievements in sports."</data>
+      <data key="d5">e4ce0ab86da15ee64989a587e107521a</data>
+    </edge>
+    <edge source="&quot;MAJOR LEAGUES&quot;" target="&quot;EDWARD WESLEY SCHULMERICH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Edward Wesley Schulmerich played in the Major Leagues for three teams in the early 1930s."</data>
+      <data key="d5">e4ce0ab86da15ee64989a587e107521a</data>
+    </edge>
+  </graph>
+</graphml>

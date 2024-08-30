@@ -1,0 +1,1186 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;TAIWAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Taiwan is a region where Taiwanese Hokkien has been developed and implemented as a compulsory local language."</data>
+      <data key="d2">737432fe4e2be59c4ddfcb0e3c5c7d9c</data>
+    </node>
+    <node id="&quot;XIAMEN (AMOY)&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Xiamen (Amoy) is a region that was influenced by Taiwan's mother tongue movement, leading to the implementation of Hokkien dialect teaching in its schools."</data>
+      <data key="d2">737432fe4e2be59c4ddfcb0e3c5c7d9c</data>
+    </node>
+    <node id="&quot;MINISTRY OF EDUCATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Ministry of Education in Taiwan played a key role in standardizing Chinese characters for writing Hokkien and developing Tai-lo as a pronunciation guide."</data>
+      <data key="d2">737432fe4e2be59c4ddfcb0e3c5c7d9c</data>
+    </node>
+    <node id="&quot;TAI-LO&quot;">
+      <data key="d0">"LANGUAGE"</data>
+      <data key="d1">"Tai-lo is the standard Hokkien pronunciation and romanization guide developed by the Ministry of Education in Taiwan."</data>
+      <data key="d2">737432fe4e2be59c4ddfcb0e3c5c7d9c</data>
+    </node>
+    <node id="&quot;TAIWANESE HOKKIEN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">737432fe4e2be59c4ddfcb0e3c5c7d9c</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c,28d40e972f9ccd238b6cf76e7172ce16,3b2e0ac6e69d70a02cdad3882644be9e,5880c1b3e6422db5b0520254dd6828ac,737432fe4e2be59c4ddfcb0e3c5c7d9c,7a97e5a4fa8b4bf1e367d269b83d1b94,7c4eb8e8b081a40f453bb0e27834ec42,87adf2c84ee2b8239058178a08e3ae05,aee4e7ec6f787b41a9f683ca4c1983ed,b00289a43d5bfcb3b90a12f35da00aad,b9bc19d488879565148edddc37ec6fca,bd01c8322818868862f572f8d38417a7,be82364c986bf5791fb26e0b05a0f1a2,e2879823931340f4da1901fa085e5a67,e67fe49e52d955d6a5e8d95a61e3f0eb,eb311c73508522a6faaec3977573cf48,eb8c6577f154254c98ef5a20a814e097,f8069dffc893631140fc087211963a49,fca0e26cd9066bd1b152aa203cff62d1,ffbf40673252cbbee332304488b05b99</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c,28d40e972f9ccd238b6cf76e7172ce16,3b2e0ac6e69d70a02cdad3882644be9e,5880c1b3e6422db5b0520254dd6828ac,737432fe4e2be59c4ddfcb0e3c5c7d9c,7a97e5a4fa8b4bf1e367d269b83d1b94,7c4eb8e8b081a40f453bb0e27834ec42,87adf2c84ee2b8239058178a08e3ae05,aee4e7ec6f787b41a9f683ca4c1983ed,b00289a43d5bfcb3b90a12f35da00aad,b9bc19d488879565148edddc37ec6fca,bd01c8322818868862f572f8d38417a7,be82364c986bf5791fb26e0b05a0f1a2,e2879823931340f4da1901fa085e5a67,e67fe49e52d955d6a5e8d95a61e3f0eb,eb311c73508522a6faaec3977573cf48,eb8c6577f154254c98ef5a20a814e097,f8069dffc893631140fc087211963a49,fca0e26cd9066bd1b152aa203cff62d1,ffbf40673252cbbee332304488b05b99</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c,28d40e972f9ccd238b6cf76e7172ce16,3b2e0ac6e69d70a02cdad3882644be9e,5880c1b3e6422db5b0520254dd6828ac,737432fe4e2be59c4ddfcb0e3c5c7d9c,7a97e5a4fa8b4bf1e367d269b83d1b94,7c4eb8e8b081a40f453bb0e27834ec42,87adf2c84ee2b8239058178a08e3ae05,aee4e7ec6f787b41a9f683ca4c1983ed,b00289a43d5bfcb3b90a12f35da00aad,b9bc19d488879565148edddc37ec6fca,bd01c8322818868862f572f8d38417a7,be82364c986bf5791fb26e0b05a0f1a2,e2879823931340f4da1901fa085e5a67,e67fe49e52d955d6a5e8d95a61e3f0eb,eb311c73508522a6faaec3977573cf48,eb8c6577f154254c98ef5a20a814e097,f8069dffc893631140fc087211963a49,fca0e26cd9066bd1b152aa203cff62d1,ffbf40673252cbbee332304488b05b99</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c,28d40e972f9ccd238b6cf76e7172ce16,3b2e0ac6e69d70a02cdad3882644be9e,5880c1b3e6422db5b0520254dd6828ac,737432fe4e2be59c4ddfcb0e3c5c7d9c,7a97e5a4fa8b4bf1e367d269b83d1b94,7c4eb8e8b081a40f453bb0e27834ec42,87adf2c84ee2b8239058178a08e3ae05,aee4e7ec6f787b41a9f683ca4c1983ed,b00289a43d5bfcb3b90a12f35da00aad,b9bc19d488879565148edddc37ec6fca,bd01c8322818868862f572f8d38417a7,be82364c986bf5791fb26e0b05a0f1a2,e2879823931340f4da1901fa085e5a67,e67fe49e52d955d6a5e8d95a61e3f0eb,eb311c73508522a6faaec3977573cf48,eb8c6577f154254c98ef5a20a814e097,f8069dffc893631140fc087211963a49,fca0e26cd9066bd1b152aa203cff62d1,ffbf40673252cbbee332304488b05b99</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country where Tucson, Pima County, and Arizona are located. Additionally, it has a significant number of Hokkien speakers among its overseas Chinese population. The country has also achieved notable success in international sports competitions, winning its 11th title in the 2018 Women's Softball World Championship Tournament and its 2nd title in the 2018 Winter Olympics tournament.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c,28d40e972f9ccd238b6cf76e7172ce16,3b2e0ac6e69d70a02cdad3882644be9e,5880c1b3e6422db5b0520254dd6828ac,737432fe4e2be59c4ddfcb0e3c5c7d9c,7a97e5a4fa8b4bf1e367d269b83d1b94,7c4eb8e8b081a40f453bb0e27834ec42,87adf2c84ee2b8239058178a08e3ae05,aee4e7ec6f787b41a9f683ca4c1983ed,b00289a43d5bfcb3b90a12f35da00aad,b9bc19d488879565148edddc37ec6fca,bd01c8322818868862f572f8d38417a7,be82364c986bf5791fb26e0b05a0f1a2,e2879823931340f4da1901fa085e5a67,e67fe49e52d955d6a5e8d95a61e3f0eb,eb311c73508522a6faaec3977573cf48,eb8c6577f154254c98ef5a20a814e097,f8069dffc893631140fc087211963a49,fca0e26cd9066bd1b152aa203cff62d1,ffbf40673252cbbee332304488b05b99</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c,28d40e972f9ccd238b6cf76e7172ce16,3b2e0ac6e69d70a02cdad3882644be9e,5880c1b3e6422db5b0520254dd6828ac,737432fe4e2be59c4ddfcb0e3c5c7d9c,7a97e5a4fa8b4bf1e367d269b83d1b94,7c4eb8e8b081a40f453bb0e27834ec42,87adf2c84ee2b8239058178a08e3ae05,aee4e7ec6f787b41a9f683ca4c1983ed,b00289a43d5bfcb3b90a12f35da00aad,b9bc19d488879565148edddc37ec6fca,bd01c8322818868862f572f8d38417a7,be82364c986bf5791fb26e0b05a0f1a2,e2879823931340f4da1901fa085e5a67,e67fe49e52d955d6a5e8d95a61e3f0eb,eb311c73508522a6faaec3977573cf48,eb8c6577f154254c98ef5a20a814e097,f8069dffc893631140fc087211963a49,fca0e26cd9066bd1b152aa203cff62d1,ffbf40673252cbbee332304488b05b99</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c,28d40e972f9ccd238b6cf76e7172ce16,3b2e0ac6e69d70a02cdad3882644be9e,5880c1b3e6422db5b0520254dd6828ac,737432fe4e2be59c4ddfcb0e3c5c7d9c,7a97e5a4fa8b4bf1e367d269b83d1b94,7c4eb8e8b081a40f453bb0e27834ec42,87adf2c84ee2b8239058178a08e3ae05,aee4e7ec6f787b41a9f683ca4c1983ed,b00289a43d5bfcb3b90a12f35da00aad,b9bc19d488879565148edddc37ec6fca,bd01c8322818868862f572f8d38417a7,be82364c986bf5791fb26e0b05a0f1a2,e2879823931340f4da1901fa085e5a67,e67fe49e52d955d6a5e8d95a61e3f0eb,eb311c73508522a6faaec3977573cf48,eb8c6577f154254c98ef5a20a814e097,f8069dffc893631140fc087211963a49,fca0e26cd9066bd1b152aa203cff62d1,ffbf40673252cbbee332304488b05b99</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Mexico is a country that shares an international border with the United States. Specifically, it borders the US near Tucson. Additionally, Mexico was considered as a potential host for the Copa Am&#233;rica, despite not being a member of CONMEBOL.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c,28d40e972f9ccd238b6cf76e7172ce16,3b2e0ac6e69d70a02cdad3882644be9e,5880c1b3e6422db5b0520254dd6828ac,737432fe4e2be59c4ddfcb0e3c5c7d9c,7a97e5a4fa8b4bf1e367d269b83d1b94,7c4eb8e8b081a40f453bb0e27834ec42,87adf2c84ee2b8239058178a08e3ae05,aee4e7ec6f787b41a9f683ca4c1983ed,b00289a43d5bfcb3b90a12f35da00aad,b9bc19d488879565148edddc37ec6fca,bd01c8322818868862f572f8d38417a7,be82364c986bf5791fb26e0b05a0f1a2,e2879823931340f4da1901fa085e5a67,e67fe49e52d955d6a5e8d95a61e3f0eb,eb311c73508522a6faaec3977573cf48,eb8c6577f154254c98ef5a20a814e097,f8069dffc893631140fc087211963a49,fca0e26cd9066bd1b152aa203cff62d1,ffbf40673252cbbee332304488b05b99</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c,28d40e972f9ccd238b6cf76e7172ce16,3b2e0ac6e69d70a02cdad3882644be9e,5880c1b3e6422db5b0520254dd6828ac,737432fe4e2be59c4ddfcb0e3c5c7d9c,7a97e5a4fa8b4bf1e367d269b83d1b94,7c4eb8e8b081a40f453bb0e27834ec42,87adf2c84ee2b8239058178a08e3ae05,aee4e7ec6f787b41a9f683ca4c1983ed,b00289a43d5bfcb3b90a12f35da00aad,b9bc19d488879565148edddc37ec6fca,bd01c8322818868862f572f8d38417a7,be82364c986bf5791fb26e0b05a0f1a2,e2879823931340f4da1901fa085e5a67,e67fe49e52d955d6a5e8d95a61e3f0eb,eb311c73508522a6faaec3977573cf48,eb8c6577f154254c98ef5a20a814e097,f8069dffc893631140fc087211963a49,fca0e26cd9066bd1b152aa203cff62d1,ffbf40673252cbbee332304488b05b99</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c,28d40e972f9ccd238b6cf76e7172ce16,3b2e0ac6e69d70a02cdad3882644be9e,5880c1b3e6422db5b0520254dd6828ac,737432fe4e2be59c4ddfcb0e3c5c7d9c,7a97e5a4fa8b4bf1e367d269b83d1b94,7c4eb8e8b081a40f453bb0e27834ec42,87adf2c84ee2b8239058178a08e3ae05,aee4e7ec6f787b41a9f683ca4c1983ed,b00289a43d5bfcb3b90a12f35da00aad,b9bc19d488879565148edddc37ec6fca,bd01c8322818868862f572f8d38417a7,be82364c986bf5791fb26e0b05a0f1a2,e2879823931340f4da1901fa085e5a67,e67fe49e52d955d6a5e8d95a61e3f0eb,eb311c73508522a6faaec3977573cf48,eb8c6577f154254c98ef5a20a814e097,f8069dffc893631140fc087211963a49,fca0e26cd9066bd1b152aa203cff62d1,ffbf40673252cbbee332304488b05b99</data>
+    </node>
+    <node id="&quot;CHINA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+China is a country that shares a border with Myanmar and has hosted several notable international events, including the 2014 Summer Youth Olympics. Additionally, it is also the country of origin for individuals such as Li Jiaman.</data>
+      <data key="d2">87adf2c84ee2b8239058178a08e3ae05,aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </node>
+    <node id="&quot;INDIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+India is a country that has hosted the Cricket World Cup multiple times, winning in 2011 and reaching the semi-finals in 1987. Additionally, India shares a border with Myanmar.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">aee4e7ec6f787b41a9f683ca4c1983ed,be82364c986bf5791fb26e0b05a0f1a2</data>
+    </node>
+    <node id="&quot;BANGLADESH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Bangladesh is a country that hosted the Cricket World Cup in 2011, although it was eliminated in the first round. Additionally, Bangladesh shares a border with Myanmar.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">aee4e7ec6f787b41a9f683ca4c1983ed,be82364c986bf5791fb26e0b05a0f1a2</data>
+    </node>
+    <node id="&quot;THAILAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Thailand is a country that shares a border with Myanmar and has a notable history in hosting international tournaments, having hosted the final tournament of a major competition while also participating in its qualification process despite being automatically qualified.</data>
+      <data key="d2">5880c1b3e6422db5b0520254dd6828ac,aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </node>
+    <node id="&quot;LAOS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Laos is a country located in south-east Asia, where A Don village is situated, and it shares a border with Myanmar.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">3b2e0ac6e69d70a02cdad3882644be9e,aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </node>
+    <node id="&quot;HIMALAYAS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Himalayas are a mountain range located to the northwest of Myanmar."</data>
+      <data key="d2">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </node>
+    <node id="&quot;BAY OF BENGAL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Bay of Bengal is a body of water located to the west of Myanmar."</data>
+      <data key="d2">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </node>
+    <node id="&quot;ANDAMAN SEA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Andaman Sea is a body of water located to the south of Myanmar."</data>
+      <data key="d2">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </node>
+    <node id="&quot;MYANMAR&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </node>
+    <node id="&quot;GIANNI INFANTINO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gianni Infantino is the president of FIFA who confirmed the exclusion of Europe and Asia from bidding for the 2026 World Cup."</data>
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c</data>
+    </node>
+    <node id="&quot;RUSSIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Russia is a country that hosted the 2018 World Cup.</data>
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c,bd01c8322818868862f572f8d38417a7,e2879823931340f4da1901fa085e5a67</data>
+    </node>
+    <node id="&quot;QATAR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Qatar is a country that will host the 2022 World Cup."</data>
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c</data>
+    </node>
+    <node id="&quot;UEFA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"UEFA is a continental confederation that represents European countries in football, excluded from bidding for the 2026 World Cup."</data>
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c</data>
+    </node>
+    <node id="&quot;AFC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The AFC (Asian Football Confederation) is a continental confederation that represents Asian countries in football.</data>
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c,5880c1b3e6422db5b0520254dd6828ac</data>
+    </node>
+    <node id="&quot;CONCACAF&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"CONCACAF is a continental confederation that represents North American countries in football, eligible to bid for the 2026 World Cup."</data>
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c</data>
+    </node>
+    <node id="&quot;CAF&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"CAF is a continental confederation that represents African countries in football, eligible to bid for the 2026 World Cup."</data>
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c</data>
+    </node>
+    <node id="&quot;CONMEBOL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+CONMEBOL is a continental confederation that represents South American countries in football and is eligible to bid for the 2026 World Cup. Additionally, CONMEBOL has a rotation policy of tournaments being held in alphabetical order and is involved in organizing the Copa Am&#233;rica.</data>
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c,7a97e5a4fa8b4bf1e367d269b83d1b94</data>
+    </node>
+    <node id="&quot;OFC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"OFC is a continental confederation that represents Oceanian countries in football, eligible to bid for the 2026 World Cup."</data>
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c</data>
+    </node>
+    <node id="&quot;FIFA COUNCIL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c</data>
+    </node>
+    <node id="&quot;EUROPE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c</data>
+    </node>
+    <node id="&quot;ASIA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c</data>
+    </node>
+    <node id="&quot;NORTH AMERICA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c</data>
+    </node>
+    <node id="&quot;AFRICA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c</data>
+    </node>
+    <node id="&quot;SOUTH AMERICA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c</data>
+    </node>
+    <node id="&quot;OCEANIA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c</data>
+    </node>
+    <node id="&quot;2018 WORLD CUP&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c</data>
+    </node>
+    <node id="&quot;2022 WORLD CUP&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c</data>
+    </node>
+    <node id="&quot;2026 WORLD CUP&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0c52675128343b59a01fbde2f010ff8c</data>
+    </node>
+    <node id="&quot;LATVIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Latvia is a country mentioned as having a similar situation to Estonia, with many non-Latvians adopting the Latvian language."</data>
+      <data key="d2">b9bc19d488879565148edddc37ec6fca</data>
+    </node>
+    <node id="&quot;SOVIET IMMIGRANTS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Soviet immigrants are individuals who have returned to their countries of origin, affecting the demographics of Estonia and Latvia."</data>
+      <data key="d2">b9bc19d488879565148edddc37ec6fca</data>
+    </node>
+    <node id="&quot;ESTONIANS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Estonians refer to the ethnic group that makes up over 70% of the population in Estonia."</data>
+      <data key="d2">b9bc19d488879565148edddc37ec6fca</data>
+    </node>
+    <node id="&quot;ESTONIA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b9bc19d488879565148edddc37ec6fca</data>
+    </node>
+    <node id="&quot;LUKE DONALD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Luke Donald is a golfer who hosted the event in 2016."</data>
+      <data key="d2">b00289a43d5bfcb3b90a12f35da00aad</data>
+    </node>
+    <node id="&quot;LEE WESTWOOD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lee Westwood is a golfer who hosted the event in 2017."</data>
+      <data key="d2">b00289a43d5bfcb3b90a12f35da00aad</data>
+    </node>
+    <node id="&quot;JUSTIN ROSE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Justin Rose is a golfer who hosted the event in 2018."</data>
+      <data key="d2">b00289a43d5bfcb3b90a12f35da00aad</data>
+    </node>
+    <node id="&quot;WOBURN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Woburn is a location where the event was played in 2015."</data>
+      <data key="d2">b00289a43d5bfcb3b90a12f35da00aad</data>
+    </node>
+    <node id="&quot;THE GROVE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Grove is a location where the event was played in 2016."</data>
+      <data key="d2">b00289a43d5bfcb3b90a12f35da00aad</data>
+    </node>
+    <node id="&quot;CLOSE HOUSE GOLF CLUB&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Close House Golf Club is a location where the event was played in 2017."</data>
+      <data key="d2">b00289a43d5bfcb3b90a12f35da00aad</data>
+    </node>
+    <node id="&quot;WALTON HEATH GOLF CLUB&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Walton Heath Golf Club is a location where the event was played in 2018."</data>
+      <data key="d2">b00289a43d5bfcb3b90a12f35da00aad</data>
+    </node>
+    <node id="&quot;THE EVENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Event is a golf tournament that took place in different locations from 2015 to 2018."</data>
+      <data key="d2">b00289a43d5bfcb3b90a12f35da00aad</data>
+    </node>
+    <node id="&quot;IAN POULTER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b00289a43d5bfcb3b90a12f35da00aad</data>
+    </node>
+    <node id="&quot;PAKISTAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pakistan is a country that co-hosted the 1996 Cricket World Cup and reached the semi-finals in 1987."</data>
+      <data key="d2">be82364c986bf5791fb26e0b05a0f1a2</data>
+    </node>
+    <node id="&quot;AUSTRALIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Australia is a country with a strong sporting reputation, having won the Cricket World Cup multiple times, including in 2015, and notable for eliminating host teams in the first round. Additionally, Australia has a women's softball team that participated in the 2018 Women's Softball World Championship Tournament, where they finished fourth.
+
+Let me know if you need anything else!</data>
+      <data key="d2">be82364c986bf5791fb26e0b05a0f1a2,e67fe49e52d955d6a5e8d95a61e3f0eb</data>
+    </node>
+    <node id="&quot;ENGLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+England is a country that has hosted the Cricket World Cup multiple times, reaching the final in 1979 and eliminating co-hosts in the semi-finals. Additionally, England has also won the World Cup in the past.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">be82364c986bf5791fb26e0b05a0f1a2,f8069dffc893631140fc087211963a49</data>
+    </node>
+    <node id="&quot;NEW ZEALAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New Zealand is a country that reached the finals of the Cricket World Cup as a co-host in 2015."</data>
+      <data key="d2">be82364c986bf5791fb26e0b05a0f1a2</data>
+    </node>
+    <node id="&quot;ZIMBABWE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Zimbabwe is a country that reached the Super Six stage of the Cricket World Cup as a co-host in 2003."</data>
+      <data key="d2">be82364c986bf5791fb26e0b05a0f1a2</data>
+    </node>
+    <node id="&quot;KENYA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Kenya is a country that reached the semi-finals of the Cricket World Cup as a co-host in 2003."</data>
+      <data key="d2">be82364c986bf5791fb26e0b05a0f1a2</data>
+    </node>
+    <node id="&quot;SOUTH AFRICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+South Africa is a country that made its first appearance in the World Cup finals and hosted the Cricket World Cup in 2003, although it was eliminated in the first round.</data>
+      <data key="d2">be82364c986bf5791fb26e0b05a0f1a2,f8069dffc893631140fc087211963a49</data>
+    </node>
+    <node id="&quot;SRI LANKA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">be82364c986bf5791fb26e0b05a0f1a2</data>
+    </node>
+    <node id="&quot;1996 CRICKET WORLD CUP&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">be82364c986bf5791fb26e0b05a0f1a2</data>
+    </node>
+    <node id="&quot;2011 CRICKET WORLD CUP&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">be82364c986bf5791fb26e0b05a0f1a2</data>
+    </node>
+    <node id="&quot;2015 CRICKET WORLD CUP&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">be82364c986bf5791fb26e0b05a0f1a2</data>
+    </node>
+    <node id="&quot;1979 CRICKET WORLD CUP&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">be82364c986bf5791fb26e0b05a0f1a2</data>
+    </node>
+    <node id="&quot;VIETNAM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Vietnam is a country sharing a border with Laos, near the location of A Don village."</data>
+      <data key="d2">3b2e0ac6e69d70a02cdad3882644be9e</data>
+    </node>
+    <node id="&quot;KALEUM DISTRICT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Kaleum District is an administrative division in Sekong Province, where A Don village is located."</data>
+      <data key="d2">3b2e0ac6e69d70a02cdad3882644be9e</data>
+    </node>
+    <node id="&quot;SEKONG PROVINCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Sekong Province is a province in Laos, where Kaleum District and A Don village are situated."</data>
+      <data key="d2">3b2e0ac6e69d70a02cdad3882644be9e</data>
+    </node>
+    <node id="&quot;A DON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3b2e0ac6e69d70a02cdad3882644be9e</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Canada is a country that has also had success in various international sporting competitions. In 2018, Canada participated in the Women's Softball World Championship Tournament and finished third, demonstrating its prowess in softball. Additionally, Canada was the runner-up in the 2018 Winter Olympics tournament, showcasing its athletic abilities on a global stage.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">e67fe49e52d955d6a5e8d95a61e3f0eb,eb8c6577f154254c98ef5a20a814e097,fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;FINLAND&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Finland finished third in the 2018 Winter Olympics tournament."</data>
+      <data key="d2">eb8c6577f154254c98ef5a20a814e097</data>
+    </node>
+    <node id="&quot;OLYMPIC ATHLETES FROM RUSSIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Olympic Athletes from Russia finished fourth in the 2018 Winter Olympics tournament."</data>
+      <data key="d2">eb8c6577f154254c98ef5a20a814e097</data>
+    </node>
+    <node id="&quot;ALINA M&#220;LLER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alina M&#252;ller was the scoring leader with 10 points in the 2018 Winter Olympics tournament."</data>
+      <data key="d2">eb8c6577f154254c98ef5a20a814e097</data>
+    </node>
+    <node id="&quot;M&#201;LODIE DAOUST&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"M&#233;lodie Daoust was the MVP of the 2018 Winter Olympics tournament."</data>
+      <data key="d2">eb8c6577f154254c98ef5a20a814e097</data>
+    </node>
+    <node id="&quot;SOUTH KOREA&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+South Korea is a country that automatically qualified for the tournament as hosts and also hosted the event.</data>
+      <data key="d2">7c4eb8e8b081a40f453bb0e27834ec42,eb8c6577f154254c98ef5a20a814e097</data>
+    </node>
+    <node id="&quot;2018 WINTER OLYMPICS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7c4eb8e8b081a40f453bb0e27834ec42,eb8c6577f154254c98ef5a20a814e097</data>
+    </node>
+    <node id="&quot;FINAL TOURNAMENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Final Tournament is a football competition organized by AFC, hosted by Thailand."</data>
+      <data key="d2">5880c1b3e6422db5b0520254dd6828ac</data>
+    </node>
+    <node id="&quot;NICOLAS LEOZ&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Nicolas Leoz is the president of CONMEBOL and mentioned the possibility of hosting the tournament in Mexico."</data>
+      <data key="d2">7a97e5a4fa8b4bf1e367d269b83d1b94</data>
+    </node>
+    <node id="&quot;BRAZIL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Brazil is a country that was the defending champion of the World Cup and had previously considered hosting the Copa Am&#233;rica, but ultimately decided against it due to other commitments.</data>
+      <data key="d2">7a97e5a4fa8b4bf1e367d269b83d1b94,f8069dffc893631140fc087211963a49</data>
+    </node>
+    <node id="&quot;CHILE'S FOOTBALL FEDERATIONS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Chile's Football Federations discussed swapping hosting duties with Brazil for the 2015 and 2019 tournaments."</data>
+      <data key="d2">7a97e5a4fa8b4bf1e367d269b83d1b94</data>
+    </node>
+    <node id="&quot;BRAZILIAN FOOTBALL CONFEDERATION (CBF)&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7a97e5a4fa8b4bf1e367d269b83d1b94</data>
+    </node>
+    <node id="&quot;FIFA WORLD CUP&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2018 FIFA World Cup is a tournament held in Russia from June 14 to July 15, 2018."</data>
+      <data key="d2">e2879823931340f4da1901fa085e5a67</data>
+    </node>
+    <node id="&quot;2014 FIFA WORLD CUP&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2014 FIFA World Cup is a previous edition of the tournament."</data>
+      <data key="d2">e2879823931340f4da1901fa085e5a67</data>
+    </node>
+    <node id="&quot;2022 FIFA WORLD CUP&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2022 FIFA World Cup is a future edition of the tournament."</data>
+      <data key="d2">e2879823931340f4da1901fa085e5a67</data>
+    </node>
+    <node id="&quot;MONASHEE COUNTRY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Monashee Country is a region in the Southern Interior of British Columbia, Canada."</data>
+      <data key="d2">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;SOUTHERN INTERIOR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Southern Interior is a region in British Columbia, Canada."</data>
+      <data key="d2">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;BRITISH COLUMBIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"British Columbia is a province in Canada."</data>
+      <data key="d2">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;OKANAGAN VALLEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Okanagan Valley is a region in British Columbia, Canada."</data>
+      <data key="d2">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;BOUNDARY COUNTRY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Boundary Country is a region in British Columbia, Canada."</data>
+      <data key="d2">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;WEST KETTLE RIVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"West Kettle River is a river in British Columbia, Canada."</data>
+      <data key="d2">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;KELOWNA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Kelowna is a city in British Columbia, Canada."</data>
+      <data key="d2">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;ROCK CREEK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Rock Creek is a settlement in British Columbia, Canada."</data>
+      <data key="d2">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;BEAVERDELL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;GANGNEUNG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Gangneung is a city in South Korea that hosted the men's tournament in ice hockey at the 2018 Winter Olympics."</data>
+      <data key="d2">7c4eb8e8b081a40f453bb0e27834ec42</data>
+    </node>
+    <node id="&quot;INTERNATIONAL ICE HOCKEY FEDERATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The International Ice Hockey Federation is an organization responsible for ranking countries in ice hockey, which determined automatic qualification for the tournament."</data>
+      <data key="d2">7c4eb8e8b081a40f453bb0e27834ec42</data>
+    </node>
+    <node id="&quot;2018 WOMEN'S SOFTBALL WORLD CHAMPIONSHIP TOURNAMENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2018 Women's Softball World Championship Tournament was held from August 2 to 12, 2018, featuring 16 teams from 5 continents."</data>
+      <data key="d2">e67fe49e52d955d6a5e8d95a61e3f0eb</data>
+    </node>
+    <node id="&quot;JAPAN&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Japan is a country that made its first appearance in the World Cup finals and also served as the host country of the 2016 FIFA Club World Cup.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">e67fe49e52d955d6a5e8d95a61e3f0eb,eb311c73508522a6faaec3977573cf48,f8069dffc893631140fc087211963a49</data>
+    </node>
+    <node id="&quot;SOUTHEAST ASIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Southeast Asia is a region where many Hokkien speakers can be found, including countries such as Burma, Indonesia, Malaysia, and Singapore."</data>
+      <data key="d2">ffbf40673252cbbee332304488b05b99</data>
+    </node>
+    <node id="&quot;HAN CHINESE EMIGRANTS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Han Chinese emigrants are individuals who migrated from southern Fujian to Southeast Asia and brought the Hokkien language with them."</data>
+      <data key="d2">ffbf40673252cbbee332304488b05b99</data>
+    </node>
+    <node id="&quot;BURMA (MYANMAR)&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Burma, also known as Myanmar, is a country in Southeast Asia where Hokkien speakers can be found."</data>
+      <data key="d2">ffbf40673252cbbee332304488b05b99</data>
+    </node>
+    <node id="&quot;INDONESIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Indonesia is a country in Southeast Asia where Hokkien speakers can be found, formerly known as the Dutch East Indies."</data>
+      <data key="d2">ffbf40673252cbbee332304488b05b99</data>
+    </node>
+    <node id="&quot;MALAYSIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Malaysia is a country in Southeast Asia where Hokkien speakers can be found, formerly part of Malaya and the British Straits Settlements."</data>
+      <data key="d2">ffbf40673252cbbee332304488b05b99</data>
+    </node>
+    <node id="&quot;SINGAPORE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Singapore is a country in Southeast Asia where Hokkien speakers form the largest group of Chinese, formerly part of Malaya and the British Straits Settlements."</data>
+      <data key="d2">ffbf40673252cbbee332304488b05b99</data>
+    </node>
+    <node id="&quot;PHILIPPINES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Philippines is a country where Hokkien is reportedly the native language of up to 98.5% of Chinese Filipinos."</data>
+      <data key="d2">ffbf40673252cbbee332304488b05b99</data>
+    </node>
+    <node id="&quot;HOKKIEN SPEAKERS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ffbf40673252cbbee332304488b05b99</data>
+    </node>
+    <node id="&quot;SOUTHERN FUJIAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ffbf40673252cbbee332304488b05b99</data>
+    </node>
+    <node id="&quot;2014 SUMMER YOUTH OLYMPICS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2014 Summer Youth Olympics is an international multi-sport event where Li Jiaman participated as a Chinese archer."</data>
+      <data key="d2">87adf2c84ee2b8239058178a08e3ae05</data>
+    </node>
+    <node id="&quot;LI JIAMAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">87adf2c84ee2b8239058178a08e3ae05</data>
+    </node>
+    <node id="&quot;CROATIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Croatia is a country that made its first appearance in the World Cup finals."</data>
+      <data key="d2">f8069dffc893631140fc087211963a49</data>
+    </node>
+    <node id="&quot;JAMAICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Jamaica is a country that made its first appearance in the World Cup finals."</data>
+      <data key="d2">f8069dffc893631140fc087211963a49</data>
+    </node>
+    <node id="&quot;URUGUAY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Uruguay is a country that won the World Cup in the past."</data>
+      <data key="d2">f8069dffc893631140fc087211963a49</data>
+    </node>
+    <node id="&quot;ITALY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Italy is a country that won the World Cup in the past."</data>
+      <data key="d2">f8069dffc893631140fc087211963a49</data>
+    </node>
+    <node id="&quot;WEST GERMANY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"West Germany is a country that won the World Cup in the past."</data>
+      <data key="d2">f8069dffc893631140fc087211963a49</data>
+    </node>
+    <node id="&quot;ARGENTINA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Argentina is a country that won the World Cup in the past."</data>
+      <data key="d2">f8069dffc893631140fc087211963a49</data>
+    </node>
+    <node id="&quot;FRANCE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f8069dffc893631140fc087211963a49</data>
+    </node>
+    <node id="&quot;WORLD CUP&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f8069dffc893631140fc087211963a49</data>
+    </node>
+    <node id="&quot;SAINT PETERSBURG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Saint Petersburg is a city in Russia where some matches of the 2018 FIFA World Cup were played."</data>
+      <data key="d2">bd01c8322818868862f572f8d38417a7</data>
+    </node>
+    <node id="&quot;MOSCOW&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Moscow is a city in Russia where some matches of the 2018 FIFA World Cup were played."</data>
+      <data key="d2">bd01c8322818868862f572f8d38417a7</data>
+    </node>
+    <node id="&quot;KAZAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Kazan is a city in Russia where some matches of the 2018 FIFA World Cup were played."</data>
+      <data key="d2">bd01c8322818868862f572f8d38417a7</data>
+    </node>
+    <node id="&quot;SOCHI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Sochi is a city in Russia where some matches of the 2018 FIFA World Cup were played."</data>
+      <data key="d2">bd01c8322818868862f572f8d38417a7</data>
+    </node>
+    <node id="&quot;GERMANY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Germany is a country that qualified for the tournament as the 2014 FIFA World Cup champions."</data>
+      <data key="d2">bd01c8322818868862f572f8d38417a7</data>
+    </node>
+    <node id="&quot;FIFA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+FIFA is an organization that awards hosting rights and organizes the World Cup and Confederations Cup tournaments.</data>
+      <data key="d2">bd01c8322818868862f572f8d38417a7,eb311c73508522a6faaec3977573cf48</data>
+    </node>
+    <node id="&quot;ALIBABA YUNOS AUTO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Alibaba YunOS Auto is a sponsor of the 2016 FIFA Club World Cup."</data>
+      <data key="d2">eb311c73508522a6faaec3977573cf48</data>
+    </node>
+    <node id="&quot;REAL MADRID&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Real Madrid is a football club that won the 2016 FIFA Club World Cup."</data>
+      <data key="d2">eb311c73508522a6faaec3977573cf48</data>
+    </node>
+    <node id="&quot;KASHIMA ANTLERS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Kashima Antlers is a Japanese football club that hosted and participated in the 2016 FIFA Club World Cup."</data>
+      <data key="d2">eb311c73508522a6faaec3977573cf48</data>
+    </node>
+    <node id="&quot;2016 FIFA CLUB WORLD CUP&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2016 FIFA Club World Cup is an international club football tournament organized by FIFA."</data>
+      <data key="d2">eb311c73508522a6faaec3977573cf48</data>
+    </node>
+    <edge source="&quot;TAIWAN&quot;" target="&quot;TAIWANESE HOKKIEN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Taiwanese Hokkien is a language that has been developed and implemented in Taiwan's schools."</data>
+      <data key="d5">737432fe4e2be59c4ddfcb0e3c5c7d9c</data>
+    </edge>
+    <edge source="&quot;TAIWAN&quot;" target="&quot;MINISTRY OF EDUCATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Ministry of Education in Taiwan played a key role in promoting Taiwanese Hokkien development."</data>
+      <data key="d5">737432fe4e2be59c4ddfcb0e3c5c7d9c</data>
+    </edge>
+    <edge source="&quot;TAIWAN&quot;" target="&quot;XIAMEN (AMOY)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Taiwan's mother tongue movement influenced Xiamen (Amoy) to implement Hokkien dialect teaching in its schools."</data>
+      <data key="d5">737432fe4e2be59c4ddfcb0e3c5c7d9c</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">0c52675128343b59a01fbde2f010ff8c,28d40e972f9ccd238b6cf76e7172ce16,3b2e0ac6e69d70a02cdad3882644be9e,5880c1b3e6422db5b0520254dd6828ac,737432fe4e2be59c4ddfcb0e3c5c7d9c,7a97e5a4fa8b4bf1e367d269b83d1b94,7c4eb8e8b081a40f453bb0e27834ec42,87adf2c84ee2b8239058178a08e3ae05,aee4e7ec6f787b41a9f683ca4c1983ed,b00289a43d5bfcb3b90a12f35da00aad,b9bc19d488879565148edddc37ec6fca,bd01c8322818868862f572f8d38417a7,be82364c986bf5791fb26e0b05a0f1a2,e2879823931340f4da1901fa085e5a67,e67fe49e52d955d6a5e8d95a61e3f0eb,eb311c73508522a6faaec3977573cf48,eb8c6577f154254c98ef5a20a814e097,f8069dffc893631140fc087211963a49,fca0e26cd9066bd1b152aa203cff62d1,ffbf40673252cbbee332304488b05b99</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">0c52675128343b59a01fbde2f010ff8c,28d40e972f9ccd238b6cf76e7172ce16,3b2e0ac6e69d70a02cdad3882644be9e,5880c1b3e6422db5b0520254dd6828ac,737432fe4e2be59c4ddfcb0e3c5c7d9c,7a97e5a4fa8b4bf1e367d269b83d1b94,7c4eb8e8b081a40f453bb0e27834ec42,87adf2c84ee2b8239058178a08e3ae05,aee4e7ec6f787b41a9f683ca4c1983ed,b00289a43d5bfcb3b90a12f35da00aad,b9bc19d488879565148edddc37ec6fca,bd01c8322818868862f572f8d38417a7,be82364c986bf5791fb26e0b05a0f1a2,e2879823931340f4da1901fa085e5a67,e67fe49e52d955d6a5e8d95a61e3f0eb,eb311c73508522a6faaec3977573cf48,eb8c6577f154254c98ef5a20a814e097,f8069dffc893631140fc087211963a49,fca0e26cd9066bd1b152aa203cff62d1,ffbf40673252cbbee332304488b05b99</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">0c52675128343b59a01fbde2f010ff8c,28d40e972f9ccd238b6cf76e7172ce16,3b2e0ac6e69d70a02cdad3882644be9e,5880c1b3e6422db5b0520254dd6828ac,737432fe4e2be59c4ddfcb0e3c5c7d9c,7a97e5a4fa8b4bf1e367d269b83d1b94,7c4eb8e8b081a40f453bb0e27834ec42,87adf2c84ee2b8239058178a08e3ae05,aee4e7ec6f787b41a9f683ca4c1983ed,b00289a43d5bfcb3b90a12f35da00aad,b9bc19d488879565148edddc37ec6fca,bd01c8322818868862f572f8d38417a7,be82364c986bf5791fb26e0b05a0f1a2,e2879823931340f4da1901fa085e5a67,e67fe49e52d955d6a5e8d95a61e3f0eb,eb311c73508522a6faaec3977573cf48,eb8c6577f154254c98ef5a20a814e097,f8069dffc893631140fc087211963a49,fca0e26cd9066bd1b152aa203cff62d1,ffbf40673252cbbee332304488b05b99</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">0c52675128343b59a01fbde2f010ff8c,28d40e972f9ccd238b6cf76e7172ce16,3b2e0ac6e69d70a02cdad3882644be9e,5880c1b3e6422db5b0520254dd6828ac,737432fe4e2be59c4ddfcb0e3c5c7d9c,7a97e5a4fa8b4bf1e367d269b83d1b94,7c4eb8e8b081a40f453bb0e27834ec42,87adf2c84ee2b8239058178a08e3ae05,aee4e7ec6f787b41a9f683ca4c1983ed,b00289a43d5bfcb3b90a12f35da00aad,b9bc19d488879565148edddc37ec6fca,bd01c8322818868862f572f8d38417a7,be82364c986bf5791fb26e0b05a0f1a2,e2879823931340f4da1901fa085e5a67,e67fe49e52d955d6a5e8d95a61e3f0eb,eb311c73508522a6faaec3977573cf48,eb8c6577f154254c98ef5a20a814e097,f8069dffc893631140fc087211963a49,fca0e26cd9066bd1b152aa203cff62d1,ffbf40673252cbbee332304488b05b99</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">0c52675128343b59a01fbde2f010ff8c,28d40e972f9ccd238b6cf76e7172ce16,3b2e0ac6e69d70a02cdad3882644be9e,5880c1b3e6422db5b0520254dd6828ac,737432fe4e2be59c4ddfcb0e3c5c7d9c,7a97e5a4fa8b4bf1e367d269b83d1b94,7c4eb8e8b081a40f453bb0e27834ec42,87adf2c84ee2b8239058178a08e3ae05,aee4e7ec6f787b41a9f683ca4c1983ed,b00289a43d5bfcb3b90a12f35da00aad,b9bc19d488879565148edddc37ec6fca,bd01c8322818868862f572f8d38417a7,be82364c986bf5791fb26e0b05a0f1a2,e2879823931340f4da1901fa085e5a67,e67fe49e52d955d6a5e8d95a61e3f0eb,eb311c73508522a6faaec3977573cf48,eb8c6577f154254c98ef5a20a814e097,f8069dffc893631140fc087211963a49,fca0e26cd9066bd1b152aa203cff62d1,ffbf40673252cbbee332304488b05b99</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">0c52675128343b59a01fbde2f010ff8c,28d40e972f9ccd238b6cf76e7172ce16,3b2e0ac6e69d70a02cdad3882644be9e,5880c1b3e6422db5b0520254dd6828ac,737432fe4e2be59c4ddfcb0e3c5c7d9c,7a97e5a4fa8b4bf1e367d269b83d1b94,7c4eb8e8b081a40f453bb0e27834ec42,87adf2c84ee2b8239058178a08e3ae05,aee4e7ec6f787b41a9f683ca4c1983ed,b00289a43d5bfcb3b90a12f35da00aad,b9bc19d488879565148edddc37ec6fca,bd01c8322818868862f572f8d38417a7,be82364c986bf5791fb26e0b05a0f1a2,e2879823931340f4da1901fa085e5a67,e67fe49e52d955d6a5e8d95a61e3f0eb,eb311c73508522a6faaec3977573cf48,eb8c6577f154254c98ef5a20a814e097,f8069dffc893631140fc087211963a49,fca0e26cd9066bd1b152aa203cff62d1,ffbf40673252cbbee332304488b05b99</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;2018 WINTER OLYMPICS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The United States won the championship title in the 2018 Winter Olympics."</data>
+      <data key="d5">eb8c6577f154254c98ef5a20a814e097</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;2018 WOMEN'S SOFTBALL WORLD CHAMPIONSHIP TOURNAMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The United States won its 11th title in the 2018 Women's Softball World Championship Tournament."</data>
+      <data key="d5">e67fe49e52d955d6a5e8d95a61e3f0eb</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">0c52675128343b59a01fbde2f010ff8c,28d40e972f9ccd238b6cf76e7172ce16,3b2e0ac6e69d70a02cdad3882644be9e,5880c1b3e6422db5b0520254dd6828ac,737432fe4e2be59c4ddfcb0e3c5c7d9c,7a97e5a4fa8b4bf1e367d269b83d1b94,7c4eb8e8b081a40f453bb0e27834ec42,87adf2c84ee2b8239058178a08e3ae05,aee4e7ec6f787b41a9f683ca4c1983ed,b00289a43d5bfcb3b90a12f35da00aad,b9bc19d488879565148edddc37ec6fca,bd01c8322818868862f572f8d38417a7,be82364c986bf5791fb26e0b05a0f1a2,e2879823931340f4da1901fa085e5a67,e67fe49e52d955d6a5e8d95a61e3f0eb,eb311c73508522a6faaec3977573cf48,eb8c6577f154254c98ef5a20a814e097,f8069dffc893631140fc087211963a49,fca0e26cd9066bd1b152aa203cff62d1,ffbf40673252cbbee332304488b05b99</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">0c52675128343b59a01fbde2f010ff8c,28d40e972f9ccd238b6cf76e7172ce16,3b2e0ac6e69d70a02cdad3882644be9e,5880c1b3e6422db5b0520254dd6828ac,737432fe4e2be59c4ddfcb0e3c5c7d9c,7a97e5a4fa8b4bf1e367d269b83d1b94,7c4eb8e8b081a40f453bb0e27834ec42,87adf2c84ee2b8239058178a08e3ae05,aee4e7ec6f787b41a9f683ca4c1983ed,b00289a43d5bfcb3b90a12f35da00aad,b9bc19d488879565148edddc37ec6fca,bd01c8322818868862f572f8d38417a7,be82364c986bf5791fb26e0b05a0f1a2,e2879823931340f4da1901fa085e5a67,e67fe49e52d955d6a5e8d95a61e3f0eb,eb311c73508522a6faaec3977573cf48,eb8c6577f154254c98ef5a20a814e097,f8069dffc893631140fc087211963a49,fca0e26cd9066bd1b152aa203cff62d1,ffbf40673252cbbee332304488b05b99</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">0c52675128343b59a01fbde2f010ff8c,28d40e972f9ccd238b6cf76e7172ce16,3b2e0ac6e69d70a02cdad3882644be9e,5880c1b3e6422db5b0520254dd6828ac,737432fe4e2be59c4ddfcb0e3c5c7d9c,7a97e5a4fa8b4bf1e367d269b83d1b94,7c4eb8e8b081a40f453bb0e27834ec42,87adf2c84ee2b8239058178a08e3ae05,aee4e7ec6f787b41a9f683ca4c1983ed,b00289a43d5bfcb3b90a12f35da00aad,b9bc19d488879565148edddc37ec6fca,bd01c8322818868862f572f8d38417a7,be82364c986bf5791fb26e0b05a0f1a2,e2879823931340f4da1901fa085e5a67,e67fe49e52d955d6a5e8d95a61e3f0eb,eb311c73508522a6faaec3977573cf48,eb8c6577f154254c98ef5a20a814e097,f8069dffc893631140fc087211963a49,fca0e26cd9066bd1b152aa203cff62d1,ffbf40673252cbbee332304488b05b99</data>
+    </edge>
+    <edge source="&quot;MEXICO&quot;" target="&quot;CONMEBOL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mexico was considered as a potential host for the Copa Am&#233;rica despite not being a member of CONMEBOL."</data>
+      <data key="d5">7a97e5a4fa8b4bf1e367d269b83d1b94</data>
+    </edge>
+    <edge source="&quot;CHINA&quot;" target="&quot;MYANMAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Myanmar shares a border with China."</data>
+      <data key="d5">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </edge>
+    <edge source="&quot;CHINA&quot;" target="&quot;LI JIAMAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Jiaman is from China and represented the country in the 2014 Summer Youth Olympics."</data>
+      <data key="d5">87adf2c84ee2b8239058178a08e3ae05</data>
+    </edge>
+    <edge source="&quot;CHINA&quot;" target="&quot;2014 SUMMER YOUTH OLYMPICS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"China was the host country of the 2014 Summer Youth Olympics."</data>
+      <data key="d5">87adf2c84ee2b8239058178a08e3ae05</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;MYANMAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Myanmar shares a border with India."</data>
+      <data key="d5">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;2011 CRICKET WORLD CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"India hosted and won the 2011 Cricket World Cup."</data>
+      <data key="d5">be82364c986bf5791fb26e0b05a0f1a2</data>
+    </edge>
+    <edge source="&quot;BANGLADESH&quot;" target="&quot;MYANMAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Myanmar shares a border with Bangladesh."</data>
+      <data key="d5">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </edge>
+    <edge source="&quot;THAILAND&quot;" target="&quot;MYANMAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Myanmar shares a border with Thailand."</data>
+      <data key="d5">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </edge>
+    <edge source="&quot;THAILAND&quot;" target="&quot;AFC&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Thailand is a member of AFC and hosts the final tournament."</data>
+      <data key="d5">5880c1b3e6422db5b0520254dd6828ac</data>
+    </edge>
+    <edge source="&quot;LAOS&quot;" target="&quot;MYANMAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Myanmar shares a border with Laos."</data>
+      <data key="d5">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </edge>
+    <edge source="&quot;LAOS&quot;" target="&quot;A DON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"A Don village is located in Laos."</data>
+      <data key="d5">3b2e0ac6e69d70a02cdad3882644be9e</data>
+    </edge>
+    <edge source="&quot;HIMALAYAS&quot;" target="&quot;MYANMAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Himalayas are located to the northwest of Myanmar."</data>
+      <data key="d5">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </edge>
+    <edge source="&quot;BAY OF BENGAL&quot;" target="&quot;MYANMAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Bay of Bengal is located to the west of Myanmar."</data>
+      <data key="d5">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </edge>
+    <edge source="&quot;ANDAMAN SEA&quot;" target="&quot;MYANMAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Andaman Sea is located to the south of Myanmar."</data>
+      <data key="d5">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </edge>
+    <edge source="&quot;GIANNI INFANTINO&quot;" target="&quot;FIFA COUNCIL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gianni Infantino is the president of the FIFA Council."</data>
+      <data key="d5">0c52675128343b59a01fbde2f010ff8c</data>
+    </edge>
+    <edge source="&quot;RUSSIA&quot;" target="&quot;2018 WORLD CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Russia hosted the 2018 World Cup."</data>
+      <data key="d5">0c52675128343b59a01fbde2f010ff8c</data>
+    </edge>
+    <edge source="&quot;RUSSIA&quot;" target="&quot;FIFA WORLD CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Russia is the host country of the 2018 FIFA World Cup."</data>
+      <data key="d5">e2879823931340f4da1901fa085e5a67</data>
+    </edge>
+    <edge source="&quot;RUSSIA&quot;" target="&quot;SAINT PETERSBURG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Saint Petersburg is a city in Russia where some matches of the 2018 FIFA World Cup were played."</data>
+      <data key="d5">bd01c8322818868862f572f8d38417a7</data>
+    </edge>
+    <edge source="&quot;RUSSIA&quot;" target="&quot;FIFA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Russia was awarded the hosting rights of the 2018 FIFA World Cup by FIFA."</data>
+      <data key="d5">bd01c8322818868862f572f8d38417a7</data>
+    </edge>
+    <edge source="&quot;QATAR&quot;" target="&quot;2022 WORLD CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Qatar will host the 2022 World Cup."</data>
+      <data key="d5">0c52675128343b59a01fbde2f010ff8c</data>
+    </edge>
+    <edge source="&quot;UEFA&quot;" target="&quot;EUROPE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"UEFA represents European countries in football."</data>
+      <data key="d5">0c52675128343b59a01fbde2f010ff8c</data>
+    </edge>
+    <edge source="&quot;AFC&quot;" target="&quot;ASIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"AFC represents Asian countries in football."</data>
+      <data key="d5">0c52675128343b59a01fbde2f010ff8c</data>
+    </edge>
+    <edge source="&quot;AFC&quot;" target="&quot;FINAL TOURNAMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"AFC organizes the Final Tournament."</data>
+      <data key="d5">5880c1b3e6422db5b0520254dd6828ac</data>
+    </edge>
+    <edge source="&quot;CONCACAF&quot;" target="&quot;NORTH AMERICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"CONCACAF represents North American countries in football."</data>
+      <data key="d5">0c52675128343b59a01fbde2f010ff8c</data>
+    </edge>
+    <edge source="&quot;CAF&quot;" target="&quot;AFRICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"CAF represents African countries in football."</data>
+      <data key="d5">0c52675128343b59a01fbde2f010ff8c</data>
+    </edge>
+    <edge source="&quot;CONMEBOL&quot;" target="&quot;SOUTH AMERICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"CONMEBOL represents South American countries in football."</data>
+      <data key="d5">0c52675128343b59a01fbde2f010ff8c</data>
+    </edge>
+    <edge source="&quot;CONMEBOL&quot;" target="&quot;BRAZILIAN FOOTBALL CONFEDERATION (CBF)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Brazilian Football Confederation (CBF) is a member of CONMEBOL and suggested hosting the Copa Am&#233;rica."</data>
+      <data key="d5">7a97e5a4fa8b4bf1e367d269b83d1b94</data>
+    </edge>
+    <edge source="&quot;CONMEBOL&quot;" target="&quot;NICOLAS LEOZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nicolas Leoz is the president of CONMEBOL and involved in organizing the Copa Am&#233;rica."</data>
+      <data key="d5">7a97e5a4fa8b4bf1e367d269b83d1b94</data>
+    </edge>
+    <edge source="&quot;OFC&quot;" target="&quot;OCEANIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"OFC represents Oceanian countries in football."</data>
+      <data key="d5">0c52675128343b59a01fbde2f010ff8c</data>
+    </edge>
+    <edge source="&quot;FIFA COUNCIL&quot;" target="&quot;2026 WORLD CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The FIFA Council makes decisions on hosting rotation and bidding rules for the 2026 World Cup."</data>
+      <data key="d5">0c52675128343b59a01fbde2f010ff8c</data>
+    </edge>
+    <edge source="&quot;SOVIET IMMIGRANTS&quot;" target="&quot;ESTONIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The return of Soviet immigrants has increased the proportion of Estonians in Estonia."</data>
+      <data key="d5">b9bc19d488879565148edddc37ec6fca</data>
+    </edge>
+    <edge source="&quot;ESTONIANS&quot;" target="&quot;ESTONIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Estonians are the dominant ethnic group in Estonia, making up over 70% of the population."</data>
+      <data key="d5">b9bc19d488879565148edddc37ec6fca</data>
+    </edge>
+    <edge source="&quot;LUKE DONALD&quot;" target="&quot;THE EVENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Luke Donald hosted The Event in 2016."</data>
+      <data key="d5">b00289a43d5bfcb3b90a12f35da00aad</data>
+    </edge>
+    <edge source="&quot;LEE WESTWOOD&quot;" target="&quot;THE EVENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lee Westwood hosted The Event in 2017."</data>
+      <data key="d5">b00289a43d5bfcb3b90a12f35da00aad</data>
+    </edge>
+    <edge source="&quot;JUSTIN ROSE&quot;" target="&quot;THE EVENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Justin Rose hosted The Event in 2018."</data>
+      <data key="d5">b00289a43d5bfcb3b90a12f35da00aad</data>
+    </edge>
+    <edge source="&quot;WOBURN&quot;" target="&quot;THE EVENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Event was played at Woburn in 2015."</data>
+      <data key="d5">b00289a43d5bfcb3b90a12f35da00aad</data>
+    </edge>
+    <edge source="&quot;THE GROVE&quot;" target="&quot;THE EVENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Event was played at The Grove in 2016."</data>
+      <data key="d5">b00289a43d5bfcb3b90a12f35da00aad</data>
+    </edge>
+    <edge source="&quot;CLOSE HOUSE GOLF CLUB&quot;" target="&quot;THE EVENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Event was played at Close House Golf Club in 2017."</data>
+      <data key="d5">b00289a43d5bfcb3b90a12f35da00aad</data>
+    </edge>
+    <edge source="&quot;WALTON HEATH GOLF CLUB&quot;" target="&quot;THE EVENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Event was played at Walton Heath Golf Club in 2018."</data>
+      <data key="d5">b00289a43d5bfcb3b90a12f35da00aad</data>
+    </edge>
+    <edge source="&quot;THE EVENT&quot;" target="&quot;IAN POULTER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ian Poulter hosted The Event in 2015."</data>
+      <data key="d5">b00289a43d5bfcb3b90a12f35da00aad</data>
+    </edge>
+    <edge source="&quot;AUSTRALIA&quot;" target="&quot;2015 CRICKET WORLD CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Australia won the 2015 Cricket World Cup, repeating India's feat of winning as host."</data>
+      <data key="d5">be82364c986bf5791fb26e0b05a0f1a2</data>
+    </edge>
+    <edge source="&quot;AUSTRALIA&quot;" target="&quot;2018 WOMEN'S SOFTBALL WORLD CHAMPIONSHIP TOURNAMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Australia finished fourth in the 2018 Women's Softball World Championship Tournament."</data>
+      <data key="d5">e67fe49e52d955d6a5e8d95a61e3f0eb</data>
+    </edge>
+    <edge source="&quot;ENGLAND&quot;" target="&quot;1979 CRICKET WORLD CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"England reached the final of the 1979 Cricket World Cup as a host."</data>
+      <data key="d5">be82364c986bf5791fb26e0b05a0f1a2</data>
+    </edge>
+    <edge source="&quot;SOUTH AFRICA&quot;" target="&quot;WORLD CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"South Africa made its first appearance in the World Cup finals."</data>
+      <data key="d5">f8069dffc893631140fc087211963a49</data>
+    </edge>
+    <edge source="&quot;SRI LANKA&quot;" target="&quot;1996 CRICKET WORLD CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sri Lanka co-hosted and won the 1996 Cricket World Cup."</data>
+      <data key="d5">be82364c986bf5791fb26e0b05a0f1a2</data>
+    </edge>
+    <edge source="&quot;VIETNAM&quot;" target="&quot;A DON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"A Don village is near the border with Vietnam."</data>
+      <data key="d5">3b2e0ac6e69d70a02cdad3882644be9e</data>
+    </edge>
+    <edge source="&quot;KALEUM DISTRICT&quot;" target="&quot;SEKONG PROVINCE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Kaleum District is an administrative division in Sekong Province."</data>
+      <data key="d5">3b2e0ac6e69d70a02cdad3882644be9e</data>
+    </edge>
+    <edge source="&quot;CANADA&quot;" target="&quot;BEAVERDELL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Beaverdell is a settlement in the country of Canada."</data>
+      <data key="d5">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;CANADA&quot;" target="&quot;2018 WOMEN'S SOFTBALL WORLD CHAMPIONSHIP TOURNAMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Canada finished third in the 2018 Women's Softball World Championship Tournament."</data>
+      <data key="d5">e67fe49e52d955d6a5e8d95a61e3f0eb</data>
+    </edge>
+    <edge source="&quot;ALINA M&#220;LLER&quot;" target="&quot;2018 WINTER OLYMPICS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alina M&#252;ller was a key player in the 2018 Winter Olympics, leading in scoring."</data>
+      <data key="d5">eb8c6577f154254c98ef5a20a814e097</data>
+    </edge>
+    <edge source="&quot;M&#201;LODIE DAOUST&quot;" target="&quot;2018 WINTER OLYMPICS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"M&#233;lodie Daoust was recognized as the MVP of the 2018 Winter Olympics."</data>
+      <data key="d5">eb8c6577f154254c98ef5a20a814e097</data>
+    </edge>
+    <edge source="&quot;SOUTH KOREA&quot;" target="&quot;2018 WINTER OLYMPICS&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Here is a comprehensive summary of the data:
+
+South Korea, the host country of the 2018 Winter Olympics, automatically qualified for the tournament as hosts.</data>
+      <data key="d5">7c4eb8e8b081a40f453bb0e27834ec42,eb8c6577f154254c98ef5a20a814e097</data>
+    </edge>
+    <edge source="&quot;2018 WINTER OLYMPICS&quot;" target="&quot;GANGNEUNG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 2018 Winter Olympics was held in Gangneung, South Korea."</data>
+      <data key="d5">7c4eb8e8b081a40f453bb0e27834ec42</data>
+    </edge>
+    <edge source="&quot;2018 WINTER OLYMPICS&quot;" target="&quot;INTERNATIONAL ICE HOCKEY FEDERATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The International Ice Hockey Federation's ranking determined automatic qualification for the tournament at the 2018 Winter Olympics."</data>
+      <data key="d5">7c4eb8e8b081a40f453bb0e27834ec42</data>
+    </edge>
+    <edge source="&quot;BRAZIL&quot;" target="&quot;CHILE'S FOOTBALL FEDERATIONS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Brazil and Chile's Football Federations discussed swapping hosting duties for the 2015 and 2019 tournaments."</data>
+      <data key="d5">7a97e5a4fa8b4bf1e367d269b83d1b94</data>
+    </edge>
+    <edge source="&quot;BRAZIL&quot;" target="&quot;WORLD CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Brazil was the defending champion of the World Cup."</data>
+      <data key="d5">f8069dffc893631140fc087211963a49</data>
+    </edge>
+    <edge source="&quot;FIFA WORLD CUP&quot;" target="&quot;2014 FIFA WORLD CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 2014 FIFA World Cup is a previous edition of the tournament."</data>
+      <data key="d5">e2879823931340f4da1901fa085e5a67</data>
+    </edge>
+    <edge source="&quot;FIFA WORLD CUP&quot;" target="&quot;2022 FIFA WORLD CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 2022 FIFA World Cup is a future edition of the tournament."</data>
+      <data key="d5">e2879823931340f4da1901fa085e5a67</data>
+    </edge>
+    <edge source="&quot;MONASHEE COUNTRY&quot;" target="&quot;BEAVERDELL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Beaverdell is located in the Monashee Country region."</data>
+      <data key="d5">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;SOUTHERN INTERIOR&quot;" target="&quot;BEAVERDELL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Beaverdell is located in the Southern Interior region of British Columbia, Canada."</data>
+      <data key="d5">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;BRITISH COLUMBIA&quot;" target="&quot;BEAVERDELL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Beaverdell is a settlement in the province of British Columbia, Canada."</data>
+      <data key="d5">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;BRITISH COLUMBIA&quot;" target="&quot;OKANAGAN VALLEY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Okanagan Valley is a region in British Columbia, Canada."</data>
+      <data key="d5">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;BRITISH COLUMBIA&quot;" target="&quot;BOUNDARY COUNTRY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Boundary Country is a region in British Columbia, Canada."</data>
+      <data key="d5">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;BRITISH COLUMBIA&quot;" target="&quot;KELOWNA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Kelowna is a city in British Columbia, Canada."</data>
+      <data key="d5">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;BRITISH COLUMBIA&quot;" target="&quot;ROCK CREEK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Rock Creek is a settlement in British Columbia, Canada."</data>
+      <data key="d5">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;WEST KETTLE RIVER&quot;" target="&quot;BEAVERDELL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Beaverdell is located along the West Kettle River."</data>
+      <data key="d5">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;2018 WOMEN'S SOFTBALL WORLD CHAMPIONSHIP TOURNAMENT&quot;" target="&quot;JAPAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Japan hosted the 2018 Women's Softball World Championship Tournament."</data>
+      <data key="d5">e67fe49e52d955d6a5e8d95a61e3f0eb</data>
+    </edge>
+    <edge source="&quot;JAPAN&quot;" target="&quot;WORLD CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Japan made its first appearance in the World Cup finals."</data>
+      <data key="d5">f8069dffc893631140fc087211963a49</data>
+    </edge>
+    <edge source="&quot;JAPAN&quot;" target="&quot;2016 FIFA CLUB WORLD CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Japan is the host country of the 2016 FIFA Club World Cup."</data>
+      <data key="d5">eb311c73508522a6faaec3977573cf48</data>
+    </edge>
+    <edge source="&quot;SOUTHEAST ASIA&quot;" target="&quot;HOKKIEN SPEAKERS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hokkien speakers are found in Southeast Asia, particularly in countries such as Burma, Indonesia, Malaysia, and Singapore."</data>
+      <data key="d5">ffbf40673252cbbee332304488b05b99</data>
+    </edge>
+    <edge source="&quot;HAN CHINESE EMIGRANTS&quot;" target="&quot;SOUTHERN FUJIAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Han Chinese emigrants originated from southern Fujian and brought the Hokkien language to Southeast Asia."</data>
+      <data key="d5">ffbf40673252cbbee332304488b05b99</data>
+    </edge>
+    <edge source="&quot;PHILIPPINES&quot;" target="&quot;HOKKIEN SPEAKERS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hokkien is the native language of a significant percentage of Chinese Filipinos in the Philippines."</data>
+      <data key="d5">ffbf40673252cbbee332304488b05b99</data>
+    </edge>
+    <edge source="&quot;2014 SUMMER YOUTH OLYMPICS&quot;" target="&quot;LI JIAMAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Jiaman participated in the 2014 Summer Youth Olympics as a Chinese archer."</data>
+      <data key="d5">87adf2c84ee2b8239058178a08e3ae05</data>
+    </edge>
+    <edge source="&quot;CROATIA&quot;" target="&quot;WORLD CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Croatia made its first appearance in the World Cup finals."</data>
+      <data key="d5">f8069dffc893631140fc087211963a49</data>
+    </edge>
+    <edge source="&quot;JAMAICA&quot;" target="&quot;WORLD CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jamaica made its first appearance in the World Cup finals."</data>
+      <data key="d5">f8069dffc893631140fc087211963a49</data>
+    </edge>
+    <edge source="&quot;FRANCE&quot;" target="&quot;WORLD CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"France hosted and won the World Cup."</data>
+      <data key="d5">f8069dffc893631140fc087211963a49</data>
+    </edge>
+    <edge source="&quot;GERMANY&quot;" target="&quot;FIFA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Germany qualified for the tournament as the 2014 FIFA World Cup champions, an event organized by FIFA."</data>
+      <data key="d5">bd01c8322818868862f572f8d38417a7</data>
+    </edge>
+    <edge source="&quot;FIFA&quot;" target="&quot;2016 FIFA CLUB WORLD CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"FIFA organizes the 2016 FIFA Club World Cup."</data>
+      <data key="d5">eb311c73508522a6faaec3977573cf48</data>
+    </edge>
+    <edge source="&quot;ALIBABA YUNOS AUTO&quot;" target="&quot;2016 FIFA CLUB WORLD CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alibaba YunOS Auto sponsors the 2016 FIFA Club World Cup."</data>
+      <data key="d5">eb311c73508522a6faaec3977573cf48</data>
+    </edge>
+    <edge source="&quot;REAL MADRID&quot;" target="&quot;2016 FIFA CLUB WORLD CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Real Madrid participates in and wins the 2016 FIFA Club World Cup."</data>
+      <data key="d5">eb311c73508522a6faaec3977573cf48</data>
+    </edge>
+    <edge source="&quot;KASHIMA ANTLERS&quot;" target="&quot;2016 FIFA CLUB WORLD CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Kashima Antlers hosts and participates in the 2016 FIFA Club World Cup."</data>
+      <data key="d5">eb311c73508522a6faaec3977573cf48</data>
+    </edge>
+  </graph>
+</graphml>

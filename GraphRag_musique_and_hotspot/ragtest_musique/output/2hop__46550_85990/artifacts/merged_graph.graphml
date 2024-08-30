@@ -1,0 +1,683 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;HON. WINNIE KIIZA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hon. Winnie Kiiza is the current Leader of Opposition and the first Ugandan female to hold the position, representing the Forum for Democratic Change."</data>
+      <data key="d2">f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </node>
+    <node id="&quot;FORUM FOR DEMOCRATIC CHANGE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Forum for Democratic Change is a political party in Uganda, currently led by Hon. Winnie Kiiza as the Leader of Opposition."</data>
+      <data key="d2">f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </node>
+    <node id="&quot;DEMOCRATIC PARTY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Democratic Party is a political party in Uganda, part of the Opposition."</data>
+      <data key="d2">f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </node>
+    <node id="&quot;UGANDA PEOPLE'S CONGRESS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Uganda People's Congress is a political party in Uganda, part of the Opposition."</data>
+      <data key="d2">f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </node>
+    <node id="&quot;CONGRESS PARTY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Congress Party is a political party in Uganda, part of the Opposition."</data>
+      <data key="d2">f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </node>
+    <node id="&quot;JEEMA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"JEEMA is a political party in Uganda, part of the Opposition."</data>
+      <data key="d2">f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </node>
+    <node id="&quot;LEADER OF OPPOSITION (LOP)&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </node>
+    <node id="&quot;OPPOSITION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">02e35030f9e4920c97d584901f1f27a2,52b7d939e00921ff27a0e23527849f4d,9ac600b774796cb62ab31dc5e14427ff,a393c09888349c3d1bbcb65dce58e043,bd7101505b817c7cdd0dd6f99fffd090,c0e49c56cc8a55c4c39c20b8f36cefcc,d3cd742ee8e9e370b44548e266727918,d40b82a466ee79dcfd33d4a9f26d83fb,ddcfb4ffc5b383f68f907870fdb7cd92,e1a51b52310cc5467e3363d949c469b2,e8f8373577cc32f19851894f5f9ccbeb,f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">02e35030f9e4920c97d584901f1f27a2,52b7d939e00921ff27a0e23527849f4d,9ac600b774796cb62ab31dc5e14427ff,a393c09888349c3d1bbcb65dce58e043,bd7101505b817c7cdd0dd6f99fffd090,c0e49c56cc8a55c4c39c20b8f36cefcc,d3cd742ee8e9e370b44548e266727918,d40b82a466ee79dcfd33d4a9f26d83fb,ddcfb4ffc5b383f68f907870fdb7cd92,e1a51b52310cc5467e3363d949c469b2,e8f8373577cc32f19851894f5f9ccbeb,f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">02e35030f9e4920c97d584901f1f27a2,52b7d939e00921ff27a0e23527849f4d,9ac600b774796cb62ab31dc5e14427ff,a393c09888349c3d1bbcb65dce58e043,bd7101505b817c7cdd0dd6f99fffd090,c0e49c56cc8a55c4c39c20b8f36cefcc,d3cd742ee8e9e370b44548e266727918,d40b82a466ee79dcfd33d4a9f26d83fb,ddcfb4ffc5b383f68f907870fdb7cd92,e1a51b52310cc5467e3363d949c469b2,e8f8373577cc32f19851894f5f9ccbeb,f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">02e35030f9e4920c97d584901f1f27a2,52b7d939e00921ff27a0e23527849f4d,9ac600b774796cb62ab31dc5e14427ff,a393c09888349c3d1bbcb65dce58e043,bd7101505b817c7cdd0dd6f99fffd090,c0e49c56cc8a55c4c39c20b8f36cefcc,d3cd742ee8e9e370b44548e266727918,d40b82a466ee79dcfd33d4a9f26d83fb,ddcfb4ffc5b383f68f907870fdb7cd92,e1a51b52310cc5467e3363d949c469b2,e8f8373577cc32f19851894f5f9ccbeb,f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Bob Irvin participated in national politics.""The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">02e35030f9e4920c97d584901f1f27a2,52b7d939e00921ff27a0e23527849f4d,9ac600b774796cb62ab31dc5e14427ff,a393c09888349c3d1bbcb65dce58e043,bd7101505b817c7cdd0dd6f99fffd090,c0e49c56cc8a55c4c39c20b8f36cefcc,d3cd742ee8e9e370b44548e266727918,d40b82a466ee79dcfd33d4a9f26d83fb,ddcfb4ffc5b383f68f907870fdb7cd92,e1a51b52310cc5467e3363d949c469b2,e8f8373577cc32f19851894f5f9ccbeb,f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">02e35030f9e4920c97d584901f1f27a2,52b7d939e00921ff27a0e23527849f4d,9ac600b774796cb62ab31dc5e14427ff,a393c09888349c3d1bbcb65dce58e043,bd7101505b817c7cdd0dd6f99fffd090,c0e49c56cc8a55c4c39c20b8f36cefcc,d3cd742ee8e9e370b44548e266727918,d40b82a466ee79dcfd33d4a9f26d83fb,ddcfb4ffc5b383f68f907870fdb7cd92,e1a51b52310cc5467e3363d949c469b2,e8f8373577cc32f19851894f5f9ccbeb,f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">02e35030f9e4920c97d584901f1f27a2,52b7d939e00921ff27a0e23527849f4d,9ac600b774796cb62ab31dc5e14427ff,a393c09888349c3d1bbcb65dce58e043,bd7101505b817c7cdd0dd6f99fffd090,c0e49c56cc8a55c4c39c20b8f36cefcc,d3cd742ee8e9e370b44548e266727918,d40b82a466ee79dcfd33d4a9f26d83fb,ddcfb4ffc5b383f68f907870fdb7cd92,e1a51b52310cc5467e3363d949c469b2,e8f8373577cc32f19851894f5f9ccbeb,f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">02e35030f9e4920c97d584901f1f27a2,52b7d939e00921ff27a0e23527849f4d,9ac600b774796cb62ab31dc5e14427ff,a393c09888349c3d1bbcb65dce58e043,bd7101505b817c7cdd0dd6f99fffd090,c0e49c56cc8a55c4c39c20b8f36cefcc,d3cd742ee8e9e370b44548e266727918,d40b82a466ee79dcfd33d4a9f26d83fb,ddcfb4ffc5b383f68f907870fdb7cd92,e1a51b52310cc5467e3363d949c469b2,e8f8373577cc32f19851894f5f9ccbeb,f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">02e35030f9e4920c97d584901f1f27a2,52b7d939e00921ff27a0e23527849f4d,9ac600b774796cb62ab31dc5e14427ff,a393c09888349c3d1bbcb65dce58e043,bd7101505b817c7cdd0dd6f99fffd090,c0e49c56cc8a55c4c39c20b8f36cefcc,d3cd742ee8e9e370b44548e266727918,d40b82a466ee79dcfd33d4a9f26d83fb,ddcfb4ffc5b383f68f907870fdb7cd92,e1a51b52310cc5467e3363d949c469b2,e8f8373577cc32f19851894f5f9ccbeb,f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1">
+
+
+
+
+
+
+
+
+
+
+</data>
+      <data key="d2">02e35030f9e4920c97d584901f1f27a2,52b7d939e00921ff27a0e23527849f4d,9ac600b774796cb62ab31dc5e14427ff,a393c09888349c3d1bbcb65dce58e043,bd7101505b817c7cdd0dd6f99fffd090,c0e49c56cc8a55c4c39c20b8f36cefcc,d3cd742ee8e9e370b44548e266727918,d40b82a466ee79dcfd33d4a9f26d83fb,ddcfb4ffc5b383f68f907870fdb7cd92,e1a51b52310cc5467e3363d949c469b2,e8f8373577cc32f19851894f5f9ccbeb,f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </node>
+    <node id="&quot;DEMOCRATIC CAUCUS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Democratic Caucus is a group that chooses floor leaders in the House of Representatives."</data>
+      <data key="d2">c0e49c56cc8a55c4c39c20b8f36cefcc</data>
+    </node>
+    <node id="&quot;REPUBLICAN CONFERENCE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Republican Conference is a group that chooses floor leaders in the House of Representatives."</data>
+      <data key="d2">c0e49c56cc8a55c4c39c20b8f36cefcc</data>
+    </node>
+    <node id="&quot;UNITED STATES CAPITOL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States Capitol is the location where the House of Representatives meets."</data>
+      <data key="d2">c0e49c56cc8a55c4c39c20b8f36cefcc</data>
+    </node>
+    <node id="&quot;SPEAKER OF THE HOUSE&quot;">
+      <data key="d0" />
+      <data key="d1">
+</data>
+      <data key="d2">c0e49c56cc8a55c4c39c20b8f36cefcc,d3cd742ee8e9e370b44548e266727918</data>
+    </node>
+    <node id="&quot;HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c0e49c56cc8a55c4c39c20b8f36cefcc</data>
+    </node>
+    <node id="&quot;UNITED STATES HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The United States House of Representatives is an organization that has a presiding officer, known as the Speaker of the House."
+"The United States House of Representatives is a legislative body where Nancy Pelosi serves as Minority Leader."</data>
+      <data key="d2">bd7101505b817c7cdd0dd6f99fffd090,d3cd742ee8e9e370b44548e266727918</data>
+    </node>
+    <node id="&quot;UNITED STATES CONSTITUTION&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States Constitution is a document that established the office of the Speaker of the House in 1789."</data>
+      <data key="d2">d3cd742ee8e9e370b44548e266727918</data>
+    </node>
+    <node id="&quot;PENNSYLVANIA HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Pennsylvania House of Representatives is a legislative body that Emil Mrkonic was a part of."
+"The Pennsylvania House of Representatives is a legislative body that Joseph A. Sullivan was a part of."
+"The Pennsylvania House of Representatives is a legislative body that Leroy M. Zimmerman was a part of."</data>
+      <data key="d2">9ac600b774796cb62ab31dc5e14427ff,a393c09888349c3d1bbcb65dce58e043,ddcfb4ffc5b383f68f907870fdb7cd92</data>
+    </node>
+    <node id="&quot;PENNSYLVANIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pennsylvania is a state in the United States where Emil Mrkonic served as a member of the House of Representatives."
+"Pennsylvania is a state in the United States where Joseph A. Sullivan served as a member of the House of Representatives."
+"Pennsylvania is a state in the United States where the Pennsylvania House of Representatives is located."
+"Pennsylvania is a state in the United States where Samuel Carey Bradshaw represented in the U.S. House of Representatives."</data>
+      <data key="d2">9ac600b774796cb62ab31dc5e14427ff,a393c09888349c3d1bbcb65dce58e043,ddcfb4ffc5b383f68f907870fdb7cd92,e1a51b52310cc5467e3363d949c469b2</data>
+    </node>
+    <node id="&quot;EMIL MRKONIC&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ddcfb4ffc5b383f68f907870fdb7cd92</data>
+    </node>
+    <node id="&quot;WHITE HOUSE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The White House is a geographic location that affects the role of the Minority Leader, depending on whether their party controls it."</data>
+      <data key="d2">52b7d939e00921ff27a0e23527849f4d</data>
+    </node>
+    <node id="&quot;HOUSE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The House is an organization where the Minority Leader operates, with institutional obligations and rules governing their role."</data>
+      <data key="d2">52b7d939e00921ff27a0e23527849f4d</data>
+    </node>
+    <node id="&quot;MINORITY PARTY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Minority Party is an organization that the Minority Leader represents, with its own size, cohesion, and influence on the leader's role."</data>
+      <data key="d2">52b7d939e00921ff27a0e23527849f4d</data>
+    </node>
+    <node id="&quot;MINORITY LEADER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">52b7d939e00921ff27a0e23527849f4d</data>
+    </node>
+    <node id="&quot;OREGON HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Oregon House of Representatives is a legislative body that Gary Lee Wilhelms was a part of."</data>
+      <data key="d2">d40b82a466ee79dcfd33d4a9f26d83fb</data>
+    </node>
+    <node id="&quot;OREGON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Oregon is a state in the United States where Gary Lee Wilhelms served as a politician."</data>
+      <data key="d2">d40b82a466ee79dcfd33d4a9f26d83fb</data>
+    </node>
+    <node id="&quot;GARY LEE WILHELMS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d40b82a466ee79dcfd33d4a9f26d83fb</data>
+    </node>
+    <node id="&quot;CONNECTICUT HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Connecticut House of Representatives is a legislative body where Joe Aresimowicz serves as a member and Speaker of the House."</data>
+      <data key="d2">e8f8373577cc32f19851894f5f9ccbeb</data>
+    </node>
+    <node id="&quot;CONNECTICUT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Connecticut is a state in the United States where Joe Aresimowicz serves as a member of the House of Representatives."</data>
+      <data key="d2">e8f8373577cc32f19851894f5f9ccbeb</data>
+    </node>
+    <node id="&quot;JOE ARESIMOWICZ&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e8f8373577cc32f19851894f5f9ccbeb</data>
+    </node>
+    <node id="&quot;JOSEPH A. SULLIVAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a393c09888349c3d1bbcb65dce58e043</data>
+    </node>
+    <node id="&quot;LEROY M. ZIMMERMAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9ac600b774796cb62ab31dc5e14427ff</data>
+    </node>
+    <node id="&quot;CONGRESS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Congress is a convening event where the Minority Leader's party may take control of the House and elect new leaders."</data>
+      <data key="d2">bd7101505b817c7cdd0dd6f99fffd090</data>
+    </node>
+    <node id="&quot;NANCY PELOSI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">bd7101505b817c7cdd0dd6f99fffd090</data>
+    </node>
+    <node id="&quot;U.S. HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The U.S. House of Representatives is a legislative body in which Samuel Carey Bradshaw served as a member."</data>
+      <data key="d2">e1a51b52310cc5467e3363d949c469b2</data>
+    </node>
+    <node id="&quot;SAMUEL CAREY BRADSHAW&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e1a51b52310cc5467e3363d949c469b2</data>
+    </node>
+    <node id="&quot;GEORGIA HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Georgia House of Representatives is a legislative body where Bob Irvin served in the 1970s and 1990s."</data>
+      <data key="d2">02e35030f9e4920c97d584901f1f27a2</data>
+    </node>
+    <node id="&quot;UNITED STATES SENATE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The United States Senate is a legislative body that Bob Irvin ran for unsuccessfully in 2002."</data>
+      <data key="d2">02e35030f9e4920c97d584901f1f27a2</data>
+    </node>
+    <node id="&quot;RALPH REED&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ralph Reed was a candidate for Lieutenant Governor of Georgia, whom Bob Irvin publicly called to withdraw from the race in 2005."</data>
+      <data key="d2">02e35030f9e4920c97d584901f1f27a2</data>
+    </node>
+    <node id="&quot;SAXBY CHAMBLISS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Saxby Chambliss is a politician who won the United States Senate seat against Bob Irvin in 2002."</data>
+      <data key="d2">02e35030f9e4920c97d584901f1f27a2</data>
+    </node>
+    <node id="&quot;GEORGIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Georgia is a state in the United States where Bob Irvin was active in politics."</data>
+      <data key="d2">02e35030f9e4920c97d584901f1f27a2</data>
+    </node>
+    <node id="&quot;BOB IRVIN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">02e35030f9e4920c97d584901f1f27a2</data>
+    </node>
+    <edge source="&quot;HON. WINNIE KIIZA&quot;" target="&quot;LEADER OF OPPOSITION (LOP)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hon. Winnie Kiiza holds the title of Leader of Opposition."</data>
+      <data key="d5">f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </edge>
+    <edge source="&quot;FORUM FOR DEMOCRATIC CHANGE&quot;" target="&quot;LEADER OF OPPOSITION (LOP)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Forum for Democratic Change is led by Hon. Winnie Kiiza, the current Leader of Opposition."</data>
+      <data key="d5">f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </edge>
+    <edge source="&quot;DEMOCRATIC PARTY&quot;" target="&quot;OPPOSITION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Democratic Party is part of the Opposition in Uganda."</data>
+      <data key="d5">f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </edge>
+    <edge source="&quot;UGANDA PEOPLE'S CONGRESS&quot;" target="&quot;OPPOSITION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Uganda People's Congress is part of the Opposition in Uganda."</data>
+      <data key="d5">f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </edge>
+    <edge source="&quot;CONGRESS PARTY&quot;" target="&quot;OPPOSITION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Congress Party is part of the Opposition in Uganda."</data>
+      <data key="d5">f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </edge>
+    <edge source="&quot;JEEMA&quot;" target="&quot;OPPOSITION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"JEEMA is part of the Opposition in Uganda."</data>
+      <data key="d5">f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">12.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."</data>
+      <data key="d5">02e35030f9e4920c97d584901f1f27a2,52b7d939e00921ff27a0e23527849f4d,9ac600b774796cb62ab31dc5e14427ff,a393c09888349c3d1bbcb65dce58e043,bd7101505b817c7cdd0dd6f99fffd090,c0e49c56cc8a55c4c39c20b8f36cefcc,d3cd742ee8e9e370b44548e266727918,d40b82a466ee79dcfd33d4a9f26d83fb,ddcfb4ffc5b383f68f907870fdb7cd92,e1a51b52310cc5467e3363d949c469b2,e8f8373577cc32f19851894f5f9ccbeb,f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">12.0</data>
+      <data key="d4">"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."</data>
+      <data key="d5">02e35030f9e4920c97d584901f1f27a2,52b7d939e00921ff27a0e23527849f4d,9ac600b774796cb62ab31dc5e14427ff,a393c09888349c3d1bbcb65dce58e043,bd7101505b817c7cdd0dd6f99fffd090,c0e49c56cc8a55c4c39c20b8f36cefcc,d3cd742ee8e9e370b44548e266727918,d40b82a466ee79dcfd33d4a9f26d83fb,ddcfb4ffc5b383f68f907870fdb7cd92,e1a51b52310cc5467e3363d949c469b2,e8f8373577cc32f19851894f5f9ccbeb,f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">12.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."</data>
+      <data key="d5">02e35030f9e4920c97d584901f1f27a2,52b7d939e00921ff27a0e23527849f4d,9ac600b774796cb62ab31dc5e14427ff,a393c09888349c3d1bbcb65dce58e043,bd7101505b817c7cdd0dd6f99fffd090,c0e49c56cc8a55c4c39c20b8f36cefcc,d3cd742ee8e9e370b44548e266727918,d40b82a466ee79dcfd33d4a9f26d83fb,ddcfb4ffc5b383f68f907870fdb7cd92,e1a51b52310cc5467e3363d949c469b2,e8f8373577cc32f19851894f5f9ccbeb,f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">12.0</data>
+      <data key="d4">"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."</data>
+      <data key="d5">02e35030f9e4920c97d584901f1f27a2,52b7d939e00921ff27a0e23527849f4d,9ac600b774796cb62ab31dc5e14427ff,a393c09888349c3d1bbcb65dce58e043,bd7101505b817c7cdd0dd6f99fffd090,c0e49c56cc8a55c4c39c20b8f36cefcc,d3cd742ee8e9e370b44548e266727918,d40b82a466ee79dcfd33d4a9f26d83fb,ddcfb4ffc5b383f68f907870fdb7cd92,e1a51b52310cc5467e3363d949c469b2,e8f8373577cc32f19851894f5f9ccbeb,f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">12.0</data>
+      <data key="d4">"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."</data>
+      <data key="d5">02e35030f9e4920c97d584901f1f27a2,52b7d939e00921ff27a0e23527849f4d,9ac600b774796cb62ab31dc5e14427ff,a393c09888349c3d1bbcb65dce58e043,bd7101505b817c7cdd0dd6f99fffd090,c0e49c56cc8a55c4c39c20b8f36cefcc,d3cd742ee8e9e370b44548e266727918,d40b82a466ee79dcfd33d4a9f26d83fb,ddcfb4ffc5b383f68f907870fdb7cd92,e1a51b52310cc5467e3363d949c469b2,e8f8373577cc32f19851894f5f9ccbeb,f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">12.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."</data>
+      <data key="d5">02e35030f9e4920c97d584901f1f27a2,52b7d939e00921ff27a0e23527849f4d,9ac600b774796cb62ab31dc5e14427ff,a393c09888349c3d1bbcb65dce58e043,bd7101505b817c7cdd0dd6f99fffd090,c0e49c56cc8a55c4c39c20b8f36cefcc,d3cd742ee8e9e370b44548e266727918,d40b82a466ee79dcfd33d4a9f26d83fb,ddcfb4ffc5b383f68f907870fdb7cd92,e1a51b52310cc5467e3363d949c469b2,e8f8373577cc32f19851894f5f9ccbeb,f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">12.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">02e35030f9e4920c97d584901f1f27a2,52b7d939e00921ff27a0e23527849f4d,9ac600b774796cb62ab31dc5e14427ff,a393c09888349c3d1bbcb65dce58e043,bd7101505b817c7cdd0dd6f99fffd090,c0e49c56cc8a55c4c39c20b8f36cefcc,d3cd742ee8e9e370b44548e266727918,d40b82a466ee79dcfd33d4a9f26d83fb,ddcfb4ffc5b383f68f907870fdb7cd92,e1a51b52310cc5467e3363d949c469b2,e8f8373577cc32f19851894f5f9ccbeb,f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">12.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."</data>
+      <data key="d5">02e35030f9e4920c97d584901f1f27a2,52b7d939e00921ff27a0e23527849f4d,9ac600b774796cb62ab31dc5e14427ff,a393c09888349c3d1bbcb65dce58e043,bd7101505b817c7cdd0dd6f99fffd090,c0e49c56cc8a55c4c39c20b8f36cefcc,d3cd742ee8e9e370b44548e266727918,d40b82a466ee79dcfd33d4a9f26d83fb,ddcfb4ffc5b383f68f907870fdb7cd92,e1a51b52310cc5467e3363d949c469b2,e8f8373577cc32f19851894f5f9ccbeb,f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">12.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">02e35030f9e4920c97d584901f1f27a2,52b7d939e00921ff27a0e23527849f4d,9ac600b774796cb62ab31dc5e14427ff,a393c09888349c3d1bbcb65dce58e043,bd7101505b817c7cdd0dd6f99fffd090,c0e49c56cc8a55c4c39c20b8f36cefcc,d3cd742ee8e9e370b44548e266727918,d40b82a466ee79dcfd33d4a9f26d83fb,ddcfb4ffc5b383f68f907870fdb7cd92,e1a51b52310cc5467e3363d949c469b2,e8f8373577cc32f19851894f5f9ccbeb,f1d8c55b9aaa2f7d079efde18e5fa7ba</data>
+    </edge>
+    <edge source="&quot;DEMOCRATIC CAUCUS&quot;" target="&quot;HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Democratic Caucus chooses floor leaders in the House of Representatives."</data>
+      <data key="d5">c0e49c56cc8a55c4c39c20b8f36cefcc</data>
+    </edge>
+    <edge source="&quot;REPUBLICAN CONFERENCE&quot;" target="&quot;HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Republican Conference chooses floor leaders in the House of Representatives."</data>
+      <data key="d5">c0e49c56cc8a55c4c39c20b8f36cefcc</data>
+    </edge>
+    <edge source="&quot;UNITED STATES CAPITOL&quot;" target="&quot;HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The House of Representatives meets in the United States Capitol."</data>
+      <data key="d5">c0e49c56cc8a55c4c39c20b8f36cefcc</data>
+    </edge>
+    <edge source="&quot;SPEAKER OF THE HOUSE&quot;" target="&quot;HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Speaker of the House is the presiding officer of the House of Representatives."</data>
+      <data key="d5">c0e49c56cc8a55c4c39c20b8f36cefcc</data>
+    </edge>
+    <edge source="&quot;SPEAKER OF THE HOUSE&quot;" target="&quot;UNITED STATES HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Speaker of the House is the presiding officer and leader of the United States House of Representatives."</data>
+      <data key="d5">d3cd742ee8e9e370b44548e266727918</data>
+    </edge>
+    <edge source="&quot;SPEAKER OF THE HOUSE&quot;" target="&quot;UNITED STATES CONSTITUTION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The office of the Speaker of the House was established by the United States Constitution in 1789."</data>
+      <data key="d5">d3cd742ee8e9e370b44548e266727918</data>
+    </edge>
+    <edge source="&quot;UNITED STATES HOUSE OF REPRESENTATIVES&quot;" target="&quot;NANCY PELOSI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nancy Pelosi serves as Minority Leader in the United States House of Representatives."</data>
+      <data key="d5">bd7101505b817c7cdd0dd6f99fffd090</data>
+    </edge>
+    <edge source="&quot;UNITED STATES HOUSE OF REPRESENTATIVES&quot;" target="&quot;CONGRESS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The United States House of Representatives is a key participant in the convening of Congress."</data>
+      <data key="d5">bd7101505b817c7cdd0dd6f99fffd090</data>
+    </edge>
+    <edge source="&quot;PENNSYLVANIA HOUSE OF REPRESENTATIVES&quot;" target="&quot;EMIL MRKONIC&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Emil Mrkonic was a member of the Pennsylvania House of Representatives."</data>
+      <data key="d5">ddcfb4ffc5b383f68f907870fdb7cd92</data>
+    </edge>
+    <edge source="&quot;PENNSYLVANIA HOUSE OF REPRESENTATIVES&quot;" target="&quot;PENNSYLVANIA&quot;">
+      <data key="d3">3.0</data>
+      <data key="d4">"The Pennsylvania House of Representatives is located in the state of Pennsylvania."
+"The Pennsylvania House of Representatives is located in the state of Pennsylvania."
+"The Pennsylvania House of Representatives is located in the state of Pennsylvania."</data>
+      <data key="d5">9ac600b774796cb62ab31dc5e14427ff,a393c09888349c3d1bbcb65dce58e043,ddcfb4ffc5b383f68f907870fdb7cd92</data>
+    </edge>
+    <edge source="&quot;PENNSYLVANIA HOUSE OF REPRESENTATIVES&quot;" target="&quot;JOSEPH A. SULLIVAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Joseph A. Sullivan was a member of the Pennsylvania House of Representatives."</data>
+      <data key="d5">a393c09888349c3d1bbcb65dce58e043</data>
+    </edge>
+    <edge source="&quot;PENNSYLVANIA HOUSE OF REPRESENTATIVES&quot;" target="&quot;LEROY M. ZIMMERMAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Leroy M. Zimmerman was a member of the Pennsylvania House of Representatives."</data>
+      <data key="d5">9ac600b774796cb62ab31dc5e14427ff</data>
+    </edge>
+    <edge source="&quot;PENNSYLVANIA&quot;" target="&quot;SAMUEL CAREY BRADSHAW&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Samuel Carey Bradshaw represented Pennsylvania in the U.S. House of Representatives."</data>
+      <data key="d5">e1a51b52310cc5467e3363d949c469b2</data>
+    </edge>
+    <edge source="&quot;WHITE HOUSE&quot;" target="&quot;MINORITY LEADER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Minority Leader's party controlling the White House affects their role and influence."</data>
+      <data key="d5">52b7d939e00921ff27a0e23527849f4d</data>
+    </edge>
+    <edge source="&quot;HOUSE&quot;" target="&quot;MINORITY LEADER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Minority Leader operates within the House, with institutional obligations and rules governing their role."</data>
+      <data key="d5">52b7d939e00921ff27a0e23527849f4d</data>
+    </edge>
+    <edge source="&quot;MINORITY PARTY&quot;" target="&quot;MINORITY LEADER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Minority Leader represents the Minority Party, with its size, cohesion, and influence on the leader's role."</data>
+      <data key="d5">52b7d939e00921ff27a0e23527849f4d</data>
+    </edge>
+    <edge source="&quot;OREGON HOUSE OF REPRESENTATIVES&quot;" target="&quot;GARY LEE WILHELMS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gary Lee Wilhelms was a member of the Oregon House of Representatives."</data>
+      <data key="d5">d40b82a466ee79dcfd33d4a9f26d83fb</data>
+    </edge>
+    <edge source="&quot;OREGON&quot;" target="&quot;GARY LEE WILHELMS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gary Lee Wilhelms served as a politician in the state of Oregon."</data>
+      <data key="d5">d40b82a466ee79dcfd33d4a9f26d83fb</data>
+    </edge>
+    <edge source="&quot;CONNECTICUT HOUSE OF REPRESENTATIVES&quot;" target="&quot;JOE ARESIMOWICZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Joe Aresimowicz is a member and Speaker of the Connecticut House of Representatives."</data>
+      <data key="d5">e8f8373577cc32f19851894f5f9ccbeb</data>
+    </edge>
+    <edge source="&quot;CONNECTICUT HOUSE OF REPRESENTATIVES&quot;" target="&quot;CONNECTICUT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Connecticut House of Representatives is located in the state of Connecticut."</data>
+      <data key="d5">e8f8373577cc32f19851894f5f9ccbeb</data>
+    </edge>
+    <edge source="&quot;CONGRESS&quot;" target="&quot;NANCY PELOSI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nancy Pelosi's party may take control of the House during Congress, potentially leading to her election as Speaker."</data>
+      <data key="d5">bd7101505b817c7cdd0dd6f99fffd090</data>
+    </edge>
+    <edge source="&quot;U.S. HOUSE OF REPRESENTATIVES&quot;" target="&quot;SAMUEL CAREY BRADSHAW&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Samuel Carey Bradshaw was a member of the U.S. House of Representatives."</data>
+      <data key="d5">e1a51b52310cc5467e3363d949c469b2</data>
+    </edge>
+    <edge source="&quot;GEORGIA HOUSE OF REPRESENTATIVES&quot;" target="&quot;BOB IRVIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bob Irvin served in the Georgia House of Representatives."</data>
+      <data key="d5">02e35030f9e4920c97d584901f1f27a2</data>
+    </edge>
+    <edge source="&quot;UNITED STATES SENATE&quot;" target="&quot;BOB IRVIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bob Irvin ran for the United States Senate."</data>
+      <data key="d5">02e35030f9e4920c97d584901f1f27a2</data>
+    </edge>
+    <edge source="&quot;RALPH REED&quot;" target="&quot;BOB IRVIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bob Irvin called for Ralph Reed to withdraw from the race for Lieutenant Governor of Georgia."</data>
+      <data key="d5">02e35030f9e4920c97d584901f1f27a2</data>
+    </edge>
+    <edge source="&quot;SAXBY CHAMBLISS&quot;" target="&quot;BOB IRVIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bob Irvin lost to Saxby Chambliss in the United States Senate election."</data>
+      <data key="d5">02e35030f9e4920c97d584901f1f27a2</data>
+    </edge>
+  </graph>
+</graphml>

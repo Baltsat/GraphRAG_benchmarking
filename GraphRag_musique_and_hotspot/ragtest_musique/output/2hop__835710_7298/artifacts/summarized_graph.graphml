@@ -1,0 +1,695 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;MILLARD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Millard is the songwriter who earned the Dove Award 'Songwriter of the Year' and wrote the song 'I Can Only Imagine'."</data>
+      <data key="d2">5977f04f83271a00898227b5580db3b8,75e83a2a9b97ab923764d793f47e420d</data>
+    </node>
+    <node id="&quot;DOVE AWARDS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Dove Awards is an award ceremony where 'I Can Only Imagine' won two awards, including 'Pop / Contemporary Recorded Song of the Year' and 'Song of the Year'."</data>
+      <data key="d2">5977f04f83271a00898227b5580db3b8,75e83a2a9b97ab923764d793f47e420d</data>
+    </node>
+    <node id="&quot;RIAA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The RIAA (Recording Industry Association of America) certified "I Can Only Imagine" as 3x platinum.</data>
+      <data key="d2">5977f04f83271a00898227b5580db3b8,75e83a2a9b97ab923764d793f47e420d</data>
+    </node>
+    <node id="&quot;I CAN ONLY IMAGINE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5977f04f83271a00898227b5580db3b8,75e83a2a9b97ab923764d793f47e420d</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">412c71216c3441d46d1b2cabe3705c59,4b92e6339ed918051b7d60442957ac32,507afcb2edd5615b4ba1360a5aa66763,50db9dcc32342da40ce2f7b3fbcc2b5f,5977f04f83271a00898227b5580db3b8,64a08ee7163480ec0ea71a14e07a2880,68c204b9281c46d6095b6e1232be384a,738250b2823b925875fdff8fc4cb4e0e,75e83a2a9b97ab923764d793f47e420d,85c469ff729bcb4d2bbbb02bdac0582e,8e022746ff5b4308848ed0fc6ce4f932,93b671eea29328a0eb50f0974a5cc11a,abacf1fc1e4899ca7a8a8747975646df,c0c257eea35542ac206588dc15262c26,cbd825634dfd9233b33aa0108eafa250,d7549b5bcf5f9148bc4b05f49b7d6cb5,dc08e12f69f947e9e879ac541c29f2e3,dc22dc977771e83872859690f73c22e9,eb8679708dd76e1e8f4e6620e5404186</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">412c71216c3441d46d1b2cabe3705c59,4b92e6339ed918051b7d60442957ac32,507afcb2edd5615b4ba1360a5aa66763,50db9dcc32342da40ce2f7b3fbcc2b5f,5977f04f83271a00898227b5580db3b8,64a08ee7163480ec0ea71a14e07a2880,68c204b9281c46d6095b6e1232be384a,738250b2823b925875fdff8fc4cb4e0e,75e83a2a9b97ab923764d793f47e420d,85c469ff729bcb4d2bbbb02bdac0582e,8e022746ff5b4308848ed0fc6ce4f932,93b671eea29328a0eb50f0974a5cc11a,abacf1fc1e4899ca7a8a8747975646df,c0c257eea35542ac206588dc15262c26,cbd825634dfd9233b33aa0108eafa250,d7549b5bcf5f9148bc4b05f49b7d6cb5,dc08e12f69f947e9e879ac541c29f2e3,dc22dc977771e83872859690f73c22e9,eb8679708dd76e1e8f4e6620e5404186</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">412c71216c3441d46d1b2cabe3705c59,4b92e6339ed918051b7d60442957ac32,507afcb2edd5615b4ba1360a5aa66763,50db9dcc32342da40ce2f7b3fbcc2b5f,5977f04f83271a00898227b5580db3b8,64a08ee7163480ec0ea71a14e07a2880,68c204b9281c46d6095b6e1232be384a,738250b2823b925875fdff8fc4cb4e0e,75e83a2a9b97ab923764d793f47e420d,85c469ff729bcb4d2bbbb02bdac0582e,8e022746ff5b4308848ed0fc6ce4f932,93b671eea29328a0eb50f0974a5cc11a,abacf1fc1e4899ca7a8a8747975646df,c0c257eea35542ac206588dc15262c26,cbd825634dfd9233b33aa0108eafa250,d7549b5bcf5f9148bc4b05f49b7d6cb5,dc08e12f69f947e9e879ac541c29f2e3,dc22dc977771e83872859690f73c22e9,eb8679708dd76e1e8f4e6620e5404186</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">412c71216c3441d46d1b2cabe3705c59,4b92e6339ed918051b7d60442957ac32,507afcb2edd5615b4ba1360a5aa66763,50db9dcc32342da40ce2f7b3fbcc2b5f,5977f04f83271a00898227b5580db3b8,64a08ee7163480ec0ea71a14e07a2880,68c204b9281c46d6095b6e1232be384a,738250b2823b925875fdff8fc4cb4e0e,75e83a2a9b97ab923764d793f47e420d,85c469ff729bcb4d2bbbb02bdac0582e,8e022746ff5b4308848ed0fc6ce4f932,93b671eea29328a0eb50f0974a5cc11a,abacf1fc1e4899ca7a8a8747975646df,c0c257eea35542ac206588dc15262c26,cbd825634dfd9233b33aa0108eafa250,d7549b5bcf5f9148bc4b05f49b7d6cb5,dc08e12f69f947e9e879ac541c29f2e3,dc22dc977771e83872859690f73c22e9,eb8679708dd76e1e8f4e6620e5404186</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">412c71216c3441d46d1b2cabe3705c59,4b92e6339ed918051b7d60442957ac32,507afcb2edd5615b4ba1360a5aa66763,50db9dcc32342da40ce2f7b3fbcc2b5f,5977f04f83271a00898227b5580db3b8,64a08ee7163480ec0ea71a14e07a2880,68c204b9281c46d6095b6e1232be384a,738250b2823b925875fdff8fc4cb4e0e,75e83a2a9b97ab923764d793f47e420d,85c469ff729bcb4d2bbbb02bdac0582e,8e022746ff5b4308848ed0fc6ce4f932,93b671eea29328a0eb50f0974a5cc11a,abacf1fc1e4899ca7a8a8747975646df,c0c257eea35542ac206588dc15262c26,cbd825634dfd9233b33aa0108eafa250,d7549b5bcf5f9148bc4b05f49b7d6cb5,dc08e12f69f947e9e879ac541c29f2e3,dc22dc977771e83872859690f73c22e9,eb8679708dd76e1e8f4e6620e5404186</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">412c71216c3441d46d1b2cabe3705c59,4b92e6339ed918051b7d60442957ac32,507afcb2edd5615b4ba1360a5aa66763,50db9dcc32342da40ce2f7b3fbcc2b5f,5977f04f83271a00898227b5580db3b8,64a08ee7163480ec0ea71a14e07a2880,68c204b9281c46d6095b6e1232be384a,738250b2823b925875fdff8fc4cb4e0e,75e83a2a9b97ab923764d793f47e420d,85c469ff729bcb4d2bbbb02bdac0582e,8e022746ff5b4308848ed0fc6ce4f932,93b671eea29328a0eb50f0974a5cc11a,abacf1fc1e4899ca7a8a8747975646df,c0c257eea35542ac206588dc15262c26,cbd825634dfd9233b33aa0108eafa250,d7549b5bcf5f9148bc4b05f49b7d6cb5,dc08e12f69f947e9e879ac541c29f2e3,dc22dc977771e83872859690f73c22e9,eb8679708dd76e1e8f4e6620e5404186</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">412c71216c3441d46d1b2cabe3705c59,4b92e6339ed918051b7d60442957ac32,507afcb2edd5615b4ba1360a5aa66763,50db9dcc32342da40ce2f7b3fbcc2b5f,5977f04f83271a00898227b5580db3b8,64a08ee7163480ec0ea71a14e07a2880,68c204b9281c46d6095b6e1232be384a,738250b2823b925875fdff8fc4cb4e0e,75e83a2a9b97ab923764d793f47e420d,85c469ff729bcb4d2bbbb02bdac0582e,8e022746ff5b4308848ed0fc6ce4f932,93b671eea29328a0eb50f0974a5cc11a,abacf1fc1e4899ca7a8a8747975646df,c0c257eea35542ac206588dc15262c26,cbd825634dfd9233b33aa0108eafa250,d7549b5bcf5f9148bc4b05f49b7d6cb5,dc08e12f69f947e9e879ac541c29f2e3,dc22dc977771e83872859690f73c22e9,eb8679708dd76e1e8f4e6620e5404186</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">412c71216c3441d46d1b2cabe3705c59,4b92e6339ed918051b7d60442957ac32,507afcb2edd5615b4ba1360a5aa66763,50db9dcc32342da40ce2f7b3fbcc2b5f,5977f04f83271a00898227b5580db3b8,64a08ee7163480ec0ea71a14e07a2880,68c204b9281c46d6095b6e1232be384a,738250b2823b925875fdff8fc4cb4e0e,75e83a2a9b97ab923764d793f47e420d,85c469ff729bcb4d2bbbb02bdac0582e,8e022746ff5b4308848ed0fc6ce4f932,93b671eea29328a0eb50f0974a5cc11a,abacf1fc1e4899ca7a8a8747975646df,c0c257eea35542ac206588dc15262c26,cbd825634dfd9233b33aa0108eafa250,d7549b5bcf5f9148bc4b05f49b7d6cb5,dc08e12f69f947e9e879ac541c29f2e3,dc22dc977771e83872859690f73c22e9,eb8679708dd76e1e8f4e6620e5404186</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">412c71216c3441d46d1b2cabe3705c59,4b92e6339ed918051b7d60442957ac32,507afcb2edd5615b4ba1360a5aa66763,50db9dcc32342da40ce2f7b3fbcc2b5f,5977f04f83271a00898227b5580db3b8,64a08ee7163480ec0ea71a14e07a2880,68c204b9281c46d6095b6e1232be384a,738250b2823b925875fdff8fc4cb4e0e,75e83a2a9b97ab923764d793f47e420d,85c469ff729bcb4d2bbbb02bdac0582e,8e022746ff5b4308848ed0fc6ce4f932,93b671eea29328a0eb50f0974a5cc11a,abacf1fc1e4899ca7a8a8747975646df,c0c257eea35542ac206588dc15262c26,cbd825634dfd9233b33aa0108eafa250,d7549b5bcf5f9148bc4b05f49b7d6cb5,dc08e12f69f947e9e879ac541c29f2e3,dc22dc977771e83872859690f73c22e9,eb8679708dd76e1e8f4e6620e5404186</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">412c71216c3441d46d1b2cabe3705c59,4b92e6339ed918051b7d60442957ac32,507afcb2edd5615b4ba1360a5aa66763,50db9dcc32342da40ce2f7b3fbcc2b5f,5977f04f83271a00898227b5580db3b8,64a08ee7163480ec0ea71a14e07a2880,68c204b9281c46d6095b6e1232be384a,738250b2823b925875fdff8fc4cb4e0e,75e83a2a9b97ab923764d793f47e420d,85c469ff729bcb4d2bbbb02bdac0582e,8e022746ff5b4308848ed0fc6ce4f932,93b671eea29328a0eb50f0974a5cc11a,abacf1fc1e4899ca7a8a8747975646df,c0c257eea35542ac206588dc15262c26,cbd825634dfd9233b33aa0108eafa250,d7549b5bcf5f9148bc4b05f49b7d6cb5,dc08e12f69f947e9e879ac541c29f2e3,dc22dc977771e83872859690f73c22e9,eb8679708dd76e1e8f4e6620e5404186</data>
+    </node>
+    <node id="&quot;IHEARTMEDIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"iHeartMedia is the owner of WEBZ radio station."</data>
+      <data key="d2">4b92e6339ed918051b7d60442957ac32</data>
+    </node>
+    <node id="&quot;MEXICO BEACH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico Beach is a location where WEBZ radio station is situated."</data>
+      <data key="d2">4b92e6339ed918051b7d60442957ac32</data>
+    </node>
+    <node id="&quot;FLORIDA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Florida is a state in the United States where Mexico Beach is located."</data>
+      <data key="d2">4b92e6339ed918051b7d60442957ac32</data>
+    </node>
+    <node id="&quot;PANAMA CITY METRO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Panama City metro is a metropolitan area that includes Mexico Beach, Florida."</data>
+      <data key="d2">4b92e6339ed918051b7d60442957ac32</data>
+    </node>
+    <node id="&quot;WEBZ&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4b92e6339ed918051b7d60442957ac32</data>
+    </node>
+    <node id="&quot;SARKES TARZIAN, INC.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Sarkes Tarzian, Inc. is the owner of WAJI radio station."</data>
+      <data key="d2">8e022746ff5b4308848ed0fc6ce4f932</data>
+    </node>
+    <node id="&quot;FORT WAYNE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Fort Wayne is a location in Indiana, United States where WAJI radio station is licensed."</data>
+      <data key="d2">8e022746ff5b4308848ed0fc6ce4f932</data>
+    </node>
+    <node id="&quot;WAJI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8e022746ff5b4308848ed0fc6ce4f932</data>
+    </node>
+    <node id="&quot;EDUCATIONAL MEDIA FOUNDATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Educational Media Foundation is the owner of KLAG radio station."</data>
+      <data key="d2">507afcb2edd5615b4ba1360a5aa66763</data>
+    </node>
+    <node id="&quot;ALAMOGORDO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Alamogordo is a location in New Mexico where KLAG radio station is licensed to serve."</data>
+      <data key="d2">507afcb2edd5615b4ba1360a5aa66763</data>
+    </node>
+    <node id="&quot;KLAG&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">507afcb2edd5615b4ba1360a5aa66763</data>
+    </node>
+    <node id="&quot;FORT MCMURRAY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Fort McMurray is a location in Alberta, Canada where CFVR-FM serves."</data>
+      <data key="d2">eb8679708dd76e1e8f4e6620e5404186</data>
+    </node>
+    <node id="&quot;ALBERTA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Alberta is a province in Canada where CFVR-FM is located."</data>
+      <data key="d2">eb8679708dd76e1e8f4e6620e5404186</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Canada is a country where the song "Light Sings" reached #15 on the adult contemporary chart and #22 on the pop chart, and it is also the country where CFVR-FM, a radio station, is based.</data>
+      <data key="d2">412c71216c3441d46d1b2cabe3705c59,eb8679708dd76e1e8f4e6620e5404186</data>
+    </node>
+    <node id="&quot;CFVR-FM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">eb8679708dd76e1e8f4e6620e5404186</data>
+    </node>
+    <node id="&quot;GARDEN CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Garden City is a location in Idaho where KCIX is situated."</data>
+      <data key="d2">85c469ff729bcb4d2bbbb02bdac0582e</data>
+    </node>
+    <node id="&quot;BOISE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Boise is a city in Idaho to which KCIX broadcasts its signal."</data>
+      <data key="d2">85c469ff729bcb4d2bbbb02bdac0582e</data>
+    </node>
+    <node id="&quot;KCIX&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">85c469ff729bcb4d2bbbb02bdac0582e</data>
+    </node>
+    <node id="&quot;GRAND RAPIDS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Grand Rapids is a location in Michigan where WNWZ is licensed."</data>
+      <data key="d2">64a08ee7163480ec0ea71a14e07a2880</data>
+    </node>
+    <node id="&quot;MICHIGAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Michigan is a state in the United States where Grand Rapids and East Lansing are located, with the latter being served by the WFMK radio station as part of the Lansing radio market.</data>
+      <data key="d2">64a08ee7163480ec0ea71a14e07a2880,c0c257eea35542ac206588dc15262c26</data>
+    </node>
+    <node id="&quot;WNWZ&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">64a08ee7163480ec0ea71a14e07a2880</data>
+    </node>
+    <node id="&quot;VOSBIKIAN BAND&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Vosbikian Band was a notable group in the 1940s and 1950s, developing their own style of 'kef music'."</data>
+      <data key="d2">50db9dcc32342da40ce2f7b3fbcc2b5f</data>
+    </node>
+    <node id="&quot;ADISS HARMANDIAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Adiss Harmandian is an artist who contributed to the growth of Armenian pop music in the 1960s and 1970s."</data>
+      <data key="d2">50db9dcc32342da40ce2f7b3fbcc2b5f</data>
+    </node>
+    <node id="&quot;HAROUT PAMBOUKJIAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Harout Pamboukjian is an artist who performed for the Armenian diaspora and Armenia, contributing to the popularity of Armenian pop music."</data>
+      <data key="d2">50db9dcc32342da40ce2f7b3fbcc2b5f</data>
+    </node>
+    <node id="&quot;SIRUSHO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sirusho is a contemporary artist who combines pop music with Armenian folk music in today's entertainment industry."</data>
+      <data key="d2">50db9dcc32342da40ce2f7b3fbcc2b5f</data>
+    </node>
+    <node id="&quot;ARMENIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Armenia is a country where Armenian pop music has gained popularity, with artists performing for the local audience."</data>
+      <data key="d2">50db9dcc32342da40ce2f7b3fbcc2b5f</data>
+    </node>
+    <node id="&quot;RICHARD HAGOPIAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">50db9dcc32342da40ce2f7b3fbcc2b5f</data>
+    </node>
+    <node id="&quot;TOWNSQUARE MEDIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Townsquare Media owns WFMK radio station."</data>
+      <data key="d2">c0c257eea35542ac206588dc15262c26</data>
+    </node>
+    <node id="&quot;EAST LANSING&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"East Lansing is a location where WFMK radio station is licensed."</data>
+      <data key="d2">c0c257eea35542ac206588dc15262c26</data>
+    </node>
+    <node id="&quot;WFMK&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c0c257eea35542ac206588dc15262c26</data>
+    </node>
+    <node id="&quot;KENORA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Kenora is a location in Ontario where CJRL-FM broadcasts."</data>
+      <data key="d2">abacf1fc1e4899ca7a8a8747975646df</data>
+    </node>
+    <node id="&quot;89.5 THE LAKE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"89.5 The Lake is an adult contemporary format broadcast by CJRL-FM."</data>
+      <data key="d2">abacf1fc1e4899ca7a8a8747975646df</data>
+    </node>
+    <node id="&quot;CJRL-FM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">abacf1fc1e4899ca7a8a8747975646df</data>
+    </node>
+    <node id="&quot;HACKETTSTOWN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hackettstown is a location in New Jersey where WRNJ (1510 AM) is based."</data>
+      <data key="d2">dc22dc977771e83872859690f73c22e9</data>
+    </node>
+    <node id="&quot;NEW JERSEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New Jersey is a state in the United States where Hackettstown is located."</data>
+      <data key="d2">dc22dc977771e83872859690f73c22e9</data>
+    </node>
+    <node id="&quot;WRNJ RADIO, INC.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"WRNJ Radio, Inc. is the local owner of WRNJ (1510 AM) radio station."</data>
+      <data key="d2">dc22dc977771e83872859690f73c22e9</data>
+    </node>
+    <node id="&quot;ABC NEWS RADIO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ABC News Radio provides programming to WRNJ (1510 AM) radio station."</data>
+      <data key="d2">dc22dc977771e83872859690f73c22e9</data>
+    </node>
+    <node id="&quot;WRNJ (1510 AM)&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">dc22dc977771e83872859690f73c22e9</data>
+    </node>
+    <node id="&quot;RCA MUSIC GROUP&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"RCA Music Group is an organization involved in the music industry, with Adrian Moreira as its senior vice president for adult music."</data>
+      <data key="d2">dc08e12f69f947e9e879ac541c29f2e3</data>
+    </node>
+    <node id="&quot;COREY MOSS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Corey Moss is a writer who has written about changes in adult contemporary music on MTV's website."</data>
+      <data key="d2">dc08e12f69f947e9e879ac541c29f2e3</data>
+    </node>
+    <node id="&quot;MTV&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"MTV is an organization that hosts articles and content, including one written by Corey Moss about adult contemporary music."</data>
+      <data key="d2">dc08e12f69f947e9e879ac541c29f2e3</data>
+    </node>
+    <node id="&quot;AC CHARTS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"AC charts refer to the Adult Contemporary music charts, which have seen a trend of pop songs having lengthy runs even after falling off the Hot 100."</data>
+      <data key="d2">dc08e12f69f947e9e879ac541c29f2e3</data>
+    </node>
+    <node id="&quot;ADRIAN MOREIRA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">dc08e12f69f947e9e879ac541c29f2e3</data>
+    </node>
+    <node id="&quot;WBRT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"WBRT owns WOKH through licensee Bardstown Radio Team, LLC."</data>
+      <data key="d2">738250b2823b925875fdff8fc4cb4e0e</data>
+    </node>
+    <node id="&quot;BARDSTOWN RADIO TEAM, LLC.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Bardstown Radio Team, LLC. is the licensee of WOKH."</data>
+      <data key="d2">738250b2823b925875fdff8fc4cb4e0e</data>
+    </node>
+    <node id="&quot;SPRINGFIELD, KENTUCKY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Springfield, Kentucky is a location served by WOKH radio station."</data>
+      <data key="d2">738250b2823b925875fdff8fc4cb4e0e</data>
+    </node>
+    <node id="&quot;LEBANON, KENTUCKY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lebanon, Kentucky is a location served by WOKH radio station."</data>
+      <data key="d2">738250b2823b925875fdff8fc4cb4e0e</data>
+    </node>
+    <node id="&quot;BARDSTOWN, KENTUCKY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bardstown, Kentucky is a location served by WOKH radio station."</data>
+      <data key="d2">738250b2823b925875fdff8fc4cb4e0e</data>
+    </node>
+    <node id="&quot;WOKH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">738250b2823b925875fdff8fc4cb4e0e</data>
+    </node>
+    <node id="&quot;ELLIOT LAKE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Elliot Lake is a location in Ontario, Canada where CKNR-FM broadcasts."</data>
+      <data key="d2">d7549b5bcf5f9148bc4b05f49b7d6cb5</data>
+    </node>
+    <node id="&quot;ONTARIO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ontario is a province in Canada where Elliot Lake is located."</data>
+      <data key="d2">d7549b5bcf5f9148bc4b05f49b7d6cb5</data>
+    </node>
+    <node id="&quot;CKNR-FM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d7549b5bcf5f9148bc4b05f49b7d6cb5</data>
+    </node>
+    <node id="&quot;ADULT AUDIENCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The adult audience refers to the target demographic of AC radio stations, specifically the 25-44 age group."</data>
+      <data key="d2">68c204b9281c46d6095b6e1232be384a</data>
+    </node>
+    <node id="&quot;ADVERTISERS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Advertisers have been targeting the 25-44 age group since the 1960s, indicating its importance in marketing strategies."</data>
+      <data key="d2">68c204b9281c46d6095b6e1232be384a</data>
+    </node>
+    <node id="&quot;AC RADIO STATIONS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">68c204b9281c46d6095b6e1232be384a</data>
+    </node>
+    <node id="&quot;CHANNEL 4&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Channel 4 is a television channel that broadcast Minipops in the United Kingdom."</data>
+      <data key="d2">cbd825634dfd9233b33aa0108eafa250</data>
+    </node>
+    <node id="&quot;UNITED KINGDOM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United Kingdom is the country where Minipops was broadcast on Channel 4."</data>
+      <data key="d2">cbd825634dfd9233b33aa0108eafa250</data>
+    </node>
+    <node id="&quot;MINIPOPS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">cbd825634dfd9233b33aa0108eafa250</data>
+    </node>
+    <node id="&quot;CLOSER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Closer is the title of Josh Groban's second studio album, released in November 2003."</data>
+      <data key="d2">93b671eea29328a0eb50f0974a5cc11a</data>
+    </node>
+    <node id="&quot;US&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The US is a country where Closer was the top selling classical album of the 2000s according to Nielsen SoundScan."</data>
+      <data key="d2">93b671eea29328a0eb50f0974a5cc11a</data>
+    </node>
+    <node id="&quot;NIELSEN SOUNDSCAN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Nielsen SoundScan is an organization that tracks music sales, including those of Josh Groban's album Closer."</data>
+      <data key="d2">93b671eea29328a0eb50f0974a5cc11a</data>
+    </node>
+    <node id="&quot;JOSH GROBAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">93b671eea29328a0eb50f0974a5cc11a</data>
+    </node>
+    <node id="&quot;GARY WILLIAM FRIEDMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gary William Friedman is a songwriter who co-wrote the song 'Light Sings' with Will Holt."</data>
+      <data key="d2">412c71216c3441d46d1b2cabe3705c59</data>
+    </node>
+    <node id="&quot;U.S.&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S. is a country where the song 'Light Sings' reached #12 on the adult contemporary chart."</data>
+      <data key="d2">412c71216c3441d46d1b2cabe3705c59</data>
+    </node>
+    <node id="&quot;LOVE'S LINES, ANGLES AND RHYMES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Love's Lines, Angles and Rhymes is an album released in 1971 that features the song 'Light Sings'."</data>
+      <data key="d2">412c71216c3441d46d1b2cabe3705c59</data>
+    </node>
+    <edge source="&quot;MILLARD&quot;" target="&quot;I CAN ONLY IMAGINE&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Millard is the songwriter of the song 'I Can Only Imagine'."&gt;</data>
+      <data key="d5">5977f04f83271a00898227b5580db3b8,75e83a2a9b97ab923764d793f47e420d</data>
+    </edge>
+    <edge source="&quot;DOVE AWARDS&quot;" target="&quot;I CAN ONLY IMAGINE&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"The song 'I Can Only Imagine' won two awards at the Dove Awards ceremony."</data>
+      <data key="d5">5977f04f83271a00898227b5580db3b8,75e83a2a9b97ab923764d793f47e420d</data>
+    </edge>
+    <edge source="&quot;RIAA&quot;" target="&quot;I CAN ONLY IMAGINE&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Here is the comprehensive summary:
+
+The RIAA certified "I Can Only Imagine" as 3x platinum.
+
+Note: The two descriptions provided were contradictory, with one stating 2x platinum and the other stating 3x platinum. I resolved this contradiction by choosing the higher certification level, assuming that the more recent or accurate information is the 3x platinum certification.</data>
+      <data key="d5">5977f04f83271a00898227b5580db3b8,75e83a2a9b97ab923764d793f47e420d</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">412c71216c3441d46d1b2cabe3705c59,4b92e6339ed918051b7d60442957ac32,507afcb2edd5615b4ba1360a5aa66763,50db9dcc32342da40ce2f7b3fbcc2b5f,5977f04f83271a00898227b5580db3b8,64a08ee7163480ec0ea71a14e07a2880,68c204b9281c46d6095b6e1232be384a,738250b2823b925875fdff8fc4cb4e0e,75e83a2a9b97ab923764d793f47e420d,85c469ff729bcb4d2bbbb02bdac0582e,8e022746ff5b4308848ed0fc6ce4f932,93b671eea29328a0eb50f0974a5cc11a,abacf1fc1e4899ca7a8a8747975646df,c0c257eea35542ac206588dc15262c26,cbd825634dfd9233b33aa0108eafa250,d7549b5bcf5f9148bc4b05f49b7d6cb5,dc08e12f69f947e9e879ac541c29f2e3,dc22dc977771e83872859690f73c22e9,eb8679708dd76e1e8f4e6620e5404186</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">412c71216c3441d46d1b2cabe3705c59,4b92e6339ed918051b7d60442957ac32,507afcb2edd5615b4ba1360a5aa66763,50db9dcc32342da40ce2f7b3fbcc2b5f,5977f04f83271a00898227b5580db3b8,64a08ee7163480ec0ea71a14e07a2880,68c204b9281c46d6095b6e1232be384a,738250b2823b925875fdff8fc4cb4e0e,75e83a2a9b97ab923764d793f47e420d,85c469ff729bcb4d2bbbb02bdac0582e,8e022746ff5b4308848ed0fc6ce4f932,93b671eea29328a0eb50f0974a5cc11a,abacf1fc1e4899ca7a8a8747975646df,c0c257eea35542ac206588dc15262c26,cbd825634dfd9233b33aa0108eafa250,d7549b5bcf5f9148bc4b05f49b7d6cb5,dc08e12f69f947e9e879ac541c29f2e3,dc22dc977771e83872859690f73c22e9,eb8679708dd76e1e8f4e6620e5404186</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">412c71216c3441d46d1b2cabe3705c59,4b92e6339ed918051b7d60442957ac32,507afcb2edd5615b4ba1360a5aa66763,50db9dcc32342da40ce2f7b3fbcc2b5f,5977f04f83271a00898227b5580db3b8,64a08ee7163480ec0ea71a14e07a2880,68c204b9281c46d6095b6e1232be384a,738250b2823b925875fdff8fc4cb4e0e,75e83a2a9b97ab923764d793f47e420d,85c469ff729bcb4d2bbbb02bdac0582e,8e022746ff5b4308848ed0fc6ce4f932,93b671eea29328a0eb50f0974a5cc11a,abacf1fc1e4899ca7a8a8747975646df,c0c257eea35542ac206588dc15262c26,cbd825634dfd9233b33aa0108eafa250,d7549b5bcf5f9148bc4b05f49b7d6cb5,dc08e12f69f947e9e879ac541c29f2e3,dc22dc977771e83872859690f73c22e9,eb8679708dd76e1e8f4e6620e5404186</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">412c71216c3441d46d1b2cabe3705c59,4b92e6339ed918051b7d60442957ac32,507afcb2edd5615b4ba1360a5aa66763,50db9dcc32342da40ce2f7b3fbcc2b5f,5977f04f83271a00898227b5580db3b8,64a08ee7163480ec0ea71a14e07a2880,68c204b9281c46d6095b6e1232be384a,738250b2823b925875fdff8fc4cb4e0e,75e83a2a9b97ab923764d793f47e420d,85c469ff729bcb4d2bbbb02bdac0582e,8e022746ff5b4308848ed0fc6ce4f932,93b671eea29328a0eb50f0974a5cc11a,abacf1fc1e4899ca7a8a8747975646df,c0c257eea35542ac206588dc15262c26,cbd825634dfd9233b33aa0108eafa250,d7549b5bcf5f9148bc4b05f49b7d6cb5,dc08e12f69f947e9e879ac541c29f2e3,dc22dc977771e83872859690f73c22e9,eb8679708dd76e1e8f4e6620e5404186</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">412c71216c3441d46d1b2cabe3705c59,4b92e6339ed918051b7d60442957ac32,507afcb2edd5615b4ba1360a5aa66763,50db9dcc32342da40ce2f7b3fbcc2b5f,5977f04f83271a00898227b5580db3b8,64a08ee7163480ec0ea71a14e07a2880,68c204b9281c46d6095b6e1232be384a,738250b2823b925875fdff8fc4cb4e0e,75e83a2a9b97ab923764d793f47e420d,85c469ff729bcb4d2bbbb02bdac0582e,8e022746ff5b4308848ed0fc6ce4f932,93b671eea29328a0eb50f0974a5cc11a,abacf1fc1e4899ca7a8a8747975646df,c0c257eea35542ac206588dc15262c26,cbd825634dfd9233b33aa0108eafa250,d7549b5bcf5f9148bc4b05f49b7d6cb5,dc08e12f69f947e9e879ac541c29f2e3,dc22dc977771e83872859690f73c22e9,eb8679708dd76e1e8f4e6620e5404186</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">412c71216c3441d46d1b2cabe3705c59,4b92e6339ed918051b7d60442957ac32,507afcb2edd5615b4ba1360a5aa66763,50db9dcc32342da40ce2f7b3fbcc2b5f,5977f04f83271a00898227b5580db3b8,64a08ee7163480ec0ea71a14e07a2880,68c204b9281c46d6095b6e1232be384a,738250b2823b925875fdff8fc4cb4e0e,75e83a2a9b97ab923764d793f47e420d,85c469ff729bcb4d2bbbb02bdac0582e,8e022746ff5b4308848ed0fc6ce4f932,93b671eea29328a0eb50f0974a5cc11a,abacf1fc1e4899ca7a8a8747975646df,c0c257eea35542ac206588dc15262c26,cbd825634dfd9233b33aa0108eafa250,d7549b5bcf5f9148bc4b05f49b7d6cb5,dc08e12f69f947e9e879ac541c29f2e3,dc22dc977771e83872859690f73c22e9,eb8679708dd76e1e8f4e6620e5404186</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">412c71216c3441d46d1b2cabe3705c59,4b92e6339ed918051b7d60442957ac32,507afcb2edd5615b4ba1360a5aa66763,50db9dcc32342da40ce2f7b3fbcc2b5f,5977f04f83271a00898227b5580db3b8,64a08ee7163480ec0ea71a14e07a2880,68c204b9281c46d6095b6e1232be384a,738250b2823b925875fdff8fc4cb4e0e,75e83a2a9b97ab923764d793f47e420d,85c469ff729bcb4d2bbbb02bdac0582e,8e022746ff5b4308848ed0fc6ce4f932,93b671eea29328a0eb50f0974a5cc11a,abacf1fc1e4899ca7a8a8747975646df,c0c257eea35542ac206588dc15262c26,cbd825634dfd9233b33aa0108eafa250,d7549b5bcf5f9148bc4b05f49b7d6cb5,dc08e12f69f947e9e879ac541c29f2e3,dc22dc977771e83872859690f73c22e9,eb8679708dd76e1e8f4e6620e5404186</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">412c71216c3441d46d1b2cabe3705c59,4b92e6339ed918051b7d60442957ac32,507afcb2edd5615b4ba1360a5aa66763,50db9dcc32342da40ce2f7b3fbcc2b5f,5977f04f83271a00898227b5580db3b8,64a08ee7163480ec0ea71a14e07a2880,68c204b9281c46d6095b6e1232be384a,738250b2823b925875fdff8fc4cb4e0e,75e83a2a9b97ab923764d793f47e420d,85c469ff729bcb4d2bbbb02bdac0582e,8e022746ff5b4308848ed0fc6ce4f932,93b671eea29328a0eb50f0974a5cc11a,abacf1fc1e4899ca7a8a8747975646df,c0c257eea35542ac206588dc15262c26,cbd825634dfd9233b33aa0108eafa250,d7549b5bcf5f9148bc4b05f49b7d6cb5,dc08e12f69f947e9e879ac541c29f2e3,dc22dc977771e83872859690f73c22e9,eb8679708dd76e1e8f4e6620e5404186</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">412c71216c3441d46d1b2cabe3705c59,4b92e6339ed918051b7d60442957ac32,507afcb2edd5615b4ba1360a5aa66763,50db9dcc32342da40ce2f7b3fbcc2b5f,5977f04f83271a00898227b5580db3b8,64a08ee7163480ec0ea71a14e07a2880,68c204b9281c46d6095b6e1232be384a,738250b2823b925875fdff8fc4cb4e0e,75e83a2a9b97ab923764d793f47e420d,85c469ff729bcb4d2bbbb02bdac0582e,8e022746ff5b4308848ed0fc6ce4f932,93b671eea29328a0eb50f0974a5cc11a,abacf1fc1e4899ca7a8a8747975646df,c0c257eea35542ac206588dc15262c26,cbd825634dfd9233b33aa0108eafa250,d7549b5bcf5f9148bc4b05f49b7d6cb5,dc08e12f69f947e9e879ac541c29f2e3,dc22dc977771e83872859690f73c22e9,eb8679708dd76e1e8f4e6620e5404186</data>
+    </edge>
+    <edge source="&quot;IHEARTMEDIA&quot;" target="&quot;WEBZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"WEBZ is owned by iHeartMedia."</data>
+      <data key="d5">4b92e6339ed918051b7d60442957ac32</data>
+    </edge>
+    <edge source="&quot;MEXICO BEACH&quot;" target="&quot;WEBZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"WEBZ is located in Mexico Beach, Florida."</data>
+      <data key="d5">4b92e6339ed918051b7d60442957ac32</data>
+    </edge>
+    <edge source="&quot;MEXICO BEACH&quot;" target="&quot;FLORIDA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mexico Beach is a location within the state of Florida."</data>
+      <data key="d5">4b92e6339ed918051b7d60442957ac32</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;PANAMA CITY METRO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Panama City metro is a metropolitan area within the state of Florida."</data>
+      <data key="d5">4b92e6339ed918051b7d60442957ac32</data>
+    </edge>
+    <edge source="&quot;SARKES TARZIAN, INC.&quot;" target="&quot;WAJI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sarkes Tarzian, Inc. owns WAJI radio station."</data>
+      <data key="d5">8e022746ff5b4308848ed0fc6ce4f932</data>
+    </edge>
+    <edge source="&quot;FORT WAYNE&quot;" target="&quot;WAJI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"WAJI radio station is licensed to Fort Wayne, Indiana."</data>
+      <data key="d5">8e022746ff5b4308848ed0fc6ce4f932</data>
+    </edge>
+    <edge source="&quot;EDUCATIONAL MEDIA FOUNDATION&quot;" target="&quot;KLAG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Educational Media Foundation owns KLAG radio station."</data>
+      <data key="d5">507afcb2edd5615b4ba1360a5aa66763</data>
+    </edge>
+    <edge source="&quot;ALAMOGORDO&quot;" target="&quot;KLAG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"KLAG radio station is licensed to serve Alamogordo, New Mexico."</data>
+      <data key="d5">507afcb2edd5615b4ba1360a5aa66763</data>
+    </edge>
+    <edge source="&quot;FORT MCMURRAY&quot;" target="&quot;CFVR-FM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"CFVR-FM serves Fort McMurray, Alberta, Canada."</data>
+      <data key="d5">eb8679708dd76e1e8f4e6620e5404186</data>
+    </edge>
+    <edge source="&quot;ALBERTA&quot;" target="&quot;CFVR-FM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"CFVR-FM is located in Alberta, Canada."</data>
+      <data key="d5">eb8679708dd76e1e8f4e6620e5404186</data>
+    </edge>
+    <edge source="&quot;CANADA&quot;" target="&quot;CFVR-FM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"CFVR-FM is a Canadian radio station."</data>
+      <data key="d5">eb8679708dd76e1e8f4e6620e5404186</data>
+    </edge>
+    <edge source="&quot;GARDEN CITY&quot;" target="&quot;KCIX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"KCIX is located in Garden City, Idaho."</data>
+      <data key="d5">85c469ff729bcb4d2bbbb02bdac0582e</data>
+    </edge>
+    <edge source="&quot;BOISE&quot;" target="&quot;KCIX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"KCIX broadcasts its signal to the Boise area."</data>
+      <data key="d5">85c469ff729bcb4d2bbbb02bdac0582e</data>
+    </edge>
+    <edge source="&quot;GRAND RAPIDS&quot;" target="&quot;WNWZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"WNWZ is licensed to Grand Rapids, indicating a location-based relationship."</data>
+      <data key="d5">64a08ee7163480ec0ea71a14e07a2880</data>
+    </edge>
+    <edge source="&quot;GRAND RAPIDS&quot;" target="&quot;MICHIGAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Grand Rapids is located in Michigan, indicating a geographic hierarchy."</data>
+      <data key="d5">64a08ee7163480ec0ea71a14e07a2880</data>
+    </edge>
+    <edge source="&quot;MICHIGAN&quot;" target="&quot;EAST LANSING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"East Lansing is a location within the state of Michigan."</data>
+      <data key="d5">c0c257eea35542ac206588dc15262c26</data>
+    </edge>
+    <edge source="&quot;VOSBIKIAN BAND&quot;" target="&quot;RICHARD HAGOPIAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Richard Hagopian's style was influenced by the Vosbikian Band's 'kef music'."</data>
+      <data key="d5">50db9dcc32342da40ce2f7b3fbcc2b5f</data>
+    </edge>
+    <edge source="&quot;ADISS HARMANDIAN&quot;" target="&quot;ARMENIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Adiss Harmandian performed for the Armenian audience, contributing to the growth of Armenian pop music in Armenia."</data>
+      <data key="d5">50db9dcc32342da40ce2f7b3fbcc2b5f</data>
+    </edge>
+    <edge source="&quot;HAROUT PAMBOUKJIAN&quot;" target="&quot;ARMENIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Harout Pamboukjian performed for the Armenian audience, contributing to the growth of Armenian pop music in Armenia."</data>
+      <data key="d5">50db9dcc32342da40ce2f7b3fbcc2b5f</data>
+    </edge>
+    <edge source="&quot;SIRUSHO&quot;" target="&quot;ARMENIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sirusho combines pop music with Armenian folk music, reflecting the cultural heritage of Armenia."</data>
+      <data key="d5">50db9dcc32342da40ce2f7b3fbcc2b5f</data>
+    </edge>
+    <edge source="&quot;TOWNSQUARE MEDIA&quot;" target="&quot;WFMK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"WFMK is owned by Townsquare Media."</data>
+      <data key="d5">c0c257eea35542ac206588dc15262c26</data>
+    </edge>
+    <edge source="&quot;EAST LANSING&quot;" target="&quot;WFMK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"WFMK is licensed to East Lansing, Michigan."</data>
+      <data key="d5">c0c257eea35542ac206588dc15262c26</data>
+    </edge>
+    <edge source="&quot;KENORA&quot;" target="&quot;CJRL-FM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"CJRL-FM broadcasts in Kenora, Ontario."</data>
+      <data key="d5">abacf1fc1e4899ca7a8a8747975646df</data>
+    </edge>
+    <edge source="&quot;89.5 THE LAKE&quot;" target="&quot;CJRL-FM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"CJRL-FM broadcasts the 89.5 The Lake format."</data>
+      <data key="d5">abacf1fc1e4899ca7a8a8747975646df</data>
+    </edge>
+    <edge source="&quot;HACKETTSTOWN&quot;" target="&quot;WRNJ (1510 AM)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"WRNJ (1510 AM) is located in Hackettstown, New Jersey."</data>
+      <data key="d5">dc22dc977771e83872859690f73c22e9</data>
+    </edge>
+    <edge source="&quot;WRNJ RADIO, INC.&quot;" target="&quot;WRNJ (1510 AM)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"WRNJ Radio, Inc. owns WRNJ (1510 AM) radio station."</data>
+      <data key="d5">dc22dc977771e83872859690f73c22e9</data>
+    </edge>
+    <edge source="&quot;ABC NEWS RADIO&quot;" target="&quot;WRNJ (1510 AM)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"WRNJ (1510 AM) features programming from ABC News Radio."</data>
+      <data key="d5">dc22dc977771e83872859690f73c22e9</data>
+    </edge>
+    <edge source="&quot;RCA MUSIC GROUP&quot;" target="&quot;ADRIAN MOREIRA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Adrian Moreira is employed by RCA Music Group as senior vice president for adult music."</data>
+      <data key="d5">dc08e12f69f947e9e879ac541c29f2e3</data>
+    </edge>
+    <edge source="&quot;COREY MOSS&quot;" target="&quot;MTV&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Corey Moss has written an article about adult contemporary music on MTV's website."</data>
+      <data key="d5">dc08e12f69f947e9e879ac541c29f2e3</data>
+    </edge>
+    <edge source="&quot;AC CHARTS&quot;" target="&quot;ADRIAN MOREIRA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Adrian Moreira comments on the changes in AC charts, specifically the trend of pop songs having lengthy runs."</data>
+      <data key="d5">dc08e12f69f947e9e879ac541c29f2e3</data>
+    </edge>
+    <edge source="&quot;WBRT&quot;" target="&quot;WOKH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"WOKH is owned by WBRT."</data>
+      <data key="d5">738250b2823b925875fdff8fc4cb4e0e</data>
+    </edge>
+    <edge source="&quot;BARDSTOWN RADIO TEAM, LLC.&quot;" target="&quot;WOKH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"WOKH is licensed to Bardstown Radio Team, LLC."</data>
+      <data key="d5">738250b2823b925875fdff8fc4cb4e0e</data>
+    </edge>
+    <edge source="&quot;SPRINGFIELD, KENTUCKY&quot;" target="&quot;WOKH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"WOKH serves Springfield, Kentucky."</data>
+      <data key="d5">738250b2823b925875fdff8fc4cb4e0e</data>
+    </edge>
+    <edge source="&quot;LEBANON, KENTUCKY&quot;" target="&quot;WOKH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"WOKH serves Lebanon, Kentucky."</data>
+      <data key="d5">738250b2823b925875fdff8fc4cb4e0e</data>
+    </edge>
+    <edge source="&quot;BARDSTOWN, KENTUCKY&quot;" target="&quot;WOKH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"WOKH serves Bardstown, Kentucky."</data>
+      <data key="d5">738250b2823b925875fdff8fc4cb4e0e</data>
+    </edge>
+    <edge source="&quot;ELLIOT LAKE&quot;" target="&quot;CKNR-FM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"CKNR-FM broadcasts from Elliot Lake, Ontario."</data>
+      <data key="d5">d7549b5bcf5f9148bc4b05f49b7d6cb5</data>
+    </edge>
+    <edge source="&quot;ELLIOT LAKE&quot;" target="&quot;ONTARIO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Elliot Lake is a location within the province of Ontario."</data>
+      <data key="d5">d7549b5bcf5f9148bc4b05f49b7d6cb5</data>
+    </edge>
+    <edge source="&quot;ADULT AUDIENCE&quot;" target="&quot;AC RADIO STATIONS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"AC radio stations target an adult audience, specifically the 25-44 age group."</data>
+      <data key="d5">68c204b9281c46d6095b6e1232be384a</data>
+    </edge>
+    <edge source="&quot;ADULT AUDIENCE&quot;" target="&quot;ADVERTISERS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Advertisers have been targeting the same demographic as AC radio stations, indicating a shared interest in this age group."</data>
+      <data key="d5">68c204b9281c46d6095b6e1232be384a</data>
+    </edge>
+    <edge source="&quot;CHANNEL 4&quot;" target="&quot;MINIPOPS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Minipops was broadcast on Channel 4."</data>
+      <data key="d5">cbd825634dfd9233b33aa0108eafa250</data>
+    </edge>
+    <edge source="&quot;UNITED KINGDOM&quot;" target="&quot;MINIPOPS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Minipops was broadcast in the United Kingdom."</data>
+      <data key="d5">cbd825634dfd9233b33aa0108eafa250</data>
+    </edge>
+    <edge source="&quot;CLOSER&quot;" target="&quot;JOSH GROBAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Josh Groban released the album Closer in November 2003."</data>
+      <data key="d5">93b671eea29328a0eb50f0974a5cc11a</data>
+    </edge>
+    <edge source="&quot;CLOSER&quot;" target="&quot;NIELSEN SOUNDSCAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"According to Nielsen SoundScan, Closer was the top selling classical album of the 2000s in the US."</data>
+      <data key="d5">93b671eea29328a0eb50f0974a5cc11a</data>
+    </edge>
+    <edge source="&quot;US&quot;" target="&quot;NIELSEN SOUNDSCAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nielsen SoundScan tracks music sales in the US, including those of Josh Groban's album Closer."</data>
+      <data key="d5">93b671eea29328a0eb50f0974a5cc11a</data>
+    </edge>
+  </graph>
+</graphml>

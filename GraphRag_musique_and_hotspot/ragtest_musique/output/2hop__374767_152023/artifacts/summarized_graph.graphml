@@ -1,0 +1,941 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;MINNESOTA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Minnesota is the state where the filming of Jingle All the Way took place."</data>
+      <data key="d2">f189d4dc67db4089fe8c78d6b6937201</data>
+    </node>
+    <node id="&quot;TWIN CITIES METROPOLITAN AREA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Twin Cities metropolitan area is the location where Jingle All the Way was set and filmed."</data>
+      <data key="d2">f189d4dc67db4089fe8c78d6b6937201</data>
+    </node>
+    <node id="&quot;MALL OF AMERICA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Mall of America is a shopping mall in Bloomington, Minnesota, used as a filming location for Jingle All the Way."</data>
+      <data key="d2">f189d4dc67db4089fe8c78d6b6937201</data>
+    </node>
+    <node id="&quot;MICKEY'S DINER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Mickey's Diner is a restaurant in downtown Minneapolis, used as a filming location for Jingle All the Way."</data>
+      <data key="d2">f189d4dc67db4089fe8c78d6b6937201</data>
+    </node>
+    <node id="&quot;SCHWARZENEGGER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Schwarzenegger is an actor involved in the production of Jingle All the Way."</data>
+      <data key="d2">f189d4dc67db4089fe8c78d6b6937201</data>
+    </node>
+    <node id="&quot;LEVANT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Levant is a filmmaker who spent several months in Minnesota preparing for and filming Jingle All the Way."</data>
+      <data key="d2">f189d4dc67db4089fe8c78d6b6937201</data>
+    </node>
+    <node id="&quot;JINGLE ALL THE WAY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f189d4dc67db4089fe8c78d6b6937201</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">09bb3f3133860abe2f05bf7c52a84c41,218b4c241b26c3f2548bfa2e9b7bc414,27caa0361f5da07c57d751359ceaa690,3004f225d7cc7a9ae889cc9914bcc0ea,44e091e9ce740a90162b8d429f800832,5afb59589cbcac7137312ae298fa0459,693223ac20b8a64b8110089a74d4aee7,7eb8c83595860f130e5a1570def352ca,8667cc6ca033c3557af020b45a13bc6a,8a772be42f4ac5e95f1bc44ed91537ac,9783bafbf20cd6b1111747fbcb5b9ecb,9b83425a01a8d6e974c4b44e1ea32f89,9f360a337fc972818d4d675f572ffb0b,b784e1871b04831a88bcef9a548c5520,be3e39fe00eab37aeff2f5be32af69d4,c2ce9140057bbff4d1423ac6eb5d515e,caad14e0038d90c39f54ac9503e539fc,eb70a43f75660cd4ac083129ff0772f9,f189d4dc67db4089fe8c78d6b6937201,f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">09bb3f3133860abe2f05bf7c52a84c41,218b4c241b26c3f2548bfa2e9b7bc414,27caa0361f5da07c57d751359ceaa690,3004f225d7cc7a9ae889cc9914bcc0ea,44e091e9ce740a90162b8d429f800832,5afb59589cbcac7137312ae298fa0459,693223ac20b8a64b8110089a74d4aee7,7eb8c83595860f130e5a1570def352ca,8667cc6ca033c3557af020b45a13bc6a,8a772be42f4ac5e95f1bc44ed91537ac,9783bafbf20cd6b1111747fbcb5b9ecb,9b83425a01a8d6e974c4b44e1ea32f89,9f360a337fc972818d4d675f572ffb0b,b784e1871b04831a88bcef9a548c5520,be3e39fe00eab37aeff2f5be32af69d4,c2ce9140057bbff4d1423ac6eb5d515e,caad14e0038d90c39f54ac9503e539fc,eb70a43f75660cd4ac083129ff0772f9,f189d4dc67db4089fe8c78d6b6937201,f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">09bb3f3133860abe2f05bf7c52a84c41,218b4c241b26c3f2548bfa2e9b7bc414,27caa0361f5da07c57d751359ceaa690,3004f225d7cc7a9ae889cc9914bcc0ea,44e091e9ce740a90162b8d429f800832,5afb59589cbcac7137312ae298fa0459,693223ac20b8a64b8110089a74d4aee7,7eb8c83595860f130e5a1570def352ca,8667cc6ca033c3557af020b45a13bc6a,8a772be42f4ac5e95f1bc44ed91537ac,9783bafbf20cd6b1111747fbcb5b9ecb,9b83425a01a8d6e974c4b44e1ea32f89,9f360a337fc972818d4d675f572ffb0b,b784e1871b04831a88bcef9a548c5520,be3e39fe00eab37aeff2f5be32af69d4,c2ce9140057bbff4d1423ac6eb5d515e,caad14e0038d90c39f54ac9503e539fc,eb70a43f75660cd4ac083129ff0772f9,f189d4dc67db4089fe8c78d6b6937201,f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">09bb3f3133860abe2f05bf7c52a84c41,218b4c241b26c3f2548bfa2e9b7bc414,27caa0361f5da07c57d751359ceaa690,3004f225d7cc7a9ae889cc9914bcc0ea,44e091e9ce740a90162b8d429f800832,5afb59589cbcac7137312ae298fa0459,693223ac20b8a64b8110089a74d4aee7,7eb8c83595860f130e5a1570def352ca,8667cc6ca033c3557af020b45a13bc6a,8a772be42f4ac5e95f1bc44ed91537ac,9783bafbf20cd6b1111747fbcb5b9ecb,9b83425a01a8d6e974c4b44e1ea32f89,9f360a337fc972818d4d675f572ffb0b,b784e1871b04831a88bcef9a548c5520,be3e39fe00eab37aeff2f5be32af69d4,c2ce9140057bbff4d1423ac6eb5d515e,caad14e0038d90c39f54ac9503e539fc,eb70a43f75660cd4ac083129ff0772f9,f189d4dc67db4089fe8c78d6b6937201,f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country where Tucson, Pima County, and Arizona are located. Additionally, it is a country with a rich cultural heritage, where The Canadian Grenadier Guards Band has appeared on numerous radio broadcasts. Furthermore, the United States is home to one of its most famous folk songs, "This Land Is Your Land".</data>
+      <data key="d2">09bb3f3133860abe2f05bf7c52a84c41,218b4c241b26c3f2548bfa2e9b7bc414,27caa0361f5da07c57d751359ceaa690,3004f225d7cc7a9ae889cc9914bcc0ea,44e091e9ce740a90162b8d429f800832,5afb59589cbcac7137312ae298fa0459,693223ac20b8a64b8110089a74d4aee7,7eb8c83595860f130e5a1570def352ca,8667cc6ca033c3557af020b45a13bc6a,8a772be42f4ac5e95f1bc44ed91537ac,9783bafbf20cd6b1111747fbcb5b9ecb,9b83425a01a8d6e974c4b44e1ea32f89,9f360a337fc972818d4d675f572ffb0b,b784e1871b04831a88bcef9a548c5520,be3e39fe00eab37aeff2f5be32af69d4,c2ce9140057bbff4d1423ac6eb5d515e,caad14e0038d90c39f54ac9503e539fc,eb70a43f75660cd4ac083129ff0772f9,f189d4dc67db4089fe8c78d6b6937201,f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">09bb3f3133860abe2f05bf7c52a84c41,218b4c241b26c3f2548bfa2e9b7bc414,27caa0361f5da07c57d751359ceaa690,3004f225d7cc7a9ae889cc9914bcc0ea,44e091e9ce740a90162b8d429f800832,5afb59589cbcac7137312ae298fa0459,693223ac20b8a64b8110089a74d4aee7,7eb8c83595860f130e5a1570def352ca,8667cc6ca033c3557af020b45a13bc6a,8a772be42f4ac5e95f1bc44ed91537ac,9783bafbf20cd6b1111747fbcb5b9ecb,9b83425a01a8d6e974c4b44e1ea32f89,9f360a337fc972818d4d675f572ffb0b,b784e1871b04831a88bcef9a548c5520,be3e39fe00eab37aeff2f5be32af69d4,c2ce9140057bbff4d1423ac6eb5d515e,caad14e0038d90c39f54ac9503e539fc,eb70a43f75660cd4ac083129ff0772f9,f189d4dc67db4089fe8c78d6b6937201,f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">09bb3f3133860abe2f05bf7c52a84c41,218b4c241b26c3f2548bfa2e9b7bc414,27caa0361f5da07c57d751359ceaa690,3004f225d7cc7a9ae889cc9914bcc0ea,44e091e9ce740a90162b8d429f800832,5afb59589cbcac7137312ae298fa0459,693223ac20b8a64b8110089a74d4aee7,7eb8c83595860f130e5a1570def352ca,8667cc6ca033c3557af020b45a13bc6a,8a772be42f4ac5e95f1bc44ed91537ac,9783bafbf20cd6b1111747fbcb5b9ecb,9b83425a01a8d6e974c4b44e1ea32f89,9f360a337fc972818d4d675f572ffb0b,b784e1871b04831a88bcef9a548c5520,be3e39fe00eab37aeff2f5be32af69d4,c2ce9140057bbff4d1423ac6eb5d515e,caad14e0038d90c39f54ac9503e539fc,eb70a43f75660cd4ac083129ff0772f9,f189d4dc67db4089fe8c78d6b6937201,f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">09bb3f3133860abe2f05bf7c52a84c41,218b4c241b26c3f2548bfa2e9b7bc414,27caa0361f5da07c57d751359ceaa690,3004f225d7cc7a9ae889cc9914bcc0ea,44e091e9ce740a90162b8d429f800832,5afb59589cbcac7137312ae298fa0459,693223ac20b8a64b8110089a74d4aee7,7eb8c83595860f130e5a1570def352ca,8667cc6ca033c3557af020b45a13bc6a,8a772be42f4ac5e95f1bc44ed91537ac,9783bafbf20cd6b1111747fbcb5b9ecb,9b83425a01a8d6e974c4b44e1ea32f89,9f360a337fc972818d4d675f572ffb0b,b784e1871b04831a88bcef9a548c5520,be3e39fe00eab37aeff2f5be32af69d4,c2ce9140057bbff4d1423ac6eb5d515e,caad14e0038d90c39f54ac9503e539fc,eb70a43f75660cd4ac083129ff0772f9,f189d4dc67db4089fe8c78d6b6937201,f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">09bb3f3133860abe2f05bf7c52a84c41,218b4c241b26c3f2548bfa2e9b7bc414,27caa0361f5da07c57d751359ceaa690,3004f225d7cc7a9ae889cc9914bcc0ea,44e091e9ce740a90162b8d429f800832,5afb59589cbcac7137312ae298fa0459,693223ac20b8a64b8110089a74d4aee7,7eb8c83595860f130e5a1570def352ca,8667cc6ca033c3557af020b45a13bc6a,8a772be42f4ac5e95f1bc44ed91537ac,9783bafbf20cd6b1111747fbcb5b9ecb,9b83425a01a8d6e974c4b44e1ea32f89,9f360a337fc972818d4d675f572ffb0b,b784e1871b04831a88bcef9a548c5520,be3e39fe00eab37aeff2f5be32af69d4,c2ce9140057bbff4d1423ac6eb5d515e,caad14e0038d90c39f54ac9503e539fc,eb70a43f75660cd4ac083129ff0772f9,f189d4dc67db4089fe8c78d6b6937201,f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">09bb3f3133860abe2f05bf7c52a84c41,218b4c241b26c3f2548bfa2e9b7bc414,27caa0361f5da07c57d751359ceaa690,3004f225d7cc7a9ae889cc9914bcc0ea,44e091e9ce740a90162b8d429f800832,5afb59589cbcac7137312ae298fa0459,693223ac20b8a64b8110089a74d4aee7,7eb8c83595860f130e5a1570def352ca,8667cc6ca033c3557af020b45a13bc6a,8a772be42f4ac5e95f1bc44ed91537ac,9783bafbf20cd6b1111747fbcb5b9ecb,9b83425a01a8d6e974c4b44e1ea32f89,9f360a337fc972818d4d675f572ffb0b,b784e1871b04831a88bcef9a548c5520,be3e39fe00eab37aeff2f5be32af69d4,c2ce9140057bbff4d1423ac6eb5d515e,caad14e0038d90c39f54ac9503e539fc,eb70a43f75660cd4ac083129ff0772f9,f189d4dc67db4089fe8c78d6b6937201,f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </node>
+    <node id="&quot;ART ENSEMBLE OF CHICAGO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Art Ensemble of Chicago is a music group that recorded the album Reese and the Smooth Ones.</data>
+      <data key="d2">09bb3f3133860abe2f05bf7c52a84c41,8a772be42f4ac5e95f1bc44ed91537ac</data>
+    </node>
+    <node id="&quot;LESTER BOWIE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Lester Bowie is a musician who performed on multiple albums, including "Coming Home Jamaica" by the Art Ensemble of Chicago and "Reese and the Smooth Ones".</data>
+      <data key="d2">09bb3f3133860abe2f05bf7c52a84c41,8a772be42f4ac5e95f1bc44ed91537ac</data>
+    </node>
+    <node id="&quot;JOSEPH JARMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Joseph Jarman is a musician who performed on the album Reese and the Smooth Ones."</data>
+      <data key="d2">8a772be42f4ac5e95f1bc44ed91537ac</data>
+    </node>
+    <node id="&quot;ROSCOE MITCHELL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Roscoe Mitchell is a musician who has performed on multiple albums, including "Coming Home Jamaica" by the Art Ensemble of Chicago and "Reese and the Smooth Ones".</data>
+      <data key="d2">09bb3f3133860abe2f05bf7c52a84c41,8a772be42f4ac5e95f1bc44ed91537ac</data>
+    </node>
+    <node id="&quot;MALACHI FAVORS MAGHOSTUT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Malachi Favors Maghostut is a musician who performed on multiple albums, including "Coming Home Jamaica" by the Art Ensemble of Chicago and "Reese and the Smooth Ones".</data>
+      <data key="d2">09bb3f3133860abe2f05bf7c52a84c41,8a772be42f4ac5e95f1bc44ed91537ac</data>
+    </node>
+    <node id="&quot;PARIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Paris is the location where the album Reese and the Smooth Ones was recorded."</data>
+      <data key="d2">8a772be42f4ac5e95f1bc44ed91537ac</data>
+    </node>
+    <node id="&quot;BYG ACTUEL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"BYG Actuel is a French record label that released the album Reese and the Smooth Ones."</data>
+      <data key="d2">8a772be42f4ac5e95f1bc44ed91537ac</data>
+    </node>
+    <node id="&quot;REESE AND THE SMOOTH ONES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8a772be42f4ac5e95f1bc44ed91537ac</data>
+    </node>
+    <node id="&quot;HEART &amp; SOUL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Heart &amp; Soul is the nineteenth studio album by Joe Cocker, released in 2004 and 2005."</data>
+      <data key="d2">b784e1871b04831a88bcef9a548c5520</data>
+    </node>
+    <node id="&quot;U2&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"U2 is a band whose song 'One' was covered by Joe Cocker on his album Heart &amp; Soul."</data>
+      <data key="d2">b784e1871b04831a88bcef9a548c5520</data>
+    </node>
+    <node id="&quot;ANTWERP&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Antwerp is a location in Belgium where Joe Cocker performed at the Night of the Proms in 2004."</data>
+      <data key="d2">b784e1871b04831a88bcef9a548c5520</data>
+    </node>
+    <node id="&quot;BELGIUM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Belgium is a country where Joe Cocker performed at the Night of the Proms in Antwerp."</data>
+      <data key="d2">b784e1871b04831a88bcef9a548c5520</data>
+    </node>
+    <node id="&quot;JOE COCKER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b784e1871b04831a88bcef9a548c5520</data>
+    </node>
+    <node id="&quot;ONE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b784e1871b04831a88bcef9a548c5520</data>
+    </node>
+    <node id="&quot;KICKING MULE RECORDS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Kicking Mule Records is a record label that released Charlie Musselwhite's album 'The Harmonica According to Charlie Musselwhite' in 1979."</data>
+      <data key="d2">be3e39fe00eab37aeff2f5be32af69d4</data>
+    </node>
+    <node id="&quot;BLIND PIG RECORDS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Blind Pig Records is a record label that reissued Charlie Musselwhite's album on 180-gram vinyl with new cover art in June 2008."</data>
+      <data key="d2">be3e39fe00eab37aeff2f5be32af69d4</data>
+    </node>
+    <node id="&quot;LONDON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"London is the location where Charlie Musselwhite recorded his album 'The Harmonica According to Charlie Musselwhite' in 1979."</data>
+      <data key="d2">be3e39fe00eab37aeff2f5be32af69d4</data>
+    </node>
+    <node id="&quot;THE HARMONICA ACCORDING TO CHARLIE MUSSELWHITE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Harmonica According to Charlie Musselwhite is an album recorded by Charlie Musselwhite, initially intended to accompany an instructional book."</data>
+      <data key="d2">be3e39fe00eab37aeff2f5be32af69d4</data>
+    </node>
+    <node id="&quot;CHARLIE MUSSELWHITE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">218b4c241b26c3f2548bfa2e9b7bc414,be3e39fe00eab37aeff2f5be32af69d4</data>
+    </node>
+    <node id="&quot;TELARC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Telarc is a record label that released Charlie Musselwhite's album One Night in America."</data>
+      <data key="d2">218b4c241b26c3f2548bfa2e9b7bc414</data>
+    </node>
+    <node id="&quot;ONE NIGHT IN AMERICA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"One Night in America is the twenty-first studio album by Charlie Musselwhite, released in February 2002."</data>
+      <data key="d2">218b4c241b26c3f2548bfa2e9b7bc414</data>
+    </node>
+    <node id="&quot;HOYT AXTON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hoyt Axton is the songwriter of the song 'Joy to the World'."</data>
+      <data key="d2">8667cc6ca033c3557af020b45a13bc6a</data>
+    </node>
+    <node id="&quot;RICHARD PODOLOR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Richard Podolor is the producer of the song 'Joy to the World' by Three Dog Night."</data>
+      <data key="d2">8667cc6ca033c3557af020b45a13bc6a</data>
+    </node>
+    <node id="&quot;AMERICAN RECORDING CO.&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"American Recording Co. is a recording studio where the song 'Joy to the World' was recorded in 1970."</data>
+      <data key="d2">8667cc6ca033c3557af020b45a13bc6a</data>
+    </node>
+    <node id="&quot;DUNHILL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Dunhill is the record label that released the single 'Joy to the World' by Three Dog Night."</data>
+      <data key="d2">8667cc6ca033c3557af020b45a13bc6a</data>
+    </node>
+    <node id="&quot;JOY TO THE WORLD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Joy to the World is a music single released by Three Dog Night in 1971."</data>
+      <data key="d2">8667cc6ca033c3557af020b45a13bc6a</data>
+    </node>
+    <node id="&quot;TOYOTA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Toyota is a company that owns TRD, Lexus, and formerly Scion."</data>
+      <data key="d2">27caa0361f5da07c57d751359ceaa690</data>
+    </node>
+    <node id="&quot;LEXUS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Lexus is a luxury vehicle brand owned by Toyota, with its own performance division labeled as F-Sport."</data>
+      <data key="d2">27caa0361f5da07c57d751359ceaa690</data>
+    </node>
+    <node id="&quot;SCION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Scion was a car brand formerly owned by Toyota, now discontinued."</data>
+      <data key="d2">27caa0361f5da07c57d751359ceaa690</data>
+    </node>
+    <node id="&quot;TOYOTA RACING DEVELOPMENT (TRD)&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">27caa0361f5da07c57d751359ceaa690</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Canada is the country where The Canadian Grenadier Guards Band was based and performed."</data>
+      <data key="d2">caad14e0038d90c39f54ac9503e539fc</data>
+    </node>
+    <node id="&quot;THE CANADIAN GRENADIER GUARDS BAND&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">caad14e0038d90c39f54ac9503e539fc</data>
+    </node>
+    <node id="&quot;DON MOYE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Don Moye is a musician who performed on the album Coming Home Jamaica by the Art Ensemble of Chicago."</data>
+      <data key="d2">09bb3f3133860abe2f05bf7c52a84c41</data>
+    </node>
+    <node id="&quot;BAHNAMOUS LEE BOWIE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bahnamous Lee Bowie is a musician who guested on one track of the album Coming Home Jamaica by the Art Ensemble of Chicago."</data>
+      <data key="d2">09bb3f3133860abe2f05bf7c52a84c41</data>
+    </node>
+    <node id="&quot;ATLANTIC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Atlantic is a record label that originally released the album Coming Home Jamaica by the Art Ensemble of Chicago, and also released Ahmad Jamal's album Crystal.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">09bb3f3133860abe2f05bf7c52a84c41,9f360a337fc972818d4d675f572ffb0b</data>
+    </node>
+    <node id="&quot;DREYFUS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Dreyfus is a record label that reissued the album Coming Home Jamaica by the Art Ensemble of Chicago in 2002."</data>
+      <data key="d2">09bb3f3133860abe2f05bf7c52a84c41</data>
+    </node>
+    <node id="&quot;COMING HOME JAMAICA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">09bb3f3133860abe2f05bf7c52a84c41</data>
+    </node>
+    <node id="&quot;DON HENLEY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Don Henley is a member of the Eagles and co-writer of the song, who assisted in completing it."</data>
+      <data key="d2">f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </node>
+    <node id="&quot;GLENN FREY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Glenn Frey is a member of the Eagles and co-writer of the song, who assisted in completing it."</data>
+      <data key="d2">f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </node>
+    <node id="&quot;EAGLES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Eagles are a band that recorded the One of These Nights album, featuring the song written by its members."</data>
+      <data key="d2">f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </node>
+    <node id="&quot;ONE OF THESE NIGHTS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"One of These Nights is an album by the Eagles, on which the song was recorded."</data>
+      <data key="d2">f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </node>
+    <node id="&quot;RANDY MEISNER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </node>
+    <node id="&quot;OLD CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Old City is an area with a vibrant night life."</data>
+      <data key="d2">c2ce9140057bbff4d1423ac6eb5d515e</data>
+    </node>
+    <node id="&quot;CENTER CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Center City contains many restaurants and theaters, including the Avenue of the Arts."</data>
+      <data key="d2">c2ce9140057bbff4d1423ac6eb5d515e</data>
+    </node>
+    <node id="&quot;AVENUE OF THE ARTS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Avenue of the Arts is a location in Center City with many restaurants and theaters."</data>
+      <data key="d2">c2ce9140057bbff4d1423ac6eb5d515e</data>
+    </node>
+    <node id="&quot;KIMMEL CENTER FOR THE PERFORMING ARTS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Kimmel Center for the Performing Arts is home to the Philadelphia Orchestra, one of the top five orchestras in the United States."</data>
+      <data key="d2">c2ce9140057bbff4d1423ac6eb5d515e</data>
+    </node>
+    <node id="&quot;PHILADELPHIA ORCHESTRA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Philadelphia Orchestra is one of the top five orchestras in the United States and is based at the Kimmel Center for the Performing Arts."</data>
+      <data key="d2">c2ce9140057bbff4d1423ac6eb5d515e</data>
+    </node>
+    <node id="&quot;ACADEMY OF MUSIC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Academy of Music is the nation's oldest continually operating opera house, home to the Opera Company of Philadelphia and the Pennsylvania Ballet."</data>
+      <data key="d2">c2ce9140057bbff4d1423ac6eb5d515e</data>
+    </node>
+    <node id="&quot;OPERA COMPANY OF PHILADELPHIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Opera Company of Philadelphia is based at the Academy of Music."</data>
+      <data key="d2">c2ce9140057bbff4d1423ac6eb5d515e</data>
+    </node>
+    <node id="&quot;PENNSYLVANIA BALLET&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Pennsylvania Ballet is based at the Academy of Music."</data>
+      <data key="d2">c2ce9140057bbff4d1423ac6eb5d515e</data>
+    </node>
+    <node id="&quot;WILMA THEATRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Wilma Theatre produces a variety of new works and has a new building on the Avenue of the Arts."</data>
+      <data key="d2">c2ce9140057bbff4d1423ac6eb5d515e</data>
+    </node>
+    <node id="&quot;PHILADELPHIA THEATRE COMPANY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Philadelphia Theatre Company produces a variety of new works and has a new building on the Avenue of the Arts."</data>
+      <data key="d2">c2ce9140057bbff4d1423ac6eb5d515e</data>
+    </node>
+    <node id="&quot;WALNUT STREET THEATRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Walnut Street Theatre is America's oldest theatre and the largest subscription theater in the world."</data>
+      <data key="d2">c2ce9140057bbff4d1423ac6eb5d515e</data>
+    </node>
+    <node id="&quot;LANTERN THEATRE AT ST. STEPHENS CHURCH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Lantern Theatre at St. Stephens Church is one of a number of smaller venues."</data>
+      <data key="d2">c2ce9140057bbff4d1423ac6eb5d515e</data>
+    </node>
+    <node id="&quot;SOUTH STREET&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c2ce9140057bbff4d1423ac6eb5d515e</data>
+    </node>
+    <node id="&quot;KEN WARWICK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ken Warwick is a person who is the producer of a TV show and wanted to disqualify Crystal Bowersox."</data>
+      <data key="d2">9783bafbf20cd6b1111747fbcb5b9ecb</data>
+    </node>
+    <node id="&quot;TV SHOW&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The TV show is an organization that hosts a competition where contestants perform, including Crystal Bowersox."</data>
+      <data key="d2">9783bafbf20cd6b1111747fbcb5b9ecb</data>
+    </node>
+    <node id="&quot;PERFORMANCE NIGHT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Performance Night is an event where contestants on the TV show perform, including Crystal Bowersox."</data>
+      <data key="d2">9783bafbf20cd6b1111747fbcb5b9ecb</data>
+    </node>
+    <node id="&quot;CRYSTAL BOWERSOX&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9783bafbf20cd6b1111747fbcb5b9ecb</data>
+    </node>
+    <node id="&quot;BRITAIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Britain is a location where Susannah Harrison's poetry collection was published and widely read."</data>
+      <data key="d2">693223ac20b8a64b8110089a74d4aee7</data>
+    </node>
+    <node id="&quot;AMERICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"America is a location where Susannah Harrison's poetry collection was published and widely read."</data>
+      <data key="d2">693223ac20b8a64b8110089a74d4aee7</data>
+    </node>
+    <node id="&quot;SONGS IN THE NIGHT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Songs in the Night is a collection of poems written by Susannah Harrison, which went through at least twenty-one editions."</data>
+      <data key="d2">693223ac20b8a64b8110089a74d4aee7</data>
+    </node>
+    <node id="&quot;SUSANNAH HARRISON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">693223ac20b8a64b8110089a74d4aee7</data>
+    </node>
+    <node id="&quot;JAMIE SCOTT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jamie Scott is a songwriter credited for the song 'More than This'."</data>
+      <data key="d2">5afb59589cbcac7137312ae298fa0459</data>
+    </node>
+    <node id="&quot;BRIAN RAWLING&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Brian Rawling is a producer involved in the creation of the song 'More than This'."</data>
+      <data key="d2">5afb59589cbcac7137312ae298fa0459</data>
+    </node>
+    <node id="&quot;PAUL MEEHAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Paul Meehan is a producer involved in the creation of the song 'More than This'."</data>
+      <data key="d2">5afb59589cbcac7137312ae298fa0459</data>
+    </node>
+    <node id="&quot;SYCO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Syco is the record label that released the single 'More than This' by One Direction."</data>
+      <data key="d2">5afb59589cbcac7137312ae298fa0459</data>
+    </node>
+    <node id="&quot;UP ALL NIGHT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Up All Night is an album by One Direction, which includes the single 'More than This'."</data>
+      <data key="d2">5afb59589cbcac7137312ae298fa0459</data>
+    </node>
+    <node id="&quot;ONE DIRECTION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5afb59589cbcac7137312ae298fa0459</data>
+    </node>
+    <node id="&quot;ONE LONG YEAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"One Long Year is Todd Rundgren's seventeenth album, released in 2000."</data>
+      <data key="d2">44e091e9ce740a90162b8d429f800832</data>
+    </node>
+    <node id="&quot;PATRONET&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Patronet is an online facility where Todd Rundgren initially released recordings to subscribers."</data>
+      <data key="d2">44e091e9ce740a90162b8d429f800832</data>
+    </node>
+    <node id="&quot;LATE NIGHT WITH CONAN O'BRIEN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Late Night with Conan O'Brien is a TV show where Todd Rundgren performed to promote his album One Long Year."</data>
+      <data key="d2">44e091e9ce740a90162b8d429f800832</data>
+    </node>
+    <node id="&quot;TODD RUNDGREN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">44e091e9ce740a90162b8d429f800832</data>
+    </node>
+    <node id="&quot;CRYSTAL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Crystal is an album by Ahmad Jamal, featuring performances recorded in 1987 and released on the Atlantic label."</data>
+      <data key="d2">9f360a337fc972818d4d675f572ffb0b</data>
+    </node>
+    <node id="&quot;AHMAD JAMAL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9f360a337fc972818d4d675f572ffb0b</data>
+    </node>
+    <node id="&quot;IMPULSE!&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+IMPULSE! is a record label that released Marion Brown's debut album Three for Shepp in 1966, as well as the album Tijuana Jazz.</data>
+      <data key="d2">9b83425a01a8d6e974c4b44e1ea32f89,eb70a43f75660cd4ac083129ff0772f9</data>
+    </node>
+    <node id="&quot;THREE FOR SHEPP&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Three for Shepp is the debut album by Marion Brown, recorded and released in 1966."</data>
+      <data key="d2">9b83425a01a8d6e974c4b44e1ea32f89</data>
+    </node>
+    <node id="&quot;MARION BROWN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9b83425a01a8d6e974c4b44e1ea32f89</data>
+    </node>
+    <node id="&quot;DEWEY REDMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dewey Redman is an American jazz saxophonist who recorded the album Soundsigns."</data>
+      <data key="d2">7eb8c83595860f130e5a1570def352ca</data>
+    </node>
+    <node id="&quot;GALAXY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Galaxy is a record label that released Dewey Redman's album Soundsigns in 1978."</data>
+      <data key="d2">7eb8c83595860f130e5a1570def352ca</data>
+    </node>
+    <node id="&quot;SOUNDSIGNS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7eb8c83595860f130e5a1570def352ca</data>
+    </node>
+    <node id="&quot;KATE SMITH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kate Smith is a radio personality whose singing of 'God Bless America' inspired Woody Guthrie to write 'This Land Is Your Land'."</data>
+      <data key="d2">3004f225d7cc7a9ae889cc9914bcc0ea</data>
+    </node>
+    <node id="&quot;IRVING BERLIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Irving Berlin is the composer of 'God Bless America', which inspired Woody Guthrie's critical response."</data>
+      <data key="d2">3004f225d7cc7a9ae889cc9914bcc0ea</data>
+    </node>
+    <node id="&quot;CARTER FAMILY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Carter Family is a musical group whose tune 'When the World's on Fire' was used as the basis for 'This Land Is Your Land'."</data>
+      <data key="d2">3004f225d7cc7a9ae889cc9914bcc0ea</data>
+    </node>
+    <node id="&quot;THIS LAND IS YOUR LAND&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"'This Land Is Your Land' is a famous folk song written by Woody Guthrie in 1940 as a critical response to 'God Bless America'."</data>
+      <data key="d2">3004f225d7cc7a9ae889cc9914bcc0ea</data>
+    </node>
+    <node id="&quot;WOODY GUTHRIE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3004f225d7cc7a9ae889cc9914bcc0ea</data>
+    </node>
+    <node id="&quot;CLARK TERRY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Clark Terry is a trumpeter who recorded an album with Gary McFarland."</data>
+      <data key="d2">eb70a43f75660cd4ac083129ff0772f9</data>
+    </node>
+    <node id="&quot;HMV&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"HMV is a record label that released the album Tijuana Jazz in the UK."</data>
+      <data key="d2">eb70a43f75660cd4ac083129ff0772f9</data>
+    </node>
+    <node id="&quot;TIJUANA JAZZ&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Tijuana Jazz is an album recorded by Gary McFarland and Clark Terry in 1965."</data>
+      <data key="d2">eb70a43f75660cd4ac083129ff0772f9</data>
+    </node>
+    <node id="&quot;GARY MCFARLAND&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">eb70a43f75660cd4ac083129ff0772f9</data>
+    </node>
+    <edge source="&quot;MINNESOTA&quot;" target="&quot;JINGLE ALL THE WAY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jingle All the Way was filmed in Minnesota."</data>
+      <data key="d5">f189d4dc67db4089fe8c78d6b6937201</data>
+    </edge>
+    <edge source="&quot;MALL OF AMERICA&quot;" target="&quot;JINGLE ALL THE WAY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Mall of America was used as a filming location for Jingle All the Way."</data>
+      <data key="d5">f189d4dc67db4089fe8c78d6b6937201</data>
+    </edge>
+    <edge source="&quot;SCHWARZENEGGER&quot;" target="&quot;JINGLE ALL THE WAY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Schwarzenegger is an actor in Jingle All the Way."</data>
+      <data key="d5">f189d4dc67db4089fe8c78d6b6937201</data>
+    </edge>
+    <edge source="&quot;LEVANT&quot;" target="&quot;JINGLE ALL THE WAY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Levant is the filmmaker behind Jingle All the Way."</data>
+      <data key="d5">f189d4dc67db4089fe8c78d6b6937201</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">09bb3f3133860abe2f05bf7c52a84c41,218b4c241b26c3f2548bfa2e9b7bc414,27caa0361f5da07c57d751359ceaa690,3004f225d7cc7a9ae889cc9914bcc0ea,44e091e9ce740a90162b8d429f800832,5afb59589cbcac7137312ae298fa0459,693223ac20b8a64b8110089a74d4aee7,7eb8c83595860f130e5a1570def352ca,8667cc6ca033c3557af020b45a13bc6a,8a772be42f4ac5e95f1bc44ed91537ac,9783bafbf20cd6b1111747fbcb5b9ecb,9b83425a01a8d6e974c4b44e1ea32f89,9f360a337fc972818d4d675f572ffb0b,b784e1871b04831a88bcef9a548c5520,be3e39fe00eab37aeff2f5be32af69d4,c2ce9140057bbff4d1423ac6eb5d515e,caad14e0038d90c39f54ac9503e539fc,eb70a43f75660cd4ac083129ff0772f9,f189d4dc67db4089fe8c78d6b6937201,f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">09bb3f3133860abe2f05bf7c52a84c41,218b4c241b26c3f2548bfa2e9b7bc414,27caa0361f5da07c57d751359ceaa690,3004f225d7cc7a9ae889cc9914bcc0ea,44e091e9ce740a90162b8d429f800832,5afb59589cbcac7137312ae298fa0459,693223ac20b8a64b8110089a74d4aee7,7eb8c83595860f130e5a1570def352ca,8667cc6ca033c3557af020b45a13bc6a,8a772be42f4ac5e95f1bc44ed91537ac,9783bafbf20cd6b1111747fbcb5b9ecb,9b83425a01a8d6e974c4b44e1ea32f89,9f360a337fc972818d4d675f572ffb0b,b784e1871b04831a88bcef9a548c5520,be3e39fe00eab37aeff2f5be32af69d4,c2ce9140057bbff4d1423ac6eb5d515e,caad14e0038d90c39f54ac9503e539fc,eb70a43f75660cd4ac083129ff0772f9,f189d4dc67db4089fe8c78d6b6937201,f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">09bb3f3133860abe2f05bf7c52a84c41,218b4c241b26c3f2548bfa2e9b7bc414,27caa0361f5da07c57d751359ceaa690,3004f225d7cc7a9ae889cc9914bcc0ea,44e091e9ce740a90162b8d429f800832,5afb59589cbcac7137312ae298fa0459,693223ac20b8a64b8110089a74d4aee7,7eb8c83595860f130e5a1570def352ca,8667cc6ca033c3557af020b45a13bc6a,8a772be42f4ac5e95f1bc44ed91537ac,9783bafbf20cd6b1111747fbcb5b9ecb,9b83425a01a8d6e974c4b44e1ea32f89,9f360a337fc972818d4d675f572ffb0b,b784e1871b04831a88bcef9a548c5520,be3e39fe00eab37aeff2f5be32af69d4,c2ce9140057bbff4d1423ac6eb5d515e,caad14e0038d90c39f54ac9503e539fc,eb70a43f75660cd4ac083129ff0772f9,f189d4dc67db4089fe8c78d6b6937201,f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">09bb3f3133860abe2f05bf7c52a84c41,218b4c241b26c3f2548bfa2e9b7bc414,27caa0361f5da07c57d751359ceaa690,3004f225d7cc7a9ae889cc9914bcc0ea,44e091e9ce740a90162b8d429f800832,5afb59589cbcac7137312ae298fa0459,693223ac20b8a64b8110089a74d4aee7,7eb8c83595860f130e5a1570def352ca,8667cc6ca033c3557af020b45a13bc6a,8a772be42f4ac5e95f1bc44ed91537ac,9783bafbf20cd6b1111747fbcb5b9ecb,9b83425a01a8d6e974c4b44e1ea32f89,9f360a337fc972818d4d675f572ffb0b,b784e1871b04831a88bcef9a548c5520,be3e39fe00eab37aeff2f5be32af69d4,c2ce9140057bbff4d1423ac6eb5d515e,caad14e0038d90c39f54ac9503e539fc,eb70a43f75660cd4ac083129ff0772f9,f189d4dc67db4089fe8c78d6b6937201,f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">09bb3f3133860abe2f05bf7c52a84c41,218b4c241b26c3f2548bfa2e9b7bc414,27caa0361f5da07c57d751359ceaa690,3004f225d7cc7a9ae889cc9914bcc0ea,44e091e9ce740a90162b8d429f800832,5afb59589cbcac7137312ae298fa0459,693223ac20b8a64b8110089a74d4aee7,7eb8c83595860f130e5a1570def352ca,8667cc6ca033c3557af020b45a13bc6a,8a772be42f4ac5e95f1bc44ed91537ac,9783bafbf20cd6b1111747fbcb5b9ecb,9b83425a01a8d6e974c4b44e1ea32f89,9f360a337fc972818d4d675f572ffb0b,b784e1871b04831a88bcef9a548c5520,be3e39fe00eab37aeff2f5be32af69d4,c2ce9140057bbff4d1423ac6eb5d515e,caad14e0038d90c39f54ac9503e539fc,eb70a43f75660cd4ac083129ff0772f9,f189d4dc67db4089fe8c78d6b6937201,f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">09bb3f3133860abe2f05bf7c52a84c41,218b4c241b26c3f2548bfa2e9b7bc414,27caa0361f5da07c57d751359ceaa690,3004f225d7cc7a9ae889cc9914bcc0ea,44e091e9ce740a90162b8d429f800832,5afb59589cbcac7137312ae298fa0459,693223ac20b8a64b8110089a74d4aee7,7eb8c83595860f130e5a1570def352ca,8667cc6ca033c3557af020b45a13bc6a,8a772be42f4ac5e95f1bc44ed91537ac,9783bafbf20cd6b1111747fbcb5b9ecb,9b83425a01a8d6e974c4b44e1ea32f89,9f360a337fc972818d4d675f572ffb0b,b784e1871b04831a88bcef9a548c5520,be3e39fe00eab37aeff2f5be32af69d4,c2ce9140057bbff4d1423ac6eb5d515e,caad14e0038d90c39f54ac9503e539fc,eb70a43f75660cd4ac083129ff0772f9,f189d4dc67db4089fe8c78d6b6937201,f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;THE CANADIAN GRENADIER GUARDS BAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Canadian Grenadier Guards Band appeared on numerous radio broadcasts in the United States."</data>
+      <data key="d5">caad14e0038d90c39f54ac9503e539fc</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">09bb3f3133860abe2f05bf7c52a84c41,218b4c241b26c3f2548bfa2e9b7bc414,27caa0361f5da07c57d751359ceaa690,3004f225d7cc7a9ae889cc9914bcc0ea,44e091e9ce740a90162b8d429f800832,5afb59589cbcac7137312ae298fa0459,693223ac20b8a64b8110089a74d4aee7,7eb8c83595860f130e5a1570def352ca,8667cc6ca033c3557af020b45a13bc6a,8a772be42f4ac5e95f1bc44ed91537ac,9783bafbf20cd6b1111747fbcb5b9ecb,9b83425a01a8d6e974c4b44e1ea32f89,9f360a337fc972818d4d675f572ffb0b,b784e1871b04831a88bcef9a548c5520,be3e39fe00eab37aeff2f5be32af69d4,c2ce9140057bbff4d1423ac6eb5d515e,caad14e0038d90c39f54ac9503e539fc,eb70a43f75660cd4ac083129ff0772f9,f189d4dc67db4089fe8c78d6b6937201,f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">09bb3f3133860abe2f05bf7c52a84c41,218b4c241b26c3f2548bfa2e9b7bc414,27caa0361f5da07c57d751359ceaa690,3004f225d7cc7a9ae889cc9914bcc0ea,44e091e9ce740a90162b8d429f800832,5afb59589cbcac7137312ae298fa0459,693223ac20b8a64b8110089a74d4aee7,7eb8c83595860f130e5a1570def352ca,8667cc6ca033c3557af020b45a13bc6a,8a772be42f4ac5e95f1bc44ed91537ac,9783bafbf20cd6b1111747fbcb5b9ecb,9b83425a01a8d6e974c4b44e1ea32f89,9f360a337fc972818d4d675f572ffb0b,b784e1871b04831a88bcef9a548c5520,be3e39fe00eab37aeff2f5be32af69d4,c2ce9140057bbff4d1423ac6eb5d515e,caad14e0038d90c39f54ac9503e539fc,eb70a43f75660cd4ac083129ff0772f9,f189d4dc67db4089fe8c78d6b6937201,f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">09bb3f3133860abe2f05bf7c52a84c41,218b4c241b26c3f2548bfa2e9b7bc414,27caa0361f5da07c57d751359ceaa690,3004f225d7cc7a9ae889cc9914bcc0ea,44e091e9ce740a90162b8d429f800832,5afb59589cbcac7137312ae298fa0459,693223ac20b8a64b8110089a74d4aee7,7eb8c83595860f130e5a1570def352ca,8667cc6ca033c3557af020b45a13bc6a,8a772be42f4ac5e95f1bc44ed91537ac,9783bafbf20cd6b1111747fbcb5b9ecb,9b83425a01a8d6e974c4b44e1ea32f89,9f360a337fc972818d4d675f572ffb0b,b784e1871b04831a88bcef9a548c5520,be3e39fe00eab37aeff2f5be32af69d4,c2ce9140057bbff4d1423ac6eb5d515e,caad14e0038d90c39f54ac9503e539fc,eb70a43f75660cd4ac083129ff0772f9,f189d4dc67db4089fe8c78d6b6937201,f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </edge>
+    <edge source="&quot;ART ENSEMBLE OF CHICAGO&quot;" target="&quot;REESE AND THE SMOOTH ONES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Art Ensemble of Chicago recorded the album Reese and the Smooth Ones."</data>
+      <data key="d5">8a772be42f4ac5e95f1bc44ed91537ac</data>
+    </edge>
+    <edge source="&quot;ART ENSEMBLE OF CHICAGO&quot;" target="&quot;LESTER BOWIE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lester Bowie is a member of the Art Ensemble of Chicago."</data>
+      <data key="d5">09bb3f3133860abe2f05bf7c52a84c41</data>
+    </edge>
+    <edge source="&quot;ART ENSEMBLE OF CHICAGO&quot;" target="&quot;ROSCOE MITCHELL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Roscoe Mitchell is a member of the Art Ensemble of Chicago."</data>
+      <data key="d5">09bb3f3133860abe2f05bf7c52a84c41</data>
+    </edge>
+    <edge source="&quot;ART ENSEMBLE OF CHICAGO&quot;" target="&quot;MALACHI FAVORS MAGHOSTUT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Malachi Favors Maghostut is a member of the Art Ensemble of Chicago."</data>
+      <data key="d5">09bb3f3133860abe2f05bf7c52a84c41</data>
+    </edge>
+    <edge source="&quot;ART ENSEMBLE OF CHICAGO&quot;" target="&quot;DON MOYE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Don Moye is a member of the Art Ensemble of Chicago."</data>
+      <data key="d5">09bb3f3133860abe2f05bf7c52a84c41</data>
+    </edge>
+    <edge source="&quot;ART ENSEMBLE OF CHICAGO&quot;" target="&quot;BAHNAMOUS LEE BOWIE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bahnamous Lee Bowie guested on one track of an album by the Art Ensemble of Chicago."</data>
+      <data key="d5">09bb3f3133860abe2f05bf7c52a84c41</data>
+    </edge>
+    <edge source="&quot;LESTER BOWIE&quot;" target="&quot;REESE AND THE SMOOTH ONES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lester Bowie performed on the album Reese and the Smooth Ones."</data>
+      <data key="d5">8a772be42f4ac5e95f1bc44ed91537ac</data>
+    </edge>
+    <edge source="&quot;JOSEPH JARMAN&quot;" target="&quot;REESE AND THE SMOOTH ONES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Joseph Jarman performed on the album Reese and the Smooth Ones."</data>
+      <data key="d5">8a772be42f4ac5e95f1bc44ed91537ac</data>
+    </edge>
+    <edge source="&quot;ROSCOE MITCHELL&quot;" target="&quot;REESE AND THE SMOOTH ONES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Roscoe Mitchell performed on the album Reese and the Smooth Ones."</data>
+      <data key="d5">8a772be42f4ac5e95f1bc44ed91537ac</data>
+    </edge>
+    <edge source="&quot;MALACHI FAVORS MAGHOSTUT&quot;" target="&quot;REESE AND THE SMOOTH ONES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Malachi Favors Maghostut performed on the album Reese and the Smooth Ones."</data>
+      <data key="d5">8a772be42f4ac5e95f1bc44ed91537ac</data>
+    </edge>
+    <edge source="&quot;PARIS&quot;" target="&quot;REESE AND THE SMOOTH ONES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The album Reese and the Smooth Ones was recorded in Paris."</data>
+      <data key="d5">8a772be42f4ac5e95f1bc44ed91537ac</data>
+    </edge>
+    <edge source="&quot;BYG ACTUEL&quot;" target="&quot;REESE AND THE SMOOTH ONES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"BYG Actuel released the album Reese and the Smooth Ones."</data>
+      <data key="d5">8a772be42f4ac5e95f1bc44ed91537ac</data>
+    </edge>
+    <edge source="&quot;HEART &amp; SOUL&quot;" target="&quot;JOE COCKER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Joe Cocker released the album Heart &amp; Soul."</data>
+      <data key="d5">b784e1871b04831a88bcef9a548c5520</data>
+    </edge>
+    <edge source="&quot;U2&quot;" target="&quot;ONE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"U2 is the original artist of the song 'One', which was covered by Joe Cocker on his album Heart &amp; Soul."</data>
+      <data key="d5">b784e1871b04831a88bcef9a548c5520</data>
+    </edge>
+    <edge source="&quot;ANTWERP&quot;" target="&quot;JOE COCKER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Joe Cocker performed at the Night of the Proms in Antwerp, Belgium."</data>
+      <data key="d5">b784e1871b04831a88bcef9a548c5520</data>
+    </edge>
+    <edge source="&quot;KICKING MULE RECORDS&quot;" target="&quot;CHARLIE MUSSELWHITE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Charlie Musselwhite's album was released on Kicking Mule Records in 1979."</data>
+      <data key="d5">be3e39fe00eab37aeff2f5be32af69d4</data>
+    </edge>
+    <edge source="&quot;BLIND PIG RECORDS&quot;" target="&quot;CHARLIE MUSSELWHITE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Charlie Musselwhite's album was reissued on Blind Pig Records in June 2008."</data>
+      <data key="d5">be3e39fe00eab37aeff2f5be32af69d4</data>
+    </edge>
+    <edge source="&quot;LONDON&quot;" target="&quot;THE HARMONICA ACCORDING TO CHARLIE MUSSELWHITE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The album 'The Harmonica According to Charlie Musselwhite' was recorded in London."</data>
+      <data key="d5">be3e39fe00eab37aeff2f5be32af69d4</data>
+    </edge>
+    <edge source="&quot;CHARLIE MUSSELWHITE&quot;" target="&quot;TELARC&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Charlie Musselwhite's album One Night in America was released on Telarc record label."</data>
+      <data key="d5">218b4c241b26c3f2548bfa2e9b7bc414</data>
+    </edge>
+    <edge source="&quot;CHARLIE MUSSELWHITE&quot;" target="&quot;ONE NIGHT IN AMERICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"One Night in America is an album by Charlie Musselwhite."</data>
+      <data key="d5">218b4c241b26c3f2548bfa2e9b7bc414</data>
+    </edge>
+    <edge source="&quot;TOYOTA&quot;" target="&quot;TOYOTA RACING DEVELOPMENT (TRD)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"TRD is an in-house tuning shop of Toyota, responsible for improving street cars and supporting racing interests."</data>
+      <data key="d5">27caa0361f5da07c57d751359ceaa690</data>
+    </edge>
+    <edge source="&quot;TOYOTA&quot;" target="&quot;LEXUS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lexus is a luxury vehicle brand owned by Toyota."</data>
+      <data key="d5">27caa0361f5da07c57d751359ceaa690</data>
+    </edge>
+    <edge source="&quot;TOYOTA&quot;" target="&quot;SCION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Scion was a car brand formerly owned by Toyota."</data>
+      <data key="d5">27caa0361f5da07c57d751359ceaa690</data>
+    </edge>
+    <edge source="&quot;CANADA&quot;" target="&quot;THE CANADIAN GRENADIER GUARDS BAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Canadian Grenadier Guards Band was based in Canada and performed throughout North America."</data>
+      <data key="d5">caad14e0038d90c39f54ac9503e539fc</data>
+    </edge>
+    <edge source="&quot;ATLANTIC&quot;" target="&quot;COMING HOME JAMAICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The album Coming Home Jamaica was originally released on the Atlantic label."</data>
+      <data key="d5">09bb3f3133860abe2f05bf7c52a84c41</data>
+    </edge>
+    <edge source="&quot;ATLANTIC&quot;" target="&quot;CRYSTAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Atlantic is the record label that released the album Crystal."</data>
+      <data key="d5">9f360a337fc972818d4d675f572ffb0b</data>
+    </edge>
+    <edge source="&quot;DREYFUS&quot;" target="&quot;COMING HOME JAMAICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The album Coming Home Jamaica was reissued on the Dreyfus label in 2002."</data>
+      <data key="d5">09bb3f3133860abe2f05bf7c52a84c41</data>
+    </edge>
+    <edge source="&quot;DON HENLEY&quot;" target="&quot;EAGLES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Don Henley is a member of the Eagles band."</data>
+      <data key="d5">f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </edge>
+    <edge source="&quot;GLENN FREY&quot;" target="&quot;EAGLES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Glenn Frey is a member of the Eagles band."</data>
+      <data key="d5">f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </edge>
+    <edge source="&quot;EAGLES&quot;" target="&quot;RANDY MEISNER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Randy Meisner is a member of the Eagles band."</data>
+      <data key="d5">f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </edge>
+    <edge source="&quot;EAGLES&quot;" target="&quot;ONE OF THESE NIGHTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Eagles band recorded the One of These Nights album."</data>
+      <data key="d5">f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </edge>
+    <edge source="&quot;ONE OF THESE NIGHTS&quot;" target="&quot;RANDY MEISNER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Randy Meisner's song was recorded on the One of These Nights album."</data>
+      <data key="d5">f58e20a4af8bcb7db2dc5dab8c58ffcf</data>
+    </edge>
+    <edge source="&quot;OLD CITY&quot;" target="&quot;SOUTH STREET&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Both South Street and Old City are areas with vibrant night life."</data>
+      <data key="d5">c2ce9140057bbff4d1423ac6eb5d515e</data>
+    </edge>
+    <edge source="&quot;CENTER CITY&quot;" target="&quot;AVENUE OF THE ARTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Avenue of the Arts is located in Center City."</data>
+      <data key="d5">c2ce9140057bbff4d1423ac6eb5d515e</data>
+    </edge>
+    <edge source="&quot;KIMMEL CENTER FOR THE PERFORMING ARTS&quot;" target="&quot;PHILADELPHIA ORCHESTRA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Kimmel Center for the Performing Arts is home to the Philadelphia Orchestra."</data>
+      <data key="d5">c2ce9140057bbff4d1423ac6eb5d515e</data>
+    </edge>
+    <edge source="&quot;ACADEMY OF MUSIC&quot;" target="&quot;OPERA COMPANY OF PHILADELPHIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Academy of Music is home to the Opera Company of Philadelphia."</data>
+      <data key="d5">c2ce9140057bbff4d1423ac6eb5d515e</data>
+    </edge>
+    <edge source="&quot;ACADEMY OF MUSIC&quot;" target="&quot;PENNSYLVANIA BALLET&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Academy of Music is home to the Pennsylvania Ballet."</data>
+      <data key="d5">c2ce9140057bbff4d1423ac6eb5d515e</data>
+    </edge>
+    <edge source="&quot;KEN WARWICK&quot;" target="&quot;TV SHOW&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ken Warwick is the producer of the TV show."</data>
+      <data key="d5">9783bafbf20cd6b1111747fbcb5b9ecb</data>
+    </edge>
+    <edge source="&quot;TV SHOW&quot;" target="&quot;CRYSTAL BOWERSOX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Crystal Bowersox is a contestant on the TV show."</data>
+      <data key="d5">9783bafbf20cd6b1111747fbcb5b9ecb</data>
+    </edge>
+    <edge source="&quot;PERFORMANCE NIGHT&quot;" target="&quot;CRYSTAL BOWERSOX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Crystal Bowersox performed on Performance Night after being hospitalized due to diabetic ketoacidosis."</data>
+      <data key="d5">9783bafbf20cd6b1111747fbcb5b9ecb</data>
+    </edge>
+    <edge source="&quot;BRITAIN&quot;" target="&quot;SUSANNAH HARRISON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Susannah Harrison's poetry collection was published and widely read in Britain."</data>
+      <data key="d5">693223ac20b8a64b8110089a74d4aee7</data>
+    </edge>
+    <edge source="&quot;AMERICA&quot;" target="&quot;SUSANNAH HARRISON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Susannah Harrison's poetry collection was published and widely read in America."</data>
+      <data key="d5">693223ac20b8a64b8110089a74d4aee7</data>
+    </edge>
+    <edge source="&quot;SONGS IN THE NIGHT&quot;" target="&quot;SUSANNAH HARRISON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Susannah Harrison wrote the popular poetry collection Songs in the Night."</data>
+      <data key="d5">693223ac20b8a64b8110089a74d4aee7</data>
+    </edge>
+    <edge source="&quot;JAMIE SCOTT&quot;" target="&quot;ONE DIRECTION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jamie Scott wrote the song 'More than This' for One Direction."</data>
+      <data key="d5">5afb59589cbcac7137312ae298fa0459</data>
+    </edge>
+    <edge source="&quot;BRIAN RAWLING&quot;" target="&quot;ONE DIRECTION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Brian Rawling produced the song 'More than This' for One Direction."</data>
+      <data key="d5">5afb59589cbcac7137312ae298fa0459</data>
+    </edge>
+    <edge source="&quot;PAUL MEEHAN&quot;" target="&quot;ONE DIRECTION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Paul Meehan produced the song 'More than This' for One Direction."</data>
+      <data key="d5">5afb59589cbcac7137312ae298fa0459</data>
+    </edge>
+    <edge source="&quot;SYCO&quot;" target="&quot;ONE DIRECTION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"One Direction's music is released under the Syco record label."</data>
+      <data key="d5">5afb59589cbcac7137312ae298fa0459</data>
+    </edge>
+    <edge source="&quot;ONE LONG YEAR&quot;" target="&quot;TODD RUNDGREN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Todd Rundgren released the album One Long Year in 2000."</data>
+      <data key="d5">44e091e9ce740a90162b8d429f800832</data>
+    </edge>
+    <edge source="&quot;PATRONET&quot;" target="&quot;TODD RUNDGREN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Todd Rundgren initially released recordings to subscribers on Patronet."</data>
+      <data key="d5">44e091e9ce740a90162b8d429f800832</data>
+    </edge>
+    <edge source="&quot;LATE NIGHT WITH CONAN O'BRIEN&quot;" target="&quot;TODD RUNDGREN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Todd Rundgren performed on Late Night with Conan O'Brien to promote his album One Long Year."</data>
+      <data key="d5">44e091e9ce740a90162b8d429f800832</data>
+    </edge>
+    <edge source="&quot;CRYSTAL&quot;" target="&quot;AHMAD JAMAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ahmad Jamal is the artist who recorded the album Crystal."</data>
+      <data key="d5">9f360a337fc972818d4d675f572ffb0b</data>
+    </edge>
+    <edge source="&quot;IMPULSE!&quot;" target="&quot;MARION BROWN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marion Brown's debut album Three for Shepp was released on the Impulse! label."</data>
+      <data key="d5">9b83425a01a8d6e974c4b44e1ea32f89</data>
+    </edge>
+    <edge source="&quot;IMPULSE!&quot;" target="&quot;TIJUANA JAZZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Impulse! released the album Tijuana Jazz."</data>
+      <data key="d5">eb70a43f75660cd4ac083129ff0772f9</data>
+    </edge>
+    <edge source="&quot;THREE FOR SHEPP&quot;" target="&quot;MARION BROWN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marion Brown is the artist who recorded and released the debut album Three for Shepp."</data>
+      <data key="d5">9b83425a01a8d6e974c4b44e1ea32f89</data>
+    </edge>
+    <edge source="&quot;DEWEY REDMAN&quot;" target="&quot;SOUNDSIGNS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Soundsigns is an album by Dewey Redman."</data>
+      <data key="d5">7eb8c83595860f130e5a1570def352ca</data>
+    </edge>
+    <edge source="&quot;GALAXY&quot;" target="&quot;SOUNDSIGNS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The album Soundsigns was released on the Galaxy label."</data>
+      <data key="d5">7eb8c83595860f130e5a1570def352ca</data>
+    </edge>
+    <edge source="&quot;KATE SMITH&quot;" target="&quot;WOODY GUTHRIE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Woody Guthrie was inspired to write 'This Land Is Your Land' in response to Kate Smith's singing of 'God Bless America'."</data>
+      <data key="d5">3004f225d7cc7a9ae889cc9914bcc0ea</data>
+    </edge>
+    <edge source="&quot;IRVING BERLIN&quot;" target="&quot;WOODY GUTHRIE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Woody Guthrie wrote 'This Land Is Your Land' as a critical response to Irving Berlin's 'God Bless America'."</data>
+      <data key="d5">3004f225d7cc7a9ae889cc9914bcc0ea</data>
+    </edge>
+    <edge source="&quot;CARTER FAMILY&quot;" target="&quot;THIS LAND IS YOUR LAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Carter Family's tune 'When the World's on Fire' was used as the basis for Woody Guthrie's 'This Land Is Your Land'."</data>
+      <data key="d5">3004f225d7cc7a9ae889cc9914bcc0ea</data>
+    </edge>
+    <edge source="&quot;CLARK TERRY&quot;" target="&quot;TIJUANA JAZZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Clark Terry recorded the album Tijuana Jazz."</data>
+      <data key="d5">eb70a43f75660cd4ac083129ff0772f9</data>
+    </edge>
+    <edge source="&quot;HMV&quot;" target="&quot;TIJUANA JAZZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"HMV released the album Tijuana Jazz in the UK."</data>
+      <data key="d5">eb70a43f75660cd4ac083129ff0772f9</data>
+    </edge>
+    <edge source="&quot;TIJUANA JAZZ&quot;" target="&quot;GARY MCFARLAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gary McFarland recorded the album Tijuana Jazz."</data>
+      <data key="d5">eb70a43f75660cd4ac083129ff0772f9</data>
+    </edge>
+  </graph>
+</graphml>

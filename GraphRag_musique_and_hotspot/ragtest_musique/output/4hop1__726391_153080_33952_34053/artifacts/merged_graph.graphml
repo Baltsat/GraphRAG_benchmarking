@@ -1,0 +1,1239 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;CALIFORNIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"California is a state in the United States where San Diego is located."</data>
+      <data key="d2">f9469000dabd0eacf7adfa220289c1f6</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located.""The United States is a country where San Diego is located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country that shares a border with Mexico, and has a population of over 1 million in the Greater Tucson Metro area.""The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"United States is a country where Illinois, Macoupin County, and Staunton are located.""The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Detroit is located, with the city being part of its Midwestern region.""The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+      <data key="d3">"GEO"</data>
+    </node>
+    <node id="&quot;TIJUANA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Tijuana is a city in Mexico, part of the San Diego&#8211;Tijuana conurbation."</data>
+      <data key="d2">f9469000dabd0eacf7adfa220289c1f6</data>
+    </node>
+    <node id="&quot;DETROIT&#8211;WINDSOR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Detroit&#8211;Windsor is a transborder agglomeration between the US and Canada."</data>
+      <data key="d2">f9469000dabd0eacf7adfa220289c1f6</data>
+    </node>
+    <node id="&quot;US NAVY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The US Navy has a long association with San Diego."</data>
+      <data key="d2">f9469000dabd0eacf7adfa220289c1f6</data>
+    </node>
+    <node id="&quot;SAN DIEGO&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f9469000dabd0eacf7adfa220289c1f6</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located.""Arizona is a geographic location where temperature and precipitation records are kept."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state.""Phoenix is a city located in Arizona, and is the largest city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson.""Mexico is a country that shares a border with the United States."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</data>
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+    </node>
+    <node id="&quot;CHARLES MINGUS SR.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Charles Mingus Sr. is the father of Charles Mingus and a sergeant in the U.S. Army."</data>
+      <data key="d2">50a583ba5a2b40543b2d801ff8c4afeb</data>
+    </node>
+    <node id="&quot;U.S. ARMY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The U.S. Army is an organization that employs Charles Mingus Sr. as a sergeant."</data>
+      <data key="d2">50a583ba5a2b40543b2d801ff8c4afeb</data>
+    </node>
+    <node id="&quot;NOGALES, ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Nogales, Arizona is the birthplace of Charles Mingus."</data>
+      <data key="d2">50a583ba5a2b40543b2d801ff8c4afeb</data>
+    </node>
+    <node id="&quot;WATTS AREA OF LOS ANGELES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Watts area of Los Angeles is where Charles Mingus was largely raised."</data>
+      <data key="d2">50a583ba5a2b40543b2d801ff8c4afeb</data>
+    </node>
+    <node id="&quot;HONG KONG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hong Kong is the origin of Charles Mingus' maternal grandfather, a Chinese British subject."</data>
+      <data key="d2">50a583ba5a2b40543b2d801ff8c4afeb</data>
+    </node>
+    <node id="&quot;CHARLES MINGUS&quot;">
+      <data key="d0" />
+      <data key="d1">
+"Charles Mingus is a jazz musician, bassist, and composer who recorded the Oh Yeah album in 1961."</data>
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb</data>
+    </node>
+    <node id="&quot;ARIZONA SUN CORRIDOR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Arizona Sun Corridor is a region in southern Arizona, where Tucson is a major city."</data>
+      <data key="d2">e841ba7743ea911c87ef7ff3578df4bc</data>
+    </node>
+    <node id="&quot;KAUNAS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Kaunas is the second largest city in Lithuania, where &#260;&#382;uolynas park is located."</data>
+      <data key="d2">63ddc20d79f25d22cbad2d84283ec001</data>
+    </node>
+    <node id="&quot;&#381;ALIAKALNIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"&#381;aliakalnis is an elderate in Kaunas, Lithuania, where &#260;&#382;uolynas park is situated."</data>
+      <data key="d2">63ddc20d79f25d22cbad2d84283ec001</data>
+    </node>
+    <node id="&quot;VYD&#362;NAS ALLEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Vyd&#363;nas Alley serves as the northern border of &#260;&#382;uolynas park in Kaunas, Lithuania."</data>
+      <data key="d2">63ddc20d79f25d22cbad2d84283ec001</data>
+    </node>
+    <node id="&quot;&#260;&#381;UOLYNAS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">63ddc20d79f25d22cbad2d84283ec001</data>
+    </node>
+    <node id="&quot;OH YEAH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc</data>
+    </node>
+    <node id="&quot;JUNE 19, 1960&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fef725e12cf140ef0996241ccb416242</data>
+    </node>
+    <node id="&quot;JULY 28, 1995&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fef725e12cf140ef0996241ccb416242</data>
+    </node>
+    <node id="&quot;JANUARY 7, 1913&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fef725e12cf140ef0996241ccb416242</data>
+    </node>
+    <node id="&quot;UNITED STATES CENSUS BUREAU&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The United States Census Bureau is an organization that estimates population data."</data>
+      <data key="d2">50d5902c233bcf5e4c0ca22ab3ec28eb</data>
+    </node>
+    <node id="&quot;FLORIDA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Florida is a state in the United States where Ocala is located."</data>
+      <data key="d2">50d5902c233bcf5e4c0ca22ab3ec28eb</data>
+    </node>
+    <node id="&quot;OCALA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">50d5902c233bcf5e4c0ca22ab3ec28eb</data>
+    </node>
+    <node id="&quot;MACOUPIN COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Macoupin County is a county in Illinois, United States, where Staunton is located."</data>
+      <data key="d2">caa4f611de6dfbb60da609924bc1cbca</data>
+    </node>
+    <node id="&quot;ILLINOIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Illinois is a state in the United States where Macoupin County and Staunton are located."</data>
+      <data key="d2">caa4f611de6dfbb60da609924bc1cbca</data>
+    </node>
+    <node id="&quot;2010 CENSUS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2010 Census was an event that recorded the population of Staunton as 5,139."</data>
+      <data key="d2">caa4f611de6dfbb60da609924bc1cbca</data>
+    </node>
+    <node id="&quot;STAUNTON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">caa4f611de6dfbb60da609924bc1cbca</data>
+    </node>
+    <node id="&quot;KAOHSIUNG CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Kaohsiung City is a city in southern Taiwan."</data>
+      <data key="d2">7b624b38e1bafb66e881d11db2f27a27</data>
+    </node>
+    <node id="&quot;TAIWAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Taiwan is an island country in East Asia."</data>
+      <data key="d2">7b624b38e1bafb66e881d11db2f27a27</data>
+    </node>
+    <node id="&quot;KAOHSIUNG INTERNATIONAL AIRPORT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Kaohsiung International Airport is the second largest airport in Taiwan, located in Siaogang District."</data>
+      <data key="d2">7b624b38e1bafb66e881d11db2f27a27</data>
+    </node>
+    <node id="&quot;SIAOGANG DISTRICT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7b624b38e1bafb66e881d11db2f27a27</data>
+    </node>
+    <node id="&quot;NEW JERSEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New Jersey is a U.S. state where Jersey City is located."</data>
+      <data key="d2">b586c48a6a0be0dac83adaa132e1923f</data>
+    </node>
+    <node id="&quot;HUDSON COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hudson County is a county in New Jersey where Jersey City is the largest city and seat."</data>
+      <data key="d2">b586c48a6a0be0dac83adaa132e1923f</data>
+    </node>
+    <node id="&quot;CENSUS BUREAU&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Census Bureau is an organization responsible for calculating population estimates, including those of Jersey City."</data>
+      <data key="d2">b586c48a6a0be0dac83adaa132e1923f</data>
+    </node>
+    <node id="&quot;JERSEY CITY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b586c48a6a0be0dac83adaa132e1923f</data>
+    </node>
+    <node id="&quot;WORLD CITIES STUDY GROUP&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The World Cities Study Group is an organization that classified Miami as an Alpha-World City in 2012."</data>
+      <data key="d2">ab00c503a6f05fccac63a97f51a687c9</data>
+    </node>
+    <node id="&quot;FORBES MAGAZINE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Forbes magazine ranked Miami as 'America's Cleanest City' in 2008, recognizing its good air quality and clean environment."</data>
+      <data key="d2">ab00c503a6f05fccac63a97f51a687c9</data>
+    </node>
+    <node id="&quot;UBS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"UBS conducted a study in 2009 that ranked Miami as the richest city in the United States and fifth-richest globally in terms of purchasing power."</data>
+      <data key="d2">ab00c503a6f05fccac63a97f51a687c9</data>
+    </node>
+    <node id="&quot;CAPITAL OF LATIN AMERICA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 'Capital of Latin America' is a nickname given to Miami, reflecting its cultural and economic significance in the region."</data>
+      <data key="d2">ab00c503a6f05fccac63a97f51a687c9</data>
+    </node>
+    <node id="&quot;MIAMI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ab00c503a6f05fccac63a97f51a687c9</data>
+    </node>
+    <node id="&quot;GERMANY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Germany is a country where Munich is located and has become its third largest city."</data>
+      <data key="d2">8a008cbfed4acc5e6662eed44b34c40b</data>
+    </node>
+    <node id="&quot;1700&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"1700 is a year when Munich had 24,000 inhabitants, marking the beginning of rapid population growth."</data>
+      <data key="d2">8a008cbfed4acc5e6662eed44b34c40b</data>
+    </node>
+    <node id="&quot;1852&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"1852 is a year when Munich's population reached 100,000, doubling from 30 years prior."</data>
+      <data key="d2">8a008cbfed4acc5e6662eed44b34c40b</data>
+    </node>
+    <node id="&quot;1883&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"1883 is a year when Munich's population reached 250,000, continuing its rapid growth."</data>
+      <data key="d2">8a008cbfed4acc5e6662eed44b34c40b</data>
+    </node>
+    <node id="&quot;1901&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"1901 is a year when Munich's population reached 500,000, marking significant urbanization."</data>
+      <data key="d2">8a008cbfed4acc5e6662eed44b34c40b</data>
+    </node>
+    <node id="&quot;1933&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"1933 is a year when Munich's population was counted at 840,901 inhabitants."</data>
+      <data key="d2">8a008cbfed4acc5e6662eed44b34c40b</data>
+    </node>
+    <node id="&quot;1957&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"1957 is a year when Munich's population exceeded 1 million inhabitants."</data>
+      <data key="d2">8a008cbfed4acc5e6662eed44b34c40b</data>
+    </node>
+    <node id="&quot;MUNICH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8a008cbfed4acc5e6662eed44b34c40b</data>
+    </node>
+    <node id="&quot;MICHIGAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Michigan is a U.S. state where Detroit is located, being part of the Midwest region."</data>
+      <data key="d2">f525fdac61c34cc4dfbe08a7c31cbd93</data>
+    </node>
+    <node id="&quot;WAYNE COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Wayne County is a county in Michigan where Detroit is the seat, being the most populous county in the state."</data>
+      <data key="d2">f525fdac61c34cc4dfbe08a7c31cbd93</data>
+    </node>
+    <node id="&quot;METRO DETROIT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Metro Detroit is the metropolitan area of Detroit, home to 5.3 million people and being the fourteenth-most populous metropolitan area in the United States."</data>
+      <data key="d2">f525fdac61c34cc4dfbe08a7c31cbd93</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Canada is a country sharing a border with the United States, where Detroit is located."</data>
+      <data key="d2">f525fdac61c34cc4dfbe08a7c31cbd93</data>
+    </node>
+    <node id="&quot;DETROIT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f525fdac61c34cc4dfbe08a7c31cbd93</data>
+    </node>
+    <node id="&quot;NORTH CENTRAL OHIO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"North Central Ohio is a region where Ohio State Route 523 is located."</data>
+      <data key="d2">98d9383cf83a9064321a8b5e1cd77d48</data>
+    </node>
+    <node id="&quot;OHIO TURNPIKE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ohio Turnpike is a highway system that intersects with OH 523."</data>
+      <data key="d2">98d9383cf83a9064321a8b5e1cd77d48</data>
+    </node>
+    <node id="&quot;I-80/I-90&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"I-80/I-90 are highways that intersect with Ohio Turnpike and OH 523."</data>
+      <data key="d2">98d9383cf83a9064321a8b5e1cd77d48</data>
+    </node>
+    <node id="&quot;OHIO STATE ROUTE 523 (OH 523)&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">98d9383cf83a9064321a8b5e1cd77d48</data>
+    </node>
+    <node id="&quot;U.S. CENSUS BUREAU&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The U.S. Census Bureau provides estimates of population sizes for cities in the United States."</data>
+      <data key="d2">a8573175c03d5aca077489acebbefd2a</data>
+    </node>
+    <node id="&quot;FORT WORTH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Fort Worth is a city that is larger than Arlington in the county."</data>
+      <data key="d2">a8573175c03d5aca077489acebbefd2a</data>
+    </node>
+    <node id="&quot;ARLINGTON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a8573175c03d5aca077489acebbefd2a</data>
+    </node>
+    <node id="&quot;BISHOP OF THE DIOCESE OF GOTHENBURG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Bishop of the Diocese of Gothenburg is a religious leader in the Church of Sweden, based at Gothenburg Cathedral."</data>
+      <data key="d2">a99dd13a8abc8ec76bb81398b65ac331</data>
+    </node>
+    <node id="&quot;GOTHENBURG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Gothenburg is the second largest city in Sweden and home to Gothenburg Cathedral."</data>
+      <data key="d2">a99dd13a8abc8ec76bb81398b65ac331</data>
+    </node>
+    <node id="&quot;CHURCH OF SWEDEN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Church of Sweden is a religious organization that has a diocese in Gothenburg, with its seat at Gothenburg Cathedral."</data>
+      <data key="d2">a99dd13a8abc8ec76bb81398b65ac331</data>
+    </node>
+    <node id="&quot;GOTHENBURG CATHEDRAL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a99dd13a8abc8ec76bb81398b65ac331</data>
+    </node>
+    <node id="&quot;JORDAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Jordan is a country where Zarqa Governorate is located."</data>
+      <data key="d2">763a4a1042c8126441b4ee7cb826f625</data>
+    </node>
+    <node id="&quot;AMMAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Amman is the capital of Jordan, located west of Zarqa City."</data>
+      <data key="d2">763a4a1042c8126441b4ee7cb826f625</data>
+    </node>
+    <node id="&quot;ZARQA CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Zarqa City is the largest city in Zarqa Governorate and its capital."</data>
+      <data key="d2">763a4a1042c8126441b4ee7cb826f625</data>
+    </node>
+    <node id="&quot;RUSSEIFA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Russeifa is the second largest city in Zarqa Governorate."</data>
+      <data key="d2">763a4a1042c8126441b4ee7cb826f625</data>
+    </node>
+    <node id="&quot;ZARQA GOVERNORATE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">763a4a1042c8126441b4ee7cb826f625</data>
+    </node>
+    <node id="&quot;AVENIDA PAULISTA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Avenida Paulista is a location in S&#227;o Paulo, Brazil, where the S&#227;o Paulo LGBTQ Pride Parade takes place."</data>
+      <data key="d2">eb18511e409f1b89d2191d171b23061c</data>
+    </node>
+    <node id="&quot;S&#195;O PAULO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"S&#227;o Paulo is a city in Brazil that hosts the S&#227;o Paulo LGBTQ Pride Parade, which is the largest pride parade in the world."</data>
+      <data key="d2">eb18511e409f1b89d2191d171b23061c</data>
+    </node>
+    <node id="&quot;BRAZIL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Brazil is a country in South America where the S&#227;o Paulo LGBTQ Pride Parade takes place."</data>
+      <data key="d2">eb18511e409f1b89d2191d171b23061c</data>
+    </node>
+    <node id="&quot;GUINNESS WORLD RECORDS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Guinness World Records is an organization that recognizes and lists records, including the largest pride parade in the world, which is held by the S&#227;o Paulo LGBTQ Pride Parade."</data>
+      <data key="d2">eb18511e409f1b89d2191d171b23061c</data>
+    </node>
+    <node id="&quot;GRINDR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Grindr is a LGBT app that elected the S&#227;o Paulo LGBTQ Pride Parade as the best in the world."</data>
+      <data key="d2">eb18511e409f1b89d2191d171b23061c</data>
+    </node>
+    <node id="&quot;S&#195;O PAULO LGBTQ PRIDE PARADE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">eb18511e409f1b89d2191d171b23061c</data>
+    </node>
+    <node id="&quot;INTERSCOPE RECORDS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Interscope Records is a record label that released the album Show Your Bones by Yeah Yeah Yeahs."</data>
+      <data key="d2">db789a3360045018e8329dc9d74750ca</data>
+    </node>
+    <node id="&quot;SHOW YOUR BONES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Show Your Bones is the second studio album by Yeah Yeah Yeahs, released on March 22, 2006."</data>
+      <data key="d2">db789a3360045018e8329dc9d74750ca</data>
+    </node>
+    <node id="&quot;GRAMMY AWARD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Grammy Award is an award that nominated Show Your Bones for Best Alternative Music Album in 2007."</data>
+      <data key="d2">db789a3360045018e8329dc9d74750ca</data>
+    </node>
+    <node id="&quot;YEAH YEAH YEAHS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">db789a3360045018e8329dc9d74750ca</data>
+    </node>
+    <node id="&quot;GEORGE KRANZ&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"George Kranz is a German dance singer whose song 'Din Daa Daa' was sampled in Flo Rida's 'Turn Around (5, 4, 3, 2, 1)'"</data>
+      <data key="d2">74eda634f9b816bd7ec6f95b340e88c4</data>
+    </node>
+    <node id="&quot;YELLO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Yello is a Swiss electronica band whose song 'Oh Yeah' was sampled in Flo Rida's 'Turn Around (5, 4, 3, 2, 1)'"</data>
+      <data key="d2">74eda634f9b816bd7ec6f95b340e88c4</data>
+    </node>
+    <node id="&quot;DJ FRANK E&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"DJ Frank E is a musician who collaborated with Flo Rida on the song 'Right Round'"</data>
+      <data key="d2">74eda634f9b816bd7ec6f95b340e88c4</data>
+    </node>
+    <node id="&quot;THE HANGOVER PART II&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Hangover Part II is a film that featured Flo Rida's song 'Turn Around (5, 4, 3, 2, 1)' in its closing credits."</data>
+      <data key="d2">74eda634f9b816bd7ec6f95b340e88c4</data>
+    </node>
+    <node id="&quot;THE HANGOVER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Hangover is a film franchise that has used Flo Rida's songs in its closing credits, including 'Right Round' and 'Turn Around (5, 4, 3, 2, 1)'"</data>
+      <data key="d2">74eda634f9b816bd7ec6f95b340e88c4</data>
+    </node>
+    <node id="&quot;FLO RIDA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">74eda634f9b816bd7ec6f95b340e88c4</data>
+    </node>
+    <edge source="&quot;CALIFORNIA&quot;" target="&quot;SAN DIEGO&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"San Diego is located in California."</data>
+      <data key="d6">f9469000dabd0eacf7adfa220289c1f6</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;SAN DIEGO&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"San Diego is a city in the United States."</data>
+      <data key="d6">f9469000dabd0eacf7adfa220289c1f6</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."</data>
+      <data key="d6">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;TUCSON&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Tucson is a city located in the United States."</data>
+      <data key="d6">e841ba7743ea911c87ef7ff3578df4bc</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;ILLINOIS&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Illinois is a state located in the United States."</data>
+      <data key="d6">caa4f611de6dfbb60da609924bc1cbca</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;METRO DETROIT&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Metro Detroit is a metropolitan area located in the United States, being one of the most populous in the country."</data>
+      <data key="d6">f525fdac61c34cc4dfbe08a7c31cbd93</data>
+    </edge>
+    <edge source="&quot;TIJUANA&quot;" target="&quot;SAN DIEGO&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"San Diego and Tijuana form a transborder conurbation."</data>
+      <data key="d6">f9469000dabd0eacf7adfa220289c1f6</data>
+    </edge>
+    <edge source="&quot;US NAVY&quot;" target="&quot;SAN DIEGO&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The US Navy has a long association with San Diego."</data>
+      <data key="d6">f9469000dabd0eacf7adfa220289c1f6</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."</data>
+      <data key="d6">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."</data>
+      <data key="d6">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."</data>
+      <data key="d6">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The University of Arizona is located in Arizona."</data>
+      <data key="d6">fef725e12cf140ef0996241ccb416242</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;JUNE 19, 1960&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The record maximum temperature was recorded at the University of Arizona on June 19, 1960."</data>
+      <data key="d6">fef725e12cf140ef0996241ccb416242</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;JULY 28, 1995&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The record maximum temperature was recorded at the University of Arizona on July 28, 1995."</data>
+      <data key="d6">fef725e12cf140ef0996241ccb416242</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;JANUARY 7, 1913&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The record minimum temperature was recorded at the University of Arizona on January 7, 1913."</data>
+      <data key="d6">fef725e12cf140ef0996241ccb416242</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."</data>
+      <data key="d6">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."</data>
+      <data key="d6">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+    </edge>
+    <edge source="&quot;PHOENIX&quot;" target="&quot;TUCSON&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Tucson is located southeast of Phoenix."</data>
+      <data key="d6">e841ba7743ea911c87ef7ff3578df4bc</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d6">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."</data>
+      <data key="d6">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."</data>
+      <data key="d6">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+    </edge>
+    <edge source="&quot;MEXICO&quot;" target="&quot;TUCSON&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Tucson is located near the United States-Mexico border."</data>
+      <data key="d6">e841ba7743ea911c87ef7ff3578df4bc</data>
+    </edge>
+    <edge source="&quot;TUCSON&quot;" target="&quot;ARIZONA SUN CORRIDOR&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Tucson is a major city in the Arizona Sun Corridor."</data>
+      <data key="d6">e841ba7743ea911c87ef7ff3578df4bc</data>
+    </edge>
+    <edge source="&quot;CHARLES MINGUS SR.&quot;" target="&quot;U.S. ARMY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Charles Mingus Sr. is a sergeant in the U.S. Army."</data>
+      <data key="d6">50a583ba5a2b40543b2d801ff8c4afeb</data>
+    </edge>
+    <edge source="&quot;NOGALES, ARIZONA&quot;" target="&quot;CHARLES MINGUS&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Charles Mingus was born in Nogales, Arizona."</data>
+      <data key="d6">50a583ba5a2b40543b2d801ff8c4afeb</data>
+    </edge>
+    <edge source="&quot;WATTS AREA OF LOS ANGELES&quot;" target="&quot;CHARLES MINGUS&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Charles Mingus was largely raised in the Watts area of Los Angeles."</data>
+      <data key="d6">50a583ba5a2b40543b2d801ff8c4afeb</data>
+    </edge>
+    <edge source="&quot;CHARLES MINGUS&quot;" target="&quot;OH YEAH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Charles Mingus is the leader and creator of the Oh Yeah album."</data>
+      <data key="d6">3f50ab6f48f2146a476175f7e12e99cc</data>
+    </edge>
+    <edge source="&quot;KAUNAS&quot;" target="&quot;&#260;&#381;UOLYNAS&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"&#260;&#382;uolynas is a public park located in Kaunas, Lithuania."</data>
+      <data key="d6">63ddc20d79f25d22cbad2d84283ec001</data>
+    </edge>
+    <edge source="&quot;&#381;ALIAKALNIS&quot;" target="&quot;&#260;&#381;UOLYNAS&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"&#260;&#382;uolynas park is situated in the &#381;aliakalnis elderate of Kaunas, Lithuania."</data>
+      <data key="d6">63ddc20d79f25d22cbad2d84283ec001</data>
+    </edge>
+    <edge source="&quot;VYD&#362;NAS ALLEY&quot;" target="&quot;&#260;&#381;UOLYNAS&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Vyd&#363;nas Alley serves as the northern border of &#260;&#382;uolynas park."</data>
+      <data key="d6">63ddc20d79f25d22cbad2d84283ec001</data>
+    </edge>
+    <edge source="&quot;UNITED STATES CENSUS BUREAU&quot;" target="&quot;OCALA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The United States Census Bureau estimates population data for Ocala."</data>
+      <data key="d6">50d5902c233bcf5e4c0ca22ab3ec28eb</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;OCALA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Ocala is a city located in Florida."</data>
+      <data key="d6">50d5902c233bcf5e4c0ca22ab3ec28eb</data>
+    </edge>
+    <edge source="&quot;MACOUPIN COUNTY&quot;" target="&quot;STAUNTON&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Staunton is a city located in Macoupin County."</data>
+      <data key="d6">caa4f611de6dfbb60da609924bc1cbca</data>
+    </edge>
+    <edge source="&quot;MACOUPIN COUNTY&quot;" target="&quot;ILLINOIS&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Macoupin County is a county located in the state of Illinois."</data>
+      <data key="d6">caa4f611de6dfbb60da609924bc1cbca</data>
+    </edge>
+    <edge source="&quot;2010 CENSUS&quot;" target="&quot;STAUNTON&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The population of Staunton was recorded as 5,139 in the 2010 Census."</data>
+      <data key="d6">caa4f611de6dfbb60da609924bc1cbca</data>
+    </edge>
+    <edge source="&quot;KAOHSIUNG CITY&quot;" target="&quot;SIAOGANG DISTRICT&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Siaogang District is a district of Kaohsiung City."</data>
+      <data key="d6">7b624b38e1bafb66e881d11db2f27a27</data>
+    </edge>
+    <edge source="&quot;KAOHSIUNG INTERNATIONAL AIRPORT&quot;" target="&quot;SIAOGANG DISTRICT&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Kaohsiung International Airport is located in Siaogang District."</data>
+      <data key="d6">7b624b38e1bafb66e881d11db2f27a27</data>
+    </edge>
+    <edge source="&quot;NEW JERSEY&quot;" target="&quot;JERSEY CITY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Jersey City is a city located in the state of New Jersey."</data>
+      <data key="d6">b586c48a6a0be0dac83adaa132e1923f</data>
+    </edge>
+    <edge source="&quot;HUDSON COUNTY&quot;" target="&quot;JERSEY CITY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Jersey City is the largest city and seat of Hudson County."</data>
+      <data key="d6">b586c48a6a0be0dac83adaa132e1923f</data>
+    </edge>
+    <edge source="&quot;CENSUS BUREAU&quot;" target="&quot;JERSEY CITY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The Census Bureau calculated the population estimates for Jersey City."</data>
+      <data key="d6">b586c48a6a0be0dac83adaa132e1923f</data>
+    </edge>
+    <edge source="&quot;WORLD CITIES STUDY GROUP&quot;" target="&quot;MIAMI&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Miami was classified as an Alpha-World City by the World Cities Study Group in 2012."</data>
+      <data key="d6">ab00c503a6f05fccac63a97f51a687c9</data>
+    </edge>
+    <edge source="&quot;FORBES MAGAZINE&quot;" target="&quot;MIAMI&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Miami was ranked 'America's Cleanest City' by Forbes magazine in 2008."</data>
+      <data key="d6">ab00c503a6f05fccac63a97f51a687c9</data>
+    </edge>
+    <edge source="&quot;UBS&quot;" target="&quot;MIAMI&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Miami was ranked as the richest city in the United States and fifth-richest globally by UBS in 2009."</data>
+      <data key="d6">ab00c503a6f05fccac63a97f51a687c9</data>
+    </edge>
+    <edge source="&quot;CAPITAL OF LATIN AMERICA&quot;" target="&quot;MIAMI&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Miami is nicknamed the 'Capital of Latin America', reflecting its cultural and economic significance."</data>
+      <data key="d6">ab00c503a6f05fccac63a97f51a687c9</data>
+    </edge>
+    <edge source="&quot;GERMANY&quot;" target="&quot;MUNICH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Munich is a city located in Germany and has become its third largest city."</data>
+      <data key="d6">8a008cbfed4acc5e6662eed44b34c40b</data>
+    </edge>
+    <edge source="&quot;1700&quot;" target="&quot;MUNICH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Munich had 24,000 inhabitants in 1700, marking the beginning of rapid population growth."</data>
+      <data key="d6">8a008cbfed4acc5e6662eed44b34c40b</data>
+    </edge>
+    <edge source="&quot;1852&quot;" target="&quot;MUNICH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Munich's population reached 100,000 in 1852, doubling from 30 years prior."</data>
+      <data key="d6">8a008cbfed4acc5e6662eed44b34c40b</data>
+    </edge>
+    <edge source="&quot;1883&quot;" target="&quot;MUNICH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Munich's population reached 250,000 in 1883, continuing its rapid growth."</data>
+      <data key="d6">8a008cbfed4acc5e6662eed44b34c40b</data>
+    </edge>
+    <edge source="&quot;1901&quot;" target="&quot;MUNICH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Munich's population reached 500,000 in 1901, marking significant urbanization."</data>
+      <data key="d6">8a008cbfed4acc5e6662eed44b34c40b</data>
+    </edge>
+    <edge source="&quot;1933&quot;" target="&quot;MUNICH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Munich's population was counted at 840,901 inhabitants in 1933."</data>
+      <data key="d6">8a008cbfed4acc5e6662eed44b34c40b</data>
+    </edge>
+    <edge source="&quot;1957&quot;" target="&quot;MUNICH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Munich's population exceeded 1 million inhabitants in 1957."</data>
+      <data key="d6">8a008cbfed4acc5e6662eed44b34c40b</data>
+    </edge>
+    <edge source="&quot;MICHIGAN&quot;" target="&quot;DETROIT&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Detroit is located in Michigan and is the most populous city in the state."</data>
+      <data key="d6">f525fdac61c34cc4dfbe08a7c31cbd93</data>
+    </edge>
+    <edge source="&quot;WAYNE COUNTY&quot;" target="&quot;DETROIT&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Detroit is the seat of Wayne County, being part of its jurisdiction."</data>
+      <data key="d6">f525fdac61c34cc4dfbe08a7c31cbd93</data>
+    </edge>
+    <edge source="&quot;NORTH CENTRAL OHIO&quot;" target="&quot;OHIO STATE ROUTE 523 (OH 523)&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Ohio State Route 523 is located in North Central Ohio."</data>
+      <data key="d6">98d9383cf83a9064321a8b5e1cd77d48</data>
+    </edge>
+    <edge source="&quot;OHIO TURNPIKE&quot;" target="&quot;OHIO STATE ROUTE 523 (OH 523)&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Ohio State Route 523 intersects with Ohio Turnpike."</data>
+      <data key="d6">98d9383cf83a9064321a8b5e1cd77d48</data>
+    </edge>
+    <edge source="&quot;OHIO TURNPIKE&quot;" target="&quot;I-80/I-90&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"I-80/I-90 are highways that intersect with Ohio Turnpike."</data>
+      <data key="d6">98d9383cf83a9064321a8b5e1cd77d48</data>
+    </edge>
+    <edge source="&quot;U.S. CENSUS BUREAU&quot;" target="&quot;ARLINGTON&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The U.S. Census Bureau provides population estimates for Arlington."</data>
+      <data key="d6">a8573175c03d5aca077489acebbefd2a</data>
+    </edge>
+    <edge source="&quot;FORT WORTH&quot;" target="&quot;ARLINGTON&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Arlington and Fort Worth are cities in the same county, with Fort Worth being larger."</data>
+      <data key="d6">a8573175c03d5aca077489acebbefd2a</data>
+    </edge>
+    <edge source="&quot;BISHOP OF THE DIOCESE OF GOTHENBURG&quot;" target="&quot;GOTHENBURG CATHEDRAL&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The Bishop of the Diocese of Gothenburg is based at Gothenburg Cathedral."</data>
+      <data key="d6">a99dd13a8abc8ec76bb81398b65ac331</data>
+    </edge>
+    <edge source="&quot;GOTHENBURG&quot;" target="&quot;GOTHENBURG CATHEDRAL&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Gothenburg Cathedral is located in Gothenburg, the second largest city in Sweden."</data>
+      <data key="d6">a99dd13a8abc8ec76bb81398b65ac331</data>
+    </edge>
+    <edge source="&quot;CHURCH OF SWEDEN&quot;" target="&quot;GOTHENBURG CATHEDRAL&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Gothenburg Cathedral is part of the Church of Sweden and serves as the seat of its diocese in Gothenburg."</data>
+      <data key="d6">a99dd13a8abc8ec76bb81398b65ac331</data>
+    </edge>
+    <edge source="&quot;JORDAN&quot;" target="&quot;ZARQA GOVERNORATE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Zarqa Governorate is a part of Jordan."</data>
+      <data key="d6">763a4a1042c8126441b4ee7cb826f625</data>
+    </edge>
+    <edge source="&quot;JORDAN&quot;" target="&quot;AMMAN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Amman is the capital of Jordan."</data>
+      <data key="d6">763a4a1042c8126441b4ee7cb826f625</data>
+    </edge>
+    <edge source="&quot;ZARQA CITY&quot;" target="&quot;ZARQA GOVERNORATE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Zarqa City is the capital of Zarqa Governorate."</data>
+      <data key="d6">763a4a1042c8126441b4ee7cb826f625</data>
+    </edge>
+    <edge source="&quot;RUSSEIFA&quot;" target="&quot;ZARQA GOVERNORATE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Russeifa is a city in Zarqa Governorate."</data>
+      <data key="d6">763a4a1042c8126441b4ee7cb826f625</data>
+    </edge>
+    <edge source="&quot;AVENIDA PAULISTA&quot;" target="&quot;S&#195;O PAULO LGBTQ PRIDE PARADE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The S&#227;o Paulo LGBTQ Pride Parade takes place in Avenida Paulista, S&#227;o Paulo, Brazil."</data>
+      <data key="d6">eb18511e409f1b89d2191d171b23061c</data>
+    </edge>
+    <edge source="&quot;S&#195;O PAULO&quot;" target="&quot;S&#195;O PAULO LGBTQ PRIDE PARADE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The S&#227;o Paulo LGBTQ Pride Parade is held in the city of S&#227;o Paulo, Brazil."</data>
+      <data key="d6">eb18511e409f1b89d2191d171b23061c</data>
+    </edge>
+    <edge source="&quot;BRAZIL&quot;" target="&quot;S&#195;O PAULO LGBTQ PRIDE PARADE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The S&#227;o Paulo LGBTQ Pride Parade takes place in Brazil, specifically in the city of S&#227;o Paulo."</data>
+      <data key="d6">eb18511e409f1b89d2191d171b23061c</data>
+    </edge>
+    <edge source="&quot;GUINNESS WORLD RECORDS&quot;" target="&quot;S&#195;O PAULO LGBTQ PRIDE PARADE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Guinness World Records recognizes and lists the S&#227;o Paulo LGBTQ Pride Parade as the largest pride parade in the world."</data>
+      <data key="d6">eb18511e409f1b89d2191d171b23061c</data>
+    </edge>
+    <edge source="&quot;GRINDR&quot;" target="&quot;S&#195;O PAULO LGBTQ PRIDE PARADE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Grindr elected the S&#227;o Paulo LGBTQ Pride Parade as the best in the world."</data>
+      <data key="d6">eb18511e409f1b89d2191d171b23061c</data>
+    </edge>
+    <edge source="&quot;INTERSCOPE RECORDS&quot;" target="&quot;SHOW YOUR BONES&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Interscope Records is the record label that released Show Your Bones."</data>
+      <data key="d6">db789a3360045018e8329dc9d74750ca</data>
+    </edge>
+    <edge source="&quot;SHOW YOUR BONES&quot;" target="&quot;YEAH YEAH YEAHS&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Yeah Yeah Yeahs released the album Show Your Bones."</data>
+      <data key="d6">db789a3360045018e8329dc9d74750ca</data>
+    </edge>
+    <edge source="&quot;SHOW YOUR BONES&quot;" target="&quot;GRAMMY AWARD&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Show Your Bones was nominated for a Grammy Award for Best Alternative Music Album in 2007."</data>
+      <data key="d6">db789a3360045018e8329dc9d74750ca</data>
+    </edge>
+    <edge source="&quot;GEORGE KRANZ&quot;" target="&quot;FLO RIDA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Flo Rida sampled George Kranz's song 'Din Daa Daa' in his own song 'Turn Around (5, 4, 3, 2, 1)'."</data>
+      <data key="d6">74eda634f9b816bd7ec6f95b340e88c4</data>
+    </edge>
+    <edge source="&quot;YELLO&quot;" target="&quot;FLO RIDA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Flo Rida sampled Yello's song 'Oh Yeah' in his own song 'Turn Around (5, 4, 3, 2, 1)'."</data>
+      <data key="d6">74eda634f9b816bd7ec6f95b340e88c4</data>
+    </edge>
+    <edge source="&quot;DJ FRANK E&quot;" target="&quot;FLO RIDA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Flo Rida collaborated with DJ Frank E on the song 'Right Round'."</data>
+      <data key="d6">74eda634f9b816bd7ec6f95b340e88c4</data>
+    </edge>
+    <edge source="&quot;THE HANGOVER PART II&quot;" target="&quot;FLO RIDA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Flo Rida's song 'Turn Around (5, 4, 3, 2, 1)' was featured in the closing credits of The Hangover Part II."</data>
+      <data key="d6">74eda634f9b816bd7ec6f95b340e88c4</data>
+    </edge>
+    <edge source="&quot;THE HANGOVER&quot;" target="&quot;FLO RIDA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Flo Rida's songs have been used in the closing credits of films from The Hangover franchise."</data>
+      <data key="d6">74eda634f9b816bd7ec6f95b340e88c4</data>
+    </edge>
+  </graph>
+</graphml>

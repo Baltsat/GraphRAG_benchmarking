@@ -1,0 +1,897 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;BILLBOARD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Billboard is a publication that tracks music charts, including the Hot Country Singles chart where Jan Howard's song reached #36."
+"Billboard is a music industry publication that tracks chart performance, including the success of Anita Baker's song 'Talk to Me'."
+"Billboard is a publication that tracks music charts, including the Hot Country Singles chart where Lynn Anderson's song peaked at number 12."
+"Billboard is a music chart that tracks the performance of songs, including 'Doo Wop (That Thing)' which debuted at number one on the Hot 100."
+"Billboard is a magazine that publishes music charts, including the Hot Dance Club Play Chart where 'Dirty Sticky Floors' reached #5."
+"Billboard is a music industry publication that tracks chart performance, including Trisha Yearwood's number one single."
+"Billboard is an organization that publishes music charts, including the Hot Country Singles chart."</data>
+      <data key="d2">1668e8965c214875ee0b2a8ee4c5fdbd,17925b77da3dc74ed330e335d9f8139a,ac89450ee93a6cae7f5bfc8060f05daf,aee3e3de7cd9d65ee557e15756da4909,b7dcfdc085b6ec4346ed9ce6e21837a3,be37f7bb46eed81bb0ac14014b307864,f26d9928943edd30e947a98fe28382ba</data>
+    </node>
+    <node id="&quot;RPM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"RPM is a Canadian publication that tracks music charts, including the Country Tracks chart where Jan Howard's song peaked at #14."
+"RPM is a publication that tracks music charts in Canada, where Lynn Anderson's song reached number 1 on the Country Tracks chart."
+"RPM is an organization that publishes music charts, including the Country Tracks chart."</data>
+      <data key="d2">ac89450ee93a6cae7f5bfc8060f05daf,be37f7bb46eed81bb0ac14014b307864,f26d9928943edd30e947a98fe28382ba</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Canada is a country where Jan Howard's song became a major hit, peaking at #14 on the RPM Country Tracks chart."
+"Canada is a country where Lynn Anderson's song was popular, reaching number 1 on the RPM Country Tracks chart."
+"Canada is a country where the song peaked at number 4 on the RPM Country Tracks chart."</data>
+      <data key="d2">ac89450ee93a6cae7f5bfc8060f05daf,be37f7bb46eed81bb0ac14014b307864,f26d9928943edd30e947a98fe28382ba</data>
+    </node>
+    <node id="&quot;LOVE IS LIKE A SPINNING WHEEL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"'Love Is Like a Spinning Wheel' is a single released by Jan Howard in 1971 that reached #36 on the Billboard Hot Country Singles chart and #14 on the Canadian RPM Country Tracks chart."</data>
+      <data key="d2">ac89450ee93a6cae7f5bfc8060f05daf</data>
+    </node>
+    <node id="&quot;JAN HOWARD&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ac89450ee93a6cae7f5bfc8060f05daf</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">039da4c5a017d25edfc1f5369f5549ac,1668e8965c214875ee0b2a8ee4c5fdbd,17925b77da3dc74ed330e335d9f8139a,3e87bc8e788ed2495f37bbe3e419d299,5fde82a6a0209a2adebf7e9d54ca9e1b,75bd4ebe39a89cffa371a694636e31d7,87535fe7fd3abbbf77f8892c1a961dcc,8a89e0e70c52bf6c98301029d64e398c,a1e7536715d57c69f0796a661687abbb,ac89450ee93a6cae7f5bfc8060f05daf,aee3e3de7cd9d65ee557e15756da4909,b7dcfdc085b6ec4346ed9ce6e21837a3,be37f7bb46eed81bb0ac14014b307864,d9d3526cae30f3d1f7fe47df11b62b5c,f26d9928943edd30e947a98fe28382ba</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">039da4c5a017d25edfc1f5369f5549ac,1668e8965c214875ee0b2a8ee4c5fdbd,17925b77da3dc74ed330e335d9f8139a,3e87bc8e788ed2495f37bbe3e419d299,5fde82a6a0209a2adebf7e9d54ca9e1b,75bd4ebe39a89cffa371a694636e31d7,87535fe7fd3abbbf77f8892c1a961dcc,8a89e0e70c52bf6c98301029d64e398c,a1e7536715d57c69f0796a661687abbb,ac89450ee93a6cae7f5bfc8060f05daf,aee3e3de7cd9d65ee557e15756da4909,b7dcfdc085b6ec4346ed9ce6e21837a3,be37f7bb46eed81bb0ac14014b307864,d9d3526cae30f3d1f7fe47df11b62b5c,f26d9928943edd30e947a98fe28382ba</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">039da4c5a017d25edfc1f5369f5549ac,1668e8965c214875ee0b2a8ee4c5fdbd,17925b77da3dc74ed330e335d9f8139a,3e87bc8e788ed2495f37bbe3e419d299,5fde82a6a0209a2adebf7e9d54ca9e1b,75bd4ebe39a89cffa371a694636e31d7,87535fe7fd3abbbf77f8892c1a961dcc,8a89e0e70c52bf6c98301029d64e398c,a1e7536715d57c69f0796a661687abbb,ac89450ee93a6cae7f5bfc8060f05daf,aee3e3de7cd9d65ee557e15756da4909,b7dcfdc085b6ec4346ed9ce6e21837a3,be37f7bb46eed81bb0ac14014b307864,d9d3526cae30f3d1f7fe47df11b62b5c,f26d9928943edd30e947a98fe28382ba</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">039da4c5a017d25edfc1f5369f5549ac,1668e8965c214875ee0b2a8ee4c5fdbd,17925b77da3dc74ed330e335d9f8139a,3e87bc8e788ed2495f37bbe3e419d299,5fde82a6a0209a2adebf7e9d54ca9e1b,75bd4ebe39a89cffa371a694636e31d7,87535fe7fd3abbbf77f8892c1a961dcc,8a89e0e70c52bf6c98301029d64e398c,a1e7536715d57c69f0796a661687abbb,ac89450ee93a6cae7f5bfc8060f05daf,aee3e3de7cd9d65ee557e15756da4909,b7dcfdc085b6ec4346ed9ce6e21837a3,be37f7bb46eed81bb0ac14014b307864,d9d3526cae30f3d1f7fe47df11b62b5c,f26d9928943edd30e947a98fe28382ba</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located.""The United States is the country where the song 'He Stopped Loving Her Today' has sold 521,000 copies as of November 13, 2013."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">039da4c5a017d25edfc1f5369f5549ac,1668e8965c214875ee0b2a8ee4c5fdbd,17925b77da3dc74ed330e335d9f8139a,3e87bc8e788ed2495f37bbe3e419d299,5fde82a6a0209a2adebf7e9d54ca9e1b,75bd4ebe39a89cffa371a694636e31d7,87535fe7fd3abbbf77f8892c1a961dcc,8a89e0e70c52bf6c98301029d64e398c,a1e7536715d57c69f0796a661687abbb,ac89450ee93a6cae7f5bfc8060f05daf,aee3e3de7cd9d65ee557e15756da4909,b7dcfdc085b6ec4346ed9ce6e21837a3,be37f7bb46eed81bb0ac14014b307864,d9d3526cae30f3d1f7fe47df11b62b5c,f26d9928943edd30e947a98fe28382ba</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">039da4c5a017d25edfc1f5369f5549ac,1668e8965c214875ee0b2a8ee4c5fdbd,17925b77da3dc74ed330e335d9f8139a,3e87bc8e788ed2495f37bbe3e419d299,5fde82a6a0209a2adebf7e9d54ca9e1b,75bd4ebe39a89cffa371a694636e31d7,87535fe7fd3abbbf77f8892c1a961dcc,8a89e0e70c52bf6c98301029d64e398c,a1e7536715d57c69f0796a661687abbb,ac89450ee93a6cae7f5bfc8060f05daf,aee3e3de7cd9d65ee557e15756da4909,b7dcfdc085b6ec4346ed9ce6e21837a3,be37f7bb46eed81bb0ac14014b307864,d9d3526cae30f3d1f7fe47df11b62b5c,f26d9928943edd30e947a98fe28382ba</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">039da4c5a017d25edfc1f5369f5549ac,1668e8965c214875ee0b2a8ee4c5fdbd,17925b77da3dc74ed330e335d9f8139a,3e87bc8e788ed2495f37bbe3e419d299,5fde82a6a0209a2adebf7e9d54ca9e1b,75bd4ebe39a89cffa371a694636e31d7,87535fe7fd3abbbf77f8892c1a961dcc,8a89e0e70c52bf6c98301029d64e398c,a1e7536715d57c69f0796a661687abbb,ac89450ee93a6cae7f5bfc8060f05daf,aee3e3de7cd9d65ee557e15756da4909,b7dcfdc085b6ec4346ed9ce6e21837a3,be37f7bb46eed81bb0ac14014b307864,d9d3526cae30f3d1f7fe47df11b62b5c,f26d9928943edd30e947a98fe28382ba</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">039da4c5a017d25edfc1f5369f5549ac,1668e8965c214875ee0b2a8ee4c5fdbd,17925b77da3dc74ed330e335d9f8139a,3e87bc8e788ed2495f37bbe3e419d299,5fde82a6a0209a2adebf7e9d54ca9e1b,75bd4ebe39a89cffa371a694636e31d7,87535fe7fd3abbbf77f8892c1a961dcc,8a89e0e70c52bf6c98301029d64e398c,a1e7536715d57c69f0796a661687abbb,ac89450ee93a6cae7f5bfc8060f05daf,aee3e3de7cd9d65ee557e15756da4909,b7dcfdc085b6ec4346ed9ce6e21837a3,be37f7bb46eed81bb0ac14014b307864,d9d3526cae30f3d1f7fe47df11b62b5c,f26d9928943edd30e947a98fe28382ba</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">039da4c5a017d25edfc1f5369f5549ac,1668e8965c214875ee0b2a8ee4c5fdbd,17925b77da3dc74ed330e335d9f8139a,3e87bc8e788ed2495f37bbe3e419d299,5fde82a6a0209a2adebf7e9d54ca9e1b,75bd4ebe39a89cffa371a694636e31d7,87535fe7fd3abbbf77f8892c1a961dcc,8a89e0e70c52bf6c98301029d64e398c,a1e7536715d57c69f0796a661687abbb,ac89450ee93a6cae7f5bfc8060f05daf,aee3e3de7cd9d65ee557e15756da4909,b7dcfdc085b6ec4346ed9ce6e21837a3,be37f7bb46eed81bb0ac14014b307864,d9d3526cae30f3d1f7fe47df11b62b5c,f26d9928943edd30e947a98fe28382ba</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+</data>
+      <data key="d2">039da4c5a017d25edfc1f5369f5549ac,1668e8965c214875ee0b2a8ee4c5fdbd,17925b77da3dc74ed330e335d9f8139a,3e87bc8e788ed2495f37bbe3e419d299,5fde82a6a0209a2adebf7e9d54ca9e1b,75bd4ebe39a89cffa371a694636e31d7,87535fe7fd3abbbf77f8892c1a961dcc,8a89e0e70c52bf6c98301029d64e398c,a1e7536715d57c69f0796a661687abbb,ac89450ee93a6cae7f5bfc8060f05daf,aee3e3de7cd9d65ee557e15756da4909,b7dcfdc085b6ec4346ed9ce6e21837a3,be37f7bb46eed81bb0ac14014b307864,d9d3526cae30f3d1f7fe47df11b62b5c,f26d9928943edd30e947a98fe28382ba</data>
+    </node>
+    <node id="&quot;DREAMING MY DREAMS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Dreaming My Dreams is an album by Waylon Jennings, from which the single 'Are You Sure Hank Done It This Way' was released."</data>
+      <data key="d2">5fde82a6a0209a2adebf7e9d54ca9e1b</data>
+    </node>
+    <node id="&quot;HANK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hank is a person referred to in the song title 'Are You Sure Hank Done It This Way', but no further information is provided about this individual."</data>
+      <data key="d2">5fde82a6a0209a2adebf7e9d54ca9e1b</data>
+    </node>
+    <node id="&quot;AUGUST 1975&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"August 1975 is the month and year when the single 'Are You Sure Hank Done It This Way' was released."</data>
+      <data key="d2">5fde82a6a0209a2adebf7e9d54ca9e1b</data>
+    </node>
+    <node id="&quot;WAYLON JENNINGS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5fde82a6a0209a2adebf7e9d54ca9e1b</data>
+    </node>
+    <node id="&quot;ARE YOU SURE HANK DONE IT THIS WAY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5fde82a6a0209a2adebf7e9d54ca9e1b</data>
+    </node>
+    <node id="&quot;COMPOSITIONS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Compositions is an album by Anita Baker, which was certified platinum and included the song 'Talk to Me'."</data>
+      <data key="d2">aee3e3de7cd9d65ee557e15756da4909</data>
+    </node>
+    <node id="&quot;ANITA BAKER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">aee3e3de7cd9d65ee557e15756da4909</data>
+    </node>
+    <node id="&quot;TALK TO ME&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">aee3e3de7cd9d65ee557e15756da4909</data>
+    </node>
+    <node id="&quot;CATHY DENNIS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Cathy Dennis is a songwriter who co-wrote the song 'Catch You' with Rhys Barker and Greg Kurstin."</data>
+      <data key="d2">a1e7536715d57c69f0796a661687abbb</data>
+    </node>
+    <node id="&quot;RHYS BARKER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Rhys Barker is a songwriter who co-wrote the song 'Catch You' with Cathy Dennis and Greg Kurstin."</data>
+      <data key="d2">a1e7536715d57c69f0796a661687abbb</data>
+    </node>
+    <node id="&quot;GREG KURSTIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Greg Kurstin is a songwriter and producer who co-wrote and produced the song 'Catch You' with Cathy Dennis and Rhys Barker."</data>
+      <data key="d2">a1e7536715d57c69f0796a661687abbb</data>
+    </node>
+    <node id="&quot;TRIP THE LIGHT FANTASTIC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Trip the Light Fantastic is the third album by Sophie Ellis-Bextor, released in 2007."</data>
+      <data key="d2">a1e7536715d57c69f0796a661687abbb</data>
+    </node>
+    <node id="&quot;BRITAIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Britain is the country where Sophie Ellis-Bextor is from."</data>
+      <data key="d2">a1e7536715d57c69f0796a661687abbb</data>
+    </node>
+    <node id="&quot;CATCH YOU RELEASE EVENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Catch You release event refers to the song's release as a single on 19 February 2007."</data>
+      <data key="d2">a1e7536715d57c69f0796a661687abbb</data>
+    </node>
+    <node id="&quot;SOPHIE ELLIS-BEXTOR&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a1e7536715d57c69f0796a661687abbb</data>
+    </node>
+    <node id="&quot;CATCH YOU&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a1e7536715d57c69f0796a661687abbb</data>
+    </node>
+    <node id="&quot;BIG GIRLS DON'T CRY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Big Girls Don't Cry is a single released by Lynn Anderson in July 1968, which peaked at number 12 on the Billboard Hot Country Singles chart and number 1 on the RPM Country Tracks chart in Canada."</data>
+      <data key="d2">be37f7bb46eed81bb0ac14014b307864</data>
+    </node>
+    <node id="&quot;LYNN ANDERSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">be37f7bb46eed81bb0ac14014b307864</data>
+    </node>
+    <node id="&quot;BILL MAHER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bill Maher is a person who interviewed Jay-Z about his song."</data>
+      <data key="d2">75bd4ebe39a89cffa371a694636e31d7</data>
+    </node>
+    <node id="&quot;JAY-Z&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">75bd4ebe39a89cffa371a694636e31d7</data>
+    </node>
+    <node id="&quot;THE SONG&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Song is an event or creation inspired by Jay-Z's past relationships."</data>
+      <data key="d2">75bd4ebe39a89cffa371a694636e31d7</data>
+    </node>
+    <node id="&quot;THE MISEDUCATION OF LAURYN HILL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Miseducation of Lauryn Hill is the debut album from which the song 'Doo Wop (That Thing)' was taken."</data>
+      <data key="d2">1668e8965c214875ee0b2a8ee4c5fdbd</data>
+    </node>
+    <node id="&quot;GRAMMY AWARDS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Grammy Awards are an annual music awards ceremony where Lauryn Hill won Best Female R&amp;B Vocal Performance and Best R&amp;B Song for 'Doo Wop (That Thing)' in 1999."</data>
+      <data key="d2">1668e8965c214875ee0b2a8ee4c5fdbd</data>
+    </node>
+    <node id="&quot;LAURYN HILL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1668e8965c214875ee0b2a8ee4c5fdbd</data>
+    </node>
+    <node id="&quot;BOBBY BRADDOCK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bobby Braddock is a songwriter who co-wrote the song 'He Stopped Loving Her Today' with Curly Putman."</data>
+      <data key="d2">8a89e0e70c52bf6c98301029d64e398c</data>
+    </node>
+    <node id="&quot;CURLY PUTMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Curly Putman is a songwriter who co-wrote the song 'He Stopped Loving Her Today' with Bobby Braddock."</data>
+      <data key="d2">8a89e0e70c52bf6c98301029d64e398c</data>
+    </node>
+    <node id="&quot;LIBRARY OF CONGRESS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Library of Congress is an organization that preserves significant recordings, including 'He Stopped Loving Her Today', in the National Recording Registry."</data>
+      <data key="d2">8a89e0e70c52bf6c98301029d64e398c</data>
+    </node>
+    <node id="&quot;I AM WHAT I AM&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"I Am What I Am is an album released in April 1980, featuring the lead single 'He Stopped Loving Her Today'."</data>
+      <data key="d2">8a89e0e70c52bf6c98301029d64e398c</data>
+    </node>
+    <node id="&quot;GEORGE JONES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8a89e0e70c52bf6c98301029d64e398c</data>
+    </node>
+    <node id="&quot;NATIONAL RECORDING REGISTRY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8a89e0e70c52bf6c98301029d64e398c</data>
+    </node>
+    <node id="&quot;THE WAILERS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Wailers are a reggae band that recorded a version of the song under the title 'My Cup' on their 1970 album 'Soul Rebels'."</data>
+      <data key="d2">039da4c5a017d25edfc1f5369f5549ac</data>
+    </node>
+    <node id="&quot;I GUESS I'LL HAVE TO CRY, CRY, CRY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"'I Guess I'll Have to Cry, Cry, Cry' is a song written and performed by James Brown, released as a single in 1968."</data>
+      <data key="d2">039da4c5a017d25edfc1f5369f5549ac</data>
+    </node>
+    <node id="&quot;SOUL REBELS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"'Soul Rebels' is an album by The Wailers, released in 1970, featuring their reggae version of the song 'My Cup'."</data>
+      <data key="d2">039da4c5a017d25edfc1f5369f5549ac</data>
+    </node>
+    <node id="&quot;JAMES BROWN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">039da4c5a017d25edfc1f5369f5549ac</data>
+    </node>
+    <node id="&quot;DEPECHE MODE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Depeche Mode is a music group that Dave Gahan is a part of."</data>
+      <data key="d2">b7dcfdc085b6ec4346ed9ce6e21837a3</data>
+    </node>
+    <node id="&quot;UK SINGLES CHART&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The UK Singles Chart is a chart that tracks the popularity of singles in the UK, where 'Dirty Sticky Floors' reached No.18."</data>
+      <data key="d2">b7dcfdc085b6ec4346ed9ce6e21837a3</data>
+    </node>
+    <node id="&quot;DAVE GAHAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b7dcfdc085b6ec4346ed9ce6e21837a3</data>
+    </node>
+    <node id="&quot;HOT DANCE CLUB PLAY CHART&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b7dcfdc085b6ec4346ed9ce6e21837a3</data>
+    </node>
+    <node id="&quot;H TO THE IZZO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"H To The Izzo is an alias for Jay-Z's song 'Izzo (H.O.V.A.)'."</data>
+      <data key="d2">87535fe7fd3abbbf77f8892c1a961dcc</data>
+    </node>
+    <node id="&quot;THE BLUEPRINT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Blueprint is the sixth album released by Jay-Z, which includes the singles 'Takeover' and 'Izzo (H.O.V.A.)'."</data>
+      <data key="d2">87535fe7fd3abbbf77f8892c1a961dcc</data>
+    </node>
+    <node id="&quot;BILLBOARD HOT 100&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Billboard Hot 100 is a music chart in the U.S. where Jay-Z's single 'Izzo (H.O.V.A.)' reached #8."</data>
+      <data key="d2">87535fe7fd3abbbf77f8892c1a961dcc</data>
+    </node>
+    <node id="&quot;ULTRAVOX&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ultravox is a band that John Foxx was part of before releasing his solo single 'Underpass'."</data>
+      <data key="d2">3e87bc8e788ed2495f37bbe3e419d299</data>
+    </node>
+    <node id="&quot;UK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"UK refers to the United Kingdom, which is the country where John Foxx is from."</data>
+      <data key="d2">3e87bc8e788ed2495f37bbe3e419d299</data>
+    </node>
+    <node id="&quot;METAMATIC&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Metamatic is an album released by John Foxx shortly after the release of his single 'Underpass'."</data>
+      <data key="d2">3e87bc8e788ed2495f37bbe3e419d299</data>
+    </node>
+    <node id="&quot;JOHN FOXX&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3e87bc8e788ed2495f37bbe3e419d299</data>
+    </node>
+    <node id="&quot;JON IMS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jon Ims is a songwriter who wrote the debut song 'She's in Love with the Boy'."</data>
+      <data key="d2">17925b77da3dc74ed330e335d9f8139a</data>
+    </node>
+    <node id="&quot;U.S.&quot;&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S. refers to the United States, where the country music charts are tracked."
+"The U.S. refers to the United States of America, where the song peaked at number 3 on the Billboard Hot Country Singles chart."</data>
+      <data key="d2">17925b77da3dc74ed330e335d9f8139a,f26d9928943edd30e947a98fe28382ba</data>
+    </node>
+    <node id="&quot;SHE'S IN LOVE WITH THE BOY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"'She's in Love with the Boy' is a debut song released by Trisha Yearwood in March 1991."</data>
+      <data key="d2">17925b77da3dc74ed330e335d9f8139a</data>
+    </node>
+    <node id="&quot;TRISHA YEARWOOD&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">17925b77da3dc74ed330e335d9f8139a</data>
+    </node>
+    <node id="&quot;MICHAEL MARTIN MURPHEY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Michael Martin Murphey is an American country music artist who recorded 'I'm Gonna Miss You, Girl'."</data>
+      <data key="d2">f26d9928943edd30e947a98fe28382ba</data>
+    </node>
+    <node id="&quot;RIVER OF TIME&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"River of Time is an album released in 1987, which includes the song 'I'm Gonna Miss You, Girl'."</data>
+      <data key="d2">f26d9928943edd30e947a98fe28382ba</data>
+    </node>
+    <node id="&quot;JESSE WINCHESTER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f26d9928943edd30e947a98fe28382ba</data>
+    </node>
+    <node id="&quot;FRANCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"France is the country where Jean-Jacques Goldman is from."</data>
+      <data key="d2">d9d3526cae30f3d1f7fe47df11b62b5c</data>
+    </node>
+    <node id="&quot;POSITIF&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Positif is the album title of Jean-Jacques Goldman's 1984 album that features the song 'Envole-moi'."</data>
+      <data key="d2">d9d3526cae30f3d1f7fe47df11b62b5c</data>
+    </node>
+    <node id="&quot;ENVOLE-MOI&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Envole-moi is a French language song written, composed, and sung by Jean-Jacques Goldman."</data>
+      <data key="d2">d9d3526cae30f3d1f7fe47df11b62b5c</data>
+    </node>
+    <node id="&quot;JEAN-JACQUES GOLDMAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d9d3526cae30f3d1f7fe47df11b62b5c</data>
+    </node>
+    <edge source="&quot;BILLBOARD&quot;" target="&quot;JAN HOWARD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jan Howard's song 'Love Is Like a Spinning Wheel' was tracked on the Billboard Hot Country Singles chart."</data>
+      <data key="d5">ac89450ee93a6cae7f5bfc8060f05daf</data>
+    </edge>
+    <edge source="&quot;BILLBOARD&quot;" target="&quot;TALK TO ME&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The song 'Talk to Me' by Anita Baker peaked at number three on Billboard's Hot Black Singles and number four on Adult Contemporary Songs."</data>
+      <data key="d5">aee3e3de7cd9d65ee557e15756da4909</data>
+    </edge>
+    <edge source="&quot;BILLBOARD&quot;" target="&quot;LYNN ANDERSON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lynn Anderson's song 'Big Girls Don't Cry' was tracked by Billboard on their Hot Country Singles chart."</data>
+      <data key="d5">be37f7bb46eed81bb0ac14014b307864</data>
+    </edge>
+    <edge source="&quot;BILLBOARD&quot;" target="&quot;LAURYN HILL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lauryn Hill's song 'Doo Wop (That Thing)' debuted at number one on the Billboard Hot 100 chart."</data>
+      <data key="d5">1668e8965c214875ee0b2a8ee4c5fdbd</data>
+    </edge>
+    <edge source="&quot;BILLBOARD&quot;" target="&quot;HOT DANCE CLUB PLAY CHART&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Hot Dance Club Play Chart is a chart published by Billboard magazine where 'Dirty Sticky Floors' reached #5."</data>
+      <data key="d5">b7dcfdc085b6ec4346ed9ce6e21837a3</data>
+    </edge>
+    <edge source="&quot;BILLBOARD&quot;" target="&quot;TRISHA YEARWOOD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Trisha Yearwood's single 'She's in Love with the Boy' reached number one on the Billboard U.S. Hot Country Singles &amp; Tracks chart."</data>
+      <data key="d5">17925b77da3dc74ed330e335d9f8139a</data>
+    </edge>
+    <edge source="&quot;BILLBOARD&quot;" target="&quot;U.S.&quot;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Billboard publishes music charts for the U.S. market, including the Hot Country Singles chart."</data>
+      <data key="d5">f26d9928943edd30e947a98fe28382ba</data>
+    </edge>
+    <edge source="&quot;RPM&quot;" target="&quot;JAN HOWARD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jan Howard's song 'Love Is Like a Spinning Wheel' was tracked on the RPM Country Tracks chart in Canada."</data>
+      <data key="d5">ac89450ee93a6cae7f5bfc8060f05daf</data>
+    </edge>
+    <edge source="&quot;RPM&quot;" target="&quot;LYNN ANDERSON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lynn Anderson's song 'Big Girls Don't Cry' was tracked by RPM on their Country Tracks chart in Canada."</data>
+      <data key="d5">be37f7bb46eed81bb0ac14014b307864</data>
+    </edge>
+    <edge source="&quot;RPM&quot;" target="&quot;CANADA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"RPM publishes music charts for the Canadian market, including the Country Tracks chart."</data>
+      <data key="d5">f26d9928943edd30e947a98fe28382ba</data>
+    </edge>
+    <edge source="&quot;CANADA&quot;" target="&quot;JAN HOWARD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jan Howard's song 'Love Is Like a Spinning Wheel' became a major hit in Canada, peaking at #14 on the RPM Country Tracks chart."</data>
+      <data key="d5">ac89450ee93a6cae7f5bfc8060f05daf</data>
+    </edge>
+    <edge source="&quot;CANADA&quot;" target="&quot;LYNN ANDERSON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lynn Anderson's song 'Big Girls Don't Cry' was popular in Canada, reaching number 1 on the RPM Country Tracks chart."</data>
+      <data key="d5">be37f7bb46eed81bb0ac14014b307864</data>
+    </edge>
+    <edge source="&quot;CANADA&quot;" target="&quot;MICHAEL MARTIN MURPHEY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The song 'I'm Gonna Miss You, Girl' recorded by Michael Martin Murphey peaked at number 4 on the Canadian RPM Country Tracks chart."</data>
+      <data key="d5">f26d9928943edd30e947a98fe28382ba</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">15.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."</data>
+      <data key="d5">039da4c5a017d25edfc1f5369f5549ac,1668e8965c214875ee0b2a8ee4c5fdbd,17925b77da3dc74ed330e335d9f8139a,3e87bc8e788ed2495f37bbe3e419d299,5fde82a6a0209a2adebf7e9d54ca9e1b,75bd4ebe39a89cffa371a694636e31d7,87535fe7fd3abbbf77f8892c1a961dcc,8a89e0e70c52bf6c98301029d64e398c,a1e7536715d57c69f0796a661687abbb,ac89450ee93a6cae7f5bfc8060f05daf,aee3e3de7cd9d65ee557e15756da4909,b7dcfdc085b6ec4346ed9ce6e21837a3,be37f7bb46eed81bb0ac14014b307864,d9d3526cae30f3d1f7fe47df11b62b5c,f26d9928943edd30e947a98fe28382ba</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">15.0</data>
+      <data key="d4">"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."</data>
+      <data key="d5">039da4c5a017d25edfc1f5369f5549ac,1668e8965c214875ee0b2a8ee4c5fdbd,17925b77da3dc74ed330e335d9f8139a,3e87bc8e788ed2495f37bbe3e419d299,5fde82a6a0209a2adebf7e9d54ca9e1b,75bd4ebe39a89cffa371a694636e31d7,87535fe7fd3abbbf77f8892c1a961dcc,8a89e0e70c52bf6c98301029d64e398c,a1e7536715d57c69f0796a661687abbb,ac89450ee93a6cae7f5bfc8060f05daf,aee3e3de7cd9d65ee557e15756da4909,b7dcfdc085b6ec4346ed9ce6e21837a3,be37f7bb46eed81bb0ac14014b307864,d9d3526cae30f3d1f7fe47df11b62b5c,f26d9928943edd30e947a98fe28382ba</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">15.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."</data>
+      <data key="d5">039da4c5a017d25edfc1f5369f5549ac,1668e8965c214875ee0b2a8ee4c5fdbd,17925b77da3dc74ed330e335d9f8139a,3e87bc8e788ed2495f37bbe3e419d299,5fde82a6a0209a2adebf7e9d54ca9e1b,75bd4ebe39a89cffa371a694636e31d7,87535fe7fd3abbbf77f8892c1a961dcc,8a89e0e70c52bf6c98301029d64e398c,a1e7536715d57c69f0796a661687abbb,ac89450ee93a6cae7f5bfc8060f05daf,aee3e3de7cd9d65ee557e15756da4909,b7dcfdc085b6ec4346ed9ce6e21837a3,be37f7bb46eed81bb0ac14014b307864,d9d3526cae30f3d1f7fe47df11b62b5c,f26d9928943edd30e947a98fe28382ba</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">15.0</data>
+      <data key="d4">"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."</data>
+      <data key="d5">039da4c5a017d25edfc1f5369f5549ac,1668e8965c214875ee0b2a8ee4c5fdbd,17925b77da3dc74ed330e335d9f8139a,3e87bc8e788ed2495f37bbe3e419d299,5fde82a6a0209a2adebf7e9d54ca9e1b,75bd4ebe39a89cffa371a694636e31d7,87535fe7fd3abbbf77f8892c1a961dcc,8a89e0e70c52bf6c98301029d64e398c,a1e7536715d57c69f0796a661687abbb,ac89450ee93a6cae7f5bfc8060f05daf,aee3e3de7cd9d65ee557e15756da4909,b7dcfdc085b6ec4346ed9ce6e21837a3,be37f7bb46eed81bb0ac14014b307864,d9d3526cae30f3d1f7fe47df11b62b5c,f26d9928943edd30e947a98fe28382ba</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">15.0</data>
+      <data key="d4">"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."</data>
+      <data key="d5">039da4c5a017d25edfc1f5369f5549ac,1668e8965c214875ee0b2a8ee4c5fdbd,17925b77da3dc74ed330e335d9f8139a,3e87bc8e788ed2495f37bbe3e419d299,5fde82a6a0209a2adebf7e9d54ca9e1b,75bd4ebe39a89cffa371a694636e31d7,87535fe7fd3abbbf77f8892c1a961dcc,8a89e0e70c52bf6c98301029d64e398c,a1e7536715d57c69f0796a661687abbb,ac89450ee93a6cae7f5bfc8060f05daf,aee3e3de7cd9d65ee557e15756da4909,b7dcfdc085b6ec4346ed9ce6e21837a3,be37f7bb46eed81bb0ac14014b307864,d9d3526cae30f3d1f7fe47df11b62b5c,f26d9928943edd30e947a98fe28382ba</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">15.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."</data>
+      <data key="d5">039da4c5a017d25edfc1f5369f5549ac,1668e8965c214875ee0b2a8ee4c5fdbd,17925b77da3dc74ed330e335d9f8139a,3e87bc8e788ed2495f37bbe3e419d299,5fde82a6a0209a2adebf7e9d54ca9e1b,75bd4ebe39a89cffa371a694636e31d7,87535fe7fd3abbbf77f8892c1a961dcc,8a89e0e70c52bf6c98301029d64e398c,a1e7536715d57c69f0796a661687abbb,ac89450ee93a6cae7f5bfc8060f05daf,aee3e3de7cd9d65ee557e15756da4909,b7dcfdc085b6ec4346ed9ce6e21837a3,be37f7bb46eed81bb0ac14014b307864,d9d3526cae30f3d1f7fe47df11b62b5c,f26d9928943edd30e947a98fe28382ba</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;GEORGE JONES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"George Jones' song 'He Stopped Loving Her Today' has sold 521,000 copies in the United States as of November 13, 2013."</data>
+      <data key="d5">8a89e0e70c52bf6c98301029d64e398c</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">15.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">039da4c5a017d25edfc1f5369f5549ac,1668e8965c214875ee0b2a8ee4c5fdbd,17925b77da3dc74ed330e335d9f8139a,3e87bc8e788ed2495f37bbe3e419d299,5fde82a6a0209a2adebf7e9d54ca9e1b,75bd4ebe39a89cffa371a694636e31d7,87535fe7fd3abbbf77f8892c1a961dcc,8a89e0e70c52bf6c98301029d64e398c,a1e7536715d57c69f0796a661687abbb,ac89450ee93a6cae7f5bfc8060f05daf,aee3e3de7cd9d65ee557e15756da4909,b7dcfdc085b6ec4346ed9ce6e21837a3,be37f7bb46eed81bb0ac14014b307864,d9d3526cae30f3d1f7fe47df11b62b5c,f26d9928943edd30e947a98fe28382ba</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">15.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."</data>
+      <data key="d5">039da4c5a017d25edfc1f5369f5549ac,1668e8965c214875ee0b2a8ee4c5fdbd,17925b77da3dc74ed330e335d9f8139a,3e87bc8e788ed2495f37bbe3e419d299,5fde82a6a0209a2adebf7e9d54ca9e1b,75bd4ebe39a89cffa371a694636e31d7,87535fe7fd3abbbf77f8892c1a961dcc,8a89e0e70c52bf6c98301029d64e398c,a1e7536715d57c69f0796a661687abbb,ac89450ee93a6cae7f5bfc8060f05daf,aee3e3de7cd9d65ee557e15756da4909,b7dcfdc085b6ec4346ed9ce6e21837a3,be37f7bb46eed81bb0ac14014b307864,d9d3526cae30f3d1f7fe47df11b62b5c,f26d9928943edd30e947a98fe28382ba</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">15.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">039da4c5a017d25edfc1f5369f5549ac,1668e8965c214875ee0b2a8ee4c5fdbd,17925b77da3dc74ed330e335d9f8139a,3e87bc8e788ed2495f37bbe3e419d299,5fde82a6a0209a2adebf7e9d54ca9e1b,75bd4ebe39a89cffa371a694636e31d7,87535fe7fd3abbbf77f8892c1a961dcc,8a89e0e70c52bf6c98301029d64e398c,a1e7536715d57c69f0796a661687abbb,ac89450ee93a6cae7f5bfc8060f05daf,aee3e3de7cd9d65ee557e15756da4909,b7dcfdc085b6ec4346ed9ce6e21837a3,be37f7bb46eed81bb0ac14014b307864,d9d3526cae30f3d1f7fe47df11b62b5c,f26d9928943edd30e947a98fe28382ba</data>
+    </edge>
+    <edge source="&quot;DREAMING MY DREAMS&quot;" target="&quot;WAYLON JENNINGS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Waylon Jennings is the artist who released the album Dreaming My Dreams, which includes the single 'Are You Sure Hank Done It This Way'."&gt;</data>
+      <data key="d5">5fde82a6a0209a2adebf7e9d54ca9e1b</data>
+    </edge>
+    <edge source="&quot;HANK&quot;" target="&quot;WAYLON JENNINGS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Waylon Jennings wrote and performed a song that references Hank in its title, suggesting some connection or inspiration."</data>
+      <data key="d5">5fde82a6a0209a2adebf7e9d54ca9e1b</data>
+    </edge>
+    <edge source="&quot;AUGUST 1975&quot;" target="&quot;ARE YOU SURE HANK DONE IT THIS WAY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The single 'Are You Sure Hank Done It This Way' was released in August 1975."</data>
+      <data key="d5">5fde82a6a0209a2adebf7e9d54ca9e1b</data>
+    </edge>
+    <edge source="&quot;COMPOSITIONS&quot;" target="&quot;ANITA BAKER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Anita Baker released an album called Compositions, which included the song 'Talk to Me'."</data>
+      <data key="d5">aee3e3de7cd9d65ee557e15756da4909</data>
+    </edge>
+    <edge source="&quot;CATHY DENNIS&quot;" target="&quot;CATCH YOU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cathy Dennis co-wrote the song Catch You with Rhys Barker and Greg Kurstin."</data>
+      <data key="d5">a1e7536715d57c69f0796a661687abbb</data>
+    </edge>
+    <edge source="&quot;GREG KURSTIN&quot;" target="&quot;CATCH YOU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Greg Kurstin co-wrote and produced the song Catch You with Cathy Dennis and Rhys Barker."</data>
+      <data key="d5">a1e7536715d57c69f0796a661687abbb</data>
+    </edge>
+    <edge source="&quot;TRIP THE LIGHT FANTASTIC&quot;" target="&quot;SOPHIE ELLIS-BEXTOR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sophie Ellis-Bextor is the artist who released the album Trip the Light Fantastic."</data>
+      <data key="d5">a1e7536715d57c69f0796a661687abbb</data>
+    </edge>
+    <edge source="&quot;CATCH YOU RELEASE EVENT&quot;" target="&quot;SOPHIE ELLIS-BEXTOR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sophie Ellis-Bextor's song Catch You was released as a single on 19 February 2007."</data>
+      <data key="d5">a1e7536715d57c69f0796a661687abbb</data>
+    </edge>
+    <edge source="&quot;BILL MAHER&quot;" target="&quot;JAY-Z&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jay-Z was interviewed by Bill Maher about his song."</data>
+      <data key="d5">75bd4ebe39a89cffa371a694636e31d7</data>
+    </edge>
+    <edge source="&quot;JAY-Z&quot;" target="&quot;THE SONG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jay-Z wrote The Song based on his past experiences."</data>
+      <data key="d5">75bd4ebe39a89cffa371a694636e31d7</data>
+    </edge>
+    <edge source="&quot;THE MISEDUCATION OF LAURYN HILL&quot;" target="&quot;LAURYN HILL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lauryn Hill is the artist behind the album 'The Miseducation of Lauryn Hill'."</data>
+      <data key="d5">1668e8965c214875ee0b2a8ee4c5fdbd</data>
+    </edge>
+    <edge source="&quot;GRAMMY AWARDS&quot;" target="&quot;LAURYN HILL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lauryn Hill won two Grammy Awards for her song 'Doo Wop (That Thing)' in 1999."</data>
+      <data key="d5">1668e8965c214875ee0b2a8ee4c5fdbd</data>
+    </edge>
+    <edge source="&quot;LIBRARY OF CONGRESS&quot;" target="&quot;NATIONAL RECORDING REGISTRY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Library of Congress preserves significant recordings, including 'He Stopped Loving Her Today', in the National Recording Registry."</data>
+      <data key="d5">8a89e0e70c52bf6c98301029d64e398c</data>
+    </edge>
+    <edge source="&quot;I AM WHAT I AM&quot;" target="&quot;GEORGE JONES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"George Jones recorded the song 'He Stopped Loving Her Today' as part of the album I Am What I Am."</data>
+      <data key="d5">8a89e0e70c52bf6c98301029d64e398c</data>
+    </edge>
+    <edge source="&quot;THE WAILERS&quot;" target="&quot;SOUL REBELS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Wailers released their album 'Soul Rebels' in 1970, featuring a reggae version of the song."</data>
+      <data key="d5">039da4c5a017d25edfc1f5369f5549ac</data>
+    </edge>
+    <edge source="&quot;I GUESS I'LL HAVE TO CRY, CRY, CRY&quot;" target="&quot;JAMES BROWN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"James Brown wrote and performed the song 'I Guess I'll Have to Cry, Cry, Cry'."</data>
+      <data key="d5">039da4c5a017d25edfc1f5369f5549ac</data>
+    </edge>
+    <edge source="&quot;I GUESS I'LL HAVE TO CRY, CRY, CRY&quot;" target="&quot;SOUL REBELS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The song 'I Guess I'll Have to Cry, Cry, Cry' was re-recorded by The Wailers on their album 'Soul Rebels' under the title 'My Cup'."</data>
+      <data key="d5">039da4c5a017d25edfc1f5369f5549ac</data>
+    </edge>
+    <edge source="&quot;DEPECHE MODE&quot;" target="&quot;DAVE GAHAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dave Gahan is a vocalist of Depeche Mode."</data>
+      <data key="d5">b7dcfdc085b6ec4346ed9ce6e21837a3</data>
+    </edge>
+    <edge source="&quot;UK SINGLES CHART&quot;" target="&quot;DAVE GAHAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dave Gahan's solo single 'Dirty Sticky Floors' reached No.18 in the UK Singles Chart."</data>
+      <data key="d5">b7dcfdc085b6ec4346ed9ce6e21837a3</data>
+    </edge>
+    <edge source="&quot;ULTRAVOX&quot;" target="&quot;JOHN FOXX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"John Foxx was a member of the band Ultravox before releasing his solo single 'Underpass'."</data>
+      <data key="d5">3e87bc8e788ed2495f37bbe3e419d299</data>
+    </edge>
+    <edge source="&quot;UK&quot;" target="&quot;JOHN FOXX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"John Foxx is from the UK, which is mentioned as his country of origin."</data>
+      <data key="d5">3e87bc8e788ed2495f37bbe3e419d299</data>
+    </edge>
+    <edge source="&quot;METAMATIC&quot;" target="&quot;JOHN FOXX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"John Foxx released the album Metamatic shortly after releasing his single 'Underpass'."</data>
+      <data key="d5">3e87bc8e788ed2495f37bbe3e419d299</data>
+    </edge>
+    <edge source="&quot;JON IMS&quot;" target="&quot;TRISHA YEARWOOD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jon Ims wrote the debut song 'She's in Love with the Boy' recorded by Trisha Yearwood."</data>
+      <data key="d5">17925b77da3dc74ed330e335d9f8139a</data>
+    </edge>
+    <edge source="&quot;U.S.&quot;&quot;" target="&quot;MICHAEL MARTIN MURPHEY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The song 'I'm Gonna Miss You, Girl' recorded by Michael Martin Murphey peaked at number 3 on the U.S. Billboard Hot Country Singles chart."</data>
+      <data key="d5">f26d9928943edd30e947a98fe28382ba</data>
+    </edge>
+    <edge source="&quot;MICHAEL MARTIN MURPHEY&quot;" target="&quot;JESSE WINCHESTER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jesse Winchester wrote the song 'I'm Gonna Miss You, Girl', which was recorded by Michael Martin Murphey."</data>
+      <data key="d5">f26d9928943edd30e947a98fe28382ba</data>
+    </edge>
+    <edge source="&quot;FRANCE&quot;" target="&quot;JEAN-JACQUES GOLDMAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jean-Jacques Goldman is from France."</data>
+      <data key="d5">d9d3526cae30f3d1f7fe47df11b62b5c</data>
+    </edge>
+    <edge source="&quot;POSITIF&quot;" target="&quot;JEAN-JACQUES GOLDMAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jean-Jacques Goldman's album Positif features the song 'Envole-moi'."</data>
+      <data key="d5">d9d3526cae30f3d1f7fe47df11b62b5c</data>
+    </edge>
+    <edge source="&quot;ENVOLE-MOI&quot;" target="&quot;JEAN-JACQUES GOLDMAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jean-Jacques Goldman wrote, composed, and sang the song 'Envole-moi'."</data>
+      <data key="d5">d9d3526cae30f3d1f7fe47df11b62b5c</data>
+    </edge>
+  </graph>
+</graphml>

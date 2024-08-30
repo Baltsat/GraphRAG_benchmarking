@@ -1,0 +1,1714 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="level" attr.type="long" />
+  <key id="d6" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d5" for="node" attr.name="id" attr.type="string" />
+  <key id="d4" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d3" for="node" attr.name="degree" attr.type="long" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;MALIAN GOVERNMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Malian government requested support from the international community to combat Islamic militants and had difficulty maintaining control over their country."</data>
+      <data key="d2">5c2ae70e9efbe2278960d4855f26d3a9</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;FRANCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+France, a country with a rich history, has been involved in various military interventions throughout its existence. In recent times, it intervened on behalf of the Malian government's request and deployed troops into northern Mali. Historically, France was also engaged in the Nine Years' War and emerged as the main rival of Britain on the imperial stage in the 18th century.</data>
+      <data key="d2">5c2ae70e9efbe2278960d4855f26d3a9,817664e36b5f67909736020d9b0857d3</data>
+      <data key="d3">3</data>
+      <data key="d4">1</data>
+      <data key="d5">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;OPERATION SERVAL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Operation Serval was launched by France on 11 January 2013 to dislodge al-Qaeda affiliated groups from northern Mali."</data>
+      <data key="d2">5c2ae70e9efbe2278960d4855f26d3a9</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;AL-QAEDA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5c2ae70e9efbe2278960d4855f26d3a9</data>
+      <data key="d3">1</data>
+      <data key="d4">3</data>
+      <data key="d5">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">0a30dd3e2d67a4d804e3bd333979c37e,10899927d9f4448056cc57d359cfa1d7,1dcdba6ef16b4063b485967e087556a4,1e7d603c3c1653baf44961cf500bf663,21ca6b6e95f370cc943ecef4766ea23c,220a31e37eac11f120f8200cec9b0a2d,2a8824b9c6f3c62b3c39bd01074629e1,5c2ae70e9efbe2278960d4855f26d3a9,65262793f9803a23d1663ea1eb9ce558,817664e36b5f67909736020d9b0857d3,8adb516f29d482e9eb05f978e8a12a35,8fc3b20feec51cc84d29c86455df4a3d,a982f0969f268b4873e8458b00b69411,acaf7a5829d41e6922cd80a98b1799de,c413a124cf3f556e244ed0286abba98d,d1f5224529562e7d55fa03f51952a2cd,e028a54447640f5d471ac710a9a3950f,e5c27ccdc69b7c2314b331dabd5677e1,f1032021c23998eb8b191b1ae9f50bae,ff9ccb5b19cd450a9ba0d621b18caa4c</data>
+      <data key="d3">2</data>
+      <data key="d4">4</data>
+      <data key="d5">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">0a30dd3e2d67a4d804e3bd333979c37e,10899927d9f4448056cc57d359cfa1d7,1dcdba6ef16b4063b485967e087556a4,1e7d603c3c1653baf44961cf500bf663,21ca6b6e95f370cc943ecef4766ea23c,220a31e37eac11f120f8200cec9b0a2d,2a8824b9c6f3c62b3c39bd01074629e1,5c2ae70e9efbe2278960d4855f26d3a9,65262793f9803a23d1663ea1eb9ce558,817664e36b5f67909736020d9b0857d3,8adb516f29d482e9eb05f978e8a12a35,8fc3b20feec51cc84d29c86455df4a3d,a982f0969f268b4873e8458b00b69411,acaf7a5829d41e6922cd80a98b1799de,c413a124cf3f556e244ed0286abba98d,d1f5224529562e7d55fa03f51952a2cd,e028a54447640f5d471ac710a9a3950f,e5c27ccdc69b7c2314b331dabd5677e1,f1032021c23998eb8b191b1ae9f50bae,ff9ccb5b19cd450a9ba0d621b18caa4c</data>
+      <data key="d3">1</data>
+      <data key="d4">5</data>
+      <data key="d5">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">0a30dd3e2d67a4d804e3bd333979c37e,10899927d9f4448056cc57d359cfa1d7,1dcdba6ef16b4063b485967e087556a4,1e7d603c3c1653baf44961cf500bf663,21ca6b6e95f370cc943ecef4766ea23c,220a31e37eac11f120f8200cec9b0a2d,2a8824b9c6f3c62b3c39bd01074629e1,5c2ae70e9efbe2278960d4855f26d3a9,65262793f9803a23d1663ea1eb9ce558,817664e36b5f67909736020d9b0857d3,8adb516f29d482e9eb05f978e8a12a35,8fc3b20feec51cc84d29c86455df4a3d,a982f0969f268b4873e8458b00b69411,acaf7a5829d41e6922cd80a98b1799de,c413a124cf3f556e244ed0286abba98d,d1f5224529562e7d55fa03f51952a2cd,e028a54447640f5d471ac710a9a3950f,e5c27ccdc69b7c2314b331dabd5677e1,f1032021c23998eb8b191b1ae9f50bae,ff9ccb5b19cd450a9ba0d621b18caa4c</data>
+      <data key="d3">4</data>
+      <data key="d4">6</data>
+      <data key="d5">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">0a30dd3e2d67a4d804e3bd333979c37e,10899927d9f4448056cc57d359cfa1d7,1dcdba6ef16b4063b485967e087556a4,1e7d603c3c1653baf44961cf500bf663,21ca6b6e95f370cc943ecef4766ea23c,220a31e37eac11f120f8200cec9b0a2d,2a8824b9c6f3c62b3c39bd01074629e1,5c2ae70e9efbe2278960d4855f26d3a9,65262793f9803a23d1663ea1eb9ce558,817664e36b5f67909736020d9b0857d3,8adb516f29d482e9eb05f978e8a12a35,8fc3b20feec51cc84d29c86455df4a3d,a982f0969f268b4873e8458b00b69411,acaf7a5829d41e6922cd80a98b1799de,c413a124cf3f556e244ed0286abba98d,d1f5224529562e7d55fa03f51952a2cd,e028a54447640f5d471ac710a9a3950f,e5c27ccdc69b7c2314b331dabd5677e1,f1032021c23998eb8b191b1ae9f50bae,ff9ccb5b19cd450a9ba0d621b18caa4c</data>
+      <data key="d3">1</data>
+      <data key="d4">7</data>
+      <data key="d5">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country where Tucson, Pima County, and Arizona are located. In its history, the United States deployed forces in Cuba, Puerto Rico, and the Philippine Islands against Spain during the Spanish-American War. Additionally, the country was involved in an agreement with the Soviet Union to liberate Korea and later contributed significantly to the UN forces during the Korean War. However, it is also notable that the United States had a complex past, where slavery existed, and President Lincoln reaffirmed his commitment not to interfere with it.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">0a30dd3e2d67a4d804e3bd333979c37e,10899927d9f4448056cc57d359cfa1d7,1dcdba6ef16b4063b485967e087556a4,1e7d603c3c1653baf44961cf500bf663,21ca6b6e95f370cc943ecef4766ea23c,220a31e37eac11f120f8200cec9b0a2d,2a8824b9c6f3c62b3c39bd01074629e1,5c2ae70e9efbe2278960d4855f26d3a9,65262793f9803a23d1663ea1eb9ce558,817664e36b5f67909736020d9b0857d3,8adb516f29d482e9eb05f978e8a12a35,8fc3b20feec51cc84d29c86455df4a3d,a982f0969f268b4873e8458b00b69411,acaf7a5829d41e6922cd80a98b1799de,c413a124cf3f556e244ed0286abba98d,d1f5224529562e7d55fa03f51952a2cd,e028a54447640f5d471ac710a9a3950f,e5c27ccdc69b7c2314b331dabd5677e1,f1032021c23998eb8b191b1ae9f50bae,ff9ccb5b19cd450a9ba0d621b18caa4c</data>
+      <data key="d3">6</data>
+      <data key="d4">8</data>
+      <data key="d5">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">0a30dd3e2d67a4d804e3bd333979c37e,10899927d9f4448056cc57d359cfa1d7,1dcdba6ef16b4063b485967e087556a4,1e7d603c3c1653baf44961cf500bf663,21ca6b6e95f370cc943ecef4766ea23c,220a31e37eac11f120f8200cec9b0a2d,2a8824b9c6f3c62b3c39bd01074629e1,5c2ae70e9efbe2278960d4855f26d3a9,65262793f9803a23d1663ea1eb9ce558,817664e36b5f67909736020d9b0857d3,8adb516f29d482e9eb05f978e8a12a35,8fc3b20feec51cc84d29c86455df4a3d,a982f0969f268b4873e8458b00b69411,acaf7a5829d41e6922cd80a98b1799de,c413a124cf3f556e244ed0286abba98d,d1f5224529562e7d55fa03f51952a2cd,e028a54447640f5d471ac710a9a3950f,e5c27ccdc69b7c2314b331dabd5677e1,f1032021c23998eb8b191b1ae9f50bae,ff9ccb5b19cd450a9ba0d621b18caa4c</data>
+      <data key="d3">2</data>
+      <data key="d4">9</data>
+      <data key="d5">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">0a30dd3e2d67a4d804e3bd333979c37e,10899927d9f4448056cc57d359cfa1d7,1dcdba6ef16b4063b485967e087556a4,1e7d603c3c1653baf44961cf500bf663,21ca6b6e95f370cc943ecef4766ea23c,220a31e37eac11f120f8200cec9b0a2d,2a8824b9c6f3c62b3c39bd01074629e1,5c2ae70e9efbe2278960d4855f26d3a9,65262793f9803a23d1663ea1eb9ce558,817664e36b5f67909736020d9b0857d3,8adb516f29d482e9eb05f978e8a12a35,8fc3b20feec51cc84d29c86455df4a3d,a982f0969f268b4873e8458b00b69411,acaf7a5829d41e6922cd80a98b1799de,c413a124cf3f556e244ed0286abba98d,d1f5224529562e7d55fa03f51952a2cd,e028a54447640f5d471ac710a9a3950f,e5c27ccdc69b7c2314b331dabd5677e1,f1032021c23998eb8b191b1ae9f50bae,ff9ccb5b19cd450a9ba0d621b18caa4c</data>
+      <data key="d3">1</data>
+      <data key="d4">10</data>
+      <data key="d5">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">0a30dd3e2d67a4d804e3bd333979c37e,10899927d9f4448056cc57d359cfa1d7,1dcdba6ef16b4063b485967e087556a4,1e7d603c3c1653baf44961cf500bf663,21ca6b6e95f370cc943ecef4766ea23c,220a31e37eac11f120f8200cec9b0a2d,2a8824b9c6f3c62b3c39bd01074629e1,5c2ae70e9efbe2278960d4855f26d3a9,65262793f9803a23d1663ea1eb9ce558,817664e36b5f67909736020d9b0857d3,8adb516f29d482e9eb05f978e8a12a35,8fc3b20feec51cc84d29c86455df4a3d,a982f0969f268b4873e8458b00b69411,acaf7a5829d41e6922cd80a98b1799de,c413a124cf3f556e244ed0286abba98d,d1f5224529562e7d55fa03f51952a2cd,e028a54447640f5d471ac710a9a3950f,e5c27ccdc69b7c2314b331dabd5677e1,f1032021c23998eb8b191b1ae9f50bae,ff9ccb5b19cd450a9ba0d621b18caa4c</data>
+      <data key="d3">1</data>
+      <data key="d4">11</data>
+      <data key="d5">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">0a30dd3e2d67a4d804e3bd333979c37e,10899927d9f4448056cc57d359cfa1d7,1dcdba6ef16b4063b485967e087556a4,1e7d603c3c1653baf44961cf500bf663,21ca6b6e95f370cc943ecef4766ea23c,220a31e37eac11f120f8200cec9b0a2d,2a8824b9c6f3c62b3c39bd01074629e1,5c2ae70e9efbe2278960d4855f26d3a9,65262793f9803a23d1663ea1eb9ce558,817664e36b5f67909736020d9b0857d3,8adb516f29d482e9eb05f978e8a12a35,8fc3b20feec51cc84d29c86455df4a3d,a982f0969f268b4873e8458b00b69411,acaf7a5829d41e6922cd80a98b1799de,c413a124cf3f556e244ed0286abba98d,d1f5224529562e7d55fa03f51952a2cd,e028a54447640f5d471ac710a9a3950f,e5c27ccdc69b7c2314b331dabd5677e1,f1032021c23998eb8b191b1ae9f50bae,ff9ccb5b19cd450a9ba0d621b18caa4c</data>
+      <data key="d3">0</data>
+      <data key="d4">12</data>
+      <data key="d5">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0a30dd3e2d67a4d804e3bd333979c37e,10899927d9f4448056cc57d359cfa1d7,1dcdba6ef16b4063b485967e087556a4,1e7d603c3c1653baf44961cf500bf663,21ca6b6e95f370cc943ecef4766ea23c,220a31e37eac11f120f8200cec9b0a2d,2a8824b9c6f3c62b3c39bd01074629e1,5c2ae70e9efbe2278960d4855f26d3a9,65262793f9803a23d1663ea1eb9ce558,817664e36b5f67909736020d9b0857d3,8adb516f29d482e9eb05f978e8a12a35,8fc3b20feec51cc84d29c86455df4a3d,a982f0969f268b4873e8458b00b69411,acaf7a5829d41e6922cd80a98b1799de,c413a124cf3f556e244ed0286abba98d,d1f5224529562e7d55fa03f51952a2cd,e028a54447640f5d471ac710a9a3950f,e5c27ccdc69b7c2314b331dabd5677e1,f1032021c23998eb8b191b1ae9f50bae,ff9ccb5b19cd450a9ba0d621b18caa4c</data>
+      <data key="d3">5</data>
+      <data key="d4">13</data>
+      <data key="d5">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;LINCOLN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lincoln is the incoming Republican President who declared that his administration would not initiate a civil war and attempted to calm the fears of Southern States."</data>
+      <data key="d2">8fc3b20feec51cc84d29c86455df4a3d</data>
+      <data key="d3">2</data>
+      <data key="d4">14</data>
+      <data key="d5">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;CONFEDERATE STATES OF AMERICA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Confederate States of America is a newly formed entity that seized federal forts within its claimed territory, leading to preparations for war."</data>
+      <data key="d2">8fc3b20feec51cc84d29c86455df4a3d</data>
+      <data key="d3">1</data>
+      <data key="d4">15</data>
+      <data key="d5">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;SOUTHERN STATES &quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Southern States are a region addressed by Lincoln in his inaugural address, attempting to calm their fears of threats to slavery."</data>
+      <data key="d2">8fc3b20feec51cc84d29c86455df4a3d</data>
+      <data key="d3">1</data>
+      <data key="d4">16</data>
+      <data key="d5">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;JAMES BUCHANAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8fc3b20feec51cc84d29c86455df4a3d</data>
+      <data key="d3">1</data>
+      <data key="d4">17</data>
+      <data key="d5">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;SECESSION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8fc3b20feec51cc84d29c86455df4a3d</data>
+      <data key="d3">1</data>
+      <data key="d4">18</data>
+      <data key="d5">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;OTTOMAN EMPIRE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Ottoman Empire was a historical empire that is relevant to the context of the Armenian Genocide."</data>
+      <data key="d2">ff9ccb5b19cd450a9ba0d621b18caa4c</data>
+      <data key="d3">1</data>
+      <data key="d4">19</data>
+      <data key="d5">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;ARMENIANS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Armenians are an ethnic group that has been persecuted and subjected to genocide."</data>
+      <data key="d2">ff9ccb5b19cd450a9ba0d621b18caa4c</data>
+      <data key="d3">1</data>
+      <data key="d4">20</data>
+      <data key="d5">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;RECOGNITION OF THE ARMENIAN GENOCIDE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Recognition of the Armenian Genocide is an event where various foreign countries have passed legislation condemning the persecution of Armenians as genocide."</data>
+      <data key="d2">ff9ccb5b19cd450a9ba0d621b18caa4c</data>
+      <data key="d3">1</data>
+      <data key="d4">21</data>
+      <data key="d5">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;REPUBLIC OF TURKEY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ff9ccb5b19cd450a9ba0d621b18caa4c</data>
+      <data key="d3">1</data>
+      <data key="d4">22</data>
+      <data key="d5">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;NETHERLANDS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Netherlands is a country that allied with England in the Nine Years' War, but was forced to devote more resources to the land war in Europe, ultimately losing its colonial power."</data>
+      <data key="d2">817664e36b5f67909736020d9b0857d3</data>
+      <data key="d3">1</data>
+      <data key="d4">23</data>
+      <data key="d5">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;SPAIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Spain is a country that played a significant role in several major conflicts throughout its history. During the Nine Years' War, Spain fought against the Anglo-Dutch alliance. Later, it was involved in the Peninsular War and had internal affairs influenced by French agents. Additionally, Spain was the colonial power that Cuba fought against for independence, and later engaged in war with the United States.</data>
+      <data key="d2">0a30dd3e2d67a4d804e3bd333979c37e,220a31e37eac11f120f8200cec9b0a2d,817664e36b5f67909736020d9b0857d3</data>
+      <data key="d3">3</data>
+      <data key="d4">24</data>
+      <data key="d5">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;BRITAIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Britain is a country that rose to become the world's dominant colonial power in the 18th century, after previously being known as England."</data>
+      <data key="d2">817664e36b5f67909736020d9b0857d3</data>
+      <data key="d3">1</data>
+      <data key="d4">25</data>
+      <data key="d5">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;ANGLO-DUTCH ALLIANCE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Anglo-Dutch alliance is a military alliance between England and the Netherlands formed during the Nine Years' War."</data>
+      <data key="d2">817664e36b5f67909736020d9b0857d3</data>
+      <data key="d3">1</data>
+      <data key="d4">26</data>
+      <data key="d5">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;ENGLAND&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+England is a country that has been shaped by significant historical events. The Revolution had a profound impact on England, leading to the denial of rights to Catholics and influencing its political history. Additionally, the baronial conflict also played a role in shaping England's development, as it prevented King John from enforcing English laws and customs on native Irish kingdoms.</data>
+      <data key="d2">817664e36b5f67909736020d9b0857d3,c413a124cf3f556e244ed0286abba98d,d1f5224529562e7d55fa03f51952a2cd</data>
+      <data key="d3">3</data>
+      <data key="d4">27</data>
+      <data key="d5">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;UNITED NATIONS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+The United Nations demonstrated its crucial role in international conflict resolution by approving the use of force to help South Koreans, which led to the authorization of the formation and dispatch of UN forces to Korea. This decisive action was taken to repel the North Korean invasion, showcasing the organization's commitment to maintaining global peace and security.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">8adb516f29d482e9eb05f978e8a12a35,f1032021c23998eb8b191b1ae9f50bae</data>
+      <data key="d6">9</data>
+      <data key="d7">1</data>
+      <data key="d3">3</data>
+      <data key="d4">28</data>
+      <data key="d5">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;YUGOSLAVIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Yugoslavia was considered a vital location for the defense of Italy and Greece, and a potential Soviet target due to the Tito-Stalin Split."</data>
+      <data key="d2">8adb516f29d482e9eb05f978e8a12a35</data>
+      <data key="d6">8</data>
+      <data key="d7">1</data>
+      <data key="d3">1</data>
+      <data key="d4">29</data>
+      <data key="d5">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;TRUMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Truman believed that unchecked aggression would lead to a chain reaction of Communist expansion, showing his commitment to containing communism."</data>
+      <data key="d2">8adb516f29d482e9eb05f978e8a12a35</data>
+      <data key="d6">7</data>
+      <data key="d7">1</data>
+      <data key="d3">1</data>
+      <data key="d4">30</data>
+      <data key="d5">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;NORTH KOREA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is a comprehensive summary of North Korea:
+
+North Korea is a country that has been impacted by cultural imperialism, with smuggled South Korean drama series influencing its people. Historically, on June 25, 1950, North Korea, as a geographic region, moved into the south, sparking open warfare and prompting an invasion of South Korea. This act of aggression led to international intervention.</data>
+      <data key="d2">8adb516f29d482e9eb05f978e8a12a35,e028a54447640f5d471ac710a9a3950f,f1032021c23998eb8b191b1ae9f50bae</data>
+      <data key="d6">7</data>
+      <data key="d7">1</data>
+      <data key="d3">4</data>
+      <data key="d4">31</data>
+      <data key="d5">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&quot;SOUTH KOREA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+South Korea is a country whose popular culture has had a significant impact, even influencing its neighboring nation, North Korea, through the smuggling of drama series. Additionally, South Korea received crucial military aid from the United States and the United Nations to counter the invasion by North Korea.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">8adb516f29d482e9eb05f978e8a12a35,e028a54447640f5d471ac710a9a3950f</data>
+      <data key="d6">9</data>
+      <data key="d7">1</data>
+      <data key="d3">2</data>
+      <data key="d4">32</data>
+      <data key="d5">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&quot;TRUMAN ADMINISTRATION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8adb516f29d482e9eb05f978e8a12a35</data>
+      <data key="d6">9</data>
+      <data key="d7">1</data>
+      <data key="d3">1</data>
+      <data key="d4">33</data>
+      <data key="d5">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&quot;SOVIET UNION&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+The Soviet Union was a country that played a significant role in regional politics, particularly in Korea, where it declared war on Imperial Japan and liberated the region north of the 38th parallel. Despite declaring itself anti-imperialist, critics argue that the Soviet Union exhibited tendencies common to historic empires. Additionally, the country suffered significant civilian fatalities during World War II.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">10899927d9f4448056cc57d359cfa1d7,1dcdba6ef16b4063b485967e087556a4,8adb516f29d482e9eb05f978e8a12a35,f1032021c23998eb8b191b1ae9f50bae</data>
+      <data key="d6">8</data>
+      <data key="d7">1</data>
+      <data key="d3">4</data>
+      <data key="d4">34</data>
+      <data key="d5">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&quot;ETHIOPIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ethiopia is a geographic location that grew weaker during this period."</data>
+      <data key="d2">acaf7a5829d41e6922cd80a98b1799de</data>
+      <data key="d3">2</data>
+      <data key="d4">35</data>
+      <data key="d5">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&quot;HAILE SELASSIE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Haile Selassie was the Emperor of Ethiopia who was overthrown by the Derg in 1974."</data>
+      <data key="d2">acaf7a5829d41e6922cd80a98b1799de</data>
+      <data key="d3">1</data>
+      <data key="d4">36</data>
+      <data key="d5">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&quot;DERG&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Derg is a military council that overthrew Haile Selassie and fell into internal conflict."</data>
+      <data key="d2">acaf7a5829d41e6922cd80a98b1799de</data>
+      <data key="d3">2</data>
+      <data key="d4">37</data>
+      <data key="d5">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&quot;ANTI-DERG MOVEMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Anti-Derg movement is a group opposed to the Derg regime."</data>
+      <data key="d2">acaf7a5829d41e6922cd80a98b1799de</data>
+      <data key="d3">1</data>
+      <data key="d4">38</data>
+      <data key="d5">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&quot;SEPARATIST MOVEMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Separatist movement is a group seeking independence or autonomy from Ethiopia."</data>
+      <data key="d2">acaf7a5829d41e6922cd80a98b1799de</data>
+      <data key="d3">1</data>
+      <data key="d4">39</data>
+      <data key="d5">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <node id="&quot;SOMALIA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">acaf7a5829d41e6922cd80a98b1799de</data>
+      <data key="d3">1</data>
+      <data key="d4">40</data>
+      <data key="d5">3ce7c210a21b4deebad7cc9308148d86</data>
+    </node>
+    <node id="&quot;THOMAS HOBBES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Thomas Hobbes was a philosopher who contrasted 'culture' with 'the state of nature', influencing the concept of civilization."</data>
+      <data key="d2">21ca6b6e95f370cc943ecef4766ea23c</data>
+      <data key="d3">1</data>
+      <data key="d4">41</data>
+      <data key="d5">d64ed762ea924caa95c8d06f072a9a96</data>
+    </node>
+    <node id="&quot;JEAN-JACQUES ROUSSEAU&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jean-Jacques Rousseau was a philosopher who contrasted 'culture' with 'the state of nature', shaping the idea of civilization."</data>
+      <data key="d2">21ca6b6e95f370cc943ecef4766ea23c</data>
+      <data key="d3">1</data>
+      <data key="d4">42</data>
+      <data key="d5">adf4ee3fbe9b4d0381044838c4f889c8</data>
+    </node>
+    <node id="&quot;NATIVE AMERICANS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Native Americans were indigenous peoples living in the Americas, often characterized as being in a 'state of nature' by European philosophers."</data>
+      <data key="d2">21ca6b6e95f370cc943ecef4766ea23c</data>
+      <data key="d3">1</data>
+      <data key="d4">43</data>
+      <data key="d5">32ee140946e5461f9275db664dc541a5</data>
+    </node>
+    <node id="&quot;EUROPEANS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Europeans were colonizers who contrasted their 'civilized' culture with that of Native Americans and other non-European societies."</data>
+      <data key="d2">21ca6b6e95f370cc943ecef4766ea23c</data>
+      <data key="d3">0</data>
+      <data key="d4">44</data>
+      <data key="d5">c160b9cb27d6408ba6ab20214a2f3f81</data>
+    </node>
+    <node id="&quot;HERBERT SPENCER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Herbert Spencer developed the theory of Social Darwinism, which was influenced by the concept of civilization."</data>
+      <data key="d2">21ca6b6e95f370cc943ecef4766ea23c</data>
+      <data key="d3">1</data>
+      <data key="d4">45</data>
+      <data key="d5">23527cd679ff4d5a988d52e7cd056078</data>
+    </node>
+    <node id="&quot;LEWIS HENRY MORGAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lewis Henry Morgan developed the theory of cultural evolution, building on the ideas of civilization and 'the state of nature'."</data>
+      <data key="d2">21ca6b6e95f370cc943ecef4766ea23c</data>
+      <data key="d3">0</data>
+      <data key="d4">46</data>
+      <data key="d5">f1c6eed066f24cbdb376b910fce29ed4</data>
+    </node>
+    <node id="&quot;MATTHEW ARNOLD&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">21ca6b6e95f370cc943ecef4766ea23c</data>
+      <data key="d3">1</data>
+      <data key="d4">47</data>
+      <data key="d5">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+    </node>
+    <node id="&quot;CULTURE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">21ca6b6e95f370cc943ecef4766ea23c</data>
+      <data key="d3">2</data>
+      <data key="d4">48</data>
+      <data key="d5">147c038aef3e4422acbbc5f7938c4ab8</data>
+    </node>
+    <node id="&quot;STATE OF NATURE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">21ca6b6e95f370cc943ecef4766ea23c</data>
+      <data key="d3">3</data>
+      <data key="d4">49</data>
+      <data key="d5">b7702b90c7f24190b864e8c6e64612a5</data>
+    </node>
+    <node id="&quot;PORTUGUESE GOVERNMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Portuguese government made a policy change that displeased Napoleon, leading to French invasion."</data>
+      <data key="d2">220a31e37eac11f120f8200cec9b0a2d</data>
+      <data key="d3">1</data>
+      <data key="d4">50</data>
+      <data key="d5">de6fa24480894518ab3cbcb66f739266</data>
+    </node>
+    <node id="&quot;GENERAL JUNOT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"General Junot led 24,000 French troops in the invasion of Portugal, carrying out Napoleon's orders."</data>
+      <data key="d2">220a31e37eac11f120f8200cec9b0a2d</data>
+      <data key="d3">1</data>
+      <data key="d4">51</data>
+      <data key="d5">6fae5ee1a831468aa585a1ea09095998</data>
+    </node>
+    <node id="&quot;PENINSULAR WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Peninsular War was a six-year struggle that weakened French strength, sparked by Napoleon's invasion of Portugal."</data>
+      <data key="d2">220a31e37eac11f120f8200cec9b0a2d</data>
+      <data key="d3">1</data>
+      <data key="d4">52</data>
+      <data key="d5">ef32c4b208d041cc856f6837915dc1b0</data>
+    </node>
+    <node id="&quot;MARSHAL MURAT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Marshal Murat led 120,000 troops into Spain, enforcing Napoleon's will and sparking riots in Madrid."</data>
+      <data key="d2">220a31e37eac11f120f8200cec9b0a2d</data>
+      <data key="d3">1</data>
+      <data key="d4">53</data>
+      <data key="d5">07b2425216bd4f0aa4e079827cb48ef5</data>
+    </node>
+    <node id="&quot;JOSEPH BONAPARTE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Joseph Bonaparte was appointed as the new King of Spain by Napoleon, enraging the Spanish population."</data>
+      <data key="d2">220a31e37eac11f120f8200cec9b0a2d</data>
+      <data key="d3">1</data>
+      <data key="d4">54</data>
+      <data key="d5">2670deebfa3f4d69bb82c28ab250a209</data>
+    </node>
+    <node id="&quot;NAPOLEON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">220a31e37eac11f120f8200cec9b0a2d</data>
+      <data key="d3">4</data>
+      <data key="d4">55</data>
+      <data key="d5">404309e89a5241d6bff42c05a45df206</data>
+    </node>
+    <node id="&quot;JAMES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"James was a monarch whose overthrow led to the development of modern English parliamentary democracy, as argued by Whig historians."</data>
+      <data key="d2">d1f5224529562e7d55fa03f51952a2cd</data>
+      <data key="d3">1</data>
+      <data key="d4">56</data>
+      <data key="d5">b785a9025069417f94950ad231bb1441</data>
+    </node>
+    <node id="&quot;WESTMINSTER PARLIAMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Westminster Parliament is a legislative body where Catholics were denied the right to sit for over a century after The Revolution."</data>
+      <data key="d2">d1f5224529562e7d55fa03f51952a2cd</data>
+      <data key="d3">1</data>
+      <data key="d4">57</data>
+      <data key="d5">3b6cd96a27304614850709aba1c9598b</data>
+    </node>
+    <node id="&quot;THE REVOLUTION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d1f5224529562e7d55fa03f51952a2cd</data>
+      <data key="d3">3</data>
+      <data key="d4">58</data>
+      <data key="d5">d54956b79dd147f894b67a8b97dcbef0</data>
+    </node>
+    <node id="&quot;CATHOLICS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d1f5224529562e7d55fa03f51952a2cd</data>
+      <data key="d3">1</data>
+      <data key="d4">59</data>
+      <data key="d5">958beecdb5bb4060948415ffd75d2b03</data>
+    </node>
+    <node id="&quot;THE BILL OF RIGHTS 1689&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d1f5224529562e7d55fa03f51952a2cd</data>
+      <data key="d3">1</data>
+      <data key="d4">60</data>
+      <data key="d5">b999ed77e19e4f85b7f1ae79af5c002a</data>
+    </node>
+    <node id="&quot;VSS TRUD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"VSS Trud is an organization where Boris Lagutin trained as a boxer until 1967."</data>
+      <data key="d2">e5c27ccdc69b7c2314b331dabd5677e1</data>
+      <data key="d3">1</data>
+      <data key="d4">61</data>
+      <data key="d5">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+    </node>
+    <node id="&quot;VSS SPARTAK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"VSS Spartak is an organization where Boris Lagutin trained as a boxer after 1967."</data>
+      <data key="d2">e5c27ccdc69b7c2314b331dabd5677e1</data>
+      <data key="d3">1</data>
+      <data key="d4">62</data>
+      <data key="d5">4f3c97517f794ebfb49c4c6315f9cf23</data>
+    </node>
+    <node id="&quot;USSR TEAM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The USSR team is a national boxing team that Boris Lagutin was part of, winning championships and medals."</data>
+      <data key="d2">e5c27ccdc69b7c2314b331dabd5677e1</data>
+      <data key="d3">1</data>
+      <data key="d4">63</data>
+      <data key="d5">1745a2485a9443bab76587ad650e9be0</data>
+    </node>
+    <node id="&quot;MOSCOW&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Moscow is the birthplace of Boris Nikolayevich Lagutin."</data>
+      <data key="d2">e5c27ccdc69b7c2314b331dabd5677e1</data>
+      <data key="d3">1</data>
+      <data key="d4">64</data>
+      <data key="d5">32e6ccab20d94029811127dbbe424c64</data>
+    </node>
+    <node id="&quot;1964 OLYMPICS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 1964 Olympics is an event where Boris Lagutin won a gold medal."</data>
+      <data key="d2">e5c27ccdc69b7c2314b331dabd5677e1</data>
+      <data key="d3">1</data>
+      <data key="d4">65</data>
+      <data key="d5">94a964c6992945ebb3833dfdfdc8d655</data>
+    </node>
+    <node id="&quot;1968 OLYMPICS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 1968 Olympics is an event where Boris Lagutin won a gold medal again after overcoming a period of failures."</data>
+      <data key="d2">e5c27ccdc69b7c2314b331dabd5677e1</data>
+      <data key="d3">1</data>
+      <data key="d4">66</data>
+      <data key="d5">1eb829d0ace042089f0746f78729696c</data>
+    </node>
+    <node id="&quot;BORIS NIKOLAYEVICH LAGUTIN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e5c27ccdc69b7c2314b331dabd5677e1</data>
+      <data key="d3">6</data>
+      <data key="d4">67</data>
+      <data key="d5">015e7b58d1a14b44beab3bbc9f912c18</data>
+    </node>
+    <node id="&quot;ALLIES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Allies were one of the two opposing military alliances formed during World War II."</data>
+      <data key="d2">10899927d9f4448056cc57d359cfa1d7</data>
+      <data key="d6">6</data>
+      <data key="d7">1</data>
+      <data key="d3">1</data>
+      <data key="d4">68</data>
+      <data key="d5">26f88ab3e2e04c33a459ad6270ade565</data>
+    </node>
+    <node id="&quot;AXIS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Axis were one of the two opposing military alliances formed during World War II."</data>
+      <data key="d2">10899927d9f4448056cc57d359cfa1d7</data>
+      <data key="d6">6</data>
+      <data key="d7">1</data>
+      <data key="d3">1</data>
+      <data key="d4">69</data>
+      <data key="d5">babe97e1d9784cffa1c85abc1e588126</data>
+    </node>
+    <node id="&quot;CHINA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+China, a country with a complex history, played a significant role in two major global conflicts. During the Korean War, China supported North Korea, taking an active stance in the conflict. Additionally, China was severely impacted by World War II, suffering significant civilian fatalities as a result of its involvement.</data>
+      <data key="d2">10899927d9f4448056cc57d359cfa1d7,f1032021c23998eb8b191b1ae9f50bae</data>
+      <data key="d6">7</data>
+      <data key="d7">1</data>
+      <data key="d3">2</data>
+      <data key="d4">70</data>
+      <data key="d5">1033a18c45aa4584b2aef6ab96890351</data>
+    </node>
+    <node id="&quot;WORLD WAR II&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">10899927d9f4448056cc57d359cfa1d7</data>
+      <data key="d6">6</data>
+      <data key="d7">1</data>
+      <data key="d3">4</data>
+      <data key="d4">71</data>
+      <data key="d5">c9b8ce91fc2945b4907fe35519339cac</data>
+    </node>
+    <node id="&quot;AMERICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"America is a country whose cultural influence, particularly through television shows like Dallas, has changed the expectations of people in other countries."</data>
+      <data key="d2">e028a54447640f5d471ac710a9a3950f</data>
+      <data key="d3">1</data>
+      <data key="d4">72</data>
+      <data key="d5">fa3c4204421c48609e52c8de2da4c654</data>
+    </node>
+    <node id="&quot;ROMAN EMPIRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Roman Empire used cultural imperialism as a tool to influence local elites and expand its power."</data>
+      <data key="d2">e028a54447640f5d471ac710a9a3950f</data>
+      <data key="d3">1</data>
+      <data key="d4">73</data>
+      <data key="d5">53af055f068244d0ac861b2e89376495</data>
+    </node>
+    <node id="&quot;AUTHORITARIAN REGIMES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Authoritarian regimes are aware of the importance of soft power and try to control it through bans on foreign popular culture, internet control, and unauthorized satellite dishes."</data>
+      <data key="d2">e028a54447640f5d471ac710a9a3950f</data>
+      <data key="d3">0</data>
+      <data key="d4">74</data>
+      <data key="d5">c03ab3ce8cb74ad2a03b94723bfab3c7</data>
+    </node>
+    <node id="&quot;ROMANIA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e028a54447640f5d471ac710a9a3950f</data>
+      <data key="d3">1</data>
+      <data key="d4">75</data>
+      <data key="d5">ed6d2eee9d7b4f5db466b1f6404d31cc</data>
+    </node>
+    <node id="&quot;LOCAL ELITES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e028a54447640f5d471ac710a9a3950f</data>
+      <data key="d3">1</data>
+      <data key="d4">76</data>
+      <data key="d5">fc01e9baa80e417c9206f941bb279407</data>
+    </node>
+    <node id="&quot;JAMES MADISON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"James Madison was a key figure in the Federal Convention of 1787, influencing the language used in declaring war."</data>
+      <data key="d2">65262793f9803a23d1663ea1eb9ce558</data>
+      <data key="d3">1</data>
+      <data key="d4">77</data>
+      <data key="d5">56d0e5ebe79e4814bd1463cf6ca21394</data>
+    </node>
+    <node id="&quot;PRESIDENT OF THE UNITED STATES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The President of the United States has the power to request a declaration of war and repel sudden attacks."</data>
+      <data key="d2">65262793f9803a23d1663ea1eb9ce558</data>
+      <data key="d3">2</data>
+      <data key="d4">78</data>
+      <data key="d5">7c49f2710e8b4d3b8dc9310834406ea5</data>
+    </node>
+    <node id="&quot;CONGRESS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Congress has explicit approval authority over declarations of war, limiting the President's power."</data>
+      <data key="d2">65262793f9803a23d1663ea1eb9ce558</data>
+      <data key="d3">1</data>
+      <data key="d4">79</data>
+      <data key="d5">c6d1e4f56c2843e89cf0b91c10bb6de2</data>
+    </node>
+    <node id="&quot;FEDERAL CONVENTION OF 1787&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Federal Convention of 1787 was a significant event where the language used in declaring war was changed."</data>
+      <data key="d2">65262793f9803a23d1663ea1eb9ce558</data>
+      <data key="d3">1</data>
+      <data key="d4">80</data>
+      <data key="d5">0adb2d9941f34ef7b2f7743cc6225844</data>
+    </node>
+    <node id="&quot;NEW DELHI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New Delhi is the location where the International Commission of Jurists met to make the Declaration of Delhi."</data>
+      <data key="d2">a982f0969f268b4873e8458b00b69411</data>
+      <data key="d3">1</data>
+      <data key="d4">81</data>
+      <data key="d5">6b02373137fd438ba96af28f735cdbdb</data>
+    </node>
+    <node id="&quot;DECLARATION OF DELHI&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Declaration of Delhi is a statement made by the International Commission of Jurists in 1959, outlining the fundamental principles of the rule of law."</data>
+      <data key="d2">a982f0969f268b4873e8458b00b69411</data>
+      <data key="d3">1</data>
+      <data key="d4">82</data>
+      <data key="d5">36a4fcd8efc144e6b8af9a1c7ab8b2ce</data>
+    </node>
+    <node id="&quot;INTERNATIONAL COMMISSION OF JURISTS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a982f0969f268b4873e8458b00b69411</data>
+      <data key="d3">2</data>
+      <data key="d4">83</data>
+      <data key="d5">fbeef791d19b413a9c93c6608286ab63</data>
+    </node>
+    <node id="&quot;CUBAN WAR OF INDEPENDENCE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Cuban War of Independence was a liberation war fought by Cuba against Spain from 1895-1898."</data>
+      <data key="d2">0a30dd3e2d67a4d804e3bd333979c37e</data>
+      <data key="d3">1</data>
+      <data key="d4">84</data>
+      <data key="d5">d2b629c0396f4180a03e16ddf3818589</data>
+    </node>
+    <node id="&quot;SPANISH&#8211;AMERICAN WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Spanish&#8211;American War was a conflict between the United States and Spain, sparked by the escalation of the Cuban War of Independence."</data>
+      <data key="d2">0a30dd3e2d67a4d804e3bd333979c37e</data>
+      <data key="d3">1</data>
+      <data key="d4">85</data>
+      <data key="d5">6102fc6619ed422ebc42588bfa97355d</data>
+    </node>
+    <node id="&quot;TEN YEARS' WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Ten Years' War was one of three liberation wars fought by Cuba against Spain, taking place from 1868-1878."</data>
+      <data key="d2">0a30dd3e2d67a4d804e3bd333979c37e</data>
+      <data key="d3">0</data>
+      <data key="d4">86</data>
+      <data key="d5">8d141c0b80f74b79a05eed7fe161fe49</data>
+    </node>
+    <node id="&quot;LITTLE WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Little War was one of three liberation wars fought by Cuba against Spain, taking place from 1879-1880."</data>
+      <data key="d2">0a30dd3e2d67a4d804e3bd333979c37e</data>
+      <data key="d3">0</data>
+      <data key="d4">87</data>
+      <data key="d5">e22d1d1cd8d14f12b81828d940f40d70</data>
+    </node>
+    <node id="&quot;CUBA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0a30dd3e2d67a4d804e3bd333979c37e</data>
+      <data key="d3">1</data>
+      <data key="d4">88</data>
+      <data key="d5">9ab48505fb1b487babd0d1f6d3a3f980</data>
+    </node>
+    <node id="&quot;UN COMMITTEE ON ECONOMIC, SOCIAL AND CULTURAL RIGHTS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The UN Committee on Economic, Social and Cultural Rights issued a document highlighting the need for intellectual property systems to respect and conform to human rights laws."</data>
+      <data key="d2">2a8824b9c6f3c62b3c39bd01074629e1</data>
+      <data key="d3">1</data>
+      <data key="d4">89</data>
+      <data key="d5">148fffeb994541b2b4b6dcefda7001a8</data>
+    </node>
+    <node id="&quot;GENERAL ASSEMBLY OF WIPO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The General Assembly of WIPO adopted The Geneva Declaration, emphasizing the need for WIPO to focus on developing countries' needs and view IP as a tool for development."</data>
+      <data key="d2">2a8824b9c6f3c62b3c39bd01074629e1</data>
+      <data key="d3">1</data>
+      <data key="d4">90</data>
+      <data key="d5">89c08e793298442686292454a1abff31</data>
+    </node>
+    <node id="&quot;GENEVA DECLARATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Geneva Declaration is a document that outlines the future direction of WIPO, prioritizing the needs of developing countries and viewing IP as a means to an end."</data>
+      <data key="d2">2a8824b9c6f3c62b3c39bd01074629e1</data>
+      <data key="d3">2</data>
+      <data key="d4">91</data>
+      <data key="d5">0467928aa65e4a4fba62bdb1467e3a54</data>
+    </node>
+    <node id="&quot;WORLD INTELLECTUAL PROPERTY ORGANIZATION (WIPO)&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2a8824b9c6f3c62b3c39bd01074629e1</data>
+      <data key="d3">2</data>
+      <data key="d4">92</data>
+      <data key="d5">43c3390303c6476cb65f584e37c3e81c</data>
+    </node>
+    <node id="&quot;LENIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lenin wrote extensively on imperialism and declared it to be the highest stage of capitalism."</data>
+      <data key="d2">1dcdba6ef16b4063b485967e087556a4</data>
+      <data key="d3">1</data>
+      <data key="d4">93</data>
+      <data key="d5">fa14b16c17e3417dba5a4b473ea5b18d</data>
+    </node>
+    <node id="&quot;JOSEPH STALIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Stalin established 'socialism in one country' for the Soviet Union, creating a model for subsequent inward-looking Stalinist states."</data>
+      <data key="d2">1dcdba6ef16b4063b485967e087556a4</data>
+      <data key="d3">1</data>
+      <data key="d4">94</data>
+      <data key="d5">7cc3356d38de4328a51a5cbcb187dac3</data>
+    </node>
+    <node id="&quot;NIKITA KHRUSHCHEV&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Khrushchev was a political leader who put pressure on Soviet-American relations and started a new wave of anti-imperialist propaganda."</data>
+      <data key="d2">1dcdba6ef16b4063b485967e087556a4</data>
+      <data key="d3">1</data>
+      <data key="d4">95</data>
+      <data key="d5">bef16fb5fd7344cca5e295b13ef3e0cd</data>
+    </node>
+    <node id="&quot;MAO ZEDONG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Mao Zedong, the leader of China, played a crucial role in reporting to the Politburo about intervening in Korea after reorganizing the PLA invasion force. Additionally, he held a critical view of the Soviet Union, arguing that it had become an imperialist power despite maintaining a socialist fa&#231;ade.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">1dcdba6ef16b4063b485967e087556a4,1e7d603c3c1653baf44961cf500bf663</data>
+      <data key="d3">1</data>
+      <data key="d4">96</data>
+      <data key="d5">bb9e01bc171d4326a29afda59ece8d17</data>
+    </node>
+    <node id="&quot;SULTAN GALIEV&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Galiev was a non-Russian Marxist who considered the Soviet Regime to be a renewed version of Russian imperialism and colonialism."</data>
+      <data key="d2">1dcdba6ef16b4063b485967e087556a4</data>
+      <data key="d3">0</data>
+      <data key="d4">97</data>
+      <data key="d5">3c063eea52e94164b70c99431ea30bae</data>
+    </node>
+    <node id="&quot;VASYL SHAKHRAI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Shakhrai was a non-Russian Marxist who considered the Soviet Regime to be a renewed version of Russian imperialism and colonialism."</data>
+      <data key="d2">1dcdba6ef16b4063b485967e087556a4</data>
+      <data key="d3">0</data>
+      <data key="d4">98</data>
+      <data key="d5">252cc8452bfc4c2aa58cab68d8b61879</data>
+    </node>
+    <node id="&quot;RUSSIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Russia is the country where the revolution took place and where the Soviet Union was established."</data>
+      <data key="d2">1dcdba6ef16b4063b485967e087556a4</data>
+      <data key="d3">0</data>
+      <data key="d4">99</data>
+      <data key="d5">7e2c84548fb94ee395ba8588d8f2a006</data>
+    </node>
+    <node id="&quot;TROTSKY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1dcdba6ef16b4063b485967e087556a4</data>
+      <data key="d3">1</data>
+      <data key="d4">100</data>
+      <data key="d5">f034618dde7948beb6dab30176d0fc87</data>
+    </node>
+    <node id="&quot;REVOLUTION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1dcdba6ef16b4063b485967e087556a4</data>
+      <data key="d3">1</data>
+      <data key="d4">101</data>
+      <data key="d5">5c41f96be13e49dba649454297834546</data>
+    </node>
+    <node id="&quot;IMPERIALISM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1dcdba6ef16b4063b485967e087556a4</data>
+      <data key="d3">1</data>
+      <data key="d4">102</data>
+      <data key="d5">7ea4afbf8a264f29af29950ce98105ba</data>
+    </node>
+    <node id="&quot;SOCIALISM IN ONE COUNTRY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1dcdba6ef16b4063b485967e087556a4</data>
+      <data key="d3">1</data>
+      <data key="d4">103</data>
+      <data key="d5">91ff849d12b24574b0691dbddf44968b</data>
+    </node>
+    <node id="&quot;ANTI-IMPERIALIST PROPAGANDA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1dcdba6ef16b4063b485967e087556a4</data>
+      <data key="d3">1</data>
+      <data key="d4">104</data>
+      <data key="d5">d73c1f2fb3094d8dace42ad2a76e9a52</data>
+    </node>
+    <node id="&quot;IMPERIAL JAPAN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Imperial Japan was a ruling power that controlled Korea from 1910 until the end of World War II."</data>
+      <data key="d2">f1032021c23998eb8b191b1ae9f50bae</data>
+      <data key="d6">8</data>
+      <data key="d7">1</data>
+      <data key="d3">1</data>
+      <data key="d4">105</data>
+      <data key="d5">cdc8901e668749889bd49bebdc4ff1f6</data>
+    </node>
+    <node id="&quot;KOREA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f1032021c23998eb8b191b1ae9f50bae</data>
+      <data key="d6">8</data>
+      <data key="d7">1</data>
+      <data key="d3">4</data>
+      <data key="d4">106</data>
+      <data key="d5">36084a9fab53433493f079e97e68bf65</data>
+    </node>
+    <node id="&quot;PRESIDENT TRUMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"President Truman is the leader who made the decision to dispatch the United States Seventh Fleet to the Taiwan Strait."</data>
+      <data key="d2">1e7d603c3c1653baf44961cf500bf663</data>
+      <data key="d3">1</data>
+      <data key="d4">107</data>
+      <data key="d5">eebcc7ec8e3e4df7aea83659bbdc2199</data>
+    </node>
+    <node id="&quot;NATIONALIST REPUBLIC OF CHINA (TAIWAN)&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Nationalist Republic of China, also known as Taiwan, is a country involved in a potential conflict with the People's Republic of China."</data>
+      <data key="d2">1e7d603c3c1653baf44961cf500bf663</data>
+      <data key="d3">1</data>
+      <data key="d4">108</data>
+      <data key="d5">ceadf262ef834e9ab146b20650912cae</data>
+    </node>
+    <node id="&quot;PEOPLE'S REPUBLIC OF CHINA (PRC)&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The People's Republic of China is a country that invaded Korea and was involved in a potential conflict with Taiwan."</data>
+      <data key="d2">1e7d603c3c1653baf44961cf500bf663</data>
+      <data key="d3">1</data>
+      <data key="d4">109</data>
+      <data key="d5">7f65feab75424b53b24470d305ba331a</data>
+    </node>
+    <node id="&quot;PEOPLE'S LIBERATION ARMY (PLA)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The People's Liberation Army is a military force involved in the invasion of Taiwan and later reorganized into the PLA North East Frontier Force."</data>
+      <data key="d2">1e7d603c3c1653baf44961cf500bf663</data>
+      <data key="d3">1</data>
+      <data key="d4">110</data>
+      <data key="d5">fd9cb733b28d420cb5cef01e545a132c</data>
+    </node>
+    <node id="&quot;POLITBURO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Politburo is a governing body that Mao Zedong reported to about intervening in Korea."</data>
+      <data key="d2">1e7d603c3c1653baf44961cf500bf663</data>
+      <data key="d3">0</data>
+      <data key="d4">111</data>
+      <data key="d5">0fbcca3f17c649a08aea64b5a7d9ef36</data>
+    </node>
+    <node id="&quot;KOREA WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Korea War is a conflict involving China, the United States, and other countries, sparked by the KPA invasion."</data>
+      <data key="d2">1e7d603c3c1653baf44961cf500bf663</data>
+      <data key="d3">0</data>
+      <data key="d4">112</data>
+      <data key="d5">482027a59f32484c9c44fd700615c1b6</data>
+    </node>
+    <node id="&quot;UNITED STATES SEVENTH FLEET&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1e7d603c3c1653baf44961cf500bf663</data>
+      <data key="d3">1</data>
+      <data key="d4">113</data>
+      <data key="d5">de837ff3d626451282ff6ac77a82216d</data>
+    </node>
+    <node id="&quot;PHILIP&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Philip is a ruler on the continent with whom John fought a war, indicating a significant conflict."</data>
+      <data key="d2">c413a124cf3f556e244ed0286abba98d</data>
+      <data key="d3">1</data>
+      <data key="d4">114</data>
+      <data key="d5">460295fed3ae4cd39f9f274cec9c2506</data>
+    </node>
+    <node id="&quot;RICHARD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Richard is a previous ruler whose policies John continued as king, suggesting a sense of continuity."</data>
+      <data key="d2">c413a124cf3f556e244ed0286abba98d</data>
+      <data key="d3">0</data>
+      <data key="d4">115</data>
+      <data key="d5">553b285bba60460ab1ed8341ae61282b</data>
+    </node>
+    <node id="&quot;DAVID CARPENTER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"David Carpenter is a historian who suspects that John might have enforced English laws and customs on native Irish kingdoms if not for the baronial conflict in England."</data>
+      <data key="d2">c413a124cf3f556e244ed0286abba98d</data>
+      <data key="d3">0</data>
+      <data key="d4">116</data>
+      <data key="d5">cec95bf17e7e4c939b56c9c6f402a29f</data>
+    </node>
+    <node id="&quot;ANGLO-NORMAN SETTLERS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Anglo-Norman settlers are a group of people who settled in Ireland and were involved in conflicts with the indigenous Irish chieftains."</data>
+      <data key="d2">c413a124cf3f556e244ed0286abba98d</data>
+      <data key="d3">1</data>
+      <data key="d4">117</data>
+      <data key="d5">599164aead034bc19446efacc77554d2</data>
+    </node>
+    <node id="&quot;INDIGENOUS IRISH CHIEFTAINS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Indigenous Irish chieftains are native leaders who resisted the expansion of John's power in Ireland, indicating ongoing tensions."</data>
+      <data key="d2">c413a124cf3f556e244ed0286abba98d</data>
+      <data key="d3">1</data>
+      <data key="d4">118</data>
+      <data key="d5">bbf148ae4d48422f8fdef754cfa2b9e4</data>
+    </node>
+    <node id="&quot;IRELAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ireland is a country that was a significant source of resources for John's war with Philip and a site of conflict between Anglo-Norman settlers and indigenous Irish chieftains."</data>
+      <data key="d2">c413a124cf3f556e244ed0286abba98d</data>
+      <data key="d3">1</data>
+      <data key="d4">119</data>
+      <data key="d5">de61b2670999433f807a6a1dc2b81e43</data>
+    </node>
+    <node id="&quot;JOHN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c413a124cf3f556e244ed0286abba98d</data>
+      <data key="d3">4</data>
+      <data key="d4">120</data>
+      <data key="d5">3e95dacfe57b4d57b5da4310ef2e157f</data>
+    </node>
+    <edge source="&quot;MALIAN GOVERNMENT&quot;" target="&quot;AL-QAEDA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Malian government is combating the radical Islamist group al-Qaeda in northern Mali."</data>
+      <data key="d10">5c2ae70e9efbe2278960d4855f26d3a9</data>
+      <data key="d11">1f1545308e9347af91fd03b94aadc21f</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;MALIAN GOVERNMENT&quot;" target="&quot;FRANCE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"France intervened on behalf of the Malian government's request to combat Islamic militants."</data>
+      <data key="d10">5c2ae70e9efbe2278960d4855f26d3a9</data>
+      <data key="d11">6ea81acaf232485e94fff638e03336e1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;FRANCE&quot;" target="&quot;OPERATION SERVAL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"France launched Operation Serval to dislodge al-Qaeda affiliated groups from northern Mali."</data>
+      <data key="d10">5c2ae70e9efbe2278960d4855f26d3a9</data>
+      <data key="d11">d136b08d586d488f9e4188b524c85a29</data>
+      <data key="d12">2</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;FRANCE&quot;" target="&quot;BRITAIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"France became the main rival of Britain on the imperial stage in the 18th century."</data>
+      <data key="d10">817664e36b5f67909736020d9b0857d3</data>
+      <data key="d11">cccfa151fedc4b218a8d96adc7dceabe</data>
+      <data key="d12">3</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is the county seat of Pima County."</data>
+      <data key="d10">0a30dd3e2d67a4d804e3bd333979c37e,10899927d9f4448056cc57d359cfa1d7,1dcdba6ef16b4063b485967e087556a4,1e7d603c3c1653baf44961cf500bf663,21ca6b6e95f370cc943ecef4766ea23c,220a31e37eac11f120f8200cec9b0a2d,2a8824b9c6f3c62b3c39bd01074629e1,5c2ae70e9efbe2278960d4855f26d3a9,65262793f9803a23d1663ea1eb9ce558,817664e36b5f67909736020d9b0857d3,8adb516f29d482e9eb05f978e8a12a35,8fc3b20feec51cc84d29c86455df4a3d,a982f0969f268b4873e8458b00b69411,acaf7a5829d41e6922cd80a98b1799de,c413a124cf3f556e244ed0286abba98d,d1f5224529562e7d55fa03f51952a2cd,e028a54447640f5d471ac710a9a3950f,e5c27ccdc69b7c2314b331dabd5677e1,f1032021c23998eb8b191b1ae9f50bae,ff9ccb5b19cd450a9ba0d621b18caa4c</data>
+      <data key="d11">ce54725672a74ebcabe6127577dacb2b</data>
+      <data key="d12">4</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Pima County is a county in Arizona."</data>
+      <data key="d10">0a30dd3e2d67a4d804e3bd333979c37e,10899927d9f4448056cc57d359cfa1d7,1dcdba6ef16b4063b485967e087556a4,1e7d603c3c1653baf44961cf500bf663,21ca6b6e95f370cc943ecef4766ea23c,220a31e37eac11f120f8200cec9b0a2d,2a8824b9c6f3c62b3c39bd01074629e1,5c2ae70e9efbe2278960d4855f26d3a9,65262793f9803a23d1663ea1eb9ce558,817664e36b5f67909736020d9b0857d3,8adb516f29d482e9eb05f978e8a12a35,8fc3b20feec51cc84d29c86455df4a3d,a982f0969f268b4873e8458b00b69411,acaf7a5829d41e6922cd80a98b1799de,c413a124cf3f556e244ed0286abba98d,d1f5224529562e7d55fa03f51952a2cd,e028a54447640f5d471ac710a9a3950f,e5c27ccdc69b7c2314b331dabd5677e1,f1032021c23998eb8b191b1ae9f50bae,ff9ccb5b19cd450a9ba0d621b18caa4c</data>
+      <data key="d11">ea2b28ca1a974ffab4517811dc1d1e5c</data>
+      <data key="d12">5</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The University of Arizona is located in Tucson."</data>
+      <data key="d10">0a30dd3e2d67a4d804e3bd333979c37e,10899927d9f4448056cc57d359cfa1d7,1dcdba6ef16b4063b485967e087556a4,1e7d603c3c1653baf44961cf500bf663,21ca6b6e95f370cc943ecef4766ea23c,220a31e37eac11f120f8200cec9b0a2d,2a8824b9c6f3c62b3c39bd01074629e1,5c2ae70e9efbe2278960d4855f26d3a9,65262793f9803a23d1663ea1eb9ce558,817664e36b5f67909736020d9b0857d3,8adb516f29d482e9eb05f978e8a12a35,8fc3b20feec51cc84d29c86455df4a3d,a982f0969f268b4873e8458b00b69411,acaf7a5829d41e6922cd80a98b1799de,c413a124cf3f556e244ed0286abba98d,d1f5224529562e7d55fa03f51952a2cd,e028a54447640f5d471ac710a9a3950f,e5c27ccdc69b7c2314b331dabd5677e1,f1032021c23998eb8b191b1ae9f50bae,ff9ccb5b19cd450a9ba0d621b18caa4c</data>
+      <data key="d11">aff21f1da1654e7babdcf3fb0e4a75fc</data>
+      <data key="d12">6</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Arizona is a state in the United States."</data>
+      <data key="d10">0a30dd3e2d67a4d804e3bd333979c37e,10899927d9f4448056cc57d359cfa1d7,1dcdba6ef16b4063b485967e087556a4,1e7d603c3c1653baf44961cf500bf663,21ca6b6e95f370cc943ecef4766ea23c,220a31e37eac11f120f8200cec9b0a2d,2a8824b9c6f3c62b3c39bd01074629e1,5c2ae70e9efbe2278960d4855f26d3a9,65262793f9803a23d1663ea1eb9ce558,817664e36b5f67909736020d9b0857d3,8adb516f29d482e9eb05f978e8a12a35,8fc3b20feec51cc84d29c86455df4a3d,a982f0969f268b4873e8458b00b69411,acaf7a5829d41e6922cd80a98b1799de,c413a124cf3f556e244ed0286abba98d,d1f5224529562e7d55fa03f51952a2cd,e028a54447640f5d471ac710a9a3950f,e5c27ccdc69b7c2314b331dabd5677e1,f1032021c23998eb8b191b1ae9f50bae,ff9ccb5b19cd450a9ba0d621b18caa4c</data>
+      <data key="d11">dc2cc9016e3f49dbac7232f05cce794d</data>
+      <data key="d12">7</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is a city in Arizona."</data>
+      <data key="d10">0a30dd3e2d67a4d804e3bd333979c37e,10899927d9f4448056cc57d359cfa1d7,1dcdba6ef16b4063b485967e087556a4,1e7d603c3c1653baf44961cf500bf663,21ca6b6e95f370cc943ecef4766ea23c,220a31e37eac11f120f8200cec9b0a2d,2a8824b9c6f3c62b3c39bd01074629e1,5c2ae70e9efbe2278960d4855f26d3a9,65262793f9803a23d1663ea1eb9ce558,817664e36b5f67909736020d9b0857d3,8adb516f29d482e9eb05f978e8a12a35,8fc3b20feec51cc84d29c86455df4a3d,a982f0969f268b4873e8458b00b69411,acaf7a5829d41e6922cd80a98b1799de,c413a124cf3f556e244ed0286abba98d,d1f5224529562e7d55fa03f51952a2cd,e028a54447640f5d471ac710a9a3950f,e5c27ccdc69b7c2314b331dabd5677e1,f1032021c23998eb8b191b1ae9f50bae,ff9ccb5b19cd450a9ba0d621b18caa4c</data>
+      <data key="d11">6ea0cef05f694dcea455478f40674e45</data>
+      <data key="d12">8</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Phoenix is a city in Arizona."</data>
+      <data key="d10">0a30dd3e2d67a4d804e3bd333979c37e,10899927d9f4448056cc57d359cfa1d7,1dcdba6ef16b4063b485967e087556a4,1e7d603c3c1653baf44961cf500bf663,21ca6b6e95f370cc943ecef4766ea23c,220a31e37eac11f120f8200cec9b0a2d,2a8824b9c6f3c62b3c39bd01074629e1,5c2ae70e9efbe2278960d4855f26d3a9,65262793f9803a23d1663ea1eb9ce558,817664e36b5f67909736020d9b0857d3,8adb516f29d482e9eb05f978e8a12a35,8fc3b20feec51cc84d29c86455df4a3d,a982f0969f268b4873e8458b00b69411,acaf7a5829d41e6922cd80a98b1799de,c413a124cf3f556e244ed0286abba98d,d1f5224529562e7d55fa03f51952a2cd,e028a54447640f5d471ac710a9a3950f,e5c27ccdc69b7c2314b331dabd5677e1,f1032021c23998eb8b191b1ae9f50bae,ff9ccb5b19cd450a9ba0d621b18caa4c</data>
+      <data key="d11">7ab5d53a872f4dfc98f3d386879f3c75</data>
+      <data key="d12">9</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;CONFEDERATE STATES OF AMERICA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Confederate States of America is a newly formed entity that seceded from the United States, leading to preparations for war."</data>
+      <data key="d10">8fc3b20feec51cc84d29c86455df4a3d</data>
+      <data key="d11">af1d0fec22114a3398b8016f5225f9ed</data>
+      <data key="d12">10</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;JAMES BUCHANAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"James Buchanan is the outgoing President of the United States who rejected secession as illegal."</data>
+      <data key="d10">8fc3b20feec51cc84d29c86455df4a3d</data>
+      <data key="d11">b07a7f088364459098cd8511ff27a4c8</data>
+      <data key="d12">11</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;PRESIDENT OF THE UNITED STATES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The President of the United States has the authority to request a declaration of war on behalf of the United States."</data>
+      <data key="d10">65262793f9803a23d1663ea1eb9ce558</data>
+      <data key="d11">8870cf2b5df64d2cab5820f67e29b9f1</data>
+      <data key="d12">12</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;SPAIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The United States deployed forces against Spain during the Spanish-American War."</data>
+      <data key="d10">0a30dd3e2d67a4d804e3bd333979c37e</data>
+      <data key="d11">cd130938a2844050be991af70baf5ee0</data>
+      <data key="d12">13</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;KOREA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The United States was involved in the agreement to liberate Korea and later contributed significantly to the UN forces during the Korean War."</data>
+      <data key="d10">f1032021c23998eb8b191b1ae9f50bae</data>
+      <data key="d11">43544b99c3b04b059546198a0ae6366d</data>
+      <data key="d12">14</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d10">0a30dd3e2d67a4d804e3bd333979c37e,10899927d9f4448056cc57d359cfa1d7,1dcdba6ef16b4063b485967e087556a4,1e7d603c3c1653baf44961cf500bf663,21ca6b6e95f370cc943ecef4766ea23c,220a31e37eac11f120f8200cec9b0a2d,2a8824b9c6f3c62b3c39bd01074629e1,5c2ae70e9efbe2278960d4855f26d3a9,65262793f9803a23d1663ea1eb9ce558,817664e36b5f67909736020d9b0857d3,8adb516f29d482e9eb05f978e8a12a35,8fc3b20feec51cc84d29c86455df4a3d,a982f0969f268b4873e8458b00b69411,acaf7a5829d41e6922cd80a98b1799de,c413a124cf3f556e244ed0286abba98d,d1f5224529562e7d55fa03f51952a2cd,e028a54447640f5d471ac710a9a3950f,e5c27ccdc69b7c2314b331dabd5677e1,f1032021c23998eb8b191b1ae9f50bae,ff9ccb5b19cd450a9ba0d621b18caa4c</data>
+      <data key="d11">a671bf7fea2f4514b6e96ba99127fafd</data>
+      <data key="d12">15</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Mexico shares an international border with the United States."</data>
+      <data key="d10">0a30dd3e2d67a4d804e3bd333979c37e,10899927d9f4448056cc57d359cfa1d7,1dcdba6ef16b4063b485967e087556a4,1e7d603c3c1653baf44961cf500bf663,21ca6b6e95f370cc943ecef4766ea23c,220a31e37eac11f120f8200cec9b0a2d,2a8824b9c6f3c62b3c39bd01074629e1,5c2ae70e9efbe2278960d4855f26d3a9,65262793f9803a23d1663ea1eb9ce558,817664e36b5f67909736020d9b0857d3,8adb516f29d482e9eb05f978e8a12a35,8fc3b20feec51cc84d29c86455df4a3d,a982f0969f268b4873e8458b00b69411,acaf7a5829d41e6922cd80a98b1799de,c413a124cf3f556e244ed0286abba98d,d1f5224529562e7d55fa03f51952a2cd,e028a54447640f5d471ac710a9a3950f,e5c27ccdc69b7c2314b331dabd5677e1,f1032021c23998eb8b191b1ae9f50bae,ff9ccb5b19cd450a9ba0d621b18caa4c</data>
+      <data key="d11">525f41ea20274a05af4e52b625b473f3</data>
+      <data key="d12">16</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d10">0a30dd3e2d67a4d804e3bd333979c37e,10899927d9f4448056cc57d359cfa1d7,1dcdba6ef16b4063b485967e087556a4,1e7d603c3c1653baf44961cf500bf663,21ca6b6e95f370cc943ecef4766ea23c,220a31e37eac11f120f8200cec9b0a2d,2a8824b9c6f3c62b3c39bd01074629e1,5c2ae70e9efbe2278960d4855f26d3a9,65262793f9803a23d1663ea1eb9ce558,817664e36b5f67909736020d9b0857d3,8adb516f29d482e9eb05f978e8a12a35,8fc3b20feec51cc84d29c86455df4a3d,a982f0969f268b4873e8458b00b69411,acaf7a5829d41e6922cd80a98b1799de,c413a124cf3f556e244ed0286abba98d,d1f5224529562e7d55fa03f51952a2cd,e028a54447640f5d471ac710a9a3950f,e5c27ccdc69b7c2314b331dabd5677e1,f1032021c23998eb8b191b1ae9f50bae,ff9ccb5b19cd450a9ba0d621b18caa4c</data>
+      <data key="d11">071a416efbec4f0886c19ac68f6d43cb</data>
+      <data key="d12">17</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;LINCOLN&quot;" target="&quot;SOUTHERN STATES &quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lincoln addressed the Southern States in his inaugural address, attempting to calm their fears of threats to slavery."</data>
+      <data key="d10">8fc3b20feec51cc84d29c86455df4a3d</data>
+      <data key="d11">6d8473ef3b1042bf87178a611e3dbcc6</data>
+      <data key="d12">18</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;LINCOLN&quot;" target="&quot;SECESSION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lincoln rejected secession as illegal and attempted to prevent it in his inaugural address."</data>
+      <data key="d10">8fc3b20feec51cc84d29c86455df4a3d</data>
+      <data key="d11">30c9641543c24773938bd8ec57ea98ab</data>
+      <data key="d12">19</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;OTTOMAN EMPIRE&quot;" target="&quot;REPUBLIC OF TURKEY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Republic of Turkey has historical ties to the Ottoman Empire, which is relevant to the context of the Armenian Genocide."</data>
+      <data key="d10">ff9ccb5b19cd450a9ba0d621b18caa4c</data>
+      <data key="d11">18b839da898e4026b81727d759d95c6a</data>
+      <data key="d12">20</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ARMENIANS&quot;" target="&quot;RECOGNITION OF THE ARMENIAN GENOCIDE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Armenians are the ethnic group that has been recognized as victims of genocide by various foreign countries."</data>
+      <data key="d10">ff9ccb5b19cd450a9ba0d621b18caa4c</data>
+      <data key="d11">eeef6ae5c464400c8755900b4f1ac37a</data>
+      <data key="d12">21</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;NETHERLANDS&quot;" target="&quot;ENGLAND&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"England and the Netherlands were allies in the Nine Years' War."</data>
+      <data key="d10">817664e36b5f67909736020d9b0857d3</data>
+      <data key="d11">422433aa45804c7ebb973b2fafce5da6</data>
+      <data key="d12">22</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPAIN&quot;" target="&quot;PENINSULAR WAR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Spain was a key location and participant in the Peninsular War."</data>
+      <data key="d10">220a31e37eac11f120f8200cec9b0a2d</data>
+      <data key="d11">86505bca739d4bccaaa1a8e0f3baffdc</data>
+      <data key="d12">23</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPAIN&quot;" target="&quot;CUBA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Cuba fought for independence against Spain in the Cuban War of Independence."</data>
+      <data key="d10">0a30dd3e2d67a4d804e3bd333979c37e</data>
+      <data key="d11">1af9faf341e14a5bbf4ddc9080e8dc0b</data>
+      <data key="d12">24</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ANGLO-DUTCH ALLIANCE&quot;" target="&quot;ENGLAND&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"England was a part of the Anglo-Dutch alliance during the Nine Years' War."</data>
+      <data key="d10">817664e36b5f67909736020d9b0857d3</data>
+      <data key="d11">353d91abc68648639d65a549e59b5cf3</data>
+      <data key="d12">25</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ENGLAND&quot;" target="&quot;THE REVOLUTION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Revolution had a profound impact on England, shaping its political and social landscape."</data>
+      <data key="d10">d1f5224529562e7d55fa03f51952a2cd</data>
+      <data key="d11">7ce637e4f35b42e3a9f8272cab69cd22</data>
+      <data key="d12">26</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;UNITED NATIONS&quot;" target="&quot;TRUMAN ADMINISTRATION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Truman administration worked with the United Nations to approve the use of force in Korea, demonstrating international cooperation."</data>
+      <data key="d10">8adb516f29d482e9eb05f978e8a12a35</data>
+      <data key="d11">4d999d7744b04a998475f8f8531589f0</data>
+      <data key="d12">27</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;UNITED NATIONS&quot;" target="&quot;SOUTH KOREA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The United Nations approved the use of force to help South Koreans defend against North Korean aggression."</data>
+      <data key="d10">8adb516f29d482e9eb05f978e8a12a35</data>
+      <data key="d11">9a6f414210e14841a5b0e661aedc898d</data>
+      <data key="d12">28</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;UNITED NATIONS&quot;" target="&quot;KOREA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The United Nations authorized the formation and dispatch of UN forces to Korea to repel the North Korean invasion."</data>
+      <data key="d10">f1032021c23998eb8b191b1ae9f50bae</data>
+      <data key="d11">db541b7260974db8bac94e953009f60e</data>
+      <data key="d12">29</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;YUGOSLAVIA&quot;" target="&quot;SOVIET UNION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Yugoslavia was considered a potential target for Soviet aggression due to the Tito-Stalin Split."</data>
+      <data key="d10">8adb516f29d482e9eb05f978e8a12a35</data>
+      <data key="d11">f2ff8044718648e18acef16dd9a65436</data>
+      <data key="d12">30</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;TRUMAN&quot;" target="&quot;NORTH KOREA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Truman's administration responded to North Korea's invasion of South Korea with military force, showing a strong stance against communist expansion."</data>
+      <data key="d10">8adb516f29d482e9eb05f978e8a12a35</data>
+      <data key="d11">00d785e7d76b47ec81b508e768d40584</data>
+      <data key="d12">31</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;NORTH KOREA&quot;" target="&quot;SOUTH KOREA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"North Korea has been influenced by South Korean cultural imperialism through smuggled drama series."</data>
+      <data key="d10">e028a54447640f5d471ac710a9a3950f</data>
+      <data key="d11">87915637da3e474c9349bd0ae604bd95</data>
+      <data key="d12">32</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;NORTH KOREA&quot;" target="&quot;SOVIET UNION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"North Korea received support from the Soviet Union during the Korean War."</data>
+      <data key="d10">f1032021c23998eb8b191b1ae9f50bae</data>
+      <data key="d11">8f1eba29f39e411188200bf0d14628ec</data>
+      <data key="d12">33</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;NORTH KOREA&quot;" target="&quot;CHINA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"China supported North Korea during the Korean War."</data>
+      <data key="d10">f1032021c23998eb8b191b1ae9f50bae</data>
+      <data key="d11">7282c73622b8408e97289d959faff483</data>
+      <data key="d12">34</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SOVIET UNION&quot;" target="&quot;WORLD WAR II&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Soviet Union was directly involved in World War II and suffered significant civilian fatalities."</data>
+      <data key="d10">10899927d9f4448056cc57d359cfa1d7</data>
+      <data key="d11">3deb220d31f74103aa44870a36a63220</data>
+      <data key="d12">35</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SOVIET UNION&quot;" target="&quot;KOREA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Soviet Union liberated Korea north of the 38th parallel and played a significant role in the region's politics."</data>
+      <data key="d10">f1032021c23998eb8b191b1ae9f50bae</data>
+      <data key="d11">af7a1584dd15492cb9a4940e285f57fc</data>
+      <data key="d12">36</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ETHIOPIA&quot;" target="&quot;SOMALIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Somalia gained military strength as Ethiopia grew weaker, indicating a shift in the regional balance of power."</data>
+      <data key="d10">acaf7a5829d41e6922cd80a98b1799de</data>
+      <data key="d11">6e8d9029ce4e4ea182367173ab2c7bbf</data>
+      <data key="d12">37</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ETHIOPIA&quot;" target="&quot;SEPARATIST MOVEMENT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Separatist movement seeks independence or autonomy from Ethiopia, indicating a challenge to Ethiopian authority."</data>
+      <data key="d10">acaf7a5829d41e6922cd80a98b1799de</data>
+      <data key="d11">cbf232211e7d4eb6abdbe182f71c2cf0</data>
+      <data key="d12">38</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;HAILE SELASSIE&quot;" target="&quot;DERG&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Haile Selassie was overthrown by the Derg in 1974."</data>
+      <data key="d10">acaf7a5829d41e6922cd80a98b1799de</data>
+      <data key="d11">bb0cff774a4440b289cc6f3b929fe13c</data>
+      <data key="d12">39</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;DERG&quot;" target="&quot;ANTI-DERG MOVEMENT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Anti-Derg movement is opposed to the Derg regime, indicating conflict and opposition."</data>
+      <data key="d10">acaf7a5829d41e6922cd80a98b1799de</data>
+      <data key="d11">ce55841ebfdd47008bab8c258f10372e</data>
+      <data key="d12">40</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;THOMAS HOBBES&quot;" target="&quot;STATE OF NATURE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Thomas Hobbes contrasted 'culture' with 'the state of nature', shaping the concept of civilization."</data>
+      <data key="d10">21ca6b6e95f370cc943ecef4766ea23c</data>
+      <data key="d11">6090e736374d45fd84f0e4610a314f8f</data>
+      <data key="d12">41</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;JEAN-JACQUES ROUSSEAU&quot;" target="&quot;STATE OF NATURE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jean-Jacques Rousseau contrasted 'culture' with 'the state of nature', influencing the idea of civilization."</data>
+      <data key="d10">21ca6b6e95f370cc943ecef4766ea23c</data>
+      <data key="d11">0e8d921ccd8d4a8594b65b7fd19f7120</data>
+      <data key="d12">42</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;NATIVE AMERICANS&quot;" target="&quot;STATE OF NATURE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Native Americans were characterized as living in a 'state of nature' by European philosophers, highlighting their perceived cultural differences."</data>
+      <data key="d10">21ca6b6e95f370cc943ecef4766ea23c</data>
+      <data key="d11">59c726a8792d443e84ab052cb7942b4a</data>
+      <data key="d12">43</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;HERBERT SPENCER&quot;" target="&quot;CULTURE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Herbert Spencer's theory of Social Darwinism was influenced by the concept of civilization and culture."</data>
+      <data key="d10">21ca6b6e95f370cc943ecef4766ea23c</data>
+      <data key="d11">4f2c665decf242b0bfcaf7350b0e02ed</data>
+      <data key="d12">44</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;MATTHEW ARNOLD&quot;" target="&quot;CULTURE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Matthew Arnold contrasted 'culture' with anarchy, highlighting its significance."</data>
+      <data key="d10">21ca6b6e95f370cc943ecef4766ea23c</data>
+      <data key="d11">66cdf168f36d4a57a505028c97dc06e0</data>
+      <data key="d12">45</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;PORTUGUESE GOVERNMENT&quot;" target="&quot;NAPOLEON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Napoleon responded to the Portuguese government's policy change with military force."</data>
+      <data key="d10">220a31e37eac11f120f8200cec9b0a2d</data>
+      <data key="d11">38f51478f41f48db9bee570859b6f43e</data>
+      <data key="d12">46</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;GENERAL JUNOT&quot;" target="&quot;NAPOLEON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"General Junot carried out Napoleon's orders in the invasion of Portugal."</data>
+      <data key="d10">220a31e37eac11f120f8200cec9b0a2d</data>
+      <data key="d11">896d2a51e8de47de85ba8ced108c3d53</data>
+      <data key="d12">47</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;MARSHAL MURAT&quot;" target="&quot;NAPOLEON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Marshal Murat enforced Napoleon's will by leading troops into Spain."</data>
+      <data key="d10">220a31e37eac11f120f8200cec9b0a2d</data>
+      <data key="d11">14555b518e954637b83aa762dc03164e</data>
+      <data key="d12">48</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;JOSEPH BONAPARTE&quot;" target="&quot;NAPOLEON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Joseph Bonaparte was appointed as King of Spain by Napoleon, demonstrating his influence."</data>
+      <data key="d10">220a31e37eac11f120f8200cec9b0a2d</data>
+      <data key="d11">b1f6164116d44fe8b8f135d7f65b9e58</data>
+      <data key="d12">49</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;JAMES&quot;" target="&quot;THE REVOLUTION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"James's overthrow was a key event in The Revolution, leading to significant changes in English parliamentary democracy."</data>
+      <data key="d10">d1f5224529562e7d55fa03f51952a2cd</data>
+      <data key="d11">c8b2408617804483b620e1a6691ac90d</data>
+      <data key="d12">50</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;WESTMINSTER PARLIAMENT&quot;" target="&quot;CATHOLICS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Catholics were denied the right to sit in the Westminster Parliament for over a century after The Revolution."</data>
+      <data key="d10">d1f5224529562e7d55fa03f51952a2cd</data>
+      <data key="d11">a5e0d1644eb547ba9a5c3211aac4631a</data>
+      <data key="d12">51</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;THE REVOLUTION&quot;" target="&quot;THE BILL OF RIGHTS 1689&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Bill of Rights 1689 is an important document that emerged from The Revolution, shaping Britain's political history."</data>
+      <data key="d10">d1f5224529562e7d55fa03f51952a2cd</data>
+      <data key="d11">5a28b94bc63b44edb30c54748fd14f15</data>
+      <data key="d12">52</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;VSS TRUD&quot;" target="&quot;BORIS NIKOLAYEVICH LAGUTIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Boris Lagutin trained at VSS Trud until 1967."</data>
+      <data key="d10">e5c27ccdc69b7c2314b331dabd5677e1</data>
+      <data key="d11">f97011b2a99d44648e18d517e1eae15c</data>
+      <data key="d12">53</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;VSS SPARTAK&quot;" target="&quot;BORIS NIKOLAYEVICH LAGUTIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Boris Lagutin trained at VSS Spartak after 1967."</data>
+      <data key="d10">e5c27ccdc69b7c2314b331dabd5677e1</data>
+      <data key="d11">35489ca6a63b47d6a8913cf333818bc1</data>
+      <data key="d12">54</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;USSR TEAM&quot;" target="&quot;BORIS NIKOLAYEVICH LAGUTIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Boris Lagutin was a member of the USSR team, winning championships and medals."</data>
+      <data key="d10">e5c27ccdc69b7c2314b331dabd5677e1</data>
+      <data key="d11">5d3344f45e654d2c808481672f2f08dd</data>
+      <data key="d12">55</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;MOSCOW&quot;" target="&quot;BORIS NIKOLAYEVICH LAGUTIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Boris Lagutin was born in Moscow."</data>
+      <data key="d10">e5c27ccdc69b7c2314b331dabd5677e1</data>
+      <data key="d11">6fb57f83baec45c9b30490ee991f433f</data>
+      <data key="d12">56</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;1964 OLYMPICS&quot;" target="&quot;BORIS NIKOLAYEVICH LAGUTIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Boris Lagutin won a gold medal at the 1964 Olympics."</data>
+      <data key="d10">e5c27ccdc69b7c2314b331dabd5677e1</data>
+      <data key="d11">68762e6f0d1c41cd857c6b964a8e76c3</data>
+      <data key="d12">57</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;1968 OLYMPICS&quot;" target="&quot;BORIS NIKOLAYEVICH LAGUTIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Boris Lagutin overcame failures and won a gold medal again at the 1968 Olympics."</data>
+      <data key="d10">e5c27ccdc69b7c2314b331dabd5677e1</data>
+      <data key="d11">70634e10a5e845aa8c6a32fe7e8eb2b2</data>
+      <data key="d12">58</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ALLIES&quot;" target="&quot;WORLD WAR II&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Allies were one of the main participants in World War II."</data>
+      <data key="d10">10899927d9f4448056cc57d359cfa1d7</data>
+      <data key="d11">04085f7cf46544b79597fc49286ff84d</data>
+      <data key="d12">59</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;AXIS&quot;" target="&quot;WORLD WAR II&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Axis were one of the main participants in World War II."</data>
+      <data key="d10">10899927d9f4448056cc57d359cfa1d7</data>
+      <data key="d11">d203efdbfb2f4b2a899abfb31cf72e82</data>
+      <data key="d12">60</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;CHINA&quot;" target="&quot;WORLD WAR II&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"China was directly involved in World War II and suffered significant civilian fatalities."</data>
+      <data key="d10">10899927d9f4448056cc57d359cfa1d7</data>
+      <data key="d11">6731a665561840c2898ce8c9788e4c88</data>
+      <data key="d12">61</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;AMERICA&quot;" target="&quot;ROMANIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Romania was influenced by American cultural imperialism, particularly through television shows like Dallas."</data>
+      <data key="d10">e028a54447640f5d471ac710a9a3950f</data>
+      <data key="d11">4026806fa92f4e849a59a7f5c9a45c79</data>
+      <data key="d12">62</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ROMAN EMPIRE&quot;" target="&quot;LOCAL ELITES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Roman Empire used cultural imperialism to influence local elites and expand its power."</data>
+      <data key="d10">e028a54447640f5d471ac710a9a3950f</data>
+      <data key="d11">68e0c60d2e8845d89d9d0ad397833648</data>
+      <data key="d12">63</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;JAMES MADISON&quot;" target="&quot;FEDERAL CONVENTION OF 1787&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"James Madison was involved in the Federal Convention of 1787, influencing the language used in declaring war."</data>
+      <data key="d10">65262793f9803a23d1663ea1eb9ce558</data>
+      <data key="d11">101572f552b54e529fe7765c05168981</data>
+      <data key="d12">64</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;PRESIDENT OF THE UNITED STATES&quot;" target="&quot;CONGRESS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Congress has explicit approval authority over declarations of war, limiting the President's power."</data>
+      <data key="d10">65262793f9803a23d1663ea1eb9ce558</data>
+      <data key="d11">60c58026b2764b40adffca6eaa31d6d9</data>
+      <data key="d12">65</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;NEW DELHI&quot;" target="&quot;INTERNATIONAL COMMISSION OF JURISTS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The International Commission of Jurists met in New Delhi to make the Declaration of Delhi."</data>
+      <data key="d10">a982f0969f268b4873e8458b00b69411</data>
+      <data key="d11">ad1595a78935472999444c9330e7730e</data>
+      <data key="d12">66</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;DECLARATION OF DELHI&quot;" target="&quot;INTERNATIONAL COMMISSION OF JURISTS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The International Commission of Jurists made the Declaration of Delhi, outlining the fundamental principles of the rule of law."</data>
+      <data key="d10">a982f0969f268b4873e8458b00b69411</data>
+      <data key="d11">735d19aea0744b2295556841c5c4c3fd</data>
+      <data key="d12">67</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;CUBAN WAR OF INDEPENDENCE&quot;" target="&quot;SPANISH&#8211;AMERICAN WAR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Cuban War of Independence escalated into the Spanish-American War."</data>
+      <data key="d10">0a30dd3e2d67a4d804e3bd333979c37e</data>
+      <data key="d11">c725babdb14a485582f8fbdf95429030</data>
+      <data key="d12">68</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;UN COMMITTEE ON ECONOMIC, SOCIAL AND CULTURAL RIGHTS&quot;" target="&quot;WORLD INTELLECTUAL PROPERTY ORGANIZATION (WIPO)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"WIPO recognizes the importance of human rights in intellectual property systems, as highlighted by the UN Committee's document."</data>
+      <data key="d10">2a8824b9c6f3c62b3c39bd01074629e1</data>
+      <data key="d11">a0047221896d418d849847d422fa4bb8</data>
+      <data key="d12">69</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;GENERAL ASSEMBLY OF WIPO&quot;" target="&quot;GENEVA DECLARATION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The General Assembly of WIPO adopted The Geneva Declaration, shaping the future direction of WIPO."</data>
+      <data key="d10">2a8824b9c6f3c62b3c39bd01074629e1</data>
+      <data key="d11">98fc2ee593184c5a839454db4eec7013</data>
+      <data key="d12">70</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;GENEVA DECLARATION&quot;" target="&quot;WORLD INTELLECTUAL PROPERTY ORGANIZATION (WIPO)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"WIPO's direction is influenced by The Geneva Declaration, which prioritizes developing countries' needs and views IP as a tool for development."</data>
+      <data key="d10">2a8824b9c6f3c62b3c39bd01074629e1</data>
+      <data key="d11">80020a1da63042459e00266b2a605452</data>
+      <data key="d12">71</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;LENIN&quot;" target="&quot;IMPERIALISM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lenin wrote extensively on imperialism and declared it to be the highest stage of capitalism."</data>
+      <data key="d10">1dcdba6ef16b4063b485967e087556a4</data>
+      <data key="d11">31a7e680c4d54101afe4c8d52d246913</data>
+      <data key="d12">72</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;JOSEPH STALIN&quot;" target="&quot;SOCIALISM IN ONE COUNTRY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Stalin established 'socialism in one country' for the Soviet Union, creating a model for subsequent inward-looking Stalinist states."</data>
+      <data key="d10">1dcdba6ef16b4063b485967e087556a4</data>
+      <data key="d11">351abba16e5c448994c6daf48121b14d</data>
+      <data key="d12">73</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;NIKITA KHRUSHCHEV&quot;" target="&quot;ANTI-IMPERIALIST PROPAGANDA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Khrushchev started a new wave of anti-imperialist propaganda, putting pressure on Soviet-American relations."</data>
+      <data key="d10">1dcdba6ef16b4063b485967e087556a4</data>
+      <data key="d11">50ea7d3b69614bcdbfbff7ddbfbf3d34</data>
+      <data key="d12">74</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;MAO ZEDONG&quot;" target="&quot;PEOPLE'S LIBERATION ARMY (PLA)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Mao Zedong reorganized the PLA invasion force into the PLA North East Frontier Force."</data>
+      <data key="d10">1e7d603c3c1653baf44961cf500bf663</data>
+      <data key="d11">004f40a5aeca48a1879db728eb12bcba</data>
+      <data key="d12">75</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;TROTSKY&quot;" target="&quot;REVOLUTION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Trotsky believed that the revolution could only succeed in Russia as part of a world revolution."</data>
+      <data key="d10">1dcdba6ef16b4063b485967e087556a4</data>
+      <data key="d11">4465efb7f6ed4dedad72a658184addd2</data>
+      <data key="d12">76</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;IMPERIAL JAPAN&quot;" target="&quot;KOREA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Korea was ruled by Imperial Japan from 1910 until the end of World War II."</data>
+      <data key="d10">f1032021c23998eb8b191b1ae9f50bae</data>
+      <data key="d11">b0dd60e11dad4ff782623acf039b3948</data>
+      <data key="d12">77</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;PRESIDENT TRUMAN&quot;" target="&quot;UNITED STATES SEVENTH FLEET&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"President Truman dispatched the United States Seventh Fleet to the Taiwan Strait."</data>
+      <data key="d10">1e7d603c3c1653baf44961cf500bf663</data>
+      <data key="d11">db8c43fa4df947b09e5754d3b1393ead</data>
+      <data key="d12">78</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;NATIONALIST REPUBLIC OF CHINA (TAIWAN)&quot;" target="&quot;PEOPLE'S REPUBLIC OF CHINA (PRC)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The two countries were involved in a potential conflict, with the PRC attempting to invade Taiwan."</data>
+      <data key="d10">1e7d603c3c1653baf44961cf500bf663</data>
+      <data key="d11">5dabc4cd05da425cb194a04482bf0c29</data>
+      <data key="d12">79</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;PHILIP&quot;" target="&quot;JOHN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"John fought a war with Philip on the continent, indicating a significant conflict."</data>
+      <data key="d10">c413a124cf3f556e244ed0286abba98d</data>
+      <data key="d11">9d08f285a7be4c79b8f359c51d51db37</data>
+      <data key="d12">80</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ANGLO-NORMAN SETTLERS&quot;" target="&quot;JOHN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"John manipulated the Anglo-Norman settlers to expand his power in Ireland."</data>
+      <data key="d10">c413a124cf3f556e244ed0286abba98d</data>
+      <data key="d11">adffed660d154b519c1817e514e83096</data>
+      <data key="d12">81</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;INDIGENOUS IRISH CHIEFTAINS&quot;" target="&quot;JOHN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"John's policies led to ongoing tensions with the indigenous Irish chieftains."</data>
+      <data key="d10">c413a124cf3f556e244ed0286abba98d</data>
+      <data key="d11">b7e9c9ef572c445a9574ca571e41fb96</data>
+      <data key="d12">82</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;IRELAND&quot;" target="&quot;JOHN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"John drew resources from Ireland to fight his war with Philip and manipulated both Anglo-Norman settlers and indigenous Irish chieftains to expand his power."</data>
+      <data key="d10">c413a124cf3f556e244ed0286abba98d</data>
+      <data key="d11">dcb9f281cd6248c699e0ebb285a42a5e</data>
+      <data key="d12">83</data>
+      <data key="d13">1</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,1196 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="level" attr.type="long" />
+  <key id="d6" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d5" for="node" attr.name="id" attr.type="string" />
+  <key id="d4" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d3" for="node" attr.name="degree" attr.type="long" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;WHITES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Whites make up 51% of Houston's population, with non-Hispanic whites accounting for 26%."</data>
+      <data key="d2">a67d4fd9f172d44e6a39b5e8a72897e5</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;BLACKS OR AFRICAN AMERICANS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Blacks or African Americans make up 25% of Houston's population."</data>
+      <data key="d2">a67d4fd9f172d44e6a39b5e8a72897e5</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;AMERICAN INDIANS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"American Indians make up 0.7% of Houston's population."</data>
+      <data key="d2">a67d4fd9f172d44e6a39b5e8a72897e5</data>
+      <data key="d3">0</data>
+      <data key="d4">2</data>
+      <data key="d5">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;ASIANS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Asians make up 6% of Houston's population, with various sub-groups such as Vietnamese, Chinese, Indian, Pakistani, Filipino, Korean, and Japanese."</data>
+      <data key="d2">a67d4fd9f172d44e6a39b5e8a72897e5</data>
+      <data key="d3">0</data>
+      <data key="d4">3</data>
+      <data key="d5">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;PACIFIC ISLANDERS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Pacific Islanders make up 0.1% of Houston's population."</data>
+      <data key="d2">a67d4fd9f172d44e6a39b5e8a72897e5</data>
+      <data key="d3">0</data>
+      <data key="d4">4</data>
+      <data key="d5">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;HISPANICS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hispanics make up 37.4% of Houston's population."</data>
+      <data key="d2">a67d4fd9f172d44e6a39b5e8a72897e5</data>
+      <data key="d3">0</data>
+      <data key="d4">5</data>
+      <data key="d5">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">0a93f3a4b994f482c5a6e922369775bf,12454cdeeaf6406f663d4313f01360c5,2636581e3743f5b87adf16d80a7fe7b6,3aed81e7075053d4865bf84f06ef8433,4a7a125f3a82ecea0354185f045e4a22,507dd056d791faf4481330d33e27d695,50a583ba5a2b40543b2d801ff8c4afeb,82d51f60d764c3cb34bda99ea985ba08,8dd86cbee3e3d7e018bbd7e36dab0bc9,8e523049e362970606e8716d0e590035,9218085614a851faf7b48cbb79370d3e,a67d4fd9f172d44e6a39b5e8a72897e5,a8573175c03d5aca077489acebbefd2a,b586c48a6a0be0dac83adaa132e1923f,bf01e1e451e943e0de9a1a1dfa6bbeb4,c606372db3819a1a5a8bb50b250e9630,c74bfcd69a78c1889bb17b47ee64edc0,d01a1a47081277e751f69bbafc9a9375,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602</data>
+      <data key="d3">2</data>
+      <data key="d4">6</data>
+      <data key="d5">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">0a93f3a4b994f482c5a6e922369775bf,12454cdeeaf6406f663d4313f01360c5,2636581e3743f5b87adf16d80a7fe7b6,3aed81e7075053d4865bf84f06ef8433,4a7a125f3a82ecea0354185f045e4a22,507dd056d791faf4481330d33e27d695,50a583ba5a2b40543b2d801ff8c4afeb,82d51f60d764c3cb34bda99ea985ba08,8dd86cbee3e3d7e018bbd7e36dab0bc9,8e523049e362970606e8716d0e590035,9218085614a851faf7b48cbb79370d3e,a67d4fd9f172d44e6a39b5e8a72897e5,a8573175c03d5aca077489acebbefd2a,b586c48a6a0be0dac83adaa132e1923f,bf01e1e451e943e0de9a1a1dfa6bbeb4,c606372db3819a1a5a8bb50b250e9630,c74bfcd69a78c1889bb17b47ee64edc0,d01a1a47081277e751f69bbafc9a9375,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602</data>
+      <data key="d3">1</data>
+      <data key="d4">7</data>
+      <data key="d5">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">0a93f3a4b994f482c5a6e922369775bf,12454cdeeaf6406f663d4313f01360c5,2636581e3743f5b87adf16d80a7fe7b6,3aed81e7075053d4865bf84f06ef8433,4a7a125f3a82ecea0354185f045e4a22,507dd056d791faf4481330d33e27d695,50a583ba5a2b40543b2d801ff8c4afeb,82d51f60d764c3cb34bda99ea985ba08,8dd86cbee3e3d7e018bbd7e36dab0bc9,8e523049e362970606e8716d0e590035,9218085614a851faf7b48cbb79370d3e,a67d4fd9f172d44e6a39b5e8a72897e5,a8573175c03d5aca077489acebbefd2a,b586c48a6a0be0dac83adaa132e1923f,bf01e1e451e943e0de9a1a1dfa6bbeb4,c606372db3819a1a5a8bb50b250e9630,c74bfcd69a78c1889bb17b47ee64edc0,d01a1a47081277e751f69bbafc9a9375,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602</data>
+      <data key="d3">4</data>
+      <data key="d4">8</data>
+      <data key="d5">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Phoenix is a city in Arizona, United States, and the largest populated city in the state. Additionally, it is also a geographic location with a rich history of open wheel races.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">0a93f3a4b994f482c5a6e922369775bf,12454cdeeaf6406f663d4313f01360c5,2636581e3743f5b87adf16d80a7fe7b6,3aed81e7075053d4865bf84f06ef8433,4a7a125f3a82ecea0354185f045e4a22,507dd056d791faf4481330d33e27d695,50a583ba5a2b40543b2d801ff8c4afeb,82d51f60d764c3cb34bda99ea985ba08,8dd86cbee3e3d7e018bbd7e36dab0bc9,8e523049e362970606e8716d0e590035,9218085614a851faf7b48cbb79370d3e,a67d4fd9f172d44e6a39b5e8a72897e5,a8573175c03d5aca077489acebbefd2a,b586c48a6a0be0dac83adaa132e1923f,bf01e1e451e943e0de9a1a1dfa6bbeb4,c606372db3819a1a5a8bb50b250e9630,c74bfcd69a78c1889bb17b47ee64edc0,d01a1a47081277e751f69bbafc9a9375,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602</data>
+      <data key="d3">3</data>
+      <data key="d4">9</data>
+      <data key="d5">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country where Jacksonville is one of the most populous cities, and it is also home to Tucson, which is located in Pima County, Arizona.</data>
+      <data key="d2">0a93f3a4b994f482c5a6e922369775bf,12454cdeeaf6406f663d4313f01360c5,2636581e3743f5b87adf16d80a7fe7b6,3aed81e7075053d4865bf84f06ef8433,4a7a125f3a82ecea0354185f045e4a22,507dd056d791faf4481330d33e27d695,50a583ba5a2b40543b2d801ff8c4afeb,82d51f60d764c3cb34bda99ea985ba08,8dd86cbee3e3d7e018bbd7e36dab0bc9,8e523049e362970606e8716d0e590035,9218085614a851faf7b48cbb79370d3e,a67d4fd9f172d44e6a39b5e8a72897e5,a8573175c03d5aca077489acebbefd2a,b586c48a6a0be0dac83adaa132e1923f,bf01e1e451e943e0de9a1a1dfa6bbeb4,c606372db3819a1a5a8bb50b250e9630,c74bfcd69a78c1889bb17b47ee64edc0,d01a1a47081277e751f69bbafc9a9375,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602</data>
+      <data key="d3">2</data>
+      <data key="d4">10</data>
+      <data key="d5">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">0a93f3a4b994f482c5a6e922369775bf,12454cdeeaf6406f663d4313f01360c5,2636581e3743f5b87adf16d80a7fe7b6,3aed81e7075053d4865bf84f06ef8433,4a7a125f3a82ecea0354185f045e4a22,507dd056d791faf4481330d33e27d695,50a583ba5a2b40543b2d801ff8c4afeb,82d51f60d764c3cb34bda99ea985ba08,8dd86cbee3e3d7e018bbd7e36dab0bc9,8e523049e362970606e8716d0e590035,9218085614a851faf7b48cbb79370d3e,a67d4fd9f172d44e6a39b5e8a72897e5,a8573175c03d5aca077489acebbefd2a,b586c48a6a0be0dac83adaa132e1923f,bf01e1e451e943e0de9a1a1dfa6bbeb4,c606372db3819a1a5a8bb50b250e9630,c74bfcd69a78c1889bb17b47ee64edc0,d01a1a47081277e751f69bbafc9a9375,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602</data>
+      <data key="d3">2</data>
+      <data key="d4">11</data>
+      <data key="d5">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">0a93f3a4b994f482c5a6e922369775bf,12454cdeeaf6406f663d4313f01360c5,2636581e3743f5b87adf16d80a7fe7b6,3aed81e7075053d4865bf84f06ef8433,4a7a125f3a82ecea0354185f045e4a22,507dd056d791faf4481330d33e27d695,50a583ba5a2b40543b2d801ff8c4afeb,82d51f60d764c3cb34bda99ea985ba08,8dd86cbee3e3d7e018bbd7e36dab0bc9,8e523049e362970606e8716d0e590035,9218085614a851faf7b48cbb79370d3e,a67d4fd9f172d44e6a39b5e8a72897e5,a8573175c03d5aca077489acebbefd2a,b586c48a6a0be0dac83adaa132e1923f,bf01e1e451e943e0de9a1a1dfa6bbeb4,c606372db3819a1a5a8bb50b250e9630,c74bfcd69a78c1889bb17b47ee64edc0,d01a1a47081277e751f69bbafc9a9375,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602</data>
+      <data key="d3">1</data>
+      <data key="d4">12</data>
+      <data key="d5">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">0a93f3a4b994f482c5a6e922369775bf,12454cdeeaf6406f663d4313f01360c5,2636581e3743f5b87adf16d80a7fe7b6,3aed81e7075053d4865bf84f06ef8433,4a7a125f3a82ecea0354185f045e4a22,507dd056d791faf4481330d33e27d695,50a583ba5a2b40543b2d801ff8c4afeb,82d51f60d764c3cb34bda99ea985ba08,8dd86cbee3e3d7e018bbd7e36dab0bc9,8e523049e362970606e8716d0e590035,9218085614a851faf7b48cbb79370d3e,a67d4fd9f172d44e6a39b5e8a72897e5,a8573175c03d5aca077489acebbefd2a,b586c48a6a0be0dac83adaa132e1923f,bf01e1e451e943e0de9a1a1dfa6bbeb4,c606372db3819a1a5a8bb50b250e9630,c74bfcd69a78c1889bb17b47ee64edc0,d01a1a47081277e751f69bbafc9a9375,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602</data>
+      <data key="d3">1</data>
+      <data key="d4">13</data>
+      <data key="d5">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">0a93f3a4b994f482c5a6e922369775bf,12454cdeeaf6406f663d4313f01360c5,2636581e3743f5b87adf16d80a7fe7b6,3aed81e7075053d4865bf84f06ef8433,4a7a125f3a82ecea0354185f045e4a22,507dd056d791faf4481330d33e27d695,50a583ba5a2b40543b2d801ff8c4afeb,82d51f60d764c3cb34bda99ea985ba08,8dd86cbee3e3d7e018bbd7e36dab0bc9,8e523049e362970606e8716d0e590035,9218085614a851faf7b48cbb79370d3e,a67d4fd9f172d44e6a39b5e8a72897e5,a8573175c03d5aca077489acebbefd2a,b586c48a6a0be0dac83adaa132e1923f,bf01e1e451e943e0de9a1a1dfa6bbeb4,c606372db3819a1a5a8bb50b250e9630,c74bfcd69a78c1889bb17b47ee64edc0,d01a1a47081277e751f69bbafc9a9375,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602</data>
+      <data key="d3">0</data>
+      <data key="d4">14</data>
+      <data key="d5">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0a93f3a4b994f482c5a6e922369775bf,12454cdeeaf6406f663d4313f01360c5,2636581e3743f5b87adf16d80a7fe7b6,3aed81e7075053d4865bf84f06ef8433,4a7a125f3a82ecea0354185f045e4a22,507dd056d791faf4481330d33e27d695,50a583ba5a2b40543b2d801ff8c4afeb,82d51f60d764c3cb34bda99ea985ba08,8dd86cbee3e3d7e018bbd7e36dab0bc9,8e523049e362970606e8716d0e590035,9218085614a851faf7b48cbb79370d3e,a67d4fd9f172d44e6a39b5e8a72897e5,a8573175c03d5aca077489acebbefd2a,b586c48a6a0be0dac83adaa132e1923f,bf01e1e451e943e0de9a1a1dfa6bbeb4,c606372db3819a1a5a8bb50b250e9630,c74bfcd69a78c1889bb17b47ee64edc0,d01a1a47081277e751f69bbafc9a9375,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602</data>
+      <data key="d3">5</data>
+      <data key="d4">15</data>
+      <data key="d5">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;CHARLES MINGUS SR.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Charles Mingus Sr. is the father of Charles Mingus and a sergeant in the U.S. Army."</data>
+      <data key="d2">50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d3">1</data>
+      <data key="d4">16</data>
+      <data key="d5">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;U.S. ARMY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The U.S. Army is an organization that employs Charles Mingus Sr. as a sergeant."</data>
+      <data key="d2">50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d3">1</data>
+      <data key="d4">17</data>
+      <data key="d5">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;NOGALES, ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Nogales, Arizona is the birthplace of Charles Mingus."</data>
+      <data key="d2">50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d3">1</data>
+      <data key="d4">18</data>
+      <data key="d5">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;WATTS AREA OF LOS ANGELES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Watts area of Los Angeles is where Charles Mingus was largely raised."</data>
+      <data key="d2">50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d3">1</data>
+      <data key="d4">19</data>
+      <data key="d5">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;HONG KONG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hong Kong is the origin of Charles Mingus' maternal grandfather, a Chinese British subject."</data>
+      <data key="d2">50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d3">0</data>
+      <data key="d4">20</data>
+      <data key="d5">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;CHARLES MINGUS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4a7a125f3a82ecea0354185f045e4a22,50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d3">3</data>
+      <data key="d4">21</data>
+      <data key="d5">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;JOHNNY RUTHERFORD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Johnny Rutherford is a person involved in a spectacular crash at Phoenix in 1980."</data>
+      <data key="d2">12454cdeeaf6406f663d4313f01360c5</data>
+      <data key="d3">1</data>
+      <data key="d4">22</data>
+      <data key="d5">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;MARIO ANDRETTI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mario Andretti is an Indy legend who achieved his final career victory at Phoenix in 1993."</data>
+      <data key="d2">12454cdeeaf6406f663d4313f01360c5</data>
+      <data key="d3">1</data>
+      <data key="d4">23</data>
+      <data key="d5">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;VERIZON INDYCAR SERIES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">12454cdeeaf6406f663d4313f01360c5</data>
+      <data key="d3">1</data>
+      <data key="d4">24</data>
+      <data key="d5">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;RACE REVIVAL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">12454cdeeaf6406f663d4313f01360c5</data>
+      <data key="d3">1</data>
+      <data key="d4">25</data>
+      <data key="d5">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;MINNESOTA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Minnesota is a U.S. state where Saint Paul is located."</data>
+      <data key="d2">d01a1a47081277e751f69bbafc9a9375</data>
+      <data key="d3">0</data>
+      <data key="d4">26</data>
+      <data key="d5">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;RAMSEY COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ramsey County is the smallest and most densely populated county in Minnesota, where Saint Paul is the county seat."</data>
+      <data key="d2">d01a1a47081277e751f69bbafc9a9375</data>
+      <data key="d3">1</data>
+      <data key="d4">27</data>
+      <data key="d5">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;MINNEAPOLIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Minneapolis is the largest city in Minnesota, adjacent to Saint Paul and forming the Twin Cities."</data>
+      <data key="d2">d01a1a47081277e751f69bbafc9a9375</data>
+      <data key="d3">1</data>
+      <data key="d4">28</data>
+      <data key="d5">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;MISSISSIPPI RIVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Mississippi River is a significant geographical feature where Saint Paul is located."</data>
+      <data key="d2">d01a1a47081277e751f69bbafc9a9375</data>
+      <data key="d3">1</data>
+      <data key="d4">29</data>
+      <data key="d5">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;MINNESOTA RIVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Minnesota River is another important geographical feature near Saint Paul, where it converges with the Mississippi River."</data>
+      <data key="d2">d01a1a47081277e751f69bbafc9a9375</data>
+      <data key="d3">1</data>
+      <data key="d4">30</data>
+      <data key="d5">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;SAINT PAUL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d01a1a47081277e751f69bbafc9a9375</data>
+      <data key="d3">2</data>
+      <data key="d4">31</data>
+      <data key="d5">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&quot;NEW JERSEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New Jersey is a U.S. state where Jersey City is located."</data>
+      <data key="d2">b586c48a6a0be0dac83adaa132e1923f</data>
+      <data key="d3">1</data>
+      <data key="d4">32</data>
+      <data key="d5">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&quot;HUDSON COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hudson County is a county in New Jersey where Jersey City is the largest city and seat."</data>
+      <data key="d2">b586c48a6a0be0dac83adaa132e1923f</data>
+      <data key="d3">1</data>
+      <data key="d4">33</data>
+      <data key="d5">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&quot;CENSUS BUREAU&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Census Bureau is an organization responsible for calculating population estimates, including those of Jersey City."</data>
+      <data key="d2">b586c48a6a0be0dac83adaa132e1923f</data>
+      <data key="d3">1</data>
+      <data key="d4">34</data>
+      <data key="d5">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&quot;JERSEY CITY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b586c48a6a0be0dac83adaa132e1923f</data>
+      <data key="d3">3</data>
+      <data key="d4">35</data>
+      <data key="d5">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Canada is a country with Ottawa as its capital city."</data>
+      <data key="d2">507dd056d791faf4481330d33e27d695</data>
+      <data key="d3">1</data>
+      <data key="d4">36</data>
+      <data key="d5">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&quot;GATINEAU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Gatineau is a city in Quebec, bordering Ottawa and forming part of the Ottawa-Gatineau census metropolitan area."</data>
+      <data key="d2">507dd056d791faf4481330d33e27d695</data>
+      <data key="d3">2</data>
+      <data key="d4">37</data>
+      <data key="d5">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&quot;ONTARIO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ontario is a province in eastern Canada where Ottawa is located."</data>
+      <data key="d2">507dd056d791faf4481330d33e27d695</data>
+      <data key="d3">1</data>
+      <data key="d4">38</data>
+      <data key="d5">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&quot;QUEBEC&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Quebec is a province in Canada where Gatineau is located."</data>
+      <data key="d2">507dd056d791faf4481330d33e27d695</data>
+      <data key="d3">1</data>
+      <data key="d4">39</data>
+      <data key="d5">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <node id="&quot;OTTAWA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">507dd056d791faf4481330d33e27d695</data>
+      <data key="d3">3</data>
+      <data key="d4">40</data>
+      <data key="d5">3ce7c210a21b4deebad7cc9308148d86</data>
+    </node>
+    <node id="&quot;AFRICAN AMERICAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+African Americans are an ethnic group that has been part of New Haven's demographic makeup since the postwar era. According to various estimates, they make up a significant percentage of the city's population, with reported figures ranging from 0.3% to 57.2%. However, it is important to note that these figures appear to be contradictory and may require further clarification or verification to determine an accurate representation of African Americans in New Haven's population.
+
+Let me know if you'd like me to revise anything!</data>
+      <data key="d2">2636581e3743f5b87adf16d80a7fe7b6,82d51f60d764c3cb34bda99ea985ba08,8e523049e362970606e8716d0e590035,bf01e1e451e943e0de9a1a1dfa6bbeb4,c74bfcd69a78c1889bb17b47ee64edc0</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">41</data>
+      <data key="d5">d64ed762ea924caa95c8d06f072a9a96</data>
+    </node>
+    <node id="&quot;NATIVE AMERICAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Native American refers to a racial group that makes up a percentage of the city's population, with varying estimates ranging from 0.2% to 9.9%. However, considering the multiple descriptions provided, it appears that the most consistent and reliable estimate falls between 0.33% and 0.61%, suggesting that Native Americans comprise around 0.5% of the city's population.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">2636581e3743f5b87adf16d80a7fe7b6,3aed81e7075053d4865bf84f06ef8433,82d51f60d764c3cb34bda99ea985ba08,bf01e1e451e943e0de9a1a1dfa6bbeb4,c74bfcd69a78c1889bb17b47ee64edc0</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">42</data>
+      <data key="d5">adf4ee3fbe9b4d0381044838c4f889c8</data>
+    </node>
+    <node id="&quot;ASIAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Asian refers to a racial group, but there seems to be conflicting information regarding their percentage in the city's population. According to different sources, Asians are reported to make up 0.2%, 0.46%, 0.7%, 1.3%, and even 15.55% of the city's population. However, it is unclear which figure is accurate. Further research or clarification is needed to determine the correct percentage of Asians in the city's population.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">2636581e3743f5b87adf16d80a7fe7b6,3aed81e7075053d4865bf84f06ef8433,82d51f60d764c3cb34bda99ea985ba08,bf01e1e451e943e0de9a1a1dfa6bbeb4,c74bfcd69a78c1889bb17b47ee64edc0</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">43</data>
+      <data key="d5">32ee140946e5461f9275db664dc541a5</data>
+    </node>
+    <node id="&quot;CITY&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+The CITY is a geographic location with a population of 39,558 people, households, and families, with a specific racial makeup and density.</data>
+      <data key="d2">0a93f3a4b994f482c5a6e922369775bf,2636581e3743f5b87adf16d80a7fe7b6,3aed81e7075053d4865bf84f06ef8433,82d51f60d764c3cb34bda99ea985ba08,bf01e1e451e943e0de9a1a1dfa6bbeb4,c606372db3819a1a5a8bb50b250e9630,c74bfcd69a78c1889bb17b47ee64edc0</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">12</data>
+      <data key="d4">44</data>
+      <data key="d5">c160b9cb27d6408ba6ab20214a2f3f81</data>
+    </node>
+    <node id="&quot;PACIFIC ISLANDER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Pacific Islander refers to a racial group that makes up a percentage of the city's population, with estimates ranging from 0.05% to 0.41%. Despite varying figures, Pacific Islanders are a distinct demographic within the city.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">3aed81e7075053d4865bf84f06ef8433,82d51f60d764c3cb34bda99ea985ba08,c74bfcd69a78c1889bb17b47ee64edc0</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">45</data>
+      <data key="d5">23527cd679ff4d5a988d52e7cd056078</data>
+    </node>
+    <node id="&quot;CENSUS OF 2010&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The census of 2010 is a significant event that provides demographic data about the city's population."</data>
+      <data key="d2">0a93f3a4b994f482c5a6e922369775bf</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">46</data>
+      <data key="d5">f1c6eed066f24cbdb376b910fce29ed4</data>
+    </node>
+    <node id="&quot;POPULATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+The population refers to the number of people residing in the city. As of the census of 2000, the population was 4,564. However, by the time of the 2010 census, it had decreased to 672 people.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">0a93f3a4b994f482c5a6e922369775bf,c606372db3819a1a5a8bb50b250e9630</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">47</data>
+      <data key="d5">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+    </node>
+    <node id="&quot;CROWN POINT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Crown Point is a location in Indiana and the hometown of Logan Gomez."</data>
+      <data key="d2">9218085614a851faf7b48cbb79370d3e</data>
+      <data key="d3">1</data>
+      <data key="d4">48</data>
+      <data key="d5">147c038aef3e4422acbbc5f7938c4ab8</data>
+    </node>
+    <node id="&quot;FIRESTONE INDY LIGHTS SERIES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Firestone Indy Lights Series (formerly the Indy Pro Series) is a racing series where Logan Gomez competed."</data>
+      <data key="d2">9218085614a851faf7b48cbb79370d3e</data>
+      <data key="d3">1</data>
+      <data key="d4">49</data>
+      <data key="d5">b7702b90c7f24190b864e8c6e64612a5</data>
+    </node>
+    <node id="&quot;LOGAN GOMEZ&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9218085614a851faf7b48cbb79370d3e</data>
+      <data key="d3">2</data>
+      <data key="d4">50</data>
+      <data key="d5">de6fa24480894518ab3cbcb66f739266</data>
+    </node>
+    <node id="&quot;CENSUS OF 2000&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The census of 2000 is an event that provided data on the city's population, households, and families."</data>
+      <data key="d2">c606372db3819a1a5a8bb50b250e9630</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">51</data>
+      <data key="d5">6fae5ee1a831468aa585a1ea09095998</data>
+    </node>
+    <node id="&quot;HOUSEHOLDS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Households refer to the number of families residing in the city, which was 1,979 as of the census of 2000."</data>
+      <data key="d2">c606372db3819a1a5a8bb50b250e9630</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">52</data>
+      <data key="d5">ef32c4b208d041cc856f6837915dc1b0</data>
+    </node>
+    <node id="&quot;FAMILIES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Families refer to the number of families residing in the city, which was 1,258 as of the census of 2000."</data>
+      <data key="d2">c606372db3819a1a5a8bb50b250e9630</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">53</data>
+      <data key="d5">07b2425216bd4f0aa4e079827cb48ef5</data>
+    </node>
+    <node id="&quot;DUVAL COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Duval County is a county in Florida where Jacksonville is the county seat."</data>
+      <data key="d2">df12a45297eb806593762e670232265a</data>
+      <data key="d3">1</data>
+      <data key="d4">54</data>
+      <data key="d5">2670deebfa3f4d69bb82c28ab250a209</data>
+    </node>
+    <node id="&quot;FLORIDA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Florida is a state in the United States where Jacksonville is located."</data>
+      <data key="d2">df12a45297eb806593762e670232265a</data>
+      <data key="d3">1</data>
+      <data key="d4">55</data>
+      <data key="d5">404309e89a5241d6bff42c05a45df206</data>
+    </node>
+    <node id="&quot;JACKSONVILLE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">df12a45297eb806593762e670232265a</data>
+      <data key="d3">3</data>
+      <data key="d4">56</data>
+      <data key="d5">b785a9025069417f94950ad231bb1441</data>
+    </node>
+    <node id="&quot;U.S. CENSUS BUREAU&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is a comprehensive summary:
+
+The U.S. Census Bureau provides estimates of population sizes for cities in the United States.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">8e523049e362970606e8716d0e590035,a8573175c03d5aca077489acebbefd2a</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">57</data>
+      <data key="d5">3b6cd96a27304614850709aba1c9598b</data>
+    </node>
+    <node id="&quot;FORT WORTH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Fort Worth is a city that is larger than Arlington in the county."</data>
+      <data key="d2">a8573175c03d5aca077489acebbefd2a</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">58</data>
+      <data key="d5">d54956b79dd147f894b67a8b97dcbef0</data>
+    </node>
+    <node id="&quot;ARLINGTON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a8573175c03d5aca077489acebbefd2a</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">59</data>
+      <data key="d5">958beecdb5bb4060948415ffd75d2b03</data>
+    </node>
+    <node id="&quot;AUTOMOBILES ETTORE BUGATTI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Automobiles Ettore Bugatti is a French car manufacturer of high-performance automobiles, founded in 1909."</data>
+      <data key="d2">8dd86cbee3e3d7e018bbd7e36dab0bc9</data>
+      <data key="d3">2</data>
+      <data key="d4">60</data>
+      <data key="d5">b999ed77e19e4f85b7f1ae79af5c002a</data>
+    </node>
+    <node id="&quot;MOLSHEIM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Molsheim is a city located in Alsace, where Automobiles Ettore Bugatti was founded in 1909."</data>
+      <data key="d2">8dd86cbee3e3d7e018bbd7e36dab0bc9</data>
+      <data key="d3">2</data>
+      <data key="d4">61</data>
+      <data key="d5">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+    </node>
+    <node id="&quot;ALSACE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Alsace is a region where Molsheim is located, and where Automobiles Ettore Bugatti was founded in 1909."</data>
+      <data key="d2">8dd86cbee3e3d7e018bbd7e36dab0bc9</data>
+      <data key="d3">1</data>
+      <data key="d4">62</data>
+      <data key="d5">4f3c97517f794ebfb49c4c6315f9cf23</data>
+    </node>
+    <node id="&quot;ETTORE BUGATTI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8dd86cbee3e3d7e018bbd7e36dab0bc9</data>
+      <data key="d3">1</data>
+      <data key="d4">63</data>
+      <data key="d5">1745a2485a9443bab76587ad650e9be0</data>
+    </node>
+    <node id="&quot;ATLANTIC STUDIOS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Atlantic Studios is a location in New York City where Charles Mingus' album was recorded."</data>
+      <data key="d2">4a7a125f3a82ecea0354185f045e4a22</data>
+      <data key="d3">1</data>
+      <data key="d4">64</data>
+      <data key="d5">32e6ccab20d94029811127dbbe424c64</data>
+    </node>
+    <node id="&quot;NEW YORK CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New York City is the city where Atlantic Studios is located, and where Charles Mingus' album was recorded."</data>
+      <data key="d2">4a7a125f3a82ecea0354185f045e4a22</data>
+      <data key="d3">1</data>
+      <data key="d4">65</data>
+      <data key="d5">94a964c6992945ebb3833dfdfdc8d655</data>
+    </node>
+    <node id="&quot;CHANGES TWO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Changes Two is an album by Charles Mingus, recorded in 1974."</data>
+      <data key="d2">4a7a125f3a82ecea0354185f045e4a22</data>
+      <data key="d3">3</data>
+      <data key="d4">66</data>
+      <data key="d5">1eb829d0ace042089f0746f78729696c</data>
+    </node>
+    <node id="&quot;ATLANTIC RECORDS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Atlantic Records is a record label that initially released Changes Two."</data>
+      <data key="d2">4a7a125f3a82ecea0354185f045e4a22</data>
+      <data key="d3">1</data>
+      <data key="d4">67</data>
+      <data key="d5">015e7b58d1a14b44beab3bbc9f912c18</data>
+    </node>
+    <node id="&quot;RHINO RECORDS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Rhino Records is a record label that reissued Changes Two on CD in 1993."</data>
+      <data key="d2">4a7a125f3a82ecea0354185f045e4a22</data>
+      <data key="d3">1</data>
+      <data key="d4">68</data>
+      <data key="d5">26f88ab3e2e04c33a459ad6270ade565</data>
+    </node>
+    <node id="&quot;WHITE&quot;">
+      <data key="d0">"RACE"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+White refers to a racial group that makes up a significant percentage of the city's population, with estimates ranging from 26.65% to 38.3%.</data>
+      <data key="d2">3aed81e7075053d4865bf84f06ef8433,c74bfcd69a78c1889bb17b47ee64edc0</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">69</data>
+      <data key="d5">babe97e1d9784cffa1c85abc1e588126</data>
+    </node>
+    <node id="&quot;BLACK OR AFRICAN AMERICAN&quot;">
+      <data key="d0">"RACE"</data>
+      <data key="d1">"Black or African American refers to a racial group making up 38.29% of the city's population."</data>
+      <data key="d2">3aed81e7075053d4865bf84f06ef8433</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">70</data>
+      <data key="d5">1033a18c45aa4584b2aef6ab96890351</data>
+    </node>
+    <node id="&quot;HISPANICS OR LATINOS&quot;">
+      <data key="d0">"RACE"</data>
+      <data key="d1">"Hispanics or Latinos refer to a racial group making up 30.45% of the city's population, regardless of race."</data>
+      <data key="d2">3aed81e7075053d4865bf84f06ef8433</data>
+      <data key="d3">0</data>
+      <data key="d4">71</data>
+      <data key="d5">c9b8ce91fc2945b4907fe35519339cac</data>
+    </node>
+    <node id="&quot;UNITED STATES CENSUS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3aed81e7075053d4865bf84f06ef8433</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">72</data>
+      <data key="d5">fa3c4204421c48609e52c8de2da4c654</data>
+    </node>
+    <node id="&quot;NEW HAVEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New Haven is a city with a population of 129,779 and a diverse racial makeup."</data>
+      <data key="d2">8e523049e362970606e8716d0e590035</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">6</data>
+      <data key="d4">73</data>
+      <data key="d5">53af055f068244d0ac861b2e89376495</data>
+    </node>
+    <node id="&quot;IRISH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Irish are an ethnic group that immigrated to New Haven in the prewar period."</data>
+      <data key="d2">8e523049e362970606e8716d0e590035</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">74</data>
+      <data key="d5">c03ab3ce8cb74ad2a03b94723bfab3c7</data>
+    </node>
+    <node id="&quot;ITALIAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Italians are an ethnic group that immigrated to New Haven in the prewar period."</data>
+      <data key="d2">8e523049e362970606e8716d0e590035</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">75</data>
+      <data key="d5">ed6d2eee9d7b4f5db466b1f6404d31cc</data>
+    </node>
+    <node id="&quot;SLAVIC PEOPLES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Slavic peoples are an ethnic group that immigrated to New Haven in the prewar period."</data>
+      <data key="d2">8e523049e362970606e8716d0e590035</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">76</data>
+      <data key="d5">fc01e9baa80e417c9206f941bb279407</data>
+    </node>
+    <node id="&quot;LATINO POPULATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Latino population is growing rapidly in New Haven, shifting the city's demography."</data>
+      <data key="d2">8e523049e362970606e8716d0e590035</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">77</data>
+      <data key="d5">56d0e5ebe79e4814bd1463cf6ca21394</data>
+    </node>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">21.0</data>
+      <data key="d9">"Tucson is the county seat of Pima County."</data>
+      <data key="d10">0a93f3a4b994f482c5a6e922369775bf,12454cdeeaf6406f663d4313f01360c5,2636581e3743f5b87adf16d80a7fe7b6,3aed81e7075053d4865bf84f06ef8433,4a7a125f3a82ecea0354185f045e4a22,507dd056d791faf4481330d33e27d695,50a583ba5a2b40543b2d801ff8c4afeb,82d51f60d764c3cb34bda99ea985ba08,8dd86cbee3e3d7e018bbd7e36dab0bc9,8e523049e362970606e8716d0e590035,9218085614a851faf7b48cbb79370d3e,a67d4fd9f172d44e6a39b5e8a72897e5,a8573175c03d5aca077489acebbefd2a,b586c48a6a0be0dac83adaa132e1923f,bf01e1e451e943e0de9a1a1dfa6bbeb4,c606372db3819a1a5a8bb50b250e9630,c74bfcd69a78c1889bb17b47ee64edc0,d01a1a47081277e751f69bbafc9a9375,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602</data>
+      <data key="d11">7c49f2710e8b4d3b8dc9310834406ea5</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Pima County is a county in Arizona."</data>
+      <data key="d10">0a93f3a4b994f482c5a6e922369775bf,12454cdeeaf6406f663d4313f01360c5,2636581e3743f5b87adf16d80a7fe7b6,3aed81e7075053d4865bf84f06ef8433,4a7a125f3a82ecea0354185f045e4a22,507dd056d791faf4481330d33e27d695,50a583ba5a2b40543b2d801ff8c4afeb,82d51f60d764c3cb34bda99ea985ba08,8dd86cbee3e3d7e018bbd7e36dab0bc9,8e523049e362970606e8716d0e590035,9218085614a851faf7b48cbb79370d3e,a67d4fd9f172d44e6a39b5e8a72897e5,a8573175c03d5aca077489acebbefd2a,b586c48a6a0be0dac83adaa132e1923f,bf01e1e451e943e0de9a1a1dfa6bbeb4,c606372db3819a1a5a8bb50b250e9630,c74bfcd69a78c1889bb17b47ee64edc0,d01a1a47081277e751f69bbafc9a9375,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602</data>
+      <data key="d11">c6d1e4f56c2843e89cf0b91c10bb6de2</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">21.0</data>
+      <data key="d9">"The University of Arizona is located in Tucson."</data>
+      <data key="d10">0a93f3a4b994f482c5a6e922369775bf,12454cdeeaf6406f663d4313f01360c5,2636581e3743f5b87adf16d80a7fe7b6,3aed81e7075053d4865bf84f06ef8433,4a7a125f3a82ecea0354185f045e4a22,507dd056d791faf4481330d33e27d695,50a583ba5a2b40543b2d801ff8c4afeb,82d51f60d764c3cb34bda99ea985ba08,8dd86cbee3e3d7e018bbd7e36dab0bc9,8e523049e362970606e8716d0e590035,9218085614a851faf7b48cbb79370d3e,a67d4fd9f172d44e6a39b5e8a72897e5,a8573175c03d5aca077489acebbefd2a,b586c48a6a0be0dac83adaa132e1923f,bf01e1e451e943e0de9a1a1dfa6bbeb4,c606372db3819a1a5a8bb50b250e9630,c74bfcd69a78c1889bb17b47ee64edc0,d01a1a47081277e751f69bbafc9a9375,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602</data>
+      <data key="d11">0adb2d9941f34ef7b2f7743cc6225844</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d8">21.0</data>
+      <data key="d9">"Arizona is a state in the United States."</data>
+      <data key="d10">0a93f3a4b994f482c5a6e922369775bf,12454cdeeaf6406f663d4313f01360c5,2636581e3743f5b87adf16d80a7fe7b6,3aed81e7075053d4865bf84f06ef8433,4a7a125f3a82ecea0354185f045e4a22,507dd056d791faf4481330d33e27d695,50a583ba5a2b40543b2d801ff8c4afeb,82d51f60d764c3cb34bda99ea985ba08,8dd86cbee3e3d7e018bbd7e36dab0bc9,8e523049e362970606e8716d0e590035,9218085614a851faf7b48cbb79370d3e,a67d4fd9f172d44e6a39b5e8a72897e5,a8573175c03d5aca077489acebbefd2a,b586c48a6a0be0dac83adaa132e1923f,bf01e1e451e943e0de9a1a1dfa6bbeb4,c606372db3819a1a5a8bb50b250e9630,c74bfcd69a78c1889bb17b47ee64edc0,d01a1a47081277e751f69bbafc9a9375,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602</data>
+      <data key="d11">6b02373137fd438ba96af28f735cdbdb</data>
+      <data key="d12">3</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is a city in Arizona."</data>
+      <data key="d10">0a93f3a4b994f482c5a6e922369775bf,12454cdeeaf6406f663d4313f01360c5,2636581e3743f5b87adf16d80a7fe7b6,3aed81e7075053d4865bf84f06ef8433,4a7a125f3a82ecea0354185f045e4a22,507dd056d791faf4481330d33e27d695,50a583ba5a2b40543b2d801ff8c4afeb,82d51f60d764c3cb34bda99ea985ba08,8dd86cbee3e3d7e018bbd7e36dab0bc9,8e523049e362970606e8716d0e590035,9218085614a851faf7b48cbb79370d3e,a67d4fd9f172d44e6a39b5e8a72897e5,a8573175c03d5aca077489acebbefd2a,b586c48a6a0be0dac83adaa132e1923f,bf01e1e451e943e0de9a1a1dfa6bbeb4,c606372db3819a1a5a8bb50b250e9630,c74bfcd69a78c1889bb17b47ee64edc0,d01a1a47081277e751f69bbafc9a9375,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602</data>
+      <data key="d11">36a4fcd8efc144e6b8af9a1c7ab8b2ce</data>
+      <data key="d12">4</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Phoenix is a city in Arizona."</data>
+      <data key="d10">0a93f3a4b994f482c5a6e922369775bf,12454cdeeaf6406f663d4313f01360c5,2636581e3743f5b87adf16d80a7fe7b6,3aed81e7075053d4865bf84f06ef8433,4a7a125f3a82ecea0354185f045e4a22,507dd056d791faf4481330d33e27d695,50a583ba5a2b40543b2d801ff8c4afeb,82d51f60d764c3cb34bda99ea985ba08,8dd86cbee3e3d7e018bbd7e36dab0bc9,8e523049e362970606e8716d0e590035,9218085614a851faf7b48cbb79370d3e,a67d4fd9f172d44e6a39b5e8a72897e5,a8573175c03d5aca077489acebbefd2a,b586c48a6a0be0dac83adaa132e1923f,bf01e1e451e943e0de9a1a1dfa6bbeb4,c606372db3819a1a5a8bb50b250e9630,c74bfcd69a78c1889bb17b47ee64edc0,d01a1a47081277e751f69bbafc9a9375,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602</data>
+      <data key="d11">fbeef791d19b413a9c93c6608286ab63</data>
+      <data key="d12">5</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PHOENIX&quot;" target="&quot;JOHNNY RUTHERFORD&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Phoenix is the location where Johnny Rutherford was involved in a spectacular crash in 1980."</data>
+      <data key="d10">12454cdeeaf6406f663d4313f01360c5</data>
+      <data key="d11">d2b629c0396f4180a03e16ddf3818589</data>
+      <data key="d12">6</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PHOENIX&quot;" target="&quot;MARIO ANDRETTI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Phoenix is the location where Mario Andretti achieved his final career victory in 1993."</data>
+      <data key="d10">12454cdeeaf6406f663d4313f01360c5</data>
+      <data key="d11">6102fc6619ed422ebc42588bfa97355d</data>
+      <data key="d12">7</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;JACKSONVILLE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jacksonville is one of the most populous cities in the United States."</data>
+      <data key="d10">df12a45297eb806593762e670232265a</data>
+      <data key="d11">8d141c0b80f74b79a05eed7fe161fe49</data>
+      <data key="d12">8</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d10">0a93f3a4b994f482c5a6e922369775bf,12454cdeeaf6406f663d4313f01360c5,2636581e3743f5b87adf16d80a7fe7b6,3aed81e7075053d4865bf84f06ef8433,4a7a125f3a82ecea0354185f045e4a22,507dd056d791faf4481330d33e27d695,50a583ba5a2b40543b2d801ff8c4afeb,82d51f60d764c3cb34bda99ea985ba08,8dd86cbee3e3d7e018bbd7e36dab0bc9,8e523049e362970606e8716d0e590035,9218085614a851faf7b48cbb79370d3e,a67d4fd9f172d44e6a39b5e8a72897e5,a8573175c03d5aca077489acebbefd2a,b586c48a6a0be0dac83adaa132e1923f,bf01e1e451e943e0de9a1a1dfa6bbeb4,c606372db3819a1a5a8bb50b250e9630,c74bfcd69a78c1889bb17b47ee64edc0,d01a1a47081277e751f69bbafc9a9375,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602</data>
+      <data key="d11">e22d1d1cd8d14f12b81828d940f40d70</data>
+      <data key="d12">9</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Mexico shares an international border with the United States."</data>
+      <data key="d10">0a93f3a4b994f482c5a6e922369775bf,12454cdeeaf6406f663d4313f01360c5,2636581e3743f5b87adf16d80a7fe7b6,3aed81e7075053d4865bf84f06ef8433,4a7a125f3a82ecea0354185f045e4a22,507dd056d791faf4481330d33e27d695,50a583ba5a2b40543b2d801ff8c4afeb,82d51f60d764c3cb34bda99ea985ba08,8dd86cbee3e3d7e018bbd7e36dab0bc9,8e523049e362970606e8716d0e590035,9218085614a851faf7b48cbb79370d3e,a67d4fd9f172d44e6a39b5e8a72897e5,a8573175c03d5aca077489acebbefd2a,b586c48a6a0be0dac83adaa132e1923f,bf01e1e451e943e0de9a1a1dfa6bbeb4,c606372db3819a1a5a8bb50b250e9630,c74bfcd69a78c1889bb17b47ee64edc0,d01a1a47081277e751f69bbafc9a9375,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602</data>
+      <data key="d11">9ab48505fb1b487babd0d1f6d3a3f980</data>
+      <data key="d12">10</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d10">0a93f3a4b994f482c5a6e922369775bf,12454cdeeaf6406f663d4313f01360c5,2636581e3743f5b87adf16d80a7fe7b6,3aed81e7075053d4865bf84f06ef8433,4a7a125f3a82ecea0354185f045e4a22,507dd056d791faf4481330d33e27d695,50a583ba5a2b40543b2d801ff8c4afeb,82d51f60d764c3cb34bda99ea985ba08,8dd86cbee3e3d7e018bbd7e36dab0bc9,8e523049e362970606e8716d0e590035,9218085614a851faf7b48cbb79370d3e,a67d4fd9f172d44e6a39b5e8a72897e5,a8573175c03d5aca077489acebbefd2a,b586c48a6a0be0dac83adaa132e1923f,bf01e1e451e943e0de9a1a1dfa6bbeb4,c606372db3819a1a5a8bb50b250e9630,c74bfcd69a78c1889bb17b47ee64edc0,d01a1a47081277e751f69bbafc9a9375,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602</data>
+      <data key="d11">148fffeb994541b2b4b6dcefda7001a8</data>
+      <data key="d12">11</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CHARLES MINGUS SR.&quot;" target="&quot;U.S. ARMY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Charles Mingus Sr. is a sergeant in the U.S. Army."</data>
+      <data key="d10">50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d11">89c08e793298442686292454a1abff31</data>
+      <data key="d12">12</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NOGALES, ARIZONA&quot;" target="&quot;CHARLES MINGUS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Charles Mingus was born in Nogales, Arizona."</data>
+      <data key="d10">50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d11">0467928aa65e4a4fba62bdb1467e3a54</data>
+      <data key="d12">13</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WATTS AREA OF LOS ANGELES&quot;" target="&quot;CHARLES MINGUS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Charles Mingus was largely raised in the Watts area of Los Angeles."</data>
+      <data key="d10">50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d11">43c3390303c6476cb65f584e37c3e81c</data>
+      <data key="d12">14</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CHARLES MINGUS&quot;" target="&quot;CHANGES TWO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Charles Mingus recorded the album Changes Two."</data>
+      <data key="d10">4a7a125f3a82ecea0354185f045e4a22</data>
+      <data key="d11">fa14b16c17e3417dba5a4b473ea5b18d</data>
+      <data key="d12">15</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VERIZON INDYCAR SERIES&quot;" target="&quot;RACE REVIVAL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Verizon IndyCar Series revived the race in 2016, making it a key player in the event."</data>
+      <data key="d10">12454cdeeaf6406f663d4313f01360c5</data>
+      <data key="d11">7cc3356d38de4328a51a5cbcb187dac3</data>
+      <data key="d12">16</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;RAMSEY COUNTY&quot;" target="&quot;SAINT PAUL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Saint Paul is the county seat of Ramsey County."</data>
+      <data key="d10">d01a1a47081277e751f69bbafc9a9375</data>
+      <data key="d11">bef16fb5fd7344cca5e295b13ef3e0cd</data>
+      <data key="d12">17</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MINNEAPOLIS&quot;" target="&quot;SAINT PAUL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Saint Paul and Minneapolis form the Twin Cities, a metropolitan area with about 3.6 million residents."</data>
+      <data key="d10">d01a1a47081277e751f69bbafc9a9375</data>
+      <data key="d11">bb9e01bc171d4326a29afda59ece8d17</data>
+      <data key="d12">18</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MISSISSIPPI RIVER&quot;" target="&quot;MINNESOTA RIVER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Minnesota River converges with the Mississippi River near Saint Paul."</data>
+      <data key="d10">d01a1a47081277e751f69bbafc9a9375</data>
+      <data key="d11">3c063eea52e94164b70c99431ea30bae</data>
+      <data key="d12">19</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NEW JERSEY&quot;" target="&quot;JERSEY CITY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jersey City is a city located in the state of New Jersey."</data>
+      <data key="d10">b586c48a6a0be0dac83adaa132e1923f</data>
+      <data key="d11">252cc8452bfc4c2aa58cab68d8b61879</data>
+      <data key="d12">20</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HUDSON COUNTY&quot;" target="&quot;JERSEY CITY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jersey City is the largest city and seat of Hudson County."</data>
+      <data key="d10">b586c48a6a0be0dac83adaa132e1923f</data>
+      <data key="d11">7e2c84548fb94ee395ba8588d8f2a006</data>
+      <data key="d12">21</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CENSUS BUREAU&quot;" target="&quot;JERSEY CITY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Census Bureau calculated the population estimates for Jersey City."</data>
+      <data key="d10">b586c48a6a0be0dac83adaa132e1923f</data>
+      <data key="d11">f034618dde7948beb6dab30176d0fc87</data>
+      <data key="d12">22</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CANADA&quot;" target="&quot;OTTAWA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ottawa is the capital city of Canada."</data>
+      <data key="d10">507dd056d791faf4481330d33e27d695</data>
+      <data key="d11">5c41f96be13e49dba649454297834546</data>
+      <data key="d12">23</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GATINEAU&quot;" target="&quot;OTTAWA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Gatineau borders Ottawa and forms part of the same census metropolitan area."</data>
+      <data key="d10">507dd056d791faf4481330d33e27d695</data>
+      <data key="d11">7ea4afbf8a264f29af29950ce98105ba</data>
+      <data key="d12">24</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GATINEAU&quot;" target="&quot;QUEBEC&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Gatineau is located in the province of Quebec."</data>
+      <data key="d10">507dd056d791faf4481330d33e27d695</data>
+      <data key="d11">91ff849d12b24574b0691dbddf44968b</data>
+      <data key="d12">25</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ONTARIO&quot;" target="&quot;OTTAWA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ottawa is located in the province of Ontario."</data>
+      <data key="d10">507dd056d791faf4481330d33e27d695</data>
+      <data key="d11">d73c1f2fb3094d8dace42ad2a76e9a52</data>
+      <data key="d12">26</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AFRICAN AMERICAN&quot;" target="&quot;CITY&quot;">
+      <data key="d8">4.0</data>
+      <data key="d9">Here is the comprehensive summary:
+
+The City has a significant African American population, making up 0.3% of its residents.
+
+Let me know if you need any further assistance!</data>
+      <data key="d10">2636581e3743f5b87adf16d80a7fe7b6,82d51f60d764c3cb34bda99ea985ba08,bf01e1e451e943e0de9a1a1dfa6bbeb4,c74bfcd69a78c1889bb17b47ee64edc0</data>
+      <data key="d11">cdc8901e668749889bd49bebdc4ff1f6</data>
+      <data key="d12">27</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AFRICAN AMERICAN&quot;" target="&quot;NEW HAVEN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"African Americans are part of New Haven's demographic makeup."</data>
+      <data key="d10">8e523049e362970606e8716d0e590035</data>
+      <data key="d11">36084a9fab53433493f079e97e68bf65</data>
+      <data key="d12">28</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NATIVE AMERICAN&quot;" target="&quot;CITY&quot;">
+      <data key="d8">4.0</data>
+      <data key="d9">Here is the comprehensive summary:
+
+The City has a population that includes Native Americans, making up approximately 0.6% of its residents, which can be described as a small but significant presence within the community.
+
+Let me know if you need any further assistance!</data>
+      <data key="d10">2636581e3743f5b87adf16d80a7fe7b6,82d51f60d764c3cb34bda99ea985ba08,bf01e1e451e943e0de9a1a1dfa6bbeb4,c74bfcd69a78c1889bb17b47ee64edc0</data>
+      <data key="d11">eebcc7ec8e3e4df7aea83659bbdc2199</data>
+      <data key="d12">29</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASIAN&quot;" target="&quot;CITY&quot;">
+      <data key="d8">4.0</data>
+      <data key="d9">Here is the comprehensive summary:
+
+The Asian City has a notable Asian population, comprising 0.2% of its residents.
+
+Let me know if you need any further assistance!</data>
+      <data key="d10">2636581e3743f5b87adf16d80a7fe7b6,82d51f60d764c3cb34bda99ea985ba08,bf01e1e451e943e0de9a1a1dfa6bbeb4,c74bfcd69a78c1889bb17b47ee64edc0</data>
+      <data key="d11">ceadf262ef834e9ab146b20650912cae</data>
+      <data key="d12">30</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CITY&quot;" target="&quot;PACIFIC ISLANDER&quot;">
+      <data key="d8">2.0</data>
+      <data key="d9">Here is the comprehensive summary:
+
+The CITY has a population that includes Pacific Islanders, although it is worth noting that this demographic group makes up only a small proportion of the overall population.
+
+Let me know if you need any further assistance!</data>
+      <data key="d10">82d51f60d764c3cb34bda99ea985ba08,c74bfcd69a78c1889bb17b47ee64edc0</data>
+      <data key="d11">7f65feab75424b53b24470d305ba331a</data>
+      <data key="d12">31</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CITY&quot;" target="&quot;CENSUS OF 2010&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The city's demographic data, including population density and racial makeup, was recorded in the census of 2010."</data>
+      <data key="d10">0a93f3a4b994f482c5a6e922369775bf</data>
+      <data key="d11">fd9cb733b28d420cb5cef01e545a132c</data>
+      <data key="d12">32</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CITY&quot;" target="&quot;POPULATION&quot;">
+      <data key="d8">2.0</data>
+      <data key="d9">Here is the comprehensive summary:
+
+The CITY has a conflicting report on its POPULATION. According to one source, it had a population of 4,564 people as of the census of 2000. However, another source suggests that the city's population is significantly lower, at 672 people, with a specific racial makeup and density. Without further information, it is unclear which figure is more accurate.</data>
+      <data key="d10">0a93f3a4b994f482c5a6e922369775bf,c606372db3819a1a5a8bb50b250e9630</data>
+      <data key="d11">0fbcca3f17c649a08aea64b5a7d9ef36</data>
+      <data key="d12">33</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CITY&quot;" target="&quot;CENSUS OF 2000&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The city is the subject of the census of 2000, which provides demographic information about it."</data>
+      <data key="d10">c606372db3819a1a5a8bb50b250e9630</data>
+      <data key="d11">482027a59f32484c9c44fd700615c1b6</data>
+      <data key="d12">34</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CITY&quot;" target="&quot;HOUSEHOLDS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The city has 1,979 households as of the census of 2000."</data>
+      <data key="d10">c606372db3819a1a5a8bb50b250e9630</data>
+      <data key="d11">de837ff3d626451282ff6ac77a82216d</data>
+      <data key="d12">35</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CITY&quot;" target="&quot;FAMILIES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The city has 1,258 families as of the census of 2000."</data>
+      <data key="d10">c606372db3819a1a5a8bb50b250e9630</data>
+      <data key="d11">460295fed3ae4cd39f9f274cec9c2506</data>
+      <data key="d12">36</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CITY&quot;" target="&quot;UNITED STATES CENSUS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The United States Census provides demographic data about the city, including its population and racial makeup."</data>
+      <data key="d10">3aed81e7075053d4865bf84f06ef8433</data>
+      <data key="d11">553b285bba60460ab1ed8341ae61282b</data>
+      <data key="d12">37</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CITY&quot;" target="&quot;WHITE&quot;">
+      <data key="d8">2.0</data>
+      <data key="d9">Here is a comprehensive summary of the data:
+
+The CITY has a significant demographic component consisting of the WHITE racial group, which makes up approximately 26.65% of the city's population.
+
+Let me know if you need any further assistance!</data>
+      <data key="d10">3aed81e7075053d4865bf84f06ef8433,c74bfcd69a78c1889bb17b47ee64edc0</data>
+      <data key="d11">cec95bf17e7e4c939b56c9c6f402a29f</data>
+      <data key="d12">38</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CITY&quot;" target="&quot;BLACK OR AFRICAN AMERICAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Black or African American racial group is a part of the city's population, making up 38.29%."</data>
+      <data key="d10">3aed81e7075053d4865bf84f06ef8433</data>
+      <data key="d11">599164aead034bc19446efacc77554d2</data>
+      <data key="d12">39</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CROWN POINT&quot;" target="&quot;LOGAN GOMEZ&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Logan Gomez is from Crown Point, Indiana."</data>
+      <data key="d10">9218085614a851faf7b48cbb79370d3e</data>
+      <data key="d11">bbf148ae4d48422f8fdef754cfa2b9e4</data>
+      <data key="d12">40</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FIRESTONE INDY LIGHTS SERIES&quot;" target="&quot;LOGAN GOMEZ&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Logan Gomez competed in the Firestone Indy Lights Series."</data>
+      <data key="d10">9218085614a851faf7b48cbb79370d3e</data>
+      <data key="d11">de61b2670999433f807a6a1dc2b81e43</data>
+      <data key="d12">41</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DUVAL COUNTY&quot;" target="&quot;JACKSONVILLE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jacksonville is the county seat of Duval County, and they consolidated in 1968."</data>
+      <data key="d10">df12a45297eb806593762e670232265a</data>
+      <data key="d11">3e95dacfe57b4d57b5da4310ef2e157f</data>
+      <data key="d12">42</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;JACKSONVILLE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jacksonville is the largest city by population in Florida."</data>
+      <data key="d10">df12a45297eb806593762e670232265a</data>
+      <data key="d11">1f1545308e9347af91fd03b94aadc21f</data>
+      <data key="d12">43</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S. CENSUS BUREAU&quot;" target="&quot;ARLINGTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The U.S. Census Bureau provides population estimates for Arlington."</data>
+      <data key="d10">a8573175c03d5aca077489acebbefd2a</data>
+      <data key="d11">6ea81acaf232485e94fff638e03336e1</data>
+      <data key="d12">44</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S. CENSUS BUREAU&quot;" target="&quot;NEW HAVEN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The U.S. Census Bureau reports demographic data about New Haven."</data>
+      <data key="d10">8e523049e362970606e8716d0e590035</data>
+      <data key="d11">d136b08d586d488f9e4188b524c85a29</data>
+      <data key="d12">45</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FORT WORTH&quot;" target="&quot;ARLINGTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Arlington and Fort Worth are cities in the same county, with Fort Worth being larger."</data>
+      <data key="d10">a8573175c03d5aca077489acebbefd2a</data>
+      <data key="d11">cccfa151fedc4b218a8d96adc7dceabe</data>
+      <data key="d12">46</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AUTOMOBILES ETTORE BUGATTI&quot;" target="&quot;ETTORE BUGATTI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ettore Bugatti founded Automobiles Ettore Bugatti."</data>
+      <data key="d10">8dd86cbee3e3d7e018bbd7e36dab0bc9</data>
+      <data key="d11">ce54725672a74ebcabe6127577dacb2b</data>
+      <data key="d12">47</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AUTOMOBILES ETTORE BUGATTI&quot;" target="&quot;MOLSHEIM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Automobiles Ettore Bugatti was founded in Molsheim."</data>
+      <data key="d10">8dd86cbee3e3d7e018bbd7e36dab0bc9</data>
+      <data key="d11">ea2b28ca1a974ffab4517811dc1d1e5c</data>
+      <data key="d12">48</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MOLSHEIM&quot;" target="&quot;ALSACE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Molsheim is located in Alsace."</data>
+      <data key="d10">8dd86cbee3e3d7e018bbd7e36dab0bc9</data>
+      <data key="d11">aff21f1da1654e7babdcf3fb0e4a75fc</data>
+      <data key="d12">49</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ATLANTIC STUDIOS&quot;" target="&quot;NEW YORK CITY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Atlantic Studios is located in New York City."</data>
+      <data key="d10">4a7a125f3a82ecea0354185f045e4a22</data>
+      <data key="d11">dc2cc9016e3f49dbac7232f05cce794d</data>
+      <data key="d12">50</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CHANGES TWO&quot;" target="&quot;ATLANTIC RECORDS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Atlantic Records initially released the album Changes Two."</data>
+      <data key="d10">4a7a125f3a82ecea0354185f045e4a22</data>
+      <data key="d11">6ea0cef05f694dcea455478f40674e45</data>
+      <data key="d12">51</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CHANGES TWO&quot;" target="&quot;RHINO RECORDS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Rhino Records reissued Changes Two on CD in 1993."</data>
+      <data key="d10">4a7a125f3a82ecea0354185f045e4a22</data>
+      <data key="d11">7ab5d53a872f4dfc98f3d386879f3c75</data>
+      <data key="d12">52</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NEW HAVEN&quot;" target="&quot;IRISH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Irish immigrated to New Haven in the prewar period."</data>
+      <data key="d10">8e523049e362970606e8716d0e590035</data>
+      <data key="d11">af1d0fec22114a3398b8016f5225f9ed</data>
+      <data key="d12">53</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NEW HAVEN&quot;" target="&quot;ITALIAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Italians immigrated to New Haven in the prewar period."</data>
+      <data key="d10">8e523049e362970606e8716d0e590035</data>
+      <data key="d11">b07a7f088364459098cd8511ff27a4c8</data>
+      <data key="d12">54</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NEW HAVEN&quot;" target="&quot;SLAVIC PEOPLES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Slavic peoples immigrated to New Haven in the prewar period."</data>
+      <data key="d10">8e523049e362970606e8716d0e590035</data>
+      <data key="d11">8870cf2b5df64d2cab5820f67e29b9f1</data>
+      <data key="d12">55</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NEW HAVEN&quot;" target="&quot;LATINO POPULATION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Latino population is growing rapidly in New Haven, shifting the city's demography."</data>
+      <data key="d10">8e523049e362970606e8716d0e590035</data>
+      <data key="d11">cd130938a2844050be991af70baf5ee0</data>
+      <data key="d12">56</data>
+      <data key="d13">0</data>
+    </edge>
+  </graph>
+</graphml>

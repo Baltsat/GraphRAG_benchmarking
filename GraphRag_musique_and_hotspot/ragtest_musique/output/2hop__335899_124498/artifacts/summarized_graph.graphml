@@ -1,0 +1,868 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;VILA JOIOSA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Vila Joiosa is a location in the autonomous community of Valencia where Villajoyosa Club de F&#250;tbol is based."</data>
+      <data key="d2">3667553e1046fb90a491582575fd2914</data>
+    </node>
+    <node id="&quot;VALENCIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Valencia is an autonomous community in Spain where Vila Joiosa is located."</data>
+      <data key="d2">3667553e1046fb90a491582575fd2914</data>
+    </node>
+    <node id="&quot;ESTADIO NOU PLA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Estadio Nou Pla is a stadium with a capacity of 4,000 where Villajoyosa Club de F&#250;tbol holds home matches."</data>
+      <data key="d2">3667553e1046fb90a491582575fd2914</data>
+    </node>
+    <node id="&quot;VILLAJOYOSA CLUB DE F&#218;TBOL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3667553e1046fb90a491582575fd2914</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">068eedf07b47e6a6ace9df18bbb66005,09d984fd56c532d554998b7d820664c6,0c5c08f2a972cb506707452a34c2c01b,282b7b4eb76c190b1d895b537b103070,2daace1f18bc783b621b85ccced0161f,3667553e1046fb90a491582575fd2914,36b5121e17cb6bdc442e392e1c14fc68,617a0cffb2ce753e0ee867bd95c17daa,671fdb5b43f333c5b30b2fc51136ec90,7a66de877a08037bba04ee0cb9362545,968173b0561f338a2ae6b1e02e8df048,af7b4643f9fbeb86b592910440c61b1b,afaa0366af2dbc0e67c14c8106d83d94,c41a0e1ee171c80897bdaddba464ccef,e7e6002f7cd8aacbfe7403511771fe8f,eb223c47e3ef69a5505c6c1076ee2dce,eba5246302d65ec9b5cccd668c4063ad,ebc9ae3d03dd593d9d9b3a4246552140,f4cd8a9ec36741c0af9e0d0f1c9f6d7c,f856bc042fde484b7217433de692716b</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">068eedf07b47e6a6ace9df18bbb66005,09d984fd56c532d554998b7d820664c6,0c5c08f2a972cb506707452a34c2c01b,282b7b4eb76c190b1d895b537b103070,2daace1f18bc783b621b85ccced0161f,3667553e1046fb90a491582575fd2914,36b5121e17cb6bdc442e392e1c14fc68,617a0cffb2ce753e0ee867bd95c17daa,671fdb5b43f333c5b30b2fc51136ec90,7a66de877a08037bba04ee0cb9362545,968173b0561f338a2ae6b1e02e8df048,af7b4643f9fbeb86b592910440c61b1b,afaa0366af2dbc0e67c14c8106d83d94,c41a0e1ee171c80897bdaddba464ccef,e7e6002f7cd8aacbfe7403511771fe8f,eb223c47e3ef69a5505c6c1076ee2dce,eba5246302d65ec9b5cccd668c4063ad,ebc9ae3d03dd593d9d9b3a4246552140,f4cd8a9ec36741c0af9e0d0f1c9f6d7c,f856bc042fde484b7217433de692716b</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">068eedf07b47e6a6ace9df18bbb66005,09d984fd56c532d554998b7d820664c6,0c5c08f2a972cb506707452a34c2c01b,282b7b4eb76c190b1d895b537b103070,2daace1f18bc783b621b85ccced0161f,3667553e1046fb90a491582575fd2914,36b5121e17cb6bdc442e392e1c14fc68,617a0cffb2ce753e0ee867bd95c17daa,671fdb5b43f333c5b30b2fc51136ec90,7a66de877a08037bba04ee0cb9362545,968173b0561f338a2ae6b1e02e8df048,af7b4643f9fbeb86b592910440c61b1b,afaa0366af2dbc0e67c14c8106d83d94,c41a0e1ee171c80897bdaddba464ccef,e7e6002f7cd8aacbfe7403511771fe8f,eb223c47e3ef69a5505c6c1076ee2dce,eba5246302d65ec9b5cccd668c4063ad,ebc9ae3d03dd593d9d9b3a4246552140,f4cd8a9ec36741c0af9e0d0f1c9f6d7c,f856bc042fde484b7217433de692716b</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">068eedf07b47e6a6ace9df18bbb66005,09d984fd56c532d554998b7d820664c6,0c5c08f2a972cb506707452a34c2c01b,282b7b4eb76c190b1d895b537b103070,2daace1f18bc783b621b85ccced0161f,3667553e1046fb90a491582575fd2914,36b5121e17cb6bdc442e392e1c14fc68,617a0cffb2ce753e0ee867bd95c17daa,671fdb5b43f333c5b30b2fc51136ec90,7a66de877a08037bba04ee0cb9362545,968173b0561f338a2ae6b1e02e8df048,af7b4643f9fbeb86b592910440c61b1b,afaa0366af2dbc0e67c14c8106d83d94,c41a0e1ee171c80897bdaddba464ccef,e7e6002f7cd8aacbfe7403511771fe8f,eb223c47e3ef69a5505c6c1076ee2dce,eba5246302d65ec9b5cccd668c4063ad,ebc9ae3d03dd593d9d9b3a4246552140,f4cd8a9ec36741c0af9e0d0f1c9f6d7c,f856bc042fde484b7217433de692716b</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country where Tucson, Pima County, and Arizona are located, as well as Minnesota, Lac qui Parle County, and Lake Shore Township.</data>
+      <data key="d2">068eedf07b47e6a6ace9df18bbb66005,09d984fd56c532d554998b7d820664c6,0c5c08f2a972cb506707452a34c2c01b,282b7b4eb76c190b1d895b537b103070,2daace1f18bc783b621b85ccced0161f,3667553e1046fb90a491582575fd2914,36b5121e17cb6bdc442e392e1c14fc68,617a0cffb2ce753e0ee867bd95c17daa,671fdb5b43f333c5b30b2fc51136ec90,7a66de877a08037bba04ee0cb9362545,968173b0561f338a2ae6b1e02e8df048,af7b4643f9fbeb86b592910440c61b1b,afaa0366af2dbc0e67c14c8106d83d94,c41a0e1ee171c80897bdaddba464ccef,e7e6002f7cd8aacbfe7403511771fe8f,eb223c47e3ef69a5505c6c1076ee2dce,eba5246302d65ec9b5cccd668c4063ad,ebc9ae3d03dd593d9d9b3a4246552140,f4cd8a9ec36741c0af9e0d0f1c9f6d7c,f856bc042fde484b7217433de692716b</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">068eedf07b47e6a6ace9df18bbb66005,09d984fd56c532d554998b7d820664c6,0c5c08f2a972cb506707452a34c2c01b,282b7b4eb76c190b1d895b537b103070,2daace1f18bc783b621b85ccced0161f,3667553e1046fb90a491582575fd2914,36b5121e17cb6bdc442e392e1c14fc68,617a0cffb2ce753e0ee867bd95c17daa,671fdb5b43f333c5b30b2fc51136ec90,7a66de877a08037bba04ee0cb9362545,968173b0561f338a2ae6b1e02e8df048,af7b4643f9fbeb86b592910440c61b1b,afaa0366af2dbc0e67c14c8106d83d94,c41a0e1ee171c80897bdaddba464ccef,e7e6002f7cd8aacbfe7403511771fe8f,eb223c47e3ef69a5505c6c1076ee2dce,eba5246302d65ec9b5cccd668c4063ad,ebc9ae3d03dd593d9d9b3a4246552140,f4cd8a9ec36741c0af9e0d0f1c9f6d7c,f856bc042fde484b7217433de692716b</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">068eedf07b47e6a6ace9df18bbb66005,09d984fd56c532d554998b7d820664c6,0c5c08f2a972cb506707452a34c2c01b,282b7b4eb76c190b1d895b537b103070,2daace1f18bc783b621b85ccced0161f,3667553e1046fb90a491582575fd2914,36b5121e17cb6bdc442e392e1c14fc68,617a0cffb2ce753e0ee867bd95c17daa,671fdb5b43f333c5b30b2fc51136ec90,7a66de877a08037bba04ee0cb9362545,968173b0561f338a2ae6b1e02e8df048,af7b4643f9fbeb86b592910440c61b1b,afaa0366af2dbc0e67c14c8106d83d94,c41a0e1ee171c80897bdaddba464ccef,e7e6002f7cd8aacbfe7403511771fe8f,eb223c47e3ef69a5505c6c1076ee2dce,eba5246302d65ec9b5cccd668c4063ad,ebc9ae3d03dd593d9d9b3a4246552140,f4cd8a9ec36741c0af9e0d0f1c9f6d7c,f856bc042fde484b7217433de692716b</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">068eedf07b47e6a6ace9df18bbb66005,09d984fd56c532d554998b7d820664c6,0c5c08f2a972cb506707452a34c2c01b,282b7b4eb76c190b1d895b537b103070,2daace1f18bc783b621b85ccced0161f,3667553e1046fb90a491582575fd2914,36b5121e17cb6bdc442e392e1c14fc68,617a0cffb2ce753e0ee867bd95c17daa,671fdb5b43f333c5b30b2fc51136ec90,7a66de877a08037bba04ee0cb9362545,968173b0561f338a2ae6b1e02e8df048,af7b4643f9fbeb86b592910440c61b1b,afaa0366af2dbc0e67c14c8106d83d94,c41a0e1ee171c80897bdaddba464ccef,e7e6002f7cd8aacbfe7403511771fe8f,eb223c47e3ef69a5505c6c1076ee2dce,eba5246302d65ec9b5cccd668c4063ad,ebc9ae3d03dd593d9d9b3a4246552140,f4cd8a9ec36741c0af9e0d0f1c9f6d7c,f856bc042fde484b7217433de692716b</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">068eedf07b47e6a6ace9df18bbb66005,09d984fd56c532d554998b7d820664c6,0c5c08f2a972cb506707452a34c2c01b,282b7b4eb76c190b1d895b537b103070,2daace1f18bc783b621b85ccced0161f,3667553e1046fb90a491582575fd2914,36b5121e17cb6bdc442e392e1c14fc68,617a0cffb2ce753e0ee867bd95c17daa,671fdb5b43f333c5b30b2fc51136ec90,7a66de877a08037bba04ee0cb9362545,968173b0561f338a2ae6b1e02e8df048,af7b4643f9fbeb86b592910440c61b1b,afaa0366af2dbc0e67c14c8106d83d94,c41a0e1ee171c80897bdaddba464ccef,e7e6002f7cd8aacbfe7403511771fe8f,eb223c47e3ef69a5505c6c1076ee2dce,eba5246302d65ec9b5cccd668c4063ad,ebc9ae3d03dd593d9d9b3a4246552140,f4cd8a9ec36741c0af9e0d0f1c9f6d7c,f856bc042fde484b7217433de692716b</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">068eedf07b47e6a6ace9df18bbb66005,09d984fd56c532d554998b7d820664c6,0c5c08f2a972cb506707452a34c2c01b,282b7b4eb76c190b1d895b537b103070,2daace1f18bc783b621b85ccced0161f,3667553e1046fb90a491582575fd2914,36b5121e17cb6bdc442e392e1c14fc68,617a0cffb2ce753e0ee867bd95c17daa,671fdb5b43f333c5b30b2fc51136ec90,7a66de877a08037bba04ee0cb9362545,968173b0561f338a2ae6b1e02e8df048,af7b4643f9fbeb86b592910440c61b1b,afaa0366af2dbc0e67c14c8106d83d94,c41a0e1ee171c80897bdaddba464ccef,e7e6002f7cd8aacbfe7403511771fe8f,eb223c47e3ef69a5505c6c1076ee2dce,eba5246302d65ec9b5cccd668c4063ad,ebc9ae3d03dd593d9d9b3a4246552140,f4cd8a9ec36741c0af9e0d0f1c9f6d7c,f856bc042fde484b7217433de692716b</data>
+    </node>
+    <node id="&quot;PARIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Paris is a city in France that has been associated with several notable individuals throughout history. Marcel Brillouin moved to Paris as a boy and later attended the &#201;cole Normale Sup&#233;rieure. The city is also home to the Palais Royal and the art installation Les Deux Plateaux. Additionally, Antoine Coypel was born in Paris. Jean Charles Rodolphe Radau worked in Paris, and Malcolm Shabazz was born there, where his parents also met. Furthermore, Henri-Fran&#231;ois Rey passed away in Paris.</data>
+      <data key="d2">068eedf07b47e6a6ace9df18bbb66005,09d984fd56c532d554998b7d820664c6,0c5c08f2a972cb506707452a34c2c01b,eba5246302d65ec9b5cccd668c4063ad,ebc9ae3d03dd593d9d9b3a4246552140,f4cd8a9ec36741c0af9e0d0f1c9f6d7c</data>
+    </node>
+    <node id="&quot;ROME&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Rome is a geographic location where Antoine Coypel spent four years with his father."</data>
+      <data key="d2">09d984fd56c532d554998b7d820664c6</data>
+    </node>
+    <node id="&quot;ACAD&#201;MIE DE PEINTURE ET DE SCULPTURE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Acad&#233;mie de peinture et de sculpture is an organization where Antoine Coypel was admitted, became professor and rector, and director."</data>
+      <data key="d2">09d984fd56c532d554998b7d820664c6</data>
+    </node>
+    <node id="&quot;ANTOINE COYPEL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">09d984fd56c532d554998b7d820664c6</data>
+    </node>
+    <node id="&quot;FRENCH SOCIALIST PARTY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The French Socialist Party is a political party that Genevi&#232;ve Gaillard is a member of."</data>
+      <data key="d2">e7e6002f7cd8aacbfe7403511771fe8f</data>
+    </node>
+    <node id="&quot;NIORT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Niort is a location in Deux-S&#232;vres where Genevi&#232;ve Gaillard was born and serves as Mayor."</data>
+      <data key="d2">e7e6002f7cd8aacbfe7403511771fe8f</data>
+    </node>
+    <node id="&quot;DEUX-S&#200;VRES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Deux-S&#232;vres is a region in France where Niort and Saint-Martin-l&#232;s-Melle are located. Genevi&#232;ve Gaillard serves as Deputy in this region.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">e7e6002f7cd8aacbfe7403511771fe8f,f4cd8a9ec36741c0af9e0d0f1c9f6d7c</data>
+    </node>
+    <node id="&quot;GENEVI&#200;VE GAILLARD&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e7e6002f7cd8aacbfe7403511771fe8f</data>
+    </node>
+    <node id="&quot;ANTONI GAUD&#205;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Antoni Gaud&#237; is an architect who designed the Palau G&#252;ell."</data>
+      <data key="d2">671fdb5b43f333c5b30b2fc51136ec90</data>
+    </node>
+    <node id="&quot;EUSEBI G&#220;ELL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Eusebi G&#252;ell is an industrial tycoon for whom the Palau G&#252;ell was built."</data>
+      <data key="d2">671fdb5b43f333c5b30b2fc51136ec90</data>
+    </node>
+    <node id="&quot;BARCELONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Barcelona is a city in Catalonia, Spain, where the Palau G&#252;ell is situated. Additionally, it is home to the Canyelles station and Nou Barris district.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">671fdb5b43f333c5b30b2fc51136ec90,f856bc042fde484b7217433de692716b</data>
+    </node>
+    <node id="&quot;CATALONIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Catalonia is an autonomous community in Spain where Barcelona is located."</data>
+      <data key="d2">671fdb5b43f333c5b30b2fc51136ec90</data>
+    </node>
+    <node id="&quot;SPAIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Spain is a country in Europe where the Palau G&#252;ell is located."</data>
+      <data key="d2">671fdb5b43f333c5b30b2fc51136ec90</data>
+    </node>
+    <node id="&quot;UNESCO WORLD HERITAGE SITE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"UNESCO World Heritage Site is an organization that recognizes and protects cultural heritage sites, including the Works of Antoni Gaud&#237;."</data>
+      <data key="d2">671fdb5b43f333c5b30b2fc51136ec90</data>
+    </node>
+    <node id="&quot;PALAU G&#220;ELL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">671fdb5b43f333c5b30b2fc51136ec90</data>
+    </node>
+    <node id="&quot;GRAND PAS DE DEUX&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Grand Pas De Deux is a climactic dance sequence in a ballet, typically featuring a pair of leading dancers."</data>
+      <data key="d2">eb223c47e3ef69a5505c6c1076ee2dce</data>
+    </node>
+    <node id="&quot;MARIUS PETIPA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">eb223c47e3ef69a5505c6c1076ee2dce</data>
+    </node>
+    <node id="&quot;LATE 19TH CENTURY BALLETS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Late 19th Century Ballets refer to a period of time when Marius Petipa's choreography was prominent."</data>
+      <data key="d2">eb223c47e3ef69a5505c6c1076ee2dce</data>
+    </node>
+    <node id="&quot;20TH CENTURY BALLETS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"20th Century Ballets saw the grand pas de deux become more integrated with the story of the ballet."</data>
+      <data key="d2">eb223c47e3ef69a5505c6c1076ee2dce</data>
+    </node>
+    <node id="&quot;NOU BARRIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Nou Barris is a district in the city of Barcelona where the Canyelles neighborhood is located."</data>
+      <data key="d2">f856bc042fde484b7217433de692716b</data>
+    </node>
+    <node id="&quot;CANYELLES METRO STATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Canyelles Metro Station is a station on line L3, named after the nearby Canyelles neighbourhood."</data>
+      <data key="d2">f856bc042fde484b7217433de692716b</data>
+    </node>
+    <node id="&quot;BELGIUM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Belgium is the country where Jean-Claude Pirotte was from."</data>
+      <data key="d2">968173b0561f338a2ae6b1e02e8df048</data>
+    </node>
+    <node id="&quot;PRIX DES DEUX MAGOTS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Prix des Deux Magots is an award that has been won by several individuals, including Andr&#233; Hardellet in 1974, Jean-Claude Pirotte for his novel 'Une adolescence en Gueldre' in 2006, and &#201;ric Neuhoff.</data>
+      <data key="d2">968173b0561f338a2ae6b1e02e8df048,af7b4643f9fbeb86b592910440c61b1b,afaa0366af2dbc0e67c14c8106d83d94</data>
+    </node>
+    <node id="&quot;JEAN-CLAUDE PIROTTE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">968173b0561f338a2ae6b1e02e8df048</data>
+    </node>
+    <node id="&quot;SAINT-MARTIN-L&#200;S-MELLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Saint-Martin-l&#232;s-Melle is a location in Deux-S&#232;vres, France where Marcel Brillouin was born and spent time during the Franco-Prussian War."</data>
+      <data key="d2">f4cd8a9ec36741c0af9e0d0f1c9f6d7c</data>
+    </node>
+    <node id="&quot;LYC&#201;E CONDORCET&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Lyc&#233;e Condorcet is a school in Paris that Marcel Brillouin attended as a boy."</data>
+      <data key="d2">f4cd8a9ec36741c0af9e0d0f1c9f6d7c</data>
+    </node>
+    <node id="&quot;&#201;COLE NORMALE SUP&#201;RIEURE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"&#201;cole Normale Sup&#233;rieure is a university in Paris where Marcel Brillouin studied and later taught."</data>
+      <data key="d2">f4cd8a9ec36741c0af9e0d0f1c9f6d7c</data>
+    </node>
+    <node id="&quot;COLL&#200;GE DE FRANCE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Coll&#232;ge de France is an institution in Paris where Marcel Brillouin worked as a physics assistant and later became Professor of Mathematical Physics."</data>
+      <data key="d2">f4cd8a9ec36741c0af9e0d0f1c9f6d7c</data>
+    </node>
+    <node id="&quot;ELEUTHERE MASCART&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Eleuthere Mascart is Marcel Brillouin's future father-in-law who he assisted at the Coll&#232;ge de France."</data>
+      <data key="d2">f4cd8a9ec36741c0af9e0d0f1c9f6d7c</data>
+    </node>
+    <node id="&quot;FRANCO-PRUSSIAN WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Franco-Prussian War of 1870 was a conflict that caused the Brillouin family to return to Saint-Martin-l&#232;s-Melle from Paris."</data>
+      <data key="d2">f4cd8a9ec36741c0af9e0d0f1c9f6d7c</data>
+    </node>
+    <node id="&quot;MARCEL BRILLOUIN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f4cd8a9ec36741c0af9e0d0f1c9f6d7c</data>
+    </node>
+    <node id="&quot;FRANCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+France is a country with connections to several notable individuals, including Matthieu Chedid, who was born there, and his family members, who hail from France. Additionally, Andr\u00e9 Hardellet also has roots in France, being from the country.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">617a0cffb2ce753e0ee867bd95c17daa,af7b4643f9fbeb86b592910440c61b1b</data>
+    </node>
+    <node id="&quot;ANDR&#201; HARDELLET&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">af7b4643f9fbeb86b592910440c61b1b</data>
+    </node>
+    <node id="&quot;TOULOUSE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Toulouse is the birthplace of Henri-Fran&#231;ois Rey."</data>
+      <data key="d2">0c5c08f2a972cb506707452a34c2c01b</data>
+    </node>
+    <node id="&quot;LA F&#202;TE ESPAGNOLE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"La F&#234;te espagnole is a book written by Henri-Fran&#231;ois Rey that won the 1959 Prix des Deux Magots."</data>
+      <data key="d2">0c5c08f2a972cb506707452a34c2c01b</data>
+    </node>
+    <node id="&quot;LES PIANOS M&#201;CANIQUES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Les Pianos m&#233;caniques is a book written by Henri-Fran&#231;ois Rey that won the Interalli&#233; prize in 1962 and was adapted to film."</data>
+      <data key="d2">0c5c08f2a972cb506707452a34c2c01b</data>
+    </node>
+    <node id="&quot;HENRI-FRAN&#199;OIS REY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0c5c08f2a972cb506707452a34c2c01b</data>
+    </node>
+    <node id="&quot;-M-&quot;">
+      <data key="d0">"PERSONA"</data>
+      <data key="d1">"-M- is the persona of Matthieu Chedid, reflecting an invented character."</data>
+      <data key="d2">36b5121e17cb6bdc442e392e1c14fc68</data>
+    </node>
+    <node id="&quot;BILLIE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Billie is the daughter of Matthieu Chedid, born in 2002."</data>
+      <data key="d2">36b5121e17cb6bdc442e392e1c14fc68</data>
+    </node>
+    <node id="&quot;QUI DE NOUS DEUX?&quot;">
+      <data key="d0">"ALBUM"</data>
+      <data key="d1">"Qui de nous deux? is a studio album by Matthieu Chedid, released in 2003."</data>
+      <data key="d2">36b5121e17cb6bdc442e392e1c14fc68</data>
+    </node>
+    <node id="&quot;LABO M&quot;">
+      <data key="d0">"ALBUM"</data>
+      <data key="d1">"Labo M is an instrumental work by Matthieu Chedid, released earlier in 2003."</data>
+      <data key="d2">36b5121e17cb6bdc442e392e1c14fc68</data>
+    </node>
+    <node id="&quot;MATTHIEU CHEDID&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">36b5121e17cb6bdc442e392e1c14fc68,617a0cffb2ce753e0ee867bd95c17daa</data>
+    </node>
+    <node id="&quot;REVUE DES DEUX MONDES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Revue des deux Mondes is an organization where Jean Charles Rodolphe Radau worked for most of his life."</data>
+      <data key="d2">eba5246302d65ec9b5cccd668c4063ad</data>
+    </node>
+    <node id="&quot;BULLETIN ASTRONOMIQUE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Bulletin Astronomique is a publication co-founded by Jean Charles Rodolphe Radau."</data>
+      <data key="d2">eba5246302d65ec9b5cccd668c4063ad</data>
+    </node>
+    <node id="&quot;JEAN CHARLES RODOLPHE RADAU&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">eba5246302d65ec9b5cccd668c4063ad</data>
+    </node>
+    <node id="&quot;DANIEL BUREN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Daniel Buren is a French artist who created the Colonnes de Buren in 1985-1986."</data>
+      <data key="d2">068eedf07b47e6a6ace9df18bbb66005</data>
+    </node>
+    <node id="&quot;PALAIS ROYAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Palais Royal is a location in Paris, France where the art installation Les Deux Plateaux is situated."</data>
+      <data key="d2">068eedf07b47e6a6ace9df18bbb66005</data>
+    </node>
+    <node id="&quot;LES DEUX PLATEAUX&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">068eedf07b47e6a6ace9df18bbb66005</data>
+    </node>
+    <node id="&quot;LEOVA DISTRICT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Leova District is an administrative division in Moldova where Tomaiul Nou is located."</data>
+      <data key="d2">282b7b4eb76c190b1d895b537b103070</data>
+    </node>
+    <node id="&quot;MOLDOVA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Moldova is a country where Tomaiul Nou and Leova District are located."</data>
+      <data key="d2">282b7b4eb76c190b1d895b537b103070</data>
+    </node>
+    <node id="&quot;S&#258;R&#258;&#538;ICA VECHE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"S&#259;r&#259;&#539;ica Veche is a village in Tomaiul Nou commune, Moldova."</data>
+      <data key="d2">282b7b4eb76c190b1d895b537b103070</data>
+    </node>
+    <node id="&quot;TOMAIUL NOU&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">282b7b4eb76c190b1d895b537b103070</data>
+    </node>
+    <node id="&quot;LAC QUI PARLE COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lac qui Parle County is a county in Minnesota, United States, where Lake Shore Township is located."</data>
+      <data key="d2">2daace1f18bc783b621b85ccced0161f</data>
+    </node>
+    <node id="&quot;MINNESOTA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Minnesota is a state in the United States where Lac qui Parle County and Lake Shore Township are located."</data>
+      <data key="d2">2daace1f18bc783b621b85ccced0161f</data>
+    </node>
+    <node id="&quot;LAKE SHORE TOWNSHIP&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2daace1f18bc783b621b85ccced0161f</data>
+    </node>
+    <node id="&quot;L. A. BOUASBA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"L. A. Bouasba is Malcolm Shabazz's Algerian Muslim father, whom Qubilah Shabazz met in Paris."</data>
+      <data key="d2">ebc9ae3d03dd593d9d9b3a4246552140</data>
+    </node>
+    <node id="&quot;QUBILAH SHABAZZ&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Qubilah Shabazz is Malcolm Shabazz's mother, who met L. A. Bouasba in Paris."</data>
+      <data key="d2">ebc9ae3d03dd593d9d9b3a4246552140</data>
+    </node>
+    <node id="&quot;MALCOLM SHABAZZ&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ebc9ae3d03dd593d9d9b3a4246552140</data>
+    </node>
+    <node id="&quot;LOUIS CHEDID&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Louis Chedid is a French singer and the father of Matthieu Chedid."</data>
+      <data key="d2">617a0cffb2ce753e0ee867bd95c17daa</data>
+    </node>
+    <node id="&quot;ANDR&#201;E CHEDID&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Andr&#233;e Chedid is an Egyptian-born French writer and poet of Lebanese descent, and the grandmother of Matthieu Chedid."</data>
+      <data key="d2">617a0cffb2ce753e0ee867bd95c17daa</data>
+    </node>
+    <node id="&quot;&#201;MILIE CHEDID&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#201;milie Chedid is a music video and concert director, and the sister of Matthieu Chedid."</data>
+      <data key="d2">617a0cffb2ce753e0ee867bd95c17daa</data>
+    </node>
+    <node id="&quot;BOULOGNE-BILLANCOURT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Boulogne-Billancourt is a location in Hauts-de-Seine, France, where Matthieu Chedid was born."</data>
+      <data key="d2">617a0cffb2ce753e0ee867bd95c17daa</data>
+    </node>
+    <node id="&quot;HAUTS-DE-SEINE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hauts-de-Seine is a department in France where Boulogne-Billancourt is located."</data>
+      <data key="d2">617a0cffb2ce753e0ee867bd95c17daa</data>
+    </node>
+    <node id="&quot;SEAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sean is a character who falls in love with Kailani's daughter."</data>
+      <data key="d2">7a66de877a08037bba04ee0cb9362545</data>
+    </node>
+    <node id="&quot;VANESSA HUDGENS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Vanessa Hudgens is an actress who plays the role of Kailani's daughter."</data>
+      <data key="d2">7a66de877a08037bba04ee0cb9362545</data>
+    </node>
+    <node id="&quot;KAILANI LAGUATAN GABATO&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7a66de877a08037bba04ee0cb9362545</data>
+    </node>
+    <node id="&quot;QUI-GON JINN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Qui-Gon Jinn is a character in Star Wars Episode I: The Phantom Menace, originally envisioned as a younger Jedi with long white hair, but ultimately depicted with long brown hair."</data>
+      <data key="d2">c41a0e1ee171c80897bdaddba464ccef</data>
+    </node>
+    <node id="&quot;OBI-WAN KENOBI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Obi-Wan Kenobi is a character in Star Wars Episode I: The Phantom Menace, initially shown alone in concept art and later paired with Qui-Gon Jinn."</data>
+      <data key="d2">c41a0e1ee171c80897bdaddba464ccef</data>
+    </node>
+    <node id="&quot;LIAM NEESON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Liam Neeson is the Northern Irish actor who played the role of Qui-Gon Jinn in Star Wars Episode I: The Phantom Menace, chosen for his great skills and presence."</data>
+      <data key="d2">c41a0e1ee171c80897bdaddba464ccef</data>
+    </node>
+    <node id="&quot;JAR JAR BINKS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jar Jar Binks is a character in Star Wars Episode I: The Phantom Menace, shown meeting Obi-Wan Kenobi in concept art."</data>
+      <data key="d2">c41a0e1ee171c80897bdaddba464ccef</data>
+    </node>
+    <node id="&quot;THE ART OF STAR WARS EPISODE I: THE PHANTOM MENACE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Art of Star Wars Episode I: The Phantom Menace is a publication that reveals the pre-production process of the film, including concept art and character development."</data>
+      <data key="d2">c41a0e1ee171c80897bdaddba464ccef</data>
+    </node>
+    <node id="&quot;GEORGE LUCAS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c41a0e1ee171c80897bdaddba464ccef</data>
+    </node>
+    <node id="&quot;LE QUOTIDIEN DE PARIS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Le Quotidien de Paris is a publication where &#201;ric Neuhoff debuted as a journalist in 1982."</data>
+      <data key="d2">afaa0366af2dbc0e67c14c8106d83d94</data>
+    </node>
+    <node id="&quot;DENIS TILLINAC&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Denis Tillinac is a writer associated with &#201;ric Neuhoff, debuting around the same time and using a similar style."</data>
+      <data key="d2">afaa0366af2dbc0e67c14c8106d83d94</data>
+    </node>
+    <node id="&quot;PATRICK BESSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Patrick Besson is a writer associated with &#201;ric Neuhoff, debuting around the same time and using a similar style."</data>
+      <data key="d2">afaa0366af2dbc0e67c14c8106d83d94</data>
+    </node>
+    <node id="&quot;DIDIER VAN CAUWELAERT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Didier Van Cauwelaert is a writer associated with &#201;ric Neuhoff, debuting around the same time and using a similar style."</data>
+      <data key="d2">afaa0366af2dbc0e67c14c8106d83d94</data>
+    </node>
+    <node id="&quot;ROGER NIMIER PRIZE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Roger Nimier Prize is an award received by &#201;ric Neuhoff in 1990."</data>
+      <data key="d2">afaa0366af2dbc0e67c14c8106d83d94</data>
+    </node>
+    <node id="&quot;PRIX INTERALLI&#201;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Prix Interalli&#233; is an award received by &#201;ric Neuhoff."</data>
+      <data key="d2">afaa0366af2dbc0e67c14c8106d83d94</data>
+    </node>
+    <node id="&quot;GRAND PRIX DU ROMAN DE L'ACAD&#201;MIE FRAN&#199;AISE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Grand Prix du roman de l'Acad&#233;mie fran&#231;aise is an award received by &#201;ric Neuhoff."</data>
+      <data key="d2">afaa0366af2dbc0e67c14c8106d83d94</data>
+    </node>
+    <node id="&quot;&#201;RIC NEUHOFF&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">afaa0366af2dbc0e67c14c8106d83d94</data>
+    </node>
+    <edge source="&quot;VILA JOIOSA&quot;" target="&quot;VILLAJOYOSA CLUB DE F&#218;TBOL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Villajoyosa Club de F&#250;tbol is based in Vila Joiosa."</data>
+      <data key="d5">3667553e1046fb90a491582575fd2914</data>
+    </edge>
+    <edge source="&quot;VALENCIA&quot;" target="&quot;VILLAJOYOSA CLUB DE F&#218;TBOL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Villajoyosa Club de F&#250;tbol is located in the autonomous community of Valencia."</data>
+      <data key="d5">3667553e1046fb90a491582575fd2914</data>
+    </edge>
+    <edge source="&quot;ESTADIO NOU PLA&quot;" target="&quot;VILLAJOYOSA CLUB DE F&#218;TBOL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Villajoyosa Club de F&#250;tbol holds home matches at Estadio Nou Pla."</data>
+      <data key="d5">3667553e1046fb90a491582575fd2914</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">068eedf07b47e6a6ace9df18bbb66005,09d984fd56c532d554998b7d820664c6,0c5c08f2a972cb506707452a34c2c01b,282b7b4eb76c190b1d895b537b103070,2daace1f18bc783b621b85ccced0161f,3667553e1046fb90a491582575fd2914,36b5121e17cb6bdc442e392e1c14fc68,617a0cffb2ce753e0ee867bd95c17daa,671fdb5b43f333c5b30b2fc51136ec90,7a66de877a08037bba04ee0cb9362545,968173b0561f338a2ae6b1e02e8df048,af7b4643f9fbeb86b592910440c61b1b,afaa0366af2dbc0e67c14c8106d83d94,c41a0e1ee171c80897bdaddba464ccef,e7e6002f7cd8aacbfe7403511771fe8f,eb223c47e3ef69a5505c6c1076ee2dce,eba5246302d65ec9b5cccd668c4063ad,ebc9ae3d03dd593d9d9b3a4246552140,f4cd8a9ec36741c0af9e0d0f1c9f6d7c,f856bc042fde484b7217433de692716b</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">068eedf07b47e6a6ace9df18bbb66005,09d984fd56c532d554998b7d820664c6,0c5c08f2a972cb506707452a34c2c01b,282b7b4eb76c190b1d895b537b103070,2daace1f18bc783b621b85ccced0161f,3667553e1046fb90a491582575fd2914,36b5121e17cb6bdc442e392e1c14fc68,617a0cffb2ce753e0ee867bd95c17daa,671fdb5b43f333c5b30b2fc51136ec90,7a66de877a08037bba04ee0cb9362545,968173b0561f338a2ae6b1e02e8df048,af7b4643f9fbeb86b592910440c61b1b,afaa0366af2dbc0e67c14c8106d83d94,c41a0e1ee171c80897bdaddba464ccef,e7e6002f7cd8aacbfe7403511771fe8f,eb223c47e3ef69a5505c6c1076ee2dce,eba5246302d65ec9b5cccd668c4063ad,ebc9ae3d03dd593d9d9b3a4246552140,f4cd8a9ec36741c0af9e0d0f1c9f6d7c,f856bc042fde484b7217433de692716b</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">068eedf07b47e6a6ace9df18bbb66005,09d984fd56c532d554998b7d820664c6,0c5c08f2a972cb506707452a34c2c01b,282b7b4eb76c190b1d895b537b103070,2daace1f18bc783b621b85ccced0161f,3667553e1046fb90a491582575fd2914,36b5121e17cb6bdc442e392e1c14fc68,617a0cffb2ce753e0ee867bd95c17daa,671fdb5b43f333c5b30b2fc51136ec90,7a66de877a08037bba04ee0cb9362545,968173b0561f338a2ae6b1e02e8df048,af7b4643f9fbeb86b592910440c61b1b,afaa0366af2dbc0e67c14c8106d83d94,c41a0e1ee171c80897bdaddba464ccef,e7e6002f7cd8aacbfe7403511771fe8f,eb223c47e3ef69a5505c6c1076ee2dce,eba5246302d65ec9b5cccd668c4063ad,ebc9ae3d03dd593d9d9b3a4246552140,f4cd8a9ec36741c0af9e0d0f1c9f6d7c,f856bc042fde484b7217433de692716b</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">068eedf07b47e6a6ace9df18bbb66005,09d984fd56c532d554998b7d820664c6,0c5c08f2a972cb506707452a34c2c01b,282b7b4eb76c190b1d895b537b103070,2daace1f18bc783b621b85ccced0161f,3667553e1046fb90a491582575fd2914,36b5121e17cb6bdc442e392e1c14fc68,617a0cffb2ce753e0ee867bd95c17daa,671fdb5b43f333c5b30b2fc51136ec90,7a66de877a08037bba04ee0cb9362545,968173b0561f338a2ae6b1e02e8df048,af7b4643f9fbeb86b592910440c61b1b,afaa0366af2dbc0e67c14c8106d83d94,c41a0e1ee171c80897bdaddba464ccef,e7e6002f7cd8aacbfe7403511771fe8f,eb223c47e3ef69a5505c6c1076ee2dce,eba5246302d65ec9b5cccd668c4063ad,ebc9ae3d03dd593d9d9b3a4246552140,f4cd8a9ec36741c0af9e0d0f1c9f6d7c,f856bc042fde484b7217433de692716b</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">068eedf07b47e6a6ace9df18bbb66005,09d984fd56c532d554998b7d820664c6,0c5c08f2a972cb506707452a34c2c01b,282b7b4eb76c190b1d895b537b103070,2daace1f18bc783b621b85ccced0161f,3667553e1046fb90a491582575fd2914,36b5121e17cb6bdc442e392e1c14fc68,617a0cffb2ce753e0ee867bd95c17daa,671fdb5b43f333c5b30b2fc51136ec90,7a66de877a08037bba04ee0cb9362545,968173b0561f338a2ae6b1e02e8df048,af7b4643f9fbeb86b592910440c61b1b,afaa0366af2dbc0e67c14c8106d83d94,c41a0e1ee171c80897bdaddba464ccef,e7e6002f7cd8aacbfe7403511771fe8f,eb223c47e3ef69a5505c6c1076ee2dce,eba5246302d65ec9b5cccd668c4063ad,ebc9ae3d03dd593d9d9b3a4246552140,f4cd8a9ec36741c0af9e0d0f1c9f6d7c,f856bc042fde484b7217433de692716b</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">068eedf07b47e6a6ace9df18bbb66005,09d984fd56c532d554998b7d820664c6,0c5c08f2a972cb506707452a34c2c01b,282b7b4eb76c190b1d895b537b103070,2daace1f18bc783b621b85ccced0161f,3667553e1046fb90a491582575fd2914,36b5121e17cb6bdc442e392e1c14fc68,617a0cffb2ce753e0ee867bd95c17daa,671fdb5b43f333c5b30b2fc51136ec90,7a66de877a08037bba04ee0cb9362545,968173b0561f338a2ae6b1e02e8df048,af7b4643f9fbeb86b592910440c61b1b,afaa0366af2dbc0e67c14c8106d83d94,c41a0e1ee171c80897bdaddba464ccef,e7e6002f7cd8aacbfe7403511771fe8f,eb223c47e3ef69a5505c6c1076ee2dce,eba5246302d65ec9b5cccd668c4063ad,ebc9ae3d03dd593d9d9b3a4246552140,f4cd8a9ec36741c0af9e0d0f1c9f6d7c,f856bc042fde484b7217433de692716b</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;MINNESOTA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Minnesota is a state in the United States."</data>
+      <data key="d5">2daace1f18bc783b621b85ccced0161f</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">068eedf07b47e6a6ace9df18bbb66005,09d984fd56c532d554998b7d820664c6,0c5c08f2a972cb506707452a34c2c01b,282b7b4eb76c190b1d895b537b103070,2daace1f18bc783b621b85ccced0161f,3667553e1046fb90a491582575fd2914,36b5121e17cb6bdc442e392e1c14fc68,617a0cffb2ce753e0ee867bd95c17daa,671fdb5b43f333c5b30b2fc51136ec90,7a66de877a08037bba04ee0cb9362545,968173b0561f338a2ae6b1e02e8df048,af7b4643f9fbeb86b592910440c61b1b,afaa0366af2dbc0e67c14c8106d83d94,c41a0e1ee171c80897bdaddba464ccef,e7e6002f7cd8aacbfe7403511771fe8f,eb223c47e3ef69a5505c6c1076ee2dce,eba5246302d65ec9b5cccd668c4063ad,ebc9ae3d03dd593d9d9b3a4246552140,f4cd8a9ec36741c0af9e0d0f1c9f6d7c,f856bc042fde484b7217433de692716b</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">068eedf07b47e6a6ace9df18bbb66005,09d984fd56c532d554998b7d820664c6,0c5c08f2a972cb506707452a34c2c01b,282b7b4eb76c190b1d895b537b103070,2daace1f18bc783b621b85ccced0161f,3667553e1046fb90a491582575fd2914,36b5121e17cb6bdc442e392e1c14fc68,617a0cffb2ce753e0ee867bd95c17daa,671fdb5b43f333c5b30b2fc51136ec90,7a66de877a08037bba04ee0cb9362545,968173b0561f338a2ae6b1e02e8df048,af7b4643f9fbeb86b592910440c61b1b,afaa0366af2dbc0e67c14c8106d83d94,c41a0e1ee171c80897bdaddba464ccef,e7e6002f7cd8aacbfe7403511771fe8f,eb223c47e3ef69a5505c6c1076ee2dce,eba5246302d65ec9b5cccd668c4063ad,ebc9ae3d03dd593d9d9b3a4246552140,f4cd8a9ec36741c0af9e0d0f1c9f6d7c,f856bc042fde484b7217433de692716b</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">068eedf07b47e6a6ace9df18bbb66005,09d984fd56c532d554998b7d820664c6,0c5c08f2a972cb506707452a34c2c01b,282b7b4eb76c190b1d895b537b103070,2daace1f18bc783b621b85ccced0161f,3667553e1046fb90a491582575fd2914,36b5121e17cb6bdc442e392e1c14fc68,617a0cffb2ce753e0ee867bd95c17daa,671fdb5b43f333c5b30b2fc51136ec90,7a66de877a08037bba04ee0cb9362545,968173b0561f338a2ae6b1e02e8df048,af7b4643f9fbeb86b592910440c61b1b,afaa0366af2dbc0e67c14c8106d83d94,c41a0e1ee171c80897bdaddba464ccef,e7e6002f7cd8aacbfe7403511771fe8f,eb223c47e3ef69a5505c6c1076ee2dce,eba5246302d65ec9b5cccd668c4063ad,ebc9ae3d03dd593d9d9b3a4246552140,f4cd8a9ec36741c0af9e0d0f1c9f6d7c,f856bc042fde484b7217433de692716b</data>
+    </edge>
+    <edge source="&quot;PARIS&quot;" target="&quot;ANTOINE COYPEL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Antoine Coypel was born in Paris."</data>
+      <data key="d5">09d984fd56c532d554998b7d820664c6</data>
+    </edge>
+    <edge source="&quot;PARIS&quot;" target="&quot;MARCEL BRILLOUIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marcel Brillouin moved to Paris as a boy and later attended the &#201;cole Normale Sup&#233;rieure."</data>
+      <data key="d5">f4cd8a9ec36741c0af9e0d0f1c9f6d7c</data>
+    </edge>
+    <edge source="&quot;PARIS&quot;" target="&quot;HENRI-FRAN&#199;OIS REY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Henri-Fran&#231;ois Rey died in Paris."</data>
+      <data key="d5">0c5c08f2a972cb506707452a34c2c01b</data>
+    </edge>
+    <edge source="&quot;PARIS&quot;" target="&quot;JEAN CHARLES RODOLPHE RADAU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jean Charles Rodolphe Radau worked in Paris."</data>
+      <data key="d5">eba5246302d65ec9b5cccd668c4063ad</data>
+    </edge>
+    <edge source="&quot;PARIS&quot;" target="&quot;PALAIS ROYAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Palais Royal is located in Paris, France."</data>
+      <data key="d5">068eedf07b47e6a6ace9df18bbb66005</data>
+    </edge>
+    <edge source="&quot;PARIS&quot;" target="&quot;MALCOLM SHABAZZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Malcolm Shabazz was born in Paris on October 8, 1984."</data>
+      <data key="d5">ebc9ae3d03dd593d9d9b3a4246552140</data>
+    </edge>
+    <edge source="&quot;ROME&quot;" target="&quot;ANTOINE COYPEL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Antoine Coypel spent four years in Rome with his father."</data>
+      <data key="d5">09d984fd56c532d554998b7d820664c6</data>
+    </edge>
+    <edge source="&quot;ACAD&#201;MIE DE PEINTURE ET DE SCULPTURE&quot;" target="&quot;ANTOINE COYPEL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Antoine Coypel was a member of the Acad&#233;mie de peinture et de sculpture, holding various positions."</data>
+      <data key="d5">09d984fd56c532d554998b7d820664c6</data>
+    </edge>
+    <edge source="&quot;FRENCH SOCIALIST PARTY&quot;" target="&quot;GENEVI&#200;VE GAILLARD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Genevi&#232;ve Gaillard is a member of the French Socialist Party."</data>
+      <data key="d5">e7e6002f7cd8aacbfe7403511771fe8f</data>
+    </edge>
+    <edge source="&quot;NIORT&quot;" target="&quot;GENEVI&#200;VE GAILLARD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Genevi&#232;ve Gaillard serves as Mayor of Niort."</data>
+      <data key="d5">e7e6002f7cd8aacbfe7403511771fe8f</data>
+    </edge>
+    <edge source="&quot;DEUX-S&#200;VRES&quot;" target="&quot;GENEVI&#200;VE GAILLARD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Genevi&#232;ve Gaillard is Deputy for Deux-S&#232;vres."</data>
+      <data key="d5">e7e6002f7cd8aacbfe7403511771fe8f</data>
+    </edge>
+    <edge source="&quot;ANTONI GAUD&#205;&quot;" target="&quot;PALAU G&#220;ELL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Palau G&#252;ell was designed by Antoni Gaud&#237;."</data>
+      <data key="d5">671fdb5b43f333c5b30b2fc51136ec90</data>
+    </edge>
+    <edge source="&quot;EUSEBI G&#220;ELL&quot;" target="&quot;PALAU G&#220;ELL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Palau G&#252;ell was built for Eusebi G&#252;ell."</data>
+      <data key="d5">671fdb5b43f333c5b30b2fc51136ec90</data>
+    </edge>
+    <edge source="&quot;BARCELONA&quot;" target="&quot;PALAU G&#220;ELL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Palau G&#252;ell is situated in Barcelona."</data>
+      <data key="d5">671fdb5b43f333c5b30b2fc51136ec90</data>
+    </edge>
+    <edge source="&quot;BARCELONA&quot;" target="&quot;CANYELLES METRO STATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Canyelles Metro Station is located in the city of Barcelona."</data>
+      <data key="d5">f856bc042fde484b7217433de692716b</data>
+    </edge>
+    <edge source="&quot;UNESCO WORLD HERITAGE SITE&quot;" target="&quot;PALAU G&#220;ELL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Palau G&#252;ell is part of the UNESCO World Heritage Site 'Works of Antoni Gaud&#237;'."</data>
+      <data key="d5">671fdb5b43f333c5b30b2fc51136ec90</data>
+    </edge>
+    <edge source="&quot;GRAND PAS DE DEUX&quot;" target="&quot;MARIUS PETIPA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marius Petipa introduced the concept of the Grand Pas De Deux in late 19th Century ballets."</data>
+      <data key="d5">eb223c47e3ef69a5505c6c1076ee2dce</data>
+    </edge>
+    <edge source="&quot;GRAND PAS DE DEUX&quot;" target="&quot;20TH CENTURY BALLETS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Grand Pas De Deux evolved to become more integrated with the story in 20th Century Ballets."</data>
+      <data key="d5">eb223c47e3ef69a5505c6c1076ee2dce</data>
+    </edge>
+    <edge source="&quot;MARIUS PETIPA&quot;" target="&quot;LATE 19TH CENTURY BALLETS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marius Petipa's choreography was featured in Late 19th Century Ballets."</data>
+      <data key="d5">eb223c47e3ef69a5505c6c1076ee2dce</data>
+    </edge>
+    <edge source="&quot;NOU BARRIS&quot;" target="&quot;CANYELLES METRO STATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Canyelles Metro Station is located in the Nou Barris district of Barcelona."</data>
+      <data key="d5">f856bc042fde484b7217433de692716b</data>
+    </edge>
+    <edge source="&quot;BELGIUM&quot;" target="&quot;JEAN-CLAUDE PIROTTE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jean-Claude Pirotte was from Belgium."</data>
+      <data key="d5">968173b0561f338a2ae6b1e02e8df048</data>
+    </edge>
+    <edge source="&quot;PRIX DES DEUX MAGOTS&quot;" target="&quot;JEAN-CLAUDE PIROTTE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jean-Claude Pirotte won the Prix des Deux Magots award for his novel 'Une adolescence en Gueldre'."</data>
+      <data key="d5">968173b0561f338a2ae6b1e02e8df048</data>
+    </edge>
+    <edge source="&quot;PRIX DES DEUX MAGOTS&quot;" target="&quot;ANDR&#201; HARDELLET&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Andr&#233; Hardellet won the Prix des Deux Magots in 1974."</data>
+      <data key="d5">af7b4643f9fbeb86b592910440c61b1b</data>
+    </edge>
+    <edge source="&quot;PRIX DES DEUX MAGOTS&quot;" target="&quot;&#201;RIC NEUHOFF&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#201;ric Neuhoff received the Prix des Deux Magots award."</data>
+      <data key="d5">afaa0366af2dbc0e67c14c8106d83d94</data>
+    </edge>
+    <edge source="&quot;SAINT-MARTIN-L&#200;S-MELLE&quot;" target="&quot;MARCEL BRILLOUIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marcel Brillouin was born in and spent time in Saint-Martin-l&#232;s-Melle."</data>
+      <data key="d5">f4cd8a9ec36741c0af9e0d0f1c9f6d7c</data>
+    </edge>
+    <edge source="&quot;&#201;COLE NORMALE SUP&#201;RIEURE&quot;" target="&quot;MARCEL BRILLOUIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marcel Brillouin studied and taught at the &#201;cole Normale Sup&#233;rieure."</data>
+      <data key="d5">f4cd8a9ec36741c0af9e0d0f1c9f6d7c</data>
+    </edge>
+    <edge source="&quot;COLL&#200;GE DE FRANCE&quot;" target="&quot;MARCEL BRILLOUIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marcel Brillouin worked as a physics assistant and later became Professor of Mathematical Physics at the Coll&#232;ge de France."</data>
+      <data key="d5">f4cd8a9ec36741c0af9e0d0f1c9f6d7c</data>
+    </edge>
+    <edge source="&quot;COLL&#200;GE DE FRANCE&quot;" target="&quot;ELEUTHERE MASCART&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Eleuthere Mascart was Marcel Brillouin's supervisor at the Coll&#232;ge de France."</data>
+      <data key="d5">f4cd8a9ec36741c0af9e0d0f1c9f6d7c</data>
+    </edge>
+    <edge source="&quot;FRANCE&quot;" target="&quot;ANDR&#201; HARDELLET&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Andr&#233; Hardellet was from France."</data>
+      <data key="d5">af7b4643f9fbeb86b592910440c61b1b</data>
+    </edge>
+    <edge source="&quot;FRANCE&quot;" target="&quot;HAUTS-DE-SEINE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hauts-de-Seine is a department in France."</data>
+      <data key="d5">617a0cffb2ce753e0ee867bd95c17daa</data>
+    </edge>
+    <edge source="&quot;TOULOUSE&quot;" target="&quot;HENRI-FRAN&#199;OIS REY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Henri-Fran&#231;ois Rey was born in Toulouse."</data>
+      <data key="d5">0c5c08f2a972cb506707452a34c2c01b</data>
+    </edge>
+    <edge source="&quot;LA F&#202;TE ESPAGNOLE&quot;" target="&quot;HENRI-FRAN&#199;OIS REY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Henri-Fran&#231;ois Rey wrote La F&#234;te espagnole, which won the 1959 Prix des Deux Magots."</data>
+      <data key="d5">0c5c08f2a972cb506707452a34c2c01b</data>
+    </edge>
+    <edge source="&quot;LES PIANOS M&#201;CANIQUES&quot;" target="&quot;HENRI-FRAN&#199;OIS REY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Henri-Fran&#231;ois Rey wrote Les Pianos m&#233;caniques, which won the Interalli&#233; prize in 1962 and was adapted to film."</data>
+      <data key="d5">0c5c08f2a972cb506707452a34c2c01b</data>
+    </edge>
+    <edge source="&quot;LABO M&quot;" target="&quot;MATTHIEU CHEDID&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Labo M is an instrumental work by Matthieu Chedid."</data>
+      <data key="d5">36b5121e17cb6bdc442e392e1c14fc68</data>
+    </edge>
+    <edge source="&quot;MATTHIEU CHEDID&quot;" target="&quot;LOUIS CHEDID&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Matthieu Chedid is the son of Louis Chedid."</data>
+      <data key="d5">617a0cffb2ce753e0ee867bd95c17daa</data>
+    </edge>
+    <edge source="&quot;MATTHIEU CHEDID&quot;" target="&quot;ANDR&#201;E CHEDID&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Matthieu Chedid is the grandson of Andr&#233;e Chedid."</data>
+      <data key="d5">617a0cffb2ce753e0ee867bd95c17daa</data>
+    </edge>
+    <edge source="&quot;MATTHIEU CHEDID&quot;" target="&quot;&#201;MILIE CHEDID&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Matthieu Chedid is the brother of &#201;milie Chedid."</data>
+      <data key="d5">617a0cffb2ce753e0ee867bd95c17daa</data>
+    </edge>
+    <edge source="&quot;REVUE DES DEUX MONDES&quot;" target="&quot;JEAN CHARLES RODOLPHE RADAU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jean Charles Rodolphe Radau worked at Revue des deux Mondes for most of his life."</data>
+      <data key="d5">eba5246302d65ec9b5cccd668c4063ad</data>
+    </edge>
+    <edge source="&quot;BULLETIN ASTRONOMIQUE&quot;" target="&quot;JEAN CHARLES RODOLPHE RADAU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jean Charles Rodolphe Radau co-founded Bulletin Astronomique."</data>
+      <data key="d5">eba5246302d65ec9b5cccd668c4063ad</data>
+    </edge>
+    <edge source="&quot;DANIEL BUREN&quot;" target="&quot;LES DEUX PLATEAUX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Daniel Buren created the art installation Les Deux Plateaux."</data>
+      <data key="d5">068eedf07b47e6a6ace9df18bbb66005</data>
+    </edge>
+    <edge source="&quot;PALAIS ROYAL&quot;" target="&quot;LES DEUX PLATEAUX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Palais Royal is the location of the art installation Les Deux Plateaux."</data>
+      <data key="d5">068eedf07b47e6a6ace9df18bbb66005</data>
+    </edge>
+    <edge source="&quot;LEOVA DISTRICT&quot;" target="&quot;TOMAIUL NOU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tomaiul Nou is located in Leova District."</data>
+      <data key="d5">282b7b4eb76c190b1d895b537b103070</data>
+    </edge>
+    <edge source="&quot;MOLDOVA&quot;" target="&quot;TOMAIUL NOU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tomaiul Nou is located in Moldova."</data>
+      <data key="d5">282b7b4eb76c190b1d895b537b103070</data>
+    </edge>
+    <edge source="&quot;S&#258;R&#258;&#538;ICA VECHE&quot;" target="&quot;TOMAIUL NOU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"S&#259;r&#259;&#539;ica Veche is a village in Tomaiul Nou commune."</data>
+      <data key="d5">282b7b4eb76c190b1d895b537b103070</data>
+    </edge>
+    <edge source="&quot;LAC QUI PARLE COUNTY&quot;" target="&quot;LAKE SHORE TOWNSHIP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lake Shore Township is located in Lac qui Parle County."</data>
+      <data key="d5">2daace1f18bc783b621b85ccced0161f</data>
+    </edge>
+    <edge source="&quot;LAC QUI PARLE COUNTY&quot;" target="&quot;MINNESOTA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lac qui Parle County is a county in Minnesota."</data>
+      <data key="d5">2daace1f18bc783b621b85ccced0161f</data>
+    </edge>
+    <edge source="&quot;L. A. BOUASBA&quot;" target="&quot;MALCOLM SHABAZZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Malcolm Shabazz's father is L. A. Bouasba, although they had little contact with each other."</data>
+      <data key="d5">ebc9ae3d03dd593d9d9b3a4246552140</data>
+    </edge>
+    <edge source="&quot;L. A. BOUASBA&quot;" target="&quot;QUBILAH SHABAZZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Qubilah Shabazz met L. A. Bouasba in Paris, and they are Malcolm Shabazz's parents."</data>
+      <data key="d5">ebc9ae3d03dd593d9d9b3a4246552140</data>
+    </edge>
+    <edge source="&quot;BOULOGNE-BILLANCOURT&quot;" target="&quot;HAUTS-DE-SEINE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Boulogne-Billancourt is a location in Hauts-de-Seine."</data>
+      <data key="d5">617a0cffb2ce753e0ee867bd95c17daa</data>
+    </edge>
+    <edge source="&quot;SEAN&quot;" target="&quot;KAILANI LAGUATAN GABATO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Kailani's daughter, played by Vanessa Hudgens, is the object of Sean's affection."</data>
+      <data key="d5">7a66de877a08037bba04ee0cb9362545</data>
+    </edge>
+    <edge source="&quot;VANESSA HUDGENS&quot;" target="&quot;KAILANI LAGUATAN GABATO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Vanessa Hudgens plays the role of Kailani's daughter in the story."</data>
+      <data key="d5">7a66de877a08037bba04ee0cb9362545</data>
+    </edge>
+    <edge source="&quot;QUI-GON JINN&quot;" target="&quot;GEORGE LUCAS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"George Lucas conceived the character of Qui-Gon Jinn during pre-production of Star Wars Episode I: The Phantom Menace."</data>
+      <data key="d5">c41a0e1ee171c80897bdaddba464ccef</data>
+    </edge>
+    <edge source="&quot;QUI-GON JINN&quot;" target="&quot;LIAM NEESON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Liam Neeson played the role of Qui-Gon Jinn in Star Wars Episode I: The Phantom Menace."</data>
+      <data key="d5">c41a0e1ee171c80897bdaddba464ccef</data>
+    </edge>
+    <edge source="&quot;THE ART OF STAR WARS EPISODE I: THE PHANTOM MENACE&quot;" target="&quot;GEORGE LUCAS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Art of Star Wars Episode I: The Phantom Menace reveals George Lucas' pre-production process for the film."</data>
+      <data key="d5">c41a0e1ee171c80897bdaddba464ccef</data>
+    </edge>
+    <edge source="&quot;LE QUOTIDIEN DE PARIS&quot;" target="&quot;&#201;RIC NEUHOFF&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#201;ric Neuhoff debuted as a journalist at Le Quotidien de Paris in 1982."</data>
+      <data key="d5">afaa0366af2dbc0e67c14c8106d83d94</data>
+    </edge>
+    <edge source="&quot;DENIS TILLINAC&quot;" target="&quot;&#201;RIC NEUHOFF&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#201;ric Neuhoff is associated with Denis Tillinac, sharing a similar writing style."</data>
+      <data key="d5">afaa0366af2dbc0e67c14c8106d83d94</data>
+    </edge>
+    <edge source="&quot;PATRICK BESSON&quot;" target="&quot;&#201;RIC NEUHOFF&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#201;ric Neuhoff is associated with Patrick Besson, sharing a similar writing style."</data>
+      <data key="d5">afaa0366af2dbc0e67c14c8106d83d94</data>
+    </edge>
+    <edge source="&quot;DIDIER VAN CAUWELAERT&quot;" target="&quot;&#201;RIC NEUHOFF&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#201;ric Neuhoff is associated with Didier Van Cauwelaert, sharing a similar writing style."</data>
+      <data key="d5">afaa0366af2dbc0e67c14c8106d83d94</data>
+    </edge>
+    <edge source="&quot;ROGER NIMIER PRIZE&quot;" target="&quot;&#201;RIC NEUHOFF&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#201;ric Neuhoff received the Roger Nimier Prize in 1990."</data>
+      <data key="d5">afaa0366af2dbc0e67c14c8106d83d94</data>
+    </edge>
+    <edge source="&quot;PRIX INTERALLI&#201;&quot;" target="&quot;&#201;RIC NEUHOFF&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#201;ric Neuhoff received the Prix Interalli&#233; award."</data>
+      <data key="d5">afaa0366af2dbc0e67c14c8106d83d94</data>
+    </edge>
+    <edge source="&quot;GRAND PRIX DU ROMAN DE L'ACAD&#201;MIE FRAN&#199;AISE&quot;" target="&quot;&#201;RIC NEUHOFF&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#201;ric Neuhoff received the Grand Prix du roman de l'Acad&#233;mie fran&#231;aise award."</data>
+      <data key="d5">afaa0366af2dbc0e67c14c8106d83d94</data>
+    </edge>
+  </graph>
+</graphml>

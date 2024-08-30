@@ -1,0 +1,1333 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;LONDON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"London is a city where the National Gallery is located."</data>
+      <data key="d2">fdeecbcd0f456f2905366f7685796808</data>
+    </node>
+    <node id="&quot;ANSIDEI MADONNA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Ansidei Madonna is a painting located at the National Gallery in London."</data>
+      <data key="d2">fdeecbcd0f456f2905366f7685796808</data>
+    </node>
+    <node id="&quot;SAINT JOHN THE BAPTIST PREACHING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Saint John the Baptist Preaching is a predella located at the National Gallery in London."</data>
+      <data key="d2">fdeecbcd0f456f2905366f7685796808</data>
+    </node>
+    <node id="&quot;NATIONAL GALLERY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fdeecbcd0f456f2905366f7685796808</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">15d6f7e21e0589423b378920f3c8ddb7,1840e15e892f37d8a5672e53fc58a73b,1e32fe2b24b1ffd71ddd2e7056998007,37689261fe77f0af11f638becaf22985,3b38562b31186a478c13ffc46ae566ef,3d16cfffc517656de8c69a69d63e1f61,41cf761a6c6e13fc9507b565d6eac694,43383d2479d305c596a7e90b66856aa7,44d8ce56f6c58e3f0a4312a57c1eb3a3,6c9d7b926645f204345430c463d0be70,6e5be2f5718b612e18ac2b1834bf0832,828a09874dfe5ab3f137afb526fb8a76,896a702a29cd9f47d5911569ee25d90e,957471484471c2a82f6a5f2823a8f404,a747bb5470021bf176a6900ea04f8fd3,b4ba0c3a1fb1b9efeee0cb4cef676604,cae8a505bc47dbdc5e9ddb521bce3e1a,e49617796c4dbd064423c57af7149262,f7aa7654fd87eb19568c049d7117bb7e,fdeecbcd0f456f2905366f7685796808</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">15d6f7e21e0589423b378920f3c8ddb7,1840e15e892f37d8a5672e53fc58a73b,1e32fe2b24b1ffd71ddd2e7056998007,37689261fe77f0af11f638becaf22985,3b38562b31186a478c13ffc46ae566ef,3d16cfffc517656de8c69a69d63e1f61,41cf761a6c6e13fc9507b565d6eac694,43383d2479d305c596a7e90b66856aa7,44d8ce56f6c58e3f0a4312a57c1eb3a3,6c9d7b926645f204345430c463d0be70,6e5be2f5718b612e18ac2b1834bf0832,828a09874dfe5ab3f137afb526fb8a76,896a702a29cd9f47d5911569ee25d90e,957471484471c2a82f6a5f2823a8f404,a747bb5470021bf176a6900ea04f8fd3,b4ba0c3a1fb1b9efeee0cb4cef676604,cae8a505bc47dbdc5e9ddb521bce3e1a,e49617796c4dbd064423c57af7149262,f7aa7654fd87eb19568c049d7117bb7e,fdeecbcd0f456f2905366f7685796808</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">15d6f7e21e0589423b378920f3c8ddb7,1840e15e892f37d8a5672e53fc58a73b,1e32fe2b24b1ffd71ddd2e7056998007,37689261fe77f0af11f638becaf22985,3b38562b31186a478c13ffc46ae566ef,3d16cfffc517656de8c69a69d63e1f61,41cf761a6c6e13fc9507b565d6eac694,43383d2479d305c596a7e90b66856aa7,44d8ce56f6c58e3f0a4312a57c1eb3a3,6c9d7b926645f204345430c463d0be70,6e5be2f5718b612e18ac2b1834bf0832,828a09874dfe5ab3f137afb526fb8a76,896a702a29cd9f47d5911569ee25d90e,957471484471c2a82f6a5f2823a8f404,a747bb5470021bf176a6900ea04f8fd3,b4ba0c3a1fb1b9efeee0cb4cef676604,cae8a505bc47dbdc5e9ddb521bce3e1a,e49617796c4dbd064423c57af7149262,f7aa7654fd87eb19568c049d7117bb7e,fdeecbcd0f456f2905366f7685796808</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">15d6f7e21e0589423b378920f3c8ddb7,1840e15e892f37d8a5672e53fc58a73b,1e32fe2b24b1ffd71ddd2e7056998007,37689261fe77f0af11f638becaf22985,3b38562b31186a478c13ffc46ae566ef,3d16cfffc517656de8c69a69d63e1f61,41cf761a6c6e13fc9507b565d6eac694,43383d2479d305c596a7e90b66856aa7,44d8ce56f6c58e3f0a4312a57c1eb3a3,6c9d7b926645f204345430c463d0be70,6e5be2f5718b612e18ac2b1834bf0832,828a09874dfe5ab3f137afb526fb8a76,896a702a29cd9f47d5911569ee25d90e,957471484471c2a82f6a5f2823a8f404,a747bb5470021bf176a6900ea04f8fd3,b4ba0c3a1fb1b9efeee0cb4cef676604,cae8a505bc47dbdc5e9ddb521bce3e1a,e49617796c4dbd064423c57af7149262,f7aa7654fd87eb19568c049d7117bb7e,fdeecbcd0f456f2905366f7685796808</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located.""The United States is the country where the health care reform debate took place."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">15d6f7e21e0589423b378920f3c8ddb7,1840e15e892f37d8a5672e53fc58a73b,1e32fe2b24b1ffd71ddd2e7056998007,37689261fe77f0af11f638becaf22985,3b38562b31186a478c13ffc46ae566ef,3d16cfffc517656de8c69a69d63e1f61,41cf761a6c6e13fc9507b565d6eac694,43383d2479d305c596a7e90b66856aa7,44d8ce56f6c58e3f0a4312a57c1eb3a3,6c9d7b926645f204345430c463d0be70,6e5be2f5718b612e18ac2b1834bf0832,828a09874dfe5ab3f137afb526fb8a76,896a702a29cd9f47d5911569ee25d90e,957471484471c2a82f6a5f2823a8f404,a747bb5470021bf176a6900ea04f8fd3,b4ba0c3a1fb1b9efeee0cb4cef676604,cae8a505bc47dbdc5e9ddb521bce3e1a,e49617796c4dbd064423c57af7149262,f7aa7654fd87eb19568c049d7117bb7e,fdeecbcd0f456f2905366f7685796808</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">15d6f7e21e0589423b378920f3c8ddb7,1840e15e892f37d8a5672e53fc58a73b,1e32fe2b24b1ffd71ddd2e7056998007,37689261fe77f0af11f638becaf22985,3b38562b31186a478c13ffc46ae566ef,3d16cfffc517656de8c69a69d63e1f61,41cf761a6c6e13fc9507b565d6eac694,43383d2479d305c596a7e90b66856aa7,44d8ce56f6c58e3f0a4312a57c1eb3a3,6c9d7b926645f204345430c463d0be70,6e5be2f5718b612e18ac2b1834bf0832,828a09874dfe5ab3f137afb526fb8a76,896a702a29cd9f47d5911569ee25d90e,957471484471c2a82f6a5f2823a8f404,a747bb5470021bf176a6900ea04f8fd3,b4ba0c3a1fb1b9efeee0cb4cef676604,cae8a505bc47dbdc5e9ddb521bce3e1a,e49617796c4dbd064423c57af7149262,f7aa7654fd87eb19568c049d7117bb7e,fdeecbcd0f456f2905366f7685796808</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">15d6f7e21e0589423b378920f3c8ddb7,1840e15e892f37d8a5672e53fc58a73b,1e32fe2b24b1ffd71ddd2e7056998007,37689261fe77f0af11f638becaf22985,3b38562b31186a478c13ffc46ae566ef,3d16cfffc517656de8c69a69d63e1f61,41cf761a6c6e13fc9507b565d6eac694,43383d2479d305c596a7e90b66856aa7,44d8ce56f6c58e3f0a4312a57c1eb3a3,6c9d7b926645f204345430c463d0be70,6e5be2f5718b612e18ac2b1834bf0832,828a09874dfe5ab3f137afb526fb8a76,896a702a29cd9f47d5911569ee25d90e,957471484471c2a82f6a5f2823a8f404,a747bb5470021bf176a6900ea04f8fd3,b4ba0c3a1fb1b9efeee0cb4cef676604,cae8a505bc47dbdc5e9ddb521bce3e1a,e49617796c4dbd064423c57af7149262,f7aa7654fd87eb19568c049d7117bb7e,fdeecbcd0f456f2905366f7685796808</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">15d6f7e21e0589423b378920f3c8ddb7,1840e15e892f37d8a5672e53fc58a73b,1e32fe2b24b1ffd71ddd2e7056998007,37689261fe77f0af11f638becaf22985,3b38562b31186a478c13ffc46ae566ef,3d16cfffc517656de8c69a69d63e1f61,41cf761a6c6e13fc9507b565d6eac694,43383d2479d305c596a7e90b66856aa7,44d8ce56f6c58e3f0a4312a57c1eb3a3,6c9d7b926645f204345430c463d0be70,6e5be2f5718b612e18ac2b1834bf0832,828a09874dfe5ab3f137afb526fb8a76,896a702a29cd9f47d5911569ee25d90e,957471484471c2a82f6a5f2823a8f404,a747bb5470021bf176a6900ea04f8fd3,b4ba0c3a1fb1b9efeee0cb4cef676604,cae8a505bc47dbdc5e9ddb521bce3e1a,e49617796c4dbd064423c57af7149262,f7aa7654fd87eb19568c049d7117bb7e,fdeecbcd0f456f2905366f7685796808</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">15d6f7e21e0589423b378920f3c8ddb7,1840e15e892f37d8a5672e53fc58a73b,1e32fe2b24b1ffd71ddd2e7056998007,37689261fe77f0af11f638becaf22985,3b38562b31186a478c13ffc46ae566ef,3d16cfffc517656de8c69a69d63e1f61,41cf761a6c6e13fc9507b565d6eac694,43383d2479d305c596a7e90b66856aa7,44d8ce56f6c58e3f0a4312a57c1eb3a3,6c9d7b926645f204345430c463d0be70,6e5be2f5718b612e18ac2b1834bf0832,828a09874dfe5ab3f137afb526fb8a76,896a702a29cd9f47d5911569ee25d90e,957471484471c2a82f6a5f2823a8f404,a747bb5470021bf176a6900ea04f8fd3,b4ba0c3a1fb1b9efeee0cb4cef676604,cae8a505bc47dbdc5e9ddb521bce3e1a,e49617796c4dbd064423c57af7149262,f7aa7654fd87eb19568c049d7117bb7e,fdeecbcd0f456f2905366f7685796808</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</data>
+      <data key="d2">15d6f7e21e0589423b378920f3c8ddb7,1840e15e892f37d8a5672e53fc58a73b,1e32fe2b24b1ffd71ddd2e7056998007,37689261fe77f0af11f638becaf22985,3b38562b31186a478c13ffc46ae566ef,3d16cfffc517656de8c69a69d63e1f61,41cf761a6c6e13fc9507b565d6eac694,43383d2479d305c596a7e90b66856aa7,44d8ce56f6c58e3f0a4312a57c1eb3a3,6c9d7b926645f204345430c463d0be70,6e5be2f5718b612e18ac2b1834bf0832,828a09874dfe5ab3f137afb526fb8a76,896a702a29cd9f47d5911569ee25d90e,957471484471c2a82f6a5f2823a8f404,a747bb5470021bf176a6900ea04f8fd3,b4ba0c3a1fb1b9efeee0cb4cef676604,cae8a505bc47dbdc5e9ddb521bce3e1a,e49617796c4dbd064423c57af7149262,f7aa7654fd87eb19568c049d7117bb7e,fdeecbcd0f456f2905366f7685796808</data>
+    </node>
+    <node id="&quot;JOHN XXIII&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"John XXIII was the predecessor of Paul VI, whose death automatically closed the Second Vatican Council."</data>
+      <data key="d2">828a09874dfe5ab3f137afb526fb8a76</data>
+    </node>
+    <node id="&quot;APOSTLE ST. PAUL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Apostle St. Paul is a biblical figure who inspired Paul VI's pontifical name and mission."</data>
+      <data key="d2">828a09874dfe5ab3f137afb526fb8a76</data>
+    </node>
+    <node id="&quot;SAINT AMBROSE OF MILAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Saint Ambrose of Milan was a predecessor of Paul VI, known for naming Mary as the Mother of the Church."</data>
+      <data key="d2">828a09874dfe5ab3f137afb526fb8a76</data>
+    </node>
+    <node id="&quot;CATHOLICISM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Catholicism is the religion that Paul VI sought to reform and modernize during his pontificate."</data>
+      <data key="d2">828a09874dfe5ab3f137afb526fb8a76</data>
+    </node>
+    <node id="&quot;SECOND VATICAN COUNCIL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Second Vatican Council was a major event in Catholic history, re-convened by Paul VI to implement reforms and modernize the Church."</data>
+      <data key="d2">828a09874dfe5ab3f137afb526fb8a76</data>
+    </node>
+    <node id="&quot;HUMANAE VITAE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Humanae vitae is an encyclical issued by Paul VI in 1968, which addressed birth control and other controversial issues."</data>
+      <data key="d2">828a09874dfe5ab3f137afb526fb8a76</data>
+    </node>
+    <node id="&quot;PAUL VI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">828a09874dfe5ab3f137afb526fb8a76</data>
+    </node>
+    <node id="&quot;BELARUS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Belarus is a country where Minsk Region is located."</data>
+      <data key="d2">41cf761a6c6e13fc9507b565d6eac694</data>
+    </node>
+    <node id="&quot;MINSK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Minsk is the administrative center of Minsk Region and a separate administrative territorial entity of Belarus."</data>
+      <data key="d2">41cf761a6c6e13fc9507b565d6eac694</data>
+    </node>
+    <node id="&quot;MINSK REGION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">41cf761a6c6e13fc9507b565d6eac694</data>
+    </node>
+    <node id="&quot;MARY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mary was the mother of Jesus, but is viewed as an ordinary woman devoted to God by Protestants."
+"Mary is a central figure in Christian theology, referred to as the Theotokos or Mother of God."</data>
+      <data key="d2">37689261fe77f0af11f638becaf22985,896a702a29cd9f47d5911569ee25d90e</data>
+    </node>
+    <node id="&quot;ROMAN CATHOLIC CHURCH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Roman Catholic Church has beliefs and practices that are rejected by Protestants, such as Mariology."
+"The Roman Catholic Church is an institution that Luther criticized for its practices and beliefs."</data>
+      <data key="d2">37689261fe77f0af11f638becaf22985,896a702a29cd9f47d5911569ee25d90e</data>
+    </node>
+    <node id="&quot;KARL BARTH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Karl Barth is a theologian who wrote about the heresy of the Catholic Church's Mariology."</data>
+      <data key="d2">37689261fe77f0af11f638becaf22985</data>
+    </node>
+    <node id="&quot;PROTESTANTS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">37689261fe77f0af11f638becaf22985</data>
+    </node>
+    <node id="&quot;JESUS&quot;">
+      <data key="d0" />
+      <data key="d1">
+"Jesus is the Messiah whose message was sent to the Gentiles after being rejected by the Jews, and is celebrated for his Jewishness."</data>
+      <data key="d2">37689261fe77f0af11f638becaf22985,b4ba0c3a1fb1b9efeee0cb4cef676604</data>
+    </node>
+    <node id="&quot;QUEEN MARY I&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Queen Mary I played a key role in restoring papal authority and enforcing conformity through the Marian persecutions."</data>
+      <data key="d2">15d6f7e21e0589423b378920f3c8ddb7</data>
+    </node>
+    <node id="&quot;ENGLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"England is the location where the English Church was brought back under papal authority, and where Protestantism gained traction."
+"England is a location where Livinus studied and visited Saint Augustine of Canterbury."</data>
+      <data key="d2">15d6f7e21e0589423b378920f3c8ddb7,1840e15e892f37d8a5672e53fc58a73b</data>
+    </node>
+    <node id="&quot;MARIAN PERSECUTIONS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Marian Persecutions were a series of actions taken against Protestants during Queen Mary I's reign, resulting in alienation of a section of English society."</data>
+      <data key="d2">15d6f7e21e0589423b378920f3c8ddb7</data>
+    </node>
+    <node id="&quot;ENGLISH CHURCH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">15d6f7e21e0589423b378920f3c8ddb7</data>
+    </node>
+    <node id="&quot;PROTESTANTISM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">15d6f7e21e0589423b378920f3c8ddb7</data>
+    </node>
+    <node id="&quot;IRELAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ireland is the birthplace of Livinus and where he returned after studying in England."</data>
+      <data key="d2">1840e15e892f37d8a5672e53fc58a73b</data>
+    </node>
+    <node id="&quot;GHENT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ghent is a location in Belgium where Livinus preached."</data>
+      <data key="d2">1840e15e892f37d8a5672e53fc58a73b</data>
+    </node>
+    <node id="&quot;ZEELAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Zeeland is a location in the Netherlands where Livinus preached."</data>
+      <data key="d2">1840e15e892f37d8a5672e53fc58a73b</data>
+    </node>
+    <node id="&quot;ESSE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Esse is a village near Geraardsbergen where Livinus was attacked by pagans."</data>
+      <data key="d2">1840e15e892f37d8a5672e53fc58a73b</data>
+    </node>
+    <node id="&quot;GERAARDSBERGEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Geraardsbergen is a location near Esse where Livinus was attacked by pagans."</data>
+      <data key="d2">1840e15e892f37d8a5672e53fc58a73b</data>
+    </node>
+    <node id="&quot;SAINT AUGUSTINE OF CANTERBURY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Saint Augustine of Canterbury is a person visited by Livinus during his studies in England."</data>
+      <data key="d2">1840e15e892f37d8a5672e53fc58a73b</data>
+    </node>
+    <node id="&quot;LIVINUS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1840e15e892f37d8a5672e53fc58a73b</data>
+    </node>
+    <node id="&quot;LUBLIN VOIVODESHIP&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lublin Voivodeship is a region in eastern Poland where Bi&#322;goraj County is located."</data>
+      <data key="d2">6c9d7b926645f204345430c463d0be70</data>
+    </node>
+    <node id="&quot;BI&#321;GORAJ&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bi&#322;goraj is the administrative seat and largest town of Bi&#322;goraj County, located south of Lublin."</data>
+      <data key="d2">6c9d7b926645f204345430c463d0be70</data>
+    </node>
+    <node id="&quot;TARNOGR&#211;D&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Tarnogr&#243;d is a town in Bi&#322;goraj County, located south of Bi&#322;goraj."</data>
+      <data key="d2">6c9d7b926645f204345430c463d0be70</data>
+    </node>
+    <node id="&quot;J&#211;ZEF&#211;W&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"J&#243;zef&#243;w is a town in Bi&#322;goraj County, located east of Bi&#322;goraj."</data>
+      <data key="d2">6c9d7b926645f204345430c463d0be70</data>
+    </node>
+    <node id="&quot;FRAMPOL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Frampol is a town in Bi&#322;goraj County, located north of Bi&#322;goraj."</data>
+      <data key="d2">6c9d7b926645f204345430c463d0be70</data>
+    </node>
+    <node id="&quot;BI&#321;GORAJ COUNTY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6c9d7b926645f204345430c463d0be70</data>
+    </node>
+    <node id="&quot;BARON GENERAL HENRI SIMON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Baron General Henri Simon was Joseph-Philippe Simon's father, who forbade his son from using their surname in an artistic career."</data>
+      <data key="d2">3b38562b31186a478c13ffc46ae566ef</data>
+    </node>
+    <node id="&quot;TURIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Turin is the birthplace of Joseph-Philippe Simon."</data>
+      <data key="d2">3b38562b31186a478c13ffc46ae566ef</data>
+    </node>
+    <node id="&quot;OD&#201;ON-TH&#201;&#194;TRE DE L'EUROPE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Od&#233;on-Th&#233;&#226;tre de l'Europe is a theater where Joseph-Philippe Simon worked as an actor."</data>
+      <data key="d2">3b38562b31186a478c13ffc46ae566ef</data>
+    </node>
+    <node id="&quot;COM&#201;DIE-FRAN&#199;AISE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Com&#233;die-Fran&#231;aise is a theater where Joseph-Philippe Simon worked as an actor and served as provisional administrator for a few months in 1848."</data>
+      <data key="d2">3b38562b31186a478c13ffc46ae566ef</data>
+    </node>
+    <node id="&quot;JOSEPH-PHILIPPE SIMON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3b38562b31186a478c13ffc46ae566ef</data>
+    </node>
+    <node id="&quot;AMERICA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"America refers to the United States of America, which started the war on terror according to Abdul Rehman Makki's statements."</data>
+      <data key="d2">a747bb5470021bf176a6900ea04f8fd3</data>
+    </node>
+    <node id="&quot;AFGHANISTAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Afghanistan is a country where thousands of innocents have died as a result of the war on terror."</data>
+      <data key="d2">a747bb5470021bf176a6900ea04f8fd3</data>
+    </node>
+    <node id="&quot;IRAQ&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Iraq is a country where thousands of innocents have died as a result of the war on terror."</data>
+      <data key="d2">a747bb5470021bf176a6900ea04f8fd3</data>
+    </node>
+    <node id="&quot;PAKISTAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pakistan is a country where thousands of innocents have died as a result of the war on terror."</data>
+      <data key="d2">a747bb5470021bf176a6900ea04f8fd3</data>
+    </node>
+    <node id="&quot;WAR ON TERROR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The War on Terror is an event started by America, which has caused the death of thousands of innocents in Afghanistan, Iraq, and Pakistan."</data>
+      <data key="d2">a747bb5470021bf176a6900ea04f8fd3</data>
+    </node>
+    <node id="&quot;ABDUL REHMAN MAKKI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a747bb5470021bf176a6900ea04f8fd3</data>
+    </node>
+    <node id="&quot;SISTER ALOYSIUS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sister Aloysius is the strict principal of the parish school, concerned about a possible problem in the school."</data>
+      <data key="d2">957471484471c2a82f6a5f2823a8f404</data>
+    </node>
+    <node id="&quot;THE BRONX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Bronx is a location in New York where the Catholic church and parish school are situated."</data>
+      <data key="d2">957471484471c2a82f6a5f2823a8f404</data>
+    </node>
+    <node id="&quot;NEW YORK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New York is a state in the United States where The Bronx is located."</data>
+      <data key="d2">957471484471c2a82f6a5f2823a8f404</data>
+    </node>
+    <node id="&quot;CATHOLIC CHURCH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Catholic Church is the religious institution where Father Flynn gives his sermon and Sister Aloysius works as principal of the parish school."
+"The Catholic Church is the institution that was reformed by Martin Luther and others, with changes including a complete reliance on Scripture and faith in Jesus as the only way to obtain God's pardon for sin."</data>
+      <data key="d2">957471484471c2a82f6a5f2823a8f404,cae8a505bc47dbdc5e9ddb521bce3e1a</data>
+    </node>
+    <node id="&quot;FATHER FLYNN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">957471484471c2a82f6a5f2823a8f404</data>
+    </node>
+    <node id="&quot;OBAMA ADMINISTRATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Obama administration encouraged the 111th Congress to enact reform of the United States' health care system."</data>
+      <data key="d2">f7aa7654fd87eb19568c049d7117bb7e</data>
+    </node>
+    <node id="&quot;111TH CONGRESS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The 111th Congress devoted much of its time to enacting reform of the United States' health care system."</data>
+      <data key="d2">f7aa7654fd87eb19568c049d7117bb7e</data>
+    </node>
+    <node id="&quot;HR 3962&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"HR 3962, also known as the Affordable Health Care for America Act, was a bill crafted by the United States House of Representatives in October 2009."</data>
+      <data key="d2">f7aa7654fd87eb19568c049d7117bb7e</data>
+    </node>
+    <node id="&quot;UNITED STATES HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f7aa7654fd87eb19568c049d7117bb7e</data>
+    </node>
+    <node id="&quot;PREFECTURE FOR THE ECONOMIC AFFAIRS OF THE HOLY SEE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Prefecture for the Economic Affairs of the Holy See is a department of the Catholic Church where Egidio Vagnozzi served as president."</data>
+      <data key="d2">e49617796c4dbd064423c57af7149262</data>
+    </node>
+    <node id="&quot;HOLY SEE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Holy See refers to the sovereign entity of the Catholic Church, located in Vatican City."</data>
+      <data key="d2">e49617796c4dbd064423c57af7149262</data>
+    </node>
+    <node id="&quot;EGIDIO VAGNOZZI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e49617796c4dbd064423c57af7149262</data>
+    </node>
+    <node id="&quot;GEORGE WHITEFIELD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"George Whitefield was an Anglican preacher who continued the movement, traveling throughout the colonies and preaching in a more dramatic and emotional style."</data>
+      <data key="d2">1e32fe2b24b1ffd71ddd2e7056998007</data>
+    </node>
+    <node id="&quot;NORTHAMPTON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Northampton is a location in Massachusetts where Jonathan Edwards began the revival."</data>
+      <data key="d2">1e32fe2b24b1ffd71ddd2e7056998007</data>
+    </node>
+    <node id="&quot;MASSACHUSETTS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Massachusetts is a state in the US where the revival began."</data>
+      <data key="d2">1e32fe2b24b1ffd71ddd2e7056998007</data>
+    </node>
+    <node id="&quot;THE REVIVAL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Revival was a religious movement that emphasized personal experience and attracted a large following."</data>
+      <data key="d2">1e32fe2b24b1ffd71ddd2e7056998007</data>
+    </node>
+    <node id="&quot;JONATHAN EDWARDS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1e32fe2b24b1ffd71ddd2e7056998007</data>
+    </node>
+    <node id="&quot;POPE PIUS IX&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Pope Pius IX dogmatized the Immaculate Conception in 1854."</data>
+      <data key="d2">896a702a29cd9f47d5911569ee25d90e</data>
+    </node>
+    <node id="&quot;WITTENBERG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Wittenberg is a location where Luther preached a sermon on Marian devotion and veneration."
+</data>
+      <data key="d2">3d16cfffc517656de8c69a69d63e1f61,896a702a29cd9f47d5911569ee25d90e</data>
+    </node>
+    <node id="&quot;MARTIN LUTHER&quot;">
+      <data key="d0" />
+      <data key="d1">
+</data>
+      <data key="d2">896a702a29cd9f47d5911569ee25d90e,cae8a505bc47dbdc5e9ddb521bce3e1a</data>
+    </node>
+    <node id="&quot;IMMACULATE CONCEPTION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">896a702a29cd9f47d5911569ee25d90e</data>
+    </node>
+    <node id="&quot;SAXONY-ANHALT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Saxony-Anhalt is a state in Germany where Wittenberg is located."</data>
+      <data key="d2">3d16cfffc517656de8c69a69d63e1f61</data>
+    </node>
+    <node id="&quot;ANHALT-BITTERFELD&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Anhalt-Bitterfeld is a neighboring district of Wittenberg."</data>
+      <data key="d2">3d16cfffc517656de8c69a69d63e1f61</data>
+    </node>
+    <node id="&quot;DESSAU-ROSSLAU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Dessau-Ro&#223;lau is a district-free city neighboring Wittenberg."</data>
+      <data key="d2">3d16cfffc517656de8c69a69d63e1f61</data>
+    </node>
+    <node id="&quot;POTSDAM-MITTELMARK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Potsdam-Mittelmark is a neighboring district of Wittenberg in Brandenburg."</data>
+      <data key="d2">3d16cfffc517656de8c69a69d63e1f61</data>
+    </node>
+    <node id="&quot;TELTOW-FL&#196;MING&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Teltow-Fl&#228;ming is a neighboring district of Wittenberg in Brandenburg."</data>
+      <data key="d2">3d16cfffc517656de8c69a69d63e1f61</data>
+    </node>
+    <node id="&quot;ELBE-ELSTER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Elbe-Elster is a neighboring district of Wittenberg in Brandenburg."</data>
+      <data key="d2">3d16cfffc517656de8c69a69d63e1f61</data>
+    </node>
+    <node id="&quot;NORDSACHSEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Nordsachsen is a neighboring district of Wittenberg in the Free State of Saxony."</data>
+      <data key="d2">3d16cfffc517656de8c69a69d63e1f61</data>
+    </node>
+    <node id="&quot;BRANDENBURG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Brandenburg is a state in Germany where some of Wittenberg's neighboring districts are located."</data>
+      <data key="d2">3d16cfffc517656de8c69a69d63e1f61</data>
+    </node>
+    <node id="&quot;FREE STATE OF SAXONY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Free State of Saxony is a state in Germany where Nordsachsen, a neighboring district of Wittenberg, is located."</data>
+      <data key="d2">3d16cfffc517656de8c69a69d63e1f61</data>
+    </node>
+    <node id="&quot;KUYAVIAN-POMERANIAN VOIVODESHIP&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Kuyavian-Pomeranian Voivodeship is a region in north-central Poland where &#346;wiecie County is located."</data>
+      <data key="d2">44d8ce56f6c58e3f0a4312a57c1eb3a3</data>
+    </node>
+    <node id="&quot;&#346;WIECIE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"&#346;wiecie is the administrative seat and largest town of &#346;wiecie County, located north of Toru&#324; and north-east of Bydgoszcz."</data>
+      <data key="d2">44d8ce56f6c58e3f0a4312a57c1eb3a3</data>
+    </node>
+    <node id="&quot;TORU&#323;&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Toru&#324; is a location in Poland, south of &#346;wiecie."</data>
+      <data key="d2">44d8ce56f6c58e3f0a4312a57c1eb3a3</data>
+    </node>
+    <node id="&quot;BYDGOSZCZ&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bydgoszcz is a location in Poland, south-west of &#346;wiecie."</data>
+      <data key="d2">44d8ce56f6c58e3f0a4312a57c1eb3a3</data>
+    </node>
+    <node id="&quot;NOWE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Nowe is the only other town in &#346;wiecie County, located north-east of &#346;wiecie."</data>
+      <data key="d2">44d8ce56f6c58e3f0a4312a57c1eb3a3</data>
+    </node>
+    <node id="&quot;&#346;WIECIE COUNTY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">44d8ce56f6c58e3f0a4312a57c1eb3a3</data>
+    </node>
+    <node id="&quot;JEWS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Jews are a group that rejected Jesus as their Messiah, leading to the message of Christ being sent to the Gentiles."</data>
+      <data key="d2">b4ba0c3a1fb1b9efeee0cb4cef676604</data>
+    </node>
+    <node id="&quot;GENTILES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Gentiles are a non-Jewish group that received the message of Christ after it was rejected by the Jews."</data>
+      <data key="d2">b4ba0c3a1fb1b9efeee0cb4cef676604</data>
+    </node>
+    <node id="&quot;ROMANS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Romans serve as external arbiters on disputes concerning Jewish customs and law, providing legal protection to Christians as a recognized religion."</data>
+      <data key="d2">b4ba0c3a1fb1b9efeee0cb4cef676604</data>
+    </node>
+    <node id="&quot;LUKE -- ACTS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b4ba0c3a1fb1b9efeee0cb4cef676604</data>
+    </node>
+    <node id="&quot;JAN HUS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jan Hus was an earlier reformer who attempted to reform the Catholic Church before Martin Luther."</data>
+      <data key="d2">cae8a505bc47dbdc5e9ddb521bce3e1a</data>
+    </node>
+    <node id="&quot;PETER WALDO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Peter Waldo was an earlier reformer who attempted to reform the Catholic Church before Martin Luther."</data>
+      <data key="d2">cae8a505bc47dbdc5e9ddb521bce3e1a</data>
+    </node>
+    <node id="&quot;JOHN WYCLIFFE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"John Wycliffe was an earlier reformer who attempted to reform the Catholic Church before Martin Luther."</data>
+      <data key="d2">cae8a505bc47dbdc5e9ddb521bce3e1a</data>
+    </node>
+    <node id="&quot;PROTESTANT REFORMATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Protestant Reformation was a significant event in Christian history, incorporating doctrinal changes such as sola scriptura and sola fide."</data>
+      <data key="d2">cae8a505bc47dbdc5e9ddb521bce3e1a</data>
+    </node>
+    <node id="&quot;A.C. MILAN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A.C. Milan is a football club where Egidio Calloni had a stint as a player."</data>
+      <data key="d2">43383d2479d305c596a7e90b66856aa7</data>
+    </node>
+    <node id="&quot;BUSTO ARSIZIO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Busto Arsizio is a location in the Province of Varese, Italy, and the birthplace of Egidio Calloni."</data>
+      <data key="d2">43383d2479d305c596a7e90b66856aa7</data>
+    </node>
+    <node id="&quot;EGIDIO CALLONI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">43383d2479d305c596a7e90b66856aa7</data>
+    </node>
+    <node id="&quot;WATCH TOWER SOCIETY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Watch Tower Society publishes literature in 700 languages to support the Jehovah's Witnesses' missionary efforts."</data>
+      <data key="d2">6e5be2f5718b612e18ac2b1834bf0832</data>
+    </node>
+    <node id="&quot;BIBLE STUDY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"A Bible study is a regular meeting with non-members, aiming to baptize them as Jehovah's Witnesses."</data>
+      <data key="d2">6e5be2f5718b612e18ac2b1834bf0832</data>
+    </node>
+    <node id="&quot;JEHOVAH'S WITNESSES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6e5be2f5718b612e18ac2b1834bf0832</data>
+    </node>
+    <edge source="&quot;LONDON&quot;" target="&quot;NATIONAL GALLERY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The National Gallery is located in London."</data>
+      <data key="d5">fdeecbcd0f456f2905366f7685796808</data>
+    </edge>
+    <edge source="&quot;ANSIDEI MADONNA&quot;" target="&quot;NATIONAL GALLERY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Ansidei Madonna is housed at the National Gallery."</data>
+      <data key="d5">fdeecbcd0f456f2905366f7685796808</data>
+    </edge>
+    <edge source="&quot;SAINT JOHN THE BAPTIST PREACHING&quot;" target="&quot;NATIONAL GALLERY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Saint John the Baptist Preaching is housed at the National Gallery."</data>
+      <data key="d5">fdeecbcd0f456f2905366f7685796808</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."</data>
+      <data key="d5">15d6f7e21e0589423b378920f3c8ddb7,1840e15e892f37d8a5672e53fc58a73b,1e32fe2b24b1ffd71ddd2e7056998007,37689261fe77f0af11f638becaf22985,3b38562b31186a478c13ffc46ae566ef,3d16cfffc517656de8c69a69d63e1f61,41cf761a6c6e13fc9507b565d6eac694,43383d2479d305c596a7e90b66856aa7,44d8ce56f6c58e3f0a4312a57c1eb3a3,6c9d7b926645f204345430c463d0be70,6e5be2f5718b612e18ac2b1834bf0832,828a09874dfe5ab3f137afb526fb8a76,896a702a29cd9f47d5911569ee25d90e,957471484471c2a82f6a5f2823a8f404,a747bb5470021bf176a6900ea04f8fd3,b4ba0c3a1fb1b9efeee0cb4cef676604,cae8a505bc47dbdc5e9ddb521bce3e1a,e49617796c4dbd064423c57af7149262,f7aa7654fd87eb19568c049d7117bb7e,fdeecbcd0f456f2905366f7685796808</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."</data>
+      <data key="d5">15d6f7e21e0589423b378920f3c8ddb7,1840e15e892f37d8a5672e53fc58a73b,1e32fe2b24b1ffd71ddd2e7056998007,37689261fe77f0af11f638becaf22985,3b38562b31186a478c13ffc46ae566ef,3d16cfffc517656de8c69a69d63e1f61,41cf761a6c6e13fc9507b565d6eac694,43383d2479d305c596a7e90b66856aa7,44d8ce56f6c58e3f0a4312a57c1eb3a3,6c9d7b926645f204345430c463d0be70,6e5be2f5718b612e18ac2b1834bf0832,828a09874dfe5ab3f137afb526fb8a76,896a702a29cd9f47d5911569ee25d90e,957471484471c2a82f6a5f2823a8f404,a747bb5470021bf176a6900ea04f8fd3,b4ba0c3a1fb1b9efeee0cb4cef676604,cae8a505bc47dbdc5e9ddb521bce3e1a,e49617796c4dbd064423c57af7149262,f7aa7654fd87eb19568c049d7117bb7e,fdeecbcd0f456f2905366f7685796808</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."</data>
+      <data key="d5">15d6f7e21e0589423b378920f3c8ddb7,1840e15e892f37d8a5672e53fc58a73b,1e32fe2b24b1ffd71ddd2e7056998007,37689261fe77f0af11f638becaf22985,3b38562b31186a478c13ffc46ae566ef,3d16cfffc517656de8c69a69d63e1f61,41cf761a6c6e13fc9507b565d6eac694,43383d2479d305c596a7e90b66856aa7,44d8ce56f6c58e3f0a4312a57c1eb3a3,6c9d7b926645f204345430c463d0be70,6e5be2f5718b612e18ac2b1834bf0832,828a09874dfe5ab3f137afb526fb8a76,896a702a29cd9f47d5911569ee25d90e,957471484471c2a82f6a5f2823a8f404,a747bb5470021bf176a6900ea04f8fd3,b4ba0c3a1fb1b9efeee0cb4cef676604,cae8a505bc47dbdc5e9ddb521bce3e1a,e49617796c4dbd064423c57af7149262,f7aa7654fd87eb19568c049d7117bb7e,fdeecbcd0f456f2905366f7685796808</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."</data>
+      <data key="d5">15d6f7e21e0589423b378920f3c8ddb7,1840e15e892f37d8a5672e53fc58a73b,1e32fe2b24b1ffd71ddd2e7056998007,37689261fe77f0af11f638becaf22985,3b38562b31186a478c13ffc46ae566ef,3d16cfffc517656de8c69a69d63e1f61,41cf761a6c6e13fc9507b565d6eac694,43383d2479d305c596a7e90b66856aa7,44d8ce56f6c58e3f0a4312a57c1eb3a3,6c9d7b926645f204345430c463d0be70,6e5be2f5718b612e18ac2b1834bf0832,828a09874dfe5ab3f137afb526fb8a76,896a702a29cd9f47d5911569ee25d90e,957471484471c2a82f6a5f2823a8f404,a747bb5470021bf176a6900ea04f8fd3,b4ba0c3a1fb1b9efeee0cb4cef676604,cae8a505bc47dbdc5e9ddb521bce3e1a,e49617796c4dbd064423c57af7149262,f7aa7654fd87eb19568c049d7117bb7e,fdeecbcd0f456f2905366f7685796808</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."</data>
+      <data key="d5">15d6f7e21e0589423b378920f3c8ddb7,1840e15e892f37d8a5672e53fc58a73b,1e32fe2b24b1ffd71ddd2e7056998007,37689261fe77f0af11f638becaf22985,3b38562b31186a478c13ffc46ae566ef,3d16cfffc517656de8c69a69d63e1f61,41cf761a6c6e13fc9507b565d6eac694,43383d2479d305c596a7e90b66856aa7,44d8ce56f6c58e3f0a4312a57c1eb3a3,6c9d7b926645f204345430c463d0be70,6e5be2f5718b612e18ac2b1834bf0832,828a09874dfe5ab3f137afb526fb8a76,896a702a29cd9f47d5911569ee25d90e,957471484471c2a82f6a5f2823a8f404,a747bb5470021bf176a6900ea04f8fd3,b4ba0c3a1fb1b9efeee0cb4cef676604,cae8a505bc47dbdc5e9ddb521bce3e1a,e49617796c4dbd064423c57af7149262,f7aa7654fd87eb19568c049d7117bb7e,fdeecbcd0f456f2905366f7685796808</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."</data>
+      <data key="d5">15d6f7e21e0589423b378920f3c8ddb7,1840e15e892f37d8a5672e53fc58a73b,1e32fe2b24b1ffd71ddd2e7056998007,37689261fe77f0af11f638becaf22985,3b38562b31186a478c13ffc46ae566ef,3d16cfffc517656de8c69a69d63e1f61,41cf761a6c6e13fc9507b565d6eac694,43383d2479d305c596a7e90b66856aa7,44d8ce56f6c58e3f0a4312a57c1eb3a3,6c9d7b926645f204345430c463d0be70,6e5be2f5718b612e18ac2b1834bf0832,828a09874dfe5ab3f137afb526fb8a76,896a702a29cd9f47d5911569ee25d90e,957471484471c2a82f6a5f2823a8f404,a747bb5470021bf176a6900ea04f8fd3,b4ba0c3a1fb1b9efeee0cb4cef676604,cae8a505bc47dbdc5e9ddb521bce3e1a,e49617796c4dbd064423c57af7149262,f7aa7654fd87eb19568c049d7117bb7e,fdeecbcd0f456f2905366f7685796808</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">15d6f7e21e0589423b378920f3c8ddb7,1840e15e892f37d8a5672e53fc58a73b,1e32fe2b24b1ffd71ddd2e7056998007,37689261fe77f0af11f638becaf22985,3b38562b31186a478c13ffc46ae566ef,3d16cfffc517656de8c69a69d63e1f61,41cf761a6c6e13fc9507b565d6eac694,43383d2479d305c596a7e90b66856aa7,44d8ce56f6c58e3f0a4312a57c1eb3a3,6c9d7b926645f204345430c463d0be70,6e5be2f5718b612e18ac2b1834bf0832,828a09874dfe5ab3f137afb526fb8a76,896a702a29cd9f47d5911569ee25d90e,957471484471c2a82f6a5f2823a8f404,a747bb5470021bf176a6900ea04f8fd3,b4ba0c3a1fb1b9efeee0cb4cef676604,cae8a505bc47dbdc5e9ddb521bce3e1a,e49617796c4dbd064423c57af7149262,f7aa7654fd87eb19568c049d7117bb7e,fdeecbcd0f456f2905366f7685796808</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."</data>
+      <data key="d5">15d6f7e21e0589423b378920f3c8ddb7,1840e15e892f37d8a5672e53fc58a73b,1e32fe2b24b1ffd71ddd2e7056998007,37689261fe77f0af11f638becaf22985,3b38562b31186a478c13ffc46ae566ef,3d16cfffc517656de8c69a69d63e1f61,41cf761a6c6e13fc9507b565d6eac694,43383d2479d305c596a7e90b66856aa7,44d8ce56f6c58e3f0a4312a57c1eb3a3,6c9d7b926645f204345430c463d0be70,6e5be2f5718b612e18ac2b1834bf0832,828a09874dfe5ab3f137afb526fb8a76,896a702a29cd9f47d5911569ee25d90e,957471484471c2a82f6a5f2823a8f404,a747bb5470021bf176a6900ea04f8fd3,b4ba0c3a1fb1b9efeee0cb4cef676604,cae8a505bc47dbdc5e9ddb521bce3e1a,e49617796c4dbd064423c57af7149262,f7aa7654fd87eb19568c049d7117bb7e,fdeecbcd0f456f2905366f7685796808</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">15d6f7e21e0589423b378920f3c8ddb7,1840e15e892f37d8a5672e53fc58a73b,1e32fe2b24b1ffd71ddd2e7056998007,37689261fe77f0af11f638becaf22985,3b38562b31186a478c13ffc46ae566ef,3d16cfffc517656de8c69a69d63e1f61,41cf761a6c6e13fc9507b565d6eac694,43383d2479d305c596a7e90b66856aa7,44d8ce56f6c58e3f0a4312a57c1eb3a3,6c9d7b926645f204345430c463d0be70,6e5be2f5718b612e18ac2b1834bf0832,828a09874dfe5ab3f137afb526fb8a76,896a702a29cd9f47d5911569ee25d90e,957471484471c2a82f6a5f2823a8f404,a747bb5470021bf176a6900ea04f8fd3,b4ba0c3a1fb1b9efeee0cb4cef676604,cae8a505bc47dbdc5e9ddb521bce3e1a,e49617796c4dbd064423c57af7149262,f7aa7654fd87eb19568c049d7117bb7e,fdeecbcd0f456f2905366f7685796808</data>
+    </edge>
+    <edge source="&quot;JOHN XXIII&quot;" target="&quot;SECOND VATICAN COUNCIL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The death of John XXIII automatically closed the Second Vatican Council."</data>
+      <data key="d5">828a09874dfe5ab3f137afb526fb8a76</data>
+    </edge>
+    <edge source="&quot;CATHOLICISM&quot;" target="&quot;PAUL VI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Paul VI was the leader of Catholicism, seeking to reform and modernize the Church."</data>
+      <data key="d5">828a09874dfe5ab3f137afb526fb8a76</data>
+    </edge>
+    <edge source="&quot;SECOND VATICAN COUNCIL&quot;" target="&quot;PAUL VI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Paul VI re-convened and implemented the mandates of the Second Vatican Council."</data>
+      <data key="d5">828a09874dfe5ab3f137afb526fb8a76</data>
+    </edge>
+    <edge source="&quot;HUMANAE VITAE&quot;" target="&quot;PAUL VI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Paul VI issued the encyclical Humanae vitae, which addressed birth control and other controversial issues."</data>
+      <data key="d5">828a09874dfe5ab3f137afb526fb8a76</data>
+    </edge>
+    <edge source="&quot;BELARUS&quot;" target="&quot;MINSK REGION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Minsk Region is one of the regions of Belarus."</data>
+      <data key="d5">41cf761a6c6e13fc9507b565d6eac694</data>
+    </edge>
+    <edge source="&quot;MINSK&quot;" target="&quot;MINSK REGION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Minsk is the administrative center of Minsk Region."</data>
+      <data key="d5">41cf761a6c6e13fc9507b565d6eac694</data>
+    </edge>
+    <edge source="&quot;MARY&quot;" target="&quot;JESUS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mary is the mother of Jesus according to Protestant views."</data>
+      <data key="d5">37689261fe77f0af11f638becaf22985</data>
+    </edge>
+    <edge source="&quot;MARY&quot;" target="&quot;MARTIN LUTHER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Luther held beliefs about Mary, including her perpetual virginity and sinlessness throughout her life."</data>
+      <data key="d5">896a702a29cd9f47d5911569ee25d90e</data>
+    </edge>
+    <edge source="&quot;ROMAN CATHOLIC CHURCH&quot;" target="&quot;PROTESTANTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Protestants reject Roman Catholic beliefs and practices, such as Mariology."</data>
+      <data key="d5">37689261fe77f0af11f638becaf22985</data>
+    </edge>
+    <edge source="&quot;ROMAN CATHOLIC CHURCH&quot;" target="&quot;KARL BARTH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Karl Barth wrote about the heresy of the Roman Catholic Church's Mariology."</data>
+      <data key="d5">37689261fe77f0af11f638becaf22985</data>
+    </edge>
+    <edge source="&quot;ROMAN CATHOLIC CHURCH&quot;" target="&quot;MARTIN LUTHER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Luther criticized the Roman Catholic Church's practices and beliefs, particularly regarding Marian devotion and veneration."</data>
+      <data key="d5">896a702a29cd9f47d5911569ee25d90e</data>
+    </edge>
+    <edge source="&quot;JESUS&quot;" target="&quot;LUKE -- ACTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Luke -- Acts provides an explanation for the spread of Jesus' message to the Gentiles after being rejected by the Jews."</data>
+      <data key="d5">b4ba0c3a1fb1b9efeee0cb4cef676604</data>
+    </edge>
+    <edge source="&quot;JESUS&quot;" target="&quot;JEWS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Jews rejected Jesus as their Messiah, leading to the message of Christ being sent to the Gentiles."</data>
+      <data key="d5">b4ba0c3a1fb1b9efeee0cb4cef676604</data>
+    </edge>
+    <edge source="&quot;QUEEN MARY I&quot;" target="&quot;ENGLISH CHURCH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The English Church was influenced by Queen Mary I's decisions and policies, particularly the restoration of papal authority."</data>
+      <data key="d5">15d6f7e21e0589423b378920f3c8ddb7</data>
+    </edge>
+    <edge source="&quot;QUEEN MARY I&quot;" target="&quot;MARIAN PERSECUTIONS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Queen Mary I was responsible for the Marian Persecutions, which were a key event during her reign."</data>
+      <data key="d5">15d6f7e21e0589423b378920f3c8ddb7</data>
+    </edge>
+    <edge source="&quot;ENGLAND&quot;" target="&quot;PROTESTANTISM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"England saw a growing movement towards Protestantism, which became more prominent by the late 16th century."</data>
+      <data key="d5">15d6f7e21e0589423b378920f3c8ddb7</data>
+    </edge>
+    <edge source="&quot;ENGLAND&quot;" target="&quot;LIVINUS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Livinus studied in England and visited Saint Augustine of Canterbury."</data>
+      <data key="d5">1840e15e892f37d8a5672e53fc58a73b</data>
+    </edge>
+    <edge source="&quot;ENGLAND&quot;" target="&quot;SAINT AUGUSTINE OF CANTERBURY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Saint Augustine of Canterbury is located in England and visited by Livinus."</data>
+      <data key="d5">1840e15e892f37d8a5672e53fc58a73b</data>
+    </edge>
+    <edge source="&quot;IRELAND&quot;" target="&quot;LIVINUS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Livinus was born and returned to Ireland after studying in England."</data>
+      <data key="d5">1840e15e892f37d8a5672e53fc58a73b</data>
+    </edge>
+    <edge source="&quot;GHENT&quot;" target="&quot;LIVINUS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Livinus preached in Ghent, Belgium."</data>
+      <data key="d5">1840e15e892f37d8a5672e53fc58a73b</data>
+    </edge>
+    <edge source="&quot;ZEELAND&quot;" target="&quot;LIVINUS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Livinus preached in Zeeland, Netherlands."</data>
+      <data key="d5">1840e15e892f37d8a5672e53fc58a73b</data>
+    </edge>
+    <edge source="&quot;ESSE&quot;" target="&quot;LIVINUS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Livinus was attacked by pagans in the village of Esse near Geraardsbergen."</data>
+      <data key="d5">1840e15e892f37d8a5672e53fc58a73b</data>
+    </edge>
+    <edge source="&quot;LUBLIN VOIVODESHIP&quot;" target="&quot;BI&#321;GORAJ COUNTY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bi&#322;goraj County is part of Lublin Voivodeship."</data>
+      <data key="d5">6c9d7b926645f204345430c463d0be70</data>
+    </edge>
+    <edge source="&quot;BI&#321;GORAJ&quot;" target="&quot;BI&#321;GORAJ COUNTY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bi&#322;goraj is the administrative seat and largest town of Bi&#322;goraj County."</data>
+      <data key="d5">6c9d7b926645f204345430c463d0be70</data>
+    </edge>
+    <edge source="&quot;TARNOGR&#211;D&quot;" target="&quot;BI&#321;GORAJ COUNTY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tarnogr&#243;d is a town in Bi&#322;goraj County."</data>
+      <data key="d5">6c9d7b926645f204345430c463d0be70</data>
+    </edge>
+    <edge source="&quot;J&#211;ZEF&#211;W&quot;" target="&quot;BI&#321;GORAJ COUNTY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"J&#243;zef&#243;w is a town in Bi&#322;goraj County."</data>
+      <data key="d5">6c9d7b926645f204345430c463d0be70</data>
+    </edge>
+    <edge source="&quot;FRAMPOL&quot;" target="&quot;BI&#321;GORAJ COUNTY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Frampol is a town in Bi&#322;goraj County."</data>
+      <data key="d5">6c9d7b926645f204345430c463d0be70</data>
+    </edge>
+    <edge source="&quot;BARON GENERAL HENRI SIMON&quot;" target="&quot;JOSEPH-PHILIPPE SIMON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Joseph-Philippe Simon was the son of Baron General Henri Simon."</data>
+      <data key="d5">3b38562b31186a478c13ffc46ae566ef</data>
+    </edge>
+    <edge source="&quot;TURIN&quot;" target="&quot;JOSEPH-PHILIPPE SIMON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Joseph-Philippe Simon was born in Turin."</data>
+      <data key="d5">3b38562b31186a478c13ffc46ae566ef</data>
+    </edge>
+    <edge source="&quot;OD&#201;ON-TH&#201;&#194;TRE DE L'EUROPE&quot;" target="&quot;JOSEPH-PHILIPPE SIMON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Joseph-Philippe Simon worked as an actor at the Od&#233;on-Th&#233;&#226;tre de l'Europe."</data>
+      <data key="d5">3b38562b31186a478c13ffc46ae566ef</data>
+    </edge>
+    <edge source="&quot;COM&#201;DIE-FRAN&#199;AISE&quot;" target="&quot;JOSEPH-PHILIPPE SIMON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Joseph-Philippe Simon worked as an actor and served as provisional administrator at the Com&#233;die-Fran&#231;aise."</data>
+      <data key="d5">3b38562b31186a478c13ffc46ae566ef</data>
+    </edge>
+    <edge source="&quot;AMERICA&quot;" target="&quot;WAR ON TERROR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"America started the War on Terror, which has caused the death of thousands of innocents in Afghanistan, Iraq, and Pakistan."</data>
+      <data key="d5">a747bb5470021bf176a6900ea04f8fd3</data>
+    </edge>
+    <edge source="&quot;AFGHANISTAN&quot;" target="&quot;WAR ON TERROR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The War on Terror has resulted in the death of thousands of innocents in Afghanistan."</data>
+      <data key="d5">a747bb5470021bf176a6900ea04f8fd3</data>
+    </edge>
+    <edge source="&quot;IRAQ&quot;" target="&quot;WAR ON TERROR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The War on Terror has resulted in the death of thousands of innocents in Iraq."</data>
+      <data key="d5">a747bb5470021bf176a6900ea04f8fd3</data>
+    </edge>
+    <edge source="&quot;PAKISTAN&quot;" target="&quot;WAR ON TERROR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The War on Terror has resulted in the death of thousands of innocents in Pakistan."</data>
+      <data key="d5">a747bb5470021bf176a6900ea04f8fd3</data>
+    </edge>
+    <edge source="&quot;WAR ON TERROR&quot;" target="&quot;ABDUL REHMAN MAKKI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Abdul Rehman Makki has spoken publicly about the War on Terror and its consequences."</data>
+      <data key="d5">a747bb5470021bf176a6900ea04f8fd3</data>
+    </edge>
+    <edge source="&quot;SISTER ALOYSIUS&quot;" target="&quot;CATHOLIC CHURCH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sister Aloysius is the principal of the parish school, which is part of the Catholic Church."</data>
+      <data key="d5">957471484471c2a82f6a5f2823a8f404</data>
+    </edge>
+    <edge source="&quot;SISTER ALOYSIUS&quot;" target="&quot;THE BRONX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sister Aloysius works as principal of the parish school in The Bronx, New York."</data>
+      <data key="d5">957471484471c2a82f6a5f2823a8f404</data>
+    </edge>
+    <edge source="&quot;THE BRONX&quot;" target="&quot;FATHER FLYNN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Father Flynn gives his sermon at a Catholic church in The Bronx, New York."</data>
+      <data key="d5">957471484471c2a82f6a5f2823a8f404</data>
+    </edge>
+    <edge source="&quot;CATHOLIC CHURCH&quot;" target="&quot;FATHER FLYNN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Father Flynn is a priest in the Catholic Church, giving sermons and interacting with the parish school."</data>
+      <data key="d5">957471484471c2a82f6a5f2823a8f404</data>
+    </edge>
+    <edge source="&quot;CATHOLIC CHURCH&quot;" target="&quot;JAN HUS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jan Hus attempted to reform the Catholic Church before Martin Luther."</data>
+      <data key="d5">cae8a505bc47dbdc5e9ddb521bce3e1a</data>
+    </edge>
+    <edge source="&quot;CATHOLIC CHURCH&quot;" target="&quot;PETER WALDO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Peter Waldo attempted to reform the Catholic Church before Martin Luther."</data>
+      <data key="d5">cae8a505bc47dbdc5e9ddb521bce3e1a</data>
+    </edge>
+    <edge source="&quot;CATHOLIC CHURCH&quot;" target="&quot;JOHN WYCLIFFE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"John Wycliffe attempted to reform the Catholic Church before Martin Luther."</data>
+      <data key="d5">cae8a505bc47dbdc5e9ddb521bce3e1a</data>
+    </edge>
+    <edge source="&quot;CATHOLIC CHURCH&quot;" target="&quot;MARTIN LUTHER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Martin Luther criticized the Catholic Church's sale of indulgences and challenged its doctrine, leading to the Protestant Reformation."</data>
+      <data key="d5">cae8a505bc47dbdc5e9ddb521bce3e1a</data>
+    </edge>
+    <edge source="&quot;OBAMA ADMINISTRATION&quot;" target="&quot;111TH CONGRESS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Obama administration encouraged the 111th Congress to enact health care reform."</data>
+      <data key="d5">f7aa7654fd87eb19568c049d7117bb7e</data>
+    </edge>
+    <edge source="&quot;111TH CONGRESS&quot;" target="&quot;UNITED STATES HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The United States House of Representatives worked with the 111th Congress on health care reform."</data>
+      <data key="d5">f7aa7654fd87eb19568c049d7117bb7e</data>
+    </edge>
+    <edge source="&quot;HR 3962&quot;" target="&quot;UNITED STATES HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The United States House of Representatives crafted HR 3962, the Affordable Health Care for America Act."</data>
+      <data key="d5">f7aa7654fd87eb19568c049d7117bb7e</data>
+    </edge>
+    <edge source="&quot;PREFECTURE FOR THE ECONOMIC AFFAIRS OF THE HOLY SEE&quot;" target="&quot;EGIDIO VAGNOZZI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Egidio Vagnozzi served as the president of the Prefecture for the Economic Affairs of the Holy See."</data>
+      <data key="d5">e49617796c4dbd064423c57af7149262</data>
+    </edge>
+    <edge source="&quot;PREFECTURE FOR THE ECONOMIC AFFAIRS OF THE HOLY SEE&quot;" target="&quot;HOLY SEE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Prefecture for the Economic Affairs of the Holy See is a department of the Holy See."</data>
+      <data key="d5">e49617796c4dbd064423c57af7149262</data>
+    </edge>
+    <edge source="&quot;GEORGE WHITEFIELD&quot;" target="&quot;THE REVIVAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"George Whitefield continued the revival movement, traveling throughout the colonies."</data>
+      <data key="d5">1e32fe2b24b1ffd71ddd2e7056998007</data>
+    </edge>
+    <edge source="&quot;GEORGE WHITEFIELD&quot;" target="&quot;JONATHAN EDWARDS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Both Jonathan Edwards and George Whitefield were key figures in the revival movement, although they had different preaching styles."</data>
+      <data key="d5">1e32fe2b24b1ffd71ddd2e7056998007</data>
+    </edge>
+    <edge source="&quot;NORTHAMPTON&quot;" target="&quot;JONATHAN EDWARDS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jonathan Edwards began the revival in Northampton, Massachusetts."</data>
+      <data key="d5">1e32fe2b24b1ffd71ddd2e7056998007</data>
+    </edge>
+    <edge source="&quot;POPE PIUS IX&quot;" target="&quot;IMMACULATE CONCEPTION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Pope Pius IX dogmatized the Immaculate Conception in 1854."</data>
+      <data key="d5">896a702a29cd9f47d5911569ee25d90e</data>
+    </edge>
+    <edge source="&quot;WITTENBERG&quot;" target="&quot;SAXONY-ANHALT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Wittenberg is a district in Saxony-Anhalt."</data>
+      <data key="d5">3d16cfffc517656de8c69a69d63e1f61</data>
+    </edge>
+    <edge source="&quot;WITTENBERG&quot;" target="&quot;ANHALT-BITTERFELD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Wittenberg and Anhalt-Bitterfeld are neighboring districts."</data>
+      <data key="d5">3d16cfffc517656de8c69a69d63e1f61</data>
+    </edge>
+    <edge source="&quot;WITTENBERG&quot;" target="&quot;DESSAU-ROSSLAU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Wittenberg and Dessau-Ro&#223;lau are neighboring entities."</data>
+      <data key="d5">3d16cfffc517656de8c69a69d63e1f61</data>
+    </edge>
+    <edge source="&quot;WITTENBERG&quot;" target="&quot;POTSDAM-MITTELMARK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Wittenberg and Potsdam-Mittelmark are neighboring districts."</data>
+      <data key="d5">3d16cfffc517656de8c69a69d63e1f61</data>
+    </edge>
+    <edge source="&quot;WITTENBERG&quot;" target="&quot;TELTOW-FL&#196;MING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Wittenberg and Teltow-Fl&#228;ming are neighboring districts."</data>
+      <data key="d5">3d16cfffc517656de8c69a69d63e1f61</data>
+    </edge>
+    <edge source="&quot;WITTENBERG&quot;" target="&quot;ELBE-ELSTER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Wittenberg and Elbe-Elster are neighboring districts."</data>
+      <data key="d5">3d16cfffc517656de8c69a69d63e1f61</data>
+    </edge>
+    <edge source="&quot;WITTENBERG&quot;" target="&quot;NORDSACHSEN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Wittenberg and Nordsachsen are neighboring districts."</data>
+      <data key="d5">3d16cfffc517656de8c69a69d63e1f61</data>
+    </edge>
+    <edge source="&quot;MARTIN LUTHER&quot;" target="&quot;PROTESTANT REFORMATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Martin Luther is widely acknowledged to have started the Protestant Reformation with the Ninety-five Theses."</data>
+      <data key="d5">cae8a505bc47dbdc5e9ddb521bce3e1a</data>
+    </edge>
+    <edge source="&quot;KUYAVIAN-POMERANIAN VOIVODESHIP&quot;" target="&quot;&#346;WIECIE COUNTY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#346;wiecie County is a unit of territorial administration and local government within Kuyavian-Pomeranian Voivodeship."</data>
+      <data key="d5">44d8ce56f6c58e3f0a4312a57c1eb3a3</data>
+    </edge>
+    <edge source="&quot;&#346;WIECIE&quot;" target="&quot;&#346;WIECIE COUNTY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#346;wiecie is the administrative seat and largest town of &#346;wiecie County."</data>
+      <data key="d5">44d8ce56f6c58e3f0a4312a57c1eb3a3</data>
+    </edge>
+    <edge source="&quot;&#346;WIECIE&quot;" target="&quot;TORU&#323;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Toru&#324; is a location in relation to &#346;wiecie, situated south of it."</data>
+      <data key="d5">44d8ce56f6c58e3f0a4312a57c1eb3a3</data>
+    </edge>
+    <edge source="&quot;&#346;WIECIE&quot;" target="&quot;BYDGOSZCZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bydgoszcz is a location in relation to &#346;wiecie, situated south-west of it."</data>
+      <data key="d5">44d8ce56f6c58e3f0a4312a57c1eb3a3</data>
+    </edge>
+    <edge source="&quot;NOWE&quot;" target="&quot;&#346;WIECIE COUNTY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nowe is the only other town in &#346;wiecie County."</data>
+      <data key="d5">44d8ce56f6c58e3f0a4312a57c1eb3a3</data>
+    </edge>
+    <edge source="&quot;ROMANS&quot;" target="&quot;LUKE -- ACTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Romans serve as external arbiters in disputes concerning Jewish customs and law, providing legal protection to Christians as described in Luke -- Acts."</data>
+      <data key="d5">b4ba0c3a1fb1b9efeee0cb4cef676604</data>
+    </edge>
+    <edge source="&quot;A.C. MILAN&quot;" target="&quot;EGIDIO CALLONI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Egidio Calloni played for A.C. Milan as a football striker."</data>
+      <data key="d5">43383d2479d305c596a7e90b66856aa7</data>
+    </edge>
+    <edge source="&quot;BUSTO ARSIZIO&quot;" target="&quot;EGIDIO CALLONI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Egidio Calloni was born in Busto Arsizio, Province of Varese, Italy."</data>
+      <data key="d5">43383d2479d305c596a7e90b66856aa7</data>
+    </edge>
+    <edge source="&quot;WATCH TOWER SOCIETY&quot;" target="&quot;JEHOVAH'S WITNESSES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Watch Tower Society provides literature for Jehovah's Witnesses' missionary activities."</data>
+      <data key="d5">6e5be2f5718b612e18ac2b1834bf0832</data>
+    </edge>
+    <edge source="&quot;BIBLE STUDY&quot;" target="&quot;JEHOVAH'S WITNESSES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jehovah's Witnesses conduct Bible studies to recruit new members."</data>
+      <data key="d5">6e5be2f5718b612e18ac2b1834bf0832</data>
+    </edge>
+  </graph>
+</graphml>

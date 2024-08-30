@@ -1,0 +1,933 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;DONALD WETZEL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Donald Wetzel is the designer of the Docuteller, an early ATM system, and is recognized as one of the inventors of the networked ATM."</data>
+      <data key="d2">25cae009390615086579bd775b7bcf93</data>
+    </node>
+    <node id="&quot;DOCUTEL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Docutel is a company that designed and developed the Docuteller, an early ATM system."</data>
+      <data key="d2">25cae009390615086579bd775b7bcf93</data>
+    </node>
+    <node id="&quot;ROCKVILLE CENTRE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Rockville Centre is a location in New York where Chemical Bank installed the first ATM in the U.S."</data>
+      <data key="d2">25cae009390615086579bd775b7bcf93</data>
+    </node>
+    <node id="&quot;SMITHSONIAN NATIONAL MUSEUM OF AMERICAN HISTORY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Smithsonian National Museum of American History recognized Docutel and Wetzel as the inventors of the networked ATM."</data>
+      <data key="d2">25cae009390615086579bd775b7bcf93</data>
+    </node>
+    <node id="&quot;CHEMICAL BANK&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">25cae009390615086579bd775b7bcf93</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">106e7a4fc993bfecd913eef15a32ca3a,189251b3fba20ac80897a382c0890fd9,191f92cef1257c3bac41b204ce6122c0,1a86d443bd43c23da6b24500c3c3505e,24df370f1375367472610404b24c2e8d,25cae009390615086579bd775b7bcf93,352892db718ed359fdc9458f0a7e7f08,3aca8e315796ccb97bf0f72e48fde04e,3f4914fe597ca727b5d332f36154ef44,4ace5152b280fb0e8085afcba8b71404,51da3d601a6898f02d403b9c3c61d63f,54a80dc008961da71f6e19aa43156992,67336fa3a1f219fcc8cb17cc9e54641f,7161e9a0386dcd392cd59195d4188748,778b55cf8893a7d781e9940b9df46356,8fc86ab87501b85f7e5d1220fdbe5ad7,bc57f9185c776bd3db00446960f7c130,d344aaff126cfa6a87c3e9975b07cafb,e817e769714aba0b23b9bd29dab8136d,ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">106e7a4fc993bfecd913eef15a32ca3a,189251b3fba20ac80897a382c0890fd9,191f92cef1257c3bac41b204ce6122c0,1a86d443bd43c23da6b24500c3c3505e,24df370f1375367472610404b24c2e8d,25cae009390615086579bd775b7bcf93,352892db718ed359fdc9458f0a7e7f08,3aca8e315796ccb97bf0f72e48fde04e,3f4914fe597ca727b5d332f36154ef44,4ace5152b280fb0e8085afcba8b71404,51da3d601a6898f02d403b9c3c61d63f,54a80dc008961da71f6e19aa43156992,67336fa3a1f219fcc8cb17cc9e54641f,7161e9a0386dcd392cd59195d4188748,778b55cf8893a7d781e9940b9df46356,8fc86ab87501b85f7e5d1220fdbe5ad7,bc57f9185c776bd3db00446960f7c130,d344aaff126cfa6a87c3e9975b07cafb,e817e769714aba0b23b9bd29dab8136d,ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">106e7a4fc993bfecd913eef15a32ca3a,189251b3fba20ac80897a382c0890fd9,191f92cef1257c3bac41b204ce6122c0,1a86d443bd43c23da6b24500c3c3505e,24df370f1375367472610404b24c2e8d,25cae009390615086579bd775b7bcf93,352892db718ed359fdc9458f0a7e7f08,3aca8e315796ccb97bf0f72e48fde04e,3f4914fe597ca727b5d332f36154ef44,4ace5152b280fb0e8085afcba8b71404,51da3d601a6898f02d403b9c3c61d63f,54a80dc008961da71f6e19aa43156992,67336fa3a1f219fcc8cb17cc9e54641f,7161e9a0386dcd392cd59195d4188748,778b55cf8893a7d781e9940b9df46356,8fc86ab87501b85f7e5d1220fdbe5ad7,bc57f9185c776bd3db00446960f7c130,d344aaff126cfa6a87c3e9975b07cafb,e817e769714aba0b23b9bd29dab8136d,ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">106e7a4fc993bfecd913eef15a32ca3a,189251b3fba20ac80897a382c0890fd9,191f92cef1257c3bac41b204ce6122c0,1a86d443bd43c23da6b24500c3c3505e,24df370f1375367472610404b24c2e8d,25cae009390615086579bd775b7bcf93,352892db718ed359fdc9458f0a7e7f08,3aca8e315796ccb97bf0f72e48fde04e,3f4914fe597ca727b5d332f36154ef44,4ace5152b280fb0e8085afcba8b71404,51da3d601a6898f02d403b9c3c61d63f,54a80dc008961da71f6e19aa43156992,67336fa3a1f219fcc8cb17cc9e54641f,7161e9a0386dcd392cd59195d4188748,778b55cf8893a7d781e9940b9df46356,8fc86ab87501b85f7e5d1220fdbe5ad7,bc57f9185c776bd3db00446960f7c130,d344aaff126cfa6a87c3e9975b07cafb,e817e769714aba0b23b9bd29dab8136d,ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country where Tucson, Pima County, and Arizona are located. It is also the primary market for Bank of America's operations, with a significant presence in all 50 states and the District of Columbia. Additionally, FleetBoston Financial operates in the United States.</data>
+      <data key="d2">106e7a4fc993bfecd913eef15a32ca3a,189251b3fba20ac80897a382c0890fd9,191f92cef1257c3bac41b204ce6122c0,1a86d443bd43c23da6b24500c3c3505e,24df370f1375367472610404b24c2e8d,25cae009390615086579bd775b7bcf93,352892db718ed359fdc9458f0a7e7f08,3aca8e315796ccb97bf0f72e48fde04e,3f4914fe597ca727b5d332f36154ef44,4ace5152b280fb0e8085afcba8b71404,51da3d601a6898f02d403b9c3c61d63f,54a80dc008961da71f6e19aa43156992,67336fa3a1f219fcc8cb17cc9e54641f,7161e9a0386dcd392cd59195d4188748,778b55cf8893a7d781e9940b9df46356,8fc86ab87501b85f7e5d1220fdbe5ad7,bc57f9185c776bd3db00446960f7c130,d344aaff126cfa6a87c3e9975b07cafb,e817e769714aba0b23b9bd29dab8136d,ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">106e7a4fc993bfecd913eef15a32ca3a,189251b3fba20ac80897a382c0890fd9,191f92cef1257c3bac41b204ce6122c0,1a86d443bd43c23da6b24500c3c3505e,24df370f1375367472610404b24c2e8d,25cae009390615086579bd775b7bcf93,352892db718ed359fdc9458f0a7e7f08,3aca8e315796ccb97bf0f72e48fde04e,3f4914fe597ca727b5d332f36154ef44,4ace5152b280fb0e8085afcba8b71404,51da3d601a6898f02d403b9c3c61d63f,54a80dc008961da71f6e19aa43156992,67336fa3a1f219fcc8cb17cc9e54641f,7161e9a0386dcd392cd59195d4188748,778b55cf8893a7d781e9940b9df46356,8fc86ab87501b85f7e5d1220fdbe5ad7,bc57f9185c776bd3db00446960f7c130,d344aaff126cfa6a87c3e9975b07cafb,e817e769714aba0b23b9bd29dab8136d,ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">106e7a4fc993bfecd913eef15a32ca3a,189251b3fba20ac80897a382c0890fd9,191f92cef1257c3bac41b204ce6122c0,1a86d443bd43c23da6b24500c3c3505e,24df370f1375367472610404b24c2e8d,25cae009390615086579bd775b7bcf93,352892db718ed359fdc9458f0a7e7f08,3aca8e315796ccb97bf0f72e48fde04e,3f4914fe597ca727b5d332f36154ef44,4ace5152b280fb0e8085afcba8b71404,51da3d601a6898f02d403b9c3c61d63f,54a80dc008961da71f6e19aa43156992,67336fa3a1f219fcc8cb17cc9e54641f,7161e9a0386dcd392cd59195d4188748,778b55cf8893a7d781e9940b9df46356,8fc86ab87501b85f7e5d1220fdbe5ad7,bc57f9185c776bd3db00446960f7c130,d344aaff126cfa6a87c3e9975b07cafb,e817e769714aba0b23b9bd29dab8136d,ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">106e7a4fc993bfecd913eef15a32ca3a,189251b3fba20ac80897a382c0890fd9,191f92cef1257c3bac41b204ce6122c0,1a86d443bd43c23da6b24500c3c3505e,24df370f1375367472610404b24c2e8d,25cae009390615086579bd775b7bcf93,352892db718ed359fdc9458f0a7e7f08,3aca8e315796ccb97bf0f72e48fde04e,3f4914fe597ca727b5d332f36154ef44,4ace5152b280fb0e8085afcba8b71404,51da3d601a6898f02d403b9c3c61d63f,54a80dc008961da71f6e19aa43156992,67336fa3a1f219fcc8cb17cc9e54641f,7161e9a0386dcd392cd59195d4188748,778b55cf8893a7d781e9940b9df46356,8fc86ab87501b85f7e5d1220fdbe5ad7,bc57f9185c776bd3db00446960f7c130,d344aaff126cfa6a87c3e9975b07cafb,e817e769714aba0b23b9bd29dab8136d,ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">106e7a4fc993bfecd913eef15a32ca3a,189251b3fba20ac80897a382c0890fd9,191f92cef1257c3bac41b204ce6122c0,1a86d443bd43c23da6b24500c3c3505e,24df370f1375367472610404b24c2e8d,25cae009390615086579bd775b7bcf93,352892db718ed359fdc9458f0a7e7f08,3aca8e315796ccb97bf0f72e48fde04e,3f4914fe597ca727b5d332f36154ef44,4ace5152b280fb0e8085afcba8b71404,51da3d601a6898f02d403b9c3c61d63f,54a80dc008961da71f6e19aa43156992,67336fa3a1f219fcc8cb17cc9e54641f,7161e9a0386dcd392cd59195d4188748,778b55cf8893a7d781e9940b9df46356,8fc86ab87501b85f7e5d1220fdbe5ad7,bc57f9185c776bd3db00446960f7c130,d344aaff126cfa6a87c3e9975b07cafb,e817e769714aba0b23b9bd29dab8136d,ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">106e7a4fc993bfecd913eef15a32ca3a,189251b3fba20ac80897a382c0890fd9,191f92cef1257c3bac41b204ce6122c0,1a86d443bd43c23da6b24500c3c3505e,24df370f1375367472610404b24c2e8d,25cae009390615086579bd775b7bcf93,352892db718ed359fdc9458f0a7e7f08,3aca8e315796ccb97bf0f72e48fde04e,3f4914fe597ca727b5d332f36154ef44,4ace5152b280fb0e8085afcba8b71404,51da3d601a6898f02d403b9c3c61d63f,54a80dc008961da71f6e19aa43156992,67336fa3a1f219fcc8cb17cc9e54641f,7161e9a0386dcd392cd59195d4188748,778b55cf8893a7d781e9940b9df46356,8fc86ab87501b85f7e5d1220fdbe5ad7,bc57f9185c776bd3db00446960f7c130,d344aaff126cfa6a87c3e9975b07cafb,e817e769714aba0b23b9bd29dab8136d,ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </node>
+    <node id="&quot;INDIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+"India is a country where several banks operate, including RBL Bank, which has its branches and ATMs located there. Additionally, The Bank also operates in India, and it is also the headquarters and primary location for Union Bank of India's branches."</data>
+      <data key="d2">3aca8e315796ccb97bf0f72e48fde04e,54a80dc008961da71f6e19aa43156992,7161e9a0386dcd392cd59195d4188748</data>
+    </node>
+    <node id="&quot;RBL BANK&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7161e9a0386dcd392cd59195d4188748</data>
+    </node>
+    <node id="&quot;TDR CAPITAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"TDR Capital is a private equity group that bought PizzaExpress in 2003, taking it private again."</data>
+      <data key="d2">51da3d601a6898f02d403b9c3c61d63f</data>
+    </node>
+    <node id="&quot;CAPRICORN ASSOCIATES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Capricorn Associates is an investment firm that co-bought PizzaExpress with TDR Capital in 2003."</data>
+      <data key="d2">51da3d601a6898f02d403b9c3c61d63f</data>
+    </node>
+    <node id="&quot;CINVEN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Cinven is a private equity group that bought PizzaExpress as part of the Gondola Group in 2007."</data>
+      <data key="d2">51da3d601a6898f02d403b9c3c61d63f</data>
+    </node>
+    <node id="&quot;HONY CAPITAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Hony Capital is a Chinese investment firm that bought PizzaExpress for &#163;900m in 2014."</data>
+      <data key="d2">51da3d601a6898f02d403b9c3c61d63f</data>
+    </node>
+    <node id="&quot;GONDOLA HOLDINGS PLC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Gondola Holdings PLC is a holding company that owned PizzaExpress after it floated on the London Stock Exchange in 2005."</data>
+      <data key="d2">51da3d601a6898f02d403b9c3c61d63f</data>
+    </node>
+    <node id="&quot;LONDON STOCK EXCHANGE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The London Stock Exchange is a stock exchange where PizzaExpress has been listed multiple times."</data>
+      <data key="d2">51da3d601a6898f02d403b9c3c61d63f</data>
+    </node>
+    <node id="&quot;PIZZAEXPRESS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">51da3d601a6898f02d403b9c3c61d63f</data>
+    </node>
+    <node id="&quot;ARTHUR FRASER WALTER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Arthur Fraser Walter was the editor of The Times during its financial struggles in 1890."</data>
+      <data key="d2">ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </node>
+    <node id="&quot;CHARLES FREDERIC MOBERLY BELL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Charles Frederic Moberly Bell is credited with rescuing The Times from financial extinction and introducing aggressive marketing methods."</data>
+      <data key="d2">ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </node>
+    <node id="&quot;HORACE EVERETT HOOPER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Horace Everett Hooper introduced American marketing methods to The Times, which were used to sell the Encyclop&#230;dia Britannica."</data>
+      <data key="d2">ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </node>
+    <node id="&quot;HENRY HAXTON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Henry Haxton was an advertising executive who worked with Horace Everett Hooper to promote the Encyclop&#230;dia Britannica."</data>
+      <data key="d2">ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </node>
+    <node id="&quot;WALTER MONTGOMERY JACKSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Walter Montgomery Jackson was one of the owners of the Encyclop&#230;dia Britannica, involved in legal fights over its ownership."</data>
+      <data key="d2">ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </node>
+    <node id="&quot;ALFRED HARMSWORTH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alfred Harmsworth, later Lord Northcliffe, bought The Times in 1908 and is considered a pioneering newspaper magnate."</data>
+      <data key="d2">ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </node>
+    <node id="&quot;THE TIMES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </node>
+    <node id="&quot;ENCYCLOP&#198;DIA BRITANNICA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </node>
+    <node id="&quot;MIT SLOAN SCHOOL OF MANAGEMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"MIT Sloan School of Management is an educational institution where William F. Pounds was a professor emeritus and served as Dean from 1966-1980."</data>
+      <data key="d2">bc57f9185c776bd3db00446960f7c130</data>
+    </node>
+    <node id="&quot;ROCKEFELLER FAMILY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Rockefeller family is a prominent family that William F. Pounds advised financially and held executive positions in their holdings."</data>
+      <data key="d2">bc57f9185c776bd3db00446960f7c130</data>
+    </node>
+    <node id="&quot;WILLIAM F. POUNDS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">bc57f9185c776bd3db00446960f7c130</data>
+    </node>
+    <node id="&quot;FLEETBOSTON FINANCIAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+FleetBoston Financial is a local financial institution based in Boston that was acquired by Bank of America in 2004.
+
+Let me know if you need anything else!</data>
+      <data key="d2">24df370f1375367472610404b24c2e8d,e817e769714aba0b23b9bd29dab8136d</data>
+    </node>
+    <node id="&quot;BOSTON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Boston is a city that contains the Financial District and was also the base of operations for FleetBoston Financial.</data>
+      <data key="d2">24df370f1375367472610404b24c2e8d,778b55cf8893a7d781e9940b9df46356,e817e769714aba0b23b9bd29dab8136d</data>
+    </node>
+    <node id="&quot;BANK OF AMERICA&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Bank of America is a financial institution based in Charlotte that acquired FleetBoston Financial in 2004.</data>
+      <data key="d2">24df370f1375367472610404b24c2e8d,8fc86ab87501b85f7e5d1220fdbe5ad7,e817e769714aba0b23b9bd29dab8136d</data>
+    </node>
+    <node id="&quot;JAMES MTUME&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"James Mtume is a producer who worked on Stephanie Mills' album Tantalizingly Hot."</data>
+      <data key="d2">189251b3fba20ac80897a382c0890fd9</data>
+    </node>
+    <node id="&quot;REGGIE LUCAS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Reggie Lucas is a producer who worked on Stephanie Mills' album Tantalizingly Hot."</data>
+      <data key="d2">189251b3fba20ac80897a382c0890fd9</data>
+    </node>
+    <node id="&quot;ASHFORD &amp; SIMPSON&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ashford &amp; Simpson are producers who worked on Stephanie Mills' album Tantalizingly Hot."</data>
+      <data key="d2">189251b3fba20ac80897a382c0890fd9</data>
+    </node>
+    <node id="&quot;MARVIN DAVIS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Marvin Davis is an oil magnate and industrialist who bought Twentieth Century-Fox Film Corporation in 1981."</data>
+      <data key="d2">189251b3fba20ac80897a382c0890fd9</data>
+    </node>
+    <node id="&quot;MARC RICH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Marc Rich is a financier who bought Twentieth Century-Fox Film Corporation in 1981."</data>
+      <data key="d2">189251b3fba20ac80897a382c0890fd9</data>
+    </node>
+    <node id="&quot;CASABLANCA RECORDS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Casablanca Records is the label that released Stephanie Mills' album Tantalizingly Hot."</data>
+      <data key="d2">189251b3fba20ac80897a382c0890fd9</data>
+    </node>
+    <node id="&quot;20TH CENTURY-FOX RECORDS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"20th Century-Fox Records is a record label that was owned by Twentieth Century-Fox Film Corporation."</data>
+      <data key="d2">189251b3fba20ac80897a382c0890fd9</data>
+    </node>
+    <node id="&quot;TWENTIETH CENTURY-FOX FILM CORPORATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Twentieth Century-Fox Film Corporation is a film corporation that owns 20th Century-Fox Records and was bought by Marvin Davis and Marc Rich in 1981."</data>
+      <data key="d2">189251b3fba20ac80897a382c0890fd9</data>
+    </node>
+    <node id="&quot;STEPHANIE MILLS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">189251b3fba20ac80897a382c0890fd9</data>
+    </node>
+    <node id="&quot;ATMS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ATMs are automated machines used by individuals to access and manage their bank accounts, particularly in Japan."</data>
+      <data key="d2">352892db718ed359fdc9458f0a7e7f08</data>
+    </node>
+    <node id="&quot;JAPAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">352892db718ed359fdc9458f0a7e7f08</data>
+    </node>
+    <node id="&quot;TELEFE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Telefe is an Argentine television network that produced Los Rold&#225;n."</data>
+      <data key="d2">4ace5152b280fb0e8085afcba8b71404</data>
+    </node>
+    <node id="&quot;ARGENTINA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Argentina is the country where Los Rold&#225;n was produced and won an award as Comedy of the Year in 2004."</data>
+      <data key="d2">4ace5152b280fb0e8085afcba8b71404</data>
+    </node>
+    <node id="&quot;RCN COLOMBIAN NETWORK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"RCN Colombian network bought the rights to produce a Colombian version of Los Rold&#225;n called 'Los Reyes'."</data>
+      <data key="d2">4ace5152b280fb0e8085afcba8b71404</data>
+    </node>
+    <node id="&quot;TV AZTECA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"TV Azteca produced the Mexican version of Los Rold&#225;n, called 'Los S&#225;nchez'."</data>
+      <data key="d2">4ace5152b280fb0e8085afcba8b71404</data>
+    </node>
+    <node id="&quot;COMEDY OF THE YEAR AWARD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Comedy of the Year award was won by Los Rold&#225;n in 2004."</data>
+      <data key="d2">4ace5152b280fb0e8085afcba8b71404</data>
+    </node>
+    <node id="&quot;LOS ROLD&#193;N&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4ace5152b280fb0e8085afcba8b71404</data>
+    </node>
+    <node id="&quot;ATLANTIC AVENUE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Atlantic Avenue is a street that bounds the Financial District."</data>
+      <data key="d2">778b55cf8893a7d781e9940b9df46356</data>
+    </node>
+    <node id="&quot;STATE STREET&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"State Street is a street that bounds the Financial District."</data>
+      <data key="d2">778b55cf8893a7d781e9940b9df46356</data>
+    </node>
+    <node id="&quot;DEVONSHIRE STREET&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Devonshire Street is a street that bounds the Financial District."</data>
+      <data key="d2">778b55cf8893a7d781e9940b9df46356</data>
+    </node>
+    <node id="&quot;FINANCIAL DISTRICT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">778b55cf8893a7d781e9940b9df46356</data>
+    </node>
+    <node id="&quot;GOODWOOD GROUP&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Goodwood Group is a company that owns boutique hotels in London and Singapore, founded by Tan Sri Khoo Teck Puat."</data>
+      <data key="d2">3f4914fe597ca727b5d332f36154ef44</data>
+    </node>
+    <node id="&quot;STANDARD CHARTERED&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Standard Chartered is a British bank where Tan Sri Khoo Teck Puat was the largest single shareholder."</data>
+      <data key="d2">3f4914fe597ca727b5d332f36154ef44</data>
+    </node>
+    <node id="&quot;LLOYDS BANK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Lloyds Bank is a financial institution that proposed an acquisition of Standard Chartered, which was deemed hostile by many financiers."</data>
+      <data key="d2">3f4914fe597ca727b5d332f36154ef44</data>
+    </node>
+    <node id="&quot;GOODWOOD PARK HOTEL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Goodwood Park Hotel is a historic landmark in Singapore built in 1900 and restored by Tan Sri Khoo Teck Puat."</data>
+      <data key="d2">3f4914fe597ca727b5d332f36154ef44</data>
+    </node>
+    <node id="&quot;TAN SRI KHOO TECK PUAT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3f4914fe597ca727b5d332f36154ef44</data>
+    </node>
+    <node id="&quot;FEDERAL RESERVE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Federal Reserve is a key organization that failed to stem the tide of toxic mortgages, contributing to the financial crisis."</data>
+      <data key="d2">1a86d443bd43c23da6b24500c3c3505e</data>
+    </node>
+    <node id="&quot;WALL STREET&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Wall Street is a geographic location where excessive borrowing and risk-taking by financial firms contributed to the financial crisis."</data>
+      <data key="d2">1a86d443bd43c23da6b24500c3c3505e</data>
+    </node>
+    <node id="&quot;U.S. FINANCIAL CRISIS INQUIRY COMMISSION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1a86d443bd43c23da6b24500c3c3505e</data>
+    </node>
+    <node id="&quot;FINANCIAL CRISIS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1a86d443bd43c23da6b24500c3c3505e</data>
+    </node>
+    <node id="&quot;ALFRED HITCHCOCK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alfred Hitchcock bought Henry Slesar's story 'M Is for the Many' for adaptation, leading to successful collaborations."</data>
+      <data key="d2">d344aaff126cfa6a87c3e9975b07cafb</data>
+    </node>
+    <node id="&quot;ELLERY QUEEN'S MYSTERY MAGAZINE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ellery Queen's Mystery Magazine is a publication where Henry Slesar's story 'M Is for the Many' was first published."</data>
+      <data key="d2">d344aaff126cfa6a87c3e9975b07cafb</data>
+    </node>
+    <node id="&quot;TV GUIDE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"TV Guide called Henry Slesar 'the writer with the largest audience in America'."</data>
+      <data key="d2">d344aaff126cfa6a87c3e9975b07cafb</data>
+    </node>
+    <node id="&quot;HENRY SLESAR&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d344aaff126cfa6a87c3e9975b07cafb</data>
+    </node>
+    <node id="&quot;HONG KONG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hong Kong is one of the overseas locations where Union Bank of India has a branch."</data>
+      <data key="d2">54a80dc008961da71f6e19aa43156992</data>
+    </node>
+    <node id="&quot;DUBAI INTERNATIONAL FINANCIAL CENTRE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Dubai International Financial Centre is one of the overseas locations where Union Bank of India has a branch."</data>
+      <data key="d2">54a80dc008961da71f6e19aa43156992</data>
+    </node>
+    <node id="&quot;ANTWERP&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Antwerp is one of the overseas locations where Union Bank of India has a branch."</data>
+      <data key="d2">54a80dc008961da71f6e19aa43156992</data>
+    </node>
+    <node id="&quot;SYDNEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Sydney is one of the overseas locations where Union Bank of India has a branch."</data>
+      <data key="d2">54a80dc008961da71f6e19aa43156992</data>
+    </node>
+    <node id="&quot;SHANGHAI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Shanghai is one of the cities where Union Bank of India has a representative office."</data>
+      <data key="d2">54a80dc008961da71f6e19aa43156992</data>
+    </node>
+    <node id="&quot;BEIJING&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Beijing is one of the cities where Union Bank of India has a representative office."</data>
+      <data key="d2">54a80dc008961da71f6e19aa43156992</data>
+    </node>
+    <node id="&quot;ABU DHABI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Abu Dhabi is one of the cities where Union Bank of India has a representative office."</data>
+      <data key="d2">54a80dc008961da71f6e19aa43156992</data>
+    </node>
+    <node id="&quot;UNITED KINGDOM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United Kingdom is a country where Union Bank of India operates through its wholly owned subsidiary, Union Bank of India (UK)."</data>
+      <data key="d2">54a80dc008961da71f6e19aa43156992</data>
+    </node>
+    <node id="&quot;UNION BANK OF INDIA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">54a80dc008961da71f6e19aa43156992</data>
+    </node>
+    <node id="&quot;THE BOSTON GLOBE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Boston Globe is a regional institution that was acquired by The New York Times."</data>
+      <data key="d2">24df370f1375367472610404b24c2e8d</data>
+    </node>
+    <node id="&quot;THE NEW YORK TIMES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The New York Times is a media organization that acquired The Boston Globe."</data>
+      <data key="d2">24df370f1375367472610404b24c2e8d</data>
+    </node>
+    <node id="&quot;JORDAN MARSH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Jordan Marsh is a Boston-based department store that was merged into Macy's."</data>
+      <data key="d2">24df370f1375367472610404b24c2e8d</data>
+    </node>
+    <node id="&quot;FILENE'S&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Filene's is a Boston-based department store that was merged into Macy's."</data>
+      <data key="d2">24df370f1375367472610404b24c2e8d</data>
+    </node>
+    <node id="&quot;MACY'S&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Macy's is a Cincinnati-based department store that acquired Jordan Marsh and Filene's."</data>
+      <data key="d2">24df370f1375367472610404b24c2e8d</data>
+    </node>
+    <node id="&quot;FRANCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"France is a country where Groupement des Cartes Bancaires CB operates as the national interbank network."</data>
+      <data key="d2">191f92cef1257c3bac41b204ce6122c0</data>
+    </node>
+    <node id="&quot;GROUPEMENT DES CARTES BANCAIRES CB&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">191f92cef1257c3bac41b204ce6122c0</data>
+    </node>
+    <node id="&quot;INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The International Organization for Standardization (ISO) is the parent organization of ISO/TC 68, responsible for standardization in various fields."</data>
+      <data key="d2">106e7a4fc993bfecd913eef15a32ca3a</data>
+    </node>
+    <node id="&quot;GENEVA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Geneva is a location where the International Organization for Standardization (ISO) is based."</data>
+      <data key="d2">106e7a4fc993bfecd913eef15a32ca3a</data>
+    </node>
+    <node id="&quot;SWITZERLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Switzerland is a country where Geneva, the base of ISO, is located."</data>
+      <data key="d2">106e7a4fc993bfecd913eef15a32ca3a</data>
+    </node>
+    <node id="&quot;ISO/TC 68&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">106e7a4fc993bfecd913eef15a32ca3a</data>
+    </node>
+    <node id="&quot;IBM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"IBM is a company that has held the record for most patents generated by a business for 22 consecutive years and has notable inventions and developments."</data>
+      <data key="d2">67336fa3a1f219fcc8cb17cc9e54641f</data>
+    </node>
+    <node id="&quot;NOBEL PRIZE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Nobel Prize is an award won by IBM employees, recognizing their outstanding contributions in various fields."</data>
+      <data key="d2">67336fa3a1f219fcc8cb17cc9e54641f</data>
+    </node>
+    <node id="&quot;TURING AWARD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Turing Award is a prestigious award won by IBM employees, acknowledging their achievements in computer science."</data>
+      <data key="d2">67336fa3a1f219fcc8cb17cc9e54641f</data>
+    </node>
+    <node id="&quot;NATIONAL MEDAL OF TECHNOLOGY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The National Medal of Technology is an award won by IBM employees, recognizing their contributions to technological advancements."</data>
+      <data key="d2">67336fa3a1f219fcc8cb17cc9e54641f</data>
+    </node>
+    <node id="&quot;NATIONAL MEDAL OF SCIENCE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The National Medal of Science is an award won by IBM employees, acknowledging their achievements in scientific research."</data>
+      <data key="d2">67336fa3a1f219fcc8cb17cc9e54641f</data>
+    </node>
+    <node id="&quot;WATSON ARTIFICIAL INTELLIGENCE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Watson artificial intelligence is a notable invention developed by IBM, showcasing its capabilities in AI research."</data>
+      <data key="d2">67336fa3a1f219fcc8cb17cc9e54641f</data>
+    </node>
+    <node id="&quot;IBM RESEARCH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">67336fa3a1f219fcc8cb17cc9e54641f</data>
+    </node>
+    <node id="&quot;MERRILL LYNCH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Merrill Lynch is an investment bank acquired by Bank of America in 2008, solidifying its position as a Bulge Bracket bank."</data>
+      <data key="d2">8fc86ab87501b85f7e5d1220fdbe5ad7</data>
+    </node>
+    <node id="&quot;CITIGROUP&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Citigroup is one of the main competitors of Bank of America in the United States."</data>
+      <data key="d2">8fc86ab87501b85f7e5d1220fdbe5ad7</data>
+    </node>
+    <node id="&quot;JPMORGAN CHASE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"JPMorgan Chase is one of the main competitors of Bank of America in the United States."</data>
+      <data key="d2">8fc86ab87501b85f7e5d1220fdbe5ad7</data>
+    </node>
+    <node id="&quot;WELLS FARGO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Wells Fargo is one of the main competitors of Bank of America in the United States."</data>
+      <data key="d2">8fc86ab87501b85f7e5d1220fdbe5ad7</data>
+    </node>
+    <edge source="&quot;DONALD WETZEL&quot;" target="&quot;CHEMICAL BANK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chemical Bank worked with Donald Wetzel and his company Docutel to design and install the first ATM."</data>
+      <data key="d5">25cae009390615086579bd775b7bcf93</data>
+    </edge>
+    <edge source="&quot;DONALD WETZEL&quot;" target="&quot;DOCUTEL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Donald Wetzel is the founder of Docutel, a company that designed and developed the Docuteller, an early ATM system."</data>
+      <data key="d5">25cae009390615086579bd775b7bcf93</data>
+    </edge>
+    <edge source="&quot;DONALD WETZEL&quot;" target="&quot;SMITHSONIAN NATIONAL MUSEUM OF AMERICAN HISTORY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Smithsonian National Museum of American History recognized Donald Wetzel as one of the inventors of the networked ATM."</data>
+      <data key="d5">25cae009390615086579bd775b7bcf93</data>
+    </edge>
+    <edge source="&quot;ROCKVILLE CENTRE&quot;" target="&quot;CHEMICAL BANK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The first ATM was installed by Chemical Bank at its branch in Rockville Centre, New York."</data>
+      <data key="d5">25cae009390615086579bd775b7bcf93</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">106e7a4fc993bfecd913eef15a32ca3a,189251b3fba20ac80897a382c0890fd9,191f92cef1257c3bac41b204ce6122c0,1a86d443bd43c23da6b24500c3c3505e,24df370f1375367472610404b24c2e8d,25cae009390615086579bd775b7bcf93,352892db718ed359fdc9458f0a7e7f08,3aca8e315796ccb97bf0f72e48fde04e,3f4914fe597ca727b5d332f36154ef44,4ace5152b280fb0e8085afcba8b71404,51da3d601a6898f02d403b9c3c61d63f,54a80dc008961da71f6e19aa43156992,67336fa3a1f219fcc8cb17cc9e54641f,7161e9a0386dcd392cd59195d4188748,778b55cf8893a7d781e9940b9df46356,8fc86ab87501b85f7e5d1220fdbe5ad7,bc57f9185c776bd3db00446960f7c130,d344aaff126cfa6a87c3e9975b07cafb,e817e769714aba0b23b9bd29dab8136d,ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">106e7a4fc993bfecd913eef15a32ca3a,189251b3fba20ac80897a382c0890fd9,191f92cef1257c3bac41b204ce6122c0,1a86d443bd43c23da6b24500c3c3505e,24df370f1375367472610404b24c2e8d,25cae009390615086579bd775b7bcf93,352892db718ed359fdc9458f0a7e7f08,3aca8e315796ccb97bf0f72e48fde04e,3f4914fe597ca727b5d332f36154ef44,4ace5152b280fb0e8085afcba8b71404,51da3d601a6898f02d403b9c3c61d63f,54a80dc008961da71f6e19aa43156992,67336fa3a1f219fcc8cb17cc9e54641f,7161e9a0386dcd392cd59195d4188748,778b55cf8893a7d781e9940b9df46356,8fc86ab87501b85f7e5d1220fdbe5ad7,bc57f9185c776bd3db00446960f7c130,d344aaff126cfa6a87c3e9975b07cafb,e817e769714aba0b23b9bd29dab8136d,ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">106e7a4fc993bfecd913eef15a32ca3a,189251b3fba20ac80897a382c0890fd9,191f92cef1257c3bac41b204ce6122c0,1a86d443bd43c23da6b24500c3c3505e,24df370f1375367472610404b24c2e8d,25cae009390615086579bd775b7bcf93,352892db718ed359fdc9458f0a7e7f08,3aca8e315796ccb97bf0f72e48fde04e,3f4914fe597ca727b5d332f36154ef44,4ace5152b280fb0e8085afcba8b71404,51da3d601a6898f02d403b9c3c61d63f,54a80dc008961da71f6e19aa43156992,67336fa3a1f219fcc8cb17cc9e54641f,7161e9a0386dcd392cd59195d4188748,778b55cf8893a7d781e9940b9df46356,8fc86ab87501b85f7e5d1220fdbe5ad7,bc57f9185c776bd3db00446960f7c130,d344aaff126cfa6a87c3e9975b07cafb,e817e769714aba0b23b9bd29dab8136d,ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">106e7a4fc993bfecd913eef15a32ca3a,189251b3fba20ac80897a382c0890fd9,191f92cef1257c3bac41b204ce6122c0,1a86d443bd43c23da6b24500c3c3505e,24df370f1375367472610404b24c2e8d,25cae009390615086579bd775b7bcf93,352892db718ed359fdc9458f0a7e7f08,3aca8e315796ccb97bf0f72e48fde04e,3f4914fe597ca727b5d332f36154ef44,4ace5152b280fb0e8085afcba8b71404,51da3d601a6898f02d403b9c3c61d63f,54a80dc008961da71f6e19aa43156992,67336fa3a1f219fcc8cb17cc9e54641f,7161e9a0386dcd392cd59195d4188748,778b55cf8893a7d781e9940b9df46356,8fc86ab87501b85f7e5d1220fdbe5ad7,bc57f9185c776bd3db00446960f7c130,d344aaff126cfa6a87c3e9975b07cafb,e817e769714aba0b23b9bd29dab8136d,ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">106e7a4fc993bfecd913eef15a32ca3a,189251b3fba20ac80897a382c0890fd9,191f92cef1257c3bac41b204ce6122c0,1a86d443bd43c23da6b24500c3c3505e,24df370f1375367472610404b24c2e8d,25cae009390615086579bd775b7bcf93,352892db718ed359fdc9458f0a7e7f08,3aca8e315796ccb97bf0f72e48fde04e,3f4914fe597ca727b5d332f36154ef44,4ace5152b280fb0e8085afcba8b71404,51da3d601a6898f02d403b9c3c61d63f,54a80dc008961da71f6e19aa43156992,67336fa3a1f219fcc8cb17cc9e54641f,7161e9a0386dcd392cd59195d4188748,778b55cf8893a7d781e9940b9df46356,8fc86ab87501b85f7e5d1220fdbe5ad7,bc57f9185c776bd3db00446960f7c130,d344aaff126cfa6a87c3e9975b07cafb,e817e769714aba0b23b9bd29dab8136d,ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">106e7a4fc993bfecd913eef15a32ca3a,189251b3fba20ac80897a382c0890fd9,191f92cef1257c3bac41b204ce6122c0,1a86d443bd43c23da6b24500c3c3505e,24df370f1375367472610404b24c2e8d,25cae009390615086579bd775b7bcf93,352892db718ed359fdc9458f0a7e7f08,3aca8e315796ccb97bf0f72e48fde04e,3f4914fe597ca727b5d332f36154ef44,4ace5152b280fb0e8085afcba8b71404,51da3d601a6898f02d403b9c3c61d63f,54a80dc008961da71f6e19aa43156992,67336fa3a1f219fcc8cb17cc9e54641f,7161e9a0386dcd392cd59195d4188748,778b55cf8893a7d781e9940b9df46356,8fc86ab87501b85f7e5d1220fdbe5ad7,bc57f9185c776bd3db00446960f7c130,d344aaff126cfa6a87c3e9975b07cafb,e817e769714aba0b23b9bd29dab8136d,ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;FLEETBOSTON FINANCIAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"FleetBoston Financial operated in the United States and was one of the largest banks in the country at the time of its acquisition."</data>
+      <data key="d5">e817e769714aba0b23b9bd29dab8136d</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;BANK OF AMERICA&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Here is the comprehensive summary:
+
+Bank of America, operating in the United States, has a significant retail banking footprint across all 50 states and the District of Columbia. The bank's presence in the country was further expanded through its acquisition of FleetBoston Financial.</data>
+      <data key="d5">8fc86ab87501b85f7e5d1220fdbe5ad7,e817e769714aba0b23b9bd29dab8136d</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">106e7a4fc993bfecd913eef15a32ca3a,189251b3fba20ac80897a382c0890fd9,191f92cef1257c3bac41b204ce6122c0,1a86d443bd43c23da6b24500c3c3505e,24df370f1375367472610404b24c2e8d,25cae009390615086579bd775b7bcf93,352892db718ed359fdc9458f0a7e7f08,3aca8e315796ccb97bf0f72e48fde04e,3f4914fe597ca727b5d332f36154ef44,4ace5152b280fb0e8085afcba8b71404,51da3d601a6898f02d403b9c3c61d63f,54a80dc008961da71f6e19aa43156992,67336fa3a1f219fcc8cb17cc9e54641f,7161e9a0386dcd392cd59195d4188748,778b55cf8893a7d781e9940b9df46356,8fc86ab87501b85f7e5d1220fdbe5ad7,bc57f9185c776bd3db00446960f7c130,d344aaff126cfa6a87c3e9975b07cafb,e817e769714aba0b23b9bd29dab8136d,ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">106e7a4fc993bfecd913eef15a32ca3a,189251b3fba20ac80897a382c0890fd9,191f92cef1257c3bac41b204ce6122c0,1a86d443bd43c23da6b24500c3c3505e,24df370f1375367472610404b24c2e8d,25cae009390615086579bd775b7bcf93,352892db718ed359fdc9458f0a7e7f08,3aca8e315796ccb97bf0f72e48fde04e,3f4914fe597ca727b5d332f36154ef44,4ace5152b280fb0e8085afcba8b71404,51da3d601a6898f02d403b9c3c61d63f,54a80dc008961da71f6e19aa43156992,67336fa3a1f219fcc8cb17cc9e54641f,7161e9a0386dcd392cd59195d4188748,778b55cf8893a7d781e9940b9df46356,8fc86ab87501b85f7e5d1220fdbe5ad7,bc57f9185c776bd3db00446960f7c130,d344aaff126cfa6a87c3e9975b07cafb,e817e769714aba0b23b9bd29dab8136d,ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">106e7a4fc993bfecd913eef15a32ca3a,189251b3fba20ac80897a382c0890fd9,191f92cef1257c3bac41b204ce6122c0,1a86d443bd43c23da6b24500c3c3505e,24df370f1375367472610404b24c2e8d,25cae009390615086579bd775b7bcf93,352892db718ed359fdc9458f0a7e7f08,3aca8e315796ccb97bf0f72e48fde04e,3f4914fe597ca727b5d332f36154ef44,4ace5152b280fb0e8085afcba8b71404,51da3d601a6898f02d403b9c3c61d63f,54a80dc008961da71f6e19aa43156992,67336fa3a1f219fcc8cb17cc9e54641f,7161e9a0386dcd392cd59195d4188748,778b55cf8893a7d781e9940b9df46356,8fc86ab87501b85f7e5d1220fdbe5ad7,bc57f9185c776bd3db00446960f7c130,d344aaff126cfa6a87c3e9975b07cafb,e817e769714aba0b23b9bd29dab8136d,ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;RBL BANK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"RBL Bank has a presence in India, operating its network of branches and ATMs across the country."</data>
+      <data key="d5">7161e9a0386dcd392cd59195d4188748</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;UNION BANK OF INDIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Union Bank of India is headquartered in India and operates most of its branches there."</data>
+      <data key="d5">54a80dc008961da71f6e19aa43156992</data>
+    </edge>
+    <edge source="&quot;TDR CAPITAL&quot;" target="&quot;PIZZAEXPRESS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"TDR Capital co-bought PizzaExpress with Capricorn Associates in 2003."</data>
+      <data key="d5">51da3d601a6898f02d403b9c3c61d63f</data>
+    </edge>
+    <edge source="&quot;CAPRICORN ASSOCIATES&quot;" target="&quot;PIZZAEXPRESS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Capricorn Associates co-bought PizzaExpress with TDR Capital in 2003."</data>
+      <data key="d5">51da3d601a6898f02d403b9c3c61d63f</data>
+    </edge>
+    <edge source="&quot;CINVEN&quot;" target="&quot;PIZZAEXPRESS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cinven bought PizzaExpress as part of the Gondola Group in 2007."</data>
+      <data key="d5">51da3d601a6898f02d403b9c3c61d63f</data>
+    </edge>
+    <edge source="&quot;HONY CAPITAL&quot;" target="&quot;PIZZAEXPRESS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hony Capital bought PizzaExpress for &#163;900m in 2014."</data>
+      <data key="d5">51da3d601a6898f02d403b9c3c61d63f</data>
+    </edge>
+    <edge source="&quot;LONDON STOCK EXCHANGE&quot;" target="&quot;PIZZAEXPRESS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"PizzaExpress has been listed on the London Stock Exchange multiple times."</data>
+      <data key="d5">51da3d601a6898f02d403b9c3c61d63f</data>
+    </edge>
+    <edge source="&quot;ARTHUR FRASER WALTER&quot;" target="&quot;THE TIMES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Arthur Fraser Walter was the editor of The Times during its financial struggles."</data>
+      <data key="d5">ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </edge>
+    <edge source="&quot;CHARLES FREDERIC MOBERLY BELL&quot;" target="&quot;THE TIMES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Charles Frederic Moberly Bell rescued The Times from financial extinction and introduced new marketing methods."</data>
+      <data key="d5">ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </edge>
+    <edge source="&quot;HORACE EVERETT HOOPER&quot;" target="&quot;ENCYCLOP&#198;DIA BRITANNICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Horace Everett Hooper promoted the Encyclop&#230;dia Britannica using American marketing methods."</data>
+      <data key="d5">ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </edge>
+    <edge source="&quot;WALTER MONTGOMERY JACKSON&quot;" target="&quot;ENCYCLOP&#198;DIA BRITANNICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Walter Montgomery Jackson was one of the owners of the Encyclop&#230;dia Britannica, involved in legal fights over its ownership."</data>
+      <data key="d5">ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </edge>
+    <edge source="&quot;ALFRED HARMSWORTH&quot;" target="&quot;THE TIMES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alfred Harmsworth bought The Times in 1908 and is considered a pioneering newspaper magnate."</data>
+      <data key="d5">ef41bbc48c45fab075ef60a1cbcfd309</data>
+    </edge>
+    <edge source="&quot;MIT SLOAN SCHOOL OF MANAGEMENT&quot;" target="&quot;WILLIAM F. POUNDS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"William F. Pounds was the Dean and professor emeritus at MIT Sloan School of Management."</data>
+      <data key="d5">bc57f9185c776bd3db00446960f7c130</data>
+    </edge>
+    <edge source="&quot;ROCKEFELLER FAMILY&quot;" target="&quot;WILLIAM F. POUNDS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"William F. Pounds served as chief financial adviser to the Rockefeller family and held executive positions in their holdings."</data>
+      <data key="d5">bc57f9185c776bd3db00446960f7c130</data>
+    </edge>
+    <edge source="&quot;FLEETBOSTON FINANCIAL&quot;" target="&quot;BANK OF AMERICA&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Here is the comprehensive summary:
+
+FleetBoston Financial and Bank of America are two financial institutions that underwent a significant merger in 2004. In this transaction, Bank of America acquired FleetBoston Financial, resulting in the consolidation of the two banks into a single entity. This acquisition marked a major milestone in the history of both companies, leading to the creation of a larger, more robust banking institution.
+
+Let me know if you need any further assistance!</data>
+      <data key="d5">24df370f1375367472610404b24c2e8d,e817e769714aba0b23b9bd29dab8136d</data>
+    </edge>
+    <edge source="&quot;FLEETBOSTON FINANCIAL&quot;" target="&quot;BOSTON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"FleetBoston Financial was based in Boston, Massachusetts."</data>
+      <data key="d5">e817e769714aba0b23b9bd29dab8136d</data>
+    </edge>
+    <edge source="&quot;BOSTON&quot;" target="&quot;FINANCIAL DISTRICT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Financial District is located within Boston."</data>
+      <data key="d5">778b55cf8893a7d781e9940b9df46356</data>
+    </edge>
+    <edge source="&quot;BOSTON&quot;" target="&quot;THE BOSTON GLOBE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Boston is the location of The Boston Globe, which was acquired by The New York Times."</data>
+      <data key="d5">24df370f1375367472610404b24c2e8d</data>
+    </edge>
+    <edge source="&quot;BANK OF AMERICA&quot;" target="&quot;MERRILL LYNCH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bank of America acquired Merrill Lynch in 2008, expanding its investment banking capabilities."</data>
+      <data key="d5">8fc86ab87501b85f7e5d1220fdbe5ad7</data>
+    </edge>
+    <edge source="&quot;BANK OF AMERICA&quot;" target="&quot;CITIGROUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bank of America competes with Citigroup in the United States banking market."</data>
+      <data key="d5">8fc86ab87501b85f7e5d1220fdbe5ad7</data>
+    </edge>
+    <edge source="&quot;BANK OF AMERICA&quot;" target="&quot;JPMORGAN CHASE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bank of America competes with JPMorgan Chase in the United States banking market."</data>
+      <data key="d5">8fc86ab87501b85f7e5d1220fdbe5ad7</data>
+    </edge>
+    <edge source="&quot;BANK OF AMERICA&quot;" target="&quot;WELLS FARGO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bank of America competes with Wells Fargo in the United States banking market."</data>
+      <data key="d5">8fc86ab87501b85f7e5d1220fdbe5ad7</data>
+    </edge>
+    <edge source="&quot;MARVIN DAVIS&quot;" target="&quot;TWENTIETH CENTURY-FOX FILM CORPORATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marvin Davis bought Twentieth Century-Fox Film Corporation in 1981."</data>
+      <data key="d5">189251b3fba20ac80897a382c0890fd9</data>
+    </edge>
+    <edge source="&quot;MARC RICH&quot;" target="&quot;TWENTIETH CENTURY-FOX FILM CORPORATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marc Rich bought Twentieth Century-Fox Film Corporation in 1981."</data>
+      <data key="d5">189251b3fba20ac80897a382c0890fd9</data>
+    </edge>
+    <edge source="&quot;CASABLANCA RECORDS&quot;" target="&quot;STEPHANIE MILLS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Stephanie Mills released her album Tantalizingly Hot on Casablanca Records."</data>
+      <data key="d5">189251b3fba20ac80897a382c0890fd9</data>
+    </edge>
+    <edge source="&quot;20TH CENTURY-FOX RECORDS&quot;" target="&quot;TWENTIETH CENTURY-FOX FILM CORPORATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"20th Century-Fox Records is owned by Twentieth Century-Fox Film Corporation."</data>
+      <data key="d5">189251b3fba20ac80897a382c0890fd9</data>
+    </edge>
+    <edge source="&quot;ATMS&quot;" target="&quot;JAPAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Japan is a country where ATMs play a significant role in banking practices, allowing individuals to track their financial transactions."</data>
+      <data key="d5">352892db718ed359fdc9458f0a7e7f08</data>
+    </edge>
+    <edge source="&quot;TELEFE&quot;" target="&quot;LOS ROLD&#193;N&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Los Rold&#225;n was produced by Telefe."</data>
+      <data key="d5">4ace5152b280fb0e8085afcba8b71404</data>
+    </edge>
+    <edge source="&quot;ARGENTINA&quot;" target="&quot;LOS ROLD&#193;N&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Los Rold&#225;n is a Spanish language telenovela from Argentina."</data>
+      <data key="d5">4ace5152b280fb0e8085afcba8b71404</data>
+    </edge>
+    <edge source="&quot;RCN COLOMBIAN NETWORK&quot;" target="&quot;LOS ROLD&#193;N&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"RCN Colombian network bought the rights to produce a Colombian version of Los Rold&#225;n."</data>
+      <data key="d5">4ace5152b280fb0e8085afcba8b71404</data>
+    </edge>
+    <edge source="&quot;TV AZTECA&quot;" target="&quot;LOS ROLD&#193;N&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"TV Azteca produced the Mexican version of Los Rold&#225;n, called 'Los S&#225;nchez'."&gt;</data>
+      <data key="d5">4ace5152b280fb0e8085afcba8b71404</data>
+    </edge>
+    <edge source="&quot;ATLANTIC AVENUE&quot;" target="&quot;FINANCIAL DISTRICT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Atlantic Avenue bounds the Financial District."</data>
+      <data key="d5">778b55cf8893a7d781e9940b9df46356</data>
+    </edge>
+    <edge source="&quot;STATE STREET&quot;" target="&quot;FINANCIAL DISTRICT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"State Street bounds the Financial District."</data>
+      <data key="d5">778b55cf8893a7d781e9940b9df46356</data>
+    </edge>
+    <edge source="&quot;DEVONSHIRE STREET&quot;" target="&quot;FINANCIAL DISTRICT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Devonshire Street bounds the Financial District."</data>
+      <data key="d5">778b55cf8893a7d781e9940b9df46356</data>
+    </edge>
+    <edge source="&quot;GOODWOOD GROUP&quot;" target="&quot;TAN SRI KHOO TECK PUAT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tan Sri Khoo Teck Puat founded and owned the Goodwood Group of boutique hotels."</data>
+      <data key="d5">3f4914fe597ca727b5d332f36154ef44</data>
+    </edge>
+    <edge source="&quot;STANDARD CHARTERED&quot;" target="&quot;TAN SRI KHOO TECK PUAT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tan Sri Khoo Teck Puat was the largest single shareholder of Standard Chartered bank."</data>
+      <data key="d5">3f4914fe597ca727b5d332f36154ef44</data>
+    </edge>
+    <edge source="&quot;STANDARD CHARTERED&quot;" target="&quot;LLOYDS BANK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lloyds Bank proposed an acquisition of Standard Chartered, which was deemed hostile by many financiers."</data>
+      <data key="d5">3f4914fe597ca727b5d332f36154ef44</data>
+    </edge>
+    <edge source="&quot;FEDERAL RESERVE&quot;" target="&quot;FINANCIAL CRISIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Federal Reserve's failure to regulate toxic mortgages contributed to the Financial Crisis."</data>
+      <data key="d5">1a86d443bd43c23da6b24500c3c3505e</data>
+    </edge>
+    <edge source="&quot;WALL STREET&quot;" target="&quot;FINANCIAL CRISIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Excessive borrowing and risk-taking by financial firms on Wall Street contributed to the Financial Crisis."</data>
+      <data key="d5">1a86d443bd43c23da6b24500c3c3505e</data>
+    </edge>
+    <edge source="&quot;U.S. FINANCIAL CRISIS INQUIRY COMMISSION&quot;" target="&quot;FINANCIAL CRISIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The U.S. Financial Crisis Inquiry Commission reported on the causes of the Financial Crisis."</data>
+      <data key="d5">1a86d443bd43c23da6b24500c3c3505e</data>
+    </edge>
+    <edge source="&quot;ALFRED HITCHCOCK&quot;" target="&quot;HENRY SLESAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Henry Slesar collaborated with Alfred Hitchcock on several projects, including adaptations of his stories."</data>
+      <data key="d5">d344aaff126cfa6a87c3e9975b07cafb</data>
+    </edge>
+    <edge source="&quot;ELLERY QUEEN'S MYSTERY MAGAZINE&quot;" target="&quot;HENRY SLESAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Henry Slesar's story 'M Is for the Many' was published in Ellery Queen's Mystery Magazine."</data>
+      <data key="d5">d344aaff126cfa6a87c3e9975b07cafb</data>
+    </edge>
+    <edge source="&quot;TV GUIDE&quot;" target="&quot;HENRY SLESAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"TV Guide recognized Henry Slesar as a prominent writer with a large audience."</data>
+      <data key="d5">d344aaff126cfa6a87c3e9975b07cafb</data>
+    </edge>
+    <edge source="&quot;HONG KONG&quot;" target="&quot;UNION BANK OF INDIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Union Bank of India has a branch in Hong Kong."</data>
+      <data key="d5">54a80dc008961da71f6e19aa43156992</data>
+    </edge>
+    <edge source="&quot;DUBAI INTERNATIONAL FINANCIAL CENTRE&quot;" target="&quot;UNION BANK OF INDIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Union Bank of India has a branch in Dubai International Financial Centre."</data>
+      <data key="d5">54a80dc008961da71f6e19aa43156992</data>
+    </edge>
+    <edge source="&quot;ANTWERP&quot;" target="&quot;UNION BANK OF INDIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Union Bank of India has a branch in Antwerp."</data>
+      <data key="d5">54a80dc008961da71f6e19aa43156992</data>
+    </edge>
+    <edge source="&quot;SYDNEY&quot;" target="&quot;UNION BANK OF INDIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Union Bank of India has a branch in Sydney."</data>
+      <data key="d5">54a80dc008961da71f6e19aa43156992</data>
+    </edge>
+    <edge source="&quot;SHANGHAI&quot;" target="&quot;UNION BANK OF INDIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Union Bank of India has a representative office in Shanghai."</data>
+      <data key="d5">54a80dc008961da71f6e19aa43156992</data>
+    </edge>
+    <edge source="&quot;BEIJING&quot;" target="&quot;UNION BANK OF INDIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Union Bank of India has a representative office in Beijing."</data>
+      <data key="d5">54a80dc008961da71f6e19aa43156992</data>
+    </edge>
+    <edge source="&quot;ABU DHABI&quot;" target="&quot;UNION BANK OF INDIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Union Bank of India has a representative office in Abu Dhabi."</data>
+      <data key="d5">54a80dc008961da71f6e19aa43156992</data>
+    </edge>
+    <edge source="&quot;UNITED KINGDOM&quot;" target="&quot;UNION BANK OF INDIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Union Bank of India operates in the United Kingdom through its wholly owned subsidiary, Union Bank of India (UK)."</data>
+      <data key="d5">54a80dc008961da71f6e19aa43156992</data>
+    </edge>
+    <edge source="&quot;JORDAN MARSH&quot;" target="&quot;MACY'S&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jordan Marsh was merged into Macy's."</data>
+      <data key="d5">24df370f1375367472610404b24c2e8d</data>
+    </edge>
+    <edge source="&quot;FILENE'S&quot;" target="&quot;MACY'S&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Filene's was merged into Macy's."</data>
+      <data key="d5">24df370f1375367472610404b24c2e8d</data>
+    </edge>
+    <edge source="&quot;FRANCE&quot;" target="&quot;GROUPEMENT DES CARTES BANCAIRES CB&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Groupement des Cartes Bancaires CB is France's national interbank network."</data>
+      <data key="d5">191f92cef1257c3bac41b204ce6122c0</data>
+    </edge>
+    <edge source="&quot;INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO)&quot;" target="&quot;ISO/TC 68&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"ISO/TC 68 is a technical committee formed within the International Organization for Standardization (ISO)."</data>
+      <data key="d5">106e7a4fc993bfecd913eef15a32ca3a</data>
+    </edge>
+    <edge source="&quot;INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO)&quot;" target="&quot;GENEVA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The International Organization for Standardization (ISO) is headquartered in Geneva, Switzerland."</data>
+      <data key="d5">106e7a4fc993bfecd913eef15a32ca3a</data>
+    </edge>
+    <edge source="&quot;GENEVA&quot;" target="&quot;ISO/TC 68&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"ISO/TC 68 is based in Geneva, Switzerland."</data>
+      <data key="d5">106e7a4fc993bfecd913eef15a32ca3a</data>
+    </edge>
+    <edge source="&quot;IBM&quot;" target="&quot;IBM RESEARCH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"IBM Research is a part of the IBM company, conducting research and development activities."</data>
+      <data key="d5">67336fa3a1f219fcc8cb17cc9e54641f</data>
+    </edge>
+    <edge source="&quot;IBM&quot;" target="&quot;NOBEL PRIZE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"IBM employees have won Nobel Prizes, demonstrating the company's excellence in various fields."</data>
+      <data key="d5">67336fa3a1f219fcc8cb17cc9e54641f</data>
+    </edge>
+    <edge source="&quot;IBM&quot;" target="&quot;TURING AWARD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"IBM employees have won Turing Awards, recognizing their achievements in computer science."</data>
+      <data key="d5">67336fa3a1f219fcc8cb17cc9e54641f</data>
+    </edge>
+    <edge source="&quot;IBM&quot;" target="&quot;NATIONAL MEDAL OF TECHNOLOGY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"IBM employees have won National Medals of Technology, acknowledging their contributions to technological advancements."</data>
+      <data key="d5">67336fa3a1f219fcc8cb17cc9e54641f</data>
+    </edge>
+    <edge source="&quot;IBM&quot;" target="&quot;NATIONAL MEDAL OF SCIENCE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"IBM employees have won National Medals of Science, recognizing their achievements in scientific research."</data>
+      <data key="d5">67336fa3a1f219fcc8cb17cc9e54641f</data>
+    </edge>
+    <edge source="&quot;IBM&quot;" target="&quot;WATSON ARTIFICIAL INTELLIGENCE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"IBM developed Watson artificial intelligence, showcasing its capabilities in AI research."</data>
+      <data key="d5">67336fa3a1f219fcc8cb17cc9e54641f</data>
+    </edge>
+  </graph>
+</graphml>

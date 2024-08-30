@@ -1,0 +1,1948 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="id" attr.type="string" />
+  <key id="d6" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d5" for="node" attr.name="degree" attr.type="long" />
+  <key id="d4" for="node" attr.name="level" attr.type="long" />
+  <key id="d3" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;HBO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+HBO is a television network that has aired several notable shows, including the vampire drama True Blood, which featured Camilla Luddington, as well as the sketch comedy series "Mr. Show", which included Jay Johnston as a cast member.</data>
+      <data key="d2">3736224fbd2e45ba993c413b0e327b5d,78526da78e52e7e0d7d7e6c8675ebff9,f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">0</data>
+      <data key="d7">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;ALAN BALL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alan Ball is an executive producer of True Blood who appeared in the farewell special 'Farewell to Bon Temps'."</data>
+      <data key="d2">f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">1</data>
+      <data key="d7">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;BRIAN BUCKNER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Brian Buckner is an executive producer of True Blood who appeared in the farewell special 'Farewell to Bon Temps'."</data>
+      <data key="d2">f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">2</data>
+      <data key="d7">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;BON TEMPS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bon Temps is a fictional location in the True Blood series."</data>
+      <data key="d2">f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d5">0</data>
+      <data key="d6">3</data>
+      <data key="d7">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;FAREWELL TO BON TEMPS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Farewell to Bon Temps is a special episode that aired before the final season of True Blood, featuring executive producers and cast members reminiscing about the series."</data>
+      <data key="d2">f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">4</data>
+      <data key="d7">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;TRUE BLOOD&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">5</data>
+      <data key="d7">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">0029ab756098b6ef4866c083ba03937a,0621db152f88414dc52bebd5865f3129,06cb261637f1426286ad3996f9581f4b,1e7040d4d323d46e8771977a438a50ab,1e9237ec137a4ca39f014873582a8fe6,1f83f3f673481c0e64b2cb9978841a2c,3736224fbd2e45ba993c413b0e327b5d,42ae28630d450770debdbc28e5c3c132,4672646c5fd1d77200a54400d45eab17,5e961a93641835436fad73d61620d170,68496ec74cc759917d1b26b38eafb175,6bf60de042b7035f7a9f7b9f899ea30d,78526da78e52e7e0d7d7e6c8675ebff9,793d4072b66bba53b3ba7a267d43a915,869940e7248f38af980e0af675b62f92,91392be5c9d9fcd34368d43ede3d38da,93160d941a34f72dc4412dbb6de8e499,9e889c0e434ebf0a1c19c82a36371ff6,a05b8fae5eeb7b02a9fac1c715fa67d0,f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">6</data>
+      <data key="d7">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">0029ab756098b6ef4866c083ba03937a,0621db152f88414dc52bebd5865f3129,06cb261637f1426286ad3996f9581f4b,1e7040d4d323d46e8771977a438a50ab,1e9237ec137a4ca39f014873582a8fe6,1f83f3f673481c0e64b2cb9978841a2c,3736224fbd2e45ba993c413b0e327b5d,42ae28630d450770debdbc28e5c3c132,4672646c5fd1d77200a54400d45eab17,5e961a93641835436fad73d61620d170,68496ec74cc759917d1b26b38eafb175,6bf60de042b7035f7a9f7b9f899ea30d,78526da78e52e7e0d7d7e6c8675ebff9,793d4072b66bba53b3ba7a267d43a915,869940e7248f38af980e0af675b62f92,91392be5c9d9fcd34368d43ede3d38da,93160d941a34f72dc4412dbb6de8e499,9e889c0e434ebf0a1c19c82a36371ff6,a05b8fae5eeb7b02a9fac1c715fa67d0,f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">7</data>
+      <data key="d7">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">0029ab756098b6ef4866c083ba03937a,0621db152f88414dc52bebd5865f3129,06cb261637f1426286ad3996f9581f4b,1e7040d4d323d46e8771977a438a50ab,1e9237ec137a4ca39f014873582a8fe6,1f83f3f673481c0e64b2cb9978841a2c,3736224fbd2e45ba993c413b0e327b5d,42ae28630d450770debdbc28e5c3c132,4672646c5fd1d77200a54400d45eab17,5e961a93641835436fad73d61620d170,68496ec74cc759917d1b26b38eafb175,6bf60de042b7035f7a9f7b9f899ea30d,78526da78e52e7e0d7d7e6c8675ebff9,793d4072b66bba53b3ba7a267d43a915,869940e7248f38af980e0af675b62f92,91392be5c9d9fcd34368d43ede3d38da,93160d941a34f72dc4412dbb6de8e499,9e889c0e434ebf0a1c19c82a36371ff6,a05b8fae5eeb7b02a9fac1c715fa67d0,f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">8</data>
+      <data key="d7">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">0029ab756098b6ef4866c083ba03937a,0621db152f88414dc52bebd5865f3129,06cb261637f1426286ad3996f9581f4b,1e7040d4d323d46e8771977a438a50ab,1e9237ec137a4ca39f014873582a8fe6,1f83f3f673481c0e64b2cb9978841a2c,3736224fbd2e45ba993c413b0e327b5d,42ae28630d450770debdbc28e5c3c132,4672646c5fd1d77200a54400d45eab17,5e961a93641835436fad73d61620d170,68496ec74cc759917d1b26b38eafb175,6bf60de042b7035f7a9f7b9f899ea30d,78526da78e52e7e0d7d7e6c8675ebff9,793d4072b66bba53b3ba7a267d43a915,869940e7248f38af980e0af675b62f92,91392be5c9d9fcd34368d43ede3d38da,93160d941a34f72dc4412dbb6de8e499,9e889c0e434ebf0a1c19c82a36371ff6,a05b8fae5eeb7b02a9fac1c715fa67d0,f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">9</data>
+      <data key="d7">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country where various locations such as Tucson, Pima County, and Arizona, as well as Granger, Williamson County, and Texas, are situated. It is also a country where actress Camilla Luddington has mainly worked in her profession.</data>
+      <data key="d2">0029ab756098b6ef4866c083ba03937a,0621db152f88414dc52bebd5865f3129,06cb261637f1426286ad3996f9581f4b,1e7040d4d323d46e8771977a438a50ab,1e9237ec137a4ca39f014873582a8fe6,1f83f3f673481c0e64b2cb9978841a2c,3736224fbd2e45ba993c413b0e327b5d,42ae28630d450770debdbc28e5c3c132,4672646c5fd1d77200a54400d45eab17,5e961a93641835436fad73d61620d170,68496ec74cc759917d1b26b38eafb175,6bf60de042b7035f7a9f7b9f899ea30d,78526da78e52e7e0d7d7e6c8675ebff9,793d4072b66bba53b3ba7a267d43a915,869940e7248f38af980e0af675b62f92,91392be5c9d9fcd34368d43ede3d38da,93160d941a34f72dc4412dbb6de8e499,9e889c0e434ebf0a1c19c82a36371ff6,a05b8fae5eeb7b02a9fac1c715fa67d0,f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">10</data>
+      <data key="d7">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">0029ab756098b6ef4866c083ba03937a,0621db152f88414dc52bebd5865f3129,06cb261637f1426286ad3996f9581f4b,1e7040d4d323d46e8771977a438a50ab,1e9237ec137a4ca39f014873582a8fe6,1f83f3f673481c0e64b2cb9978841a2c,3736224fbd2e45ba993c413b0e327b5d,42ae28630d450770debdbc28e5c3c132,4672646c5fd1d77200a54400d45eab17,5e961a93641835436fad73d61620d170,68496ec74cc759917d1b26b38eafb175,6bf60de042b7035f7a9f7b9f899ea30d,78526da78e52e7e0d7d7e6c8675ebff9,793d4072b66bba53b3ba7a267d43a915,869940e7248f38af980e0af675b62f92,91392be5c9d9fcd34368d43ede3d38da,93160d941a34f72dc4412dbb6de8e499,9e889c0e434ebf0a1c19c82a36371ff6,a05b8fae5eeb7b02a9fac1c715fa67d0,f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">11</data>
+      <data key="d7">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">0029ab756098b6ef4866c083ba03937a,0621db152f88414dc52bebd5865f3129,06cb261637f1426286ad3996f9581f4b,1e7040d4d323d46e8771977a438a50ab,1e9237ec137a4ca39f014873582a8fe6,1f83f3f673481c0e64b2cb9978841a2c,3736224fbd2e45ba993c413b0e327b5d,42ae28630d450770debdbc28e5c3c132,4672646c5fd1d77200a54400d45eab17,5e961a93641835436fad73d61620d170,68496ec74cc759917d1b26b38eafb175,6bf60de042b7035f7a9f7b9f899ea30d,78526da78e52e7e0d7d7e6c8675ebff9,793d4072b66bba53b3ba7a267d43a915,869940e7248f38af980e0af675b62f92,91392be5c9d9fcd34368d43ede3d38da,93160d941a34f72dc4412dbb6de8e499,9e889c0e434ebf0a1c19c82a36371ff6,a05b8fae5eeb7b02a9fac1c715fa67d0,f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">12</data>
+      <data key="d7">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">0029ab756098b6ef4866c083ba03937a,0621db152f88414dc52bebd5865f3129,06cb261637f1426286ad3996f9581f4b,1e7040d4d323d46e8771977a438a50ab,1e9237ec137a4ca39f014873582a8fe6,1f83f3f673481c0e64b2cb9978841a2c,3736224fbd2e45ba993c413b0e327b5d,42ae28630d450770debdbc28e5c3c132,4672646c5fd1d77200a54400d45eab17,5e961a93641835436fad73d61620d170,68496ec74cc759917d1b26b38eafb175,6bf60de042b7035f7a9f7b9f899ea30d,78526da78e52e7e0d7d7e6c8675ebff9,793d4072b66bba53b3ba7a267d43a915,869940e7248f38af980e0af675b62f92,91392be5c9d9fcd34368d43ede3d38da,93160d941a34f72dc4412dbb6de8e499,9e889c0e434ebf0a1c19c82a36371ff6,a05b8fae5eeb7b02a9fac1c715fa67d0,f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">13</data>
+      <data key="d7">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">0029ab756098b6ef4866c083ba03937a,0621db152f88414dc52bebd5865f3129,06cb261637f1426286ad3996f9581f4b,1e7040d4d323d46e8771977a438a50ab,1e9237ec137a4ca39f014873582a8fe6,1f83f3f673481c0e64b2cb9978841a2c,3736224fbd2e45ba993c413b0e327b5d,42ae28630d450770debdbc28e5c3c132,4672646c5fd1d77200a54400d45eab17,5e961a93641835436fad73d61620d170,68496ec74cc759917d1b26b38eafb175,6bf60de042b7035f7a9f7b9f899ea30d,78526da78e52e7e0d7d7e6c8675ebff9,793d4072b66bba53b3ba7a267d43a915,869940e7248f38af980e0af675b62f92,91392be5c9d9fcd34368d43ede3d38da,93160d941a34f72dc4412dbb6de8e499,9e889c0e434ebf0a1c19c82a36371ff6,a05b8fae5eeb7b02a9fac1c715fa67d0,f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d5">0</data>
+      <data key="d6">14</data>
+      <data key="d7">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0029ab756098b6ef4866c083ba03937a,0621db152f88414dc52bebd5865f3129,06cb261637f1426286ad3996f9581f4b,1e7040d4d323d46e8771977a438a50ab,1e9237ec137a4ca39f014873582a8fe6,1f83f3f673481c0e64b2cb9978841a2c,3736224fbd2e45ba993c413b0e327b5d,42ae28630d450770debdbc28e5c3c132,4672646c5fd1d77200a54400d45eab17,5e961a93641835436fad73d61620d170,68496ec74cc759917d1b26b38eafb175,6bf60de042b7035f7a9f7b9f899ea30d,78526da78e52e7e0d7d7e6c8675ebff9,793d4072b66bba53b3ba7a267d43a915,869940e7248f38af980e0af675b62f92,91392be5c9d9fcd34368d43ede3d38da,93160d941a34f72dc4412dbb6de8e499,9e889c0e434ebf0a1c19c82a36371ff6,a05b8fae5eeb7b02a9fac1c715fa67d0,f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">5</data>
+      <data key="d6">15</data>
+      <data key="d7">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;MELBOURNE STORM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Melbourne Storm are a rugby league team that contested the 2018 NRL Grand Final against the Sydney Roosters."</data>
+      <data key="d2">1f83f3f673481c0e64b2cb9978841a2c</data>
+      <data key="d5">1</data>
+      <data key="d6">16</data>
+      <data key="d7">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;LUKE KEARY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Luke Keary is a rugby league player who was awarded the Clive Churchill Medal as the man of the match in the 2018 NRL Grand Final."</data>
+      <data key="d2">1f83f3f673481c0e64b2cb9978841a2c</data>
+      <data key="d5">1</data>
+      <data key="d6">17</data>
+      <data key="d7">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;ANZ STADIUM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The ANZ Stadium is a location in Sydney where the 2018 NRL Grand Final was held."</data>
+      <data key="d2">1f83f3f673481c0e64b2cb9978841a2c</data>
+      <data key="d5">1</data>
+      <data key="d6">18</data>
+      <data key="d7">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;SYDNEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Sydney is a city where the 2018 NRL Grand Final was held at the ANZ Stadium."</data>
+      <data key="d2">1f83f3f673481c0e64b2cb9978841a2c</data>
+      <data key="d5">1</data>
+      <data key="d6">19</data>
+      <data key="d7">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;2018 NRL GRAND FINAL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2018 NRL Grand Final was the conclusive game of the 2018 National Rugby League season, played between the Sydney Roosters and Melbourne Storm."</data>
+      <data key="d2">1f83f3f673481c0e64b2cb9978841a2c</data>
+      <data key="d5">2</data>
+      <data key="d6">20</data>
+      <data key="d7">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;SYDNEY ROOSTERS&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+The Sydney Roosters are a rugby league team that competes in the NRL, and they have a player named Daniel Tupou on their roster.</data>
+      <data key="d2">1f83f3f673481c0e64b2cb9978841a2c,42ae28630d450770debdbc28e5c3c132</data>
+      <data key="d5">6</data>
+      <data key="d6">21</data>
+      <data key="d7">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;MELINDA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Melinda is a character played by Jennifer Love Hewitt and is Jim Clancy's wife."</data>
+      <data key="d2">91392be5c9d9fcd34368d43ede3d38da</data>
+      <data key="d5">2</data>
+      <data key="d6">22</data>
+      <data key="d7">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;DAVID CONRAD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"David Conrad is an actor who plays the role of Jim Clancy."</data>
+      <data key="d2">91392be5c9d9fcd34368d43ede3d38da</data>
+      <data key="d5">1</data>
+      <data key="d6">23</data>
+      <data key="d7">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;JENNIFER LOVE HEWITT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jennifer Love Hewitt is an actress who plays the role of Melinda."</data>
+      <data key="d2">91392be5c9d9fcd34368d43ede3d38da</data>
+      <data key="d5">1</data>
+      <data key="d6">24</data>
+      <data key="d7">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;JIM CLANCY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">91392be5c9d9fcd34368d43ede3d38da</data>
+      <data key="d5">2</data>
+      <data key="d6">25</data>
+      <data key="d7">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;CHARLES PORTIS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary:
+
+Charles Portis is the author of the 1968 novel "True Grit".</data>
+      <data key="d2">06cb261637f1426286ad3996f9581f4b,5e961a93641835436fad73d61620d170</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">26</data>
+      <data key="d7">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;MARGUERITE ROBERTS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Marguerite Roberts wrote the screenplay for the film adaptation of 'True Grit'."</data>
+      <data key="d2">5e961a93641835436fad73d61620d170</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">27</data>
+      <data key="d7">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;HENRY HATHAWAY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Henry Hathaway directed the 1969 film adaptation of 'True Grit'."</data>
+      <data key="d2">5e961a93641835436fad73d61620d170</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">28</data>
+      <data key="d7">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;KIM DARBY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kim Darby played the role of Mattie Ross in the 1969 film adaptation of 'True Grit'."</data>
+      <data key="d2">5e961a93641835436fad73d61620d170</data>
+      <data key="d5">0</data>
+      <data key="d6">29</data>
+      <data key="d7">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;JOHN WAYNE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+John Wayne played the role of U.S. Marshal Rooster Cogburn in the 1969 film adaptation of "True Grit", for which he won an Academy Award for his performance. He reprised this role as U.S. Marshal Reuben J. 'Rooster' Cogburn in the 1975 film Rooster Cogburn.</data>
+      <data key="d2">5e961a93641835436fad73d61620d170,869940e7248f38af980e0af675b62f92</data>
+      <data key="d5">1</data>
+      <data key="d6">30</data>
+      <data key="d7">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;ROOSTER COGBURN&quot;">
+      <data key="d0">"FILM"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Rooster Cogburn is a 1975 sequel to the film "True Grit", starring John Wayne reprising his role as U.S. Marshal Rooster Cogburn.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">5e961a93641835436fad73d61620d170,869940e7248f38af980e0af675b62f92</data>
+      <data key="d5">1</data>
+      <data key="d6">31</data>
+      <data key="d7">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&quot;TRUE GRIT&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+"TRUE GRIT" is a movie that was remade in 2010, with some scenes filmed in Granger.</data>
+      <data key="d2">06cb261637f1426286ad3996f9581f4b,5e961a93641835436fad73d61620d170,93160d941a34f72dc4412dbb6de8e499</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+      <data key="d6">32</data>
+      <data key="d7">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&quot;ISERLOHN ROOSTERS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Iserlohn Roosters is a team in the Deutsche Eishockey Liga that currently has Stefan Langwieder on its roster. Additionally, the team has also been home to Shane Joseph, who played for the organization in the past.</data>
+      <data key="d2">6bf60de042b7035f7a9f7b9f899ea30d,9e889c0e434ebf0a1c19c82a36371ff6</data>
+      <data key="d5">3</data>
+      <data key="d6">33</data>
+      <data key="d7">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&quot;ADLER MANNHEIM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Adler Mannheim is a team that Stefan Langwieder initially played for during the 2007 season."</data>
+      <data key="d2">9e889c0e434ebf0a1c19c82a36371ff6</data>
+      <data key="d5">2</data>
+      <data key="d6">34</data>
+      <data key="d7">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&quot;DEUTSCHE EISHOCKEY LIGA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Deutsche Eishockey Liga (DEL) is a professional ice hockey league that features teams such as the Iserlohn Roosters and Adler Mannheim. The league has had notable players, including Shane Joseph, who played for the Iserlohn Roosters.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">6bf60de042b7035f7a9f7b9f899ea30d,9e889c0e434ebf0a1c19c82a36371ff6</data>
+      <data key="d5">3</data>
+      <data key="d6">35</data>
+      <data key="d7">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&quot;GERMANY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Germany is the country where Stefan Langwieder was born and plays ice hockey professionally."</data>
+      <data key="d2">9e889c0e434ebf0a1c19c82a36371ff6</data>
+      <data key="d5">0</data>
+      <data key="d6">36</data>
+      <data key="d7">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&quot;STEFAN LANGWIEDER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9e889c0e434ebf0a1c19c82a36371ff6</data>
+      <data key="d5">2</data>
+      <data key="d6">37</data>
+      <data key="d7">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&quot;DANNY MASTERSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Danny Masterson is a cast member of That '70s Show and older brother of Christopher Kennedy Masterson."</data>
+      <data key="d2">1e9237ec137a4ca39f014873582a8fe6</data>
+      <data key="d5">1</data>
+      <data key="d6">38</data>
+      <data key="d7">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&quot;ALANNA MASTERSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alanna Masterson is a cast member of The Walking Dead and younger sister of Christopher Kennedy Masterson."</data>
+      <data key="d2">1e9237ec137a4ca39f014873582a8fe6</data>
+      <data key="d5">1</data>
+      <data key="d6">39</data>
+      <data key="d7">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <node id="&quot;JORDAN MASTERSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jordan Masterson is a cast member of Last Man Standing and younger brother of Christopher Kennedy Masterson."</data>
+      <data key="d2">1e9237ec137a4ca39f014873582a8fe6</data>
+      <data key="d5">1</data>
+      <data key="d6">40</data>
+      <data key="d7">3ce7c210a21b4deebad7cc9308148d86</data>
+    </node>
+    <node id="&quot;CHRISTOPHER KENNEDY MASTERSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1e9237ec137a4ca39f014873582a8fe6</data>
+      <data key="d5">3</data>
+      <data key="d6">41</data>
+      <data key="d7">d64ed762ea924caa95c8d06f072a9a96</data>
+    </node>
+    <node id="&quot;NRL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The NRL is a professional rugby league competition where the Sydney Roosters participate."</data>
+      <data key="d2">42ae28630d450770debdbc28e5c3c132</data>
+      <data key="d5">2</data>
+      <data key="d6">42</data>
+      <data key="d7">adf4ee3fbe9b4d0381044838c4f889c8</data>
+    </node>
+    <node id="&quot;NEW SOUTH WALES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New South Wales is a state in Australia where Daniel Tupou represents in State of Origin."</data>
+      <data key="d2">42ae28630d450770debdbc28e5c3c132</data>
+      <data key="d5">1</data>
+      <data key="d6">43</data>
+      <data key="d7">32ee140946e5461f9275db664dc541a5</data>
+    </node>
+    <node id="&quot;TONGA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Tonga is a country that Daniel Tupou represents as an international rugby league player."</data>
+      <data key="d2">42ae28630d450770debdbc28e5c3c132</data>
+      <data key="d5">1</data>
+      <data key="d6">44</data>
+      <data key="d7">c160b9cb27d6408ba6ab20214a2f3f81</data>
+    </node>
+    <node id="&quot;2013 NRL PREMIERSHIP&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2013 NRL Premiership was a rugby league competition won by the Sydney Roosters, with Daniel Tupou as a team member."</data>
+      <data key="d2">42ae28630d450770debdbc28e5c3c132</data>
+      <data key="d5">1</data>
+      <data key="d6">45</data>
+      <data key="d7">23527cd679ff4d5a988d52e7cd056078</data>
+    </node>
+    <node id="&quot;2018 NRL PREMIERSHIP&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2018 NRL Premiership was a rugby league competition won by the Sydney Roosters, with Daniel Tupou as a team member."</data>
+      <data key="d2">42ae28630d450770debdbc28e5c3c132</data>
+      <data key="d5">1</data>
+      <data key="d6">46</data>
+      <data key="d7">f1c6eed066f24cbdb376b910fce29ed4</data>
+    </node>
+    <node id="&quot;DANIEL TUPOU&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">42ae28630d450770debdbc28e5c3c132</data>
+      <data key="d5">4</data>
+      <data key="d6">47</data>
+      <data key="d7">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+    </node>
+    <node id="&quot;COEN BROTHERS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Coen brothers are directors, writers, producers, and editors of True Grit."</data>
+      <data key="d2">06cb261637f1426286ad3996f9581f4b</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">48</data>
+      <data key="d7">147c038aef3e4422acbbc5f7938c4ab8</data>
+    </node>
+    <node id="&quot;STEVEN SPIELBERG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Steven Spielberg is an executive producer of True Grit."</data>
+      <data key="d2">06cb261637f1426286ad3996f9581f4b</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">49</data>
+      <data key="d7">b7702b90c7f24190b864e8c6e64612a5</data>
+    </node>
+    <node id="&quot;HAILEE STEINFELD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hailee Steinfeld stars as Mattie Ross in True Grit."</data>
+      <data key="d2">06cb261637f1426286ad3996f9581f4b</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">50</data>
+      <data key="d7">de6fa24480894518ab3cbcb66f739266</data>
+    </node>
+    <node id="&quot;JEFF BRIDGES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jeff Bridges stars as Deputy U.S. Marshal Reuben J. 'Rooster' Cogburn in True Grit."</data>
+      <data key="d2">06cb261637f1426286ad3996f9581f4b</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">51</data>
+      <data key="d7">6fae5ee1a831468aa585a1ea09095998</data>
+    </node>
+    <node id="&quot;MATT DAMON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Matt Damon is an actor in True Grit."</data>
+      <data key="d2">06cb261637f1426286ad3996f9581f4b</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">52</data>
+      <data key="d7">ef32c4b208d041cc856f6837915dc1b0</data>
+    </node>
+    <node id="&quot;JOSH BROLIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Josh Brolin is an actor in True Grit."</data>
+      <data key="d2">06cb261637f1426286ad3996f9581f4b</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">53</data>
+      <data key="d7">07b2425216bd4f0aa4e079827cb48ef5</data>
+    </node>
+    <node id="&quot;BARRY PEPPER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Barry Pepper is an actor in True Grit."</data>
+      <data key="d2">06cb261637f1426286ad3996f9581f4b</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">54</data>
+      <data key="d7">2670deebfa3f4d69bb82c28ab250a209</data>
+    </node>
+    <node id="&quot;RED BRIGADES (BR)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Red Brigades is a terrorist organization that Prospero Gallinari was a member of in the 1970s and 1980s."</data>
+      <data key="d2">0621db152f88414dc52bebd5865f3129</data>
+      <data key="d5">1</data>
+      <data key="d6">55</data>
+      <data key="d7">404309e89a5241d6bff42c05a45df206</data>
+    </node>
+    <node id="&quot;ITALY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Italy is the country where Prospero Gallinari was from and where he was involved with the Red Brigades."</data>
+      <data key="d2">0621db152f88414dc52bebd5865f3129</data>
+      <data key="d5">1</data>
+      <data key="d6">56</data>
+      <data key="d7">b785a9025069417f94950ad231bb1441</data>
+    </node>
+    <node id="&quot;PROSPERO GALLINARI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0621db152f88414dc52bebd5865f3129</data>
+      <data key="d5">2</data>
+      <data key="d6">57</data>
+      <data key="d7">3b6cd96a27304614850709aba1c9598b</data>
+    </node>
+    <node id="&quot;EDWARD JAMES OLMOS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Edward James Olmos is an actor who has frequently collaborated with Robert M. Young in various movies."</data>
+      <data key="d2">a05b8fae5eeb7b02a9fac1c715fa67d0</data>
+      <data key="d5">1</data>
+      <data key="d6">58</data>
+      <data key="d7">d54956b79dd147f894b67a8b97dcbef0</data>
+    </node>
+    <node id="&quot;NEW YORK CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New York City is the birthplace of Robert M. Young."</data>
+      <data key="d2">a05b8fae5eeb7b02a9fac1c715fa67d0</data>
+      <data key="d5">1</data>
+      <data key="d6">59</data>
+      <data key="d7">958beecdb5bb4060948415ffd75d2b03</data>
+    </node>
+    <node id="&quot;MOSCOW INTERNATIONAL FILM FESTIVAL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Moscow International Film Festival is an event where Robert M. Young was a member of the jury in 1985."</data>
+      <data key="d2">a05b8fae5eeb7b02a9fac1c715fa67d0</data>
+      <data key="d5">1</data>
+      <data key="d6">60</data>
+      <data key="d7">b999ed77e19e4f85b7f1ae79af5c002a</data>
+    </node>
+    <node id="&quot;ROBERT M. YOUNG&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a05b8fae5eeb7b02a9fac1c715fa67d0</data>
+      <data key="d5">3</data>
+      <data key="d6">61</data>
+      <data key="d7">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+    </node>
+    <node id="&quot;THE SARAH SILVERMAN PROGRAM&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Sarah Silverman Program is a TV show where Jay Johnston played the role of Officer Jay McPherson."</data>
+      <data key="d2">3736224fbd2e45ba993c413b0e327b5d</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">62</data>
+      <data key="d7">4f3c97517f794ebfb49c4c6315f9cf23</data>
+    </node>
+    <node id="&quot;JAY JOHNSTON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3736224fbd2e45ba993c413b0e327b5d</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">63</data>
+      <data key="d7">1745a2485a9443bab76587ad650e9be0</data>
+    </node>
+    <node id="&quot;KATHARINE HEPBURN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Katharine Hepburn stars alongside John Wayne in the 1975 film Rooster Cogburn."</data>
+      <data key="d2">869940e7248f38af980e0af675b62f92</data>
+      <data key="d5">0</data>
+      <data key="d6">64</data>
+      <data key="d7">32e6ccab20d94029811127dbbe424c64</data>
+    </node>
+    <node id="&quot;STUART MILLAR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Stuart Millar is the director of the 1975 American Western adventure film Rooster Cogburn."</data>
+      <data key="d2">869940e7248f38af980e0af675b62f92</data>
+      <data key="d5">1</data>
+      <data key="d6">65</data>
+      <data key="d7">94a964c6992945ebb3833dfdfdc8d655</data>
+    </node>
+    <node id="&quot;MARTHA HYER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Martha Hyer wrote the screenplay for the 1975 film Rooster Cogburn, based on the character created by Charles McColl Portis."</data>
+      <data key="d2">869940e7248f38af980e0af675b62f92</data>
+      <data key="d5">0</data>
+      <data key="d6">66</data>
+      <data key="d7">1eb829d0ace042089f0746f78729696c</data>
+    </node>
+    <node id="&quot;CHARLES MCCOLL PORTIS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Charles McColl Portis is the author of the 1968 western novel 'True Grit', which inspired the character Rooster Cogburn."</data>
+      <data key="d2">869940e7248f38af980e0af675b62f92</data>
+      <data key="d5">0</data>
+      <data key="d6">67</data>
+      <data key="d7">015e7b58d1a14b44beab3bbc9f912c18</data>
+    </node>
+    <node id="&quot;ROOSTER COGBURN (FILM)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Rooster Cogburn is a 1975 American Western adventure film directed by Stuart Millar and starring John Wayne and Katharine Hepburn."</data>
+      <data key="d2">869940e7248f38af980e0af675b62f92</data>
+      <data key="d5">2</data>
+      <data key="d6">68</data>
+      <data key="d7">26f88ab3e2e04c33a459ad6270ade565</data>
+    </node>
+    <node id="&quot;TRUE GRIT (NOVEL)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"True Grit is a 1968 western novel written by Charles McColl Portis, which inspired the character Rooster Cogburn."</data>
+      <data key="d2">869940e7248f38af980e0af675b62f92</data>
+      <data key="d5">1</data>
+      <data key="d6">69</data>
+      <data key="d7">babe97e1d9784cffa1c85abc1e588126</data>
+    </node>
+    <node id="&quot;SAM&quot;">
+      <data key="d0">"ROLE"</data>
+      <data key="d1">"Sam is a character played by Dooley Wilson in a film."</data>
+      <data key="d2">793d4072b66bba53b3ba7a267d43a915</data>
+      <data key="d5">4</data>
+      <data key="d6">70</data>
+      <data key="d7">1033a18c45aa4584b2aef6ab96890351</data>
+    </node>
+    <node id="&quot;WALLIS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Wallis was a producer who considered dubbing over Dooley Wilson's voice for the songs in the film."</data>
+      <data key="d2">793d4072b66bba53b3ba7a267d43a915</data>
+      <data key="d5">1</data>
+      <data key="d6">71</data>
+      <data key="d7">c9b8ce91fc2945b4907fe35519339cac</data>
+    </node>
+    <node id="&quot;HAZEL SCOTT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hazel Scott was a singer who was originally considered by Wallis to play the role of Sam, had it been changed to a woman."</data>
+      <data key="d2">793d4072b66bba53b3ba7a267d43a915</data>
+      <data key="d5">1</data>
+      <data key="d6">72</data>
+      <data key="d7">fa3c4204421c48609e52c8de2da4c654</data>
+    </node>
+    <node id="&quot;LENA HORNE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lena Horne was a singer who was originally considered by Wallis to play the role of Sam, had it been changed to a woman."</data>
+      <data key="d2">793d4072b66bba53b3ba7a267d43a915</data>
+      <data key="d5">1</data>
+      <data key="d6">73</data>
+      <data key="d7">53af055f068244d0ac861b2e89376495</data>
+    </node>
+    <node id="&quot;ELLA FITZGERALD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ella Fitzgerald was a singer who was originally considered by Wallis to play the role of Sam, had it been changed to a woman."</data>
+      <data key="d2">793d4072b66bba53b3ba7a267d43a915</data>
+      <data key="d5">1</data>
+      <data key="d6">74</data>
+      <data key="d7">c03ab3ce8cb74ad2a03b94723bfab3c7</data>
+    </node>
+    <node id="&quot;DOOLEY WILSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">793d4072b66bba53b3ba7a267d43a915</data>
+      <data key="d5">2</data>
+      <data key="d6">75</data>
+      <data key="d7">ed6d2eee9d7b4f5db466b1f6404d31cc</data>
+    </node>
+    <node id="&quot;GEORGE BROWN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"George Brown was a Reformer who agitated for responsible government in Upper Canada."</data>
+      <data key="d2">4672646c5fd1d77200a54400d45eab17</data>
+      <data key="d5">1</data>
+      <data key="d6">76</data>
+      <data key="d7">fc01e9baa80e417c9206f941bb279407</data>
+    </node>
+    <node id="&quot;ROBERT BALDWIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Robert Baldwin was a Reformer who agitated for responsible government in Upper Canada."</data>
+      <data key="d2">4672646c5fd1d77200a54400d45eab17</data>
+      <data key="d5">0</data>
+      <data key="d6">77</data>
+      <data key="d7">56d0e5ebe79e4814bd1463cf6ca21394</data>
+    </node>
+    <node id="&quot;WILLIAM LYON MACKENZIE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"William Lyon Mackenzie was a Reformer who agitated for responsible government in Upper Canada."</data>
+      <data key="d2">4672646c5fd1d77200a54400d45eab17</data>
+      <data key="d5">0</data>
+      <data key="d6">78</data>
+      <data key="d7">7c49f2710e8b4d3b8dc9310834406ea5</data>
+    </node>
+    <node id="&quot;JOSEPH HOWE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Joseph Howe was a Reformer who agitated for responsible government in Nova Scotia."</data>
+      <data key="d2">4672646c5fd1d77200a54400d45eab17</data>
+      <data key="d5">1</data>
+      <data key="d6">79</data>
+      <data key="d7">c6d1e4f56c2843e89cf0b91c10bb6de2</data>
+    </node>
+    <node id="&quot;LOUIS-JOSEPH PAPINEAU&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Louis-Joseph Papineau led the Patriotes and Rouges in Lower Canada."</data>
+      <data key="d2">4672646c5fd1d77200a54400d45eab17</data>
+      <data key="d5">0</data>
+      <data key="d6">80</data>
+      <data key="d7">0adb2d9941f34ef7b2f7743cc6225844</data>
+    </node>
+    <node id="&quot;THE CLEAR GRITS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Clear Grits were a group of Reformers who agitated for responsible government in Upper Canada."</data>
+      <data key="d2">4672646c5fd1d77200a54400d45eab17</data>
+      <data key="d5">1</data>
+      <data key="d6">81</data>
+      <data key="d7">6b02373137fd438ba96af28f735cdbdb</data>
+    </node>
+    <node id="&quot;PARTI ROUGE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Parti rouge was a group of Reformers who agitated for responsible government in Lower Canada."</data>
+      <data key="d2">4672646c5fd1d77200a54400d45eab17</data>
+      <data key="d5">1</data>
+      <data key="d6">82</data>
+      <data key="d7">36a4fcd8efc144e6b8af9a1c7ab8b2ce</data>
+    </node>
+    <node id="&quot;PROVINCE OF CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Province of Canada was a geographic region where the Clear Grits and Parti rouge functioned as a united bloc in the legislature beginning in 1854."</data>
+      <data key="d2">4672646c5fd1d77200a54400d45eab17</data>
+      <data key="d5">0</data>
+      <data key="d6">83</data>
+      <data key="d7">fbeef791d19b413a9c93c6608286ab63</data>
+    </node>
+    <node id="&quot;THE LIBERALS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4672646c5fd1d77200a54400d45eab17</data>
+      <data key="d5">2</data>
+      <data key="d6">84</data>
+      <data key="d7">d2b629c0396f4180a03e16ddf3818589</data>
+    </node>
+    <node id="&quot;UPPER CANADA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4672646c5fd1d77200a54400d45eab17</data>
+      <data key="d5">1</data>
+      <data key="d6">85</data>
+      <data key="d7">6102fc6619ed422ebc42588bfa97355d</data>
+    </node>
+    <node id="&quot;NOVA SCOTIA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4672646c5fd1d77200a54400d45eab17</data>
+      <data key="d5">1</data>
+      <data key="d6">86</data>
+      <data key="d7">8d141c0b80f74b79a05eed7fe161fe49</data>
+    </node>
+    <node id="&quot;CATHERINE MIDDLETON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Catherine Middleton is the Duchess of Cambridge, wife of Prince William, and was portrayed by Camilla Luddington in a TV movie."</data>
+      <data key="d2">78526da78e52e7e0d7d7e6c8675ebff9</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">87</data>
+      <data key="d7">e22d1d1cd8d14f12b81828d940f40d70</data>
+    </node>
+    <node id="&quot;PRINCE WILLIAM&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Prince William is the Duke of Cambridge, husband of Catherine Middleton, and was featured in a TV movie about their relationship."</data>
+      <data key="d2">78526da78e52e7e0d7d7e6c8675ebff9</data>
+      <data key="d5">0</data>
+      <data key="d6">88</data>
+      <data key="d7">9ab48505fb1b487babd0d1f6d3a3f980</data>
+    </node>
+    <node id="&quot;DAILY MAIL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Daily Mail is a newspaper that described Camilla Luddington as on the path to fame and fortune in 2011."</data>
+      <data key="d2">78526da78e52e7e0d7d7e6c8675ebff9</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">89</data>
+      <data key="d7">148fffeb994541b2b4b6dcefda7001a8</data>
+    </node>
+    <node id="&quot;SHOWTIME&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Showtime is a TV network that aired the comedy-drama series Californication, which featured Camilla Luddington."</data>
+      <data key="d2">78526da78e52e7e0d7d7e6c8675ebff9</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">90</data>
+      <data key="d7">89c08e793298442686292454a1abff31</data>
+    </node>
+    <node id="&quot;GREY'S ANATOMY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Grey's Anatomy is a TV show where Camilla Luddington played the role of Dr. Jo Wilson."</data>
+      <data key="d2">78526da78e52e7e0d7d7e6c8675ebff9</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">91</data>
+      <data key="d7">0467928aa65e4a4fba62bdb1467e3a54</data>
+    </node>
+    <node id="&quot;CAMILLA LUDDINGTON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">78526da78e52e7e0d7d7e6c8675ebff9</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">6</data>
+      <data key="d6">92</data>
+      <data key="d7">43c3390303c6476cb65f584e37c3e81c</data>
+    </node>
+    <node id="&quot;BROOKS, ALBERTA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Brooks, Alberta is a geographic location in Canada where Shane Joseph was born."</data>
+      <data key="d2">6bf60de042b7035f7a9f7b9f899ea30d</data>
+      <data key="d5">1</data>
+      <data key="d6">93</data>
+      <data key="d7">fa14b16c17e3417dba5a4b473ea5b18d</data>
+    </node>
+    <node id="&quot;SHANE JOSEPH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6bf60de042b7035f7a9f7b9f899ea30d</data>
+      <data key="d5">3</data>
+      <data key="d6">94</data>
+      <data key="d7">7cc3356d38de4328a51a5cbcb187dac3</data>
+    </node>
+    <node id="&quot;PABLO SCHREIBER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Pablo Schreiber is an actor who signed on to star in the film, playing Kris 'Tanto' Paronto, one of the six-man security team."</data>
+      <data key="d2">68496ec74cc759917d1b26b38eafb175</data>
+      <data key="d5">1</data>
+      <data key="d6">95</data>
+      <data key="d7">bef16fb5fd7344cca5e295b13ef3e0cd</data>
+    </node>
+    <node id="&quot;JAMES BADGE DALE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"James Badge Dale is an actor set to star as the leader of the security team."</data>
+      <data key="d2">68496ec74cc759917d1b26b38eafb175</data>
+      <data key="d5">1</data>
+      <data key="d6">96</data>
+      <data key="d7">bb9e01bc171d4326a29afda59ece8d17</data>
+    </node>
+    <node id="&quot;MAX MARTINI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Max Martini is an actor cast as another member of the security team."</data>
+      <data key="d2">68496ec74cc759917d1b26b38eafb175</data>
+      <data key="d5">1</data>
+      <data key="d6">97</data>
+      <data key="d7">3c063eea52e94164b70c99431ea30bae</data>
+    </node>
+    <node id="&quot;DAVID DENMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"David Denman is an actor who signed on to star in the film, playing Boon, an elite sniper."</data>
+      <data key="d2">68496ec74cc759917d1b26b38eafb175</data>
+      <data key="d5">1</data>
+      <data key="d6">98</data>
+      <data key="d7">252cc8452bfc4c2aa58cab68d8b61879</data>
+    </node>
+    <node id="&quot;DOMINIC FUMUSA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dominic Fumusa is an actor who signed on to play John 'Tig' Tiegen, one of the members of the security team, a former Marine with weapons expertise."</data>
+      <data key="d2">68496ec74cc759917d1b26b38eafb175</data>
+      <data key="d5">1</data>
+      <data key="d6">99</data>
+      <data key="d7">7e2c84548fb94ee395ba8588d8f2a006</data>
+    </node>
+    <node id="&quot;FREDDIE STROMA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Freddie Stroma is an actor added to the cast to play the role of an undercover CIA officer in Libya."</data>
+      <data key="d2">68496ec74cc759917d1b26b38eafb175</data>
+      <data key="d5">1</data>
+      <data key="d6">100</data>
+      <data key="d7">f034618dde7948beb6dab30176d0fc87</data>
+    </node>
+    <node id="&quot;TOBY STEPHENS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Toby Stephens is an actor set to play Glen 'Bub' Doherty, another of the security team members."</data>
+      <data key="d2">68496ec74cc759917d1b26b38eafb175</data>
+      <data key="d5">1</data>
+      <data key="d6">101</data>
+      <data key="d7">5c41f96be13e49dba649454297834546</data>
+    </node>
+    <node id="&quot;KRIS 'TANTO' PARONTO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kris 'Tanto' Paronto is a character in the film, played by Pablo Schreiber, one of the six-man security team."</data>
+      <data key="d2">68496ec74cc759917d1b26b38eafb175</data>
+      <data key="d5">1</data>
+      <data key="d6">102</data>
+      <data key="d7">7ea4afbf8a264f29af29950ce98105ba</data>
+    </node>
+    <node id="&quot;JOHN 'TIG' TIEGEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"John 'Tig' Tiegen is a character in the film, played by Dominic Fumusa, one of the members of the security team, a former Marine with weapons expertise."</data>
+      <data key="d2">68496ec74cc759917d1b26b38eafb175</data>
+      <data key="d5">1</data>
+      <data key="d6">103</data>
+      <data key="d7">91ff849d12b24574b0691dbddf44968b</data>
+    </node>
+    <node id="&quot;GLEN 'BUB' DOHERTY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Glen 'Bub' Doherty is a character in the film, played by Toby Stephens, another of the security team members."</data>
+      <data key="d2">68496ec74cc759917d1b26b38eafb175</data>
+      <data key="d5">1</data>
+      <data key="d6">104</data>
+      <data key="d7">d73c1f2fb3094d8dace42ad2a76e9a52</data>
+    </node>
+    <node id="&quot;BOON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Boon is a character in the film, played by David Denman, an elite sniper."</data>
+      <data key="d2">68496ec74cc759917d1b26b38eafb175</data>
+      <data key="d5">1</data>
+      <data key="d6">105</data>
+      <data key="d7">cdc8901e668749889bd49bebdc4ff1f6</data>
+    </node>
+    <node id="&quot;JOHN KRASINSKI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">68496ec74cc759917d1b26b38eafb175</data>
+      <data key="d5">1</data>
+      <data key="d6">106</data>
+      <data key="d7">36084a9fab53433493f079e97e68bf65</data>
+    </node>
+    <node id="&quot;FILM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">68496ec74cc759917d1b26b38eafb175</data>
+      <data key="d5">1</data>
+      <data key="d6">107</data>
+      <data key="d7">eebcc7ec8e3e4df7aea83659bbdc2199</data>
+    </node>
+    <node id="&quot;SECURITY TEAM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">68496ec74cc759917d1b26b38eafb175</data>
+      <data key="d5">2</data>
+      <data key="d6">108</data>
+      <data key="d7">ceadf262ef834e9ab146b20650912cae</data>
+    </node>
+    <node id="&quot;CIA OFFICER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">68496ec74cc759917d1b26b38eafb175</data>
+      <data key="d5">1</data>
+      <data key="d6">109</data>
+      <data key="d7">7f65feab75424b53b24470d305ba331a</data>
+    </node>
+    <node id="&quot;TOM CHANEY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Tom Chaney is a person who murdered Frank Ross and is being pursued by Reuben J. Cogburn."</data>
+      <data key="d2">0029ab756098b6ef4866c083ba03937a</data>
+      <data key="d5">2</data>
+      <data key="d6">110</data>
+      <data key="d7">fd9cb733b28d420cb5cef01e545a132c</data>
+    </node>
+    <node id="&quot;MATTIE ROSS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mattie Ross is the young daughter of Frank Ross, who hires Reuben J. Cogburn to bring Tom Chaney in."</data>
+      <data key="d2">0029ab756098b6ef4866c083ba03937a</data>
+      <data key="d5">1</data>
+      <data key="d6">111</data>
+      <data key="d7">0fbcca3f17c649a08aea64b5a7d9ef36</data>
+    </node>
+    <node id="&quot;REUBEN ``ROOSTER ''J. COGBURN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Reuben J. Cogburn is an aging U.S. Marshal hired by Mattie Ross to track and capture Tom Chaney."</data>
+      <data key="d2">0029ab756098b6ef4866c083ba03937a</data>
+      <data key="d5">1</data>
+      <data key="d6">112</data>
+      <data key="d7">482027a59f32484c9c44fd700615c1b6</data>
+    </node>
+    <node id="&quot;COLONEL STONEHILL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Colonel Stonehill is a person involved in the horse trading with Mattie Ross."</data>
+      <data key="d2">0029ab756098b6ef4866c083ba03937a</data>
+      <data key="d5">0</data>
+      <data key="d6">113</data>
+      <data key="d7">de837ff3d626451282ff6ac77a82216d</data>
+    </node>
+    <node id="&quot;LUCKY ''NED PEPPER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lucky Ned Pepper is an outlaw who has taken up with Tom Chaney in Indian Territory."</data>
+      <data key="d2">0029ab756098b6ef4866c083ba03937a</data>
+      <data key="d5">1</data>
+      <data key="d6">114</data>
+      <data key="d7">460295fed3ae4cd39f9f274cec9c2506</data>
+    </node>
+    <node id="&quot;FORT SMITH, ARKANSAS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Fort Smith, Arkansas is a location where Mattie Ross travels to hire Reuben J. Cogburn."</data>
+      <data key="d2">0029ab756098b6ef4866c083ba03937a</data>
+      <data key="d5">0</data>
+      <data key="d6">115</data>
+      <data key="d7">553b285bba60460ab1ed8341ae61282b</data>
+    </node>
+    <node id="&quot;INDIAN TERRITORY (MODERN - DAY OKLAHOMA)&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Indian Territory (modern - day Oklahoma) is a region where Tom Chaney and Lucky Ned Pepper are hiding."</data>
+      <data key="d2">0029ab756098b6ef4866c083ba03937a</data>
+      <data key="d5">0</data>
+      <data key="d6">116</data>
+      <data key="d7">cec95bf17e7e4c939b56c9c6f402a29f</data>
+    </node>
+    <node id="&quot;FRANK ROSS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0029ab756098b6ef4866c083ba03937a</data>
+      <data key="d5">1</data>
+      <data key="d6">117</data>
+      <data key="d7">599164aead034bc19446efacc77554d2</data>
+    </node>
+    <node id="&quot;WILLIAMSON COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Williamson County is a county in Texas, United States, where Granger is located."</data>
+      <data key="d2">93160d941a34f72dc4412dbb6de8e499</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">118</data>
+      <data key="d7">bbf148ae4d48422f8fdef754cfa2b9e4</data>
+    </node>
+    <node id="&quot;TEXAS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Texas is a state in the United States where Granger and Williamson County are located."</data>
+      <data key="d2">93160d941a34f72dc4412dbb6de8e499</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">119</data>
+      <data key="d7">de61b2670999433f807a6a1dc2b81e43</data>
+    </node>
+    <node id="&quot;REVOLUTION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Revolution is an NBC drama that had an episode filmed in Granger."</data>
+      <data key="d2">93160d941a34f72dc4412dbb6de8e499</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">120</data>
+      <data key="d7">3e95dacfe57b4d57b5da4310ef2e157f</data>
+    </node>
+    <node id="&quot;GRANGER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">93160d941a34f72dc4412dbb6de8e499</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">5</data>
+      <data key="d6">121</data>
+      <data key="d7">1f1545308e9347af91fd03b94aadc21f</data>
+    </node>
+    <node id="&quot;PETER AYKROYD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Peter Aykroyd is a person and Dan's brother, upgraded to featured cast member status."</data>
+      <data key="d2">1e7040d4d323d46e8771977a438a50ab</data>
+      <data key="d5">1</data>
+      <data key="d6">122</data>
+      <data key="d7">6ea81acaf232485e94fff638e03336e1</data>
+    </node>
+    <node id="&quot;JIM DOWNEY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jim Downey is a person upgraded to featured cast member status."</data>
+      <data key="d2">1e7040d4d323d46e8771977a438a50ab</data>
+      <data key="d5">1</data>
+      <data key="d6">123</data>
+      <data key="d7">d136b08d586d488f9e4188b524c85a29</data>
+    </node>
+    <node id="&quot;BRIAN DOYLE-MURRAY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Brian Doyle-Murray is a person and Bill's brother, upgraded to featured cast member status."</data>
+      <data key="d2">1e7040d4d323d46e8771977a438a50ab</data>
+      <data key="d5">1</data>
+      <data key="d6">124</data>
+      <data key="d7">cccfa151fedc4b218a8d96adc7dceabe</data>
+    </node>
+    <node id="&quot;DON NOVELLO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Don Novello is a person upgraded to featured cast member status."</data>
+      <data key="d2">1e7040d4d323d46e8771977a438a50ab</data>
+      <data key="d5">1</data>
+      <data key="d6">125</data>
+      <data key="d7">ce54725672a74ebcabe6127577dacb2b</data>
+    </node>
+    <node id="&quot;TOM SCHILLER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Tom Schiller is a person upgraded to featured cast member status."</data>
+      <data key="d2">1e7040d4d323d46e8771977a438a50ab</data>
+      <data key="d5">1</data>
+      <data key="d6">126</data>
+      <data key="d7">ea2b28ca1a974ffab4517811dc1d1e5c</data>
+    </node>
+    <node id="&quot;ALAN ZWEIBEL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alan Zweibel is a person upgraded to featured cast member status."</data>
+      <data key="d2">1e7040d4d323d46e8771977a438a50ab</data>
+      <data key="d5">1</data>
+      <data key="d6">127</data>
+      <data key="d7">aff21f1da1654e7babdcf3fb0e4a75fc</data>
+    </node>
+    <node id="&quot;PAUL SHAFFER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Paul Shaffer is the band leader who joined the cast, becoming the first person from the 'SNL' band to become a cast member."</data>
+      <data key="d2">1e7040d4d323d46e8771977a438a50ab</data>
+      <data key="d5">1</data>
+      <data key="d6">128</data>
+      <data key="d7">dc2cc9016e3f49dbac7232f05cce794d</data>
+    </node>
+    <node id="&quot;HARRY SHEARER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Harry Shearer is a person who joined the show as a featured cast member and was promoted to repertory status during the season."</data>
+      <data key="d2">1e7040d4d323d46e8771977a438a50ab</data>
+      <data key="d5">1</data>
+      <data key="d6">129</data>
+      <data key="d7">6ea0cef05f694dcea455478f40674e45</data>
+    </node>
+    <node id="&quot;SATURDAY NIGHT LIVE (SNL)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Saturday Night Live (SNL) is an organization where Lorne Michaels upgraded many of the show's writers to featured cast member status."</data>
+      <data key="d2">1e7040d4d323d46e8771977a438a50ab</data>
+      <data key="d5">9</data>
+      <data key="d6">130</data>
+      <data key="d7">7ab5d53a872f4dfc98f3d386879f3c75</data>
+    </node>
+    <node id="&quot;LORNE MICHAELS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1e7040d4d323d46e8771977a438a50ab</data>
+      <data key="d5">1</data>
+      <data key="d6">131</data>
+      <data key="d7">af1d0fec22114a3398b8016f5225f9ed</data>
+    </node>
+    <edge source="&quot;HBO&quot;" target="&quot;TRUE BLOOD&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"True Blood is an HBO supernatural drama series."</data>
+      <data key="d10">f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d11">b07a7f088364459098cd8511ff27a4c8</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HBO&quot;" target="&quot;JAY JOHNSTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jay Johnston worked on 'Mr. Show', which was aired on HBO."</data>
+      <data key="d10">3736224fbd2e45ba993c413b0e327b5d</data>
+      <data key="d11">8870cf2b5df64d2cab5820f67e29b9f1</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HBO&quot;" target="&quot;CAMILLA LUDDINGTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Camilla Luddington was part of the cast of True Blood, an HBO series."</data>
+      <data key="d10">78526da78e52e7e0d7d7e6c8675ebff9</data>
+      <data key="d11">cd130938a2844050be991af70baf5ee0</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ALAN BALL&quot;" target="&quot;TRUE BLOOD&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Alan Ball is an executive producer of True Blood."</data>
+      <data key="d10">f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d11">43544b99c3b04b059546198a0ae6366d</data>
+      <data key="d12">3</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BRIAN BUCKNER&quot;" target="&quot;TRUE BLOOD&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Brian Buckner is an executive producer of True Blood."</data>
+      <data key="d10">f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d11">a671bf7fea2f4514b6e96ba99127fafd</data>
+      <data key="d12">4</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FAREWELL TO BON TEMPS&quot;" target="&quot;TRUE BLOOD&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Farewell to Bon Temps is a special episode related to the final season of True Blood."</data>
+      <data key="d10">f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d11">525f41ea20274a05af4e52b625b473f3</data>
+      <data key="d12">5</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is the county seat of Pima County."</data>
+      <data key="d10">0029ab756098b6ef4866c083ba03937a,0621db152f88414dc52bebd5865f3129,06cb261637f1426286ad3996f9581f4b,1e7040d4d323d46e8771977a438a50ab,1e9237ec137a4ca39f014873582a8fe6,1f83f3f673481c0e64b2cb9978841a2c,3736224fbd2e45ba993c413b0e327b5d,42ae28630d450770debdbc28e5c3c132,4672646c5fd1d77200a54400d45eab17,5e961a93641835436fad73d61620d170,68496ec74cc759917d1b26b38eafb175,6bf60de042b7035f7a9f7b9f899ea30d,78526da78e52e7e0d7d7e6c8675ebff9,793d4072b66bba53b3ba7a267d43a915,869940e7248f38af980e0af675b62f92,91392be5c9d9fcd34368d43ede3d38da,93160d941a34f72dc4412dbb6de8e499,9e889c0e434ebf0a1c19c82a36371ff6,a05b8fae5eeb7b02a9fac1c715fa67d0,f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d11">071a416efbec4f0886c19ac68f6d43cb</data>
+      <data key="d12">6</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Pima County is a county in Arizona."</data>
+      <data key="d10">0029ab756098b6ef4866c083ba03937a,0621db152f88414dc52bebd5865f3129,06cb261637f1426286ad3996f9581f4b,1e7040d4d323d46e8771977a438a50ab,1e9237ec137a4ca39f014873582a8fe6,1f83f3f673481c0e64b2cb9978841a2c,3736224fbd2e45ba993c413b0e327b5d,42ae28630d450770debdbc28e5c3c132,4672646c5fd1d77200a54400d45eab17,5e961a93641835436fad73d61620d170,68496ec74cc759917d1b26b38eafb175,6bf60de042b7035f7a9f7b9f899ea30d,78526da78e52e7e0d7d7e6c8675ebff9,793d4072b66bba53b3ba7a267d43a915,869940e7248f38af980e0af675b62f92,91392be5c9d9fcd34368d43ede3d38da,93160d941a34f72dc4412dbb6de8e499,9e889c0e434ebf0a1c19c82a36371ff6,a05b8fae5eeb7b02a9fac1c715fa67d0,f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d11">6d8473ef3b1042bf87178a611e3dbcc6</data>
+      <data key="d12">7</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The University of Arizona is located in Tucson."</data>
+      <data key="d10">0029ab756098b6ef4866c083ba03937a,0621db152f88414dc52bebd5865f3129,06cb261637f1426286ad3996f9581f4b,1e7040d4d323d46e8771977a438a50ab,1e9237ec137a4ca39f014873582a8fe6,1f83f3f673481c0e64b2cb9978841a2c,3736224fbd2e45ba993c413b0e327b5d,42ae28630d450770debdbc28e5c3c132,4672646c5fd1d77200a54400d45eab17,5e961a93641835436fad73d61620d170,68496ec74cc759917d1b26b38eafb175,6bf60de042b7035f7a9f7b9f899ea30d,78526da78e52e7e0d7d7e6c8675ebff9,793d4072b66bba53b3ba7a267d43a915,869940e7248f38af980e0af675b62f92,91392be5c9d9fcd34368d43ede3d38da,93160d941a34f72dc4412dbb6de8e499,9e889c0e434ebf0a1c19c82a36371ff6,a05b8fae5eeb7b02a9fac1c715fa67d0,f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d11">30c9641543c24773938bd8ec57ea98ab</data>
+      <data key="d12">8</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Arizona is a state in the United States."</data>
+      <data key="d10">0029ab756098b6ef4866c083ba03937a,0621db152f88414dc52bebd5865f3129,06cb261637f1426286ad3996f9581f4b,1e7040d4d323d46e8771977a438a50ab,1e9237ec137a4ca39f014873582a8fe6,1f83f3f673481c0e64b2cb9978841a2c,3736224fbd2e45ba993c413b0e327b5d,42ae28630d450770debdbc28e5c3c132,4672646c5fd1d77200a54400d45eab17,5e961a93641835436fad73d61620d170,68496ec74cc759917d1b26b38eafb175,6bf60de042b7035f7a9f7b9f899ea30d,78526da78e52e7e0d7d7e6c8675ebff9,793d4072b66bba53b3ba7a267d43a915,869940e7248f38af980e0af675b62f92,91392be5c9d9fcd34368d43ede3d38da,93160d941a34f72dc4412dbb6de8e499,9e889c0e434ebf0a1c19c82a36371ff6,a05b8fae5eeb7b02a9fac1c715fa67d0,f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d11">18b839da898e4026b81727d759d95c6a</data>
+      <data key="d12">9</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is a city in Arizona."</data>
+      <data key="d10">0029ab756098b6ef4866c083ba03937a,0621db152f88414dc52bebd5865f3129,06cb261637f1426286ad3996f9581f4b,1e7040d4d323d46e8771977a438a50ab,1e9237ec137a4ca39f014873582a8fe6,1f83f3f673481c0e64b2cb9978841a2c,3736224fbd2e45ba993c413b0e327b5d,42ae28630d450770debdbc28e5c3c132,4672646c5fd1d77200a54400d45eab17,5e961a93641835436fad73d61620d170,68496ec74cc759917d1b26b38eafb175,6bf60de042b7035f7a9f7b9f899ea30d,78526da78e52e7e0d7d7e6c8675ebff9,793d4072b66bba53b3ba7a267d43a915,869940e7248f38af980e0af675b62f92,91392be5c9d9fcd34368d43ede3d38da,93160d941a34f72dc4412dbb6de8e499,9e889c0e434ebf0a1c19c82a36371ff6,a05b8fae5eeb7b02a9fac1c715fa67d0,f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d11">eeef6ae5c464400c8755900b4f1ac37a</data>
+      <data key="d12">10</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Phoenix is a city in Arizona."</data>
+      <data key="d10">0029ab756098b6ef4866c083ba03937a,0621db152f88414dc52bebd5865f3129,06cb261637f1426286ad3996f9581f4b,1e7040d4d323d46e8771977a438a50ab,1e9237ec137a4ca39f014873582a8fe6,1f83f3f673481c0e64b2cb9978841a2c,3736224fbd2e45ba993c413b0e327b5d,42ae28630d450770debdbc28e5c3c132,4672646c5fd1d77200a54400d45eab17,5e961a93641835436fad73d61620d170,68496ec74cc759917d1b26b38eafb175,6bf60de042b7035f7a9f7b9f899ea30d,78526da78e52e7e0d7d7e6c8675ebff9,793d4072b66bba53b3ba7a267d43a915,869940e7248f38af980e0af675b62f92,91392be5c9d9fcd34368d43ede3d38da,93160d941a34f72dc4412dbb6de8e499,9e889c0e434ebf0a1c19c82a36371ff6,a05b8fae5eeb7b02a9fac1c715fa67d0,f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d11">422433aa45804c7ebb973b2fafce5da6</data>
+      <data key="d12">11</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;CAMILLA LUDDINGTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Camilla Luddington has mainly worked as an actress in the United States."</data>
+      <data key="d10">78526da78e52e7e0d7d7e6c8675ebff9</data>
+      <data key="d11">86505bca739d4bccaaa1a8e0f3baffdc</data>
+      <data key="d12">12</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;GRANGER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Granger is a city located in the United States."</data>
+      <data key="d10">93160d941a34f72dc4412dbb6de8e499</data>
+      <data key="d11">1af9faf341e14a5bbf4ddc9080e8dc0b</data>
+      <data key="d12">13</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d10">0029ab756098b6ef4866c083ba03937a,0621db152f88414dc52bebd5865f3129,06cb261637f1426286ad3996f9581f4b,1e7040d4d323d46e8771977a438a50ab,1e9237ec137a4ca39f014873582a8fe6,1f83f3f673481c0e64b2cb9978841a2c,3736224fbd2e45ba993c413b0e327b5d,42ae28630d450770debdbc28e5c3c132,4672646c5fd1d77200a54400d45eab17,5e961a93641835436fad73d61620d170,68496ec74cc759917d1b26b38eafb175,6bf60de042b7035f7a9f7b9f899ea30d,78526da78e52e7e0d7d7e6c8675ebff9,793d4072b66bba53b3ba7a267d43a915,869940e7248f38af980e0af675b62f92,91392be5c9d9fcd34368d43ede3d38da,93160d941a34f72dc4412dbb6de8e499,9e889c0e434ebf0a1c19c82a36371ff6,a05b8fae5eeb7b02a9fac1c715fa67d0,f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d11">353d91abc68648639d65a549e59b5cf3</data>
+      <data key="d12">14</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Mexico shares an international border with the United States."</data>
+      <data key="d10">0029ab756098b6ef4866c083ba03937a,0621db152f88414dc52bebd5865f3129,06cb261637f1426286ad3996f9581f4b,1e7040d4d323d46e8771977a438a50ab,1e9237ec137a4ca39f014873582a8fe6,1f83f3f673481c0e64b2cb9978841a2c,3736224fbd2e45ba993c413b0e327b5d,42ae28630d450770debdbc28e5c3c132,4672646c5fd1d77200a54400d45eab17,5e961a93641835436fad73d61620d170,68496ec74cc759917d1b26b38eafb175,6bf60de042b7035f7a9f7b9f899ea30d,78526da78e52e7e0d7d7e6c8675ebff9,793d4072b66bba53b3ba7a267d43a915,869940e7248f38af980e0af675b62f92,91392be5c9d9fcd34368d43ede3d38da,93160d941a34f72dc4412dbb6de8e499,9e889c0e434ebf0a1c19c82a36371ff6,a05b8fae5eeb7b02a9fac1c715fa67d0,f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d11">7ce637e4f35b42e3a9f8272cab69cd22</data>
+      <data key="d12">15</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d10">0029ab756098b6ef4866c083ba03937a,0621db152f88414dc52bebd5865f3129,06cb261637f1426286ad3996f9581f4b,1e7040d4d323d46e8771977a438a50ab,1e9237ec137a4ca39f014873582a8fe6,1f83f3f673481c0e64b2cb9978841a2c,3736224fbd2e45ba993c413b0e327b5d,42ae28630d450770debdbc28e5c3c132,4672646c5fd1d77200a54400d45eab17,5e961a93641835436fad73d61620d170,68496ec74cc759917d1b26b38eafb175,6bf60de042b7035f7a9f7b9f899ea30d,78526da78e52e7e0d7d7e6c8675ebff9,793d4072b66bba53b3ba7a267d43a915,869940e7248f38af980e0af675b62f92,91392be5c9d9fcd34368d43ede3d38da,93160d941a34f72dc4412dbb6de8e499,9e889c0e434ebf0a1c19c82a36371ff6,a05b8fae5eeb7b02a9fac1c715fa67d0,f8cb3b54411f3897398ce264ffd8ddb6</data>
+      <data key="d11">4d999d7744b04a998475f8f8531589f0</data>
+      <data key="d12">16</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MELBOURNE STORM&quot;" target="&quot;2018 NRL GRAND FINAL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Melbourne Storm contested the 2018 NRL Grand Final against the Sydney Roosters."</data>
+      <data key="d10">1f83f3f673481c0e64b2cb9978841a2c</data>
+      <data key="d11">9a6f414210e14841a5b0e661aedc898d</data>
+      <data key="d12">17</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LUKE KEARY&quot;" target="&quot;SYDNEY ROOSTERS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Luke Keary is a player for the Sydney Roosters and was awarded the Clive Churchill Medal in the 2018 NRL Grand Final."</data>
+      <data key="d10">1f83f3f673481c0e64b2cb9978841a2c</data>
+      <data key="d11">db541b7260974db8bac94e953009f60e</data>
+      <data key="d12">18</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ANZ STADIUM&quot;" target="&quot;SYDNEY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The ANZ Stadium is located in Sydney, where the 2018 NRL Grand Final was held."</data>
+      <data key="d10">1f83f3f673481c0e64b2cb9978841a2c</data>
+      <data key="d11">f2ff8044718648e18acef16dd9a65436</data>
+      <data key="d12">19</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;2018 NRL GRAND FINAL&quot;" target="&quot;SYDNEY ROOSTERS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Sydney Roosters won the 2018 NRL Grand Final, claiming their 14th premiership title."</data>
+      <data key="d10">1f83f3f673481c0e64b2cb9978841a2c</data>
+      <data key="d11">00d785e7d76b47ec81b508e768d40584</data>
+      <data key="d12">20</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SYDNEY ROOSTERS&quot;" target="&quot;DANIEL TUPOU&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Daniel Tupou plays for the Sydney Roosters in the NRL."</data>
+      <data key="d10">42ae28630d450770debdbc28e5c3c132</data>
+      <data key="d11">87915637da3e474c9349bd0ae604bd95</data>
+      <data key="d12">21</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SYDNEY ROOSTERS&quot;" target="&quot;NRL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Sydney Roosters compete in the NRL."</data>
+      <data key="d10">42ae28630d450770debdbc28e5c3c132</data>
+      <data key="d11">8f1eba29f39e411188200bf0d14628ec</data>
+      <data key="d12">22</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SYDNEY ROOSTERS&quot;" target="&quot;2013 NRL PREMIERSHIP&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Sydney Roosters won the 2013 NRL Premiership with Daniel Tupou as a team member."</data>
+      <data key="d10">42ae28630d450770debdbc28e5c3c132</data>
+      <data key="d11">7282c73622b8408e97289d959faff483</data>
+      <data key="d12">23</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SYDNEY ROOSTERS&quot;" target="&quot;2018 NRL PREMIERSHIP&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Sydney Roosters won the 2018 NRL Premiership with Daniel Tupou as a team member."</data>
+      <data key="d10">42ae28630d450770debdbc28e5c3c132</data>
+      <data key="d11">3deb220d31f74103aa44870a36a63220</data>
+      <data key="d12">24</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MELINDA&quot;" target="&quot;JIM CLANCY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jim Clancy is married to Melinda."</data>
+      <data key="d10">91392be5c9d9fcd34368d43ede3d38da</data>
+      <data key="d11">af7a1584dd15492cb9a4940e285f57fc</data>
+      <data key="d12">25</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MELINDA&quot;" target="&quot;JENNIFER LOVE HEWITT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jennifer Love Hewitt plays the role of Melinda."</data>
+      <data key="d10">91392be5c9d9fcd34368d43ede3d38da</data>
+      <data key="d11">6e8d9029ce4e4ea182367173ab2c7bbf</data>
+      <data key="d12">26</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DAVID CONRAD&quot;" target="&quot;JIM CLANCY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"David Conrad plays the role of Jim Clancy."</data>
+      <data key="d10">91392be5c9d9fcd34368d43ede3d38da</data>
+      <data key="d11">cbf232211e7d4eb6abdbe182f71c2cf0</data>
+      <data key="d12">27</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CHARLES PORTIS&quot;" target="&quot;TRUE GRIT&quot;">
+      <data key="d8">2.0</data>
+      <data key="d9">Here is a comprehensive summary of the data:
+
+Charles Portis, the author, wrote the novel "True Grit", which was later adapted into a film of the same name.</data>
+      <data key="d10">06cb261637f1426286ad3996f9581f4b,5e961a93641835436fad73d61620d170</data>
+      <data key="d11">bb0cff774a4440b289cc6f3b929fe13c</data>
+      <data key="d12">28</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MARGUERITE ROBERTS&quot;" target="&quot;TRUE GRIT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Marguerite Roberts wrote the screenplay for the film adaptation of 'True Grit'."&gt;</data>
+      <data key="d10">5e961a93641835436fad73d61620d170</data>
+      <data key="d11">ce55841ebfdd47008bab8c258f10372e</data>
+      <data key="d12">29</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HENRY HATHAWAY&quot;" target="&quot;TRUE GRIT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Henry Hathaway directed the 1969 film adaptation of 'True Grit'."&gt;</data>
+      <data key="d10">5e961a93641835436fad73d61620d170</data>
+      <data key="d11">6090e736374d45fd84f0e4610a314f8f</data>
+      <data key="d12">30</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JOHN WAYNE&quot;" target="&quot;ROOSTER COGBURN&quot;">
+      <data key="d8">2.0</data>
+      <data key="d9">Here is a comprehensive summary of the data:
+
+John Wayne plays the role of U.S. Marshal Reuben J. "Rooster" Cogburn, reprising his role in the 1975 film Rooster Cogburn and its sequel.</data>
+      <data key="d10">5e961a93641835436fad73d61620d170,869940e7248f38af980e0af675b62f92</data>
+      <data key="d11">0e8d921ccd8d4a8594b65b7fd19f7120</data>
+      <data key="d12">31</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TRUE GRIT&quot;" target="&quot;COEN BROTHERS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Coen brothers directed, wrote, produced, and edited True Grit."</data>
+      <data key="d10">06cb261637f1426286ad3996f9581f4b</data>
+      <data key="d11">59c726a8792d443e84ab052cb7942b4a</data>
+      <data key="d12">32</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TRUE GRIT&quot;" target="&quot;STEVEN SPIELBERG&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Steven Spielberg is an executive producer of True Grit."</data>
+      <data key="d10">06cb261637f1426286ad3996f9581f4b</data>
+      <data key="d11">4f2c665decf242b0bfcaf7350b0e02ed</data>
+      <data key="d12">33</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TRUE GRIT&quot;" target="&quot;HAILEE STEINFELD&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hailee Steinfeld stars in True Grit as Mattie Ross."</data>
+      <data key="d10">06cb261637f1426286ad3996f9581f4b</data>
+      <data key="d11">66cdf168f36d4a57a505028c97dc06e0</data>
+      <data key="d12">34</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TRUE GRIT&quot;" target="&quot;JEFF BRIDGES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jeff Bridges stars in True Grit as Deputy U.S. Marshal Reuben J. 'Rooster' Cogburn."</data>
+      <data key="d10">06cb261637f1426286ad3996f9581f4b</data>
+      <data key="d11">38f51478f41f48db9bee570859b6f43e</data>
+      <data key="d12">35</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TRUE GRIT&quot;" target="&quot;MATT DAMON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Matt Damon is an actor in True Grit."</data>
+      <data key="d10">06cb261637f1426286ad3996f9581f4b</data>
+      <data key="d11">896d2a51e8de47de85ba8ced108c3d53</data>
+      <data key="d12">36</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TRUE GRIT&quot;" target="&quot;JOSH BROLIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Josh Brolin is an actor in True Grit."</data>
+      <data key="d10">06cb261637f1426286ad3996f9581f4b</data>
+      <data key="d11">14555b518e954637b83aa762dc03164e</data>
+      <data key="d12">37</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TRUE GRIT&quot;" target="&quot;BARRY PEPPER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Barry Pepper is an actor in True Grit."</data>
+      <data key="d10">06cb261637f1426286ad3996f9581f4b</data>
+      <data key="d11">b1f6164116d44fe8b8f135d7f65b9e58</data>
+      <data key="d12">38</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TRUE GRIT&quot;" target="&quot;GRANGER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Some scenes of the movie True Grit were filmed in Granger."</data>
+      <data key="d10">93160d941a34f72dc4412dbb6de8e499</data>
+      <data key="d11">c8b2408617804483b620e1a6691ac90d</data>
+      <data key="d12">39</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ISERLOHN ROOSTERS&quot;" target="&quot;STEFAN LANGWIEDER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Stefan Langwieder currently plays for Iserlohn Roosters."</data>
+      <data key="d10">9e889c0e434ebf0a1c19c82a36371ff6</data>
+      <data key="d11">a5e0d1644eb547ba9a5c3211aac4631a</data>
+      <data key="d12">40</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ISERLOHN ROOSTERS&quot;" target="&quot;DEUTSCHE EISHOCKEY LIGA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Iserlohn Roosters is a team in the Deutsche Eishockey Liga."</data>
+      <data key="d10">9e889c0e434ebf0a1c19c82a36371ff6</data>
+      <data key="d11">5a28b94bc63b44edb30c54748fd14f15</data>
+      <data key="d12">41</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ISERLOHN ROOSTERS&quot;" target="&quot;SHANE JOSEPH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Shane Joseph played for the Iserlohn Roosters in the Deutsche Eishockey Liga."</data>
+      <data key="d10">6bf60de042b7035f7a9f7b9f899ea30d</data>
+      <data key="d11">f97011b2a99d44648e18d517e1eae15c</data>
+      <data key="d12">42</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ADLER MANNHEIM&quot;" target="&quot;STEFAN LANGWIEDER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Stefan Langwieder initially played for Adler Mannheim during the 2007 season."</data>
+      <data key="d10">9e889c0e434ebf0a1c19c82a36371ff6</data>
+      <data key="d11">35489ca6a63b47d6a8913cf333818bc1</data>
+      <data key="d12">43</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ADLER MANNHEIM&quot;" target="&quot;DEUTSCHE EISHOCKEY LIGA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Adler Mannheim is a team in the Deutsche Eishockey Liga."</data>
+      <data key="d10">9e889c0e434ebf0a1c19c82a36371ff6</data>
+      <data key="d11">5d3344f45e654d2c808481672f2f08dd</data>
+      <data key="d12">44</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DEUTSCHE EISHOCKEY LIGA&quot;" target="&quot;SHANE JOSEPH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Shane Joseph played in the Deutsche Eishockey Liga for the Iserlohn Roosters."</data>
+      <data key="d10">6bf60de042b7035f7a9f7b9f899ea30d</data>
+      <data key="d11">6fb57f83baec45c9b30490ee991f433f</data>
+      <data key="d12">45</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DANNY MASTERSON&quot;" target="&quot;CHRISTOPHER KENNEDY MASTERSON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Christopher Kennedy Masterson is the younger brother of Danny Masterson."</data>
+      <data key="d10">1e9237ec137a4ca39f014873582a8fe6</data>
+      <data key="d11">68762e6f0d1c41cd857c6b964a8e76c3</data>
+      <data key="d12">46</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ALANNA MASTERSON&quot;" target="&quot;CHRISTOPHER KENNEDY MASTERSON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Christopher Kennedy Masterson is the older brother of Alanna Masterson."</data>
+      <data key="d10">1e9237ec137a4ca39f014873582a8fe6</data>
+      <data key="d11">70634e10a5e845aa8c6a32fe7e8eb2b2</data>
+      <data key="d12">47</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JORDAN MASTERSON&quot;" target="&quot;CHRISTOPHER KENNEDY MASTERSON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Christopher Kennedy Masterson is the older brother of Jordan Masterson."</data>
+      <data key="d10">1e9237ec137a4ca39f014873582a8fe6</data>
+      <data key="d11">04085f7cf46544b79597fc49286ff84d</data>
+      <data key="d12">48</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NRL&quot;" target="&quot;DANIEL TUPOU&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Daniel Tupou participates in the NRL as a professional rugby league player."</data>
+      <data key="d10">42ae28630d450770debdbc28e5c3c132</data>
+      <data key="d11">d203efdbfb2f4b2a899abfb31cf72e82</data>
+      <data key="d12">49</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NEW SOUTH WALES&quot;" target="&quot;DANIEL TUPOU&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Daniel Tupou represents New South Wales in State of Origin."</data>
+      <data key="d10">42ae28630d450770debdbc28e5c3c132</data>
+      <data key="d11">6731a665561840c2898ce8c9788e4c88</data>
+      <data key="d12">50</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TONGA&quot;" target="&quot;DANIEL TUPOU&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Daniel Tupou represents Tonga as an international rugby league player."</data>
+      <data key="d10">42ae28630d450770debdbc28e5c3c132</data>
+      <data key="d11">4026806fa92f4e849a59a7f5c9a45c79</data>
+      <data key="d12">51</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;RED BRIGADES (BR)&quot;" target="&quot;PROSPERO GALLINARI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Prospero Gallinari was a member of the Red Brigades."</data>
+      <data key="d10">0621db152f88414dc52bebd5865f3129</data>
+      <data key="d11">68e0c60d2e8845d89d9d0ad397833648</data>
+      <data key="d12">52</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ITALY&quot;" target="&quot;PROSPERO GALLINARI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Prospero Gallinari was from Italy and involved with the Red Brigades there."</data>
+      <data key="d10">0621db152f88414dc52bebd5865f3129</data>
+      <data key="d11">101572f552b54e529fe7765c05168981</data>
+      <data key="d12">53</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;EDWARD JAMES OLMOS&quot;" target="&quot;ROBERT M. YOUNG&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Robert M. Young has frequently cast Edward James Olmos in his movies."</data>
+      <data key="d10">a05b8fae5eeb7b02a9fac1c715fa67d0</data>
+      <data key="d11">60c58026b2764b40adffca6eaa31d6d9</data>
+      <data key="d12">54</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NEW YORK CITY&quot;" target="&quot;ROBERT M. YOUNG&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Robert M. Young was born in New York City."</data>
+      <data key="d10">a05b8fae5eeb7b02a9fac1c715fa67d0</data>
+      <data key="d11">ad1595a78935472999444c9330e7730e</data>
+      <data key="d12">55</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MOSCOW INTERNATIONAL FILM FESTIVAL&quot;" target="&quot;ROBERT M. YOUNG&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Robert M. Young was a member of the jury at the Moscow International Film Festival."</data>
+      <data key="d10">a05b8fae5eeb7b02a9fac1c715fa67d0</data>
+      <data key="d11">735d19aea0744b2295556841c5c4c3fd</data>
+      <data key="d12">56</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;THE SARAH SILVERMAN PROGRAM&quot;" target="&quot;JAY JOHNSTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jay Johnston played the role of Officer Jay McPherson on 'The Sarah Silverman Program'."&gt;</data>
+      <data key="d10">3736224fbd2e45ba993c413b0e327b5d</data>
+      <data key="d11">c725babdb14a485582f8fbdf95429030</data>
+      <data key="d12">57</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;STUART MILLAR&quot;" target="&quot;ROOSTER COGBURN (FILM)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Stuart Millar directed the 1975 American Western adventure film Rooster Cogburn."</data>
+      <data key="d10">869940e7248f38af980e0af675b62f92</data>
+      <data key="d11">a0047221896d418d849847d422fa4bb8</data>
+      <data key="d12">58</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ROOSTER COGBURN (FILM)&quot;" target="&quot;TRUE GRIT (NOVEL)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The 1975 film Rooster Cogburn is a sequel to the 1969 film True Grit, based on the character created by Charles McColl Portis."</data>
+      <data key="d10">869940e7248f38af980e0af675b62f92</data>
+      <data key="d11">98fc2ee593184c5a839454db4eec7013</data>
+      <data key="d12">59</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SAM&quot;" target="&quot;DOOLEY WILSON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Dooley Wilson played the role of Sam in the film."</data>
+      <data key="d10">793d4072b66bba53b3ba7a267d43a915</data>
+      <data key="d11">80020a1da63042459e00266b2a605452</data>
+      <data key="d12">60</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SAM&quot;" target="&quot;HAZEL SCOTT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hazel Scott was originally considered by Wallis to play the role of Sam, had it been changed to a woman."</data>
+      <data key="d10">793d4072b66bba53b3ba7a267d43a915</data>
+      <data key="d11">31a7e680c4d54101afe4c8d52d246913</data>
+      <data key="d12">61</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SAM&quot;" target="&quot;LENA HORNE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lena Horne was originally considered by Wallis to play the role of Sam, had it been changed to a woman."</data>
+      <data key="d10">793d4072b66bba53b3ba7a267d43a915</data>
+      <data key="d11">351abba16e5c448994c6daf48121b14d</data>
+      <data key="d12">62</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SAM&quot;" target="&quot;ELLA FITZGERALD&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ella Fitzgerald was originally considered by Wallis to play the role of Sam, had it been changed to a woman."</data>
+      <data key="d10">793d4072b66bba53b3ba7a267d43a915</data>
+      <data key="d11">50ea7d3b69614bcdbfbff7ddbfbf3d34</data>
+      <data key="d12">63</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WALLIS&quot;" target="&quot;DOOLEY WILSON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Wallis was the producer who considered dubbing over Dooley Wilson's voice for the songs."</data>
+      <data key="d10">793d4072b66bba53b3ba7a267d43a915</data>
+      <data key="d11">004f40a5aeca48a1879db728eb12bcba</data>
+      <data key="d12">64</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GEORGE BROWN&quot;" target="&quot;UPPER CANADA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"George Brown was active in Upper Canada as a Reformer."</data>
+      <data key="d10">4672646c5fd1d77200a54400d45eab17</data>
+      <data key="d11">4465efb7f6ed4dedad72a658184addd2</data>
+      <data key="d12">65</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JOSEPH HOWE&quot;" target="&quot;NOVA SCOTIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Joseph Howe was active in Nova Scotia as a Reformer."</data>
+      <data key="d10">4672646c5fd1d77200a54400d45eab17</data>
+      <data key="d11">b0dd60e11dad4ff782623acf039b3948</data>
+      <data key="d12">66</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;THE CLEAR GRITS&quot;" target="&quot;THE LIBERALS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Liberals were formed from the Clear Grits and other groups."</data>
+      <data key="d10">4672646c5fd1d77200a54400d45eab17</data>
+      <data key="d11">db8c43fa4df947b09e5754d3b1393ead</data>
+      <data key="d12">67</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PARTI ROUGE&quot;" target="&quot;THE LIBERALS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Liberals were formed from Parti rouge and other groups."</data>
+      <data key="d10">4672646c5fd1d77200a54400d45eab17</data>
+      <data key="d11">5dabc4cd05da425cb194a04482bf0c29</data>
+      <data key="d12">68</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CATHERINE MIDDLETON&quot;" target="&quot;CAMILLA LUDDINGTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Camilla Luddington portrayed Catherine Middleton in a TV movie."</data>
+      <data key="d10">78526da78e52e7e0d7d7e6c8675ebff9</data>
+      <data key="d11">9d08f285a7be4c79b8f359c51d51db37</data>
+      <data key="d12">69</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DAILY MAIL&quot;" target="&quot;CAMILLA LUDDINGTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Daily Mail wrote about Camilla Luddington's rising fame in 2011."</data>
+      <data key="d10">78526da78e52e7e0d7d7e6c8675ebff9</data>
+      <data key="d11">adffed660d154b519c1817e514e83096</data>
+      <data key="d12">70</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SHOWTIME&quot;" target="&quot;CAMILLA LUDDINGTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Camilla Luddington was part of the cast of Californication, a Showtime series."</data>
+      <data key="d10">78526da78e52e7e0d7d7e6c8675ebff9</data>
+      <data key="d11">b7e9c9ef572c445a9574ca571e41fb96</data>
+      <data key="d12">71</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GREY'S ANATOMY&quot;" target="&quot;CAMILLA LUDDINGTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Camilla Luddington played a recurring role in Grey's Anatomy and later became a series regular."</data>
+      <data key="d10">78526da78e52e7e0d7d7e6c8675ebff9</data>
+      <data key="d11">dcb9f281cd6248c699e0ebb285a42a5e</data>
+      <data key="d12">72</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BROOKS, ALBERTA&quot;" target="&quot;SHANE JOSEPH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Shane Joseph was born in Brooks, Alberta."</data>
+      <data key="d10">6bf60de042b7035f7a9f7b9f899ea30d</data>
+      <data key="d11">072cdee531b74513984f49d99a8d64a0</data>
+      <data key="d12">73</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PABLO SCHREIBER&quot;" target="&quot;KRIS 'TANTO' PARONTO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Pablo Schreiber plays Kris 'Tanto' Paronto, one of the six-man security team."</data>
+      <data key="d10">68496ec74cc759917d1b26b38eafb175</data>
+      <data key="d11">5ae335d9210a45fda3f92a9a028d6d9b</data>
+      <data key="d12">74</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JAMES BADGE DALE&quot;" target="&quot;SECURITY TEAM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"James Badge Dale is set to star as the leader of the security team."</data>
+      <data key="d10">68496ec74cc759917d1b26b38eafb175</data>
+      <data key="d11">5ac60a941a5b4934bdc43d2f87de601c</data>
+      <data key="d12">75</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MAX MARTINI&quot;" target="&quot;SECURITY TEAM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Max Martini is cast as another member of the security team."</data>
+      <data key="d10">68496ec74cc759917d1b26b38eafb175</data>
+      <data key="d11">d405c3154d0e48ce96fad4c28fe20590</data>
+      <data key="d12">76</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DAVID DENMAN&quot;" target="&quot;BOON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"David Denman plays Boon, an elite sniper."</data>
+      <data key="d10">68496ec74cc759917d1b26b38eafb175</data>
+      <data key="d11">7923d8521c744bd9aab131c1aea91ffd</data>
+      <data key="d12">77</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DOMINIC FUMUSA&quot;" target="&quot;JOHN 'TIG' TIEGEN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Dominic Fumusa plays John 'Tig' Tiegen, one of the members of the security team, a former Marine with weapons expertise."</data>
+      <data key="d10">68496ec74cc759917d1b26b38eafb175</data>
+      <data key="d11">5bd156c87ec44e19ae6f8f62e6e50b9d</data>
+      <data key="d12">78</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FREDDIE STROMA&quot;" target="&quot;CIA OFFICER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Freddie Stroma is cast to play the role of an undercover CIA officer in Libya."</data>
+      <data key="d10">68496ec74cc759917d1b26b38eafb175</data>
+      <data key="d11">c1a146d7fb16429ea6d0aa2a55ee597f</data>
+      <data key="d12">79</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TOBY STEPHENS&quot;" target="&quot;GLEN 'BUB' DOHERTY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Toby Stephens plays Glen 'Bub' Doherty, another of the security team members."</data>
+      <data key="d10">68496ec74cc759917d1b26b38eafb175</data>
+      <data key="d11">ede9350632084da5b0b577ff799ab14b</data>
+      <data key="d12">80</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JOHN KRASINSKI&quot;" target="&quot;FILM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"John Krasinski is cast in the film to play one of the lead roles, a former US Navy SEAL."</data>
+      <data key="d10">68496ec74cc759917d1b26b38eafb175</data>
+      <data key="d11">ed559fb4ebde45518849ec803b350fa3</data>
+      <data key="d12">81</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TOM CHANEY&quot;" target="&quot;FRANK ROSS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Frank Ross was murdered by Tom Chaney."</data>
+      <data key="d10">0029ab756098b6ef4866c083ba03937a</data>
+      <data key="d11">f422035f8b78417f98e4d116971cf9f3</data>
+      <data key="d12">82</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TOM CHANEY&quot;" target="&quot;LUCKY ''NED PEPPER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Tom Chaney has taken up with Lucky Ned Pepper in Indian Territory."</data>
+      <data key="d10">0029ab756098b6ef4866c083ba03937a</data>
+      <data key="d11">c79d686eba044c5586c706cdc096817d</data>
+      <data key="d12">83</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MATTIE ROSS&quot;" target="&quot;REUBEN ``ROOSTER ''J. COGBURN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Mattie Ross hires Reuben J. Cogburn to track and capture Tom Chaney."</data>
+      <data key="d10">0029ab756098b6ef4866c083ba03937a</data>
+      <data key="d11">0f70db1e598d463fbbcdd1e288bd9490</data>
+      <data key="d12">84</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WILLIAMSON COUNTY&quot;" target="&quot;GRANGER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Granger is a city located in Williamson County."</data>
+      <data key="d10">93160d941a34f72dc4412dbb6de8e499</data>
+      <data key="d11">b35c3d1a7daa4924b6bdb58bc69c354d</data>
+      <data key="d12">85</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TEXAS&quot;" target="&quot;GRANGER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Granger is a city located in the state of Texas."</data>
+      <data key="d10">93160d941a34f72dc4412dbb6de8e499</data>
+      <data key="d11">a97e2ecd870944cfbe71c79bc0fcc752</data>
+      <data key="d12">86</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;REVOLUTION&quot;" target="&quot;GRANGER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"An episode of the NBC drama Revolution was filmed in Granger."</data>
+      <data key="d10">93160d941a34f72dc4412dbb6de8e499</data>
+      <data key="d11">3e1b063bbfa9423d84e50311296d2f3c</data>
+      <data key="d12">87</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PETER AYKROYD&quot;" target="&quot;SATURDAY NIGHT LIVE (SNL)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Peter Aykroyd is a person who was upgraded to featured cast member status on Saturday Night Live (SNL)."</data>
+      <data key="d10">1e7040d4d323d46e8771977a438a50ab</data>
+      <data key="d11">9a8ce816ee954bdabd01ea2081538009</data>
+      <data key="d12">88</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JIM DOWNEY&quot;" target="&quot;SATURDAY NIGHT LIVE (SNL)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jim Downey is a person who was upgraded to featured cast member status on Saturday Night Live (SNL)."</data>
+      <data key="d10">1e7040d4d323d46e8771977a438a50ab</data>
+      <data key="d11">09f18f81442d4d6d93a90f0fac683f9b</data>
+      <data key="d12">89</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BRIAN DOYLE-MURRAY&quot;" target="&quot;SATURDAY NIGHT LIVE (SNL)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Brian Doyle-Murray is a person who was upgraded to featured cast member status on Saturday Night Live (SNL)."</data>
+      <data key="d10">1e7040d4d323d46e8771977a438a50ab</data>
+      <data key="d11">e02be3e37ca0454883a4c1fd859c24bb</data>
+      <data key="d12">90</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DON NOVELLO&quot;" target="&quot;SATURDAY NIGHT LIVE (SNL)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Don Novello is a person who was upgraded to featured cast member status on Saturday Night Live (SNL)."</data>
+      <data key="d10">1e7040d4d323d46e8771977a438a50ab</data>
+      <data key="d11">6e0c81bef5364c988b21bf9b709d9861</data>
+      <data key="d12">91</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TOM SCHILLER&quot;" target="&quot;SATURDAY NIGHT LIVE (SNL)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Tom Schiller is a person who was upgraded to featured cast member status on Saturday Night Live (SNL)."</data>
+      <data key="d10">1e7040d4d323d46e8771977a438a50ab</data>
+      <data key="d11">1dbc51475cb04dafa4a8833a8378635e</data>
+      <data key="d12">92</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ALAN ZWEIBEL&quot;" target="&quot;SATURDAY NIGHT LIVE (SNL)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Alan Zweibel is a person who was upgraded to featured cast member status on Saturday Night Live (SNL)."</data>
+      <data key="d10">1e7040d4d323d46e8771977a438a50ab</data>
+      <data key="d11">c12b9ebd8b4e42b7896822a32e3fa6eb</data>
+      <data key="d12">93</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PAUL SHAFFER&quot;" target="&quot;SATURDAY NIGHT LIVE (SNL)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Paul Shaffer is the band leader who joined the cast of Saturday Night Live (SNL)."</data>
+      <data key="d10">1e7040d4d323d46e8771977a438a50ab</data>
+      <data key="d11">27505f6ade4b4e5f9316ffe9c34821f7</data>
+      <data key="d12">94</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HARRY SHEARER&quot;" target="&quot;SATURDAY NIGHT LIVE (SNL)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Harry Shearer is a person who joined the show as a featured cast member and was promoted to repertory status during the season on Saturday Night Live (SNL)."</data>
+      <data key="d10">1e7040d4d323d46e8771977a438a50ab</data>
+      <data key="d11">0ee7db2c6bea4630ba9f0c25e8a967ad</data>
+      <data key="d12">95</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SATURDAY NIGHT LIVE (SNL)&quot;" target="&quot;LORNE MICHAELS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lorne Michaels is a person who works for Saturday Night Live (SNL), upgrading writers to featured cast member status."</data>
+      <data key="d10">1e7040d4d323d46e8771977a438a50ab</data>
+      <data key="d11">5a6c1d15424149f69052cd8d91fbff75</data>
+      <data key="d12">96</data>
+      <data key="d13">0</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,1462 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d14" for="edge" attr.name="level" attr.type="long" />
+  <key id="d13" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d12" for="edge" attr.name="id" attr.type="string" />
+  <key id="d11" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="description" attr.type="string" />
+  <key id="d9" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d8" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d7" for="node" attr.name="id" attr.type="string" />
+  <key id="d6" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d5" for="node" attr.name="degree" attr.type="long" />
+  <key id="d4" for="node" attr.name="level" attr.type="long" />
+  <key id="d3" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;CALIFORNIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"California is a state in the United States where San Diego is located."</data>
+      <data key="d2">f9469000dabd0eacf7adfa220289c1f6</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country that shares a border with Mexico. It has various regions, including the Midwestern region, where Detroit is located. The country is home to several cities, counties, and states, including Tucson, Pima County, and Arizona, as well as San Diego, Illinois, Macoupin County, and Staunton. Additionally, the Greater Tucson Metro area has a population of over 1 million.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+      <data key="d8">"GEO"</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">5</data>
+      <data key="d6">1</data>
+      <data key="d7">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;TIJUANA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Tijuana is a city in Mexico, part of the San Diego&#8211;Tijuana conurbation."</data>
+      <data key="d2">f9469000dabd0eacf7adfa220289c1f6</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">2</data>
+      <data key="d7">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;DETROIT&#8211;WINDSOR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Detroit&#8211;Windsor is a transborder agglomeration between the US and Canada."</data>
+      <data key="d2">f9469000dabd0eacf7adfa220289c1f6</data>
+      <data key="d5">0</data>
+      <data key="d6">3</data>
+      <data key="d7">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;US NAVY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The US Navy has a long association with San Diego."</data>
+      <data key="d2">f9469000dabd0eacf7adfa220289c1f6</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">4</data>
+      <data key="d7">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;SAN DIEGO&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f9469000dabd0eacf7adfa220289c1f6</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">5</data>
+      <data key="d7">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">6</data>
+      <data key="d7">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">5</data>
+      <data key="d6">7</data>
+      <data key="d7">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Arizona is a state in the United States, where Tucson and Phoenix are located. Additionally, it is a geographic location where temperature and precipitation records are kept.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">5</data>
+      <data key="d6">8</data>
+      <data key="d7">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Phoenix is a city in Arizona, United States, and is the largest populated city in the state.</data>
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">9</data>
+      <data key="d7">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">10</data>
+      <data key="d7">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">11</data>
+      <data key="d7">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Mexico is a country that shares an international border with the United States.</data>
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">12</data>
+      <data key="d7">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+      <data key="d5">0</data>
+      <data key="d6">13</data>
+      <data key="d7">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">9</data>
+      <data key="d6">14</data>
+      <data key="d7">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;CHARLES MINGUS SR.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Charles Mingus Sr. is the father of Charles Mingus and a sergeant in the U.S. Army."</data>
+      <data key="d2">50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d5">1</data>
+      <data key="d6">15</data>
+      <data key="d7">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;U.S. ARMY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The U.S. Army is an organization that employs Charles Mingus Sr. as a sergeant."</data>
+      <data key="d2">50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d5">1</data>
+      <data key="d6">16</data>
+      <data key="d7">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;NOGALES, ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Nogales, Arizona is the birthplace of Charles Mingus."</data>
+      <data key="d2">50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d5">1</data>
+      <data key="d6">17</data>
+      <data key="d7">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;WATTS AREA OF LOS ANGELES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Watts area of Los Angeles is where Charles Mingus was largely raised."</data>
+      <data key="d2">50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d5">1</data>
+      <data key="d6">18</data>
+      <data key="d7">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;HONG KONG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hong Kong is the origin of Charles Mingus' maternal grandfather, a Chinese British subject."</data>
+      <data key="d2">50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d5">0</data>
+      <data key="d6">19</data>
+      <data key="d7">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;CHARLES MINGUS&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Charles Mingus is a jazz musician, bassist, and composer who recorded the Oh Yeah album in 1961.</data>
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d5">3</data>
+      <data key="d6">20</data>
+      <data key="d7">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;ARIZONA SUN CORRIDOR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Arizona Sun Corridor is a region in southern Arizona, where Tucson is a major city."</data>
+      <data key="d2">e841ba7743ea911c87ef7ff3578df4bc</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">21</data>
+      <data key="d7">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;KAUNAS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Kaunas is the second largest city in Lithuania, where &#260;&#382;uolynas park is located."</data>
+      <data key="d2">63ddc20d79f25d22cbad2d84283ec001</data>
+      <data key="d5">1</data>
+      <data key="d6">22</data>
+      <data key="d7">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;&#381;ALIAKALNIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"&#381;aliakalnis is an elderate in Kaunas, Lithuania, where &#260;&#382;uolynas park is situated."</data>
+      <data key="d2">63ddc20d79f25d22cbad2d84283ec001</data>
+      <data key="d5">1</data>
+      <data key="d6">23</data>
+      <data key="d7">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;VYD&#362;NAS ALLEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Vyd&#363;nas Alley serves as the northern border of &#260;&#382;uolynas park in Kaunas, Lithuania."</data>
+      <data key="d2">63ddc20d79f25d22cbad2d84283ec001</data>
+      <data key="d5">1</data>
+      <data key="d6">24</data>
+      <data key="d7">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;&#260;&#381;UOLYNAS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">63ddc20d79f25d22cbad2d84283ec001</data>
+      <data key="d5">3</data>
+      <data key="d6">25</data>
+      <data key="d7">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;OH YEAH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc</data>
+      <data key="d5">1</data>
+      <data key="d6">26</data>
+      <data key="d7">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;JUNE 19, 1960&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fef725e12cf140ef0996241ccb416242</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">27</data>
+      <data key="d7">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;JULY 28, 1995&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fef725e12cf140ef0996241ccb416242</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">28</data>
+      <data key="d7">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;JANUARY 7, 1913&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fef725e12cf140ef0996241ccb416242</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">29</data>
+      <data key="d7">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;UNITED STATES CENSUS BUREAU&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The United States Census Bureau is an organization that estimates population data."</data>
+      <data key="d2">50d5902c233bcf5e4c0ca22ab3ec28eb</data>
+      <data key="d5">1</data>
+      <data key="d6">30</data>
+      <data key="d7">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;FLORIDA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Florida is a state in the United States where Ocala is located."</data>
+      <data key="d2">50d5902c233bcf5e4c0ca22ab3ec28eb</data>
+      <data key="d5">1</data>
+      <data key="d6">31</data>
+      <data key="d7">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&quot;OCALA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">50d5902c233bcf5e4c0ca22ab3ec28eb</data>
+      <data key="d5">2</data>
+      <data key="d6">32</data>
+      <data key="d7">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&quot;MACOUPIN COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Macoupin County is a county in Illinois, United States, where Staunton is located."</data>
+      <data key="d2">caa4f611de6dfbb60da609924bc1cbca</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">33</data>
+      <data key="d7">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&quot;ILLINOIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Illinois is a state in the United States where Macoupin County and Staunton are located."</data>
+      <data key="d2">caa4f611de6dfbb60da609924bc1cbca</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">34</data>
+      <data key="d7">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&quot;2010 CENSUS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2010 Census was an event that recorded the population of Staunton as 5,139."</data>
+      <data key="d2">caa4f611de6dfbb60da609924bc1cbca</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">35</data>
+      <data key="d7">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&quot;STAUNTON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">caa4f611de6dfbb60da609924bc1cbca</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">36</data>
+      <data key="d7">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&quot;KAOHSIUNG CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Kaohsiung City is a city in southern Taiwan."</data>
+      <data key="d2">7b624b38e1bafb66e881d11db2f27a27</data>
+      <data key="d5">1</data>
+      <data key="d6">37</data>
+      <data key="d7">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&quot;TAIWAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Taiwan is an island country in East Asia."</data>
+      <data key="d2">7b624b38e1bafb66e881d11db2f27a27</data>
+      <data key="d5">0</data>
+      <data key="d6">38</data>
+      <data key="d7">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&quot;KAOHSIUNG INTERNATIONAL AIRPORT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Kaohsiung International Airport is the second largest airport in Taiwan, located in Siaogang District."</data>
+      <data key="d2">7b624b38e1bafb66e881d11db2f27a27</data>
+      <data key="d5">1</data>
+      <data key="d6">39</data>
+      <data key="d7">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <node id="&quot;SIAOGANG DISTRICT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7b624b38e1bafb66e881d11db2f27a27</data>
+      <data key="d5">2</data>
+      <data key="d6">40</data>
+      <data key="d7">3ce7c210a21b4deebad7cc9308148d86</data>
+    </node>
+    <node id="&quot;NEW JERSEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New Jersey is a U.S. state where Jersey City is located."</data>
+      <data key="d2">b586c48a6a0be0dac83adaa132e1923f</data>
+      <data key="d5">1</data>
+      <data key="d6">41</data>
+      <data key="d7">d64ed762ea924caa95c8d06f072a9a96</data>
+    </node>
+    <node id="&quot;HUDSON COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hudson County is a county in New Jersey where Jersey City is the largest city and seat."</data>
+      <data key="d2">b586c48a6a0be0dac83adaa132e1923f</data>
+      <data key="d5">1</data>
+      <data key="d6">42</data>
+      <data key="d7">adf4ee3fbe9b4d0381044838c4f889c8</data>
+    </node>
+    <node id="&quot;CENSUS BUREAU&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Census Bureau is an organization responsible for calculating population estimates, including those of Jersey City."</data>
+      <data key="d2">b586c48a6a0be0dac83adaa132e1923f</data>
+      <data key="d5">1</data>
+      <data key="d6">43</data>
+      <data key="d7">32ee140946e5461f9275db664dc541a5</data>
+    </node>
+    <node id="&quot;JERSEY CITY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b586c48a6a0be0dac83adaa132e1923f</data>
+      <data key="d5">3</data>
+      <data key="d6">44</data>
+      <data key="d7">c160b9cb27d6408ba6ab20214a2f3f81</data>
+    </node>
+    <node id="&quot;WORLD CITIES STUDY GROUP&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The World Cities Study Group is an organization that classified Miami as an Alpha-World City in 2012."</data>
+      <data key="d2">ab00c503a6f05fccac63a97f51a687c9</data>
+      <data key="d5">1</data>
+      <data key="d6">45</data>
+      <data key="d7">23527cd679ff4d5a988d52e7cd056078</data>
+    </node>
+    <node id="&quot;FORBES MAGAZINE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Forbes magazine ranked Miami as 'America's Cleanest City' in 2008, recognizing its good air quality and clean environment."</data>
+      <data key="d2">ab00c503a6f05fccac63a97f51a687c9</data>
+      <data key="d5">1</data>
+      <data key="d6">46</data>
+      <data key="d7">f1c6eed066f24cbdb376b910fce29ed4</data>
+    </node>
+    <node id="&quot;UBS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"UBS conducted a study in 2009 that ranked Miami as the richest city in the United States and fifth-richest globally in terms of purchasing power."</data>
+      <data key="d2">ab00c503a6f05fccac63a97f51a687c9</data>
+      <data key="d5">1</data>
+      <data key="d6">47</data>
+      <data key="d7">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+    </node>
+    <node id="&quot;CAPITAL OF LATIN AMERICA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 'Capital of Latin America' is a nickname given to Miami, reflecting its cultural and economic significance in the region."</data>
+      <data key="d2">ab00c503a6f05fccac63a97f51a687c9</data>
+      <data key="d5">1</data>
+      <data key="d6">48</data>
+      <data key="d7">147c038aef3e4422acbbc5f7938c4ab8</data>
+    </node>
+    <node id="&quot;MIAMI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ab00c503a6f05fccac63a97f51a687c9</data>
+      <data key="d5">4</data>
+      <data key="d6">49</data>
+      <data key="d7">b7702b90c7f24190b864e8c6e64612a5</data>
+    </node>
+    <node id="&quot;GERMANY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Germany is a country where Munich is located and has become its third largest city."</data>
+      <data key="d2">8a008cbfed4acc5e6662eed44b34c40b</data>
+      <data key="d5">1</data>
+      <data key="d6">50</data>
+      <data key="d7">de6fa24480894518ab3cbcb66f739266</data>
+    </node>
+    <node id="&quot;1700&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"1700 is a year when Munich had 24,000 inhabitants, marking the beginning of rapid population growth."</data>
+      <data key="d2">8a008cbfed4acc5e6662eed44b34c40b</data>
+      <data key="d5">1</data>
+      <data key="d6">51</data>
+      <data key="d7">6fae5ee1a831468aa585a1ea09095998</data>
+    </node>
+    <node id="&quot;1852&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"1852 is a year when Munich's population reached 100,000, doubling from 30 years prior."</data>
+      <data key="d2">8a008cbfed4acc5e6662eed44b34c40b</data>
+      <data key="d5">1</data>
+      <data key="d6">52</data>
+      <data key="d7">ef32c4b208d041cc856f6837915dc1b0</data>
+    </node>
+    <node id="&quot;1883&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"1883 is a year when Munich's population reached 250,000, continuing its rapid growth."</data>
+      <data key="d2">8a008cbfed4acc5e6662eed44b34c40b</data>
+      <data key="d5">1</data>
+      <data key="d6">53</data>
+      <data key="d7">07b2425216bd4f0aa4e079827cb48ef5</data>
+    </node>
+    <node id="&quot;1901&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"1901 is a year when Munich's population reached 500,000, marking significant urbanization."</data>
+      <data key="d2">8a008cbfed4acc5e6662eed44b34c40b</data>
+      <data key="d5">1</data>
+      <data key="d6">54</data>
+      <data key="d7">2670deebfa3f4d69bb82c28ab250a209</data>
+    </node>
+    <node id="&quot;1933&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"1933 is a year when Munich's population was counted at 840,901 inhabitants."</data>
+      <data key="d2">8a008cbfed4acc5e6662eed44b34c40b</data>
+      <data key="d5">1</data>
+      <data key="d6">55</data>
+      <data key="d7">404309e89a5241d6bff42c05a45df206</data>
+    </node>
+    <node id="&quot;1957&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"1957 is a year when Munich's population exceeded 1 million inhabitants."</data>
+      <data key="d2">8a008cbfed4acc5e6662eed44b34c40b</data>
+      <data key="d5">1</data>
+      <data key="d6">56</data>
+      <data key="d7">b785a9025069417f94950ad231bb1441</data>
+    </node>
+    <node id="&quot;MUNICH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8a008cbfed4acc5e6662eed44b34c40b</data>
+      <data key="d5">7</data>
+      <data key="d6">57</data>
+      <data key="d7">3b6cd96a27304614850709aba1c9598b</data>
+    </node>
+    <node id="&quot;MICHIGAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Michigan is a U.S. state where Detroit is located, being part of the Midwest region."</data>
+      <data key="d2">f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d5">1</data>
+      <data key="d6">58</data>
+      <data key="d7">d54956b79dd147f894b67a8b97dcbef0</data>
+    </node>
+    <node id="&quot;WAYNE COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Wayne County is a county in Michigan where Detroit is the seat, being the most populous county in the state."</data>
+      <data key="d2">f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d5">1</data>
+      <data key="d6">59</data>
+      <data key="d7">958beecdb5bb4060948415ffd75d2b03</data>
+    </node>
+    <node id="&quot;METRO DETROIT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Metro Detroit is the metropolitan area of Detroit, home to 5.3 million people and being the fourteenth-most populous metropolitan area in the United States."</data>
+      <data key="d2">f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">60</data>
+      <data key="d7">b999ed77e19e4f85b7f1ae79af5c002a</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Canada is a country sharing a border with the United States, where Detroit is located."</data>
+      <data key="d2">f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d5">0</data>
+      <data key="d6">61</data>
+      <data key="d7">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+    </node>
+    <node id="&quot;DETROIT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d5">2</data>
+      <data key="d6">62</data>
+      <data key="d7">4f3c97517f794ebfb49c4c6315f9cf23</data>
+    </node>
+    <node id="&quot;NORTH CENTRAL OHIO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"North Central Ohio is a region where Ohio State Route 523 is located."</data>
+      <data key="d2">98d9383cf83a9064321a8b5e1cd77d48</data>
+      <data key="d5">1</data>
+      <data key="d6">63</data>
+      <data key="d7">1745a2485a9443bab76587ad650e9be0</data>
+    </node>
+    <node id="&quot;OHIO TURNPIKE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ohio Turnpike is a highway system that intersects with OH 523."</data>
+      <data key="d2">98d9383cf83a9064321a8b5e1cd77d48</data>
+      <data key="d5">2</data>
+      <data key="d6">64</data>
+      <data key="d7">32e6ccab20d94029811127dbbe424c64</data>
+    </node>
+    <node id="&quot;I-80/I-90&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"I-80/I-90 are highways that intersect with Ohio Turnpike and OH 523."</data>
+      <data key="d2">98d9383cf83a9064321a8b5e1cd77d48</data>
+      <data key="d5">1</data>
+      <data key="d6">65</data>
+      <data key="d7">94a964c6992945ebb3833dfdfdc8d655</data>
+    </node>
+    <node id="&quot;OHIO STATE ROUTE 523 (OH 523)&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">98d9383cf83a9064321a8b5e1cd77d48</data>
+      <data key="d5">2</data>
+      <data key="d6">66</data>
+      <data key="d7">1eb829d0ace042089f0746f78729696c</data>
+    </node>
+    <node id="&quot;U.S. CENSUS BUREAU&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The U.S. Census Bureau provides estimates of population sizes for cities in the United States."</data>
+      <data key="d2">a8573175c03d5aca077489acebbefd2a</data>
+      <data key="d5">1</data>
+      <data key="d6">67</data>
+      <data key="d7">015e7b58d1a14b44beab3bbc9f912c18</data>
+    </node>
+    <node id="&quot;FORT WORTH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Fort Worth is a city that is larger than Arlington in the county."</data>
+      <data key="d2">a8573175c03d5aca077489acebbefd2a</data>
+      <data key="d5">1</data>
+      <data key="d6">68</data>
+      <data key="d7">26f88ab3e2e04c33a459ad6270ade565</data>
+    </node>
+    <node id="&quot;ARLINGTON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a8573175c03d5aca077489acebbefd2a</data>
+      <data key="d5">2</data>
+      <data key="d6">69</data>
+      <data key="d7">babe97e1d9784cffa1c85abc1e588126</data>
+    </node>
+    <node id="&quot;BISHOP OF THE DIOCESE OF GOTHENBURG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Bishop of the Diocese of Gothenburg is a religious leader in the Church of Sweden, based at Gothenburg Cathedral."</data>
+      <data key="d2">a99dd13a8abc8ec76bb81398b65ac331</data>
+      <data key="d5">1</data>
+      <data key="d6">70</data>
+      <data key="d7">1033a18c45aa4584b2aef6ab96890351</data>
+    </node>
+    <node id="&quot;GOTHENBURG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Gothenburg is the second largest city in Sweden and home to Gothenburg Cathedral."</data>
+      <data key="d2">a99dd13a8abc8ec76bb81398b65ac331</data>
+      <data key="d5">1</data>
+      <data key="d6">71</data>
+      <data key="d7">c9b8ce91fc2945b4907fe35519339cac</data>
+    </node>
+    <node id="&quot;CHURCH OF SWEDEN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Church of Sweden is a religious organization that has a diocese in Gothenburg, with its seat at Gothenburg Cathedral."</data>
+      <data key="d2">a99dd13a8abc8ec76bb81398b65ac331</data>
+      <data key="d5">1</data>
+      <data key="d6">72</data>
+      <data key="d7">fa3c4204421c48609e52c8de2da4c654</data>
+    </node>
+    <node id="&quot;GOTHENBURG CATHEDRAL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a99dd13a8abc8ec76bb81398b65ac331</data>
+      <data key="d5">3</data>
+      <data key="d6">73</data>
+      <data key="d7">53af055f068244d0ac861b2e89376495</data>
+    </node>
+    <node id="&quot;JORDAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Jordan is a country where Zarqa Governorate is located."</data>
+      <data key="d2">763a4a1042c8126441b4ee7cb826f625</data>
+      <data key="d5">2</data>
+      <data key="d6">74</data>
+      <data key="d7">c03ab3ce8cb74ad2a03b94723bfab3c7</data>
+    </node>
+    <node id="&quot;AMMAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Amman is the capital of Jordan, located west of Zarqa City."</data>
+      <data key="d2">763a4a1042c8126441b4ee7cb826f625</data>
+      <data key="d5">1</data>
+      <data key="d6">75</data>
+      <data key="d7">ed6d2eee9d7b4f5db466b1f6404d31cc</data>
+    </node>
+    <node id="&quot;ZARQA CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Zarqa City is the largest city in Zarqa Governorate and its capital."</data>
+      <data key="d2">763a4a1042c8126441b4ee7cb826f625</data>
+      <data key="d5">1</data>
+      <data key="d6">76</data>
+      <data key="d7">fc01e9baa80e417c9206f941bb279407</data>
+    </node>
+    <node id="&quot;RUSSEIFA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Russeifa is the second largest city in Zarqa Governorate."</data>
+      <data key="d2">763a4a1042c8126441b4ee7cb826f625</data>
+      <data key="d5">1</data>
+      <data key="d6">77</data>
+      <data key="d7">56d0e5ebe79e4814bd1463cf6ca21394</data>
+    </node>
+    <node id="&quot;ZARQA GOVERNORATE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">763a4a1042c8126441b4ee7cb826f625</data>
+      <data key="d5">3</data>
+      <data key="d6">78</data>
+      <data key="d7">7c49f2710e8b4d3b8dc9310834406ea5</data>
+    </node>
+    <node id="&quot;AVENIDA PAULISTA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Avenida Paulista is a location in S&#227;o Paulo, Brazil, where the S&#227;o Paulo LGBTQ Pride Parade takes place."</data>
+      <data key="d2">eb18511e409f1b89d2191d171b23061c</data>
+      <data key="d5">1</data>
+      <data key="d6">79</data>
+      <data key="d7">c6d1e4f56c2843e89cf0b91c10bb6de2</data>
+    </node>
+    <node id="&quot;S&#195;O PAULO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"S&#227;o Paulo is a city in Brazil that hosts the S&#227;o Paulo LGBTQ Pride Parade, which is the largest pride parade in the world."</data>
+      <data key="d2">eb18511e409f1b89d2191d171b23061c</data>
+      <data key="d5">1</data>
+      <data key="d6">80</data>
+      <data key="d7">0adb2d9941f34ef7b2f7743cc6225844</data>
+    </node>
+    <node id="&quot;BRAZIL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Brazil is a country in South America where the S&#227;o Paulo LGBTQ Pride Parade takes place."</data>
+      <data key="d2">eb18511e409f1b89d2191d171b23061c</data>
+      <data key="d5">1</data>
+      <data key="d6">81</data>
+      <data key="d7">6b02373137fd438ba96af28f735cdbdb</data>
+    </node>
+    <node id="&quot;GUINNESS WORLD RECORDS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Guinness World Records is an organization that recognizes and lists records, including the largest pride parade in the world, which is held by the S&#227;o Paulo LGBTQ Pride Parade."</data>
+      <data key="d2">eb18511e409f1b89d2191d171b23061c</data>
+      <data key="d5">1</data>
+      <data key="d6">82</data>
+      <data key="d7">36a4fcd8efc144e6b8af9a1c7ab8b2ce</data>
+    </node>
+    <node id="&quot;GRINDR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Grindr is a LGBT app that elected the S&#227;o Paulo LGBTQ Pride Parade as the best in the world."</data>
+      <data key="d2">eb18511e409f1b89d2191d171b23061c</data>
+      <data key="d5">1</data>
+      <data key="d6">83</data>
+      <data key="d7">fbeef791d19b413a9c93c6608286ab63</data>
+    </node>
+    <node id="&quot;S&#195;O PAULO LGBTQ PRIDE PARADE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">eb18511e409f1b89d2191d171b23061c</data>
+      <data key="d5">5</data>
+      <data key="d6">84</data>
+      <data key="d7">d2b629c0396f4180a03e16ddf3818589</data>
+    </node>
+    <node id="&quot;INTERSCOPE RECORDS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Interscope Records is a record label that released the album Show Your Bones by Yeah Yeah Yeahs."</data>
+      <data key="d2">db789a3360045018e8329dc9d74750ca</data>
+      <data key="d5">1</data>
+      <data key="d6">85</data>
+      <data key="d7">6102fc6619ed422ebc42588bfa97355d</data>
+    </node>
+    <node id="&quot;SHOW YOUR BONES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Show Your Bones is the second studio album by Yeah Yeah Yeahs, released on March 22, 2006."</data>
+      <data key="d2">db789a3360045018e8329dc9d74750ca</data>
+      <data key="d5">3</data>
+      <data key="d6">86</data>
+      <data key="d7">8d141c0b80f74b79a05eed7fe161fe49</data>
+    </node>
+    <node id="&quot;GRAMMY AWARD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Grammy Award is an award that nominated Show Your Bones for Best Alternative Music Album in 2007."</data>
+      <data key="d2">db789a3360045018e8329dc9d74750ca</data>
+      <data key="d5">1</data>
+      <data key="d6">87</data>
+      <data key="d7">e22d1d1cd8d14f12b81828d940f40d70</data>
+    </node>
+    <node id="&quot;YEAH YEAH YEAHS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">db789a3360045018e8329dc9d74750ca</data>
+      <data key="d5">1</data>
+      <data key="d6">88</data>
+      <data key="d7">9ab48505fb1b487babd0d1f6d3a3f980</data>
+    </node>
+    <node id="&quot;GEORGE KRANZ&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"George Kranz is a German dance singer whose song 'Din Daa Daa' was sampled in Flo Rida's 'Turn Around (5, 4, 3, 2, 1)'"</data>
+      <data key="d2">74eda634f9b816bd7ec6f95b340e88c4</data>
+      <data key="d5">1</data>
+      <data key="d6">89</data>
+      <data key="d7">148fffeb994541b2b4b6dcefda7001a8</data>
+    </node>
+    <node id="&quot;YELLO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Yello is a Swiss electronica band whose song 'Oh Yeah' was sampled in Flo Rida's 'Turn Around (5, 4, 3, 2, 1)'"</data>
+      <data key="d2">74eda634f9b816bd7ec6f95b340e88c4</data>
+      <data key="d5">1</data>
+      <data key="d6">90</data>
+      <data key="d7">89c08e793298442686292454a1abff31</data>
+    </node>
+    <node id="&quot;DJ FRANK E&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"DJ Frank E is a musician who collaborated with Flo Rida on the song 'Right Round'"</data>
+      <data key="d2">74eda634f9b816bd7ec6f95b340e88c4</data>
+      <data key="d5">1</data>
+      <data key="d6">91</data>
+      <data key="d7">0467928aa65e4a4fba62bdb1467e3a54</data>
+    </node>
+    <node id="&quot;THE HANGOVER PART II&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Hangover Part II is a film that featured Flo Rida's song 'Turn Around (5, 4, 3, 2, 1)' in its closing credits."</data>
+      <data key="d2">74eda634f9b816bd7ec6f95b340e88c4</data>
+      <data key="d5">1</data>
+      <data key="d6">92</data>
+      <data key="d7">43c3390303c6476cb65f584e37c3e81c</data>
+    </node>
+    <node id="&quot;THE HANGOVER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Hangover is a film franchise that has used Flo Rida's songs in its closing credits, including 'Right Round' and 'Turn Around (5, 4, 3, 2, 1)'"</data>
+      <data key="d2">74eda634f9b816bd7ec6f95b340e88c4</data>
+      <data key="d5">1</data>
+      <data key="d6">93</data>
+      <data key="d7">fa14b16c17e3417dba5a4b473ea5b18d</data>
+    </node>
+    <node id="&quot;FLO RIDA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">74eda634f9b816bd7ec6f95b340e88c4</data>
+      <data key="d5">5</data>
+      <data key="d6">94</data>
+      <data key="d7">7cc3356d38de4328a51a5cbcb187dac3</data>
+    </node>
+    <edge source="&quot;CALIFORNIA&quot;" target="&quot;SAN DIEGO&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"San Diego is located in California."</data>
+      <data key="d11">f9469000dabd0eacf7adfa220289c1f6</data>
+      <data key="d12">bef16fb5fd7344cca5e295b13ef3e0cd</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;SAN DIEGO&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"San Diego is a city in the United States."</data>
+      <data key="d11">f9469000dabd0eacf7adfa220289c1f6</data>
+      <data key="d12">bb9e01bc171d4326a29afda59ece8d17</data>
+      <data key="d13">1</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d9">20.0</data>
+      <data key="d10">"Arizona is a state in the United States."</data>
+      <data key="d11">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+      <data key="d12">3c063eea52e94164b70c99431ea30bae</data>
+      <data key="d13">2</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;TUCSON&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Tucson is a city located in the United States."</data>
+      <data key="d11">e841ba7743ea911c87ef7ff3578df4bc</data>
+      <data key="d12">252cc8452bfc4c2aa58cab68d8b61879</data>
+      <data key="d13">3</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;ILLINOIS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Illinois is a state located in the United States."</data>
+      <data key="d11">caa4f611de6dfbb60da609924bc1cbca</data>
+      <data key="d12">7e2c84548fb94ee395ba8588d8f2a006</data>
+      <data key="d13">4</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;METRO DETROIT&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Metro Detroit is a metropolitan area located in the United States, being one of the most populous in the country."</data>
+      <data key="d11">f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d12">f034618dde7948beb6dab30176d0fc87</data>
+      <data key="d13">5</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;TIJUANA&quot;" target="&quot;SAN DIEGO&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"San Diego and Tijuana form a transborder conurbation."</data>
+      <data key="d11">f9469000dabd0eacf7adfa220289c1f6</data>
+      <data key="d12">5c41f96be13e49dba649454297834546</data>
+      <data key="d13">6</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;US NAVY&quot;" target="&quot;SAN DIEGO&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The US Navy has a long association with San Diego."</data>
+      <data key="d11">f9469000dabd0eacf7adfa220289c1f6</data>
+      <data key="d12">7ea4afbf8a264f29af29950ce98105ba</data>
+      <data key="d13">7</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d9">20.0</data>
+      <data key="d10">"Tucson is the county seat of Pima County."</data>
+      <data key="d11">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+      <data key="d12">91ff849d12b24574b0691dbddf44968b</data>
+      <data key="d13">8</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d9">20.0</data>
+      <data key="d10">"Pima County is a county in Arizona."</data>
+      <data key="d11">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+      <data key="d12">d73c1f2fb3094d8dace42ad2a76e9a52</data>
+      <data key="d13">9</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d9">20.0</data>
+      <data key="d10">"The University of Arizona is located in Tucson."</data>
+      <data key="d11">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+      <data key="d12">cdc8901e668749889bd49bebdc4ff1f6</data>
+      <data key="d13">10</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The University of Arizona is located in Arizona."</data>
+      <data key="d11">fef725e12cf140ef0996241ccb416242</data>
+      <data key="d12">36084a9fab53433493f079e97e68bf65</data>
+      <data key="d13">11</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;JUNE 19, 1960&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The record maximum temperature was recorded at the University of Arizona on June 19, 1960."</data>
+      <data key="d11">fef725e12cf140ef0996241ccb416242</data>
+      <data key="d12">eebcc7ec8e3e4df7aea83659bbdc2199</data>
+      <data key="d13">12</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;JULY 28, 1995&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The record maximum temperature was recorded at the University of Arizona on July 28, 1995."</data>
+      <data key="d11">fef725e12cf140ef0996241ccb416242</data>
+      <data key="d12">ceadf262ef834e9ab146b20650912cae</data>
+      <data key="d13">13</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;JANUARY 7, 1913&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The record minimum temperature was recorded at the University of Arizona on January 7, 1913."</data>
+      <data key="d11">fef725e12cf140ef0996241ccb416242</data>
+      <data key="d12">7f65feab75424b53b24470d305ba331a</data>
+      <data key="d13">14</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d9">20.0</data>
+      <data key="d10">"Tucson is a city in Arizona."</data>
+      <data key="d11">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+      <data key="d12">fd9cb733b28d420cb5cef01e545a132c</data>
+      <data key="d13">15</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d9">20.0</data>
+      <data key="d10">"Phoenix is a city in Arizona."</data>
+      <data key="d11">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+      <data key="d12">0fbcca3f17c649a08aea64b5a7d9ef36</data>
+      <data key="d13">16</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;PHOENIX&quot;" target="&quot;TUCSON&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Tucson is located southeast of Phoenix."</data>
+      <data key="d11">e841ba7743ea911c87ef7ff3578df4bc</data>
+      <data key="d12">482027a59f32484c9c44fd700615c1b6</data>
+      <data key="d13">17</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d9">20.0</data>
+      <data key="d10">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d11">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+      <data key="d12">de837ff3d626451282ff6ac77a82216d</data>
+      <data key="d13">18</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d9">20.0</data>
+      <data key="d10">"Mexico shares an international border with the United States."</data>
+      <data key="d11">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+      <data key="d12">460295fed3ae4cd39f9f274cec9c2506</data>
+      <data key="d13">19</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d9">20.0</data>
+      <data key="d10">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d11">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,63ddc20d79f25d22cbad2d84283ec001,74eda634f9b816bd7ec6f95b340e88c4,763a4a1042c8126441b4ee7cb826f625,7b624b38e1bafb66e881d11db2f27a27,8a008cbfed4acc5e6662eed44b34c40b,98d9383cf83a9064321a8b5e1cd77d48,a8573175c03d5aca077489acebbefd2a,a99dd13a8abc8ec76bb81398b65ac331,ab00c503a6f05fccac63a97f51a687c9,b586c48a6a0be0dac83adaa132e1923f,caa4f611de6dfbb60da609924bc1cbca,db789a3360045018e8329dc9d74750ca,e841ba7743ea911c87ef7ff3578df4bc,eb18511e409f1b89d2191d171b23061c,f525fdac61c34cc4dfbe08a7c31cbd93,f9469000dabd0eacf7adfa220289c1f6,fef725e12cf140ef0996241ccb416242</data>
+      <data key="d12">553b285bba60460ab1ed8341ae61282b</data>
+      <data key="d13">20</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;MEXICO&quot;" target="&quot;TUCSON&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Tucson is located near the United States-Mexico border."</data>
+      <data key="d11">e841ba7743ea911c87ef7ff3578df4bc</data>
+      <data key="d12">cec95bf17e7e4c939b56c9c6f402a29f</data>
+      <data key="d13">21</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;TUCSON&quot;" target="&quot;ARIZONA SUN CORRIDOR&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Tucson is a major city in the Arizona Sun Corridor."</data>
+      <data key="d11">e841ba7743ea911c87ef7ff3578df4bc</data>
+      <data key="d12">599164aead034bc19446efacc77554d2</data>
+      <data key="d13">22</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;CHARLES MINGUS SR.&quot;" target="&quot;U.S. ARMY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Charles Mingus Sr. is a sergeant in the U.S. Army."</data>
+      <data key="d11">50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d12">bbf148ae4d48422f8fdef754cfa2b9e4</data>
+      <data key="d13">23</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;NOGALES, ARIZONA&quot;" target="&quot;CHARLES MINGUS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Charles Mingus was born in Nogales, Arizona."</data>
+      <data key="d11">50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d12">de61b2670999433f807a6a1dc2b81e43</data>
+      <data key="d13">24</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;WATTS AREA OF LOS ANGELES&quot;" target="&quot;CHARLES MINGUS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Charles Mingus was largely raised in the Watts area of Los Angeles."</data>
+      <data key="d11">50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d12">3e95dacfe57b4d57b5da4310ef2e157f</data>
+      <data key="d13">25</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;CHARLES MINGUS&quot;" target="&quot;OH YEAH&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Charles Mingus is the leader and creator of the Oh Yeah album."</data>
+      <data key="d11">3f50ab6f48f2146a476175f7e12e99cc</data>
+      <data key="d12">1f1545308e9347af91fd03b94aadc21f</data>
+      <data key="d13">26</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;KAUNAS&quot;" target="&quot;&#260;&#381;UOLYNAS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"&#260;&#382;uolynas is a public park located in Kaunas, Lithuania."</data>
+      <data key="d11">63ddc20d79f25d22cbad2d84283ec001</data>
+      <data key="d12">6ea81acaf232485e94fff638e03336e1</data>
+      <data key="d13">27</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;&#381;ALIAKALNIS&quot;" target="&quot;&#260;&#381;UOLYNAS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"&#260;&#382;uolynas park is situated in the &#381;aliakalnis elderate of Kaunas, Lithuania."</data>
+      <data key="d11">63ddc20d79f25d22cbad2d84283ec001</data>
+      <data key="d12">d136b08d586d488f9e4188b524c85a29</data>
+      <data key="d13">28</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;VYD&#362;NAS ALLEY&quot;" target="&quot;&#260;&#381;UOLYNAS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Vyd&#363;nas Alley serves as the northern border of &#260;&#382;uolynas park."</data>
+      <data key="d11">63ddc20d79f25d22cbad2d84283ec001</data>
+      <data key="d12">cccfa151fedc4b218a8d96adc7dceabe</data>
+      <data key="d13">29</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES CENSUS BUREAU&quot;" target="&quot;OCALA&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The United States Census Bureau estimates population data for Ocala."</data>
+      <data key="d11">50d5902c233bcf5e4c0ca22ab3ec28eb</data>
+      <data key="d12">ce54725672a74ebcabe6127577dacb2b</data>
+      <data key="d13">30</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;OCALA&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Ocala is a city located in Florida."</data>
+      <data key="d11">50d5902c233bcf5e4c0ca22ab3ec28eb</data>
+      <data key="d12">ea2b28ca1a974ffab4517811dc1d1e5c</data>
+      <data key="d13">31</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;MACOUPIN COUNTY&quot;" target="&quot;STAUNTON&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Staunton is a city located in Macoupin County."</data>
+      <data key="d11">caa4f611de6dfbb60da609924bc1cbca</data>
+      <data key="d12">aff21f1da1654e7babdcf3fb0e4a75fc</data>
+      <data key="d13">32</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;MACOUPIN COUNTY&quot;" target="&quot;ILLINOIS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Macoupin County is a county located in the state of Illinois."</data>
+      <data key="d11">caa4f611de6dfbb60da609924bc1cbca</data>
+      <data key="d12">dc2cc9016e3f49dbac7232f05cce794d</data>
+      <data key="d13">33</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;2010 CENSUS&quot;" target="&quot;STAUNTON&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The population of Staunton was recorded as 5,139 in the 2010 Census."</data>
+      <data key="d11">caa4f611de6dfbb60da609924bc1cbca</data>
+      <data key="d12">6ea0cef05f694dcea455478f40674e45</data>
+      <data key="d13">34</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;KAOHSIUNG CITY&quot;" target="&quot;SIAOGANG DISTRICT&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Siaogang District is a district of Kaohsiung City."</data>
+      <data key="d11">7b624b38e1bafb66e881d11db2f27a27</data>
+      <data key="d12">7ab5d53a872f4dfc98f3d386879f3c75</data>
+      <data key="d13">35</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;KAOHSIUNG INTERNATIONAL AIRPORT&quot;" target="&quot;SIAOGANG DISTRICT&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Kaohsiung International Airport is located in Siaogang District."</data>
+      <data key="d11">7b624b38e1bafb66e881d11db2f27a27</data>
+      <data key="d12">af1d0fec22114a3398b8016f5225f9ed</data>
+      <data key="d13">36</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;NEW JERSEY&quot;" target="&quot;JERSEY CITY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Jersey City is a city located in the state of New Jersey."</data>
+      <data key="d11">b586c48a6a0be0dac83adaa132e1923f</data>
+      <data key="d12">b07a7f088364459098cd8511ff27a4c8</data>
+      <data key="d13">37</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;HUDSON COUNTY&quot;" target="&quot;JERSEY CITY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Jersey City is the largest city and seat of Hudson County."</data>
+      <data key="d11">b586c48a6a0be0dac83adaa132e1923f</data>
+      <data key="d12">8870cf2b5df64d2cab5820f67e29b9f1</data>
+      <data key="d13">38</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;CENSUS BUREAU&quot;" target="&quot;JERSEY CITY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The Census Bureau calculated the population estimates for Jersey City."</data>
+      <data key="d11">b586c48a6a0be0dac83adaa132e1923f</data>
+      <data key="d12">cd130938a2844050be991af70baf5ee0</data>
+      <data key="d13">39</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;WORLD CITIES STUDY GROUP&quot;" target="&quot;MIAMI&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Miami was classified as an Alpha-World City by the World Cities Study Group in 2012."</data>
+      <data key="d11">ab00c503a6f05fccac63a97f51a687c9</data>
+      <data key="d12">43544b99c3b04b059546198a0ae6366d</data>
+      <data key="d13">40</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;FORBES MAGAZINE&quot;" target="&quot;MIAMI&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Miami was ranked 'America's Cleanest City' by Forbes magazine in 2008."</data>
+      <data key="d11">ab00c503a6f05fccac63a97f51a687c9</data>
+      <data key="d12">a671bf7fea2f4514b6e96ba99127fafd</data>
+      <data key="d13">41</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;UBS&quot;" target="&quot;MIAMI&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Miami was ranked as the richest city in the United States and fifth-richest globally by UBS in 2009."</data>
+      <data key="d11">ab00c503a6f05fccac63a97f51a687c9</data>
+      <data key="d12">525f41ea20274a05af4e52b625b473f3</data>
+      <data key="d13">42</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;CAPITAL OF LATIN AMERICA&quot;" target="&quot;MIAMI&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Miami is nicknamed the 'Capital of Latin America', reflecting its cultural and economic significance."</data>
+      <data key="d11">ab00c503a6f05fccac63a97f51a687c9</data>
+      <data key="d12">071a416efbec4f0886c19ac68f6d43cb</data>
+      <data key="d13">43</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;GERMANY&quot;" target="&quot;MUNICH&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Munich is a city located in Germany and has become its third largest city."</data>
+      <data key="d11">8a008cbfed4acc5e6662eed44b34c40b</data>
+      <data key="d12">6d8473ef3b1042bf87178a611e3dbcc6</data>
+      <data key="d13">44</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;1700&quot;" target="&quot;MUNICH&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Munich had 24,000 inhabitants in 1700, marking the beginning of rapid population growth."</data>
+      <data key="d11">8a008cbfed4acc5e6662eed44b34c40b</data>
+      <data key="d12">30c9641543c24773938bd8ec57ea98ab</data>
+      <data key="d13">45</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;1852&quot;" target="&quot;MUNICH&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Munich's population reached 100,000 in 1852, doubling from 30 years prior."</data>
+      <data key="d11">8a008cbfed4acc5e6662eed44b34c40b</data>
+      <data key="d12">18b839da898e4026b81727d759d95c6a</data>
+      <data key="d13">46</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;1883&quot;" target="&quot;MUNICH&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Munich's population reached 250,000 in 1883, continuing its rapid growth."</data>
+      <data key="d11">8a008cbfed4acc5e6662eed44b34c40b</data>
+      <data key="d12">eeef6ae5c464400c8755900b4f1ac37a</data>
+      <data key="d13">47</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;1901&quot;" target="&quot;MUNICH&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Munich's population reached 500,000 in 1901, marking significant urbanization."</data>
+      <data key="d11">8a008cbfed4acc5e6662eed44b34c40b</data>
+      <data key="d12">422433aa45804c7ebb973b2fafce5da6</data>
+      <data key="d13">48</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;1933&quot;" target="&quot;MUNICH&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Munich's population was counted at 840,901 inhabitants in 1933."</data>
+      <data key="d11">8a008cbfed4acc5e6662eed44b34c40b</data>
+      <data key="d12">86505bca739d4bccaaa1a8e0f3baffdc</data>
+      <data key="d13">49</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;1957&quot;" target="&quot;MUNICH&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Munich's population exceeded 1 million inhabitants in 1957."</data>
+      <data key="d11">8a008cbfed4acc5e6662eed44b34c40b</data>
+      <data key="d12">1af9faf341e14a5bbf4ddc9080e8dc0b</data>
+      <data key="d13">50</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;MICHIGAN&quot;" target="&quot;DETROIT&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Detroit is located in Michigan and is the most populous city in the state."</data>
+      <data key="d11">f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d12">353d91abc68648639d65a549e59b5cf3</data>
+      <data key="d13">51</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;WAYNE COUNTY&quot;" target="&quot;DETROIT&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Detroit is the seat of Wayne County, being part of its jurisdiction."</data>
+      <data key="d11">f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d12">7ce637e4f35b42e3a9f8272cab69cd22</data>
+      <data key="d13">52</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;NORTH CENTRAL OHIO&quot;" target="&quot;OHIO STATE ROUTE 523 (OH 523)&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Ohio State Route 523 is located in North Central Ohio."</data>
+      <data key="d11">98d9383cf83a9064321a8b5e1cd77d48</data>
+      <data key="d12">4d999d7744b04a998475f8f8531589f0</data>
+      <data key="d13">53</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;OHIO TURNPIKE&quot;" target="&quot;OHIO STATE ROUTE 523 (OH 523)&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Ohio State Route 523 intersects with Ohio Turnpike."</data>
+      <data key="d11">98d9383cf83a9064321a8b5e1cd77d48</data>
+      <data key="d12">9a6f414210e14841a5b0e661aedc898d</data>
+      <data key="d13">54</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;OHIO TURNPIKE&quot;" target="&quot;I-80/I-90&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"I-80/I-90 are highways that intersect with Ohio Turnpike."</data>
+      <data key="d11">98d9383cf83a9064321a8b5e1cd77d48</data>
+      <data key="d12">db541b7260974db8bac94e953009f60e</data>
+      <data key="d13">55</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;U.S. CENSUS BUREAU&quot;" target="&quot;ARLINGTON&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The U.S. Census Bureau provides population estimates for Arlington."</data>
+      <data key="d11">a8573175c03d5aca077489acebbefd2a</data>
+      <data key="d12">f2ff8044718648e18acef16dd9a65436</data>
+      <data key="d13">56</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;FORT WORTH&quot;" target="&quot;ARLINGTON&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Arlington and Fort Worth are cities in the same county, with Fort Worth being larger."</data>
+      <data key="d11">a8573175c03d5aca077489acebbefd2a</data>
+      <data key="d12">00d785e7d76b47ec81b508e768d40584</data>
+      <data key="d13">57</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;BISHOP OF THE DIOCESE OF GOTHENBURG&quot;" target="&quot;GOTHENBURG CATHEDRAL&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The Bishop of the Diocese of Gothenburg is based at Gothenburg Cathedral."</data>
+      <data key="d11">a99dd13a8abc8ec76bb81398b65ac331</data>
+      <data key="d12">87915637da3e474c9349bd0ae604bd95</data>
+      <data key="d13">58</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;GOTHENBURG&quot;" target="&quot;GOTHENBURG CATHEDRAL&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gothenburg Cathedral is located in Gothenburg, the second largest city in Sweden."</data>
+      <data key="d11">a99dd13a8abc8ec76bb81398b65ac331</data>
+      <data key="d12">8f1eba29f39e411188200bf0d14628ec</data>
+      <data key="d13">59</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;CHURCH OF SWEDEN&quot;" target="&quot;GOTHENBURG CATHEDRAL&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Gothenburg Cathedral is part of the Church of Sweden and serves as the seat of its diocese in Gothenburg."</data>
+      <data key="d11">a99dd13a8abc8ec76bb81398b65ac331</data>
+      <data key="d12">7282c73622b8408e97289d959faff483</data>
+      <data key="d13">60</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;JORDAN&quot;" target="&quot;ZARQA GOVERNORATE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Zarqa Governorate is a part of Jordan."</data>
+      <data key="d11">763a4a1042c8126441b4ee7cb826f625</data>
+      <data key="d12">3deb220d31f74103aa44870a36a63220</data>
+      <data key="d13">61</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;JORDAN&quot;" target="&quot;AMMAN&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Amman is the capital of Jordan."</data>
+      <data key="d11">763a4a1042c8126441b4ee7cb826f625</data>
+      <data key="d12">af7a1584dd15492cb9a4940e285f57fc</data>
+      <data key="d13">62</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;ZARQA CITY&quot;" target="&quot;ZARQA GOVERNORATE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Zarqa City is the capital of Zarqa Governorate."</data>
+      <data key="d11">763a4a1042c8126441b4ee7cb826f625</data>
+      <data key="d12">6e8d9029ce4e4ea182367173ab2c7bbf</data>
+      <data key="d13">63</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;RUSSEIFA&quot;" target="&quot;ZARQA GOVERNORATE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Russeifa is a city in Zarqa Governorate."</data>
+      <data key="d11">763a4a1042c8126441b4ee7cb826f625</data>
+      <data key="d12">cbf232211e7d4eb6abdbe182f71c2cf0</data>
+      <data key="d13">64</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;AVENIDA PAULISTA&quot;" target="&quot;S&#195;O PAULO LGBTQ PRIDE PARADE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The S&#227;o Paulo LGBTQ Pride Parade takes place in Avenida Paulista, S&#227;o Paulo, Brazil."</data>
+      <data key="d11">eb18511e409f1b89d2191d171b23061c</data>
+      <data key="d12">bb0cff774a4440b289cc6f3b929fe13c</data>
+      <data key="d13">65</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;S&#195;O PAULO&quot;" target="&quot;S&#195;O PAULO LGBTQ PRIDE PARADE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The S&#227;o Paulo LGBTQ Pride Parade is held in the city of S&#227;o Paulo, Brazil."</data>
+      <data key="d11">eb18511e409f1b89d2191d171b23061c</data>
+      <data key="d12">ce55841ebfdd47008bab8c258f10372e</data>
+      <data key="d13">66</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;BRAZIL&quot;" target="&quot;S&#195;O PAULO LGBTQ PRIDE PARADE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The S&#227;o Paulo LGBTQ Pride Parade takes place in Brazil, specifically in the city of S&#227;o Paulo."</data>
+      <data key="d11">eb18511e409f1b89d2191d171b23061c</data>
+      <data key="d12">6090e736374d45fd84f0e4610a314f8f</data>
+      <data key="d13">67</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;GUINNESS WORLD RECORDS&quot;" target="&quot;S&#195;O PAULO LGBTQ PRIDE PARADE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Guinness World Records recognizes and lists the S&#227;o Paulo LGBTQ Pride Parade as the largest pride parade in the world."</data>
+      <data key="d11">eb18511e409f1b89d2191d171b23061c</data>
+      <data key="d12">0e8d921ccd8d4a8594b65b7fd19f7120</data>
+      <data key="d13">68</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;GRINDR&quot;" target="&quot;S&#195;O PAULO LGBTQ PRIDE PARADE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Grindr elected the S&#227;o Paulo LGBTQ Pride Parade as the best in the world."</data>
+      <data key="d11">eb18511e409f1b89d2191d171b23061c</data>
+      <data key="d12">59c726a8792d443e84ab052cb7942b4a</data>
+      <data key="d13">69</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;INTERSCOPE RECORDS&quot;" target="&quot;SHOW YOUR BONES&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Interscope Records is the record label that released Show Your Bones."</data>
+      <data key="d11">db789a3360045018e8329dc9d74750ca</data>
+      <data key="d12">4f2c665decf242b0bfcaf7350b0e02ed</data>
+      <data key="d13">70</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;SHOW YOUR BONES&quot;" target="&quot;YEAH YEAH YEAHS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Yeah Yeah Yeahs released the album Show Your Bones."</data>
+      <data key="d11">db789a3360045018e8329dc9d74750ca</data>
+      <data key="d12">66cdf168f36d4a57a505028c97dc06e0</data>
+      <data key="d13">71</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;SHOW YOUR BONES&quot;" target="&quot;GRAMMY AWARD&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Show Your Bones was nominated for a Grammy Award for Best Alternative Music Album in 2007."</data>
+      <data key="d11">db789a3360045018e8329dc9d74750ca</data>
+      <data key="d12">38f51478f41f48db9bee570859b6f43e</data>
+      <data key="d13">72</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;GEORGE KRANZ&quot;" target="&quot;FLO RIDA&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Flo Rida sampled George Kranz's song 'Din Daa Daa' in his own song 'Turn Around (5, 4, 3, 2, 1)'."</data>
+      <data key="d11">74eda634f9b816bd7ec6f95b340e88c4</data>
+      <data key="d12">896d2a51e8de47de85ba8ced108c3d53</data>
+      <data key="d13">73</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;YELLO&quot;" target="&quot;FLO RIDA&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Flo Rida sampled Yello's song 'Oh Yeah' in his own song 'Turn Around (5, 4, 3, 2, 1)'."</data>
+      <data key="d11">74eda634f9b816bd7ec6f95b340e88c4</data>
+      <data key="d12">14555b518e954637b83aa762dc03164e</data>
+      <data key="d13">74</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;DJ FRANK E&quot;" target="&quot;FLO RIDA&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Flo Rida collaborated with DJ Frank E on the song 'Right Round'."</data>
+      <data key="d11">74eda634f9b816bd7ec6f95b340e88c4</data>
+      <data key="d12">b1f6164116d44fe8b8f135d7f65b9e58</data>
+      <data key="d13">75</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;THE HANGOVER PART II&quot;" target="&quot;FLO RIDA&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Flo Rida's song 'Turn Around (5, 4, 3, 2, 1)' was featured in the closing credits of The Hangover Part II."</data>
+      <data key="d11">74eda634f9b816bd7ec6f95b340e88c4</data>
+      <data key="d12">c8b2408617804483b620e1a6691ac90d</data>
+      <data key="d13">76</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;THE HANGOVER&quot;" target="&quot;FLO RIDA&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Flo Rida's songs have been used in the closing credits of films from The Hangover franchise."</data>
+      <data key="d11">74eda634f9b816bd7ec6f95b340e88c4</data>
+      <data key="d12">a5e0d1644eb547ba9a5c3211aac4631a</data>
+      <data key="d13">77</data>
+      <data key="d14">0</data>
+    </edge>
+  </graph>
+</graphml>

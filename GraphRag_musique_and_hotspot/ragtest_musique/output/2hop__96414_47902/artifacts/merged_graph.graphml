@@ -1,0 +1,1126 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;ROBERT LUDLUM&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Robert Ludlum is the creator of the Jason Bourne series, which includes The Bourne Deception."
+"Robert Ludlum is the creator of the Jason Bourne series."
+"Robert Ludlum is the author of the novel on which The Bourne Ultimatum is based."
+
+"Robert Ludlum is the originator of the Jason Bourne novels."
+"Robert Ludlum is the creator of the Jason Bourne series."
+"Robert Ludlum is the originator of the Jason Bourne novels."</data>
+      <data key="d2">2a9f3cd8b0898f5dcb2a342d6eb14e55,53bface46ae14238b3d6983bd96786d3,a9c85457fdd3903c773469356c7986a2,bd8858c29eefdd5c711687f84eead88a,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72,cefa4e57aeb4d102afbc92ff72acc8bc</data>
+    </node>
+    <node id="&quot;THE BOURNE DECEPTION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Bourne Deception is a novel in the Jason Bourne series, written by Eric Van Lustbader and released on June 9, 2009."</data>
+      <data key="d2">bd8858c29eefdd5c711687f84eead88a</data>
+    </node>
+    <node id="&quot;JASON BOURNE SERIES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Jason Bourne series is a collection of novels created by Robert Ludlum, including The Bourne Deception."
+</data>
+      <data key="d2">bd8858c29eefdd5c711687f84eead88a,cefa4e57aeb4d102afbc92ff72acc8bc</data>
+    </node>
+    <node id="&quot;ERIC VAN LUSTBADER&quot;">
+      <data key="d0" />
+      <data key="d1">
+"Eric Van Lustbader is an author who wrote The Bourne Sanction, the sixth novel in the Jason Bourne series."
+"Eric Van Lustbader is an author who wrote a sequel to The Bourne Ultimatum titled The Bourne Legacy."
+"Eric Van Lustbader continued the Jason Bourne novel series after Robert Ludlum."
+
+"Eric Van Lustbader continued the Jason Bourne novel series after Robert Ludlum."</data>
+      <data key="d2">53bface46ae14238b3d6983bd96786d3,a9c85457fdd3903c773469356c7986a2,bd8858c29eefdd5c711687f84eead88a,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72,cefa4e57aeb4d102afbc92ff72acc8bc</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">06dee31fedf92e547d86a9a1f0c3a853,226cb9377f7d0f5e201163998ef54641,2a9f3cd8b0898f5dcb2a342d6eb14e55,492f8918dfe30983d2d2fd6809475685,4ceb5a70211eb73127af89418474ed18,53bface46ae14238b3d6983bd96786d3,80b6f44ba9c26b3105c3118b6894361f,8b03c883631c639be5394b80c97a393d,97429e3b60273132d3dc178916b5c454,97f816c6e15456622cd34e8d20bff27f,a9c85457fdd3903c773469356c7986a2,ad0c33b9d7d10497a3d677cd74e15103,bd8858c29eefdd5c711687f84eead88a,c2df6a363c5402dbb61ade319d7bfba5,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72,cefa4e57aeb4d102afbc92ff72acc8bc,e4815fd2b058f3efb593f02a87d5254c,f650cd53498d87003301c36a99fe9ef4,fe4d02dd061352394f0982efed7a2a81</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">06dee31fedf92e547d86a9a1f0c3a853,226cb9377f7d0f5e201163998ef54641,2a9f3cd8b0898f5dcb2a342d6eb14e55,492f8918dfe30983d2d2fd6809475685,4ceb5a70211eb73127af89418474ed18,53bface46ae14238b3d6983bd96786d3,80b6f44ba9c26b3105c3118b6894361f,8b03c883631c639be5394b80c97a393d,97429e3b60273132d3dc178916b5c454,97f816c6e15456622cd34e8d20bff27f,a9c85457fdd3903c773469356c7986a2,ad0c33b9d7d10497a3d677cd74e15103,bd8858c29eefdd5c711687f84eead88a,c2df6a363c5402dbb61ade319d7bfba5,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72,cefa4e57aeb4d102afbc92ff72acc8bc,e4815fd2b058f3efb593f02a87d5254c,f650cd53498d87003301c36a99fe9ef4,fe4d02dd061352394f0982efed7a2a81</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">06dee31fedf92e547d86a9a1f0c3a853,226cb9377f7d0f5e201163998ef54641,2a9f3cd8b0898f5dcb2a342d6eb14e55,492f8918dfe30983d2d2fd6809475685,4ceb5a70211eb73127af89418474ed18,53bface46ae14238b3d6983bd96786d3,80b6f44ba9c26b3105c3118b6894361f,8b03c883631c639be5394b80c97a393d,97429e3b60273132d3dc178916b5c454,97f816c6e15456622cd34e8d20bff27f,a9c85457fdd3903c773469356c7986a2,ad0c33b9d7d10497a3d677cd74e15103,bd8858c29eefdd5c711687f84eead88a,c2df6a363c5402dbb61ade319d7bfba5,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72,cefa4e57aeb4d102afbc92ff72acc8bc,e4815fd2b058f3efb593f02a87d5254c,f650cd53498d87003301c36a99fe9ef4,fe4d02dd061352394f0982efed7a2a81</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">06dee31fedf92e547d86a9a1f0c3a853,226cb9377f7d0f5e201163998ef54641,2a9f3cd8b0898f5dcb2a342d6eb14e55,492f8918dfe30983d2d2fd6809475685,4ceb5a70211eb73127af89418474ed18,53bface46ae14238b3d6983bd96786d3,80b6f44ba9c26b3105c3118b6894361f,8b03c883631c639be5394b80c97a393d,97429e3b60273132d3dc178916b5c454,97f816c6e15456622cd34e8d20bff27f,a9c85457fdd3903c773469356c7986a2,ad0c33b9d7d10497a3d677cd74e15103,bd8858c29eefdd5c711687f84eead88a,c2df6a363c5402dbb61ade319d7bfba5,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72,cefa4e57aeb4d102afbc92ff72acc8bc,e4815fd2b058f3efb593f02a87d5254c,f650cd53498d87003301c36a99fe9ef4,fe4d02dd061352394f0982efed7a2a81</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">06dee31fedf92e547d86a9a1f0c3a853,226cb9377f7d0f5e201163998ef54641,2a9f3cd8b0898f5dcb2a342d6eb14e55,492f8918dfe30983d2d2fd6809475685,4ceb5a70211eb73127af89418474ed18,53bface46ae14238b3d6983bd96786d3,80b6f44ba9c26b3105c3118b6894361f,8b03c883631c639be5394b80c97a393d,97429e3b60273132d3dc178916b5c454,97f816c6e15456622cd34e8d20bff27f,a9c85457fdd3903c773469356c7986a2,ad0c33b9d7d10497a3d677cd74e15103,bd8858c29eefdd5c711687f84eead88a,c2df6a363c5402dbb61ade319d7bfba5,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72,cefa4e57aeb4d102afbc92ff72acc8bc,e4815fd2b058f3efb593f02a87d5254c,f650cd53498d87003301c36a99fe9ef4,fe4d02dd061352394f0982efed7a2a81</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">06dee31fedf92e547d86a9a1f0c3a853,226cb9377f7d0f5e201163998ef54641,2a9f3cd8b0898f5dcb2a342d6eb14e55,492f8918dfe30983d2d2fd6809475685,4ceb5a70211eb73127af89418474ed18,53bface46ae14238b3d6983bd96786d3,80b6f44ba9c26b3105c3118b6894361f,8b03c883631c639be5394b80c97a393d,97429e3b60273132d3dc178916b5c454,97f816c6e15456622cd34e8d20bff27f,a9c85457fdd3903c773469356c7986a2,ad0c33b9d7d10497a3d677cd74e15103,bd8858c29eefdd5c711687f84eead88a,c2df6a363c5402dbb61ade319d7bfba5,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72,cefa4e57aeb4d102afbc92ff72acc8bc,e4815fd2b058f3efb593f02a87d5254c,f650cd53498d87003301c36a99fe9ef4,fe4d02dd061352394f0982efed7a2a81</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">06dee31fedf92e547d86a9a1f0c3a853,226cb9377f7d0f5e201163998ef54641,2a9f3cd8b0898f5dcb2a342d6eb14e55,492f8918dfe30983d2d2fd6809475685,4ceb5a70211eb73127af89418474ed18,53bface46ae14238b3d6983bd96786d3,80b6f44ba9c26b3105c3118b6894361f,8b03c883631c639be5394b80c97a393d,97429e3b60273132d3dc178916b5c454,97f816c6e15456622cd34e8d20bff27f,a9c85457fdd3903c773469356c7986a2,ad0c33b9d7d10497a3d677cd74e15103,bd8858c29eefdd5c711687f84eead88a,c2df6a363c5402dbb61ade319d7bfba5,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72,cefa4e57aeb4d102afbc92ff72acc8bc,e4815fd2b058f3efb593f02a87d5254c,f650cd53498d87003301c36a99fe9ef4,fe4d02dd061352394f0982efed7a2a81</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">06dee31fedf92e547d86a9a1f0c3a853,226cb9377f7d0f5e201163998ef54641,2a9f3cd8b0898f5dcb2a342d6eb14e55,492f8918dfe30983d2d2fd6809475685,4ceb5a70211eb73127af89418474ed18,53bface46ae14238b3d6983bd96786d3,80b6f44ba9c26b3105c3118b6894361f,8b03c883631c639be5394b80c97a393d,97429e3b60273132d3dc178916b5c454,97f816c6e15456622cd34e8d20bff27f,a9c85457fdd3903c773469356c7986a2,ad0c33b9d7d10497a3d677cd74e15103,bd8858c29eefdd5c711687f84eead88a,c2df6a363c5402dbb61ade319d7bfba5,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72,cefa4e57aeb4d102afbc92ff72acc8bc,e4815fd2b058f3efb593f02a87d5254c,f650cd53498d87003301c36a99fe9ef4,fe4d02dd061352394f0982efed7a2a81</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">06dee31fedf92e547d86a9a1f0c3a853,226cb9377f7d0f5e201163998ef54641,2a9f3cd8b0898f5dcb2a342d6eb14e55,492f8918dfe30983d2d2fd6809475685,4ceb5a70211eb73127af89418474ed18,53bface46ae14238b3d6983bd96786d3,80b6f44ba9c26b3105c3118b6894361f,8b03c883631c639be5394b80c97a393d,97429e3b60273132d3dc178916b5c454,97f816c6e15456622cd34e8d20bff27f,a9c85457fdd3903c773469356c7986a2,ad0c33b9d7d10497a3d677cd74e15103,bd8858c29eefdd5c711687f84eead88a,c2df6a363c5402dbb61ade319d7bfba5,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72,cefa4e57aeb4d102afbc92ff72acc8bc,e4815fd2b058f3efb593f02a87d5254c,f650cd53498d87003301c36a99fe9ef4,fe4d02dd061352394f0982efed7a2a81</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</data>
+      <data key="d2">06dee31fedf92e547d86a9a1f0c3a853,226cb9377f7d0f5e201163998ef54641,2a9f3cd8b0898f5dcb2a342d6eb14e55,492f8918dfe30983d2d2fd6809475685,4ceb5a70211eb73127af89418474ed18,53bface46ae14238b3d6983bd96786d3,80b6f44ba9c26b3105c3118b6894361f,8b03c883631c639be5394b80c97a393d,97429e3b60273132d3dc178916b5c454,97f816c6e15456622cd34e8d20bff27f,a9c85457fdd3903c773469356c7986a2,ad0c33b9d7d10497a3d677cd74e15103,bd8858c29eefdd5c711687f84eead88a,c2df6a363c5402dbb61ade319d7bfba5,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72,cefa4e57aeb4d102afbc92ff72acc8bc,e4815fd2b058f3efb593f02a87d5254c,f650cd53498d87003301c36a99fe9ef4,fe4d02dd061352394f0982efed7a2a81</data>
+    </node>
+    <node id="&quot;THOM RACINA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Thom Racina is a creator of the Jason Morgan character on General Hospital."</data>
+      <data key="d2">492f8918dfe30983d2d2fd6809475685</data>
+    </node>
+    <node id="&quot;LEAH LAIMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Leah Laiman is a co-creator of the Jason Morgan character on General Hospital."</data>
+      <data key="d2">492f8918dfe30983d2d2fd6809475685</data>
+    </node>
+    <node id="&quot;STEVE BURTON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Steve Burton is an actor who played the role of Jason Morgan on General Hospital from 1991 to 2012 and won a Daytime Emmy Award."</data>
+      <data key="d2">492f8918dfe30983d2d2fd6809475685</data>
+    </node>
+    <node id="&quot;DR. ALAN QUARTERMAINE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dr. Alan Quartermaine is a character on General Hospital and the father of Jason Morgan."</data>
+      <data key="d2">492f8918dfe30983d2d2fd6809475685</data>
+    </node>
+    <node id="&quot;SUSAN MOORE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Susan Moore is a character on General Hospital and the mother of Jason Morgan."</data>
+      <data key="d2">492f8918dfe30983d2d2fd6809475685</data>
+    </node>
+    <node id="&quot;DR. MONICA QUARTERMAINE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dr. Monica Quartermaine is a character on General Hospital and the adoptive mother of Jason Morgan."</data>
+      <data key="d2">492f8918dfe30983d2d2fd6809475685</data>
+    </node>
+    <node id="&quot;GENERAL HOSPITAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"General Hospital is an ABC soap opera where the character Jason Morgan appears."</data>
+      <data key="d2">492f8918dfe30983d2d2fd6809475685</data>
+    </node>
+    <node id="&quot;JASON MORGAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">492f8918dfe30983d2d2fd6809475685</data>
+    </node>
+    <node id="&quot;ROBERT ELKINS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Robert Elkins is an alternate credit name used by Bob Elkins, an American character actor."</data>
+      <data key="d2">97429e3b60273132d3dc178916b5c454</data>
+    </node>
+    <node id="&quot;AMERICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"America is the country where Bob Elkins was born and has worked as a character actor."</data>
+      <data key="d2">97429e3b60273132d3dc178916b5c454</data>
+    </node>
+    <node id="&quot;UNIVERSAL PICTURES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Universal Pictures is a film production company hoping to plan a sequel to Jason Bourne."</data>
+      <data key="d2">c2df6a363c5402dbb61ade319d7bfba5</data>
+    </node>
+    <node id="&quot;JASON BOURNE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Jason Bourne refers to a series of films, with the possibility of a sixth installment being planned."
+
+"Jason Bourne is the main character of the film series, played by Matt Damon."
+
+"Jason Bourne is the principal character in the novel series, but not in The Bourne Legacy film."
+"Jason Bourne is a principal character in the novel series, but not in The Bourne Legacy film."</data>
+      <data key="d2">2a9f3cd8b0898f5dcb2a342d6eb14e55,80b6f44ba9c26b3105c3118b6894361f,97f816c6e15456622cd34e8d20bff27f,c2df6a363c5402dbb61ade319d7bfba5,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72</data>
+    </node>
+    <node id="&quot;THE BOURNE LEGACY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Bourne Legacy is a film in the Bourne series, with a potential sequel being considered but unlikely."
+
+"The Bourne Legacy is a 2012 film and the fourth in the Jason Bourne series."
+"The Bourne Legacy is a sequel to The Bourne Ultimatum written by Eric Van Lustbader and published fourteen years later."
+"The Bourne Legacy is the fourth film in the Bourne series, which takes place at the same time as The Bourne Ultimatum."
+
+"The Bourne Legacy is a novel published in 2004, written by Eric Van Lustbader."
+</data>
+      <data key="d2">2a9f3cd8b0898f5dcb2a342d6eb14e55,53bface46ae14238b3d6983bd96786d3,80b6f44ba9c26b3105c3118b6894361f,97f816c6e15456622cd34e8d20bff27f,a9c85457fdd3903c773469356c7986a2,c2df6a363c5402dbb61ade319d7bfba5,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72</data>
+    </node>
+    <node id="&quot;MATT DAMON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Matt Damon is an actor who cast doubt on a potential sequel to Jason Bourne, suggesting that people might be done with the character."
+"Matt Damon is an actor and producer involved in multiple Bourne films."
+"Matt Damon is an actor who chose not to return for the fourth Bourne film due to Paul Greengrass not directing."</data>
+      <data key="d2">80b6f44ba9c26b3105c3118b6894361f,97f816c6e15456622cd34e8d20bff27f,c2df6a363c5402dbb61ade319d7bfba5</data>
+    </node>
+    <node id="&quot;FRANK MARSHALL&quot;">
+      <data key="d0" />
+      <data key="d1">
+"Frank Marshall is a producer involved in multiple Bourne films."</data>
+      <data key="d2">97f816c6e15456622cd34e8d20bff27f,c2df6a363c5402dbb61ade319d7bfba5</data>
+    </node>
+    <node id="&quot;THE BOURNE BETRAYAL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Bourne Betrayal is a novel and the fifth book in the Jason Bourne series, published in 2007."
+"The Bourne Betrayal is a novel published in June 2007, written by Eric Van Lustbader."</data>
+      <data key="d2">53bface46ae14238b3d6983bd96786d3,cefa4e57aeb4d102afbc92ff72acc8bc</data>
+    </node>
+    <node id="&quot;THE BOURNE SANCTION&quot;">
+      <data key="d0" />
+      <data key="d1">
+"The Bourne Sanction is a sequel to The Bourne Betrayal, written by Eric Van Lustbader."</data>
+      <data key="d2">53bface46ae14238b3d6983bd96786d3,cefa4e57aeb4d102afbc92ff72acc8bc</data>
+    </node>
+    <node id="&quot;DOUG LIMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Doug Liman is the director of The Bourne Identity."</data>
+      <data key="d2">97f816c6e15456622cd34e8d20bff27f</data>
+    </node>
+    <node id="&quot;TONY GILROY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Tony Gilroy is a screenwriter and producer involved in multiple Bourne films."
+"Tony Gilroy is a screenwriter and contributor to the screenplay of The Bourne Ultimatum."
+"Tony Gilroy is a co-screenwriter of the first three Bourne films and sought to continue the story without changing key events."
+"Tony Gilroy is the director of The Bourne Legacy film."
+"Tony Gilroy is the director of The Bourne Legacy film."</data>
+      <data key="d2">2a9f3cd8b0898f5dcb2a342d6eb14e55,80b6f44ba9c26b3105c3118b6894361f,97f816c6e15456622cd34e8d20bff27f,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72</data>
+    </node>
+    <node id="&quot;PAUL GREENGRASS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Paul Greengrass is a director involved in multiple Bourne films."
+"Paul Greengrass is the director of The Bourne Ultimatum."
+"Paul Greengrass is a director who did not direct The Bourne Legacy, leading to Matt Damon's decision not to return."</data>
+      <data key="d2">2a9f3cd8b0898f5dcb2a342d6eb14e55,80b6f44ba9c26b3105c3118b6894361f,97f816c6e15456622cd34e8d20bff27f</data>
+    </node>
+    <node id="&quot;PATRICK CROWLEY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Patrick Crowley is a producer involved in multiple Bourne films."</data>
+      <data key="d2">97f816c6e15456622cd34e8d20bff27f</data>
+    </node>
+    <node id="&quot;RICHARD N. GLADSTEIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Richard N. Gladstein is a producer involved in The Bourne Identity."</data>
+      <data key="d2">97f816c6e15456622cd34e8d20bff27f</data>
+    </node>
+    <node id="&quot;WILLIAM BLAKE HERRON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"William Blake Herron is a screenwriter involved in The Bourne Identity."</data>
+      <data key="d2">97f816c6e15456622cd34e8d20bff27f</data>
+    </node>
+    <node id="&quot;SCOTT Z. BURNS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Scott Z. Burns is a screenwriter involved in The Bourne Ultimatum."
+"Scott Z. Burns is a screenwriter and contributor to the screenplay of The Bourne Ultimatum."</data>
+      <data key="d2">2a9f3cd8b0898f5dcb2a342d6eb14e55,97f816c6e15456622cd34e8d20bff27f</data>
+    </node>
+    <node id="&quot;GEORGE NOLFI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"George Nolfi is a screenwriter involved in The Bourne Ultimatum."
+"George Nolfi is a screenwriter and contributor to the screenplay of The Bourne Ultimatum."</data>
+      <data key="d2">2a9f3cd8b0898f5dcb2a342d6eb14e55,97f816c6e15456622cd34e8d20bff27f</data>
+    </node>
+    <node id="&quot;DAN GILROY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dan Gilroy is a screenwriter involved in The Bourne Legacy."</data>
+      <data key="d2">97f816c6e15456622cd34e8d20bff27f</data>
+    </node>
+    <node id="&quot;CHRISTOPHER ROUSE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Christopher Rouse is a screenwriter involved in Jason Bourne."</data>
+      <data key="d2">97f816c6e15456622cd34e8d20bff27f</data>
+    </node>
+    <node id="&quot;GREGORY GOODMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gregory Goodman is a producer involved in Jason Bourne."</data>
+      <data key="d2">97f816c6e15456622cd34e8d20bff27f</data>
+    </node>
+    <node id="&quot;JEFFREY M. WEINER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jeffrey M. Weiner is a producer involved in multiple Bourne films."</data>
+      <data key="d2">97f816c6e15456622cd34e8d20bff27f</data>
+    </node>
+    <node id="&quot;BEN SMITH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ben Smith is a producer involved in multiple Bourne films."</data>
+      <data key="d2">97f816c6e15456622cd34e8d20bff27f</data>
+    </node>
+    <node id="&quot;THE BOURNE IDENTITY&quot;">
+      <data key="d0" />
+      <data key="d1">
+"The Bourne Identity is a 2002 film and the first in the Jason Bourne series."
+"The Bourne Identity is a film where Adewale Akinnuoye-Agbaje played the role of Nykwana Wombosi."</data>
+      <data key="d2">2a9f3cd8b0898f5dcb2a342d6eb14e55,97f816c6e15456622cd34e8d20bff27f,fe4d02dd061352394f0982efed7a2a81</data>
+    </node>
+    <node id="&quot;THE BOURNE SUPREMACY&quot;">
+      <data key="d0" />
+      <data key="d1">
+"The Bourne Supremacy is a 2004 film and the second in the Jason Bourne series."
+"The Bourne Supremacy is a Jason Bourne novel written by Robert Ludlum, published in 1986."</data>
+      <data key="d2">2a9f3cd8b0898f5dcb2a342d6eb14e55,97f816c6e15456622cd34e8d20bff27f,a9c85457fdd3903c773469356c7986a2</data>
+    </node>
+    <node id="&quot;THE BOURNE ULTIMATUM&quot;">
+      <data key="d0" />
+      <data key="d1">
+
+"The Bourne Ultimatum is the third Jason Bourne novel written by Robert Ludlum and published in 1990."
+"The Bourne Ultimatum is a previous film in the Bourne series, which shares a timeline with The Bourne Legacy."</data>
+      <data key="d2">2a9f3cd8b0898f5dcb2a342d6eb14e55,80b6f44ba9c26b3105c3118b6894361f,97f816c6e15456622cd34e8d20bff27f,a9c85457fdd3903c773469356c7986a2</data>
+    </node>
+    <node id="&quot;FRANCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"France is the country where Alfred Adam was from."
+"France is the country of origin for Dominique Pinon, a French actor."
+"France is the country where Charles Lamy was from."</data>
+      <data key="d2">06dee31fedf92e547d86a9a1f0c3a853,4ceb5a70211eb73127af89418474ed18,8b03c883631c639be5394b80c97a393d</data>
+    </node>
+    <node id="&quot;CANADIAN TIRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Canadian Tire is a retail company that sells products and has its own stores, featuring a character in their television commercials."</data>
+      <data key="d2">e4815fd2b058f3efb593f02a87d5254c</data>
+    </node>
+    <node id="&quot;TED SIMONETT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e4815fd2b058f3efb593f02a87d5254c</data>
+    </node>
+    <node id="&quot;JENS HARTWIG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jens Hartwig is an actor who plays the role of Tristan von Lahnstein in the German soap opera 'Verbotene Liebe (Forbidden Love)'"</data>
+      <data key="d2">ad0c33b9d7d10497a3d677cd74e15103</data>
+    </node>
+    <node id="&quot;VERBOTENE LIEBE (FORBIDDEN LOVE)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Verbotene Liebe (Forbidden Love) is a German soap opera that features the character Tristan von Lahnstein"
+"Verbotene Liebe (Forbidden Love) is a German soap opera that features the character Ludwig von Lahnstein"</data>
+      <data key="d2">ad0c33b9d7d10497a3d677cd74e15103,f650cd53498d87003301c36a99fe9ef4</data>
+    </node>
+    <node id="&quot;GERMANY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Germany is the country where the soap opera 'Verbotene Liebe (Forbidden Love)' originates"
+"Germany is the country where the soap opera 'Verbotene Liebe (Forbidden Love)' is produced"</data>
+      <data key="d2">ad0c33b9d7d10497a3d677cd74e15103,f650cd53498d87003301c36a99fe9ef4</data>
+    </node>
+    <node id="&quot;TRISTAN VON LAHNSTEIN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ad0c33b9d7d10497a3d677cd74e15103</data>
+    </node>
+    <node id="&quot;JEAN-PIERRE JEUNET&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jean-Pierre Jeunet is a film director who has worked with Dominique Pinon on several projects."</data>
+      <data key="d2">8b03c883631c639be5394b80c97a393d</data>
+    </node>
+    <node id="&quot;DOMINIQUE PINON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8b03c883631c639be5394b80c97a393d</data>
+    </node>
+    <node id="&quot;LUCIFER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Lucifer is a TV show where Thomas John Ellis plays the title character."</data>
+      <data key="d2">226cb9377f7d0f5e201163998ef54641</data>
+    </node>
+    <node id="&quot;MIRANDA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Miranda is a TV show where Thomas John Ellis plays Gary Preston."</data>
+      <data key="d2">226cb9377f7d0f5e201163998ef54641</data>
+    </node>
+    <node id="&quot;FOX&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Fox is a TV network that airs Lucifer, a show starring Thomas John Ellis."</data>
+      <data key="d2">226cb9377f7d0f5e201163998ef54641</data>
+    </node>
+    <node id="&quot;THOMAS JOHN ELLIS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">226cb9377f7d0f5e201163998ef54641</data>
+    </node>
+    <node id="&quot;CHARLES LAMY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4ceb5a70211eb73127af89418474ed18</data>
+    </node>
+    <node id="&quot;AARON CROSS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Aaron Cross is a black ops agent and the central character in The Bourne Legacy film, played by Jeremy Renner."
+"Aaron Cross is an original character and the central figure in The Bourne Legacy film, played by Jeremy Renner."</data>
+      <data key="d2">c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72</data>
+    </node>
+    <node id="&quot;JEREMY RENNER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jeremy Renner plays the role of Aaron Cross in The Bourne Legacy film."
+"Jeremy Renner plays the role of Aaron Cross in The Bourne Legacy film."</data>
+      <data key="d2">c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72</data>
+    </node>
+    <node id="&quot;RACHEL WEISZ&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Rachel Weisz is a star in The Bourne Legacy film."
+"Rachel Weisz is a star in The Bourne Legacy film."</data>
+      <data key="d2">c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72</data>
+    </node>
+    <node id="&quot;EDWARD NORTON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Edward Norton is a star in The Bourne Legacy film."
+"Edward Norton is a star in The Bourne Legacy film."</data>
+      <data key="d2">c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72</data>
+    </node>
+    <node id="&quot;THE MUMMY RETURNS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Mummy Returns is a film where Adewale Akinnuoye-Agbaje played the role of Lock-Nah."</data>
+      <data key="d2">fe4d02dd061352394f0982efed7a2a81</data>
+    </node>
+    <node id="&quot;LOST&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Lost is a TV series where Adewale Akinnuoye-Agbaje played the role of Mr. Eko."</data>
+      <data key="d2">fe4d02dd061352394f0982efed7a2a81</data>
+    </node>
+    <node id="&quot;OZ&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Oz is a TV series where Adewale Akinnuoye-Agbaje played the role of Simon Adebisi."</data>
+      <data key="d2">fe4d02dd061352394f0982efed7a2a81</data>
+    </node>
+    <node id="&quot;GAME OF THRONES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Game of Thrones is an HBO series where Adewale Akinnuoye-Agbaje played the role of Malko in its fifth season."</data>
+      <data key="d2">fe4d02dd061352394f0982efed7a2a81</data>
+    </node>
+    <node id="&quot;MAJOR LAZER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Major Lazer is an animated series where Adewale Akinnuoye-Agbaje provided the voice to the title character."</data>
+      <data key="d2">fe4d02dd061352394f0982efed7a2a81</data>
+    </node>
+    <node id="&quot;CONCUSSION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Concussion is a biopic drama film where Adewale Akinnuoye-Agbaje played the role of Dave Duerson."</data>
+      <data key="d2">fe4d02dd061352394f0982efed7a2a81</data>
+    </node>
+    <node id="&quot;SUICIDE SQUAD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Suicide Squad is a film where Adewale Akinnuoye-Agbaje played the role of Killer Croc."</data>
+      <data key="d2">fe4d02dd061352394f0982efed7a2a81</data>
+    </node>
+    <node id="&quot;ADEWALE AKINNUOYE-AGBAJE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fe4d02dd061352394f0982efed7a2a81</data>
+    </node>
+    <node id="&quot;KRYSTIAN MARTINEK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Krystian Martinek is an actor who played the role of Ludwig von Lahnstein in the German soap opera 'Verbotene Liebe (Forbidden Love)'"</data>
+      <data key="d2">f650cd53498d87003301c36a99fe9ef4</data>
+    </node>
+    <node id="&quot;LUDWIG VON LAHNSTEIN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f650cd53498d87003301c36a99fe9ef4</data>
+    </node>
+    <edge source="&quot;ROBERT LUDLUM&quot;" target="&quot;JASON BOURNE SERIES&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Robert Ludlum created the Jason Bourne series, which includes The Bourne Deception."
+"Robert Ludlum created the Jason Bourne series."</data>
+      <data key="d5">bd8858c29eefdd5c711687f84eead88a,cefa4e57aeb4d102afbc92ff72acc8bc</data>
+    </edge>
+    <edge source="&quot;ROBERT LUDLUM&quot;" target="&quot;THE BOURNE ULTIMATUM&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"The Bourne Ultimatum is based on a novel by Robert Ludlum."
+"Robert Ludlum wrote The Bourne Ultimatum, the third Jason Bourne novel."</data>
+      <data key="d5">2a9f3cd8b0898f5dcb2a342d6eb14e55,a9c85457fdd3903c773469356c7986a2</data>
+    </edge>
+    <edge source="&quot;ROBERT LUDLUM&quot;" target="&quot;THE BOURNE SUPREMACY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Robert Ludlum wrote The Bourne Supremacy, a Jason Bourne novel published in 1986."</data>
+      <data key="d5">a9c85457fdd3903c773469356c7986a2</data>
+    </edge>
+    <edge source="&quot;ROBERT LUDLUM&quot;" target="&quot;JASON BOURNE&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Robert Ludlum originated the Jason Bourne novel series."
+"Robert Ludlum originated the Jason Bourne novel series."</data>
+      <data key="d5">c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72</data>
+    </edge>
+    <edge source="&quot;ROBERT LUDLUM&quot;" target="&quot;ERIC VAN LUSTBADER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Eric Van Lustbader wrote novels in the Jason Bourne series created by Robert Ludlum."</data>
+      <data key="d5">53bface46ae14238b3d6983bd96786d3</data>
+    </edge>
+    <edge source="&quot;THE BOURNE DECEPTION&quot;" target="&quot;ERIC VAN LUSTBADER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Eric Van Lustbader wrote The Bourne Deception, a novel in the Jason Bourne series."</data>
+      <data key="d5">bd8858c29eefdd5c711687f84eead88a</data>
+    </edge>
+    <edge source="&quot;THE BOURNE DECEPTION&quot;" target="&quot;JASON BOURNE SERIES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Bourne Deception is a novel in the Jason Bourne series."</data>
+      <data key="d5">bd8858c29eefdd5c711687f84eead88a</data>
+    </edge>
+    <edge source="&quot;ERIC VAN LUSTBADER&quot;" target="&quot;THE BOURNE SANCTION&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Eric Van Lustbader wrote The Bourne Sanction."
+"The Bourne Sanction is a sequel to The Bourne Betrayal, written by Eric Van Lustbader."</data>
+      <data key="d5">53bface46ae14238b3d6983bd96786d3,cefa4e57aeb4d102afbc92ff72acc8bc</data>
+    </edge>
+    <edge source="&quot;ERIC VAN LUSTBADER&quot;" target="&quot;THE BOURNE LEGACY&quot;">
+      <data key="d3">4.0</data>
+      <data key="d4">"Eric Van Lustbader wrote The Bourne Legacy, a sequel to The Bourne Ultimatum."
+"Eric Van Lustbader's novel has the same title as the film, but with a different storyline."
+"The Bourne Legacy is a novel written by Eric Van Lustbader."
+"Eric Van Lustbader wrote the novel The Bourne Legacy, which is different from the film."</data>
+      <data key="d5">53bface46ae14238b3d6983bd96786d3,a9c85457fdd3903c773469356c7986a2,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72</data>
+    </edge>
+    <edge source="&quot;ERIC VAN LUSTBADER&quot;" target="&quot;THE BOURNE BETRAYAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Bourne Betrayal is a novel written by Eric Van Lustbader."</data>
+      <data key="d5">53bface46ae14238b3d6983bd96786d3</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."</data>
+      <data key="d5">06dee31fedf92e547d86a9a1f0c3a853,226cb9377f7d0f5e201163998ef54641,2a9f3cd8b0898f5dcb2a342d6eb14e55,492f8918dfe30983d2d2fd6809475685,4ceb5a70211eb73127af89418474ed18,53bface46ae14238b3d6983bd96786d3,80b6f44ba9c26b3105c3118b6894361f,8b03c883631c639be5394b80c97a393d,97429e3b60273132d3dc178916b5c454,97f816c6e15456622cd34e8d20bff27f,a9c85457fdd3903c773469356c7986a2,ad0c33b9d7d10497a3d677cd74e15103,bd8858c29eefdd5c711687f84eead88a,c2df6a363c5402dbb61ade319d7bfba5,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72,cefa4e57aeb4d102afbc92ff72acc8bc,e4815fd2b058f3efb593f02a87d5254c,f650cd53498d87003301c36a99fe9ef4,fe4d02dd061352394f0982efed7a2a81</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."</data>
+      <data key="d5">06dee31fedf92e547d86a9a1f0c3a853,226cb9377f7d0f5e201163998ef54641,2a9f3cd8b0898f5dcb2a342d6eb14e55,492f8918dfe30983d2d2fd6809475685,4ceb5a70211eb73127af89418474ed18,53bface46ae14238b3d6983bd96786d3,80b6f44ba9c26b3105c3118b6894361f,8b03c883631c639be5394b80c97a393d,97429e3b60273132d3dc178916b5c454,97f816c6e15456622cd34e8d20bff27f,a9c85457fdd3903c773469356c7986a2,ad0c33b9d7d10497a3d677cd74e15103,bd8858c29eefdd5c711687f84eead88a,c2df6a363c5402dbb61ade319d7bfba5,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72,cefa4e57aeb4d102afbc92ff72acc8bc,e4815fd2b058f3efb593f02a87d5254c,f650cd53498d87003301c36a99fe9ef4,fe4d02dd061352394f0982efed7a2a81</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."</data>
+      <data key="d5">06dee31fedf92e547d86a9a1f0c3a853,226cb9377f7d0f5e201163998ef54641,2a9f3cd8b0898f5dcb2a342d6eb14e55,492f8918dfe30983d2d2fd6809475685,4ceb5a70211eb73127af89418474ed18,53bface46ae14238b3d6983bd96786d3,80b6f44ba9c26b3105c3118b6894361f,8b03c883631c639be5394b80c97a393d,97429e3b60273132d3dc178916b5c454,97f816c6e15456622cd34e8d20bff27f,a9c85457fdd3903c773469356c7986a2,ad0c33b9d7d10497a3d677cd74e15103,bd8858c29eefdd5c711687f84eead88a,c2df6a363c5402dbb61ade319d7bfba5,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72,cefa4e57aeb4d102afbc92ff72acc8bc,e4815fd2b058f3efb593f02a87d5254c,f650cd53498d87003301c36a99fe9ef4,fe4d02dd061352394f0982efed7a2a81</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."</data>
+      <data key="d5">06dee31fedf92e547d86a9a1f0c3a853,226cb9377f7d0f5e201163998ef54641,2a9f3cd8b0898f5dcb2a342d6eb14e55,492f8918dfe30983d2d2fd6809475685,4ceb5a70211eb73127af89418474ed18,53bface46ae14238b3d6983bd96786d3,80b6f44ba9c26b3105c3118b6894361f,8b03c883631c639be5394b80c97a393d,97429e3b60273132d3dc178916b5c454,97f816c6e15456622cd34e8d20bff27f,a9c85457fdd3903c773469356c7986a2,ad0c33b9d7d10497a3d677cd74e15103,bd8858c29eefdd5c711687f84eead88a,c2df6a363c5402dbb61ade319d7bfba5,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72,cefa4e57aeb4d102afbc92ff72acc8bc,e4815fd2b058f3efb593f02a87d5254c,f650cd53498d87003301c36a99fe9ef4,fe4d02dd061352394f0982efed7a2a81</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."</data>
+      <data key="d5">06dee31fedf92e547d86a9a1f0c3a853,226cb9377f7d0f5e201163998ef54641,2a9f3cd8b0898f5dcb2a342d6eb14e55,492f8918dfe30983d2d2fd6809475685,4ceb5a70211eb73127af89418474ed18,53bface46ae14238b3d6983bd96786d3,80b6f44ba9c26b3105c3118b6894361f,8b03c883631c639be5394b80c97a393d,97429e3b60273132d3dc178916b5c454,97f816c6e15456622cd34e8d20bff27f,a9c85457fdd3903c773469356c7986a2,ad0c33b9d7d10497a3d677cd74e15103,bd8858c29eefdd5c711687f84eead88a,c2df6a363c5402dbb61ade319d7bfba5,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72,cefa4e57aeb4d102afbc92ff72acc8bc,e4815fd2b058f3efb593f02a87d5254c,f650cd53498d87003301c36a99fe9ef4,fe4d02dd061352394f0982efed7a2a81</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."</data>
+      <data key="d5">06dee31fedf92e547d86a9a1f0c3a853,226cb9377f7d0f5e201163998ef54641,2a9f3cd8b0898f5dcb2a342d6eb14e55,492f8918dfe30983d2d2fd6809475685,4ceb5a70211eb73127af89418474ed18,53bface46ae14238b3d6983bd96786d3,80b6f44ba9c26b3105c3118b6894361f,8b03c883631c639be5394b80c97a393d,97429e3b60273132d3dc178916b5c454,97f816c6e15456622cd34e8d20bff27f,a9c85457fdd3903c773469356c7986a2,ad0c33b9d7d10497a3d677cd74e15103,bd8858c29eefdd5c711687f84eead88a,c2df6a363c5402dbb61ade319d7bfba5,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72,cefa4e57aeb4d102afbc92ff72acc8bc,e4815fd2b058f3efb593f02a87d5254c,f650cd53498d87003301c36a99fe9ef4,fe4d02dd061352394f0982efed7a2a81</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">06dee31fedf92e547d86a9a1f0c3a853,226cb9377f7d0f5e201163998ef54641,2a9f3cd8b0898f5dcb2a342d6eb14e55,492f8918dfe30983d2d2fd6809475685,4ceb5a70211eb73127af89418474ed18,53bface46ae14238b3d6983bd96786d3,80b6f44ba9c26b3105c3118b6894361f,8b03c883631c639be5394b80c97a393d,97429e3b60273132d3dc178916b5c454,97f816c6e15456622cd34e8d20bff27f,a9c85457fdd3903c773469356c7986a2,ad0c33b9d7d10497a3d677cd74e15103,bd8858c29eefdd5c711687f84eead88a,c2df6a363c5402dbb61ade319d7bfba5,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72,cefa4e57aeb4d102afbc92ff72acc8bc,e4815fd2b058f3efb593f02a87d5254c,f650cd53498d87003301c36a99fe9ef4,fe4d02dd061352394f0982efed7a2a81</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."</data>
+      <data key="d5">06dee31fedf92e547d86a9a1f0c3a853,226cb9377f7d0f5e201163998ef54641,2a9f3cd8b0898f5dcb2a342d6eb14e55,492f8918dfe30983d2d2fd6809475685,4ceb5a70211eb73127af89418474ed18,53bface46ae14238b3d6983bd96786d3,80b6f44ba9c26b3105c3118b6894361f,8b03c883631c639be5394b80c97a393d,97429e3b60273132d3dc178916b5c454,97f816c6e15456622cd34e8d20bff27f,a9c85457fdd3903c773469356c7986a2,ad0c33b9d7d10497a3d677cd74e15103,bd8858c29eefdd5c711687f84eead88a,c2df6a363c5402dbb61ade319d7bfba5,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72,cefa4e57aeb4d102afbc92ff72acc8bc,e4815fd2b058f3efb593f02a87d5254c,f650cd53498d87003301c36a99fe9ef4,fe4d02dd061352394f0982efed7a2a81</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">06dee31fedf92e547d86a9a1f0c3a853,226cb9377f7d0f5e201163998ef54641,2a9f3cd8b0898f5dcb2a342d6eb14e55,492f8918dfe30983d2d2fd6809475685,4ceb5a70211eb73127af89418474ed18,53bface46ae14238b3d6983bd96786d3,80b6f44ba9c26b3105c3118b6894361f,8b03c883631c639be5394b80c97a393d,97429e3b60273132d3dc178916b5c454,97f816c6e15456622cd34e8d20bff27f,a9c85457fdd3903c773469356c7986a2,ad0c33b9d7d10497a3d677cd74e15103,bd8858c29eefdd5c711687f84eead88a,c2df6a363c5402dbb61ade319d7bfba5,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72,cefa4e57aeb4d102afbc92ff72acc8bc,e4815fd2b058f3efb593f02a87d5254c,f650cd53498d87003301c36a99fe9ef4,fe4d02dd061352394f0982efed7a2a81</data>
+    </edge>
+    <edge source="&quot;THOM RACINA&quot;" target="&quot;JASON MORGAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Thom Racina created the character of Jason Morgan on General Hospital."</data>
+      <data key="d5">492f8918dfe30983d2d2fd6809475685</data>
+    </edge>
+    <edge source="&quot;STEVE BURTON&quot;" target="&quot;JASON MORGAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Steve Burton played the role of Jason Morgan on General Hospital from 1991 to 2012."</data>
+      <data key="d5">492f8918dfe30983d2d2fd6809475685</data>
+    </edge>
+    <edge source="&quot;DR. ALAN QUARTERMAINE&quot;" target="&quot;JASON MORGAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dr. Alan Quartermaine is the father of Jason Morgan on General Hospital."</data>
+      <data key="d5">492f8918dfe30983d2d2fd6809475685</data>
+    </edge>
+    <edge source="&quot;GENERAL HOSPITAL&quot;" target="&quot;JASON MORGAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jason Morgan is a character on the TV show General Hospital."</data>
+      <data key="d5">492f8918dfe30983d2d2fd6809475685</data>
+    </edge>
+    <edge source="&quot;UNIVERSAL PICTURES&quot;" target="&quot;FRANK MARSHALL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Frank Marshall is a producer working with Universal Pictures on potential sequels to Jason Bourne and The Bourne Legacy."</data>
+      <data key="d5">c2df6a363c5402dbb61ade319d7bfba5</data>
+    </edge>
+    <edge source="&quot;JASON BOURNE&quot;" target="&quot;MATT DAMON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Matt Damon is an actor who has played the role of Jason Bourne in previous films, casting doubt on a potential sequel."</data>
+      <data key="d5">c2df6a363c5402dbb61ade319d7bfba5</data>
+    </edge>
+    <edge source="&quot;JASON BOURNE&quot;" target="&quot;PAUL GREENGRASS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Paul Greengrass directed Jason Bourne."</data>
+      <data key="d5">97f816c6e15456622cd34e8d20bff27f</data>
+    </edge>
+    <edge source="&quot;JASON BOURNE&quot;" target="&quot;THE BOURNE IDENTITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jason Bourne is the main character of The Bourne Identity."</data>
+      <data key="d5">2a9f3cd8b0898f5dcb2a342d6eb14e55</data>
+    </edge>
+    <edge source="&quot;JASON BOURNE&quot;" target="&quot;THE BOURNE SUPREMACY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jason Bourne is the main character of The Bourne Supremacy."</data>
+      <data key="d5">2a9f3cd8b0898f5dcb2a342d6eb14e55</data>
+    </edge>
+    <edge source="&quot;JASON BOURNE&quot;" target="&quot;THE BOURNE LEGACY&quot;">
+      <data key="d3">3.0</data>
+      <data key="d4">"Jason Bourne is not involved in The Bourne Legacy."
+"Jason Bourne is mentioned by name and shown in pictures throughout The Bourne Legacy."
+"The Bourne Legacy film centers on Aaron Cross, not Jason Bourne."</data>
+      <data key="d5">2a9f3cd8b0898f5dcb2a342d6eb14e55,80b6f44ba9c26b3105c3118b6894361f,c66980b622a96b4ba23e673f5e8e78c9</data>
+    </edge>
+    <edge source="&quot;JASON BOURNE&quot;" target="&quot;THE BOURNE ULTIMATUM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jason Bourne is the main character of The Bourne Ultimatum."</data>
+      <data key="d5">2a9f3cd8b0898f5dcb2a342d6eb14e55</data>
+    </edge>
+    <edge source="&quot;THE BOURNE LEGACY&quot;" target="&quot;TONY GILROY&quot;">
+      <data key="d3">4.0</data>
+      <data key="d4">"Tony Gilroy was a screenwriter and director for The Bourne Legacy."
+"Tony Gilroy co-wrote the screenplay for The Bourne Legacy and sought to continue the story of the film series."
+"Tony Gilroy directed The Bourne Legacy film."
+"Tony Gilroy directed The Bourne Legacy film."</data>
+      <data key="d5">80b6f44ba9c26b3105c3118b6894361f,97f816c6e15456622cd34e8d20bff27f,c66980b622a96b4ba23e673f5e8e78c9,ce7bca47df363ade851348ba96975c72</data>
+    </edge>
+    <edge source="&quot;THE BOURNE LEGACY&quot;" target="&quot;MATT DAMON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Matt Damon chose not to return for The Bourne Legacy due to Paul Greengrass not directing."</data>
+      <data key="d5">80b6f44ba9c26b3105c3118b6894361f</data>
+    </edge>
+    <edge source="&quot;THE BOURNE LEGACY&quot;" target="&quot;AARON CROSS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Aaron Cross is the central character in The Bourne Legacy film."</data>
+      <data key="d5">ce7bca47df363ade851348ba96975c72</data>
+    </edge>
+    <edge source="&quot;MATT DAMON&quot;" target="&quot;THE BOURNE IDENTITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Matt Damon is an actor involved in multiple Bourne films, including The Bourne Identity."</data>
+      <data key="d5">97f816c6e15456622cd34e8d20bff27f</data>
+    </edge>
+    <edge source="&quot;FRANK MARSHALL&quot;" target="&quot;THE BOURNE SUPREMACY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Frank Marshall was a producer for The Bourne Supremacy."</data>
+      <data key="d5">97f816c6e15456622cd34e8d20bff27f</data>
+    </edge>
+    <edge source="&quot;THE BOURNE BETRAYAL&quot;" target="&quot;THE BOURNE SANCTION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Bourne Betrayal is a preceding novel to The Bourne Sanction in the Jason Bourne series."</data>
+      <data key="d5">cefa4e57aeb4d102afbc92ff72acc8bc</data>
+    </edge>
+    <edge source="&quot;DOUG LIMAN&quot;" target="&quot;THE BOURNE IDENTITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Doug Liman directed The Bourne Identity."</data>
+      <data key="d5">97f816c6e15456622cd34e8d20bff27f</data>
+    </edge>
+    <edge source="&quot;TONY GILROY&quot;" target="&quot;THE BOURNE SUPREMACY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tony Gilroy was a screenwriter for The Bourne Supremacy."</data>
+      <data key="d5">97f816c6e15456622cd34e8d20bff27f</data>
+    </edge>
+    <edge source="&quot;TONY GILROY&quot;" target="&quot;THE BOURNE ULTIMATUM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tony Gilroy contributed to the screenplay of The Bourne Ultimatum."</data>
+      <data key="d5">2a9f3cd8b0898f5dcb2a342d6eb14e55</data>
+    </edge>
+    <edge source="&quot;PAUL GREENGRASS&quot;" target="&quot;THE BOURNE ULTIMATUM&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Paul Greengrass directed The Bourne Ultimatum."
+"Paul Greengrass directed The Bourne Ultimatum."</data>
+      <data key="d5">2a9f3cd8b0898f5dcb2a342d6eb14e55,97f816c6e15456622cd34e8d20bff27f</data>
+    </edge>
+    <edge source="&quot;THE BOURNE IDENTITY&quot;" target="&quot;ADEWALE AKINNUOYE-AGBAJE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Adewale Akinnuoye-Agbaje played the role of Nykwana Wombosi in The Bourne Identity."</data>
+      <data key="d5">fe4d02dd061352394f0982efed7a2a81</data>
+    </edge>
+    <edge source="&quot;FRANCE&quot;" target="&quot;DOMINIQUE PINON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dominique Pinon is a French actor, indicating his nationality and country of origin."</data>
+      <data key="d5">8b03c883631c639be5394b80c97a393d</data>
+    </edge>
+    <edge source="&quot;FRANCE&quot;" target="&quot;CHARLES LAMY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Charles Lamy was a French person."</data>
+      <data key="d5">4ceb5a70211eb73127af89418474ed18</data>
+    </edge>
+    <edge source="&quot;CANADIAN TIRE&quot;" target="&quot;TED SIMONETT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ted Simonett played the role of the Canadian Tire guy in television commercials for Canadian Tire stores."</data>
+      <data key="d5">e4815fd2b058f3efb593f02a87d5254c</data>
+    </edge>
+    <edge source="&quot;JENS HARTWIG&quot;" target="&quot;TRISTAN VON LAHNSTEIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tristan von Lahnstein is played by actor Jens Hartwig."</data>
+      <data key="d5">ad0c33b9d7d10497a3d677cd74e15103</data>
+    </edge>
+    <edge source="&quot;JENS HARTWIG&quot;" target="&quot;VERBOTENE LIEBE (FORBIDDEN LOVE)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jens Hartwig acts in the German soap opera 'Verbotene Liebe (Forbidden Love)'."</data>
+      <data key="d5">ad0c33b9d7d10497a3d677cd74e15103</data>
+    </edge>
+    <edge source="&quot;VERBOTENE LIEBE (FORBIDDEN LOVE)&quot;" target="&quot;TRISTAN VON LAHNSTEIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tristan von Lahnstein is a character in the German soap opera 'Verbotene Liebe (Forbidden Love)'."</data>
+      <data key="d5">ad0c33b9d7d10497a3d677cd74e15103</data>
+    </edge>
+    <edge source="&quot;VERBOTENE LIEBE (FORBIDDEN LOVE)&quot;" target="&quot;GERMANY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The soap opera 'Verbotene Liebe (Forbidden Love)' originates from Germany."</data>
+      <data key="d5">ad0c33b9d7d10497a3d677cd74e15103</data>
+    </edge>
+    <edge source="&quot;VERBOTENE LIEBE (FORBIDDEN LOVE)&quot;" target="&quot;KRYSTIAN MARTINEK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Krystian Martinek acted in the German soap opera 'Verbotene Liebe (Forbidden Love)'"</data>
+      <data key="d5">f650cd53498d87003301c36a99fe9ef4</data>
+    </edge>
+    <edge source="&quot;VERBOTENE LIEBE (FORBIDDEN LOVE)&quot;" target="&quot;LUDWIG VON LAHNSTEIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ludwig von Lahnstein is a character in the German soap opera 'Verbotene Liebe (Forbidden Love)'"</data>
+      <data key="d5">f650cd53498d87003301c36a99fe9ef4</data>
+    </edge>
+    <edge source="&quot;JEAN-PIERRE JEUNET&quot;" target="&quot;DOMINIQUE PINON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dominique Pinon has worked with Jean-Pierre Jeunet on several film projects."</data>
+      <data key="d5">8b03c883631c639be5394b80c97a393d</data>
+    </edge>
+    <edge source="&quot;LUCIFER&quot;" target="&quot;THOMAS JOHN ELLIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Thomas John Ellis plays the title character in the TV show Lucifer."</data>
+      <data key="d5">226cb9377f7d0f5e201163998ef54641</data>
+    </edge>
+    <edge source="&quot;LUCIFER&quot;" target="&quot;FOX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Fox is the TV network that airs Lucifer, a show starring Thomas John Ellis."</data>
+      <data key="d5">226cb9377f7d0f5e201163998ef54641</data>
+    </edge>
+    <edge source="&quot;MIRANDA&quot;" target="&quot;THOMAS JOHN ELLIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Thomas John Ellis plays Gary Preston in the TV show Miranda."</data>
+      <data key="d5">226cb9377f7d0f5e201163998ef54641</data>
+    </edge>
+    <edge source="&quot;AARON CROSS&quot;" target="&quot;JEREMY RENNER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Aaron Cross is played by Jeremy Renner in The Bourne Legacy film."</data>
+      <data key="d5">c66980b622a96b4ba23e673f5e8e78c9</data>
+    </edge>
+    <edge source="&quot;THE MUMMY RETURNS&quot;" target="&quot;ADEWALE AKINNUOYE-AGBAJE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Adewale Akinnuoye-Agbaje played the role of Lock-Nah in The Mummy Returns."</data>
+      <data key="d5">fe4d02dd061352394f0982efed7a2a81</data>
+    </edge>
+    <edge source="&quot;LOST&quot;" target="&quot;ADEWALE AKINNUOYE-AGBAJE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Adewale Akinnuoye-Agbaje played the role of Mr. Eko on Lost."</data>
+      <data key="d5">fe4d02dd061352394f0982efed7a2a81</data>
+    </edge>
+    <edge source="&quot;OZ&quot;" target="&quot;ADEWALE AKINNUOYE-AGBAJE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Adewale Akinnuoye-Agbaje played the role of Simon Adebisi on Oz."</data>
+      <data key="d5">fe4d02dd061352394f0982efed7a2a81</data>
+    </edge>
+    <edge source="&quot;GAME OF THRONES&quot;" target="&quot;ADEWALE AKINNUOYE-AGBAJE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Adewale Akinnuoye-Agbaje played the role of Malko in Game of Thrones."</data>
+      <data key="d5">fe4d02dd061352394f0982efed7a2a81</data>
+    </edge>
+    <edge source="&quot;MAJOR LAZER&quot;" target="&quot;ADEWALE AKINNUOYE-AGBAJE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Adewale Akinnuoye-Agbaje provided the voice to the title character on Major Lazer."</data>
+      <data key="d5">fe4d02dd061352394f0982efed7a2a81</data>
+    </edge>
+    <edge source="&quot;CONCUSSION&quot;" target="&quot;ADEWALE AKINNUOYE-AGBAJE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Adewale Akinnuoye-Agbaje played the role of Dave Duerson in Concussion."</data>
+      <data key="d5">fe4d02dd061352394f0982efed7a2a81</data>
+    </edge>
+    <edge source="&quot;SUICIDE SQUAD&quot;" target="&quot;ADEWALE AKINNUOYE-AGBAJE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Adewale Akinnuoye-Agbaje played the role of Killer Croc in Suicide Squad."</data>
+      <data key="d5">fe4d02dd061352394f0982efed7a2a81</data>
+    </edge>
+    <edge source="&quot;KRYSTIAN MARTINEK&quot;" target="&quot;LUDWIG VON LAHNSTEIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Krystian Martinek played the role of Ludwig von Lahnstein in the German soap opera 'Verbotene Liebe (Forbidden Love)'"</data>
+      <data key="d5">f650cd53498d87003301c36a99fe9ef4</data>
+    </edge>
+  </graph>
+</graphml>

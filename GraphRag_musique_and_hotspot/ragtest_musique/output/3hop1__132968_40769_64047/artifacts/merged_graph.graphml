@@ -1,0 +1,933 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;PASSO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Passo is a subcompact car produced by Daihatsu since 2004."</data>
+      <data key="d2">0decd243d5dd20d58e07404b90c9d47b</data>
+    </node>
+    <node id="&quot;TOYOTA COROLLA STORE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Toyota Corolla Store is a Japanese dealership that sells the Passo."</data>
+      <data key="d2">0decd243d5dd20d58e07404b90c9d47b</data>
+    </node>
+    <node id="&quot;JAPAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Japan is the country where Daihatsu is based and the Passo is sold."
+"Japan is the country where Daihatsu, the manufacturer of the Daihatsu Charmant, is based."
+"Japan is a country where the first generation of Honda MDX was imported."</data>
+      <data key="d2">0decd243d5dd20d58e07404b90c9d47b,23969f84b9788f22412d2abd81354fbe,88929a48e25d32771914103a677fe5c2</data>
+    </node>
+    <node id="&quot;DAIHATSU&quot;">
+      <data key="d0" />
+      <data key="d1">
+"Daihatsu is a Japanese automobile manufacturer whose Charade model was used as the basis for Automeccanica's Zebra model."
+</data>
+      <data key="d2">0decd243d5dd20d58e07404b90c9d47b,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+    </node>
+    <node id="&quot;LIGA LEUMIT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Liga Leumit is Israel's second football division where Hapoel Rishon LeZion F.C. currently plays."</data>
+      <data key="d2">4cc8798fe0892727af7500b75b9e9022</data>
+    </node>
+    <node id="&quot;HABERFELD STADIUM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Haberfeld Stadium is the location where Hapoel Rishon LeZion F.C. hosts its home matches."</data>
+      <data key="d2">4cc8798fe0892727af7500b75b9e9022</data>
+    </node>
+    <node id="&quot;ISRAEL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Israel is the country where Hapoel Rishon LeZion F.C. is based and plays its football matches."</data>
+      <data key="d2">4cc8798fe0892727af7500b75b9e9022</data>
+    </node>
+    <node id="&quot;HAPOEL RISHON LEZION F.C.&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4cc8798fe0892727af7500b75b9e9022</data>
+    </node>
+    <node id="&quot;JODY ALLEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jody Allen is a co-owner and executive producer of Vulcan Productions, a television and film production company."</data>
+      <data key="d2">f6458a7958f3add369a016d1b0db994c</data>
+    </node>
+    <node id="&quot;VULCAN PRODUCTIONS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Vulcan Productions is a television and film production company headquartered in Seattle, producing award-winning films and documentaries."</data>
+      <data key="d2">f6458a7958f3add369a016d1b0db994c</data>
+    </node>
+    <node id="&quot;SEATTLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Seattle is the location of Vulcan Productions' headquarters."</data>
+      <data key="d2">f6458a7958f3add369a016d1b0db994c</data>
+    </node>
+    <node id="&quot;VULCAN INC.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Vulcan Inc. is the parent company of Vulcan Productions, encompassing its entertainment division."</data>
+      <data key="d2">f6458a7958f3add369a016d1b0db994c</data>
+    </node>
+    <node id="&quot;WE THE ECONOMY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"We The Economy is a film produced by Vulcan Productions that won 12 awards in 2014, including a Webby award."</data>
+      <data key="d2">f6458a7958f3add369a016d1b0db994c</data>
+    </node>
+    <node id="&quot;ALLEN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f6458a7958f3add369a016d1b0db994c</data>
+    </node>
+    <node id="&quot;AUTOKINITOVIOMIHANIA ELLADOS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Autokinitoviomihania Ellados was a Greek car industry company founded in 1975, assembling Italian Fissore models and Fiat products."</data>
+      <data key="d2">34b7d6fcfe41f63f13919a3bd18e00c1</data>
+    </node>
+    <node id="&quot;FIAT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Fiat is an Italian automobile manufacturer whose products were assembled by Autokinitoviomihania Ellados."</data>
+      <data key="d2">34b7d6fcfe41f63f13919a3bd18e00c1</data>
+    </node>
+    <node id="&quot;LADA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Lada is a Soviet automobile manufacturer whose Niva model was produced under license by Automeccanica."</data>
+      <data key="d2">34b7d6fcfe41f63f13919a3bd18e00c1</data>
+    </node>
+    <node id="&quot;THIVA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Thiva is a location in Greece where Autokinitoviomihania Ellados had a factory acquired by Automeccanica in 1988."</data>
+      <data key="d2">34b7d6fcfe41f63f13919a3bd18e00c1</data>
+    </node>
+    <node id="&quot;GREECE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Greece is the country where Automeccanica and Autokinitoviomihania Ellados were based."</data>
+      <data key="d2">34b7d6fcfe41f63f13919a3bd18e00c1</data>
+    </node>
+    <node id="&quot;AUTOMECCANICA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">34b7d6fcfe41f63f13919a3bd18e00c1</data>
+    </node>
+    <node id="&quot;CBS RECORDS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"CBS Records is a potential new name for the record company subsidiary of the Columbia Broadcasting System."</data>
+      <data key="d2">bee601dd72aae2e226339a7ad630df52</data>
+    </node>
+    <node id="&quot;COLUMBIA BROADCASTING SYSTEM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Columbia Broadcasting System is a global operation that owns a record company subsidiary."</data>
+      <data key="d2">bee601dd72aae2e226339a7ad630df52</data>
+    </node>
+    <node id="&quot;COLUMBIA RECORDS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">bee601dd72aae2e226339a7ad630df52</data>
+    </node>
+    <node id="&quot;BRITISH MANUFACTURER BRISTOL AEROPLANE CO.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Bristol Aeroplane Co. is a British manufacturer that produced the Bristol 406 luxury car between 1958 and 1961."</data>
+      <data key="d2">842ef85bbb0945340ce6617045412ebe</data>
+    </node>
+    <node id="&quot;BRISTOL CARS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Bristol Cars is a car division that emerged from Bristol Aeroplane's car manufacturing activities."</data>
+      <data key="d2">842ef85bbb0945340ce6617045412ebe</data>
+    </node>
+    <node id="&quot;BRISTOL 406&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">842ef85bbb0945340ce6617045412ebe</data>
+    </node>
+    <node id="&quot;CORONA AUSTRALIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Corona Australis is a constellation where RX J1856.5&#8722;3754, a nearby neutron star, is located."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc</data>
+    </node>
+    <node id="&quot;HYUNDAI MOTOR GROUP&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Hyundai Motor Group is a South Korean vehicle manufacturer and parent company of Genesis Motors."</data>
+      <data key="d2">4e638e0a2a773c833a9705711df5998a</data>
+    </node>
+    <node id="&quot;HYUNDAI GENESIS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Hyundai Genesis was a plan for a new luxury sedan announced in 2004, which led to the creation of the Genesis brand."</data>
+      <data key="d2">4e638e0a2a773c833a9705711df5998a</data>
+    </node>
+    <node id="&quot;SOUTH KOREA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"South Korea is the country where Hyundai Motor Group is based."</data>
+      <data key="d2">4e638e0a2a773c833a9705711df5998a</data>
+    </node>
+    <node id="&quot;GENESIS MOTORS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4e638e0a2a773c833a9705711df5998a</data>
+    </node>
+    <node id="&quot;TOYOTA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Toyota is a Japanese company that provided engines for the Daihatsu Charmant and had its Corolla model as a basis for the Charmant."
+</data>
+      <data key="d2">23969f84b9788f22412d2abd81354fbe,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;DAIHATSU CHARMANT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Daihatsu Charmant is a subcompact sedan built by Daihatsu, with model changes paralleling those of the Toyota Corolla."</data>
+      <data key="d2">23969f84b9788f22412d2abd81354fbe</data>
+    </node>
+    <node id="&quot;TOYOTA COROLLA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">23969f84b9788f22412d2abd81354fbe</data>
+    </node>
+    <node id="&quot;NISSAN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Nissan, formerly known as Datsun, is a Japanese automaker that introduced larger cars with added amenities, and established its luxury division, Infiniti."</data>
+      <data key="d2">e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;HONDA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Honda is a Japanese automaker affected by the 1981 voluntary export restraints, which opened a US assembly plant and established its luxury division, Acura."
+"Honda is a Japanese automaker that produces the Acura MDX, a luxury crossover vehicle."
+"Honda is the parent company of Acura, which manufactures the Acura RL."</data>
+      <data key="d2">10964a732b6fdcad018c8f176bd6a882,88929a48e25d32771914103a677fe5c2,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;ACURA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Acura is the luxury division of Honda, established to distinguish itself from its mass-market brand."</data>
+      <data key="d2">e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;LEXUS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Lexus is the luxury division of Toyota, established to distinguish itself from its mass-market brand."</data>
+      <data key="d2">e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;INFINITI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Infiniti is the luxury division of Nissan, established to distinguish itself from its mass-market brand."</data>
+      <data key="d2">e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;MCCRORY STORES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"McCrory Stores is a chain of five and dime stores founded by John Graham McCrorey."</data>
+      <data key="d2">0cb60e8e7b36db422df732fc429fb938</data>
+    </node>
+    <node id="&quot;SCOTTSDALE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Scottsdale, Pennsylvania is the location where the first McCrory store opened in 1882."</data>
+      <data key="d2">0cb60e8e7b36db422df732fc429fb938</data>
+    </node>
+    <node id="&quot;JOHN GRAHAM MCCROREY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0cb60e8e7b36db422df732fc429fb938</data>
+    </node>
+    <node id="&quot;AUSTRALIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Australia is a country where the first generation of Honda MDX was imported."</data>
+      <data key="d2">88929a48e25d32771914103a677fe5c2</data>
+    </node>
+    <node id="&quot;LEXUS RX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lexus RX is a luxury crossover vehicle that offers only two rows of seats and ranks as the best-selling luxury crossover."</data>
+      <data key="d2">88929a48e25d32771914103a677fe5c2</data>
+    </node>
+    <node id="&quot;ACURA MDX&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">88929a48e25d32771914103a677fe5c2</data>
+    </node>
+    <node id="&quot;VOLKSWAGEN DERBY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Volkswagen Derby is a sedan version of the Volkswagen Polo Mk2."</data>
+      <data key="d2">487193559108c8818c9a812fa248b39d</data>
+    </node>
+    <node id="&quot;VOLKSWAGEN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Volkswagen is an automobile manufacturer that produced the Volkswagen Polo Mk2 and Volkswagen Derby."</data>
+      <data key="d2">487193559108c8818c9a812fa248b39d</data>
+    </node>
+    <node id="&quot;VOLKSWAGEN POLO MK2&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">487193559108c8818c9a812fa248b39d</data>
+    </node>
+    <node id="&quot;ACURA LEGEND&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Acura Legend is a predecessor to the Acura RL and was also manufactured by Acura division of Honda."</data>
+      <data key="d2">10964a732b6fdcad018c8f176bd6a882</data>
+    </node>
+    <node id="&quot;ACURA RLX&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Acura RLX is the successor to the Acura RL, manufactured by Acura division of Honda."</data>
+      <data key="d2">10964a732b6fdcad018c8f176bd6a882</data>
+    </node>
+    <node id="&quot;HONDA LEGEND&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Honda Legend is a Japanese domestic market car that was adapted into the Acura Legend, RL and RLX lines."</data>
+      <data key="d2">10964a732b6fdcad018c8f176bd6a882</data>
+    </node>
+    <node id="&quot;ACURA RL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">10964a732b6fdcad018c8f176bd6a882</data>
+    </node>
+    <node id="&quot;SIR ERNEST RUTHERFORD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sir Ernest Rutherford is a person after whom The Rutherford Hotel is named."</data>
+      <data key="d2">e29bc6f09d18cee9d72cf874c374c65e</data>
+    </node>
+    <node id="&quot;NELSON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Nelson is a city in New Zealand where The Rutherford Hotel is located."</data>
+      <data key="d2">e29bc6f09d18cee9d72cf874c374c65e</data>
+    </node>
+    <node id="&quot;HERITAGE HOTELS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Heritage Hotels is a chain company that owns hotels based in many locations around New Zealand, including The Rutherford Hotel."</data>
+      <data key="d2">e29bc6f09d18cee9d72cf874c374c65e</data>
+    </node>
+    <node id="&quot;THE RUTHERFORD HOTEL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e29bc6f09d18cee9d72cf874c374c65e</data>
+    </node>
+    <node id="&quot;HYUNDAI MOTOR COMPANY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Hyundai Motor Company is the manufacturer of the Hyundai Trago line of heavy-duty commercial vehicles."</data>
+      <data key="d2">77b59e249adc2933c71e0ea0a154d469</data>
+    </node>
+    <node id="&quot;USA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"USA is a country where the Hyundai Trago was sold under the name Bering HD or Bering HDMX."</data>
+      <data key="d2">77b59e249adc2933c71e0ea0a154d469</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Canada is a country where the Hyundai Trago was sold under the name Bering HD or Bering HDMX."</data>
+      <data key="d2">77b59e249adc2933c71e0ea0a154d469</data>
+    </node>
+    <node id="&quot;KOREA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Korea is a country where the Hyundai Trago was known as Hyundai New Power Truck."</data>
+      <data key="d2">77b59e249adc2933c71e0ea0a154d469</data>
+    </node>
+    <node id="&quot;HYUNDAI TRAGO&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">77b59e249adc2933c71e0ea0a154d469</data>
+    </node>
+    <node id="&quot;BERING HD/BERING HDMX&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">77b59e249adc2933c71e0ea0a154d469</data>
+    </node>
+    <node id="&quot;HYUNDAI NEW POWER TRUCK&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">77b59e249adc2933c71e0ea0a154d469</data>
+    </node>
+    <edge source="&quot;PASSO&quot;" target="&quot;DAIHATSU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Daihatsu produces the Passo subcompact car."</data>
+      <data key="d5">0decd243d5dd20d58e07404b90c9d47b</data>
+    </edge>
+    <edge source="&quot;PASSO&quot;" target="&quot;TOYOTA COROLLA STORE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Toyota Corolla Store sells the Passo."</data>
+      <data key="d5">0decd243d5dd20d58e07404b90c9d47b</data>
+    </edge>
+    <edge source="&quot;JAPAN&quot;" target="&quot;DAIHATSU&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Daihatsu is a Japanese automaker."
+"Daihatsu is a Japanese company, indicating its geographical origin."</data>
+      <data key="d5">0decd243d5dd20d58e07404b90c9d47b,23969f84b9788f22412d2abd81354fbe</data>
+    </edge>
+    <edge source="&quot;JAPAN&quot;" target="&quot;HONDA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Honda imports the first generation of MDX to Japan."</data>
+      <data key="d5">88929a48e25d32771914103a677fe5c2</data>
+    </edge>
+    <edge source="&quot;DAIHATSU&quot;" target="&quot;AUTOMECCANICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Automeccanica used the Daihatsu Charade as the basis for its Zebra model."</data>
+      <data key="d5">34b7d6fcfe41f63f13919a3bd18e00c1</data>
+    </edge>
+    <edge source="&quot;DAIHATSU&quot;" target="&quot;TOYOTA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Daihatsu used Toyota engines in its Charmant model and based it on the Toyota Corolla."</data>
+      <data key="d5">23969f84b9788f22412d2abd81354fbe</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">16.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."</data>
+      <data key="d5">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">16.0</data>
+      <data key="d4">"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."</data>
+      <data key="d5">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">16.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."</data>
+      <data key="d5">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">16.0</data>
+      <data key="d4">"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."</data>
+      <data key="d5">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">16.0</data>
+      <data key="d4">"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."</data>
+      <data key="d5">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">16.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."</data>
+      <data key="d5">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">16.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">16.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."</data>
+      <data key="d5">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">16.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+    </edge>
+    <edge source="&quot;LIGA LEUMIT&quot;" target="&quot;HAPOEL RISHON LEZION F.C.&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hapoel Rishon LeZion F.C. currently plays in Liga Leumit."</data>
+      <data key="d5">4cc8798fe0892727af7500b75b9e9022</data>
+    </edge>
+    <edge source="&quot;HABERFELD STADIUM&quot;" target="&quot;HAPOEL RISHON LEZION F.C.&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hapoel Rishon LeZion F.C. hosts its home matches at Haberfeld Stadium."</data>
+      <data key="d5">4cc8798fe0892727af7500b75b9e9022</data>
+    </edge>
+    <edge source="&quot;ISRAEL&quot;" target="&quot;HAPOEL RISHON LEZION F.C.&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hapoel Rishon LeZion F.C. is an Israeli football club."</data>
+      <data key="d5">4cc8798fe0892727af7500b75b9e9022</data>
+    </edge>
+    <edge source="&quot;JODY ALLEN&quot;" target="&quot;VULCAN PRODUCTIONS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jody Allen is a co-owner and executive producer of Vulcan Productions."</data>
+      <data key="d5">f6458a7958f3add369a016d1b0db994c</data>
+    </edge>
+    <edge source="&quot;VULCAN PRODUCTIONS&quot;" target="&quot;ALLEN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Allen is a co-owner and executive producer of Vulcan Productions."</data>
+      <data key="d5">f6458a7958f3add369a016d1b0db994c</data>
+    </edge>
+    <edge source="&quot;VULCAN PRODUCTIONS&quot;" target="&quot;SEATTLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Vulcan Productions is headquartered in Seattle."</data>
+      <data key="d5">f6458a7958f3add369a016d1b0db994c</data>
+    </edge>
+    <edge source="&quot;VULCAN PRODUCTIONS&quot;" target="&quot;VULCAN INC.&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Vulcan Productions is a part of Vulcan Inc.'s entertainment division."</data>
+      <data key="d5">f6458a7958f3add369a016d1b0db994c</data>
+    </edge>
+    <edge source="&quot;AUTOKINITOVIOMIHANIA ELLADOS&quot;" target="&quot;AUTOMECCANICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Automeccanica was founded by former executives of Autokinitoviomihania Ellados."</data>
+      <data key="d5">34b7d6fcfe41f63f13919a3bd18e00c1</data>
+    </edge>
+    <edge source="&quot;AUTOKINITOVIOMIHANIA ELLADOS&quot;" target="&quot;THIVA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Autokinitoviomihania Ellados had a factory in Thiva acquired by Automeccanica in 1988."</data>
+      <data key="d5">34b7d6fcfe41f63f13919a3bd18e00c1</data>
+    </edge>
+    <edge source="&quot;FIAT&quot;" target="&quot;AUTOMECCANICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Automeccanica assembled Fiat models and variants."</data>
+      <data key="d5">34b7d6fcfe41f63f13919a3bd18e00c1</data>
+    </edge>
+    <edge source="&quot;LADA&quot;" target="&quot;AUTOMECCANICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Automeccanica produced the Lada Niva under license."</data>
+      <data key="d5">34b7d6fcfe41f63f13919a3bd18e00c1</data>
+    </edge>
+    <edge source="&quot;CBS RECORDS&quot;" target="&quot;COLUMBIA BROADCASTING SYSTEM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"CBS Records is a potential new name for a subsidiary of the Columbia Broadcasting System."</data>
+      <data key="d5">bee601dd72aae2e226339a7ad630df52</data>
+    </edge>
+    <edge source="&quot;COLUMBIA BROADCASTING SYSTEM&quot;" target="&quot;COLUMBIA RECORDS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Columbia Records is a subsidiary of the Columbia Broadcasting System."</data>
+      <data key="d5">bee601dd72aae2e226339a7ad630df52</data>
+    </edge>
+    <edge source="&quot;BRITISH MANUFACTURER BRISTOL AEROPLANE CO.&quot;" target="&quot;BRISTOL 406&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The British manufacturer Bristol Aeroplane Co. produced the Bristol 406 luxury car between 1958 and 1961."</data>
+      <data key="d5">842ef85bbb0945340ce6617045412ebe</data>
+    </edge>
+    <edge source="&quot;BRITISH MANUFACTURER BRISTOL AEROPLANE CO.&quot;" target="&quot;BRISTOL CARS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bristol Aeroplane's car division later became Bristol Cars."</data>
+      <data key="d5">842ef85bbb0945340ce6617045412ebe</data>
+    </edge>
+    <edge source="&quot;HYUNDAI MOTOR GROUP&quot;" target="&quot;GENESIS MOTORS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Genesis Motors is a division of Hyundai Motor Group."</data>
+      <data key="d5">4e638e0a2a773c833a9705711df5998a</data>
+    </edge>
+    <edge source="&quot;HYUNDAI MOTOR GROUP&quot;" target="&quot;SOUTH KOREA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hyundai Motor Group is based in South Korea."</data>
+      <data key="d5">4e638e0a2a773c833a9705711df5998a</data>
+    </edge>
+    <edge source="&quot;HYUNDAI GENESIS&quot;" target="&quot;GENESIS MOTORS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The plan for Hyundai Genesis led to the creation of the Genesis Motors brand."</data>
+      <data key="d5">4e638e0a2a773c833a9705711df5998a</data>
+    </edge>
+    <edge source="&quot;TOYOTA&quot;" target="&quot;LEXUS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Toyota established Lexus as its luxury division."</data>
+      <data key="d5">e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;DAIHATSU CHARMANT&quot;" target="&quot;TOYOTA COROLLA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Daihatsu Charmant was originally a spin-off of the Toyota Corolla, with model changes paralleling those of the Corolla."</data>
+      <data key="d5">23969f84b9788f22412d2abd81354fbe</data>
+    </edge>
+    <edge source="&quot;NISSAN&quot;" target="&quot;INFINITI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nissan established Infiniti as its luxury division."</data>
+      <data key="d5">e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;HONDA&quot;" target="&quot;ACURA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Honda established Acura as its luxury division."</data>
+      <data key="d5">e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;HONDA&quot;" target="&quot;ACURA MDX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura MDX is produced by Honda under its Acura luxury nameplate."</data>
+      <data key="d5">88929a48e25d32771914103a677fe5c2</data>
+    </edge>
+    <edge source="&quot;HONDA&quot;" target="&quot;AUSTRALIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Honda imports the first generation of MDX to Australia."</data>
+      <data key="d5">88929a48e25d32771914103a677fe5c2</data>
+    </edge>
+    <edge source="&quot;HONDA&quot;" target="&quot;ACURA RL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura RL is manufactured by the Acura division of Honda."</data>
+      <data key="d5">10964a732b6fdcad018c8f176bd6a882</data>
+    </edge>
+    <edge source="&quot;MCCRORY STORES&quot;" target="&quot;JOHN GRAHAM MCCROREY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"John Graham McCrorey founded McCrory Stores."</data>
+      <data key="d5">0cb60e8e7b36db422df732fc429fb938</data>
+    </edge>
+    <edge source="&quot;MCCRORY STORES&quot;" target="&quot;SCOTTSDALE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The first McCrory store opened in Scottsdale, Pennsylvania."</data>
+      <data key="d5">0cb60e8e7b36db422df732fc429fb938</data>
+    </edge>
+    <edge source="&quot;LEXUS RX&quot;" target="&quot;ACURA MDX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura MDX ranks as the second-best selling luxury crossover after the Lexus RX."</data>
+      <data key="d5">88929a48e25d32771914103a677fe5c2</data>
+    </edge>
+    <edge source="&quot;VOLKSWAGEN DERBY&quot;" target="&quot;VOLKSWAGEN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Volkswagen Derby is a product of Volkswagen."</data>
+      <data key="d5">487193559108c8818c9a812fa248b39d</data>
+    </edge>
+    <edge source="&quot;VOLKSWAGEN&quot;" target="&quot;VOLKSWAGEN POLO MK2&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Volkswagen Polo Mk2 is a product of Volkswagen."</data>
+      <data key="d5">487193559108c8818c9a812fa248b39d</data>
+    </edge>
+    <edge source="&quot;ACURA LEGEND&quot;" target="&quot;ACURA RL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura RL succeeded the Acura Legend."</data>
+      <data key="d5">10964a732b6fdcad018c8f176bd6a882</data>
+    </edge>
+    <edge source="&quot;ACURA RLX&quot;" target="&quot;ACURA RL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura RLX replaced the Acura RL in 2013."</data>
+      <data key="d5">10964a732b6fdcad018c8f176bd6a882</data>
+    </edge>
+    <edge source="&quot;NELSON&quot;" target="&quot;THE RUTHERFORD HOTEL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Rutherford Hotel is located in Nelson, New Zealand."</data>
+      <data key="d5">e29bc6f09d18cee9d72cf874c374c65e</data>
+    </edge>
+    <edge source="&quot;HERITAGE HOTELS&quot;" target="&quot;THE RUTHERFORD HOTEL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Rutherford Hotel is part of the chain company Heritage Hotels."</data>
+      <data key="d5">e29bc6f09d18cee9d72cf874c374c65e</data>
+    </edge>
+    <edge source="&quot;HYUNDAI MOTOR COMPANY&quot;" target="&quot;HYUNDAI TRAGO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hyundai Motor Company manufactures the Hyundai Trago line of heavy-duty commercial vehicles."</data>
+      <data key="d5">77b59e249adc2933c71e0ea0a154d469</data>
+    </edge>
+    <edge source="&quot;USA&quot;" target="&quot;BERING HD/BERING HDMX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Hyundai Trago was sold under the name Bering HD or Bering HDMX in USA."</data>
+      <data key="d5">77b59e249adc2933c71e0ea0a154d469</data>
+    </edge>
+    <edge source="&quot;CANADA&quot;" target="&quot;BERING HD/BERING HDMX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Hyundai Trago was sold under the name Bering HD or Bering HDMX in Canada."</data>
+      <data key="d5">77b59e249adc2933c71e0ea0a154d469</data>
+    </edge>
+    <edge source="&quot;KOREA&quot;" target="&quot;HYUNDAI NEW POWER TRUCK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Hyundai Trago was known as Hyundai New Power Truck in Korea."</data>
+      <data key="d5">77b59e249adc2933c71e0ea0a154d469</data>
+    </edge>
+  </graph>
+</graphml>

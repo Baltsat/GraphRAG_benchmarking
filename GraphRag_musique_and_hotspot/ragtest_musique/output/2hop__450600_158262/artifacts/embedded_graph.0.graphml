@@ -1,0 +1,827 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;CONGRESS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Congress is the legislative body of the United Mexican States, responsible for choosing the location of the federal government."</data>
+      <data key="d2">b539637fbb31f14166b6ed9f5af6484b</data>
+    </node>
+    <node id="&quot;MEXICO CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Mexico City is a candidate to become the capital of the United Mexican States.</data>
+      <data key="d2">b18c22b61478debe96c06ca7111d71b8,b539637fbb31f14166b6ed9f5af6484b</data>
+    </node>
+    <node id="&quot;QUER&#201;TARO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Quer&#233;taro is a candidate to become the capital of the United Mexican States."</data>
+      <data key="d2">b539637fbb31f14166b6ed9f5af6484b</data>
+    </node>
+    <node id="&quot;UNITED MEXICAN STATES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b539637fbb31f14166b6ed9f5af6484b</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">2ccac735bff65d09f61c843f22fc7888,49ef793d1623c685695ed50b3ffa321a,5d4d268b62d5544b133ac1165e9069b5,6f87a5996e15368477eb7c326748ec70,7605d667155145304565edb20f266d26,80b4a5aa89772bd7759e37e0fcda46fb,848ffc310f93a9a0d6f6893ea45723e2,abbd7aa03c9a17e97f1da63d26f78f53,b18c22b61478debe96c06ca7111d71b8,b539637fbb31f14166b6ed9f5af6484b,b7a350294f2c178dbedd9a5b5e888b22,b7ced8dc915f1e6a32837bb0cdbd99af,c2e6813467bee4c69c8b661e4b055dd9,c98723b4fe1090b363e8b62ece817bd8,c99d9014c28cbc62a81b9c35c59ab135,d0db9f29557c3f60db7669713d5ac832,d78853ab9cf6df14624a09531249c351,df00719ad0339e37728cae141cbdb664,f815792328faa949024a9297065c910d,f8ab285dd8b68bbbb29e7415c6a060c7</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">2ccac735bff65d09f61c843f22fc7888,49ef793d1623c685695ed50b3ffa321a,5d4d268b62d5544b133ac1165e9069b5,6f87a5996e15368477eb7c326748ec70,7605d667155145304565edb20f266d26,80b4a5aa89772bd7759e37e0fcda46fb,848ffc310f93a9a0d6f6893ea45723e2,abbd7aa03c9a17e97f1da63d26f78f53,b18c22b61478debe96c06ca7111d71b8,b539637fbb31f14166b6ed9f5af6484b,b7a350294f2c178dbedd9a5b5e888b22,b7ced8dc915f1e6a32837bb0cdbd99af,c2e6813467bee4c69c8b661e4b055dd9,c98723b4fe1090b363e8b62ece817bd8,c99d9014c28cbc62a81b9c35c59ab135,d0db9f29557c3f60db7669713d5ac832,d78853ab9cf6df14624a09531249c351,df00719ad0339e37728cae141cbdb664,f815792328faa949024a9297065c910d,f8ab285dd8b68bbbb29e7415c6a060c7</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">2ccac735bff65d09f61c843f22fc7888,49ef793d1623c685695ed50b3ffa321a,5d4d268b62d5544b133ac1165e9069b5,6f87a5996e15368477eb7c326748ec70,7605d667155145304565edb20f266d26,80b4a5aa89772bd7759e37e0fcda46fb,848ffc310f93a9a0d6f6893ea45723e2,abbd7aa03c9a17e97f1da63d26f78f53,b18c22b61478debe96c06ca7111d71b8,b539637fbb31f14166b6ed9f5af6484b,b7a350294f2c178dbedd9a5b5e888b22,b7ced8dc915f1e6a32837bb0cdbd99af,c2e6813467bee4c69c8b661e4b055dd9,c98723b4fe1090b363e8b62ece817bd8,c99d9014c28cbc62a81b9c35c59ab135,d0db9f29557c3f60db7669713d5ac832,d78853ab9cf6df14624a09531249c351,df00719ad0339e37728cae141cbdb664,f815792328faa949024a9297065c910d,f8ab285dd8b68bbbb29e7415c6a060c7</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">2ccac735bff65d09f61c843f22fc7888,49ef793d1623c685695ed50b3ffa321a,5d4d268b62d5544b133ac1165e9069b5,6f87a5996e15368477eb7c326748ec70,7605d667155145304565edb20f266d26,80b4a5aa89772bd7759e37e0fcda46fb,848ffc310f93a9a0d6f6893ea45723e2,abbd7aa03c9a17e97f1da63d26f78f53,b18c22b61478debe96c06ca7111d71b8,b539637fbb31f14166b6ed9f5af6484b,b7a350294f2c178dbedd9a5b5e888b22,b7ced8dc915f1e6a32837bb0cdbd99af,c2e6813467bee4c69c8b661e4b055dd9,c98723b4fe1090b363e8b62ece817bd8,c99d9014c28cbc62a81b9c35c59ab135,d0db9f29557c3f60db7669713d5ac832,d78853ab9cf6df14624a09531249c351,df00719ad0339e37728cae141cbdb664,f815792328faa949024a9297065c910d,f8ab285dd8b68bbbb29e7415c6a060c7</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+The United States is a country that allegedly instigated the Texas insurrection with the goal of annexation. Additionally, it is a country where Tucson, Pima County, and Arizona are located. The United States also played a significant role in World War I, joining the war effort and sending troops to the Western Front.
+
+Note: I removed the duplicate descriptions and combined the unique information from each description to create a single, coherent summary.</data>
+      <data key="d2">2ccac735bff65d09f61c843f22fc7888,49ef793d1623c685695ed50b3ffa321a,5d4d268b62d5544b133ac1165e9069b5,6f87a5996e15368477eb7c326748ec70,7605d667155145304565edb20f266d26,80b4a5aa89772bd7759e37e0fcda46fb,848ffc310f93a9a0d6f6893ea45723e2,abbd7aa03c9a17e97f1da63d26f78f53,b18c22b61478debe96c06ca7111d71b8,b539637fbb31f14166b6ed9f5af6484b,b7a350294f2c178dbedd9a5b5e888b22,b7ced8dc915f1e6a32837bb0cdbd99af,c2e6813467bee4c69c8b661e4b055dd9,c98723b4fe1090b363e8b62ece817bd8,c99d9014c28cbc62a81b9c35c59ab135,d0db9f29557c3f60db7669713d5ac832,d78853ab9cf6df14624a09531249c351,df00719ad0339e37728cae141cbdb664,f815792328faa949024a9297065c910d,f8ab285dd8b68bbbb29e7415c6a060c7</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">2ccac735bff65d09f61c843f22fc7888,49ef793d1623c685695ed50b3ffa321a,5d4d268b62d5544b133ac1165e9069b5,6f87a5996e15368477eb7c326748ec70,7605d667155145304565edb20f266d26,80b4a5aa89772bd7759e37e0fcda46fb,848ffc310f93a9a0d6f6893ea45723e2,abbd7aa03c9a17e97f1da63d26f78f53,b18c22b61478debe96c06ca7111d71b8,b539637fbb31f14166b6ed9f5af6484b,b7a350294f2c178dbedd9a5b5e888b22,b7ced8dc915f1e6a32837bb0cdbd99af,c2e6813467bee4c69c8b661e4b055dd9,c98723b4fe1090b363e8b62ece817bd8,c99d9014c28cbc62a81b9c35c59ab135,d0db9f29557c3f60db7669713d5ac832,d78853ab9cf6df14624a09531249c351,df00719ad0339e37728cae141cbdb664,f815792328faa949024a9297065c910d,f8ab285dd8b68bbbb29e7415c6a060c7</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">2ccac735bff65d09f61c843f22fc7888,49ef793d1623c685695ed50b3ffa321a,5d4d268b62d5544b133ac1165e9069b5,6f87a5996e15368477eb7c326748ec70,7605d667155145304565edb20f266d26,80b4a5aa89772bd7759e37e0fcda46fb,848ffc310f93a9a0d6f6893ea45723e2,abbd7aa03c9a17e97f1da63d26f78f53,b18c22b61478debe96c06ca7111d71b8,b539637fbb31f14166b6ed9f5af6484b,b7a350294f2c178dbedd9a5b5e888b22,b7ced8dc915f1e6a32837bb0cdbd99af,c2e6813467bee4c69c8b661e4b055dd9,c98723b4fe1090b363e8b62ece817bd8,c99d9014c28cbc62a81b9c35c59ab135,d0db9f29557c3f60db7669713d5ac832,d78853ab9cf6df14624a09531249c351,df00719ad0339e37728cae141cbdb664,f815792328faa949024a9297065c910d,f8ab285dd8b68bbbb29e7415c6a060c7</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Mexico is a country that shares an international border with the United States, specifically near Tucson. It has been involved in several significant historical events, including the Mexican-American War, where its capital city, Mexico City, was captured by the U.S. Army. Additionally, John Ancrum Winslow participated in this war. In the past, the country's army intervened to ensure safety and fought against rebels and federal troops. Furthermore, Mexico's centralist government was opposed by colonists and Tejanos during the Texas Revolution. Notably, Charles Pomeroy Stone surveyed for the Mexican Government in this geographic location.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">2ccac735bff65d09f61c843f22fc7888,49ef793d1623c685695ed50b3ffa321a,5d4d268b62d5544b133ac1165e9069b5,6f87a5996e15368477eb7c326748ec70,7605d667155145304565edb20f266d26,80b4a5aa89772bd7759e37e0fcda46fb,848ffc310f93a9a0d6f6893ea45723e2,abbd7aa03c9a17e97f1da63d26f78f53,b18c22b61478debe96c06ca7111d71b8,b539637fbb31f14166b6ed9f5af6484b,b7a350294f2c178dbedd9a5b5e888b22,b7ced8dc915f1e6a32837bb0cdbd99af,c2e6813467bee4c69c8b661e4b055dd9,c98723b4fe1090b363e8b62ece817bd8,c99d9014c28cbc62a81b9c35c59ab135,d0db9f29557c3f60db7669713d5ac832,d78853ab9cf6df14624a09531249c351,df00719ad0339e37728cae141cbdb664,f815792328faa949024a9297065c910d,f8ab285dd8b68bbbb29e7415c6a060c7</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">2ccac735bff65d09f61c843f22fc7888,49ef793d1623c685695ed50b3ffa321a,5d4d268b62d5544b133ac1165e9069b5,6f87a5996e15368477eb7c326748ec70,7605d667155145304565edb20f266d26,80b4a5aa89772bd7759e37e0fcda46fb,848ffc310f93a9a0d6f6893ea45723e2,abbd7aa03c9a17e97f1da63d26f78f53,b18c22b61478debe96c06ca7111d71b8,b539637fbb31f14166b6ed9f5af6484b,b7a350294f2c178dbedd9a5b5e888b22,b7ced8dc915f1e6a32837bb0cdbd99af,c2e6813467bee4c69c8b661e4b055dd9,c98723b4fe1090b363e8b62ece817bd8,c99d9014c28cbc62a81b9c35c59ab135,d0db9f29557c3f60db7669713d5ac832,d78853ab9cf6df14624a09531249c351,df00719ad0339e37728cae141cbdb664,f815792328faa949024a9297065c910d,f8ab285dd8b68bbbb29e7415c6a060c7</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2ccac735bff65d09f61c843f22fc7888,49ef793d1623c685695ed50b3ffa321a,5d4d268b62d5544b133ac1165e9069b5,6f87a5996e15368477eb7c326748ec70,7605d667155145304565edb20f266d26,80b4a5aa89772bd7759e37e0fcda46fb,848ffc310f93a9a0d6f6893ea45723e2,abbd7aa03c9a17e97f1da63d26f78f53,b18c22b61478debe96c06ca7111d71b8,b539637fbb31f14166b6ed9f5af6484b,b7a350294f2c178dbedd9a5b5e888b22,b7ced8dc915f1e6a32837bb0cdbd99af,c2e6813467bee4c69c8b661e4b055dd9,c98723b4fe1090b363e8b62ece817bd8,c99d9014c28cbc62a81b9c35c59ab135,d0db9f29557c3f60db7669713d5ac832,d78853ab9cf6df14624a09531249c351,df00719ad0339e37728cae141cbdb664,f815792328faa949024a9297065c910d,f8ab285dd8b68bbbb29e7415c6a060c7</data>
+    </node>
+    <node id="&quot;CONFEDERACY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Confederacy was one of the main parties involved in the American Civil War, seeking to win through foreign intervention or wearing down the North's willingness to fight."</data>
+      <data key="d2">7605d667155145304565edb20f266d26</data>
+    </node>
+    <node id="&quot;U.S.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The U.S. was one of the main parties involved in the American Civil War, seeking a quick victory focused on capturing the Confederate capital at Richmond, Virginia."</data>
+      <data key="d2">7605d667155145304565edb20f266d26</data>
+    </node>
+    <node id="&quot;ROBERT E. LEE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Robert E. Lee was a key figure in the American Civil War, leading the Confederates in defending their capital until the very end."</data>
+      <data key="d2">7605d667155145304565edb20f266d26</data>
+    </node>
+    <node id="&quot;RICHMOND, VIRGINIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Richmond, Virginia was the Confederate capital and a key location in the American Civil War."</data>
+      <data key="d2">7605d667155145304565edb20f266d26</data>
+    </node>
+    <node id="&quot;AMERICAN CIVIL WAR&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+The American Civil War was a civil war fought in the United States from 1861 to 1865, during which several notable individuals played important roles. James Edward Jouett served as an officer in the US Navy, while Samuel Preston Moore held the position of Confederate Surgeon General. John Calvin Fiser and Henry Brainerd McClellan fought as officers in the Confederate Army, with McClellan also serving as adjutant general. William Plummer Benton rose to the rank of brigadier general as a soldier, and Francis 'Frank' Crawford Armstrong uniquely fought on both sides, becoming the only Confederate general to do so. Additionally, John Ancrum Winslow participated as an officer in the United States Navy, and Charles Pomeroy Stone fought after returning to the U.S. Army. This significant event in American history led to the rise and fall of the Confederate Government, involving the Confederate States Army and other forces.</data>
+      <data key="d2">7605d667155145304565edb20f266d26,80b4a5aa89772bd7759e37e0fcda46fb,848ffc310f93a9a0d6f6893ea45723e2,abbd7aa03c9a17e97f1da63d26f78f53,b7ced8dc915f1e6a32837bb0cdbd99af,c2e6813467bee4c69c8b661e4b055dd9,c98723b4fe1090b363e8b62ece817bd8,c99d9014c28cbc62a81b9c35c59ab135,d0db9f29557c3f60db7669713d5ac832,d78853ab9cf6df14624a09531249c351,df00719ad0339e37728cae141cbdb664,f815792328faa949024a9297065c910d,f8ab285dd8b68bbbb29e7415c6a060c7</data>
+    </node>
+    <node id="&quot;GAO GANG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gao Gang was a confederate of Rao Shushi and also a senior leader of the Communist Party of China (CPC)."</data>
+      <data key="d2">5d4d268b62d5544b133ac1165e9069b5</data>
+    </node>
+    <node id="&quot;COMMUNIST PARTY OF CHINA (CPC)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Communist Party of China (CPC) is a political party in which Rao Shushi and Gao Gang held senior leadership positions."</data>
+      <data key="d2">5d4d268b62d5544b133ac1165e9069b5</data>
+    </node>
+    <node id="&quot;RAO SHUSHI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5d4d268b62d5544b133ac1165e9069b5</data>
+    </node>
+    <node id="&quot;MATTHEW HARRIS JOUETT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Matthew Harris Jouett was a notable painter and the father of James Edward Jouett."</data>
+      <data key="d2">f815792328faa949024a9297065c910d</data>
+    </node>
+    <node id="&quot;JACK JOUETT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jack Jouett was a Revolutionary War hero and the grandfather of James Edward Jouett."</data>
+      <data key="d2">f815792328faa949024a9297065c910d</data>
+    </node>
+    <node id="&quot;UNITED STATES NAVY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States Navy is a naval force that has played a significant role in various conflicts throughout American history. It is also a naval warfare service branch of the US Armed Forces. Notably, John Ancrum Winslow served in the Navy during the Mexican-American War and the American Civil War. Additionally, James Edward Jouett was an officer in the Navy, further highlighting its importance as a military institution.</data>
+      <data key="d2">abbd7aa03c9a17e97f1da63d26f78f53,f815792328faa949024a9297065c910d</data>
+    </node>
+    <node id="&quot;MEXICAN&#8211;AMERICAN WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Mexican-American War was a conflict between the United States and Mexico, during which several notable individuals played important roles. James Edward Jouett fought as an officer in the US Navy, while Samuel Preston Moore served as a military physician. William Plummer Benton participated as a soldier, and John Ancrum Winslow took part as an officer in the United States Navy. Additionally, Charles Pomeroy Stone fought with distinction and earned two brevet promotions during the war.</data>
+      <data key="d2">abbd7aa03c9a17e97f1da63d26f78f53,b18c22b61478debe96c06ca7111d71b8,b7ced8dc915f1e6a32837bb0cdbd99af,c99d9014c28cbc62a81b9c35c59ab135,d78853ab9cf6df14624a09531249c351,f815792328faa949024a9297065c910d</data>
+    </node>
+    <node id="&quot;JAMES EDWARD JOUETT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f815792328faa949024a9297065c910d</data>
+    </node>
+    <node id="&quot;UNITED STATES ARMY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States Army is a military organization where several notable individuals have served in various capacities. Jefferson Davis, who would later become a prominent figure in American history, served as a lieutenant. Additionally, Samuel Preston Moore was part of the medical corps within the army. Charles Pomeroy Stone held an officer's position, while Francis 'Frank' Crawford Armstrong served as a cavalry officer. Throughout its history, the United States Army has been comprised of individuals from diverse backgrounds and specialties, all contributing to its rich heritage.</data>
+      <data key="d2">2ccac735bff65d09f61c843f22fc7888,b7ced8dc915f1e6a32837bb0cdbd99af,c99d9014c28cbc62a81b9c35c59ab135,d0db9f29557c3f60db7669713d5ac832</data>
+    </node>
+    <node id="&quot;CONFEDERATE STATES ARMY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Confederate States Army is an organization that existed during the American Civil War, serving as the army of the Confederate States of America. Notably, Francis 'Frank' Crawford Armstrong served as a brigadier general within this army during the same period.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">c98723b4fe1090b363e8b62ece817bd8,d0db9f29557c3f60db7669713d5ac832,df00719ad0339e37728cae141cbdb664</data>
+    </node>
+    <node id="&quot;FRANCIS 'FRANK' CRAWFORD ARMSTRONG&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d0db9f29557c3f60db7669713d5ac832</data>
+    </node>
+    <node id="&quot;SAMUEL PRESTON MOORE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b7ced8dc915f1e6a32837bb0cdbd99af</data>
+    </node>
+    <node id="&quot;ANTONIO L&#211;PEZ DE SANTA ANNA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Antonio L&#243;pez de Santa Anna was the President of Mexico during the Texas Revolution."</data>
+      <data key="d2">49ef793d1623c685695ed50b3ffa321a</data>
+    </node>
+    <node id="&quot;REPUBLIC OF TEXAS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Republic of Texas was established after the Texas Revolution, eventually being annexed by the United States."</data>
+      <data key="d2">49ef793d1623c685695ed50b3ffa321a</data>
+    </node>
+    <node id="&quot;TEXAS REVOLUTION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">49ef793d1623c685695ed50b3ffa321a</data>
+    </node>
+    <node id="&quot;BERNARD L. KOWALSKI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bernard L. Kowalski is the director of the film Macho Callahan."</data>
+      <data key="d2">6f87a5996e15368477eb7c326748ec70</data>
+    </node>
+    <node id="&quot;DAVID JANSSEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"David Janssen is an actor starring in the film Macho Callahan."</data>
+      <data key="d2">6f87a5996e15368477eb7c326748ec70</data>
+    </node>
+    <node id="&quot;JEAN SEBERG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jean Seberg is an actress starring in the film Macho Callahan."</data>
+      <data key="d2">6f87a5996e15368477eb7c326748ec70</data>
+    </node>
+    <node id="&quot;LEE J. COBB&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lee J. Cobb is an actor starring in the film Macho Callahan."</data>
+      <data key="d2">6f87a5996e15368477eb7c326748ec70</data>
+    </node>
+    <node id="&quot;JAMES BOOTH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"James Booth is an actor starring in the film Macho Callahan."</data>
+      <data key="d2">6f87a5996e15368477eb7c326748ec70</data>
+    </node>
+    <node id="&quot;ANDERSONVILLE PRISON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Andersonville Prison is a location where the Confederate soldier is imprisoned during the American Civil War."</data>
+      <data key="d2">6f87a5996e15368477eb7c326748ec70</data>
+    </node>
+    <node id="&quot;MACHO CALLAHAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6f87a5996e15368477eb7c326748ec70</data>
+    </node>
+    <node id="&quot;WINFIELD SCOTT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Winfield Scott was the leader of the U.S. Army that scored a major success in the Battle for Mexico City, ending the war."</data>
+      <data key="d2">b18c22b61478debe96c06ca7111d71b8</data>
+    </node>
+    <node id="&quot;U.S. ARMY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+The U.S. Army, led by Winfield Scott, played a significant role in the Battle for Mexico City, which culminated in the capture of the city.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">b18c22b61478debe96c06ca7111d71b8,b7a350294f2c178dbedd9a5b5e888b22</data>
+    </node>
+    <node id="&quot;SAINT PATRICK'S BATTALION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Saint Patrick's Battalion was a military unit composed of immigrants from various countries that fought for the Mexican cause during the Battle of Churubusco."</data>
+      <data key="d2">b18c22b61478debe96c06ca7111d71b8</data>
+    </node>
+    <node id="&quot;VERACRUZ&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Veracruz is a location in Mexico that was captured by the U.S. Army during the Mexican&#8211;American War."</data>
+      <data key="d2">b18c22b61478debe96c06ca7111d71b8</data>
+    </node>
+    <node id="&quot;CHAPULTEPEC CASTLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Chapultepec Castle is a location in Mexico City where the final battle of the Battle for Mexico City took place."</data>
+      <data key="d2">b18c22b61478debe96c06ca7111d71b8</data>
+    </node>
+    <node id="&quot;BATTLE FOR MEXICO CITY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b18c22b61478debe96c06ca7111d71b8</data>
+    </node>
+    <node id="&quot;CONFEDERATE ARMY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Confederate Army is a military organization that John Calvin Fiser served in during the American Civil War."</data>
+      <data key="d2">80b4a5aa89772bd7759e37e0fcda46fb</data>
+    </node>
+    <node id="&quot;BATTLE OF FORT SANDERS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Battle of Fort Sanders was a battle in 1863 where John Calvin Fiser was seriously wounded and lost an arm."</data>
+      <data key="d2">80b4a5aa89772bd7759e37e0fcda46fb</data>
+    </node>
+    <node id="&quot;JOHN CALVIN FISER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">80b4a5aa89772bd7759e37e0fcda46fb</data>
+    </node>
+    <node id="&quot;SAYRE FEMALE INSTITUTE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Sayre Female Institute is an educational institution in Lexington, Kentucky where Henry Brainerd McClellan taught for 35 years."</data>
+      <data key="d2">c98723b4fe1090b363e8b62ece817bd8</data>
+    </node>
+    <node id="&quot;LEXINGTON, KENTUCKY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lexington, Kentucky is a location where Sayre Female Institute is situated."</data>
+      <data key="d2">c98723b4fe1090b363e8b62ece817bd8</data>
+    </node>
+    <node id="&quot;HENRY BRAINERD MCCLELLAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c98723b4fe1090b363e8b62ece817bd8</data>
+    </node>
+    <node id="&quot;JOSEPH EMORY DAVIS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Joseph Emory Davis is Jefferson Davis's eldest brother, who secured his appointment to the United States Military Academy."</data>
+      <data key="d2">2ccac735bff65d09f61c843f22fc7888</data>
+    </node>
+    <node id="&quot;UNITED STATES MILITARY ACADEMY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The United States Military Academy is an institution where Jefferson Davis graduated from."</data>
+      <data key="d2">2ccac735bff65d09f61c843f22fc7888</data>
+    </node>
+    <node id="&quot;FAIRVIEW, KENTUCKY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Fairview, Kentucky is the birthplace of Jefferson Davis."</data>
+      <data key="d2">2ccac735bff65d09f61c843f22fc7888</data>
+    </node>
+    <node id="&quot;WILKINSON COUNTY, MISSISSIPPI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Wilkinson County, Mississippi is a location where Jefferson Davis grew up."</data>
+      <data key="d2">2ccac735bff65d09f61c843f22fc7888</data>
+    </node>
+    <node id="&quot;LOUISIANA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Louisiana is a state where Jefferson Davis lived."</data>
+      <data key="d2">2ccac735bff65d09f61c843f22fc7888</data>
+    </node>
+    <node id="&quot;MISSISSIPPI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mississippi is a state where Jefferson Davis operated a large cotton plantation and owned slaves."</data>
+      <data key="d2">2ccac735bff65d09f61c843f22fc7888</data>
+    </node>
+    <node id="&quot;JEFFERSON DAVIS&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Jefferson Davis was the Confederate president, a graduate of the U.S. Military Academy, and held various military and political positions.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">2ccac735bff65d09f61c843f22fc7888,848ffc310f93a9a0d6f6893ea45723e2,df00719ad0339e37728cae141cbdb664</data>
+    </node>
+    <node id="&quot;WILLIAM PLUMMER BENTON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d78853ab9cf6df14624a09531249c351</data>
+    </node>
+    <node id="&quot;CHARLES POMEROY STONE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c99d9014c28cbc62a81b9c35c59ab135</data>
+    </node>
+    <node id="&quot;CONFEDERATE STATES OF AMERICA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Confederate States of America refers to the region or territory where the American Civil War took place and was also a geographic entity that existed during this period. Additionally, it was a government that existed during the American Civil War, with Jefferson Davis as its President.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">848ffc310f93a9a0d6f6893ea45723e2,df00719ad0339e37728cae141cbdb664,f8ab285dd8b68bbbb29e7415c6a060c7</data>
+    </node>
+    <node id="&quot;CONFEDERATE STATES STATE DEPARTMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The department crumbled with the Confederate States of America in May 1865, marking the end of the war."</data>
+      <data key="d2">f8ab285dd8b68bbbb29e7415c6a060c7</data>
+    </node>
+    <node id="&quot;CONFEDERATE STATES SECRETARY OF STATE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f8ab285dd8b68bbbb29e7415c6a060c7</data>
+    </node>
+    <node id="&quot;PANCHO VILLA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Pancho Villa was a major rebel leader who attacked Columbus, New Mexico, prompting a U.S. intervention in Mexico."</data>
+      <data key="d2">b7a350294f2c178dbedd9a5b5e888b22</data>
+    </node>
+    <node id="&quot;COLUMBUS, NEW MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Columbus, New Mexico is a location that was attacked by Pancho Villa, leading to U.S. intervention in Mexico."</data>
+      <data key="d2">b7a350294f2c178dbedd9a5b5e888b22</data>
+    </node>
+    <node id="&quot;BRITAIN, FRANCE, RUSSIA, ITALY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"These countries are allies of the United States in World War I."</data>
+      <data key="d2">b7a350294f2c178dbedd9a5b5e888b22</data>
+    </node>
+    <node id="&quot;WORLD WAR I&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b7a350294f2c178dbedd9a5b5e888b22</data>
+    </node>
+    <node id="&quot;PROVISIONAL CONFEDERATE CONGRESS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">df00719ad0339e37728cae141cbdb664</data>
+    </node>
+    <node id="&quot;CHERBOURG, FRANCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Cherbourg, France is a location where John Ancrum Winslow's ship had a historic action with the Confederate sea raider in 1864."</data>
+      <data key="d2">abbd7aa03c9a17e97f1da63d26f78f53</data>
+    </node>
+    <node id="&quot;JOHN ANCRUM WINSLOW&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">abbd7aa03c9a17e97f1da63d26f78f53</data>
+    </node>
+    <node id="&quot;CONFEDERATE GOVERNMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Confederate government made strategic decisions, including cutting cotton exports, in an attempt to influence Britain's actions."</data>
+      <data key="d2">c2e6813467bee4c69c8b661e4b055dd9</data>
+    </node>
+    <node id="&quot;BRITAIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Britain was a major purchaser of cotton and invested heavily in Egyptian cotton plantations during the American Civil War."</data>
+      <data key="d2">c2e6813467bee4c69c8b661e4b055dd9</data>
+    </node>
+    <node id="&quot;FRANCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"France was another major purchaser of cotton that turned to Egyptian cotton during the American Civil War."</data>
+      <data key="d2">c2e6813467bee4c69c8b661e4b055dd9</data>
+    </node>
+    <node id="&quot;EGYPTIAN GOVERNMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Egyptian government, led by Viceroy Isma'il, took out substantial loans from European bankers and stock exchanges to invest in cotton plantations."</data>
+      <data key="d2">c2e6813467bee4c69c8b661e4b055dd9</data>
+    </node>
+    <node id="&quot;VICEROY ISMA'IL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Viceroy Isma'il was the leader of the Egyptian government during a period of significant economic change and investment in cotton plantations."</data>
+      <data key="d2">c2e6813467bee4c69c8b661e4b055dd9</data>
+    </node>
+    <edge source="&quot;CONGRESS&quot;" target="&quot;UNITED MEXICAN STATES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Congress of the United Mexican States has the right to choose the location of the federal government."</data>
+      <data key="d5">b539637fbb31f14166b6ed9f5af6484b</data>
+    </edge>
+    <edge source="&quot;MEXICO CITY&quot;" target="&quot;UNITED MEXICAN STATES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mexico City is a potential capital of the United Mexican States."</data>
+      <data key="d5">b539637fbb31f14166b6ed9f5af6484b</data>
+    </edge>
+    <edge source="&quot;MEXICO CITY&quot;" target="&quot;U.S. ARMY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The U.S. Army captured Mexico City during the Battle for Mexico City."</data>
+      <data key="d5">b18c22b61478debe96c06ca7111d71b8</data>
+    </edge>
+    <edge source="&quot;QUER&#201;TARO&quot;" target="&quot;UNITED MEXICAN STATES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Quer&#233;taro is a potential capital of the United Mexican States."</data>
+      <data key="d5">b539637fbb31f14166b6ed9f5af6484b</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">2ccac735bff65d09f61c843f22fc7888,49ef793d1623c685695ed50b3ffa321a,5d4d268b62d5544b133ac1165e9069b5,6f87a5996e15368477eb7c326748ec70,7605d667155145304565edb20f266d26,80b4a5aa89772bd7759e37e0fcda46fb,848ffc310f93a9a0d6f6893ea45723e2,abbd7aa03c9a17e97f1da63d26f78f53,b18c22b61478debe96c06ca7111d71b8,b539637fbb31f14166b6ed9f5af6484b,b7a350294f2c178dbedd9a5b5e888b22,b7ced8dc915f1e6a32837bb0cdbd99af,c2e6813467bee4c69c8b661e4b055dd9,c98723b4fe1090b363e8b62ece817bd8,c99d9014c28cbc62a81b9c35c59ab135,d0db9f29557c3f60db7669713d5ac832,d78853ab9cf6df14624a09531249c351,df00719ad0339e37728cae141cbdb664,f815792328faa949024a9297065c910d,f8ab285dd8b68bbbb29e7415c6a060c7</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">2ccac735bff65d09f61c843f22fc7888,49ef793d1623c685695ed50b3ffa321a,5d4d268b62d5544b133ac1165e9069b5,6f87a5996e15368477eb7c326748ec70,7605d667155145304565edb20f266d26,80b4a5aa89772bd7759e37e0fcda46fb,848ffc310f93a9a0d6f6893ea45723e2,abbd7aa03c9a17e97f1da63d26f78f53,b18c22b61478debe96c06ca7111d71b8,b539637fbb31f14166b6ed9f5af6484b,b7a350294f2c178dbedd9a5b5e888b22,b7ced8dc915f1e6a32837bb0cdbd99af,c2e6813467bee4c69c8b661e4b055dd9,c98723b4fe1090b363e8b62ece817bd8,c99d9014c28cbc62a81b9c35c59ab135,d0db9f29557c3f60db7669713d5ac832,d78853ab9cf6df14624a09531249c351,df00719ad0339e37728cae141cbdb664,f815792328faa949024a9297065c910d,f8ab285dd8b68bbbb29e7415c6a060c7</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">2ccac735bff65d09f61c843f22fc7888,49ef793d1623c685695ed50b3ffa321a,5d4d268b62d5544b133ac1165e9069b5,6f87a5996e15368477eb7c326748ec70,7605d667155145304565edb20f266d26,80b4a5aa89772bd7759e37e0fcda46fb,848ffc310f93a9a0d6f6893ea45723e2,abbd7aa03c9a17e97f1da63d26f78f53,b18c22b61478debe96c06ca7111d71b8,b539637fbb31f14166b6ed9f5af6484b,b7a350294f2c178dbedd9a5b5e888b22,b7ced8dc915f1e6a32837bb0cdbd99af,c2e6813467bee4c69c8b661e4b055dd9,c98723b4fe1090b363e8b62ece817bd8,c99d9014c28cbc62a81b9c35c59ab135,d0db9f29557c3f60db7669713d5ac832,d78853ab9cf6df14624a09531249c351,df00719ad0339e37728cae141cbdb664,f815792328faa949024a9297065c910d,f8ab285dd8b68bbbb29e7415c6a060c7</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">2ccac735bff65d09f61c843f22fc7888,49ef793d1623c685695ed50b3ffa321a,5d4d268b62d5544b133ac1165e9069b5,6f87a5996e15368477eb7c326748ec70,7605d667155145304565edb20f266d26,80b4a5aa89772bd7759e37e0fcda46fb,848ffc310f93a9a0d6f6893ea45723e2,abbd7aa03c9a17e97f1da63d26f78f53,b18c22b61478debe96c06ca7111d71b8,b539637fbb31f14166b6ed9f5af6484b,b7a350294f2c178dbedd9a5b5e888b22,b7ced8dc915f1e6a32837bb0cdbd99af,c2e6813467bee4c69c8b661e4b055dd9,c98723b4fe1090b363e8b62ece817bd8,c99d9014c28cbc62a81b9c35c59ab135,d0db9f29557c3f60db7669713d5ac832,d78853ab9cf6df14624a09531249c351,df00719ad0339e37728cae141cbdb664,f815792328faa949024a9297065c910d,f8ab285dd8b68bbbb29e7415c6a060c7</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">2ccac735bff65d09f61c843f22fc7888,49ef793d1623c685695ed50b3ffa321a,5d4d268b62d5544b133ac1165e9069b5,6f87a5996e15368477eb7c326748ec70,7605d667155145304565edb20f266d26,80b4a5aa89772bd7759e37e0fcda46fb,848ffc310f93a9a0d6f6893ea45723e2,abbd7aa03c9a17e97f1da63d26f78f53,b18c22b61478debe96c06ca7111d71b8,b539637fbb31f14166b6ed9f5af6484b,b7a350294f2c178dbedd9a5b5e888b22,b7ced8dc915f1e6a32837bb0cdbd99af,c2e6813467bee4c69c8b661e4b055dd9,c98723b4fe1090b363e8b62ece817bd8,c99d9014c28cbc62a81b9c35c59ab135,d0db9f29557c3f60db7669713d5ac832,d78853ab9cf6df14624a09531249c351,df00719ad0339e37728cae141cbdb664,f815792328faa949024a9297065c910d,f8ab285dd8b68bbbb29e7415c6a060c7</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">2ccac735bff65d09f61c843f22fc7888,49ef793d1623c685695ed50b3ffa321a,5d4d268b62d5544b133ac1165e9069b5,6f87a5996e15368477eb7c326748ec70,7605d667155145304565edb20f266d26,80b4a5aa89772bd7759e37e0fcda46fb,848ffc310f93a9a0d6f6893ea45723e2,abbd7aa03c9a17e97f1da63d26f78f53,b18c22b61478debe96c06ca7111d71b8,b539637fbb31f14166b6ed9f5af6484b,b7a350294f2c178dbedd9a5b5e888b22,b7ced8dc915f1e6a32837bb0cdbd99af,c2e6813467bee4c69c8b661e4b055dd9,c98723b4fe1090b363e8b62ece817bd8,c99d9014c28cbc62a81b9c35c59ab135,d0db9f29557c3f60db7669713d5ac832,d78853ab9cf6df14624a09531249c351,df00719ad0339e37728cae141cbdb664,f815792328faa949024a9297065c910d,f8ab285dd8b68bbbb29e7415c6a060c7</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;TEXAS REVOLUTION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The United States allegedly instigated the Texas Revolution with the goal of annexation."</data>
+      <data key="d5">49ef793d1623c685695ed50b3ffa321a</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;REPUBLIC OF TEXAS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Republic of Texas was eventually annexed by the United States."</data>
+      <data key="d5">49ef793d1623c685695ed50b3ffa321a</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;WORLD WAR I&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The United States joined World War I and fought alongside its allies."</data>
+      <data key="d5">b7a350294f2c178dbedd9a5b5e888b22</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">2ccac735bff65d09f61c843f22fc7888,49ef793d1623c685695ed50b3ffa321a,5d4d268b62d5544b133ac1165e9069b5,6f87a5996e15368477eb7c326748ec70,7605d667155145304565edb20f266d26,80b4a5aa89772bd7759e37e0fcda46fb,848ffc310f93a9a0d6f6893ea45723e2,abbd7aa03c9a17e97f1da63d26f78f53,b18c22b61478debe96c06ca7111d71b8,b539637fbb31f14166b6ed9f5af6484b,b7a350294f2c178dbedd9a5b5e888b22,b7ced8dc915f1e6a32837bb0cdbd99af,c2e6813467bee4c69c8b661e4b055dd9,c98723b4fe1090b363e8b62ece817bd8,c99d9014c28cbc62a81b9c35c59ab135,d0db9f29557c3f60db7669713d5ac832,d78853ab9cf6df14624a09531249c351,df00719ad0339e37728cae141cbdb664,f815792328faa949024a9297065c910d,f8ab285dd8b68bbbb29e7415c6a060c7</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">2ccac735bff65d09f61c843f22fc7888,49ef793d1623c685695ed50b3ffa321a,5d4d268b62d5544b133ac1165e9069b5,6f87a5996e15368477eb7c326748ec70,7605d667155145304565edb20f266d26,80b4a5aa89772bd7759e37e0fcda46fb,848ffc310f93a9a0d6f6893ea45723e2,abbd7aa03c9a17e97f1da63d26f78f53,b18c22b61478debe96c06ca7111d71b8,b539637fbb31f14166b6ed9f5af6484b,b7a350294f2c178dbedd9a5b5e888b22,b7ced8dc915f1e6a32837bb0cdbd99af,c2e6813467bee4c69c8b661e4b055dd9,c98723b4fe1090b363e8b62ece817bd8,c99d9014c28cbc62a81b9c35c59ab135,d0db9f29557c3f60db7669713d5ac832,d78853ab9cf6df14624a09531249c351,df00719ad0339e37728cae141cbdb664,f815792328faa949024a9297065c910d,f8ab285dd8b68bbbb29e7415c6a060c7</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">2ccac735bff65d09f61c843f22fc7888,49ef793d1623c685695ed50b3ffa321a,5d4d268b62d5544b133ac1165e9069b5,6f87a5996e15368477eb7c326748ec70,7605d667155145304565edb20f266d26,80b4a5aa89772bd7759e37e0fcda46fb,848ffc310f93a9a0d6f6893ea45723e2,abbd7aa03c9a17e97f1da63d26f78f53,b18c22b61478debe96c06ca7111d71b8,b539637fbb31f14166b6ed9f5af6484b,b7a350294f2c178dbedd9a5b5e888b22,b7ced8dc915f1e6a32837bb0cdbd99af,c2e6813467bee4c69c8b661e4b055dd9,c98723b4fe1090b363e8b62ece817bd8,c99d9014c28cbc62a81b9c35c59ab135,d0db9f29557c3f60db7669713d5ac832,d78853ab9cf6df14624a09531249c351,df00719ad0339e37728cae141cbdb664,f815792328faa949024a9297065c910d,f8ab285dd8b68bbbb29e7415c6a060c7</data>
+    </edge>
+    <edge source="&quot;MEXICO&quot;" target="&quot;TEXAS REVOLUTION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The centralist government of Mexico was opposed by the colonists and Tejanos during the Texas Revolution."</data>
+      <data key="d5">49ef793d1623c685695ed50b3ffa321a</data>
+    </edge>
+    <edge source="&quot;MEXICO&quot;" target="&quot;ANTONIO L&#211;PEZ DE SANTA ANNA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Antonio L&#243;pez de Santa Anna was the President of Mexico during the Texas Revolution."</data>
+      <data key="d5">49ef793d1623c685695ed50b3ffa321a</data>
+    </edge>
+    <edge source="&quot;MEXICO&quot;" target="&quot;SAINT PATRICK'S BATTALION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Saint Patrick's Battalion fought for the Mexican cause during the Battle of Churubusco."</data>
+      <data key="d5">b18c22b61478debe96c06ca7111d71b8</data>
+    </edge>
+    <edge source="&quot;MEXICO&quot;" target="&quot;CHARLES POMEROY STONE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Charles Pomeroy Stone surveyed for the Mexican Government."</data>
+      <data key="d5">c99d9014c28cbc62a81b9c35c59ab135</data>
+    </edge>
+    <edge source="&quot;MEXICO&quot;" target="&quot;U.S. ARMY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The U.S. Army intervened in Mexico to ensure safety and fought against rebels and federal troops."</data>
+      <data key="d5">b7a350294f2c178dbedd9a5b5e888b22</data>
+    </edge>
+    <edge source="&quot;MEXICO&quot;" target="&quot;JOHN ANCRUM WINSLOW&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"John Ancrum Winslow participated in the Mexican&#8211;American War, which involved Mexico."</data>
+      <data key="d5">abbd7aa03c9a17e97f1da63d26f78f53</data>
+    </edge>
+    <edge source="&quot;CONFEDERACY&quot;" target="&quot;ROBERT E. LEE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Confederacy was led by Robert E. Lee during the American Civil War."</data>
+      <data key="d5">7605d667155145304565edb20f266d26</data>
+    </edge>
+    <edge source="&quot;CONFEDERACY&quot;" target="&quot;AMERICAN CIVIL WAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Confederacy was one of the main parties involved in the American Civil War, seeking to win through foreign intervention or wearing down the North's willingness to fight."</data>
+      <data key="d5">7605d667155145304565edb20f266d26</data>
+    </edge>
+    <edge source="&quot;U.S.&quot;" target="&quot;AMERICAN CIVIL WAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The U.S. was one of the main parties involved in the American Civil War, seeking a quick victory."</data>
+      <data key="d5">7605d667155145304565edb20f266d26</data>
+    </edge>
+    <edge source="&quot;AMERICAN CIVIL WAR&quot;" target="&quot;JAMES EDWARD JOUETT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"James Edward Jouett served as an officer in the US Navy during the American Civil War."</data>
+      <data key="d5">f815792328faa949024a9297065c910d</data>
+    </edge>
+    <edge source="&quot;AMERICAN CIVIL WAR&quot;" target="&quot;FRANCIS 'FRANK' CRAWFORD ARMSTRONG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Francis 'Frank' Crawford Armstrong fought on both sides during the American Civil War, making him a notable figure in this event."</data>
+      <data key="d5">d0db9f29557c3f60db7669713d5ac832</data>
+    </edge>
+    <edge source="&quot;AMERICAN CIVIL WAR&quot;" target="&quot;SAMUEL PRESTON MOORE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Samuel Preston Moore served as the Confederate Surgeon General during the American Civil War."</data>
+      <data key="d5">b7ced8dc915f1e6a32837bb0cdbd99af</data>
+    </edge>
+    <edge source="&quot;AMERICAN CIVIL WAR&quot;" target="&quot;JOHN CALVIN FISER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"John Calvin Fiser fought in the American Civil War as an officer in the Confederate Army."</data>
+      <data key="d5">80b4a5aa89772bd7759e37e0fcda46fb</data>
+    </edge>
+    <edge source="&quot;AMERICAN CIVIL WAR&quot;" target="&quot;HENRY BRAINERD MCCLELLAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Henry Brainerd McClellan participated in the American Civil War as an officer and adjutant general in the Confederate States Army."</data>
+      <data key="d5">c98723b4fe1090b363e8b62ece817bd8</data>
+    </edge>
+    <edge source="&quot;AMERICAN CIVIL WAR&quot;" target="&quot;WILLIAM PLUMMER BENTON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"William Plummer Benton served in the American Civil War, rising to the rank of brigadier general."</data>
+      <data key="d5">d78853ab9cf6df14624a09531249c351</data>
+    </edge>
+    <edge source="&quot;AMERICAN CIVIL WAR&quot;" target="&quot;CHARLES POMEROY STONE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Charles Pomeroy Stone fought in the American Civil War after returning to the U.S. Army."</data>
+      <data key="d5">c99d9014c28cbc62a81b9c35c59ab135</data>
+    </edge>
+    <edge source="&quot;AMERICAN CIVIL WAR&quot;" target="&quot;CONFEDERATE STATES OF AMERICA&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Here is the comprehensive summary:
+
+The American Civil War and the Confederate States of America are intricately linked entities in American history. The American Civil War took place within the geographic entity of the Confederate States of America, which was formed as a direct result of the conflict. In other words, the secessionist movement that led to the formation of the Confederate States of America was a catalyst for the American Civil War.
+
+Let me know if you need any further assistance!</data>
+      <data key="d5">848ffc310f93a9a0d6f6893ea45723e2,f8ab285dd8b68bbbb29e7415c6a060c7</data>
+    </edge>
+    <edge source="&quot;AMERICAN CIVIL WAR&quot;" target="&quot;JEFFERSON DAVIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jefferson Davis was a key figure in the American Civil War, leading the Confederate States of America."</data>
+      <data key="d5">848ffc310f93a9a0d6f6893ea45723e2</data>
+    </edge>
+    <edge source="&quot;AMERICAN CIVIL WAR&quot;" target="&quot;CONFEDERATE STATES ARMY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Confederate States Army was a key participant in the American Civil War."</data>
+      <data key="d5">df00719ad0339e37728cae141cbdb664</data>
+    </edge>
+    <edge source="&quot;AMERICAN CIVIL WAR&quot;" target="&quot;JOHN ANCRUM WINSLOW&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"John Ancrum Winslow participated in the American Civil War as an officer in the United States Navy."</data>
+      <data key="d5">abbd7aa03c9a17e97f1da63d26f78f53</data>
+    </edge>
+    <edge source="&quot;AMERICAN CIVIL WAR&quot;" target="&quot;CONFEDERATE GOVERNMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Confederate government's decisions were influenced by the American Civil War, which affected their economy and trade policies."</data>
+      <data key="d5">c2e6813467bee4c69c8b661e4b055dd9</data>
+    </edge>
+    <edge source="&quot;AMERICAN CIVIL WAR&quot;" target="&quot;BRITAIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The American Civil War led to Britain turning to Egyptian cotton, which had a significant impact on Egypt's economy and trade relationships."</data>
+      <data key="d5">c2e6813467bee4c69c8b661e4b055dd9</data>
+    </edge>
+    <edge source="&quot;GAO GANG&quot;" target="&quot;COMMUNIST PARTY OF CHINA (CPC)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gao Gang was also a senior leader of the Communist Party of China (CPC)."</data>
+      <data key="d5">5d4d268b62d5544b133ac1165e9069b5</data>
+    </edge>
+    <edge source="&quot;COMMUNIST PARTY OF CHINA (CPC)&quot;" target="&quot;RAO SHUSHI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Rao Shushi was a senior leader of the Communist Party of China (CPC)."</data>
+      <data key="d5">5d4d268b62d5544b133ac1165e9069b5</data>
+    </edge>
+    <edge source="&quot;MATTHEW HARRIS JOUETT&quot;" target="&quot;JAMES EDWARD JOUETT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Matthew Harris Jouett was the father of James Edward Jouett."</data>
+      <data key="d5">f815792328faa949024a9297065c910d</data>
+    </edge>
+    <edge source="&quot;JACK JOUETT&quot;" target="&quot;JAMES EDWARD JOUETT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jack Jouett was the grandfather of James Edward Jouett."</data>
+      <data key="d5">f815792328faa949024a9297065c910d</data>
+    </edge>
+    <edge source="&quot;UNITED STATES NAVY&quot;" target="&quot;JAMES EDWARD JOUETT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"James Edward Jouett was an officer in the United States Navy."</data>
+      <data key="d5">f815792328faa949024a9297065c910d</data>
+    </edge>
+    <edge source="&quot;UNITED STATES NAVY&quot;" target="&quot;JOHN ANCRUM WINSLOW&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"John Ancrum Winslow served as an officer in the United States Navy during the Mexican&#8211;American War and the American Civil War."</data>
+      <data key="d5">abbd7aa03c9a17e97f1da63d26f78f53</data>
+    </edge>
+    <edge source="&quot;MEXICAN&#8211;AMERICAN WAR&quot;" target="&quot;JAMES EDWARD JOUETT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"James Edward Jouett fought as an officer in the US Navy during the Mexican&#8211;American War."</data>
+      <data key="d5">f815792328faa949024a9297065c910d</data>
+    </edge>
+    <edge source="&quot;MEXICAN&#8211;AMERICAN WAR&quot;" target="&quot;SAMUEL PRESTON MOORE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Samuel Preston Moore served as a military physician during the Mexican&#8211;American War."</data>
+      <data key="d5">b7ced8dc915f1e6a32837bb0cdbd99af</data>
+    </edge>
+    <edge source="&quot;MEXICAN&#8211;AMERICAN WAR&quot;" target="&quot;BATTLE FOR MEXICO CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Battle for Mexico City was a part of the Mexican&#8211;American War."</data>
+      <data key="d5">b18c22b61478debe96c06ca7111d71b8</data>
+    </edge>
+    <edge source="&quot;MEXICAN&#8211;AMERICAN WAR&quot;" target="&quot;WILLIAM PLUMMER BENTON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"William Plummer Benton served in the Mexican&#8211;American War."</data>
+      <data key="d5">d78853ab9cf6df14624a09531249c351</data>
+    </edge>
+    <edge source="&quot;MEXICAN&#8211;AMERICAN WAR&quot;" target="&quot;CHARLES POMEROY STONE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Charles Pomeroy Stone fought with distinction in the Mexican&#8211;American War."</data>
+      <data key="d5">c99d9014c28cbc62a81b9c35c59ab135</data>
+    </edge>
+    <edge source="&quot;MEXICAN&#8211;AMERICAN WAR&quot;" target="&quot;JOHN ANCRUM WINSLOW&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"John Ancrum Winslow participated in the Mexican&#8211;American War as an officer in the United States Navy."</data>
+      <data key="d5">abbd7aa03c9a17e97f1da63d26f78f53</data>
+    </edge>
+    <edge source="&quot;UNITED STATES ARMY&quot;" target="&quot;FRANCIS 'FRANK' CRAWFORD ARMSTRONG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Francis 'Frank' Crawford Armstrong served as a cavalry officer in the United States Army."</data>
+      <data key="d5">d0db9f29557c3f60db7669713d5ac832</data>
+    </edge>
+    <edge source="&quot;UNITED STATES ARMY&quot;" target="&quot;SAMUEL PRESTON MOORE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Samuel Preston Moore served in the medical corps of the United States Army."</data>
+      <data key="d5">b7ced8dc915f1e6a32837bb0cdbd99af</data>
+    </edge>
+    <edge source="&quot;UNITED STATES ARMY&quot;" target="&quot;JEFFERSON DAVIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jefferson Davis served as a lieutenant in the United States Army."</data>
+      <data key="d5">2ccac735bff65d09f61c843f22fc7888</data>
+    </edge>
+    <edge source="&quot;UNITED STATES ARMY&quot;" target="&quot;CHARLES POMEROY STONE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Charles Pomeroy Stone served as an officer in the United States Army."</data>
+      <data key="d5">c99d9014c28cbc62a81b9c35c59ab135</data>
+    </edge>
+    <edge source="&quot;CONFEDERATE STATES ARMY&quot;" target="&quot;FRANCIS 'FRANK' CRAWFORD ARMSTRONG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Francis 'Frank' Crawford Armstrong served as a brigadier general in the Confederate States Army during the American Civil War."</data>
+      <data key="d5">d0db9f29557c3f60db7669713d5ac832</data>
+    </edge>
+    <edge source="&quot;CONFEDERATE STATES ARMY&quot;" target="&quot;HENRY BRAINERD MCCLELLAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Henry Brainerd McClellan served as an officer and adjutant general in the Confederate States Army during the American Civil War."</data>
+      <data key="d5">c98723b4fe1090b363e8b62ece817bd8</data>
+    </edge>
+    <edge source="&quot;CONFEDERATE STATES ARMY&quot;" target="&quot;JEFFERSON DAVIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jefferson Davis had control over military operations and authority for mustering state forces and volunteers in the Confederate States Army."</data>
+      <data key="d5">df00719ad0339e37728cae141cbdb664</data>
+    </edge>
+    <edge source="&quot;CONFEDERATE STATES ARMY&quot;" target="&quot;PROVISIONAL CONFEDERATE CONGRESS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Provisional Confederate Congress established and expanded the Confederate States Army."</data>
+      <data key="d5">df00719ad0339e37728cae141cbdb664</data>
+    </edge>
+    <edge source="&quot;BERNARD L. KOWALSKI&quot;" target="&quot;MACHO CALLAHAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bernard L. Kowalski directed the film Macho Callahan."</data>
+      <data key="d5">6f87a5996e15368477eb7c326748ec70</data>
+    </edge>
+    <edge source="&quot;DAVID JANSSEN&quot;" target="&quot;MACHO CALLAHAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"David Janssen starred in the film Macho Callahan."</data>
+      <data key="d5">6f87a5996e15368477eb7c326748ec70</data>
+    </edge>
+    <edge source="&quot;JEAN SEBERG&quot;" target="&quot;MACHO CALLAHAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jean Seberg starred in the film Macho Callahan."</data>
+      <data key="d5">6f87a5996e15368477eb7c326748ec70</data>
+    </edge>
+    <edge source="&quot;LEE J. COBB&quot;" target="&quot;MACHO CALLAHAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lee J. Cobb starred in the film Macho Callahan."</data>
+      <data key="d5">6f87a5996e15368477eb7c326748ec70</data>
+    </edge>
+    <edge source="&quot;JAMES BOOTH&quot;" target="&quot;MACHO CALLAHAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"James Booth starred in the film Macho Callahan."</data>
+      <data key="d5">6f87a5996e15368477eb7c326748ec70</data>
+    </edge>
+    <edge source="&quot;ANDERSONVILLE PRISON&quot;" target="&quot;MACHO CALLAHAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Andersonville Prison is a location featured in the film Macho Callahan."</data>
+      <data key="d5">6f87a5996e15368477eb7c326748ec70</data>
+    </edge>
+    <edge source="&quot;WINFIELD SCOTT&quot;" target="&quot;U.S. ARMY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Winfield Scott led the U.S. Army during the Battle for Mexico City."</data>
+      <data key="d5">b18c22b61478debe96c06ca7111d71b8</data>
+    </edge>
+    <edge source="&quot;U.S. ARMY&quot;" target="&quot;WORLD WAR I&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The U.S. Army was involved in the last offensives of World War I."</data>
+      <data key="d5">b7a350294f2c178dbedd9a5b5e888b22</data>
+    </edge>
+    <edge source="&quot;CONFEDERATE ARMY&quot;" target="&quot;JOHN CALVIN FISER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"John Calvin Fiser served as an officer in the Confederate Army during the American Civil War."</data>
+      <data key="d5">80b4a5aa89772bd7759e37e0fcda46fb</data>
+    </edge>
+    <edge source="&quot;BATTLE OF FORT SANDERS&quot;" target="&quot;JOHN CALVIN FISER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"John Calvin Fiser was seriously wounded and lost an arm in the Battle of Fort Sanders."</data>
+      <data key="d5">80b4a5aa89772bd7759e37e0fcda46fb</data>
+    </edge>
+    <edge source="&quot;SAYRE FEMALE INSTITUTE&quot;" target="&quot;HENRY BRAINERD MCCLELLAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Henry Brainerd McClellan taught at Sayre Female Institute for 35 years after the war."</data>
+      <data key="d5">c98723b4fe1090b363e8b62ece817bd8</data>
+    </edge>
+    <edge source="&quot;SAYRE FEMALE INSTITUTE&quot;" target="&quot;LEXINGTON, KENTUCKY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sayre Female Institute is located in Lexington, Kentucky."</data>
+      <data key="d5">c98723b4fe1090b363e8b62ece817bd8</data>
+    </edge>
+    <edge source="&quot;JOSEPH EMORY DAVIS&quot;" target="&quot;JEFFERSON DAVIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jefferson Davis's eldest brother Joseph Emory Davis secured his appointment to the United States Military Academy."</data>
+      <data key="d5">2ccac735bff65d09f61c843f22fc7888</data>
+    </edge>
+    <edge source="&quot;MISSISSIPPI&quot;" target="&quot;JEFFERSON DAVIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jefferson Davis operated a large cotton plantation in Mississippi and owned slaves."</data>
+      <data key="d5">2ccac735bff65d09f61c843f22fc7888</data>
+    </edge>
+    <edge source="&quot;JEFFERSON DAVIS&quot;" target="&quot;CONFEDERATE STATES OF AMERICA&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Here is a comprehensive summary of the data:
+
+Jefferson Davis, the President of the Confederate States of America, served in this capacity during the American Civil War.
+
+Let me know if you need any further assistance!</data>
+      <data key="d5">848ffc310f93a9a0d6f6893ea45723e2,df00719ad0339e37728cae141cbdb664</data>
+    </edge>
+    <edge source="&quot;CONFEDERATE STATES STATE DEPARTMENT&quot;" target="&quot;CONFEDERATE STATES SECRETARY OF STATE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Confederate States Secretary of State was the head of the Confederate States State Department."</data>
+      <data key="d5">f8ab285dd8b68bbbb29e7415c6a060c7</data>
+    </edge>
+    <edge source="&quot;PANCHO VILLA&quot;" target="&quot;COLUMBUS, NEW MEXICO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Pancho Villa attacked Columbus, New Mexico, prompting a U.S. intervention in Mexico."</data>
+      <data key="d5">b7a350294f2c178dbedd9a5b5e888b22</data>
+    </edge>
+    <edge source="&quot;CHERBOURG, FRANCE&quot;" target="&quot;JOHN ANCRUM WINSLOW&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"John Ancrum Winslow's ship had a historic action with the Confederate sea raider in 1864 off Cherbourg, France."</data>
+      <data key="d5">abbd7aa03c9a17e97f1da63d26f78f53</data>
+    </edge>
+    <edge source="&quot;BRITAIN&quot;" target="&quot;EGYPTIAN GOVERNMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Egyptian government took out loans from British bankers and stock exchanges to invest in cotton plantations, creating a financial relationship between the two entities."</data>
+      <data key="d5">c2e6813467bee4c69c8b661e4b055dd9</data>
+    </edge>
+    <edge source="&quot;FRANCE&quot;" target="&quot;EGYPTIAN GOVERNMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Egyptian government also took out loans from French bankers and stock exchanges, further solidifying their financial ties with European powers."</data>
+      <data key="d5">c2e6813467bee4c69c8b661e4b055dd9</data>
+    </edge>
+  </graph>
+</graphml>

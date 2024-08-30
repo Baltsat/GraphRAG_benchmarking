@@ -1,0 +1,1242 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;FRANCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"France is a country where Lazare Ponticelli was from and fought in the First World War."</data>
+      <data key="d2">32d7dd4ca2c1f703ef47135e6a2cd561</data>
+    </node>
+    <node id="&quot;FIRST WORLD WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The First World War was a global conflict that Lazare Ponticelli participated in as a veteran."</data>
+      <data key="d2">32d7dd4ca2c1f703ef47135e6a2cd561</data>
+    </node>
+    <node id="&quot;LAZARE PONTICELLI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">32d7dd4ca2c1f703ef47135e6a2cd561</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">072730cd614f51061af763609930acb8,0891654239e1f185b013bd8f7eb78d8c,3251633a21473a104c04073882a66c0a,32d7dd4ca2c1f703ef47135e6a2cd561,3b27ede22e472082d2dfc7c5ab9a8a3d,3c9d08c4ca772d961cee938c00acc181,576058b2da5089cb695f28f880cc044a,5848c6effad4b4353b22358a663c6c77,5ef269748b292fbcbd46dbda07e2e4ac,6b0d3b4386b3e9543ce4ba3c934953dc,6c7c15db8b07ce8aad4b6f3454a46948,7080055190afee7e2fefe65912bae6ef,756800b41d31b14f13ed8ab28c06736f,7a9844b13abbaf3e82730351b953565f,b7a350294f2c178dbedd9a5b5e888b22,caa08eb070385006c542599d0cb099f3,ced9be04285534c0b9cf368324a10faf,df39de4d2c08c713671e7a5f4ed1dce4,e6e155e2cae13e36dbe53e3a652490b9,f242eb433733f48e0936ef23b0c49337</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">072730cd614f51061af763609930acb8,0891654239e1f185b013bd8f7eb78d8c,3251633a21473a104c04073882a66c0a,32d7dd4ca2c1f703ef47135e6a2cd561,3b27ede22e472082d2dfc7c5ab9a8a3d,3c9d08c4ca772d961cee938c00acc181,576058b2da5089cb695f28f880cc044a,5848c6effad4b4353b22358a663c6c77,5ef269748b292fbcbd46dbda07e2e4ac,6b0d3b4386b3e9543ce4ba3c934953dc,6c7c15db8b07ce8aad4b6f3454a46948,7080055190afee7e2fefe65912bae6ef,756800b41d31b14f13ed8ab28c06736f,7a9844b13abbaf3e82730351b953565f,b7a350294f2c178dbedd9a5b5e888b22,caa08eb070385006c542599d0cb099f3,ced9be04285534c0b9cf368324a10faf,df39de4d2c08c713671e7a5f4ed1dce4,e6e155e2cae13e36dbe53e3a652490b9,f242eb433733f48e0936ef23b0c49337</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">072730cd614f51061af763609930acb8,0891654239e1f185b013bd8f7eb78d8c,3251633a21473a104c04073882a66c0a,32d7dd4ca2c1f703ef47135e6a2cd561,3b27ede22e472082d2dfc7c5ab9a8a3d,3c9d08c4ca772d961cee938c00acc181,576058b2da5089cb695f28f880cc044a,5848c6effad4b4353b22358a663c6c77,5ef269748b292fbcbd46dbda07e2e4ac,6b0d3b4386b3e9543ce4ba3c934953dc,6c7c15db8b07ce8aad4b6f3454a46948,7080055190afee7e2fefe65912bae6ef,756800b41d31b14f13ed8ab28c06736f,7a9844b13abbaf3e82730351b953565f,b7a350294f2c178dbedd9a5b5e888b22,caa08eb070385006c542599d0cb099f3,ced9be04285534c0b9cf368324a10faf,df39de4d2c08c713671e7a5f4ed1dce4,e6e155e2cae13e36dbe53e3a652490b9,f242eb433733f48e0936ef23b0c49337</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">072730cd614f51061af763609930acb8,0891654239e1f185b013bd8f7eb78d8c,3251633a21473a104c04073882a66c0a,32d7dd4ca2c1f703ef47135e6a2cd561,3b27ede22e472082d2dfc7c5ab9a8a3d,3c9d08c4ca772d961cee938c00acc181,576058b2da5089cb695f28f880cc044a,5848c6effad4b4353b22358a663c6c77,5ef269748b292fbcbd46dbda07e2e4ac,6b0d3b4386b3e9543ce4ba3c934953dc,6c7c15db8b07ce8aad4b6f3454a46948,7080055190afee7e2fefe65912bae6ef,756800b41d31b14f13ed8ab28c06736f,7a9844b13abbaf3e82730351b953565f,b7a350294f2c178dbedd9a5b5e888b22,caa08eb070385006c542599d0cb099f3,ced9be04285534c0b9cf368324a10faf,df39de4d2c08c713671e7a5f4ed1dce4,e6e155e2cae13e36dbe53e3a652490b9,f242eb433733f48e0936ef23b0c49337</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located.""The United States is a country with a higher per-capita spending on healthcare compared to Canada, with a larger percentage of GDP spent on healthcare."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located.""The United States is a country that joined World War I and sent troops to the Western Front."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">072730cd614f51061af763609930acb8,0891654239e1f185b013bd8f7eb78d8c,3251633a21473a104c04073882a66c0a,32d7dd4ca2c1f703ef47135e6a2cd561,3b27ede22e472082d2dfc7c5ab9a8a3d,3c9d08c4ca772d961cee938c00acc181,576058b2da5089cb695f28f880cc044a,5848c6effad4b4353b22358a663c6c77,5ef269748b292fbcbd46dbda07e2e4ac,6b0d3b4386b3e9543ce4ba3c934953dc,6c7c15db8b07ce8aad4b6f3454a46948,7080055190afee7e2fefe65912bae6ef,756800b41d31b14f13ed8ab28c06736f,7a9844b13abbaf3e82730351b953565f,b7a350294f2c178dbedd9a5b5e888b22,caa08eb070385006c542599d0cb099f3,ced9be04285534c0b9cf368324a10faf,df39de4d2c08c713671e7a5f4ed1dce4,e6e155e2cae13e36dbe53e3a652490b9,f242eb433733f48e0936ef23b0c49337</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">072730cd614f51061af763609930acb8,0891654239e1f185b013bd8f7eb78d8c,3251633a21473a104c04073882a66c0a,32d7dd4ca2c1f703ef47135e6a2cd561,3b27ede22e472082d2dfc7c5ab9a8a3d,3c9d08c4ca772d961cee938c00acc181,576058b2da5089cb695f28f880cc044a,5848c6effad4b4353b22358a663c6c77,5ef269748b292fbcbd46dbda07e2e4ac,6b0d3b4386b3e9543ce4ba3c934953dc,6c7c15db8b07ce8aad4b6f3454a46948,7080055190afee7e2fefe65912bae6ef,756800b41d31b14f13ed8ab28c06736f,7a9844b13abbaf3e82730351b953565f,b7a350294f2c178dbedd9a5b5e888b22,caa08eb070385006c542599d0cb099f3,ced9be04285534c0b9cf368324a10faf,df39de4d2c08c713671e7a5f4ed1dce4,e6e155e2cae13e36dbe53e3a652490b9,f242eb433733f48e0936ef23b0c49337</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">072730cd614f51061af763609930acb8,0891654239e1f185b013bd8f7eb78d8c,3251633a21473a104c04073882a66c0a,32d7dd4ca2c1f703ef47135e6a2cd561,3b27ede22e472082d2dfc7c5ab9a8a3d,3c9d08c4ca772d961cee938c00acc181,576058b2da5089cb695f28f880cc044a,5848c6effad4b4353b22358a663c6c77,5ef269748b292fbcbd46dbda07e2e4ac,6b0d3b4386b3e9543ce4ba3c934953dc,6c7c15db8b07ce8aad4b6f3454a46948,7080055190afee7e2fefe65912bae6ef,756800b41d31b14f13ed8ab28c06736f,7a9844b13abbaf3e82730351b953565f,b7a350294f2c178dbedd9a5b5e888b22,caa08eb070385006c542599d0cb099f3,ced9be04285534c0b9cf368324a10faf,df39de4d2c08c713671e7a5f4ed1dce4,e6e155e2cae13e36dbe53e3a652490b9,f242eb433733f48e0936ef23b0c49337</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson.""Mexico is a country where the army intervened to ensure safety and fought against rebels and federal troops."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">072730cd614f51061af763609930acb8,0891654239e1f185b013bd8f7eb78d8c,3251633a21473a104c04073882a66c0a,32d7dd4ca2c1f703ef47135e6a2cd561,3b27ede22e472082d2dfc7c5ab9a8a3d,3c9d08c4ca772d961cee938c00acc181,576058b2da5089cb695f28f880cc044a,5848c6effad4b4353b22358a663c6c77,5ef269748b292fbcbd46dbda07e2e4ac,6b0d3b4386b3e9543ce4ba3c934953dc,6c7c15db8b07ce8aad4b6f3454a46948,7080055190afee7e2fefe65912bae6ef,756800b41d31b14f13ed8ab28c06736f,7a9844b13abbaf3e82730351b953565f,b7a350294f2c178dbedd9a5b5e888b22,caa08eb070385006c542599d0cb099f3,ced9be04285534c0b9cf368324a10faf,df39de4d2c08c713671e7a5f4ed1dce4,e6e155e2cae13e36dbe53e3a652490b9,f242eb433733f48e0936ef23b0c49337</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">072730cd614f51061af763609930acb8,0891654239e1f185b013bd8f7eb78d8c,3251633a21473a104c04073882a66c0a,32d7dd4ca2c1f703ef47135e6a2cd561,3b27ede22e472082d2dfc7c5ab9a8a3d,3c9d08c4ca772d961cee938c00acc181,576058b2da5089cb695f28f880cc044a,5848c6effad4b4353b22358a663c6c77,5ef269748b292fbcbd46dbda07e2e4ac,6b0d3b4386b3e9543ce4ba3c934953dc,6c7c15db8b07ce8aad4b6f3454a46948,7080055190afee7e2fefe65912bae6ef,756800b41d31b14f13ed8ab28c06736f,7a9844b13abbaf3e82730351b953565f,b7a350294f2c178dbedd9a5b5e888b22,caa08eb070385006c542599d0cb099f3,ced9be04285534c0b9cf368324a10faf,df39de4d2c08c713671e7a5f4ed1dce4,e6e155e2cae13e36dbe53e3a652490b9,f242eb433733f48e0936ef23b0c49337</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</data>
+      <data key="d2">072730cd614f51061af763609930acb8,0891654239e1f185b013bd8f7eb78d8c,3251633a21473a104c04073882a66c0a,32d7dd4ca2c1f703ef47135e6a2cd561,3b27ede22e472082d2dfc7c5ab9a8a3d,3c9d08c4ca772d961cee938c00acc181,576058b2da5089cb695f28f880cc044a,5848c6effad4b4353b22358a663c6c77,5ef269748b292fbcbd46dbda07e2e4ac,6b0d3b4386b3e9543ce4ba3c934953dc,6c7c15db8b07ce8aad4b6f3454a46948,7080055190afee7e2fefe65912bae6ef,756800b41d31b14f13ed8ab28c06736f,7a9844b13abbaf3e82730351b953565f,b7a350294f2c178dbedd9a5b5e888b22,caa08eb070385006c542599d0cb099f3,ced9be04285534c0b9cf368324a10faf,df39de4d2c08c713671e7a5f4ed1dce4,e6e155e2cae13e36dbe53e3a652490b9,f242eb433733f48e0936ef23b0c49337</data>
+    </node>
+    <node id="&quot;PIERCE BROSNAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Pierce Brosnan is an actor who played the role of James Bond in four films, including Die Another Day."</data>
+      <data key="d2">756800b41d31b14f13ed8ab28c06736f</data>
+    </node>
+    <node id="&quot;JAMES BOND&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"James Bond is a fictional MI6 agent and the main character of the film Die Another Day."</data>
+      <data key="d2">756800b41d31b14f13ed8ab28c06736f</data>
+    </node>
+    <node id="&quot;MI6&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"MI6 is a British intelligence agency that employs James Bond as an agent."</data>
+      <data key="d2">756800b41d31b14f13ed8ab28c06736f</data>
+    </node>
+    <node id="&quot;NORTH KOREA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"North Korea is a country where James Bond leads a mission and is later captured and imprisoned."</data>
+      <data key="d2">756800b41d31b14f13ed8ab28c06736f</data>
+    </node>
+    <node id="&quot;BRITISH GOVERNMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The British government is suspected to have a mole involved in the betrayal of James Bond."</data>
+      <data key="d2">756800b41d31b14f13ed8ab28c06736f</data>
+    </node>
+    <node id="&quot;EON PRODUCTIONS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">756800b41d31b14f13ed8ab28c06736f</data>
+    </node>
+    <node id="&quot;RICHARD DENNING&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Richard Denning plays the role of Steve Ward in the 1956 film 'The Oklahoma Woman'."</data>
+      <data key="d2">3c9d08c4ca772d961cee938c00acc181</data>
+    </node>
+    <node id="&quot;PEGGIE CASTLE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Peggie Castle plays the role of Marie 'Oklahoma' Saunders in the 1956 film 'The Oklahoma Woman'."</data>
+      <data key="d2">3c9d08c4ca772d961cee938c00acc181</data>
+    </node>
+    <node id="&quot;STEVE WARD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Steve Ward is a character in the 1956 film 'The Oklahoma Woman', played by Richard Denning."</data>
+      <data key="d2">3c9d08c4ca772d961cee938c00acc181</data>
+    </node>
+    <node id="&quot;MARIE 'OKLAHOMA' SAUNDERS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Marie 'Oklahoma' Saunders is a character in the 1956 film 'The Oklahoma Woman', played by Peggie Castle."</data>
+      <data key="d2">3c9d08c4ca772d961cee938c00acc181</data>
+    </node>
+    <node id="&quot;THE OKLAHOMA WOMAN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Oklahoma Woman is a 1956 film directed by Roger Corman, involving the return of Steve Ward to his hometown to claim his inheritance."</data>
+      <data key="d2">3c9d08c4ca772d961cee938c00acc181</data>
+    </node>
+    <node id="&quot;ROGER CORMAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3c9d08c4ca772d961cee938c00acc181</data>
+    </node>
+    <node id="&quot;CONGRESSIONAL BUDGET OFFICE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Congressional Budget Office provides analysis of the federal budget and its economic effects, playing a crucial role in informing policy decisions."</data>
+      <data key="d2">caa08eb070385006c542599d0cb099f3</data>
+    </node>
+    <node id="&quot;U.S.&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S. refers to the United States, a country facing long-term financial challenges due to an aging population and growing healthcare costs."</data>
+      <data key="d2">caa08eb070385006c542599d0cb099f3</data>
+    </node>
+    <node id="&quot;HEALTHCARE PROGRAMS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Healthcare programs are a significant area of spending in the federal budget, with costs growing faster than the economy."</data>
+      <data key="d2">caa08eb070385006c542599d0cb099f3</data>
+    </node>
+    <node id="&quot;UNITED STATES FEDERAL GOVERNMENT&quot;">
+      <data key="d0" />
+      <data key="d1">
+"The United States federal government played a key role in the Compromise of 1877, pulling out troops from the South and ending the Reconstruction Era."
+"The United States federal government played a key role in the Compromise of 1877, pulling out troops from the South and ending the Reconstruction Era."</data>
+      <data key="d2">7a9844b13abbaf3e82730351b953565f,caa08eb070385006c542599d0cb099f3,e6e155e2cae13e36dbe53e3a652490b9</data>
+    </node>
+    <node id="&quot;HOWARD UNIVERSITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Howard University is an institution that took over Freedmen's Hospital in Washington, DC in the late nineteenth century."</data>
+      <data key="d2">df39de4d2c08c713671e7a5f4ed1dce4</data>
+    </node>
+    <node id="&quot;WASHINGTON, DC&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Washington, DC is a location where Freedmen's Hospital was established and later became part of Howard University."</data>
+      <data key="d2">df39de4d2c08c713671e7a5f4ed1dce4</data>
+    </node>
+    <node id="&quot;CIVIL WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Civil War was a historical event that led to the establishment of the Freedmen's Bureau."</data>
+      <data key="d2">df39de4d2c08c713671e7a5f4ed1dce4</data>
+    </node>
+    <node id="&quot;FREEDMEN'S BUREAU&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">df39de4d2c08c713671e7a5f4ed1dce4</data>
+    </node>
+    <node id="&quot;FREEDMEN'S HOSPITAL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">df39de4d2c08c713671e7a5f4ed1dce4</data>
+    </node>
+    <node id="&quot;CHRISTMAS TRUCE OF 1914&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Christmas truce of 1914 was an event during World War I where soldiers on both sides laid down their arms to celebrate Christmas."</data>
+      <data key="d2">f242eb433733f48e0936ef23b0c49337</data>
+    </node>
+    <node id="&quot;WORLD WAR I&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"World War I was a global conflict that took place from 1914 to 1918."
+</data>
+      <data key="d2">b7a350294f2c178dbedd9a5b5e888b22,f242eb433733f48e0936ef23b0c49337</data>
+    </node>
+    <node id="&quot;BERTIE FELSTEAD&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f242eb433733f48e0936ef23b0c49337</data>
+    </node>
+    <node id="&quot;SAMUEL J. TILDEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Samuel J. Tilden was a Democrat who lost the presidential election to Rutherford B. Hayes due to the Compromise of 1877."
+"Samuel J. Tilden was a Democrat who lost the presidential election to Rutherford B. Hayes due to the Compromise of 1877."</data>
+      <data key="d2">7a9844b13abbaf3e82730351b953565f,e6e155e2cae13e36dbe53e3a652490b9</data>
+    </node>
+    <node id="&quot;ULYSSES S. GRANT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ulysses S. Grant was the outgoing President of the United States during the Compromise of 1877, who removed federal troops from Florida."
+"Ulysses S. Grant was the outgoing President of the United States during the Compromise of 1877, who removed federal troops from Florida."</data>
+      <data key="d2">7a9844b13abbaf3e82730351b953565f,e6e155e2cae13e36dbe53e3a652490b9</data>
+    </node>
+    <node id="&quot;COMPROMISE OF 1877&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Compromise of 1877 was an informal deal that settled the disputed 1876 U.S. presidential election and ended the Reconstruction Era."
+"The Compromise of 1877 was an informal deal that settled the disputed 1876 U.S. presidential election and ended the Reconstruction Era."</data>
+      <data key="d2">7a9844b13abbaf3e82730351b953565f,e6e155e2cae13e36dbe53e3a652490b9</data>
+    </node>
+    <node id="&quot;RECONSTRUCTION ERA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Reconstruction Era was a period in American history that ended with the Compromise of 1877."
+"The Reconstruction Era was a period in American history that ended with the Compromise of 1877."</data>
+      <data key="d2">7a9844b13abbaf3e82730351b953565f,e6e155e2cae13e36dbe53e3a652490b9</data>
+    </node>
+    <node id="&quot;HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The House of Representatives was controlled by Democrats who allowed the decision of the Electoral Commission to take effect as part of the Compromise of 1877."
+"The House of Representatives was controlled by Democrats who allowed the decision of the Electoral Commission to take effect as part of the Compromise of 1877."</data>
+      <data key="d2">7a9844b13abbaf3e82730351b953565f,e6e155e2cae13e36dbe53e3a652490b9</data>
+    </node>
+    <node id="&quot;ELECTORAL COMMISSION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Electoral Commission made a decision that was allowed to take effect by the House of Representatives, leading to Rutherford B. Hayes becoming President."
+"The Electoral Commission made a decision that was allowed to take effect by the House of Representatives, leading to Rutherford B. Hayes becoming President."</data>
+      <data key="d2">7a9844b13abbaf3e82730351b953565f,e6e155e2cae13e36dbe53e3a652490b9</data>
+    </node>
+    <node id="&quot;RUTHERFORD B. HAYES&quot;">
+      <data key="d0" />
+      <data key="d1">
+</data>
+      <data key="d2">7a9844b13abbaf3e82730351b953565f,e6e155e2cae13e36dbe53e3a652490b9</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF GHENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Ghent is an educational institution where the person obtained a degree in Occupational Healthcare."</data>
+      <data key="d2">072730cd614f51061af763609930acb8</data>
+    </node>
+    <node id="&quot;LEUVEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Leuven is a geographic location where the Catholic University of Leuven is situated."</data>
+      <data key="d2">072730cd614f51061af763609930acb8</data>
+    </node>
+    <node id="&quot;GHENT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ghent is a geographic location where the University of Ghent is situated."</data>
+      <data key="d2">072730cd614f51061af763609930acb8</data>
+    </node>
+    <node id="&quot;THE PERSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The person is an individual who graduated in Family Medicine and Occupational Healthcare, and obtained a degree in Management of Healthcare Data."</data>
+      <data key="d2">072730cd614f51061af763609930acb8</data>
+    </node>
+    <node id="&quot;CATHOLIC UNIVERSITY OF LEUVEN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">072730cd614f51061af763609930acb8</data>
+    </node>
+    <node id="&quot;GOVERNMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Government refers to the public sector that finances and regulates healthcare in both Canada and the United States."
+</data>
+      <data key="d2">576058b2da5089cb695f28f880cc044a,5848c6effad4b4353b22358a663c6c77</data>
+    </node>
+    <node id="&quot;PUBLIC HEALTH ANALYSTS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Public health analysts are professionals who compare and analyze healthcare systems, including those of Canada and the United States."</data>
+      <data key="d2">576058b2da5089cb695f28f880cc044a</data>
+    </node>
+    <node id="&quot;PUBLIC POLICY ANALYSTS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Public policy analysts are experts who examine and evaluate healthcare policies in both countries."</data>
+      <data key="d2">576058b2da5089cb695f28f880cc044a</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">576058b2da5089cb695f28f880cc044a</data>
+    </node>
+    <node id="&quot;ELI LILLY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Eli Lilly is a major company selling antipsychotics, including Zyprexa, and has settled government cases for hundreds of millions of dollars."</data>
+      <data key="d2">5848c6effad4b4353b22358a663c6c77</data>
+    </node>
+    <node id="&quot;PFIZER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Pfizer is a major company selling antipsychotics, including Bextra and Geodon, and has settled government cases for hundreds of millions of dollars."</data>
+      <data key="d2">5848c6effad4b4353b22358a663c6c77</data>
+    </node>
+    <node id="&quot;ASTRAZENECA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"AstraZeneca is a major company selling antipsychotics and has settled government cases for hundreds of millions of dollars."</data>
+      <data key="d2">5848c6effad4b4353b22358a663c6c77</data>
+    </node>
+    <node id="&quot;JOHNSON &amp; JOHNSON&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Johnson &amp; Johnson is a major company selling antipsychotics and has settled government cases for hundreds of millions of dollars."</data>
+      <data key="d2">5848c6effad4b4353b22358a663c6c77</data>
+    </node>
+    <node id="&quot;BRISTOL-MYERS SQUIBB&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5848c6effad4b4353b22358a663c6c77</data>
+    </node>
+    <node id="&quot;GERMANY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Germany is the country where the healthcare system is regulated by the Federal Joint Committee."
+"Germany is a country where the Nazi government was located and where Hochschule f&#252;r die Wissenschaft des Judentums was established."</data>
+      <data key="d2">5ef269748b292fbcbd46dbda07e2e4ac,6c7c15db8b07ce8aad4b6f3454a46948</data>
+    </node>
+    <node id="&quot;FEDERAL JOINT COMMITTEE (GEMEINSAMER BUNDESAUSSCHUSS)&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6c7c15db8b07ce8aad4b6f3454a46948</data>
+    </node>
+    <node id="&quot;CAT ROYAL SERIES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Cat Royal series is a collection of books written by Julia Golding."</data>
+      <data key="d2">6b0d3b4386b3e9543ce4ba3c934953dc</data>
+    </node>
+    <node id="&quot;JULIA GOLDING&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Julia Golding is a British author who wrote the Cat Royal series."</data>
+      <data key="d2">6b0d3b4386b3e9543ce4ba3c934953dc</data>
+    </node>
+    <node id="&quot;PEDRO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Pedro is a character in the story who gets involved with Cat in a slave revolt."</data>
+      <data key="d2">6b0d3b4386b3e9543ce4ba3c934953dc</data>
+    </node>
+    <node id="&quot;CAT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Cat is the protagonist of the story, who becomes a pirate and gets involved in a slave revolt."</data>
+      <data key="d2">6b0d3b4386b3e9543ce4ba3c934953dc</data>
+    </node>
+    <node id="&quot;BLACK HEART OF JAMAICA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6b0d3b4386b3e9543ce4ba3c934953dc</data>
+    </node>
+    <node id="&quot;RICHARD EICHBERG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Richard Eichberg is the director of the 1931 film Let's Love and Laugh."</data>
+      <data key="d2">3b27ede22e472082d2dfc7c5ab9a8a3d</data>
+    </node>
+    <node id="&quot;GENE GERRARD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gene Gerrard is an actor starring in the 1931 film Let's Love and Laugh."</data>
+      <data key="d2">3b27ede22e472082d2dfc7c5ab9a8a3d</data>
+    </node>
+    <node id="&quot;MURIEL ANGELUS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Muriel Angelus is an actress starring in the 1931 film Let's Love and Laugh."</data>
+      <data key="d2">3b27ede22e472082d2dfc7c5ab9a8a3d</data>
+    </node>
+    <node id="&quot;DENNIS WYNDHAM&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dennis Wyndham is an actor starring in the 1931 film Let's Love and Laugh."</data>
+      <data key="d2">3b27ede22e472082d2dfc7c5ab9a8a3d</data>
+    </node>
+    <node id="&quot;DIE BR&#196;UTIGAMSWITWE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Die Br&#228;utigamswitwe is a German-language version of the 1931 film Let's Love and Laugh."</data>
+      <data key="d2">3b27ede22e472082d2dfc7c5ab9a8a3d</data>
+    </node>
+    <node id="&quot;UNWELCOME WIFE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Unwelcome Wife is a play that the 1931 film Let's Love and Laugh is based on."</data>
+      <data key="d2">3b27ede22e472082d2dfc7c5ab9a8a3d</data>
+    </node>
+    <node id="&quot;LET'S LOVE AND LAUGH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3b27ede22e472082d2dfc7c5ab9a8a3d</data>
+    </node>
+    <node id="&quot;DER SPIEGEL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Der Spiegel is a publication that reports on European governments' financial dealings, including the use of swaps to disguise debt."</data>
+      <data key="d2">ced9be04285534c0b9cf368324a10faf</data>
+    </node>
+    <node id="&quot;EUROSTAT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Eurostat is responsible for statistics involving financial derivatives, but had ignored them at the time, allowing governments to circumvent Maastricht rules."</data>
+      <data key="d2">ced9be04285534c0b9cf368324a10faf</data>
+    </node>
+    <node id="&quot;GERMAN DERIVATIVES DEALER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"A German derivatives dealer commented on the use of swaps to circumvent Maastricht rules, indicating their involvement in these financial dealings."</data>
+      <data key="d2">ced9be04285534c0b9cf368324a10faf</data>
+    </node>
+    <node id="&quot;ITALY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Italy is a country that had used a similar trick to mask its true debt with the help of a different US bank."</data>
+      <data key="d2">ced9be04285534c0b9cf368324a10faf</data>
+    </node>
+    <node id="&quot;GREECE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Greece is a country that, along with many other European governments, was able to spend beyond its means while meeting EU deficit targets."</data>
+      <data key="d2">ced9be04285534c0b9cf368324a10faf</data>
+    </node>
+    <node id="&quot;EUROPEAN UNION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The European Union sets deficit targets for its member states, which were met by Greece and other countries through the use of swaps and circumvention of Maastricht rules."</data>
+      <data key="d2">ced9be04285534c0b9cf368324a10faf</data>
+    </node>
+    <node id="&quot;EUROPEAN GOVERNMENTS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ced9be04285534c0b9cf368324a10faf</data>
+    </node>
+    <node id="&quot;HILDESHEIM DIOCESAN FEUD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Hildesheim Diocesan Feud was a conflict that lasted from 1519-1523, culminating in the Battle of Soltau."</data>
+      <data key="d2">7080055190afee7e2fefe65912bae6ef</data>
+    </node>
+    <node id="&quot;SOLTAU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Soltau is a location where the Battle of Soltau took place on 28 June 1519."</data>
+      <data key="d2">7080055190afee7e2fefe65912bae6ef</data>
+    </node>
+    <node id="&quot;THE BATTLE OF SOLTAU&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7080055190afee7e2fefe65912bae6ef</data>
+    </node>
+    <node id="&quot;PANCHO VILLA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Pancho Villa was a major rebel leader who attacked Columbus, New Mexico, prompting a U.S. intervention in Mexico."</data>
+      <data key="d2">b7a350294f2c178dbedd9a5b5e888b22</data>
+    </node>
+    <node id="&quot;COLUMBUS, NEW MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Columbus, New Mexico is a location that was attacked by Pancho Villa, leading to U.S. intervention in Mexico."</data>
+      <data key="d2">b7a350294f2c178dbedd9a5b5e888b22</data>
+    </node>
+    <node id="&quot;BRITAIN, FRANCE, RUSSIA, ITALY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"These countries are allies of the United States in World War I."</data>
+      <data key="d2">b7a350294f2c178dbedd9a5b5e888b22</data>
+    </node>
+    <node id="&quot;U.S. ARMY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b7a350294f2c178dbedd9a5b5e888b22</data>
+    </node>
+    <node id="&quot;UNION ARMY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Union Army was a military organization that fought in the American Civil War."</data>
+      <data key="d2">3251633a21473a104c04073882a66c0a</data>
+    </node>
+    <node id="&quot;AMERICAN CIVIL WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The American Civil War was a significant event in which Albert Henry Woolson served as a member of the Union Army."</data>
+      <data key="d2">3251633a21473a104c04073882a66c0a</data>
+    </node>
+    <node id="&quot;JAMES HARD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"James Hard was a Union soldier who saw combat and survived until 1953."</data>
+      <data key="d2">3251633a21473a104c04073882a66c0a</data>
+    </node>
+    <node id="&quot;ALBERT HENRY WOOLSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3251633a21473a104c04073882a66c0a</data>
+    </node>
+    <node id="&quot;JOHN WILEY &amp; SONS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"John Wiley &amp; Sons is the publisher of The Quality Assurance Journal."</data>
+      <data key="d2">0891654239e1f185b013bd8f7eb78d8c</data>
+    </node>
+    <node id="&quot;DAVID LONG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"David Long was the founding editor-in-chief of The Quality Assurance Journal."</data>
+      <data key="d2">0891654239e1f185b013bd8f7eb78d8c</data>
+    </node>
+    <node id="&quot;RITA HATTEMER-APOSTEL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Rita Hattemer-Apostel was one of the last editors of The Quality Assurance Journal."</data>
+      <data key="d2">0891654239e1f185b013bd8f7eb78d8c</data>
+    </node>
+    <node id="&quot;ANTHONY B. JONES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Anthony B. Jones was one of the last editors of The Quality Assurance Journal."</data>
+      <data key="d2">0891654239e1f185b013bd8f7eb78d8c</data>
+    </node>
+    <node id="&quot;THE QUALITY ASSURANCE JOURNAL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0891654239e1f185b013bd8f7eb78d8c</data>
+    </node>
+    <node id="&quot;LEHRANSTALT F&#220;R DIE WISSENSCHAFT DES JUDENTUMS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Lehranstalt f&#252;r die Wissenschaft des Judentums was the official name of Hochschule f&#252;r die Wissenschaft des Judentums from 1883-1923 and 1933-1942."</data>
+      <data key="d2">5ef269748b292fbcbd46dbda07e2e4ac</data>
+    </node>
+    <node id="&quot;BERLIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Berlin is a location where Hochschule f&#252;r die Wissenschaft des Judentums was established in 1872."</data>
+      <data key="d2">5ef269748b292fbcbd46dbda07e2e4ac</data>
+    </node>
+    <node id="&quot;NAZI GOVERNMENT OF GERMANY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Nazi government of Germany closed down Hochschule f&#252;r die Wissenschaft des Judentums in 1942."</data>
+      <data key="d2">5ef269748b292fbcbd46dbda07e2e4ac</data>
+    </node>
+    <node id="&quot;HOCHSCHULE F&#220;R DIE WISSENSCHAFT DES JUDENTUMS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5ef269748b292fbcbd46dbda07e2e4ac</data>
+    </node>
+    <edge source="&quot;FRANCE&quot;" target="&quot;LAZARE PONTICELLI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lazare Ponticelli was from France and fought in the First World War as a French veteran."</data>
+      <data key="d5">32d7dd4ca2c1f703ef47135e6a2cd561</data>
+    </edge>
+    <edge source="&quot;FIRST WORLD WAR&quot;" target="&quot;LAZARE PONTICELLI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lazare Ponticelli participated in the First World War as a veteran."</data>
+      <data key="d5">32d7dd4ca2c1f703ef47135e6a2cd561</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."</data>
+      <data key="d5">072730cd614f51061af763609930acb8,0891654239e1f185b013bd8f7eb78d8c,3251633a21473a104c04073882a66c0a,32d7dd4ca2c1f703ef47135e6a2cd561,3b27ede22e472082d2dfc7c5ab9a8a3d,3c9d08c4ca772d961cee938c00acc181,576058b2da5089cb695f28f880cc044a,5848c6effad4b4353b22358a663c6c77,5ef269748b292fbcbd46dbda07e2e4ac,6b0d3b4386b3e9543ce4ba3c934953dc,6c7c15db8b07ce8aad4b6f3454a46948,7080055190afee7e2fefe65912bae6ef,756800b41d31b14f13ed8ab28c06736f,7a9844b13abbaf3e82730351b953565f,b7a350294f2c178dbedd9a5b5e888b22,caa08eb070385006c542599d0cb099f3,ced9be04285534c0b9cf368324a10faf,df39de4d2c08c713671e7a5f4ed1dce4,e6e155e2cae13e36dbe53e3a652490b9,f242eb433733f48e0936ef23b0c49337</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."</data>
+      <data key="d5">072730cd614f51061af763609930acb8,0891654239e1f185b013bd8f7eb78d8c,3251633a21473a104c04073882a66c0a,32d7dd4ca2c1f703ef47135e6a2cd561,3b27ede22e472082d2dfc7c5ab9a8a3d,3c9d08c4ca772d961cee938c00acc181,576058b2da5089cb695f28f880cc044a,5848c6effad4b4353b22358a663c6c77,5ef269748b292fbcbd46dbda07e2e4ac,6b0d3b4386b3e9543ce4ba3c934953dc,6c7c15db8b07ce8aad4b6f3454a46948,7080055190afee7e2fefe65912bae6ef,756800b41d31b14f13ed8ab28c06736f,7a9844b13abbaf3e82730351b953565f,b7a350294f2c178dbedd9a5b5e888b22,caa08eb070385006c542599d0cb099f3,ced9be04285534c0b9cf368324a10faf,df39de4d2c08c713671e7a5f4ed1dce4,e6e155e2cae13e36dbe53e3a652490b9,f242eb433733f48e0936ef23b0c49337</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."</data>
+      <data key="d5">072730cd614f51061af763609930acb8,0891654239e1f185b013bd8f7eb78d8c,3251633a21473a104c04073882a66c0a,32d7dd4ca2c1f703ef47135e6a2cd561,3b27ede22e472082d2dfc7c5ab9a8a3d,3c9d08c4ca772d961cee938c00acc181,576058b2da5089cb695f28f880cc044a,5848c6effad4b4353b22358a663c6c77,5ef269748b292fbcbd46dbda07e2e4ac,6b0d3b4386b3e9543ce4ba3c934953dc,6c7c15db8b07ce8aad4b6f3454a46948,7080055190afee7e2fefe65912bae6ef,756800b41d31b14f13ed8ab28c06736f,7a9844b13abbaf3e82730351b953565f,b7a350294f2c178dbedd9a5b5e888b22,caa08eb070385006c542599d0cb099f3,ced9be04285534c0b9cf368324a10faf,df39de4d2c08c713671e7a5f4ed1dce4,e6e155e2cae13e36dbe53e3a652490b9,f242eb433733f48e0936ef23b0c49337</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."</data>
+      <data key="d5">072730cd614f51061af763609930acb8,0891654239e1f185b013bd8f7eb78d8c,3251633a21473a104c04073882a66c0a,32d7dd4ca2c1f703ef47135e6a2cd561,3b27ede22e472082d2dfc7c5ab9a8a3d,3c9d08c4ca772d961cee938c00acc181,576058b2da5089cb695f28f880cc044a,5848c6effad4b4353b22358a663c6c77,5ef269748b292fbcbd46dbda07e2e4ac,6b0d3b4386b3e9543ce4ba3c934953dc,6c7c15db8b07ce8aad4b6f3454a46948,7080055190afee7e2fefe65912bae6ef,756800b41d31b14f13ed8ab28c06736f,7a9844b13abbaf3e82730351b953565f,b7a350294f2c178dbedd9a5b5e888b22,caa08eb070385006c542599d0cb099f3,ced9be04285534c0b9cf368324a10faf,df39de4d2c08c713671e7a5f4ed1dce4,e6e155e2cae13e36dbe53e3a652490b9,f242eb433733f48e0936ef23b0c49337</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."</data>
+      <data key="d5">072730cd614f51061af763609930acb8,0891654239e1f185b013bd8f7eb78d8c,3251633a21473a104c04073882a66c0a,32d7dd4ca2c1f703ef47135e6a2cd561,3b27ede22e472082d2dfc7c5ab9a8a3d,3c9d08c4ca772d961cee938c00acc181,576058b2da5089cb695f28f880cc044a,5848c6effad4b4353b22358a663c6c77,5ef269748b292fbcbd46dbda07e2e4ac,6b0d3b4386b3e9543ce4ba3c934953dc,6c7c15db8b07ce8aad4b6f3454a46948,7080055190afee7e2fefe65912bae6ef,756800b41d31b14f13ed8ab28c06736f,7a9844b13abbaf3e82730351b953565f,b7a350294f2c178dbedd9a5b5e888b22,caa08eb070385006c542599d0cb099f3,ced9be04285534c0b9cf368324a10faf,df39de4d2c08c713671e7a5f4ed1dce4,e6e155e2cae13e36dbe53e3a652490b9,f242eb433733f48e0936ef23b0c49337</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."</data>
+      <data key="d5">072730cd614f51061af763609930acb8,0891654239e1f185b013bd8f7eb78d8c,3251633a21473a104c04073882a66c0a,32d7dd4ca2c1f703ef47135e6a2cd561,3b27ede22e472082d2dfc7c5ab9a8a3d,3c9d08c4ca772d961cee938c00acc181,576058b2da5089cb695f28f880cc044a,5848c6effad4b4353b22358a663c6c77,5ef269748b292fbcbd46dbda07e2e4ac,6b0d3b4386b3e9543ce4ba3c934953dc,6c7c15db8b07ce8aad4b6f3454a46948,7080055190afee7e2fefe65912bae6ef,756800b41d31b14f13ed8ab28c06736f,7a9844b13abbaf3e82730351b953565f,b7a350294f2c178dbedd9a5b5e888b22,caa08eb070385006c542599d0cb099f3,ced9be04285534c0b9cf368324a10faf,df39de4d2c08c713671e7a5f4ed1dce4,e6e155e2cae13e36dbe53e3a652490b9,f242eb433733f48e0936ef23b0c49337</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;GOVERNMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The US government also finances and regulates healthcare, but to a lesser extent than Canada, with 46% of spending financed by the government."</data>
+      <data key="d5">576058b2da5089cb695f28f880cc044a</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;PUBLIC POLICY ANALYSTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Public policy analysts examine and evaluate the US healthcare system, comparing it to Canada's system."</data>
+      <data key="d5">576058b2da5089cb695f28f880cc044a</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;WORLD WAR I&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The United States joined World War I and fought alongside its allies."</data>
+      <data key="d5">b7a350294f2c178dbedd9a5b5e888b22</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">072730cd614f51061af763609930acb8,0891654239e1f185b013bd8f7eb78d8c,3251633a21473a104c04073882a66c0a,32d7dd4ca2c1f703ef47135e6a2cd561,3b27ede22e472082d2dfc7c5ab9a8a3d,3c9d08c4ca772d961cee938c00acc181,576058b2da5089cb695f28f880cc044a,5848c6effad4b4353b22358a663c6c77,5ef269748b292fbcbd46dbda07e2e4ac,6b0d3b4386b3e9543ce4ba3c934953dc,6c7c15db8b07ce8aad4b6f3454a46948,7080055190afee7e2fefe65912bae6ef,756800b41d31b14f13ed8ab28c06736f,7a9844b13abbaf3e82730351b953565f,b7a350294f2c178dbedd9a5b5e888b22,caa08eb070385006c542599d0cb099f3,ced9be04285534c0b9cf368324a10faf,df39de4d2c08c713671e7a5f4ed1dce4,e6e155e2cae13e36dbe53e3a652490b9,f242eb433733f48e0936ef23b0c49337</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."</data>
+      <data key="d5">072730cd614f51061af763609930acb8,0891654239e1f185b013bd8f7eb78d8c,3251633a21473a104c04073882a66c0a,32d7dd4ca2c1f703ef47135e6a2cd561,3b27ede22e472082d2dfc7c5ab9a8a3d,3c9d08c4ca772d961cee938c00acc181,576058b2da5089cb695f28f880cc044a,5848c6effad4b4353b22358a663c6c77,5ef269748b292fbcbd46dbda07e2e4ac,6b0d3b4386b3e9543ce4ba3c934953dc,6c7c15db8b07ce8aad4b6f3454a46948,7080055190afee7e2fefe65912bae6ef,756800b41d31b14f13ed8ab28c06736f,7a9844b13abbaf3e82730351b953565f,b7a350294f2c178dbedd9a5b5e888b22,caa08eb070385006c542599d0cb099f3,ced9be04285534c0b9cf368324a10faf,df39de4d2c08c713671e7a5f4ed1dce4,e6e155e2cae13e36dbe53e3a652490b9,f242eb433733f48e0936ef23b0c49337</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">072730cd614f51061af763609930acb8,0891654239e1f185b013bd8f7eb78d8c,3251633a21473a104c04073882a66c0a,32d7dd4ca2c1f703ef47135e6a2cd561,3b27ede22e472082d2dfc7c5ab9a8a3d,3c9d08c4ca772d961cee938c00acc181,576058b2da5089cb695f28f880cc044a,5848c6effad4b4353b22358a663c6c77,5ef269748b292fbcbd46dbda07e2e4ac,6b0d3b4386b3e9543ce4ba3c934953dc,6c7c15db8b07ce8aad4b6f3454a46948,7080055190afee7e2fefe65912bae6ef,756800b41d31b14f13ed8ab28c06736f,7a9844b13abbaf3e82730351b953565f,b7a350294f2c178dbedd9a5b5e888b22,caa08eb070385006c542599d0cb099f3,ced9be04285534c0b9cf368324a10faf,df39de4d2c08c713671e7a5f4ed1dce4,e6e155e2cae13e36dbe53e3a652490b9,f242eb433733f48e0936ef23b0c49337</data>
+    </edge>
+    <edge source="&quot;MEXICO&quot;" target="&quot;U.S. ARMY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The U.S. Army intervened in Mexico to ensure safety and fought against rebels and federal troops."</data>
+      <data key="d5">b7a350294f2c178dbedd9a5b5e888b22</data>
+    </edge>
+    <edge source="&quot;PIERCE BROSNAN&quot;" target="&quot;JAMES BOND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Pierce Brosnan plays the role of James Bond in Die Another Day."</data>
+      <data key="d5">756800b41d31b14f13ed8ab28c06736f</data>
+    </edge>
+    <edge source="&quot;JAMES BOND&quot;" target="&quot;EON PRODUCTIONS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Eon Productions produces films featuring James Bond as the main character."</data>
+      <data key="d5">756800b41d31b14f13ed8ab28c06736f</data>
+    </edge>
+    <edge source="&quot;JAMES BOND&quot;" target="&quot;MI6&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"James Bond is an agent employed by MI6."</data>
+      <data key="d5">756800b41d31b14f13ed8ab28c06736f</data>
+    </edge>
+    <edge source="&quot;JAMES BOND&quot;" target="&quot;NORTH KOREA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"James Bond leads a mission to North Korea and is later captured and imprisoned there."</data>
+      <data key="d5">756800b41d31b14f13ed8ab28c06736f</data>
+    </edge>
+    <edge source="&quot;RICHARD DENNING&quot;" target="&quot;STEVE WARD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Richard Denning plays the role of Steve Ward in the film 'The Oklahoma Woman'."&gt;</data>
+      <data key="d5">3c9d08c4ca772d961cee938c00acc181</data>
+    </edge>
+    <edge source="&quot;PEGGIE CASTLE&quot;" target="&quot;MARIE 'OKLAHOMA' SAUNDERS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Peggie Castle plays the role of Marie 'Oklahoma' Saunders in the film 'The Oklahoma Woman'."&gt;</data>
+      <data key="d5">3c9d08c4ca772d961cee938c00acc181</data>
+    </edge>
+    <edge source="&quot;THE OKLAHOMA WOMAN&quot;" target="&quot;ROGER CORMAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Roger Corman is the director of the film 'The Oklahoma Woman'."&gt;</data>
+      <data key="d5">3c9d08c4ca772d961cee938c00acc181</data>
+    </edge>
+    <edge source="&quot;CONGRESSIONAL BUDGET OFFICE&quot;" target="&quot;UNITED STATES FEDERAL GOVERNMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Congressional Budget Office provides analysis to inform the United States federal government's policy decisions on the federal budget."</data>
+      <data key="d5">caa08eb070385006c542599d0cb099f3</data>
+    </edge>
+    <edge source="&quot;U.S.&quot;" target="&quot;HEALTHCARE PROGRAMS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The U.S. is facing growing healthcare costs, which are a significant challenge for the country's long-term financial stability."</data>
+      <data key="d5">caa08eb070385006c542599d0cb099f3</data>
+    </edge>
+    <edge source="&quot;UNITED STATES FEDERAL GOVERNMENT&quot;" target="&quot;ULYSSES S. GRANT&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Ulysses S. Grant was the President of the United States federal government during the Compromise of 1877."
+"Ulysses S. Grant was the outgoing President of the United States federal government during the Compromise of 1877."</data>
+      <data key="d5">7a9844b13abbaf3e82730351b953565f,e6e155e2cae13e36dbe53e3a652490b9</data>
+    </edge>
+    <edge source="&quot;HOWARD UNIVERSITY&quot;" target="&quot;FREEDMEN'S HOSPITAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Howard University took over Freedmen's Hospital in Washington, DC in the late nineteenth century."</data>
+      <data key="d5">df39de4d2c08c713671e7a5f4ed1dce4</data>
+    </edge>
+    <edge source="&quot;WASHINGTON, DC&quot;" target="&quot;FREEDMEN'S BUREAU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Freedmen's Bureau established hospitals in Washington, DC, including Freedmen's Hospital."</data>
+      <data key="d5">df39de4d2c08c713671e7a5f4ed1dce4</data>
+    </edge>
+    <edge source="&quot;CIVIL WAR&quot;" target="&quot;FREEDMEN'S BUREAU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Civil War led to the establishment of the Freedmen's Bureau."</data>
+      <data key="d5">df39de4d2c08c713671e7a5f4ed1dce4</data>
+    </edge>
+    <edge source="&quot;CHRISTMAS TRUCE OF 1914&quot;" target="&quot;BERTIE FELSTEAD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bertie Felstead was believed to be the last surviving soldier to have taken part in the Christmas truce of 1914."</data>
+      <data key="d5">f242eb433733f48e0936ef23b0c49337</data>
+    </edge>
+    <edge source="&quot;WORLD WAR I&quot;" target="&quot;BERTIE FELSTEAD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bertie Felstead was a veteran of World War I."</data>
+      <data key="d5">f242eb433733f48e0936ef23b0c49337</data>
+    </edge>
+    <edge source="&quot;WORLD WAR I&quot;" target="&quot;U.S. ARMY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The U.S. Army was involved in the last offensives of World War I."</data>
+      <data key="d5">b7a350294f2c178dbedd9a5b5e888b22</data>
+    </edge>
+    <edge source="&quot;SAMUEL J. TILDEN&quot;" target="&quot;COMPROMISE OF 1877&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Samuel J. Tilden lost the presidential election due to the Compromise of 1877."
+"Samuel J. Tilden lost the presidential election due to the Compromise of 1877."</data>
+      <data key="d5">7a9844b13abbaf3e82730351b953565f,e6e155e2cae13e36dbe53e3a652490b9</data>
+    </edge>
+    <edge source="&quot;COMPROMISE OF 1877&quot;" target="&quot;RUTHERFORD B. HAYES&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Rutherford B. Hayes became President through the Compromise of 1877."
+"Rutherford B. Hayes became President through the Compromise of 1877."</data>
+      <data key="d5">7a9844b13abbaf3e82730351b953565f,e6e155e2cae13e36dbe53e3a652490b9</data>
+    </edge>
+    <edge source="&quot;HOUSE OF REPRESENTATIVES&quot;" target="&quot;ELECTORAL COMMISSION&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"The House of Representatives allowed the decision of the Electoral Commission to take effect as part of the Compromise of 1877."
+"The House of Representatives allowed the decision of the Electoral Commission to take effect as part of the Compromise of 1877."</data>
+      <data key="d5">7a9844b13abbaf3e82730351b953565f,e6e155e2cae13e36dbe53e3a652490b9</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF GHENT&quot;" target="&quot;THE PERSON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The person obtained a degree in Occupational Healthcare at the University of Ghent."</data>
+      <data key="d5">072730cd614f51061af763609930acb8</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF GHENT&quot;" target="&quot;GHENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The University of Ghent is located in Ghent."</data>
+      <data key="d5">072730cd614f51061af763609930acb8</data>
+    </edge>
+    <edge source="&quot;LEUVEN&quot;" target="&quot;CATHOLIC UNIVERSITY OF LEUVEN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Catholic University of Leuven is located in Leuven."</data>
+      <data key="d5">072730cd614f51061af763609930acb8</data>
+    </edge>
+    <edge source="&quot;THE PERSON&quot;" target="&quot;CATHOLIC UNIVERSITY OF LEUVEN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The person graduated in Family Medicine at the Catholic University of Leuven."</data>
+      <data key="d5">072730cd614f51061af763609930acb8</data>
+    </edge>
+    <edge source="&quot;GOVERNMENT&quot;" target="&quot;CANADA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Canadian government plays a significant role in financing and regulating healthcare in Canada, with 70% of spending financed by the government."</data>
+      <data key="d5">576058b2da5089cb695f28f880cc044a</data>
+    </edge>
+    <edge source="&quot;GOVERNMENT&quot;" target="&quot;ELI LILLY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Eli Lilly has settled government cases for hundreds of millions of dollars, including a record-breaking fine for illegal marketing of Zyprexa."</data>
+      <data key="d5">5848c6effad4b4353b22358a663c6c77</data>
+    </edge>
+    <edge source="&quot;GOVERNMENT&quot;" target="&quot;PFIZER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Pfizer has settled government cases for hundreds of millions of dollars, including a $301 million settlement for illegally marketing Geodon."</data>
+      <data key="d5">5848c6effad4b4353b22358a663c6c77</data>
+    </edge>
+    <edge source="&quot;GOVERNMENT&quot;" target="&quot;ASTRAZENECA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"AstraZeneca has settled government cases for hundreds of millions of dollars, indicating a history of legal issues."</data>
+      <data key="d5">5848c6effad4b4353b22358a663c6c77</data>
+    </edge>
+    <edge source="&quot;GOVERNMENT&quot;" target="&quot;JOHNSON &amp; JOHNSON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Johnson &amp; Johnson has settled government cases for hundreds of millions of dollars, indicating a history of legal issues."</data>
+      <data key="d5">5848c6effad4b4353b22358a663c6c77</data>
+    </edge>
+    <edge source="&quot;GOVERNMENT&quot;" target="&quot;BRISTOL-MYERS SQUIBB&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bristol-Myers Squibb has settled government cases for hundreds of millions of dollars, indicating a history of legal issues."</data>
+      <data key="d5">5848c6effad4b4353b22358a663c6c77</data>
+    </edge>
+    <edge source="&quot;PUBLIC HEALTH ANALYSTS&quot;" target="&quot;CANADA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Public health analysts compare and analyze the Canadian healthcare system, highlighting its differences with the United States."</data>
+      <data key="d5">576058b2da5089cb695f28f880cc044a</data>
+    </edge>
+    <edge source="&quot;GERMANY&quot;" target="&quot;FEDERAL JOINT COMMITTEE (GEMEINSAMER BUNDESAUSSCHUSS)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Federal Joint Committee regulates the healthcare system in Germany."</data>
+      <data key="d5">6c7c15db8b07ce8aad4b6f3454a46948</data>
+    </edge>
+    <edge source="&quot;GERMANY&quot;" target="&quot;NAZI GOVERNMENT OF GERMANY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Nazi government of Germany was located in Germany."</data>
+      <data key="d5">5ef269748b292fbcbd46dbda07e2e4ac</data>
+    </edge>
+    <edge source="&quot;CAT ROYAL SERIES&quot;" target="&quot;JULIA GOLDING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Julia Golding is the author of the Cat Royal series."</data>
+      <data key="d5">6b0d3b4386b3e9543ce4ba3c934953dc</data>
+    </edge>
+    <edge source="&quot;CAT ROYAL SERIES&quot;" target="&quot;BLACK HEART OF JAMAICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Black Heart of Jamaica is a book in the Cat Royal series."</data>
+      <data key="d5">6b0d3b4386b3e9543ce4ba3c934953dc</data>
+    </edge>
+    <edge source="&quot;PEDRO&quot;" target="&quot;CAT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cat and Pedro are characters who get involved together in a slave revolt."</data>
+      <data key="d5">6b0d3b4386b3e9543ce4ba3c934953dc</data>
+    </edge>
+    <edge source="&quot;RICHARD EICHBERG&quot;" target="&quot;LET'S LOVE AND LAUGH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Richard Eichberg directed the 1931 film Let's Love and Laugh."</data>
+      <data key="d5">3b27ede22e472082d2dfc7c5ab9a8a3d</data>
+    </edge>
+    <edge source="&quot;GENE GERRARD&quot;" target="&quot;LET'S LOVE AND LAUGH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gene Gerrard starred in the 1931 film Let's Love and Laugh."</data>
+      <data key="d5">3b27ede22e472082d2dfc7c5ab9a8a3d</data>
+    </edge>
+    <edge source="&quot;MURIEL ANGELUS&quot;" target="&quot;LET'S LOVE AND LAUGH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Muriel Angelus starred in the 1931 film Let's Love and Laugh."</data>
+      <data key="d5">3b27ede22e472082d2dfc7c5ab9a8a3d</data>
+    </edge>
+    <edge source="&quot;DENNIS WYNDHAM&quot;" target="&quot;LET'S LOVE AND LAUGH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dennis Wyndham starred in the 1931 film Let's Love and Laugh."</data>
+      <data key="d5">3b27ede22e472082d2dfc7c5ab9a8a3d</data>
+    </edge>
+    <edge source="&quot;DIE BR&#196;UTIGAMSWITWE&quot;" target="&quot;LET'S LOVE AND LAUGH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Die Br&#228;utigamswitwe is a German-language version of the 1931 film Let's Love and Laugh."</data>
+      <data key="d5">3b27ede22e472082d2dfc7c5ab9a8a3d</data>
+    </edge>
+    <edge source="&quot;UNWELCOME WIFE&quot;" target="&quot;LET'S LOVE AND LAUGH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 1931 film Let's Love and Laugh is based on the play Unwelcome Wife."</data>
+      <data key="d5">3b27ede22e472082d2dfc7c5ab9a8a3d</data>
+    </edge>
+    <edge source="&quot;DER SPIEGEL&quot;" target="&quot;EUROPEAN GOVERNMENTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Der Spiegel reports on European governments' financial dealings, including their use of swaps to disguise debt."</data>
+      <data key="d5">ced9be04285534c0b9cf368324a10faf</data>
+    </edge>
+    <edge source="&quot;EUROSTAT&quot;" target="&quot;GERMAN DERIVATIVES DEALER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The German derivatives dealer commented on Eurostat's ignorance of statistics involving financial derivatives, which allowed governments to circumvent Maastricht rules."</data>
+      <data key="d5">ced9be04285534c0b9cf368324a10faf</data>
+    </edge>
+    <edge source="&quot;ITALY&quot;" target="&quot;EUROPEAN UNION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Italy is a member state of the European Union and was able to meet EU deficit targets through the use of swaps."</data>
+      <data key="d5">ced9be04285534c0b9cf368324a10faf</data>
+    </edge>
+    <edge source="&quot;GREECE&quot;" target="&quot;EUROPEAN UNION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Greece is a member state of the European Union and was able to meet EU deficit targets through the use of swaps."</data>
+      <data key="d5">ced9be04285534c0b9cf368324a10faf</data>
+    </edge>
+    <edge source="&quot;HILDESHEIM DIOCESAN FEUD&quot;" target="&quot;THE BATTLE OF SOLTAU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Battle of Soltau was part of the Hildesheim Diocesan Feud, being its military climax."</data>
+      <data key="d5">7080055190afee7e2fefe65912bae6ef</data>
+    </edge>
+    <edge source="&quot;SOLTAU&quot;" target="&quot;THE BATTLE OF SOLTAU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Battle of Soltau took place in Soltau on 28 June 1519."</data>
+      <data key="d5">7080055190afee7e2fefe65912bae6ef</data>
+    </edge>
+    <edge source="&quot;PANCHO VILLA&quot;" target="&quot;COLUMBUS, NEW MEXICO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Pancho Villa attacked Columbus, New Mexico, prompting a U.S. intervention in Mexico."</data>
+      <data key="d5">b7a350294f2c178dbedd9a5b5e888b22</data>
+    </edge>
+    <edge source="&quot;UNION ARMY&quot;" target="&quot;ALBERT HENRY WOOLSON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Albert Henry Woolson was a member of the Union Army."</data>
+      <data key="d5">3251633a21473a104c04073882a66c0a</data>
+    </edge>
+    <edge source="&quot;UNION ARMY&quot;" target="&quot;JAMES HARD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"James Hard was a Union soldier who saw combat and survived until 1953."</data>
+      <data key="d5">3251633a21473a104c04073882a66c0a</data>
+    </edge>
+    <edge source="&quot;AMERICAN CIVIL WAR&quot;" target="&quot;ALBERT HENRY WOOLSON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Albert Henry Woolson served in the American Civil War as a member of the Union Army."</data>
+      <data key="d5">3251633a21473a104c04073882a66c0a</data>
+    </edge>
+    <edge source="&quot;JOHN WILEY &amp; SONS&quot;" target="&quot;THE QUALITY ASSURANCE JOURNAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Quality Assurance Journal is published by John Wiley &amp; Sons."</data>
+      <data key="d5">0891654239e1f185b013bd8f7eb78d8c</data>
+    </edge>
+    <edge source="&quot;DAVID LONG&quot;" target="&quot;THE QUALITY ASSURANCE JOURNAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"David Long was the founding editor-in-chief of The Quality Assurance Journal."</data>
+      <data key="d5">0891654239e1f185b013bd8f7eb78d8c</data>
+    </edge>
+    <edge source="&quot;RITA HATTEMER-APOSTEL&quot;" target="&quot;THE QUALITY ASSURANCE JOURNAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Rita Hattemer-Apostel was one of the last editors of The Quality Assurance Journal."</data>
+      <data key="d5">0891654239e1f185b013bd8f7eb78d8c</data>
+    </edge>
+    <edge source="&quot;ANTHONY B. JONES&quot;" target="&quot;THE QUALITY ASSURANCE JOURNAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Anthony B. Jones was one of the last editors of The Quality Assurance Journal."</data>
+      <data key="d5">0891654239e1f185b013bd8f7eb78d8c</data>
+    </edge>
+    <edge source="&quot;BERLIN&quot;" target="&quot;HOCHSCHULE F&#220;R DIE WISSENSCHAFT DES JUDENTUMS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hochschule f&#252;r die Wissenschaft des Judentums was established in Berlin."</data>
+      <data key="d5">5ef269748b292fbcbd46dbda07e2e4ac</data>
+    </edge>
+    <edge source="&quot;NAZI GOVERNMENT OF GERMANY&quot;" target="&quot;HOCHSCHULE F&#220;R DIE WISSENSCHAFT DES JUDENTUMS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Nazi government of Germany closed down Hochschule f&#252;r die Wissenschaft des Judentums."</data>
+      <data key="d5">5ef269748b292fbcbd46dbda07e2e4ac</data>
+    </edge>
+  </graph>
+</graphml>

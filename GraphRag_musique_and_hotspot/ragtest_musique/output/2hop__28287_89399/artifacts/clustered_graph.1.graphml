@@ -1,0 +1,1626 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="id" attr.type="string" />
+  <key id="d6" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d5" for="node" attr.name="degree" attr.type="long" />
+  <key id="d4" for="node" attr.name="level" attr.type="long" />
+  <key id="d3" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;SPONGEBOB SQUAREPANTS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+SpongeBob SquarePants is an animated television series featuring a character of the same name, played by Tom Kenny. The show has been on the air since its debut and has included Mary Jo Catlett in the role of Mrs. Puff throughout its run. Behind the scenes, Derek Drymon has worked on the production of the series, while Douglas Lawrence Osowski has contributed as a writer and actor. The show also stars William Mark Fagerbakke as Patrick Star and features Lori Alan as Pearl Krabs. Additionally, The SpongeBob Movie: Sponge Out of Water is based on this animated television series.</data>
+      <data key="d2">049fcb04c0c0b6322f10987acfa10905,0818ab28e930fdea29acf19f11528885,326e43d9819f5e3536496837caaf47b7,3be2db3d1d26945838c4eea89a800f2a,43fd4f5bb8c88be6a79af5669649a5f7,66ceacf1bf5799d125883c700b00a2d3,74d5b1d14fdeaca43b827abb719587ab,79b30dc9dbc2ddb35fadeb459294ecde,91867159021b12c5d016d9ea1bed9079,97e1ad68799139e71267c32f91e3ef76,b0c73e45e7bb9335b9ac7d0d21c1a077,b1145329e68be13b1d65d7f5f01ed00c,b96b75e33b52109d5fc4dc6cf76cf26f,bb59af8ba8050021c0a2103c4a660627</data>
+      <data key="d3">6</data>
+      <data key="d4">1</data>
+      <data key="d5">25</data>
+      <data key="d6">0</data>
+      <data key="d7">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;COACH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Coach is a sitcom where William Mark Fagerbakke played the role of Michael ``Dauber ''Dybinski."</data>
+      <data key="d2">b1145329e68be13b1d65d7f5f01ed00c</data>
+      <data key="d3">7</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">1</data>
+      <data key="d7">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;HOW I MET YOUR MOTHER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"How I Met Your Mother is a sitcom where William Mark Fagerbakke appeared in 12 episodes as Marshall Eriksen's father Marvin."</data>
+      <data key="d2">b1145329e68be13b1d65d7f5f01ed00c</data>
+      <data key="d3">7</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">2</data>
+      <data key="d7">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;WILLIAM MARK FAGERBAKKE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b1145329e68be13b1d65d7f5f01ed00c</data>
+      <data key="d3">7</data>
+      <data key="d4">1</data>
+      <data key="d5">3</data>
+      <data key="d6">3</data>
+      <data key="d7">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">049fcb04c0c0b6322f10987acfa10905,0818ab28e930fdea29acf19f11528885,326e43d9819f5e3536496837caaf47b7,3be2db3d1d26945838c4eea89a800f2a,43fd4f5bb8c88be6a79af5669649a5f7,46ffa9d322e6a513aa720859a88b05ed,508af81a6565d5c38e5a55f3c6a6ff9e,66ceacf1bf5799d125883c700b00a2d3,74d5b1d14fdeaca43b827abb719587ab,79b30dc9dbc2ddb35fadeb459294ecde,91867159021b12c5d016d9ea1bed9079,939a955ef9fe54f943eed04d15a4b241,97e1ad68799139e71267c32f91e3ef76,b0c73e45e7bb9335b9ac7d0d21c1a077,b1145329e68be13b1d65d7f5f01ed00c,b96b75e33b52109d5fc4dc6cf76cf26f,bb59af8ba8050021c0a2103c4a660627,c020228fd3f38cb2bf1930a31321c9dd,d76f26fae24480ef38197fa50bf5ad2f,e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d5">2</data>
+      <data key="d6">4</data>
+      <data key="d7">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">049fcb04c0c0b6322f10987acfa10905,0818ab28e930fdea29acf19f11528885,326e43d9819f5e3536496837caaf47b7,3be2db3d1d26945838c4eea89a800f2a,43fd4f5bb8c88be6a79af5669649a5f7,46ffa9d322e6a513aa720859a88b05ed,508af81a6565d5c38e5a55f3c6a6ff9e,66ceacf1bf5799d125883c700b00a2d3,74d5b1d14fdeaca43b827abb719587ab,79b30dc9dbc2ddb35fadeb459294ecde,91867159021b12c5d016d9ea1bed9079,939a955ef9fe54f943eed04d15a4b241,97e1ad68799139e71267c32f91e3ef76,b0c73e45e7bb9335b9ac7d0d21c1a077,b1145329e68be13b1d65d7f5f01ed00c,b96b75e33b52109d5fc4dc6cf76cf26f,bb59af8ba8050021c0a2103c4a660627,c020228fd3f38cb2bf1930a31321c9dd,d76f26fae24480ef38197fa50bf5ad2f,e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d5">1</data>
+      <data key="d6">5</data>
+      <data key="d7">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">049fcb04c0c0b6322f10987acfa10905,0818ab28e930fdea29acf19f11528885,326e43d9819f5e3536496837caaf47b7,3be2db3d1d26945838c4eea89a800f2a,43fd4f5bb8c88be6a79af5669649a5f7,46ffa9d322e6a513aa720859a88b05ed,508af81a6565d5c38e5a55f3c6a6ff9e,66ceacf1bf5799d125883c700b00a2d3,74d5b1d14fdeaca43b827abb719587ab,79b30dc9dbc2ddb35fadeb459294ecde,91867159021b12c5d016d9ea1bed9079,939a955ef9fe54f943eed04d15a4b241,97e1ad68799139e71267c32f91e3ef76,b0c73e45e7bb9335b9ac7d0d21c1a077,b1145329e68be13b1d65d7f5f01ed00c,b96b75e33b52109d5fc4dc6cf76cf26f,bb59af8ba8050021c0a2103c4a660627,c020228fd3f38cb2bf1930a31321c9dd,d76f26fae24480ef38197fa50bf5ad2f,e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d5">4</data>
+      <data key="d6">6</data>
+      <data key="d7">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">049fcb04c0c0b6322f10987acfa10905,0818ab28e930fdea29acf19f11528885,326e43d9819f5e3536496837caaf47b7,3be2db3d1d26945838c4eea89a800f2a,43fd4f5bb8c88be6a79af5669649a5f7,46ffa9d322e6a513aa720859a88b05ed,508af81a6565d5c38e5a55f3c6a6ff9e,66ceacf1bf5799d125883c700b00a2d3,74d5b1d14fdeaca43b827abb719587ab,79b30dc9dbc2ddb35fadeb459294ecde,91867159021b12c5d016d9ea1bed9079,939a955ef9fe54f943eed04d15a4b241,97e1ad68799139e71267c32f91e3ef76,b0c73e45e7bb9335b9ac7d0d21c1a077,b1145329e68be13b1d65d7f5f01ed00c,b96b75e33b52109d5fc4dc6cf76cf26f,bb59af8ba8050021c0a2103c4a660627,c020228fd3f38cb2bf1930a31321c9dd,d76f26fae24480ef38197fa50bf5ad2f,e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d5">1</data>
+      <data key="d6">7</data>
+      <data key="d7">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country where Tucson, Pima County, and Arizona are located. It is also the country where Nickelodeon aired SpongeBob SquarePants, including its seventh season.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">049fcb04c0c0b6322f10987acfa10905,0818ab28e930fdea29acf19f11528885,326e43d9819f5e3536496837caaf47b7,3be2db3d1d26945838c4eea89a800f2a,43fd4f5bb8c88be6a79af5669649a5f7,46ffa9d322e6a513aa720859a88b05ed,508af81a6565d5c38e5a55f3c6a6ff9e,66ceacf1bf5799d125883c700b00a2d3,74d5b1d14fdeaca43b827abb719587ab,79b30dc9dbc2ddb35fadeb459294ecde,91867159021b12c5d016d9ea1bed9079,939a955ef9fe54f943eed04d15a4b241,97e1ad68799139e71267c32f91e3ef76,b0c73e45e7bb9335b9ac7d0d21c1a077,b1145329e68be13b1d65d7f5f01ed00c,b96b75e33b52109d5fc4dc6cf76cf26f,bb59af8ba8050021c0a2103c4a660627,c020228fd3f38cb2bf1930a31321c9dd,d76f26fae24480ef38197fa50bf5ad2f,e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d5">2</data>
+      <data key="d6">8</data>
+      <data key="d7">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">049fcb04c0c0b6322f10987acfa10905,0818ab28e930fdea29acf19f11528885,326e43d9819f5e3536496837caaf47b7,3be2db3d1d26945838c4eea89a800f2a,43fd4f5bb8c88be6a79af5669649a5f7,46ffa9d322e6a513aa720859a88b05ed,508af81a6565d5c38e5a55f3c6a6ff9e,66ceacf1bf5799d125883c700b00a2d3,74d5b1d14fdeaca43b827abb719587ab,79b30dc9dbc2ddb35fadeb459294ecde,91867159021b12c5d016d9ea1bed9079,939a955ef9fe54f943eed04d15a4b241,97e1ad68799139e71267c32f91e3ef76,b0c73e45e7bb9335b9ac7d0d21c1a077,b1145329e68be13b1d65d7f5f01ed00c,b96b75e33b52109d5fc4dc6cf76cf26f,bb59af8ba8050021c0a2103c4a660627,c020228fd3f38cb2bf1930a31321c9dd,d76f26fae24480ef38197fa50bf5ad2f,e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d5">2</data>
+      <data key="d6">9</data>
+      <data key="d7">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">049fcb04c0c0b6322f10987acfa10905,0818ab28e930fdea29acf19f11528885,326e43d9819f5e3536496837caaf47b7,3be2db3d1d26945838c4eea89a800f2a,43fd4f5bb8c88be6a79af5669649a5f7,46ffa9d322e6a513aa720859a88b05ed,508af81a6565d5c38e5a55f3c6a6ff9e,66ceacf1bf5799d125883c700b00a2d3,74d5b1d14fdeaca43b827abb719587ab,79b30dc9dbc2ddb35fadeb459294ecde,91867159021b12c5d016d9ea1bed9079,939a955ef9fe54f943eed04d15a4b241,97e1ad68799139e71267c32f91e3ef76,b0c73e45e7bb9335b9ac7d0d21c1a077,b1145329e68be13b1d65d7f5f01ed00c,b96b75e33b52109d5fc4dc6cf76cf26f,bb59af8ba8050021c0a2103c4a660627,c020228fd3f38cb2bf1930a31321c9dd,d76f26fae24480ef38197fa50bf5ad2f,e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d5">1</data>
+      <data key="d6">10</data>
+      <data key="d7">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">049fcb04c0c0b6322f10987acfa10905,0818ab28e930fdea29acf19f11528885,326e43d9819f5e3536496837caaf47b7,3be2db3d1d26945838c4eea89a800f2a,43fd4f5bb8c88be6a79af5669649a5f7,46ffa9d322e6a513aa720859a88b05ed,508af81a6565d5c38e5a55f3c6a6ff9e,66ceacf1bf5799d125883c700b00a2d3,74d5b1d14fdeaca43b827abb719587ab,79b30dc9dbc2ddb35fadeb459294ecde,91867159021b12c5d016d9ea1bed9079,939a955ef9fe54f943eed04d15a4b241,97e1ad68799139e71267c32f91e3ef76,b0c73e45e7bb9335b9ac7d0d21c1a077,b1145329e68be13b1d65d7f5f01ed00c,b96b75e33b52109d5fc4dc6cf76cf26f,bb59af8ba8050021c0a2103c4a660627,c020228fd3f38cb2bf1930a31321c9dd,d76f26fae24480ef38197fa50bf5ad2f,e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d5">1</data>
+      <data key="d6">11</data>
+      <data key="d7">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">049fcb04c0c0b6322f10987acfa10905,0818ab28e930fdea29acf19f11528885,326e43d9819f5e3536496837caaf47b7,3be2db3d1d26945838c4eea89a800f2a,43fd4f5bb8c88be6a79af5669649a5f7,46ffa9d322e6a513aa720859a88b05ed,508af81a6565d5c38e5a55f3c6a6ff9e,66ceacf1bf5799d125883c700b00a2d3,74d5b1d14fdeaca43b827abb719587ab,79b30dc9dbc2ddb35fadeb459294ecde,91867159021b12c5d016d9ea1bed9079,939a955ef9fe54f943eed04d15a4b241,97e1ad68799139e71267c32f91e3ef76,b0c73e45e7bb9335b9ac7d0d21c1a077,b1145329e68be13b1d65d7f5f01ed00c,b96b75e33b52109d5fc4dc6cf76cf26f,bb59af8ba8050021c0a2103c4a660627,c020228fd3f38cb2bf1930a31321c9dd,d76f26fae24480ef38197fa50bf5ad2f,e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d5">0</data>
+      <data key="d6">12</data>
+      <data key="d7">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">049fcb04c0c0b6322f10987acfa10905,0818ab28e930fdea29acf19f11528885,326e43d9819f5e3536496837caaf47b7,3be2db3d1d26945838c4eea89a800f2a,43fd4f5bb8c88be6a79af5669649a5f7,46ffa9d322e6a513aa720859a88b05ed,508af81a6565d5c38e5a55f3c6a6ff9e,66ceacf1bf5799d125883c700b00a2d3,74d5b1d14fdeaca43b827abb719587ab,79b30dc9dbc2ddb35fadeb459294ecde,91867159021b12c5d016d9ea1bed9079,939a955ef9fe54f943eed04d15a4b241,97e1ad68799139e71267c32f91e3ef76,b0c73e45e7bb9335b9ac7d0d21c1a077,b1145329e68be13b1d65d7f5f01ed00c,b96b75e33b52109d5fc4dc6cf76cf26f,bb59af8ba8050021c0a2103c4a660627,c020228fd3f38cb2bf1930a31321c9dd,d76f26fae24480ef38197fa50bf5ad2f,e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d5">5</data>
+      <data key="d6">13</data>
+      <data key="d7">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;CLANCY BROWN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Clancy Brown is a voice actor who has played various roles, including Mr. Krabs and Sir Pinch-a-Lot, as well as other miscellaneous characters, in the animated television series SpongeBob SquarePants.</data>
+      <data key="d2">43fd4f5bb8c88be6a79af5669649a5f7,66ceacf1bf5799d125883c700b00a2d3,79b30dc9dbc2ddb35fadeb459294ecde,b0c73e45e7bb9335b9ac7d0d21c1a077</data>
+      <data key="d3">9</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">14</data>
+      <data key="d7">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;RODGER BUMPASS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Rodger Bumpass is a voice actor, best known for playing the roles of Squidward Tentacles and Sour Note, as well as other miscellaneous characters, in the popular animated television series SpongeBob SquarePants.</data>
+      <data key="d2">43fd4f5bb8c88be6a79af5669649a5f7,66ceacf1bf5799d125883c700b00a2d3,79b30dc9dbc2ddb35fadeb459294ecde,b0c73e45e7bb9335b9ac7d0d21c1a077</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">15</data>
+      <data key="d7">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;BILL FAGERBAKKE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Bill Fagerbakke is a voice actor, best known for providing the voices of Patrick Star and Mr. Superawesomeness, as well as other miscellaneous characters, in the popular animated television show SpongeBob SquarePants.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">43fd4f5bb8c88be6a79af5669649a5f7,66ceacf1bf5799d125883c700b00a2d3,79b30dc9dbc2ddb35fadeb459294ecde,b0c73e45e7bb9335b9ac7d0d21c1a077</data>
+      <data key="d3">6</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">16</data>
+      <data key="d7">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;MR. LAWRENCE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Mr. Lawrence is a voice actor, best known for his roles as Plankton and Plank-Ton in the popular animated television series SpongeBob SquarePants. In addition to these notable characters, he has also played various miscellaneous roles throughout the show. As one of the talented voice actors in the SpongeBob SquarePants franchise, Mr. Lawrence has made significant contributions to the program's success.</data>
+      <data key="d2">43fd4f5bb8c88be6a79af5669649a5f7,66ceacf1bf5799d125883c700b00a2d3,79b30dc9dbc2ddb35fadeb459294ecde,b0c73e45e7bb9335b9ac7d0d21c1a077</data>
+      <data key="d3">6</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">17</data>
+      <data key="d7">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;JILL TALLEY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Jill Talley is a voice actress and actress who has played various roles, including Karen, Plankton's sentient computer sidekick and wife, as well as other miscellaneous characters in the animated television series SpongeBob SquarePants. She is one of the voice actors in the show, providing her vocal talents to bring these characters to life.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">43fd4f5bb8c88be6a79af5669649a5f7,66ceacf1bf5799d125883c700b00a2d3,79b30dc9dbc2ddb35fadeb459294ecde,b0c73e45e7bb9335b9ac7d0d21c1a077</data>
+      <data key="d3">6</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">18</data>
+      <data key="d7">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;CAROLYN LAWRENCE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Carolyn Lawrence is a voice actress who has played various roles, including Sandy Cheeks and The Rodent, as well as other miscellaneous characters, in the popular animated television show SpongeBob SquarePants.</data>
+      <data key="d2">43fd4f5bb8c88be6a79af5669649a5f7,66ceacf1bf5799d125883c700b00a2d3,79b30dc9dbc2ddb35fadeb459294ecde,b0c73e45e7bb9335b9ac7d0d21c1a077</data>
+      <data key="d3">6</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">19</data>
+      <data key="d7">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;MARY JO CATLETT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Mary Jo Catlett is a talented actress and voice actor, best known for her role as Mrs. Puff, SpongeBob's boating school teacher, in the popular animated television series SpongeBob SquarePants. In addition to voicing Mrs. Puff, she has also provided voices for other miscellaneous characters in the show.</data>
+      <data key="d2">3be2db3d1d26945838c4eea89a800f2a,43fd4f5bb8c88be6a79af5669649a5f7,66ceacf1bf5799d125883c700b00a2d3,79b30dc9dbc2ddb35fadeb459294ecde,b0c73e45e7bb9335b9ac7d0d21c1a077</data>
+      <data key="d3">10</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">20</data>
+      <data key="d7">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;LORI ALAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Lori Alan is a voice actress and actress who has played various roles, including Pearl Krabs, Mr. Krabs' daughter, as well as other miscellaneous characters in the animated television series SpongeBob SquarePants. She is one of the notable voice actors in the show.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">0818ab28e930fdea29acf19f11528885,43fd4f5bb8c88be6a79af5669649a5f7,66ceacf1bf5799d125883c700b00a2d3,79b30dc9dbc2ddb35fadeb459294ecde,b0c73e45e7bb9335b9ac7d0d21c1a077</data>
+      <data key="d5">6</data>
+      <data key="d6">21</data>
+      <data key="d7">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;ANTONIO BANDERAS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Antonio Banderas is an actor and voice actor who played the role of Burger Beard, a pirate who stole the Krabby Patty formula, in The SpongeBob Movie: Sponge Out of Water.</data>
+      <data key="d2">66ceacf1bf5799d125883c700b00a2d3,91867159021b12c5d016d9ea1bed9079,b0c73e45e7bb9335b9ac7d0d21c1a077</data>
+      <data key="d3">8</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">22</data>
+      <data key="d7">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;MATT BERRY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Matt Berry is a voice actor who provided the voice of Bubbles, a time-traveling dolphin.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">66ceacf1bf5799d125883c700b00a2d3,b0c73e45e7bb9335b9ac7d0d21c1a077</data>
+      <data key="d5">0</data>
+      <data key="d6">23</data>
+      <data key="d7">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;RIKI LINDHOME&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Riki Lindhome is a voice actress who has played the role of Popsicles, providing one of the character's voices.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">66ceacf1bf5799d125883c700b00a2d3,b0c73e45e7bb9335b9ac7d0d21c1a077</data>
+      <data key="d5">0</data>
+      <data key="d6">24</data>
+      <data key="d7">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;KATE MICUCCI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Kate Micucci is a voice actress who has played the role of Popsicles.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">66ceacf1bf5799d125883c700b00a2d3,b0c73e45e7bb9335b9ac7d0d21c1a077</data>
+      <data key="d5">0</data>
+      <data key="d6">25</data>
+      <data key="d7">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;DEE BRADLEY BAKER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Dee Bradley Baker is a voice actor who provides voices for various characters, including Perch Perkins and other fish characters.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">66ceacf1bf5799d125883c700b00a2d3,b0c73e45e7bb9335b9ac7d0d21c1a077</data>
+      <data key="d5">0</data>
+      <data key="d6">26</data>
+      <data key="d7">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;NOLAN NORTH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Nolan North is a voice actor who played the role of Pigeon Cabbie.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">66ceacf1bf5799d125883c700b00a2d3,b0c73e45e7bb9335b9ac7d0d21c1a077</data>
+      <data key="d5">0</data>
+      <data key="d6">27</data>
+      <data key="d7">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;PAUL TIBBITT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Paul Tibbitt is a multifaceted creative professional who has made significant contributions to the popular animated television series SpongeBob SquarePants. He serves as a storyboard director and writer for the show. Additionally, Tibbitt is a voice actor, providing the voice of Kyle the Seagull in the US version of the series. Notably, he made his directorial debut with The SpongeBob Movie: Sponge Out of Water.</data>
+      <data key="d2">66ceacf1bf5799d125883c700b00a2d3,91867159021b12c5d016d9ea1bed9079,b0c73e45e7bb9335b9ac7d0d21c1a077,b96b75e33b52109d5fc4dc6cf76cf26f</data>
+      <data key="d3">8</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">28</data>
+      <data key="d7">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;JOE SUGG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Joe Sugg is a voice actor who played the role of Kyle the Seagull in the UK version.
+
+Note: The two descriptions provided are identical and do not contain any contradictions, so I simply concatenated them into a single sentence. Let me know if you have any further requests!</data>
+      <data key="d2">66ceacf1bf5799d125883c700b00a2d3,b0c73e45e7bb9335b9ac7d0d21c1a077</data>
+      <data key="d5">0</data>
+      <data key="d6">29</data>
+      <data key="d7">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;ROBERT IRWIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Robert Irwin is a voice actor who provided the voice of Kyle the Seagull in the Australian version.</data>
+      <data key="d2">66ceacf1bf5799d125883c700b00a2d3,b0c73e45e7bb9335b9ac7d0d21c1a077</data>
+      <data key="d5">0</data>
+      <data key="d6">30</data>
+      <data key="d7">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;PETER SHUKOFF&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Peter Shukoff is a voice actor who played the role of Painty the Pirate.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">66ceacf1bf5799d125883c700b00a2d3,b0c73e45e7bb9335b9ac7d0d21c1a077</data>
+      <data key="d5">0</data>
+      <data key="d6">31</data>
+      <data key="d7">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&quot;TOM KENNY&quot;">
+      <data key="d0" />
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Tom Kenny is one of the voice actors in SpongeBob SquarePants, specifically providing the voice for the titular character, SpongeBob. He has been involved in notable events related to the franchise, including attending the premiere of The SpongeBob SquarePants Movie, where he was reminded of home due to the yellow carpet.</data>
+      <data key="d2">43fd4f5bb8c88be6a79af5669649a5f7,66ceacf1bf5799d125883c700b00a2d3,b0c73e45e7bb9335b9ac7d0d21c1a077,c020228fd3f38cb2bf1930a31321c9dd</data>
+      <data key="d3">6</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">32</data>
+      <data key="d7">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&quot;MR. KRABS&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Mr. Krabs is a character played by Clancy Brown.</data>
+      <data key="d2">66ceacf1bf5799d125883c700b00a2d3,79b30dc9dbc2ddb35fadeb459294ecde,b0c73e45e7bb9335b9ac7d0d21c1a077</data>
+      <data key="d3">9</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">33</data>
+      <data key="d7">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&quot;SQUIDWARD TENTACLES&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Squidward Tentacles is a character played by Rodger Bumpass.</data>
+      <data key="d2">66ceacf1bf5799d125883c700b00a2d3,79b30dc9dbc2ddb35fadeb459294ecde</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">34</data>
+      <data key="d7">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&quot;DIFF'RENT STROKES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Diff'rent Strokes is a television sitcom where Mary Jo Catlett played the role of housekeeper Pearl Gallagher."</data>
+      <data key="d2">3be2db3d1d26945838c4eea89a800f2a</data>
+      <data key="d3">10</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">35</data>
+      <data key="d7">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&quot;VINCENT WALLER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Vincent Waller is an individual who confirmed the twelfth season of SpongeBob SquarePants."</data>
+      <data key="d2">74d5b1d14fdeaca43b827abb719587ab</data>
+      <data key="d3">6</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">36</data>
+      <data key="d7">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&quot;ROCKO'S MODERN LIFE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Rocko's Modern Life is an animated cartoon production and series that has been worked on by several individuals, including Derek Drymon and Douglas Lawrence Osowski. Specifically, Osowski was involved as both a writer and actor on the show.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">326e43d9819f5e3536496837caaf47b7,97e1ad68799139e71267c32f91e3ef76</data>
+      <data key="d3">5</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">37</data>
+      <data key="d7">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&quot;ADVENTURE TIME&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Adventure Time is an animated cartoon production that Derek Drymon has worked on."</data>
+      <data key="d2">97e1ad68799139e71267c32f91e3ef76</data>
+      <data key="d3">5</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">38</data>
+      <data key="d7">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&quot;DEREK DRYMON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">97e1ad68799139e71267c32f91e3ef76</data>
+      <data key="d3">5</data>
+      <data key="d4">1</data>
+      <data key="d5">3</data>
+      <data key="d6">39</data>
+      <data key="d7">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <node id="&quot;STEPHEN HILLENBURG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Stephen Hillenburg is a marine biologist and animator who is best known as the creator of SpongeBob SquarePants. Prior to his career in animation, he worked as a marine biologist.</data>
+      <data key="d2">049fcb04c0c0b6322f10987acfa10905,43fd4f5bb8c88be6a79af5669649a5f7</data>
+      <data key="d3">6</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">40</data>
+      <data key="d7">3ce7c210a21b4deebad7cc9308148d86</data>
+    </node>
+    <node id="&quot;BIKINI BOTTOM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bikini Bottom is a fictional underwater city where the series takes place."</data>
+      <data key="d2">049fcb04c0c0b6322f10987acfa10905,43fd4f5bb8c88be6a79af5669649a5f7</data>
+      <data key="d3">6</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">41</data>
+      <data key="d7">d64ed762ea924caa95c8d06f072a9a96</data>
+    </node>
+    <node id="&quot;ERNEST BORGNINE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ernest Borgnine is a guest star who voiced Mermaid Man, a superhero character."</data>
+      <data key="d2">43fd4f5bb8c88be6a79af5669649a5f7</data>
+      <data key="d3">6</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">42</data>
+      <data key="d7">adf4ee3fbe9b4d0381044838c4f889c8</data>
+    </node>
+    <node id="&quot;TIM CONWAY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Tim Conway is a guest star who voiced Barnacle Boy, a superhero character."</data>
+      <data key="d2">43fd4f5bb8c88be6a79af5669649a5f7</data>
+      <data key="d3">6</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">43</data>
+      <data key="d7">32ee140946e5461f9275db664dc541a5</data>
+    </node>
+    <node id="&quot;DAVID BOWIE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"David Bowie was a guest star in the television film Atlantis SquarePantis."</data>
+      <data key="d2">bb59af8ba8050021c0a2103c4a660627</data>
+      <data key="d5">1</data>
+      <data key="d6">44</data>
+      <data key="d7">c160b9cb27d6408ba6ab20214a2f3f81</data>
+    </node>
+    <node id="&quot;NICKELODEON&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Nickelodeon is a television network that aired SpongeBob SquarePants in the United States, including its seventh season. Additionally, Nickelodeon celebrated the show's tenth anniversary by airing special episodes.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">049fcb04c0c0b6322f10987acfa10905,b96b75e33b52109d5fc4dc6cf76cf26f,bb59af8ba8050021c0a2103c4a660627</data>
+      <data key="d3">6</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">45</data>
+      <data key="d7">23527cd679ff4d5a988d52e7cd056078</data>
+    </node>
+    <node id="&quot;ATLANTIS SQUAREPANTIS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Atlantis SquarePantis is a television film that debuted as part of the fifth season of SpongeBob SquarePants."</data>
+      <data key="d2">bb59af8ba8050021c0a2103c4a660627</data>
+      <data key="d5">1</data>
+      <data key="d6">46</data>
+      <data key="d7">f1c6eed066f24cbdb376b910fce29ed4</data>
+    </node>
+    <node id="&quot;THE SPONGEBOB MOVIE: SPONGE OUT OF WATER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The SpongeBob Movie: Sponge Out of Water is a stand-alone sequel to The SpongeBob SquarePants Movie, released in 2015.</data>
+      <data key="d2">91867159021b12c5d016d9ea1bed9079,bb59af8ba8050021c0a2103c4a660627</data>
+      <data key="d3">8</data>
+      <data key="d4">1</data>
+      <data key="d5">5</data>
+      <data key="d6">47</data>
+      <data key="d7">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+    </node>
+    <node id="&quot;JOSEPH KAPEAU AE`A&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Joseph Kapeau Ae`a is the writer of the song 'Ke Ala Tuberose', later known as 'Hilo March'."</data>
+      <data key="d2">508af81a6565d5c38e5a55f3c6a6ff9e</data>
+      <data key="d5">1</data>
+      <data key="d6">48</data>
+      <data key="d7">147c038aef3e4422acbbc5f7938c4ab8</data>
+    </node>
+    <node id="&quot;THE HAWAIIAN SERENADERS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Hawaiian Serenaders composed 'Hilo March' for the soundtrack of 'SpongeBob SquarePants'."</data>
+      <data key="d2">508af81a6565d5c38e5a55f3c6a6ff9e</data>
+      <data key="d5">1</data>
+      <data key="d6">49</data>
+      <data key="d7">b7702b90c7f24190b864e8c6e64612a5</data>
+    </node>
+    <node id="&quot;KAPONO BEAMER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kapono Beamer composed 'Old Hilo March' for the soundtrack of 'SpongeBob SquarePants'."</data>
+      <data key="d2">508af81a6565d5c38e5a55f3c6a6ff9e</data>
+      <data key="d5">1</data>
+      <data key="d6">50</data>
+      <data key="d7">de6fa24480894518ab3cbcb66f739266</data>
+    </node>
+    <node id="&quot;HAWAII&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hawaii is the origin of the song 'Hilo March', which is a well-known Hawaiian song."</data>
+      <data key="d2">508af81a6565d5c38e5a55f3c6a6ff9e</data>
+      <data key="d5">1</data>
+      <data key="d6">51</data>
+      <data key="d7">6fae5ee1a831468aa585a1ea09095998</data>
+    </node>
+    <node id="&quot;HILO MARCH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">508af81a6565d5c38e5a55f3c6a6ff9e</data>
+      <data key="d5">3</data>
+      <data key="d6">52</data>
+      <data key="d7">ef32c4b208d041cc856f6837915dc1b0</data>
+    </node>
+    <node id="&quot;OLD HILO MARCH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">508af81a6565d5c38e5a55f3c6a6ff9e</data>
+      <data key="d5">1</data>
+      <data key="d6">53</data>
+      <data key="d7">07b2425216bd4f0aa4e079827cb48ef5</data>
+    </node>
+    <node id="&quot;HIGHLANDER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Highlander is a fantasy film released in 1986, featuring Clarence J. ``Clancy ''Brown III as the Kurgan."</data>
+      <data key="d2">939a955ef9fe54f943eed04d15a4b241</data>
+      <data key="d5">1</data>
+      <data key="d6">54</data>
+      <data key="d7">2670deebfa3f4d69bb82c28ab250a209</data>
+    </node>
+    <node id="&quot;THE SHAWSHANK REDEMPTION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Shawshank Redemption is a prison drama film released in 1994, featuring Clarence J. ``Clancy ''Brown III as Captain Byron Hadley."</data>
+      <data key="d2">939a955ef9fe54f943eed04d15a4b241</data>
+      <data key="d5">1</data>
+      <data key="d6">55</data>
+      <data key="d7">404309e89a5241d6bff42c05a45df206</data>
+    </node>
+    <node id="&quot;CARNIV&#192;LE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Carniv&#224;le is a television series that aired from 2003 to 2005, featuring Clarence J. ``Clancy ''Brown III as Brother Justin Crowe."</data>
+      <data key="d2">939a955ef9fe54f943eed04d15a4b241</data>
+      <data key="d5">1</data>
+      <data key="d6">56</data>
+      <data key="d7">b785a9025069417f94950ad231bb1441</data>
+    </node>
+    <node id="&quot;CLARENCE J. ``CLANCY ''BROWN III&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">939a955ef9fe54f943eed04d15a4b241</data>
+      <data key="d5">3</data>
+      <data key="d6">57</data>
+      <data key="d7">3b6cd96a27304614850709aba1c9598b</data>
+    </node>
+    <node id="&quot;PEARL KRABS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Pearl Krabs is a character played by Lori Alan on the animated television series SpongeBob SquarePants."</data>
+      <data key="d2">0818ab28e930fdea29acf19f11528885</data>
+      <data key="d5">1</data>
+      <data key="d6">58</data>
+      <data key="d7">d54956b79dd147f894b67a8b97dcbef0</data>
+    </node>
+    <node id="&quot;DIANE SIMMONS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Diane Simmons is a character voiced by Lori Alan on Family Guy."</data>
+      <data key="d2">0818ab28e930fdea29acf19f11528885</data>
+      <data key="d5">1</data>
+      <data key="d6">59</data>
+      <data key="d7">958beecdb5bb4060948415ffd75d2b03</data>
+    </node>
+    <node id="&quot;THE INVISIBLE WOMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Invisible Woman is a character voiced by Lori Alan on The Fantastic Four."</data>
+      <data key="d2">0818ab28e930fdea29acf19f11528885</data>
+      <data key="d5">1</data>
+      <data key="d6">60</data>
+      <data key="d7">b999ed77e19e4f85b7f1ae79af5c002a</data>
+    </node>
+    <node id="&quot;THE BOSS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Boss is a character voiced by Lori Alan in the Metal Gear video game series."</data>
+      <data key="d2">0818ab28e930fdea29acf19f11528885</data>
+      <data key="d5">1</data>
+      <data key="d6">61</data>
+      <data key="d7">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+    </node>
+    <node id="&quot;FAMILY GUY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Family Guy is a television series that features Lori Alan as the voice of Diane Simmons."</data>
+      <data key="d2">0818ab28e930fdea29acf19f11528885</data>
+      <data key="d5">0</data>
+      <data key="d6">62</data>
+      <data key="d7">4f3c97517f794ebfb49c4c6315f9cf23</data>
+    </node>
+    <node id="&quot;THE FANTASTIC FOUR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Fantastic Four is a franchise that features Lori Alan as the voice of The Invisible Woman."</data>
+      <data key="d2">0818ab28e930fdea29acf19f11528885</data>
+      <data key="d5">0</data>
+      <data key="d6">63</data>
+      <data key="d7">1745a2485a9443bab76587ad650e9be0</data>
+    </node>
+    <node id="&quot;METAL GEAR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Metal Gear is a video game series that features Lori Alan as the voice of The Boss."</data>
+      <data key="d2">0818ab28e930fdea29acf19f11528885</data>
+      <data key="d5">0</data>
+      <data key="d6">64</data>
+      <data key="d7">32e6ccab20d94029811127dbbe424c64</data>
+    </node>
+    <node id="&quot;LOS ANGELES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Los Angeles is the current residence of Lori Alan."</data>
+      <data key="d2">0818ab28e930fdea29acf19f11528885</data>
+      <data key="d5">1</data>
+      <data key="d6">65</data>
+      <data key="d7">94a964c6992945ebb3833dfdfdc8d655</data>
+    </node>
+    <node id="&quot;NEW ZEALAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New Zealand is one of the geographic locations where members of the genus Nannochorista occur."</data>
+      <data key="d2">d76f26fae24480ef38197fa50bf5ad2f</data>
+      <data key="d5">1</data>
+      <data key="d6">66</data>
+      <data key="d7">1eb829d0ace042089f0746f78729696c</data>
+    </node>
+    <node id="&quot;SOUTHEASTERN AUSTRALIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Southeastern Australia is another region where species of Nannochoristidae can be found."</data>
+      <data key="d2">d76f26fae24480ef38197fa50bf5ad2f</data>
+      <data key="d5">1</data>
+      <data key="d6">67</data>
+      <data key="d7">015e7b58d1a14b44beab3bbc9f912c18</data>
+    </node>
+    <node id="&quot;TASMANIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Tasmania is an island where members of the genus Nannochorista are present."</data>
+      <data key="d2">d76f26fae24480ef38197fa50bf5ad2f</data>
+      <data key="d5">1</data>
+      <data key="d6">68</data>
+      <data key="d7">26f88ab3e2e04c33a459ad6270ade565</data>
+    </node>
+    <node id="&quot;CHILE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Chile is a country in South America where species of Nannochoristidae occur."</data>
+      <data key="d2">d76f26fae24480ef38197fa50bf5ad2f</data>
+      <data key="d5">1</data>
+      <data key="d6">69</data>
+      <data key="d7">babe97e1d9784cffa1c85abc1e588126</data>
+    </node>
+    <node id="&quot;NANNOCHORISTIDAE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d76f26fae24480ef38197fa50bf5ad2f</data>
+      <data key="d5">4</data>
+      <data key="d6">70</data>
+      <data key="d7">1033a18c45aa4584b2aef6ab96890351</data>
+    </node>
+    <node id="&quot;KAZ&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kaz is a storyboard director and writer for SpongeBob SquarePants."</data>
+      <data key="d2">b96b75e33b52109d5fc4dc6cf76cf26f</data>
+      <data key="d3">6</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">71</data>
+      <data key="d7">c9b8ce91fc2945b4907fe35519339cac</data>
+    </node>
+    <node id="&quot;KENT OSBORNE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kent Osborne is a writer for SpongeBob SquarePants."</data>
+      <data key="d2">b96b75e33b52109d5fc4dc6cf76cf26f</data>
+      <data key="d3">6</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">72</data>
+      <data key="d7">fa3c4204421c48609e52c8de2da4c654</data>
+    </node>
+    <node id="&quot;MERRIWETHER WILLIAMS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Merriwether Williams is a writer for SpongeBob SquarePants."</data>
+      <data key="d2">b96b75e33b52109d5fc4dc6cf76cf26f</data>
+      <data key="d3">6</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">73</data>
+      <data key="d7">53af055f068244d0ac861b2e89376495</data>
+    </node>
+    <node id="&quot;ANDREW OVERTOOM&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Andrew Overtoom is an animation director for SpongeBob SquarePants."</data>
+      <data key="d2">b96b75e33b52109d5fc4dc6cf76cf26f</data>
+      <data key="d3">6</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">74</data>
+      <data key="d7">c03ab3ce8cb74ad2a03b94723bfab3c7</data>
+    </node>
+    <node id="&quot;CHOCOLATE WITH NUTS &quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"'Chocolate with Nuts 'is an episode of SpongeBob SquarePants, specifically the 12th episode in the third season and the 52nd overall episode."</data>
+      <data key="d2">b96b75e33b52109d5fc4dc6cf76cf26f</data>
+      <data key="d5">0</data>
+      <data key="d6">75</data>
+      <data key="d7">ed6d2eee9d7b4f5db466b1f6404d31cc</data>
+    </node>
+    <node id="&quot;BURGER BEARD THE PIRATE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b0c73e45e7bb9335b9ac7d0d21c1a077</data>
+      <data key="d3">8</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">76</data>
+      <data key="d7">fc01e9baa80e417c9206f941bb279407</data>
+    </node>
+    <node id="&quot;GARY THE SNAIL&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Gary the Snail is a character in the show."</data>
+      <data key="d2">79b30dc9dbc2ddb35fadeb459294ecde</data>
+      <data key="d5">0</data>
+      <data key="d6">77</data>
+      <data key="d7">56d0e5ebe79e4814bd1463cf6ca21394</data>
+    </node>
+    <node id="&quot;FRENCH NARRATOR&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"French Narrator is a character played by Tom Kenny."</data>
+      <data key="d2">79b30dc9dbc2ddb35fadeb459294ecde</data>
+      <data key="d5">0</data>
+      <data key="d6">78</data>
+      <data key="d7">7c49f2710e8b4d3b8dc9310834406ea5</data>
+    </node>
+    <node id="&quot;HANS PATCHY THE PIRATE&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Patchy the Pirate is a character played by Tom Kenny."</data>
+      <data key="d2">79b30dc9dbc2ddb35fadeb459294ecde</data>
+      <data key="d5">0</data>
+      <data key="d6">79</data>
+      <data key="d7">c6d1e4f56c2843e89cf0b91c10bb6de2</data>
+    </node>
+    <node id="&quot;HAROLD SQUAREPANTS&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Harold SquarePants is a character in the show, likely a relative of SpongeBob."</data>
+      <data key="d2">79b30dc9dbc2ddb35fadeb459294ecde</data>
+      <data key="d5">0</data>
+      <data key="d6">80</data>
+      <data key="d7">0adb2d9941f34ef7b2f7743cc6225844</data>
+    </node>
+    <node id="&quot;DIRTY BUBBLE&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Dirty Bubble is a character in the show."</data>
+      <data key="d2">79b30dc9dbc2ddb35fadeb459294ecde</data>
+      <data key="d5">0</data>
+      <data key="d6">81</data>
+      <data key="d7">6b02373137fd438ba96af28f735cdbdb</data>
+    </node>
+    <node id="&quot;GRANDPA SQUAREPANTS&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Grandpa SquarePants is a character in the show, likely a relative of SpongeBob."</data>
+      <data key="d2">79b30dc9dbc2ddb35fadeb459294ecde</data>
+      <data key="d5">0</data>
+      <data key="d6">82</data>
+      <data key="d7">36a4fcd8efc144e6b8af9a1c7ab8b2ce</data>
+    </node>
+    <node id="&quot;PATRICK STAR&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Patrick Star is a character played by Bill Fagerbakke."</data>
+      <data key="d2">79b30dc9dbc2ddb35fadeb459294ecde</data>
+      <data key="d5">0</data>
+      <data key="d6">83</data>
+      <data key="d7">fbeef791d19b413a9c93c6608286ab63</data>
+    </node>
+    <node id="&quot;PLANKTON&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Plankton is a character played by Mr. Lawrence."</data>
+      <data key="d2">79b30dc9dbc2ddb35fadeb459294ecde</data>
+      <data key="d5">0</data>
+      <data key="d6">84</data>
+      <data key="d7">d2b629c0396f4180a03e16ddf3818589</data>
+    </node>
+    <node id="&quot;KAREN&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Karen is a character played by Jill Talley."</data>
+      <data key="d2">79b30dc9dbc2ddb35fadeb459294ecde</data>
+      <data key="d5">0</data>
+      <data key="d6">85</data>
+      <data key="d7">6102fc6619ed422ebc42588bfa97355d</data>
+    </node>
+    <node id="&quot;SANDY CHEEKS&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Sandy Cheeks is a character played by Carolyn Lawrence."</data>
+      <data key="d2">79b30dc9dbc2ddb35fadeb459294ecde</data>
+      <data key="d5">0</data>
+      <data key="d6">86</data>
+      <data key="d7">8d141c0b80f74b79a05eed7fe161fe49</data>
+    </node>
+    <node id="&quot;MRS. PUFF&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Mrs. Puff is a character played by Mary Jo Catlett."</data>
+      <data key="d2">79b30dc9dbc2ddb35fadeb459294ecde</data>
+      <data key="d5">0</data>
+      <data key="d6">87</data>
+      <data key="d7">e22d1d1cd8d14f12b81828d940f40d70</data>
+    </node>
+    <node id="&quot;PEARL&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Pearl is a character played by Lori Alan."</data>
+      <data key="d2">79b30dc9dbc2ddb35fadeb459294ecde</data>
+      <data key="d5">0</data>
+      <data key="d6">88</data>
+      <data key="d7">9ab48505fb1b487babd0d1f6d3a3f980</data>
+    </node>
+    <node id="&quot;DOUGLAS LAWRENCE OSOWSKI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">326e43d9819f5e3536496837caaf47b7</data>
+      <data key="d3">5</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">89</data>
+      <data key="d7">148fffeb994541b2b4b6dcefda7001a8</data>
+    </node>
+    <node id="&quot;RAY ROMANO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ray Romano is a celebrity who attended the premiere of The SpongeBob SquarePants Movie with his children."</data>
+      <data key="d2">c020228fd3f38cb2bf1930a31321c9dd</data>
+      <data key="d5">1</data>
+      <data key="d6">90</data>
+      <data key="d7">89c08e793298442686292454a1abff31</data>
+    </node>
+    <node id="&quot;LARRY KING&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Larry King is a celebrity who attended the premiere of The SpongeBob SquarePants Movie with his children."</data>
+      <data key="d2">c020228fd3f38cb2bf1930a31321c9dd</data>
+      <data key="d5">1</data>
+      <data key="d6">91</data>
+      <data key="d7">0467928aa65e4a4fba62bdb1467e3a54</data>
+    </node>
+    <node id="&quot;ICE CUBE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ice Cube is a celebrity who attended the premiere of The SpongeBob SquarePants Movie with his children."</data>
+      <data key="d2">c020228fd3f38cb2bf1930a31321c9dd</data>
+      <data key="d5">1</data>
+      <data key="d6">92</data>
+      <data key="d7">43c3390303c6476cb65f584e37c3e81c</data>
+    </node>
+    <node id="&quot;GARY DOURDAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gary Dourdan is an actor from CSI: Crime Scene Investigation who attended the premiere of The SpongeBob SquarePants Movie with his children."</data>
+      <data key="d2">c020228fd3f38cb2bf1930a31321c9dd</data>
+      <data key="d5">1</data>
+      <data key="d6">93</data>
+      <data key="d7">fa14b16c17e3417dba5a4b473ea5b18d</data>
+    </node>
+    <node id="&quot;LISA KUDROW&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lisa Kudrow is an actress from Friends who attended the premiere of The SpongeBob SquarePants Movie with her children."</data>
+      <data key="d2">c020228fd3f38cb2bf1930a31321c9dd</data>
+      <data key="d5">1</data>
+      <data key="d6">94</data>
+      <data key="d7">7cc3356d38de4328a51a5cbcb187dac3</data>
+    </node>
+    <node id="&quot;GRAUMAN'S CHINESE THEATRE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Grauman's Chinese Theatre is a location in Hollywood where the world premiere of The SpongeBob SquarePants Movie took place on November 14, 2004."</data>
+      <data key="d2">c020228fd3f38cb2bf1930a31321c9dd</data>
+      <data key="d5">0</data>
+      <data key="d6">95</data>
+      <data key="d7">bef16fb5fd7344cca5e295b13ef3e0cd</data>
+    </node>
+    <node id="&quot;THE SPONGEBOB SQUAREPANTS MOVIE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c020228fd3f38cb2bf1930a31321c9dd</data>
+      <data key="d5">6</data>
+      <data key="d6">96</data>
+      <data key="d7">bb9e01bc171d4326a29afda59ece8d17</data>
+    </node>
+    <node id="&quot;INSECT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Insects are a group of organisms that undergo holometabolism, a process of complete metamorphosis."</data>
+      <data key="d2">e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d5">1</data>
+      <data key="d6">97</data>
+      <data key="d7">3c063eea52e94164b70c99431ea30bae</data>
+    </node>
+    <node id="&quot;EGG&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The egg is the first stage of an insect's life cycle, hatching to produce a larva."</data>
+      <data key="d2">e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d5">1</data>
+      <data key="d6">98</data>
+      <data key="d7">252cc8452bfc4c2aa58cab68d8b61879</data>
+    </node>
+    <node id="&quot;LARVA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The larva is the second stage of an insect's life cycle, characterized by growth and development."</data>
+      <data key="d2">e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d5">2</data>
+      <data key="d6">99</data>
+      <data key="d7">7e2c84548fb94ee395ba8588d8f2a006</data>
+    </node>
+    <node id="&quot;PUPA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The pupa is the third stage of an insect's life cycle, marked by reduced movement and transformation into an adult."</data>
+      <data key="d2">e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d5">1</data>
+      <data key="d6">100</data>
+      <data key="d7">f034618dde7948beb6dab30176d0fc87</data>
+    </node>
+    <node id="&quot;ADULT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The adult or imago is the final stage of an insect's life cycle, emerging from the pupal stage."</data>
+      <data key="d2">e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d5">0</data>
+      <data key="d6">101</data>
+      <data key="d7">5c41f96be13e49dba649454297834546</data>
+    </node>
+    <node id="&quot;HOLOMETABOLISM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d5">1</data>
+      <data key="d6">102</data>
+      <data key="d7">7ea4afbf8a264f29af29950ce98105ba</data>
+    </node>
+    <node id="&quot;MIKE MITCHELL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mike Mitchell directed the live-action sequences in The SpongeBob Movie: Sponge Out of Water."</data>
+      <data key="d2">91867159021b12c5d016d9ea1bed9079</data>
+      <data key="d3">8</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">103</data>
+      <data key="d7">91ff849d12b24574b0691dbddf44968b</data>
+    </node>
+    <node id="&quot;BURGER BEARD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Burger Beard is a pirate who steals the Krabby Patty secret formula using a magical book."</data>
+      <data key="d2">91867159021b12c5d016d9ea1bed9079</data>
+      <data key="d3">6</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">104</data>
+      <data key="d7">d73c1f2fb3094d8dace42ad2a76e9a52</data>
+    </node>
+    <node id="&quot;PARAMOUNT ANIMATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Paramount Animation produced The SpongeBob Movie: Sponge Out of Water, its first film."</data>
+      <data key="d2">91867159021b12c5d016d9ea1bed9079</data>
+      <data key="d3">8</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">105</data>
+      <data key="d7">cdc8901e668749889bd49bebdc4ff1f6</data>
+    </node>
+    <edge source="&quot;SPONGEBOB SQUAREPANTS&quot;" target="&quot;WILLIAM MARK FAGERBAKKE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"William Mark Fagerbakke played the role of Patrick Star in SpongeBob SquarePants."</data>
+      <data key="d10">b1145329e68be13b1d65d7f5f01ed00c</data>
+      <data key="d11">36084a9fab53433493f079e97e68bf65</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPONGEBOB SQUAREPANTS&quot;" target="&quot;TOM KENNY&quot;">
+      <data key="d8">3.0</data>
+      <data key="d9">Here is the comprehensive summary:
+
+Tom Kenny is a voice actor who provides the voice of SpongeBob SquarePants, playing the titular character in the popular animated television show.
+
+Let me know if you need anything else!</data>
+      <data key="d10">43fd4f5bb8c88be6a79af5669649a5f7,66ceacf1bf5799d125883c700b00a2d3,b0c73e45e7bb9335b9ac7d0d21c1a077</data>
+      <data key="d11">eebcc7ec8e3e4df7aea83659bbdc2199</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPONGEBOB SQUAREPANTS&quot;" target="&quot;MARY JO CATLETT&quot;">
+      <data key="d8">2.0</data>
+      <data key="d9">Here is the comprehensive summary:
+
+Mary Jo Catlett is a voice actor in SpongeBob SquarePants, where she has played the role of Mrs. Puff since the show's debut.</data>
+      <data key="d10">3be2db3d1d26945838c4eea89a800f2a,43fd4f5bb8c88be6a79af5669649a5f7</data>
+      <data key="d11">ceadf262ef834e9ab146b20650912cae</data>
+      <data key="d12">2</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPONGEBOB SQUAREPANTS&quot;" target="&quot;VINCENT WALLER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Vincent Waller is associated with SpongeBob SquarePants, confirming its twelfth season."</data>
+      <data key="d10">74d5b1d14fdeaca43b827abb719587ab</data>
+      <data key="d11">7f65feab75424b53b24470d305ba331a</data>
+      <data key="d12">3</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPONGEBOB SQUAREPANTS&quot;" target="&quot;DEREK DRYMON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Derek Drymon has worked on SpongeBob SquarePants."</data>
+      <data key="d10">97e1ad68799139e71267c32f91e3ef76</data>
+      <data key="d11">fd9cb733b28d420cb5cef01e545a132c</data>
+      <data key="d12">4</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPONGEBOB SQUAREPANTS&quot;" target="&quot;STEPHEN HILLENBURG&quot;">
+      <data key="d8">2.0</data>
+      <data key="d9">Here is a comprehensive summary of the data:
+
+Stephen Hillenburg, the creator, brought to life the beloved television series "SpongeBob SquarePants".</data>
+      <data key="d10">049fcb04c0c0b6322f10987acfa10905,43fd4f5bb8c88be6a79af5669649a5f7</data>
+      <data key="d11">0fbcca3f17c649a08aea64b5a7d9ef36</data>
+      <data key="d12">5</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPONGEBOB SQUAREPANTS&quot;" target="&quot;BILL FAGERBAKKE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Bill Fagerbakke is a voice actor in SpongeBob SquarePants."</data>
+      <data key="d10">43fd4f5bb8c88be6a79af5669649a5f7</data>
+      <data key="d11">482027a59f32484c9c44fd700615c1b6</data>
+      <data key="d12">6</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPONGEBOB SQUAREPANTS&quot;" target="&quot;RODGER BUMPASS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Rodger Bumpass is a voice actor in SpongeBob SquarePants."</data>
+      <data key="d10">43fd4f5bb8c88be6a79af5669649a5f7</data>
+      <data key="d11">de837ff3d626451282ff6ac77a82216d</data>
+      <data key="d12">7</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPONGEBOB SQUAREPANTS&quot;" target="&quot;CLANCY BROWN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Clancy Brown is a voice actor in SpongeBob SquarePants."</data>
+      <data key="d10">43fd4f5bb8c88be6a79af5669649a5f7</data>
+      <data key="d11">460295fed3ae4cd39f9f274cec9c2506</data>
+      <data key="d12">8</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPONGEBOB SQUAREPANTS&quot;" target="&quot;MR. LAWRENCE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Mr. Lawrence is a voice actor in SpongeBob SquarePants."</data>
+      <data key="d10">43fd4f5bb8c88be6a79af5669649a5f7</data>
+      <data key="d11">553b285bba60460ab1ed8341ae61282b</data>
+      <data key="d12">9</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPONGEBOB SQUAREPANTS&quot;" target="&quot;JILL TALLEY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jill Talley is a voice actor in SpongeBob SquarePants."</data>
+      <data key="d10">43fd4f5bb8c88be6a79af5669649a5f7</data>
+      <data key="d11">cec95bf17e7e4c939b56c9c6f402a29f</data>
+      <data key="d12">10</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPONGEBOB SQUAREPANTS&quot;" target="&quot;CAROLYN LAWRENCE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Carolyn Lawrence is a voice actor in SpongeBob SquarePants."</data>
+      <data key="d10">43fd4f5bb8c88be6a79af5669649a5f7</data>
+      <data key="d11">599164aead034bc19446efacc77554d2</data>
+      <data key="d12">11</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPONGEBOB SQUAREPANTS&quot;" target="&quot;LORI ALAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lori Alan is a voice actor in SpongeBob SquarePants."</data>
+      <data key="d10">43fd4f5bb8c88be6a79af5669649a5f7</data>
+      <data key="d11">bbf148ae4d48422f8fdef754cfa2b9e4</data>
+      <data key="d12">12</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPONGEBOB SQUAREPANTS&quot;" target="&quot;ERNEST BORGNINE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ernest Borgnine is a guest star in SpongeBob SquarePants."</data>
+      <data key="d10">43fd4f5bb8c88be6a79af5669649a5f7</data>
+      <data key="d11">de61b2670999433f807a6a1dc2b81e43</data>
+      <data key="d12">13</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPONGEBOB SQUAREPANTS&quot;" target="&quot;TIM CONWAY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Tim Conway is a guest star in SpongeBob SquarePants."</data>
+      <data key="d10">43fd4f5bb8c88be6a79af5669649a5f7</data>
+      <data key="d11">3e95dacfe57b4d57b5da4310ef2e157f</data>
+      <data key="d12">14</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPONGEBOB SQUAREPANTS&quot;" target="&quot;NICKELODEON&quot;">
+      <data key="d8">3.0</data>
+      <data key="d9">Here is the comprehensive summary:
+
+SpongeBob SquarePants, a television show, airs on Nickelodeon. Specifically, Nickelodeon has aired the show in the United States, including its seventh season.
+
+Let me know if you need any further assistance!</data>
+      <data key="d10">049fcb04c0c0b6322f10987acfa10905,b96b75e33b52109d5fc4dc6cf76cf26f,bb59af8ba8050021c0a2103c4a660627</data>
+      <data key="d11">1f1545308e9347af91fd03b94aadc21f</data>
+      <data key="d12">15</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPONGEBOB SQUAREPANTS&quot;" target="&quot;THE SPONGEBOB MOVIE: SPONGE OUT OF WATER&quot;">
+      <data key="d8">2.0</data>
+      <data key="d9">Here is the comprehensive summary:
+
+SpongeBob SquarePants and The SpongeBob Movie: Sponge Out of Water are closely related entities. Specifically, The SpongeBob Movie: Sponge Out of Water is a sequel to The SpongeBob SquarePants Movie, which is based on the popular animated television show SpongeBob SquarePants.</data>
+      <data key="d10">91867159021b12c5d016d9ea1bed9079,bb59af8ba8050021c0a2103c4a660627</data>
+      <data key="d11">6ea81acaf232485e94fff638e03336e1</data>
+      <data key="d12">16</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPONGEBOB SQUAREPANTS&quot;" target="&quot;BIKINI BOTTOM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The series takes place in the fictional underwater city of Bikini Bottom."</data>
+      <data key="d10">049fcb04c0c0b6322f10987acfa10905</data>
+      <data key="d11">d136b08d586d488f9e4188b524c85a29</data>
+      <data key="d12">17</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPONGEBOB SQUAREPANTS&quot;" target="&quot;PAUL TIBBITT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Paul Tibbitt is a writer for SpongeBob SquarePants."</data>
+      <data key="d10">b96b75e33b52109d5fc4dc6cf76cf26f</data>
+      <data key="d11">cccfa151fedc4b218a8d96adc7dceabe</data>
+      <data key="d12">18</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPONGEBOB SQUAREPANTS&quot;" target="&quot;KAZ&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Kaz is a writer for SpongeBob SquarePants."</data>
+      <data key="d10">b96b75e33b52109d5fc4dc6cf76cf26f</data>
+      <data key="d11">ce54725672a74ebcabe6127577dacb2b</data>
+      <data key="d12">19</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPONGEBOB SQUAREPANTS&quot;" target="&quot;KENT OSBORNE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Kent Osborne is a writer for SpongeBob SquarePants."</data>
+      <data key="d10">b96b75e33b52109d5fc4dc6cf76cf26f</data>
+      <data key="d11">ea2b28ca1a974ffab4517811dc1d1e5c</data>
+      <data key="d12">20</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPONGEBOB SQUAREPANTS&quot;" target="&quot;MERRIWETHER WILLIAMS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Merriwether Williams is a writer for SpongeBob SquarePants."</data>
+      <data key="d10">b96b75e33b52109d5fc4dc6cf76cf26f</data>
+      <data key="d11">aff21f1da1654e7babdcf3fb0e4a75fc</data>
+      <data key="d12">21</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPONGEBOB SQUAREPANTS&quot;" target="&quot;ANDREW OVERTOOM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Andrew Overtoom is an animation director for SpongeBob SquarePants."</data>
+      <data key="d10">b96b75e33b52109d5fc4dc6cf76cf26f</data>
+      <data key="d11">dc2cc9016e3f49dbac7232f05cce794d</data>
+      <data key="d12">22</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPONGEBOB SQUAREPANTS&quot;" target="&quot;DOUGLAS LAWRENCE OSOWSKI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Douglas Lawrence Osowski worked on SpongeBob SquarePants as a writer and actor."</data>
+      <data key="d10">326e43d9819f5e3536496837caaf47b7</data>
+      <data key="d11">6ea0cef05f694dcea455478f40674e45</data>
+      <data key="d12">23</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SPONGEBOB SQUAREPANTS&quot;" target="&quot;BURGER BEARD&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Burger Beard steals the Krabby Patty secret formula from SpongeBob SquarePants."</data>
+      <data key="d10">91867159021b12c5d016d9ea1bed9079</data>
+      <data key="d11">7ab5d53a872f4dfc98f3d386879f3c75</data>
+      <data key="d12">24</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;COACH&quot;" target="&quot;WILLIAM MARK FAGERBAKKE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"William Mark Fagerbakke played the role of Michael ``Dauber ''Dybinski in Coach."</data>
+      <data key="d10">b1145329e68be13b1d65d7f5f01ed00c</data>
+      <data key="d11">af1d0fec22114a3398b8016f5225f9ed</data>
+      <data key="d12">25</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;HOW I MET YOUR MOTHER&quot;" target="&quot;WILLIAM MARK FAGERBAKKE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"William Mark Fagerbakke appeared in 12 episodes of How I Met Your Mother as Marshall Eriksen's father Marvin."</data>
+      <data key="d10">b1145329e68be13b1d65d7f5f01ed00c</data>
+      <data key="d11">b07a7f088364459098cd8511ff27a4c8</data>
+      <data key="d12">26</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is the county seat of Pima County."</data>
+      <data key="d10">049fcb04c0c0b6322f10987acfa10905,0818ab28e930fdea29acf19f11528885,326e43d9819f5e3536496837caaf47b7,3be2db3d1d26945838c4eea89a800f2a,43fd4f5bb8c88be6a79af5669649a5f7,46ffa9d322e6a513aa720859a88b05ed,508af81a6565d5c38e5a55f3c6a6ff9e,66ceacf1bf5799d125883c700b00a2d3,74d5b1d14fdeaca43b827abb719587ab,79b30dc9dbc2ddb35fadeb459294ecde,91867159021b12c5d016d9ea1bed9079,939a955ef9fe54f943eed04d15a4b241,97e1ad68799139e71267c32f91e3ef76,b0c73e45e7bb9335b9ac7d0d21c1a077,b1145329e68be13b1d65d7f5f01ed00c,b96b75e33b52109d5fc4dc6cf76cf26f,bb59af8ba8050021c0a2103c4a660627,c020228fd3f38cb2bf1930a31321c9dd,d76f26fae24480ef38197fa50bf5ad2f,e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d11">8870cf2b5df64d2cab5820f67e29b9f1</data>
+      <data key="d12">27</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Pima County is a county in Arizona."</data>
+      <data key="d10">049fcb04c0c0b6322f10987acfa10905,0818ab28e930fdea29acf19f11528885,326e43d9819f5e3536496837caaf47b7,3be2db3d1d26945838c4eea89a800f2a,43fd4f5bb8c88be6a79af5669649a5f7,46ffa9d322e6a513aa720859a88b05ed,508af81a6565d5c38e5a55f3c6a6ff9e,66ceacf1bf5799d125883c700b00a2d3,74d5b1d14fdeaca43b827abb719587ab,79b30dc9dbc2ddb35fadeb459294ecde,91867159021b12c5d016d9ea1bed9079,939a955ef9fe54f943eed04d15a4b241,97e1ad68799139e71267c32f91e3ef76,b0c73e45e7bb9335b9ac7d0d21c1a077,b1145329e68be13b1d65d7f5f01ed00c,b96b75e33b52109d5fc4dc6cf76cf26f,bb59af8ba8050021c0a2103c4a660627,c020228fd3f38cb2bf1930a31321c9dd,d76f26fae24480ef38197fa50bf5ad2f,e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d11">cd130938a2844050be991af70baf5ee0</data>
+      <data key="d12">28</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The University of Arizona is located in Tucson."</data>
+      <data key="d10">049fcb04c0c0b6322f10987acfa10905,0818ab28e930fdea29acf19f11528885,326e43d9819f5e3536496837caaf47b7,3be2db3d1d26945838c4eea89a800f2a,43fd4f5bb8c88be6a79af5669649a5f7,46ffa9d322e6a513aa720859a88b05ed,508af81a6565d5c38e5a55f3c6a6ff9e,66ceacf1bf5799d125883c700b00a2d3,74d5b1d14fdeaca43b827abb719587ab,79b30dc9dbc2ddb35fadeb459294ecde,91867159021b12c5d016d9ea1bed9079,939a955ef9fe54f943eed04d15a4b241,97e1ad68799139e71267c32f91e3ef76,b0c73e45e7bb9335b9ac7d0d21c1a077,b1145329e68be13b1d65d7f5f01ed00c,b96b75e33b52109d5fc4dc6cf76cf26f,bb59af8ba8050021c0a2103c4a660627,c020228fd3f38cb2bf1930a31321c9dd,d76f26fae24480ef38197fa50bf5ad2f,e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d11">43544b99c3b04b059546198a0ae6366d</data>
+      <data key="d12">29</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Arizona is a state in the United States."</data>
+      <data key="d10">049fcb04c0c0b6322f10987acfa10905,0818ab28e930fdea29acf19f11528885,326e43d9819f5e3536496837caaf47b7,3be2db3d1d26945838c4eea89a800f2a,43fd4f5bb8c88be6a79af5669649a5f7,46ffa9d322e6a513aa720859a88b05ed,508af81a6565d5c38e5a55f3c6a6ff9e,66ceacf1bf5799d125883c700b00a2d3,74d5b1d14fdeaca43b827abb719587ab,79b30dc9dbc2ddb35fadeb459294ecde,91867159021b12c5d016d9ea1bed9079,939a955ef9fe54f943eed04d15a4b241,97e1ad68799139e71267c32f91e3ef76,b0c73e45e7bb9335b9ac7d0d21c1a077,b1145329e68be13b1d65d7f5f01ed00c,b96b75e33b52109d5fc4dc6cf76cf26f,bb59af8ba8050021c0a2103c4a660627,c020228fd3f38cb2bf1930a31321c9dd,d76f26fae24480ef38197fa50bf5ad2f,e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d11">a671bf7fea2f4514b6e96ba99127fafd</data>
+      <data key="d12">30</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is a city in Arizona."</data>
+      <data key="d10">049fcb04c0c0b6322f10987acfa10905,0818ab28e930fdea29acf19f11528885,326e43d9819f5e3536496837caaf47b7,3be2db3d1d26945838c4eea89a800f2a,43fd4f5bb8c88be6a79af5669649a5f7,46ffa9d322e6a513aa720859a88b05ed,508af81a6565d5c38e5a55f3c6a6ff9e,66ceacf1bf5799d125883c700b00a2d3,74d5b1d14fdeaca43b827abb719587ab,79b30dc9dbc2ddb35fadeb459294ecde,91867159021b12c5d016d9ea1bed9079,939a955ef9fe54f943eed04d15a4b241,97e1ad68799139e71267c32f91e3ef76,b0c73e45e7bb9335b9ac7d0d21c1a077,b1145329e68be13b1d65d7f5f01ed00c,b96b75e33b52109d5fc4dc6cf76cf26f,bb59af8ba8050021c0a2103c4a660627,c020228fd3f38cb2bf1930a31321c9dd,d76f26fae24480ef38197fa50bf5ad2f,e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d11">525f41ea20274a05af4e52b625b473f3</data>
+      <data key="d12">31</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Phoenix is a city in Arizona."</data>
+      <data key="d10">049fcb04c0c0b6322f10987acfa10905,0818ab28e930fdea29acf19f11528885,326e43d9819f5e3536496837caaf47b7,3be2db3d1d26945838c4eea89a800f2a,43fd4f5bb8c88be6a79af5669649a5f7,46ffa9d322e6a513aa720859a88b05ed,508af81a6565d5c38e5a55f3c6a6ff9e,66ceacf1bf5799d125883c700b00a2d3,74d5b1d14fdeaca43b827abb719587ab,79b30dc9dbc2ddb35fadeb459294ecde,91867159021b12c5d016d9ea1bed9079,939a955ef9fe54f943eed04d15a4b241,97e1ad68799139e71267c32f91e3ef76,b0c73e45e7bb9335b9ac7d0d21c1a077,b1145329e68be13b1d65d7f5f01ed00c,b96b75e33b52109d5fc4dc6cf76cf26f,bb59af8ba8050021c0a2103c4a660627,c020228fd3f38cb2bf1930a31321c9dd,d76f26fae24480ef38197fa50bf5ad2f,e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d11">071a416efbec4f0886c19ac68f6d43cb</data>
+      <data key="d12">32</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;NICKELODEON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Nickelodeon aired SpongeBob SquarePants in the United States."</data>
+      <data key="d10">b96b75e33b52109d5fc4dc6cf76cf26f</data>
+      <data key="d11">6d8473ef3b1042bf87178a611e3dbcc6</data>
+      <data key="d12">33</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d10">049fcb04c0c0b6322f10987acfa10905,0818ab28e930fdea29acf19f11528885,326e43d9819f5e3536496837caaf47b7,3be2db3d1d26945838c4eea89a800f2a,43fd4f5bb8c88be6a79af5669649a5f7,46ffa9d322e6a513aa720859a88b05ed,508af81a6565d5c38e5a55f3c6a6ff9e,66ceacf1bf5799d125883c700b00a2d3,74d5b1d14fdeaca43b827abb719587ab,79b30dc9dbc2ddb35fadeb459294ecde,91867159021b12c5d016d9ea1bed9079,939a955ef9fe54f943eed04d15a4b241,97e1ad68799139e71267c32f91e3ef76,b0c73e45e7bb9335b9ac7d0d21c1a077,b1145329e68be13b1d65d7f5f01ed00c,b96b75e33b52109d5fc4dc6cf76cf26f,bb59af8ba8050021c0a2103c4a660627,c020228fd3f38cb2bf1930a31321c9dd,d76f26fae24480ef38197fa50bf5ad2f,e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d11">30c9641543c24773938bd8ec57ea98ab</data>
+      <data key="d12">34</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Mexico shares an international border with the United States."</data>
+      <data key="d10">049fcb04c0c0b6322f10987acfa10905,0818ab28e930fdea29acf19f11528885,326e43d9819f5e3536496837caaf47b7,3be2db3d1d26945838c4eea89a800f2a,43fd4f5bb8c88be6a79af5669649a5f7,46ffa9d322e6a513aa720859a88b05ed,508af81a6565d5c38e5a55f3c6a6ff9e,66ceacf1bf5799d125883c700b00a2d3,74d5b1d14fdeaca43b827abb719587ab,79b30dc9dbc2ddb35fadeb459294ecde,91867159021b12c5d016d9ea1bed9079,939a955ef9fe54f943eed04d15a4b241,97e1ad68799139e71267c32f91e3ef76,b0c73e45e7bb9335b9ac7d0d21c1a077,b1145329e68be13b1d65d7f5f01ed00c,b96b75e33b52109d5fc4dc6cf76cf26f,bb59af8ba8050021c0a2103c4a660627,c020228fd3f38cb2bf1930a31321c9dd,d76f26fae24480ef38197fa50bf5ad2f,e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d11">18b839da898e4026b81727d759d95c6a</data>
+      <data key="d12">35</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d10">049fcb04c0c0b6322f10987acfa10905,0818ab28e930fdea29acf19f11528885,326e43d9819f5e3536496837caaf47b7,3be2db3d1d26945838c4eea89a800f2a,43fd4f5bb8c88be6a79af5669649a5f7,46ffa9d322e6a513aa720859a88b05ed,508af81a6565d5c38e5a55f3c6a6ff9e,66ceacf1bf5799d125883c700b00a2d3,74d5b1d14fdeaca43b827abb719587ab,79b30dc9dbc2ddb35fadeb459294ecde,91867159021b12c5d016d9ea1bed9079,939a955ef9fe54f943eed04d15a4b241,97e1ad68799139e71267c32f91e3ef76,b0c73e45e7bb9335b9ac7d0d21c1a077,b1145329e68be13b1d65d7f5f01ed00c,b96b75e33b52109d5fc4dc6cf76cf26f,bb59af8ba8050021c0a2103c4a660627,c020228fd3f38cb2bf1930a31321c9dd,d76f26fae24480ef38197fa50bf5ad2f,e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d11">eeef6ae5c464400c8755900b4f1ac37a</data>
+      <data key="d12">36</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;CLANCY BROWN&quot;" target="&quot;MR. KRABS&quot;">
+      <data key="d8">2.0</data>
+      <data key="d9">Here is a comprehensive summary of the data:
+
+Clancy Brown, an American actor, provides and has voiced Mr. Krabs, a fictional character in the popular animated television series.</data>
+      <data key="d10">66ceacf1bf5799d125883c700b00a2d3,b0c73e45e7bb9335b9ac7d0d21c1a077</data>
+      <data key="d11">422433aa45804c7ebb973b2fafce5da6</data>
+      <data key="d12">37</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;RODGER BUMPASS&quot;" target="&quot;SQUIDWARD TENTACLES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Rodger Bumpass voiced Squidward Tentacles."</data>
+      <data key="d10">66ceacf1bf5799d125883c700b00a2d3</data>
+      <data key="d11">86505bca739d4bccaaa1a8e0f3baffdc</data>
+      <data key="d12">38</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;MARY JO CATLETT&quot;" target="&quot;DIFF'RENT STROKES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Mary Jo Catlett played the role of Pearl Gallagher in Diff'rent Strokes."</data>
+      <data key="d10">3be2db3d1d26945838c4eea89a800f2a</data>
+      <data key="d11">1af9faf341e14a5bbf4ddc9080e8dc0b</data>
+      <data key="d12">39</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;LORI ALAN&quot;" target="&quot;PEARL KRABS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lori Alan plays the role of Pearl Krabs on SpongeBob SquarePants."</data>
+      <data key="d10">0818ab28e930fdea29acf19f11528885</data>
+      <data key="d11">353d91abc68648639d65a549e59b5cf3</data>
+      <data key="d12">40</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;LORI ALAN&quot;" target="&quot;DIANE SIMMONS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lori Alan voices Diane Simmons on Family Guy."</data>
+      <data key="d10">0818ab28e930fdea29acf19f11528885</data>
+      <data key="d11">7ce637e4f35b42e3a9f8272cab69cd22</data>
+      <data key="d12">41</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;LORI ALAN&quot;" target="&quot;THE INVISIBLE WOMAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lori Alan voices The Invisible Woman on The Fantastic Four."</data>
+      <data key="d10">0818ab28e930fdea29acf19f11528885</data>
+      <data key="d11">4d999d7744b04a998475f8f8531589f0</data>
+      <data key="d12">42</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;LORI ALAN&quot;" target="&quot;THE BOSS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lori Alan voices The Boss in the Metal Gear video game series."</data>
+      <data key="d10">0818ab28e930fdea29acf19f11528885</data>
+      <data key="d11">9a6f414210e14841a5b0e661aedc898d</data>
+      <data key="d12">43</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;LORI ALAN&quot;" target="&quot;LOS ANGELES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lori Alan currently lives in Los Angeles."</data>
+      <data key="d10">0818ab28e930fdea29acf19f11528885</data>
+      <data key="d11">db541b7260974db8bac94e953009f60e</data>
+      <data key="d12">44</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ANTONIO BANDERAS&quot;" target="&quot;BURGER BEARD THE PIRATE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Antonio Banderas plays the role of Burger Beard the Pirate."</data>
+      <data key="d10">b0c73e45e7bb9335b9ac7d0d21c1a077</data>
+      <data key="d11">f2ff8044718648e18acef16dd9a65436</data>
+      <data key="d12">45</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ANTONIO BANDERAS&quot;" target="&quot;THE SPONGEBOB MOVIE: SPONGE OUT OF WATER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Antonio Banderas stars in The SpongeBob Movie: Sponge Out of Water."</data>
+      <data key="d10">91867159021b12c5d016d9ea1bed9079</data>
+      <data key="d11">00d785e7d76b47ec81b508e768d40584</data>
+      <data key="d12">46</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;PAUL TIBBITT&quot;" target="&quot;THE SPONGEBOB MOVIE: SPONGE OUT OF WATER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Paul Tibbitt directed The SpongeBob Movie: Sponge Out of Water."</data>
+      <data key="d10">91867159021b12c5d016d9ea1bed9079</data>
+      <data key="d11">87915637da3e474c9349bd0ae604bd95</data>
+      <data key="d12">47</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;TOM KENNY&quot;" target="&quot;THE SPONGEBOB SQUAREPANTS MOVIE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Tom Kenny is the voice actor for SpongeBob and attended the premiere of The SpongeBob SquarePants Movie."</data>
+      <data key="d10">c020228fd3f38cb2bf1930a31321c9dd</data>
+      <data key="d11">8f1eba29f39e411188200bf0d14628ec</data>
+      <data key="d12">48</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ROCKO'S MODERN LIFE&quot;" target="&quot;DEREK DRYMON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Derek Drymon has worked on Rocko's Modern Life."</data>
+      <data key="d10">97e1ad68799139e71267c32f91e3ef76</data>
+      <data key="d11">7282c73622b8408e97289d959faff483</data>
+      <data key="d12">49</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ROCKO'S MODERN LIFE&quot;" target="&quot;DOUGLAS LAWRENCE OSOWSKI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Douglas Lawrence Osowski worked on Rocko's Modern Life as a writer and actor."</data>
+      <data key="d10">326e43d9819f5e3536496837caaf47b7</data>
+      <data key="d11">3deb220d31f74103aa44870a36a63220</data>
+      <data key="d12">50</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ADVENTURE TIME&quot;" target="&quot;DEREK DRYMON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Derek Drymon has worked on Adventure Time."</data>
+      <data key="d10">97e1ad68799139e71267c32f91e3ef76</data>
+      <data key="d11">af7a1584dd15492cb9a4940e285f57fc</data>
+      <data key="d12">51</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;DAVID BOWIE&quot;" target="&quot;ATLANTIS SQUAREPANTIS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"David Bowie was a guest star in the television film Atlantis SquarePantis, which is part of SpongeBob SquarePants."</data>
+      <data key="d10">bb59af8ba8050021c0a2103c4a660627</data>
+      <data key="d11">6e8d9029ce4e4ea182367173ab2c7bbf</data>
+      <data key="d12">52</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;THE SPONGEBOB MOVIE: SPONGE OUT OF WATER&quot;" target="&quot;MIKE MITCHELL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Mike Mitchell directed the live-action sequences in The SpongeBob Movie: Sponge Out of Water."</data>
+      <data key="d10">91867159021b12c5d016d9ea1bed9079</data>
+      <data key="d11">cbf232211e7d4eb6abdbe182f71c2cf0</data>
+      <data key="d12">53</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;THE SPONGEBOB MOVIE: SPONGE OUT OF WATER&quot;" target="&quot;PARAMOUNT ANIMATION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Paramount Animation produced The SpongeBob Movie: Sponge Out of Water."</data>
+      <data key="d10">91867159021b12c5d016d9ea1bed9079</data>
+      <data key="d11">bb0cff774a4440b289cc6f3b929fe13c</data>
+      <data key="d12">54</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;JOSEPH KAPEAU AE`A&quot;" target="&quot;HILO MARCH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Joseph Kapeau Ae`a wrote the original song 'Ke Ala Tuberose', later known as 'Hilo March'."&gt;</data>
+      <data key="d10">508af81a6565d5c38e5a55f3c6a6ff9e</data>
+      <data key="d11">ce55841ebfdd47008bab8c258f10372e</data>
+      <data key="d12">55</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;THE HAWAIIAN SERENADERS&quot;" target="&quot;HILO MARCH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Hawaiian Serenaders composed 'Hilo March' for the soundtrack of 'SpongeBob SquarePants'."&gt;</data>
+      <data key="d10">508af81a6565d5c38e5a55f3c6a6ff9e</data>
+      <data key="d11">6090e736374d45fd84f0e4610a314f8f</data>
+      <data key="d12">56</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;KAPONO BEAMER&quot;" target="&quot;OLD HILO MARCH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Kapono Beamer composed 'Old Hilo March' for the soundtrack of 'SpongeBob SquarePants'."&gt;</data>
+      <data key="d10">508af81a6565d5c38e5a55f3c6a6ff9e</data>
+      <data key="d11">0e8d921ccd8d4a8594b65b7fd19f7120</data>
+      <data key="d12">57</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;HAWAII&quot;" target="&quot;HILO MARCH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hilo March is a well-known Hawaiian song originating from Hawaii."</data>
+      <data key="d10">508af81a6565d5c38e5a55f3c6a6ff9e</data>
+      <data key="d11">59c726a8792d443e84ab052cb7942b4a</data>
+      <data key="d12">58</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;HIGHLANDER&quot;" target="&quot;CLARENCE J. ``CLANCY ''BROWN III&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Clarence J. ``Clancy ''Brown III played the role of the Kurgan in the film Highlander."</data>
+      <data key="d10">939a955ef9fe54f943eed04d15a4b241</data>
+      <data key="d11">4f2c665decf242b0bfcaf7350b0e02ed</data>
+      <data key="d12">59</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;THE SHAWSHANK REDEMPTION&quot;" target="&quot;CLARENCE J. ``CLANCY ''BROWN III&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Clarence J. ``Clancy ''Brown III played the role of Captain Byron Hadley in the film The Shawshank Redemption."</data>
+      <data key="d10">939a955ef9fe54f943eed04d15a4b241</data>
+      <data key="d11">66cdf168f36d4a57a505028c97dc06e0</data>
+      <data key="d12">60</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;CARNIV&#192;LE&quot;" target="&quot;CLARENCE J. ``CLANCY ''BROWN III&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Clarence J. ``Clancy ''Brown III played the role of Brother Justin Crowe in the television series Carniv&#224;le."</data>
+      <data key="d10">939a955ef9fe54f943eed04d15a4b241</data>
+      <data key="d11">38f51478f41f48db9bee570859b6f43e</data>
+      <data key="d12">61</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;NEW ZEALAND&quot;" target="&quot;NANNOCHORISTIDAE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Nannochoristidae has a geographic presence in New Zealand."</data>
+      <data key="d10">d76f26fae24480ef38197fa50bf5ad2f</data>
+      <data key="d11">896d2a51e8de47de85ba8ced108c3d53</data>
+      <data key="d12">62</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SOUTHEASTERN AUSTRALIA&quot;" target="&quot;NANNOCHORISTIDAE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Nannochoristidae is found in southeastern Australia."</data>
+      <data key="d10">d76f26fae24480ef38197fa50bf5ad2f</data>
+      <data key="d11">14555b518e954637b83aa762dc03164e</data>
+      <data key="d12">63</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;TASMANIA&quot;" target="&quot;NANNOCHORISTIDAE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Nannochoristidae has a presence on the island of Tasmania."</data>
+      <data key="d10">d76f26fae24480ef38197fa50bf5ad2f</data>
+      <data key="d11">b1f6164116d44fe8b8f135d7f65b9e58</data>
+      <data key="d12">64</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;CHILE&quot;" target="&quot;NANNOCHORISTIDAE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Nannochoristidae is found in Chile, South America."</data>
+      <data key="d10">d76f26fae24480ef38197fa50bf5ad2f</data>
+      <data key="d11">c8b2408617804483b620e1a6691ac90d</data>
+      <data key="d12">65</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;RAY ROMANO&quot;" target="&quot;THE SPONGEBOB SQUAREPANTS MOVIE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ray Romano attended the premiere of The SpongeBob SquarePants Movie with his children."</data>
+      <data key="d10">c020228fd3f38cb2bf1930a31321c9dd</data>
+      <data key="d11">a5e0d1644eb547ba9a5c3211aac4631a</data>
+      <data key="d12">66</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;LARRY KING&quot;" target="&quot;THE SPONGEBOB SQUAREPANTS MOVIE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Larry King attended the premiere of The SpongeBob SquarePants Movie with his children."</data>
+      <data key="d10">c020228fd3f38cb2bf1930a31321c9dd</data>
+      <data key="d11">5a28b94bc63b44edb30c54748fd14f15</data>
+      <data key="d12">67</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ICE CUBE&quot;" target="&quot;THE SPONGEBOB SQUAREPANTS MOVIE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ice Cube attended the premiere of The SpongeBob SquarePants Movie with his children."</data>
+      <data key="d10">c020228fd3f38cb2bf1930a31321c9dd</data>
+      <data key="d11">f97011b2a99d44648e18d517e1eae15c</data>
+      <data key="d12">68</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;GARY DOURDAN&quot;" target="&quot;THE SPONGEBOB SQUAREPANTS MOVIE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Gary Dourdan attended the premiere of The SpongeBob SquarePants Movie with his children."</data>
+      <data key="d10">c020228fd3f38cb2bf1930a31321c9dd</data>
+      <data key="d11">35489ca6a63b47d6a8913cf333818bc1</data>
+      <data key="d12">69</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;LISA KUDROW&quot;" target="&quot;THE SPONGEBOB SQUAREPANTS MOVIE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lisa Kudrow attended the premiere of The SpongeBob SquarePants Movie with her children."</data>
+      <data key="d10">c020228fd3f38cb2bf1930a31321c9dd</data>
+      <data key="d11">5d3344f45e654d2c808481672f2f08dd</data>
+      <data key="d12">70</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;INSECT&quot;" target="&quot;HOLOMETABOLISM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Holometabolism is a biological process that occurs in insects, involving four stages of development."</data>
+      <data key="d10">e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d11">6fb57f83baec45c9b30490ee991f433f</data>
+      <data key="d12">71</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;EGG&quot;" target="&quot;LARVA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The egg hatches to produce a larva, the second stage of an insect's life cycle."</data>
+      <data key="d10">e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d11">68762e6f0d1c41cd857c6b964a8e76c3</data>
+      <data key="d12">72</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;LARVA&quot;" target="&quot;PUPA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The larva grows and eventually becomes a pupa, the third stage of an insect's life cycle."</data>
+      <data key="d10">e72aeaafc43e3690287b6e24616c8841</data>
+      <data key="d11">70634e10a5e845aa8c6a32fe7e8eb2b2</data>
+      <data key="d12">73</data>
+      <data key="d13">1</data>
+    </edge>
+  </graph>
+</graphml>

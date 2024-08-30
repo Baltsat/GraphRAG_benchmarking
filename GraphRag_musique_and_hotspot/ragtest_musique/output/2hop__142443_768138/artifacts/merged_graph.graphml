@@ -1,0 +1,1129 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;CELINE DION&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Celine Dion is a singer who released a duet with Billy Newton-Davis in 1989 and has several albums, including 'Unison' and 'Falling into You'."</data>
+      <data key="d2">ee264521ea07ebb89cbce51c4e3909f2</data>
+    </node>
+    <node id="&quot;DAN HILL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dan Hill is a songwriter who wrote songs for Celine Dion, including 'Can't Live with You, Can't Live Without You' and 'Seduces Me'."</data>
+      <data key="d2">ee264521ea07ebb89cbce51c4e3909f2</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Canada is the country where the duet was released in July 1989."
+"Canada is the country where Patricia Conroy is from and where Warner Music Canada is located."</data>
+      <data key="d2">9b5334f579c8cfa10049a94a6867ec3a,ee264521ea07ebb89cbce51c4e3909f2</data>
+    </node>
+    <node id="&quot;SPELLBOUND&quot;">
+      <data key="d0">"ALBUM"</data>
+      <data key="d1">"Spellbound is an album by Billy Newton-Davis that features the song 'Can't Live with You, Can't Live Without You'."</data>
+      <data key="d2">ee264521ea07ebb89cbce51c4e3909f2</data>
+    </node>
+    <node id="&quot;UNISON&quot;">
+      <data key="d0">"ALBUM"</data>
+      <data key="d1">"Unison is a Japanese maxi-single by Celine Dion that includes the song 'Can't Live with You, Can't Live Without You'."</data>
+      <data key="d2">ee264521ea07ebb89cbce51c4e3909f2</data>
+    </node>
+    <node id="&quot;FALLING INTO YOU&quot;">
+      <data key="d0">"ALBUM"</data>
+      <data key="d1">"Falling into You is an album by Celine Dion that features the song 'Seduces Me', written by Dan Hill."</data>
+      <data key="d2">ee264521ea07ebb89cbce51c4e3909f2</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">133875aeef3ae963d23b27f563c652cf,2eb2714564b664169e46d6743395cbb8,330224cdb777bce4a5762ff9d48dbe61,3a376a938acf0d8a5b0b0cf7e62fa1bf,5d0a546539495155287dbc5111593d14,66a731bb42a66efd566d9e51da476973,8225889c9e8f58f1d6e6e35434e486c2,9228702d52f5bb9ab62e0d06132138ea,9b5334f579c8cfa10049a94a6867ec3a,9edbf5ea9d83605ab02134e5013d6056,b718598a516f68bb031473772af9f574,b8f4e089a71fa3f4862e46ba2d872b94,b98adc3a0c8390e30ae13eedaf9422cd,cce433829c59e934b31e28258c5815ab,d31604685a09d678f62f548d1836ca83,ee264521ea07ebb89cbce51c4e3909f2,f3f7ad852f6d4118b64889915d02bafc,fbcc0268782bb116a473bea79c49e24a</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">133875aeef3ae963d23b27f563c652cf,2eb2714564b664169e46d6743395cbb8,330224cdb777bce4a5762ff9d48dbe61,3a376a938acf0d8a5b0b0cf7e62fa1bf,5d0a546539495155287dbc5111593d14,66a731bb42a66efd566d9e51da476973,8225889c9e8f58f1d6e6e35434e486c2,9228702d52f5bb9ab62e0d06132138ea,9b5334f579c8cfa10049a94a6867ec3a,9edbf5ea9d83605ab02134e5013d6056,b718598a516f68bb031473772af9f574,b8f4e089a71fa3f4862e46ba2d872b94,b98adc3a0c8390e30ae13eedaf9422cd,cce433829c59e934b31e28258c5815ab,d31604685a09d678f62f548d1836ca83,ee264521ea07ebb89cbce51c4e3909f2,f3f7ad852f6d4118b64889915d02bafc,fbcc0268782bb116a473bea79c49e24a</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">133875aeef3ae963d23b27f563c652cf,2eb2714564b664169e46d6743395cbb8,330224cdb777bce4a5762ff9d48dbe61,3a376a938acf0d8a5b0b0cf7e62fa1bf,5d0a546539495155287dbc5111593d14,66a731bb42a66efd566d9e51da476973,8225889c9e8f58f1d6e6e35434e486c2,9228702d52f5bb9ab62e0d06132138ea,9b5334f579c8cfa10049a94a6867ec3a,9edbf5ea9d83605ab02134e5013d6056,b718598a516f68bb031473772af9f574,b8f4e089a71fa3f4862e46ba2d872b94,b98adc3a0c8390e30ae13eedaf9422cd,cce433829c59e934b31e28258c5815ab,d31604685a09d678f62f548d1836ca83,ee264521ea07ebb89cbce51c4e3909f2,f3f7ad852f6d4118b64889915d02bafc,fbcc0268782bb116a473bea79c49e24a</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">133875aeef3ae963d23b27f563c652cf,2eb2714564b664169e46d6743395cbb8,330224cdb777bce4a5762ff9d48dbe61,3a376a938acf0d8a5b0b0cf7e62fa1bf,5d0a546539495155287dbc5111593d14,66a731bb42a66efd566d9e51da476973,8225889c9e8f58f1d6e6e35434e486c2,9228702d52f5bb9ab62e0d06132138ea,9b5334f579c8cfa10049a94a6867ec3a,9edbf5ea9d83605ab02134e5013d6056,b718598a516f68bb031473772af9f574,b8f4e089a71fa3f4862e46ba2d872b94,b98adc3a0c8390e30ae13eedaf9422cd,cce433829c59e934b31e28258c5815ab,d31604685a09d678f62f548d1836ca83,ee264521ea07ebb89cbce51c4e3909f2,f3f7ad852f6d4118b64889915d02bafc,fbcc0268782bb116a473bea79c49e24a</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located.""The United States is a country where the song 'Can't Let Go' was released in 1991."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located.""The United States is the country where Joey Lawrence, an American actor and singer, is from."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">133875aeef3ae963d23b27f563c652cf,2eb2714564b664169e46d6743395cbb8,330224cdb777bce4a5762ff9d48dbe61,3a376a938acf0d8a5b0b0cf7e62fa1bf,5d0a546539495155287dbc5111593d14,66a731bb42a66efd566d9e51da476973,8225889c9e8f58f1d6e6e35434e486c2,9228702d52f5bb9ab62e0d06132138ea,9b5334f579c8cfa10049a94a6867ec3a,9edbf5ea9d83605ab02134e5013d6056,b718598a516f68bb031473772af9f574,b8f4e089a71fa3f4862e46ba2d872b94,b98adc3a0c8390e30ae13eedaf9422cd,cce433829c59e934b31e28258c5815ab,d31604685a09d678f62f548d1836ca83,ee264521ea07ebb89cbce51c4e3909f2,f3f7ad852f6d4118b64889915d02bafc,fbcc0268782bb116a473bea79c49e24a</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">133875aeef3ae963d23b27f563c652cf,2eb2714564b664169e46d6743395cbb8,330224cdb777bce4a5762ff9d48dbe61,3a376a938acf0d8a5b0b0cf7e62fa1bf,5d0a546539495155287dbc5111593d14,66a731bb42a66efd566d9e51da476973,8225889c9e8f58f1d6e6e35434e486c2,9228702d52f5bb9ab62e0d06132138ea,9b5334f579c8cfa10049a94a6867ec3a,9edbf5ea9d83605ab02134e5013d6056,b718598a516f68bb031473772af9f574,b8f4e089a71fa3f4862e46ba2d872b94,b98adc3a0c8390e30ae13eedaf9422cd,cce433829c59e934b31e28258c5815ab,d31604685a09d678f62f548d1836ca83,ee264521ea07ebb89cbce51c4e3909f2,f3f7ad852f6d4118b64889915d02bafc,fbcc0268782bb116a473bea79c49e24a</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">133875aeef3ae963d23b27f563c652cf,2eb2714564b664169e46d6743395cbb8,330224cdb777bce4a5762ff9d48dbe61,3a376a938acf0d8a5b0b0cf7e62fa1bf,5d0a546539495155287dbc5111593d14,66a731bb42a66efd566d9e51da476973,8225889c9e8f58f1d6e6e35434e486c2,9228702d52f5bb9ab62e0d06132138ea,9b5334f579c8cfa10049a94a6867ec3a,9edbf5ea9d83605ab02134e5013d6056,b718598a516f68bb031473772af9f574,b8f4e089a71fa3f4862e46ba2d872b94,b98adc3a0c8390e30ae13eedaf9422cd,cce433829c59e934b31e28258c5815ab,d31604685a09d678f62f548d1836ca83,ee264521ea07ebb89cbce51c4e3909f2,f3f7ad852f6d4118b64889915d02bafc,fbcc0268782bb116a473bea79c49e24a</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">133875aeef3ae963d23b27f563c652cf,2eb2714564b664169e46d6743395cbb8,330224cdb777bce4a5762ff9d48dbe61,3a376a938acf0d8a5b0b0cf7e62fa1bf,5d0a546539495155287dbc5111593d14,66a731bb42a66efd566d9e51da476973,8225889c9e8f58f1d6e6e35434e486c2,9228702d52f5bb9ab62e0d06132138ea,9b5334f579c8cfa10049a94a6867ec3a,9edbf5ea9d83605ab02134e5013d6056,b718598a516f68bb031473772af9f574,b8f4e089a71fa3f4862e46ba2d872b94,b98adc3a0c8390e30ae13eedaf9422cd,cce433829c59e934b31e28258c5815ab,d31604685a09d678f62f548d1836ca83,ee264521ea07ebb89cbce51c4e3909f2,f3f7ad852f6d4118b64889915d02bafc,fbcc0268782bb116a473bea79c49e24a</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">133875aeef3ae963d23b27f563c652cf,2eb2714564b664169e46d6743395cbb8,330224cdb777bce4a5762ff9d48dbe61,3a376a938acf0d8a5b0b0cf7e62fa1bf,5d0a546539495155287dbc5111593d14,66a731bb42a66efd566d9e51da476973,8225889c9e8f58f1d6e6e35434e486c2,9228702d52f5bb9ab62e0d06132138ea,9b5334f579c8cfa10049a94a6867ec3a,9edbf5ea9d83605ab02134e5013d6056,b718598a516f68bb031473772af9f574,b8f4e089a71fa3f4862e46ba2d872b94,b98adc3a0c8390e30ae13eedaf9422cd,cce433829c59e934b31e28258c5815ab,d31604685a09d678f62f548d1836ca83,ee264521ea07ebb89cbce51c4e3909f2,f3f7ad852f6d4118b64889915d02bafc,fbcc0268782bb116a473bea79c49e24a</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</data>
+      <data key="d2">133875aeef3ae963d23b27f563c652cf,2eb2714564b664169e46d6743395cbb8,330224cdb777bce4a5762ff9d48dbe61,3a376a938acf0d8a5b0b0cf7e62fa1bf,5d0a546539495155287dbc5111593d14,66a731bb42a66efd566d9e51da476973,8225889c9e8f58f1d6e6e35434e486c2,9228702d52f5bb9ab62e0d06132138ea,9b5334f579c8cfa10049a94a6867ec3a,9edbf5ea9d83605ab02134e5013d6056,b718598a516f68bb031473772af9f574,b8f4e089a71fa3f4862e46ba2d872b94,b98adc3a0c8390e30ae13eedaf9422cd,cce433829c59e934b31e28258c5815ab,d31604685a09d678f62f548d1836ca83,ee264521ea07ebb89cbce51c4e3909f2,f3f7ad852f6d4118b64889915d02bafc,fbcc0268782bb116a473bea79c49e24a</data>
+    </node>
+    <node id="&quot;ICE RECORDS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ice Records is a record label owned by Eddy Grant, which released his album Can't Get Enough in 1981."</data>
+      <data key="d2">8225889c9e8f58f1d6e6e35434e486c2</data>
+    </node>
+    <node id="&quot;UK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The UK refers to the United Kingdom, where Eddy Grant's album Can't Get Enough charted."</data>
+      <data key="d2">8225889c9e8f58f1d6e6e35434e486c2</data>
+    </node>
+    <node id="&quot;CAN'T GET ENOUGH&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Can't Get Enough is the fourth album by Eddy Grant, released in 1981."</data>
+      <data key="d2">8225889c9e8f58f1d6e6e35434e486c2</data>
+    </node>
+    <node id="&quot;EDDY GRANT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8225889c9e8f58f1d6e6e35434e486c2</data>
+    </node>
+    <node id="&quot;AUSTRALIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Australia is the country where Eskimo Joe, a rock band, originates from."</data>
+      <data key="d2">fbcc0268782bb116a473bea79c49e24a</data>
+    </node>
+    <node id="&quot;GHOSTS OF THE PAST&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Ghosts of the Past is the fifth studio album by Eskimo Joe, which features the song 'Love is a Drug'."</data>
+      <data key="d2">fbcc0268782bb116a473bea79c49e24a</data>
+    </node>
+    <node id="&quot;ESKIMO JOE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fbcc0268782bb116a473bea79c49e24a</data>
+    </node>
+    <node id="&quot;FIRE CHESS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Fire Chess is a guest artist featured on I Wayne's debut album Lava Ground."</data>
+      <data key="d2">d31604685a09d678f62f548d1836ca83</data>
+    </node>
+    <node id="&quot;HARMONY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Harmony is a guest artist featured on I Wayne's debut album Lava Ground."</data>
+      <data key="d2">d31604685a09d678f62f548d1836ca83</data>
+    </node>
+    <node id="&quot;FIRE STAR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Fire Star is a guest artist featured on I Wayne's debut album Lava Ground."</data>
+      <data key="d2">d31604685a09d678f62f548d1836ca83</data>
+    </node>
+    <node id="&quot;P. HENRY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"P. Henry is a producer who worked on I Wayne's debut album Lava Ground."</data>
+      <data key="d2">d31604685a09d678f62f548d1836ca83</data>
+    </node>
+    <node id="&quot;M.MILLER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"M.Miller is a producer who worked on I Wayne's debut album Lava Ground."</data>
+      <data key="d2">d31604685a09d678f62f548d1836ca83</data>
+    </node>
+    <node id="&quot;O. HIBBERT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"O. Hibbert is a producer who worked on I Wayne's debut album Lava Ground."</data>
+      <data key="d2">d31604685a09d678f62f548d1836ca83</data>
+    </node>
+    <node id="&quot;LAVA GROUND&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Lava Ground is the debut album from Jamaican reggae artist I Wayne, featuring guest appearances and production from various artists."</data>
+      <data key="d2">d31604685a09d678f62f548d1836ca83</data>
+    </node>
+    <node id="&quot;JAMAICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Jamaica is the country of origin for reggae artist I Wayne."</data>
+      <data key="d2">d31604685a09d678f62f548d1836ca83</data>
+    </node>
+    <node id="&quot;I WAYNE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d31604685a09d678f62f548d1836ca83</data>
+    </node>
+    <node id="&quot;MELODIYA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Melodiya is a record label that released Sofia Rotaru's album Monologue of Love in 1987."</data>
+      <data key="d2">cce433829c59e934b31e28258c5815ab</data>
+    </node>
+    <node id="&quot;VESYOLYE REBYATA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Vesyolye Rebyata is a Soviet pop band that contributed to the album Monologue of Love with new rock style arrangements."</data>
+      <data key="d2">cce433829c59e934b31e28258c5815ab</data>
+    </node>
+    <node id="&quot;FORUM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Forum is a Soviet pop band that contributed to the album Monologue of Love with new rock style arrangements."</data>
+      <data key="d2">cce433829c59e934b31e28258c5815ab</data>
+    </node>
+    <node id="&quot;CHERVONA RUTA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Chervona Ruta is a Soviet rock band that contributed to the album Monologue of Love with new rock style arrangements."</data>
+      <data key="d2">cce433829c59e934b31e28258c5815ab</data>
+    </node>
+    <node id="&quot;MONOLOGUE OF LOVE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Monologue of Love is an album released by Sofia Rotaru in 1987, and also the title of a movie released in 1986."</data>
+      <data key="d2">cce433829c59e934b31e28258c5815ab</data>
+    </node>
+    <node id="&quot;SOFIA ROTARU&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">cce433829c59e934b31e28258c5815ab</data>
+    </node>
+    <node id="&quot;I CAN'T BE NEW&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"I Can't Be New is the sixth album by Susan Werner, released in 2004."</data>
+      <data key="d2">b8f4e089a71fa3f4862e46ba2d872b94</data>
+    </node>
+    <node id="&quot;2004&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"2004 is a year that marks the release of Susan Werner's album I Can't Be New."</data>
+      <data key="d2">b8f4e089a71fa3f4862e46ba2d872b94</data>
+    </node>
+    <node id="&quot;SUSAN WERNER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b8f4e089a71fa3f4862e46ba2d872b94</data>
+    </node>
+    <node id="&quot;EMOTIONS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Emotions is the second album by Mariah Carey, released in 1991."</data>
+      <data key="d2">5d0a546539495155287dbc5111593d14</data>
+    </node>
+    <node id="&quot;CAN'T LET GO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Can't Let Go is a song by Mariah Carey, released as the second single from her album Emotions."</data>
+      <data key="d2">5d0a546539495155287dbc5111593d14</data>
+    </node>
+    <node id="&quot;MARIAH CAREY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5d0a546539495155287dbc5111593d14</data>
+    </node>
+    <node id="&quot;GREEK THEATER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Greek Theater is a location where a performance was recorded for the Moody Blues' live album."</data>
+      <data key="d2">9edbf5ea9d83605ab02134e5013d6056</data>
+    </node>
+    <node id="&quot;BOURNEMOUTH (UK)&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bournemouth is a location in the UK where a radio station 2CR was launched."</data>
+      <data key="d2">9edbf5ea9d83605ab02134e5013d6056</data>
+    </node>
+    <node id="&quot;2CR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"2CR is a radio station that was launched in Bournemouth, UK, and played the song as its first track."</data>
+      <data key="d2">9edbf5ea9d83605ab02134e5013d6056</data>
+    </node>
+    <node id="&quot;LAUNCH OF 2CR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The launch of 2CR is an event where the song was played for the first time."</data>
+      <data key="d2">9edbf5ea9d83605ab02134e5013d6056</data>
+    </node>
+    <node id="&quot;MOODY BLUES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9edbf5ea9d83605ab02134e5013d6056</data>
+    </node>
+    <node id="&quot;MELBA LISTON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Melba Liston is an arranger who worked on Milt Jackson's album For Someone I Love."</data>
+      <data key="d2">330224cdb777bce4a5762ff9d48dbe61</data>
+    </node>
+    <node id="&quot;RIVERSIDE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Riverside is a record label that released Milt Jackson's album For Someone I Love."</data>
+      <data key="d2">330224cdb777bce4a5762ff9d48dbe61</data>
+    </node>
+    <node id="&quot;FOR SOMEONE I LOVE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"For Someone I Love is an album recorded by Milt Jackson in 1963."</data>
+      <data key="d2">330224cdb777bce4a5762ff9d48dbe61</data>
+    </node>
+    <node id="&quot;MILT JACKSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">330224cdb777bce4a5762ff9d48dbe61</data>
+    </node>
+    <node id="&quot;WOMAN OUT OF CONTROL&quot;">
+      <data key="d0">"ALBUM"</data>
+      <data key="d1">"Woman Out of Control is an album by Ray Parker, Jr., released in 1983"</data>
+      <data key="d2">b718598a516f68bb031473772af9f574</data>
+    </node>
+    <node id="&quot;BILLBOARD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Billboard is a music industry publication that tracks chart performance, including the Hot 100 chart"</data>
+      <data key="d2">b718598a516f68bb031473772af9f574</data>
+    </node>
+    <node id="&quot;GHOSTBUSTERS&quot;">
+      <data key="d0">"SONG"</data>
+      <data key="d1">"Ghostbusters is a song by Ray Parker, Jr., released in 1984 and reached the Top 20 on the Billboard Hot 100 chart"</data>
+      <data key="d2">b718598a516f68bb031473772af9f574</data>
+    </node>
+    <node id="&quot;RAY PARKER, JR.&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b718598a516f68bb031473772af9f574</data>
+    </node>
+    <node id="&quot;I STILL CAN'T GET OVER LOVING YOU&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b718598a516f68bb031473772af9f574</data>
+    </node>
+    <node id="&quot;COLUMBIA RECORDS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Columbia Records is a record label that released Julio Iglesias' album 1100 Bel Air Place in 1984."</data>
+      <data key="d2">133875aeef3ae963d23b27f563c652cf</data>
+    </node>
+    <node id="&quot;1100 BEL AIR PLACE&quot;">
+      <data key="d0">"ALBUM"</data>
+      <data key="d1">"1100 Bel Air Place is an album of love songs performed by Julio Iglesias, released in 1984."</data>
+      <data key="d2">133875aeef3ae963d23b27f563c652cf</data>
+    </node>
+    <node id="&quot;JULIO IGLESIAS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">133875aeef3ae963d23b27f563c652cf</data>
+    </node>
+    <node id="&quot;DEBUT ALBUM&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The debut album of Joey Lawrence was released on February 9, 1993, featuring the single 'Nothin' My Love Can't Fix'."</data>
+      <data key="d2">66a731bb42a66efd566d9e51da476973</data>
+    </node>
+    <node id="&quot;JOEY LAWRENCE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">66a731bb42a66efd566d9e51da476973</data>
+    </node>
+    <node id="&quot;LONDON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"London is the location where Roll Deep, a grime music collective, is based."</data>
+      <data key="d2">3a376a938acf0d8a5b0b0cf7e62fa1bf</data>
+    </node>
+    <node id="&quot;X&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"X is the fifth studio album by Roll Deep, released on 30 September 2012 to mark their ten years in the music industry."</data>
+      <data key="d2">3a376a938acf0d8a5b0b0cf7e62fa1bf</data>
+    </node>
+    <node id="&quot;ROLL DEEP&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3a376a938acf0d8a5b0b0cf7e62fa1bf</data>
+    </node>
+    <node id="&quot;PAUL GOLDING&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Paul Golding is the writer and director of the 1988 film Pulse, drawing influence from previous works of science fiction and horror."</data>
+      <data key="d2">9228702d52f5bb9ab62e0d06132138ea</data>
+    </node>
+    <node id="&quot;CLIFF DE YOUNG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Cliff De Young is an actor who starred in the 1988 film Pulse."</data>
+      <data key="d2">9228702d52f5bb9ab62e0d06132138ea</data>
+    </node>
+    <node id="&quot;ROXANNE HART&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Roxanne Hart is an actress who starred in the 1988 film Pulse."</data>
+      <data key="d2">9228702d52f5bb9ab62e0d06132138ea</data>
+    </node>
+    <node id="&quot;JOSEPH LAWRENCE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Joseph Lawrence is an actor who starred in the 1988 film Pulse."</data>
+      <data key="d2">9228702d52f5bb9ab62e0d06132138ea</data>
+    </node>
+    <node id="&quot;MATTHEW LAWRENCE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Matthew Lawrence is an actor who starred in the 1988 film Pulse."</data>
+      <data key="d2">9228702d52f5bb9ab62e0d06132138ea</data>
+    </node>
+    <node id="&quot;COLUMBIA PICTURES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Columbia Pictures is a film production company that produced and distributed the 1988 film Pulse."</data>
+      <data key="d2">9228702d52f5bb9ab62e0d06132138ea</data>
+    </node>
+    <node id="&quot;ASPEN FILM SOCIETY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Aspen Film Society is a film production company that co-produced the 1988 film Pulse."</data>
+      <data key="d2">9228702d52f5bb9ab62e0d06132138ea</data>
+    </node>
+    <node id="&quot;CINEMA RESEARCH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Cinema Research is a design company that designed the titular Pulse and its accompanying elements for the 1988 film."</data>
+      <data key="d2">9228702d52f5bb9ab62e0d06132138ea</data>
+    </node>
+    <node id="&quot;LOS ANGELES, CALIFORNIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Los Angeles, California is the location where the story of the 1988 film Pulse takes place."</data>
+      <data key="d2">9228702d52f5bb9ab62e0d06132138ea</data>
+    </node>
+    <node id="&quot;PULSE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9228702d52f5bb9ab62e0d06132138ea</data>
+    </node>
+    <node id="&quot;CLAY MILLS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Clay Mills is a songwriter who co-wrote the song 'I Got Nothin'' with Darius Rucker."</data>
+      <data key="d2">b98adc3a0c8390e30ae13eedaf9422cd</data>
+    </node>
+    <node id="&quot;CHARLESTON, SC 1966&quot;">
+      <data key="d0">"ALBUM"</data>
+      <data key="d1">"Charleston, SC 1966 is an album by Darius Rucker, from which the single 'I Got Nothin'' was released."</data>
+      <data key="d2">b98adc3a0c8390e30ae13eedaf9422cd</data>
+    </node>
+    <node id="&quot;I GOT NOTHIN'&quot;">
+      <data key="d0">"SONG"</data>
+      <data key="d1">"'I Got Nothin'' is a song recorded by Darius Rucker and co-written with Clay Mills, released in May 2011 as a solo single."</data>
+      <data key="d2">b98adc3a0c8390e30ae13eedaf9422cd</data>
+    </node>
+    <node id="&quot;DARIUS RUCKER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b98adc3a0c8390e30ae13eedaf9422cd</data>
+    </node>
+    <node id="&quot;VAN LEER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Van Leer is the name under which Thijs van Leer released his ninth album, I Hate Myself (for Loving You)."</data>
+      <data key="d2">2eb2714564b664169e46d6743395cbb8</data>
+    </node>
+    <node id="&quot;THIJS VAN LEER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2eb2714564b664169e46d6743395cbb8</data>
+    </node>
+    <node id="&quot;WARNER MUSIC CANADA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Warner Music Canada is a record label that released Patricia Conroy's album You Can't Resist in 1994."</data>
+      <data key="d2">9b5334f579c8cfa10049a94a6867ec3a</data>
+    </node>
+    <node id="&quot;YOU CAN'T RESIST&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"You Can't Resist is the third studio album by Patricia Conroy, released in 1994."</data>
+      <data key="d2">9b5334f579c8cfa10049a94a6867ec3a</data>
+    </node>
+    <node id="&quot;PATRICIA CONROY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9b5334f579c8cfa10049a94a6867ec3a</data>
+    </node>
+    <node id="&quot;DAVID FOSTER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"David Foster was a founder of the American band Airplay and co-writer of several songs, including 'After the Love Has Gone'."</data>
+      <data key="d2">f3f7ad852f6d4118b64889915d02bafc</data>
+    </node>
+    <node id="&quot;JAY GRAYDON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jay Graydon was a founder of the American band Airplay and co-writer of several songs, including 'After the Love Has Gone'."</data>
+      <data key="d2">f3f7ad852f6d4118b64889915d02bafc</data>
+    </node>
+    <node id="&quot;THE MANHATTAN TRANSFER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Manhattan Transfer is an American vocal group that originally recorded 'Nothin' You Can Do About It', later covered by Airplay."</data>
+      <data key="d2">f3f7ad852f6d4118b64889915d02bafc</data>
+    </node>
+    <node id="&quot;EARTH, WIND &amp; FIRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Earth, Wind &amp; Fire is an American band whose hit song 'After the Love Has Gone' was covered by Airplay."</data>
+      <data key="d2">f3f7ad852f6d4118b64889915d02bafc</data>
+    </node>
+    <node id="&quot;BILL CHAMPLIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bill Champlin co-wrote 'After the Love Has Gone' with David Foster and Jay Graydon."</data>
+      <data key="d2">f3f7ad852f6d4118b64889915d02bafc</data>
+    </node>
+    <node id="&quot;AIRPLAY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f3f7ad852f6d4118b64889915d02bafc</data>
+    </node>
+    <edge source="&quot;CELINE DION&quot;" target="&quot;FALLING INTO YOU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Falling into You is an album by Celine Dion that features the song 'Seduces Me', written by Dan Hill."</data>
+      <data key="d5">ee264521ea07ebb89cbce51c4e3909f2</data>
+    </edge>
+    <edge source="&quot;CANADA&quot;" target="&quot;WARNER MUSIC CANADA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Warner Music Canada is a record label located in Canada."</data>
+      <data key="d5">9b5334f579c8cfa10049a94a6867ec3a</data>
+    </edge>
+    <edge source="&quot;CANADA&quot;" target="&quot;PATRICIA CONROY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patricia Conroy is a Canadian country music singer/songwriter, indicating her nationality."</data>
+      <data key="d5">9b5334f579c8cfa10049a94a6867ec3a</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."</data>
+      <data key="d5">133875aeef3ae963d23b27f563c652cf,2eb2714564b664169e46d6743395cbb8,330224cdb777bce4a5762ff9d48dbe61,3a376a938acf0d8a5b0b0cf7e62fa1bf,5d0a546539495155287dbc5111593d14,66a731bb42a66efd566d9e51da476973,8225889c9e8f58f1d6e6e35434e486c2,9228702d52f5bb9ab62e0d06132138ea,9b5334f579c8cfa10049a94a6867ec3a,9edbf5ea9d83605ab02134e5013d6056,b718598a516f68bb031473772af9f574,b8f4e089a71fa3f4862e46ba2d872b94,b98adc3a0c8390e30ae13eedaf9422cd,cce433829c59e934b31e28258c5815ab,d31604685a09d678f62f548d1836ca83,ee264521ea07ebb89cbce51c4e3909f2,f3f7ad852f6d4118b64889915d02bafc,fbcc0268782bb116a473bea79c49e24a</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."</data>
+      <data key="d5">133875aeef3ae963d23b27f563c652cf,2eb2714564b664169e46d6743395cbb8,330224cdb777bce4a5762ff9d48dbe61,3a376a938acf0d8a5b0b0cf7e62fa1bf,5d0a546539495155287dbc5111593d14,66a731bb42a66efd566d9e51da476973,8225889c9e8f58f1d6e6e35434e486c2,9228702d52f5bb9ab62e0d06132138ea,9b5334f579c8cfa10049a94a6867ec3a,9edbf5ea9d83605ab02134e5013d6056,b718598a516f68bb031473772af9f574,b8f4e089a71fa3f4862e46ba2d872b94,b98adc3a0c8390e30ae13eedaf9422cd,cce433829c59e934b31e28258c5815ab,d31604685a09d678f62f548d1836ca83,ee264521ea07ebb89cbce51c4e3909f2,f3f7ad852f6d4118b64889915d02bafc,fbcc0268782bb116a473bea79c49e24a</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."</data>
+      <data key="d5">133875aeef3ae963d23b27f563c652cf,2eb2714564b664169e46d6743395cbb8,330224cdb777bce4a5762ff9d48dbe61,3a376a938acf0d8a5b0b0cf7e62fa1bf,5d0a546539495155287dbc5111593d14,66a731bb42a66efd566d9e51da476973,8225889c9e8f58f1d6e6e35434e486c2,9228702d52f5bb9ab62e0d06132138ea,9b5334f579c8cfa10049a94a6867ec3a,9edbf5ea9d83605ab02134e5013d6056,b718598a516f68bb031473772af9f574,b8f4e089a71fa3f4862e46ba2d872b94,b98adc3a0c8390e30ae13eedaf9422cd,cce433829c59e934b31e28258c5815ab,d31604685a09d678f62f548d1836ca83,ee264521ea07ebb89cbce51c4e3909f2,f3f7ad852f6d4118b64889915d02bafc,fbcc0268782bb116a473bea79c49e24a</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."</data>
+      <data key="d5">133875aeef3ae963d23b27f563c652cf,2eb2714564b664169e46d6743395cbb8,330224cdb777bce4a5762ff9d48dbe61,3a376a938acf0d8a5b0b0cf7e62fa1bf,5d0a546539495155287dbc5111593d14,66a731bb42a66efd566d9e51da476973,8225889c9e8f58f1d6e6e35434e486c2,9228702d52f5bb9ab62e0d06132138ea,9b5334f579c8cfa10049a94a6867ec3a,9edbf5ea9d83605ab02134e5013d6056,b718598a516f68bb031473772af9f574,b8f4e089a71fa3f4862e46ba2d872b94,b98adc3a0c8390e30ae13eedaf9422cd,cce433829c59e934b31e28258c5815ab,d31604685a09d678f62f548d1836ca83,ee264521ea07ebb89cbce51c4e3909f2,f3f7ad852f6d4118b64889915d02bafc,fbcc0268782bb116a473bea79c49e24a</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."</data>
+      <data key="d5">133875aeef3ae963d23b27f563c652cf,2eb2714564b664169e46d6743395cbb8,330224cdb777bce4a5762ff9d48dbe61,3a376a938acf0d8a5b0b0cf7e62fa1bf,5d0a546539495155287dbc5111593d14,66a731bb42a66efd566d9e51da476973,8225889c9e8f58f1d6e6e35434e486c2,9228702d52f5bb9ab62e0d06132138ea,9b5334f579c8cfa10049a94a6867ec3a,9edbf5ea9d83605ab02134e5013d6056,b718598a516f68bb031473772af9f574,b8f4e089a71fa3f4862e46ba2d872b94,b98adc3a0c8390e30ae13eedaf9422cd,cce433829c59e934b31e28258c5815ab,d31604685a09d678f62f548d1836ca83,ee264521ea07ebb89cbce51c4e3909f2,f3f7ad852f6d4118b64889915d02bafc,fbcc0268782bb116a473bea79c49e24a</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."</data>
+      <data key="d5">133875aeef3ae963d23b27f563c652cf,2eb2714564b664169e46d6743395cbb8,330224cdb777bce4a5762ff9d48dbe61,3a376a938acf0d8a5b0b0cf7e62fa1bf,5d0a546539495155287dbc5111593d14,66a731bb42a66efd566d9e51da476973,8225889c9e8f58f1d6e6e35434e486c2,9228702d52f5bb9ab62e0d06132138ea,9b5334f579c8cfa10049a94a6867ec3a,9edbf5ea9d83605ab02134e5013d6056,b718598a516f68bb031473772af9f574,b8f4e089a71fa3f4862e46ba2d872b94,b98adc3a0c8390e30ae13eedaf9422cd,cce433829c59e934b31e28258c5815ab,d31604685a09d678f62f548d1836ca83,ee264521ea07ebb89cbce51c4e3909f2,f3f7ad852f6d4118b64889915d02bafc,fbcc0268782bb116a473bea79c49e24a</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;CAN'T LET GO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The song Can't Let Go was released in the United States in 1991."</data>
+      <data key="d5">5d0a546539495155287dbc5111593d14</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;JOEY LAWRENCE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Joey Lawrence is an American actor and singer, indicating his nationality as American."</data>
+      <data key="d5">66a731bb42a66efd566d9e51da476973</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">133875aeef3ae963d23b27f563c652cf,2eb2714564b664169e46d6743395cbb8,330224cdb777bce4a5762ff9d48dbe61,3a376a938acf0d8a5b0b0cf7e62fa1bf,5d0a546539495155287dbc5111593d14,66a731bb42a66efd566d9e51da476973,8225889c9e8f58f1d6e6e35434e486c2,9228702d52f5bb9ab62e0d06132138ea,9b5334f579c8cfa10049a94a6867ec3a,9edbf5ea9d83605ab02134e5013d6056,b718598a516f68bb031473772af9f574,b8f4e089a71fa3f4862e46ba2d872b94,b98adc3a0c8390e30ae13eedaf9422cd,cce433829c59e934b31e28258c5815ab,d31604685a09d678f62f548d1836ca83,ee264521ea07ebb89cbce51c4e3909f2,f3f7ad852f6d4118b64889915d02bafc,fbcc0268782bb116a473bea79c49e24a</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."</data>
+      <data key="d5">133875aeef3ae963d23b27f563c652cf,2eb2714564b664169e46d6743395cbb8,330224cdb777bce4a5762ff9d48dbe61,3a376a938acf0d8a5b0b0cf7e62fa1bf,5d0a546539495155287dbc5111593d14,66a731bb42a66efd566d9e51da476973,8225889c9e8f58f1d6e6e35434e486c2,9228702d52f5bb9ab62e0d06132138ea,9b5334f579c8cfa10049a94a6867ec3a,9edbf5ea9d83605ab02134e5013d6056,b718598a516f68bb031473772af9f574,b8f4e089a71fa3f4862e46ba2d872b94,b98adc3a0c8390e30ae13eedaf9422cd,cce433829c59e934b31e28258c5815ab,d31604685a09d678f62f548d1836ca83,ee264521ea07ebb89cbce51c4e3909f2,f3f7ad852f6d4118b64889915d02bafc,fbcc0268782bb116a473bea79c49e24a</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">133875aeef3ae963d23b27f563c652cf,2eb2714564b664169e46d6743395cbb8,330224cdb777bce4a5762ff9d48dbe61,3a376a938acf0d8a5b0b0cf7e62fa1bf,5d0a546539495155287dbc5111593d14,66a731bb42a66efd566d9e51da476973,8225889c9e8f58f1d6e6e35434e486c2,9228702d52f5bb9ab62e0d06132138ea,9b5334f579c8cfa10049a94a6867ec3a,9edbf5ea9d83605ab02134e5013d6056,b718598a516f68bb031473772af9f574,b8f4e089a71fa3f4862e46ba2d872b94,b98adc3a0c8390e30ae13eedaf9422cd,cce433829c59e934b31e28258c5815ab,d31604685a09d678f62f548d1836ca83,ee264521ea07ebb89cbce51c4e3909f2,f3f7ad852f6d4118b64889915d02bafc,fbcc0268782bb116a473bea79c49e24a</data>
+    </edge>
+    <edge source="&quot;ICE RECORDS&quot;" target="&quot;EDDY GRANT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Eddy Grant owns Ice Records, which released his album Can't Get Enough."</data>
+      <data key="d5">8225889c9e8f58f1d6e6e35434e486c2</data>
+    </edge>
+    <edge source="&quot;UK&quot;" target="&quot;CAN'T GET ENOUGH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The album Can't Get Enough charted in the UK, peaking at #39 on the album charts."</data>
+      <data key="d5">8225889c9e8f58f1d6e6e35434e486c2</data>
+    </edge>
+    <edge source="&quot;CAN'T GET ENOUGH&quot;" target="&quot;EDDY GRANT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Eddy Grant is the artist who released the album Can't Get Enough in 1981."</data>
+      <data key="d5">8225889c9e8f58f1d6e6e35434e486c2</data>
+    </edge>
+    <edge source="&quot;AUSTRALIA&quot;" target="&quot;ESKIMO JOE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Eskimo Joe is an Australian rock band, indicating its origin and connection to the country."</data>
+      <data key="d5">fbcc0268782bb116a473bea79c49e24a</data>
+    </edge>
+    <edge source="&quot;GHOSTS OF THE PAST&quot;" target="&quot;ESKIMO JOE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Eskimo Joe released 'Ghosts of the Past', their fifth studio album, which features the song 'Love is a Drug'."</data>
+      <data key="d5">fbcc0268782bb116a473bea79c49e24a</data>
+    </edge>
+    <edge source="&quot;FIRE CHESS&quot;" target="&quot;LAVA GROUND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Fire Chess is a guest artist featured on I Wayne's debut album Lava Ground."</data>
+      <data key="d5">d31604685a09d678f62f548d1836ca83</data>
+    </edge>
+    <edge source="&quot;HARMONY&quot;" target="&quot;LAVA GROUND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Harmony is a guest artist featured on I Wayne's debut album Lava Ground."</data>
+      <data key="d5">d31604685a09d678f62f548d1836ca83</data>
+    </edge>
+    <edge source="&quot;FIRE STAR&quot;" target="&quot;LAVA GROUND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Fire Star is a guest artist featured on I Wayne's debut album Lava Ground."</data>
+      <data key="d5">d31604685a09d678f62f548d1836ca83</data>
+    </edge>
+    <edge source="&quot;P. HENRY&quot;" target="&quot;LAVA GROUND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"P. Henry produced tracks on I Wayne's debut album Lava Ground."</data>
+      <data key="d5">d31604685a09d678f62f548d1836ca83</data>
+    </edge>
+    <edge source="&quot;M.MILLER&quot;" target="&quot;LAVA GROUND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"M.Miller produced tracks on I Wayne's debut album Lava Ground."</data>
+      <data key="d5">d31604685a09d678f62f548d1836ca83</data>
+    </edge>
+    <edge source="&quot;O. HIBBERT&quot;" target="&quot;LAVA GROUND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"O. Hibbert produced tracks on I Wayne's debut album Lava Ground."</data>
+      <data key="d5">d31604685a09d678f62f548d1836ca83</data>
+    </edge>
+    <edge source="&quot;LAVA GROUND&quot;" target="&quot;I WAYNE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"I Wayne released the debut album Lava Ground."</data>
+      <data key="d5">d31604685a09d678f62f548d1836ca83</data>
+    </edge>
+    <edge source="&quot;JAMAICA&quot;" target="&quot;I WAYNE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"I Wayne is a Jamaican reggae artist."</data>
+      <data key="d5">d31604685a09d678f62f548d1836ca83</data>
+    </edge>
+    <edge source="&quot;MELODIYA&quot;" target="&quot;SOFIA ROTARU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sofia Rotaru's album Monologue of Love was released by Melodiya."</data>
+      <data key="d5">cce433829c59e934b31e28258c5815ab</data>
+    </edge>
+    <edge source="&quot;VESYOLYE REBYATA&quot;" target="&quot;MONOLOGUE OF LOVE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Vesyolye Rebyata contributed to the album Monologue of Love with new rock style arrangements."</data>
+      <data key="d5">cce433829c59e934b31e28258c5815ab</data>
+    </edge>
+    <edge source="&quot;FORUM&quot;" target="&quot;MONOLOGUE OF LOVE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Forum contributed to the album Monologue of Love with new rock style arrangements."</data>
+      <data key="d5">cce433829c59e934b31e28258c5815ab</data>
+    </edge>
+    <edge source="&quot;CHERVONA RUTA&quot;" target="&quot;MONOLOGUE OF LOVE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chervona Ruta contributed to the album Monologue of Love with new rock style arrangements."</data>
+      <data key="d5">cce433829c59e934b31e28258c5815ab</data>
+    </edge>
+    <edge source="&quot;I CAN'T BE NEW&quot;" target="&quot;SUSAN WERNER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Susan Werner is the artist who released the album I Can't Be New."</data>
+      <data key="d5">b8f4e089a71fa3f4862e46ba2d872b94</data>
+    </edge>
+    <edge source="&quot;I CAN'T BE NEW&quot;" target="&quot;2004&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The album I Can't Be New was released in 2004."</data>
+      <data key="d5">b8f4e089a71fa3f4862e46ba2d872b94</data>
+    </edge>
+    <edge source="&quot;EMOTIONS&quot;" target="&quot;MARIAH CAREY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mariah Carey is the artist behind the album Emotions."</data>
+      <data key="d5">5d0a546539495155287dbc5111593d14</data>
+    </edge>
+    <edge source="&quot;CAN'T LET GO&quot;" target="&quot;MARIAH CAREY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mariah Carey is the singer of the song Can't Let Go."</data>
+      <data key="d5">5d0a546539495155287dbc5111593d14</data>
+    </edge>
+    <edge source="&quot;GREEK THEATER&quot;" target="&quot;MOODY BLUES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Moody Blues recorded a performance at the Greek Theater for their live album."</data>
+      <data key="d5">9edbf5ea9d83605ab02134e5013d6056</data>
+    </edge>
+    <edge source="&quot;BOURNEMOUTH (UK)&quot;" target="&quot;2CR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"2CR is a radio station located in Bournemouth, UK."</data>
+      <data key="d5">9edbf5ea9d83605ab02134e5013d6056</data>
+    </edge>
+    <edge source="&quot;2CR&quot;" target="&quot;LAUNCH OF 2CR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The launch of 2CR is an event where the song was played for the first time on the radio station."</data>
+      <data key="d5">9edbf5ea9d83605ab02134e5013d6056</data>
+    </edge>
+    <edge source="&quot;MELBA LISTON&quot;" target="&quot;FOR SOMEONE I LOVE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Melba Liston arranged the music for Milt Jackson's album For Someone I Love."</data>
+      <data key="d5">330224cdb777bce4a5762ff9d48dbe61</data>
+    </edge>
+    <edge source="&quot;RIVERSIDE&quot;" target="&quot;FOR SOMEONE I LOVE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Riverside released Milt Jackson's album For Someone I Love."</data>
+      <data key="d5">330224cdb777bce4a5762ff9d48dbe61</data>
+    </edge>
+    <edge source="&quot;FOR SOMEONE I LOVE&quot;" target="&quot;MILT JACKSON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Milt Jackson recorded the album For Someone I Love."</data>
+      <data key="d5">330224cdb777bce4a5762ff9d48dbe61</data>
+    </edge>
+    <edge source="&quot;WOMAN OUT OF CONTROL&quot;" target="&quot;RAY PARKER, JR.&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ray Parker, Jr. wrote and performed the album Woman Out of Control"</data>
+      <data key="d5">b718598a516f68bb031473772af9f574</data>
+    </edge>
+    <edge source="&quot;BILLBOARD&quot;" target="&quot;I STILL CAN'T GET OVER LOVING YOU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The song 'I Still Can't Get Over Loving You' reached #12 on the Billboard Hot 100 chart"</data>
+      <data key="d5">b718598a516f68bb031473772af9f574</data>
+    </edge>
+    <edge source="&quot;GHOSTBUSTERS&quot;" target="&quot;RAY PARKER, JR.&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ray Parker, Jr. wrote and performed the song Ghostbusters"</data>
+      <data key="d5">b718598a516f68bb031473772af9f574</data>
+    </edge>
+    <edge source="&quot;COLUMBIA RECORDS&quot;" target="&quot;JULIO IGLESIAS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Julio Iglesias' album 1100 Bel Air Place was released by Columbia Records."</data>
+      <data key="d5">133875aeef3ae963d23b27f563c652cf</data>
+    </edge>
+    <edge source="&quot;1100 BEL AIR PLACE&quot;" target="&quot;JULIO IGLESIAS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Julio Iglesias performed the album 1100 Bel Air Place."</data>
+      <data key="d5">133875aeef3ae963d23b27f563c652cf</data>
+    </edge>
+    <edge source="&quot;DEBUT ALBUM&quot;" target="&quot;JOEY LAWRENCE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Joey Lawrence released a debut album on February 9, 1993, featuring the single 'Nothin' My Love Can't Fix'."&gt;</data>
+      <data key="d5">66a731bb42a66efd566d9e51da476973</data>
+    </edge>
+    <edge source="&quot;LONDON&quot;" target="&quot;ROLL DEEP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Roll Deep is a London-based grime music collective."</data>
+      <data key="d5">3a376a938acf0d8a5b0b0cf7e62fa1bf</data>
+    </edge>
+    <edge source="&quot;X&quot;" target="&quot;ROLL DEEP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Roll Deep released their fifth studio album X on 30 September 2012."</data>
+      <data key="d5">3a376a938acf0d8a5b0b0cf7e62fa1bf</data>
+    </edge>
+    <edge source="&quot;PAUL GOLDING&quot;" target="&quot;PULSE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Paul Golding wrote and directed the 1988 film Pulse."</data>
+      <data key="d5">9228702d52f5bb9ab62e0d06132138ea</data>
+    </edge>
+    <edge source="&quot;CLIFF DE YOUNG&quot;" target="&quot;PULSE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cliff De Young starred in the 1988 film Pulse."</data>
+      <data key="d5">9228702d52f5bb9ab62e0d06132138ea</data>
+    </edge>
+    <edge source="&quot;ROXANNE HART&quot;" target="&quot;PULSE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Roxanne Hart starred in the 1988 film Pulse."</data>
+      <data key="d5">9228702d52f5bb9ab62e0d06132138ea</data>
+    </edge>
+    <edge source="&quot;JOSEPH LAWRENCE&quot;" target="&quot;PULSE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Joseph Lawrence starred in the 1988 film Pulse."</data>
+      <data key="d5">9228702d52f5bb9ab62e0d06132138ea</data>
+    </edge>
+    <edge source="&quot;MATTHEW LAWRENCE&quot;" target="&quot;PULSE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Matthew Lawrence starred in the 1988 film Pulse."</data>
+      <data key="d5">9228702d52f5bb9ab62e0d06132138ea</data>
+    </edge>
+    <edge source="&quot;COLUMBIA PICTURES&quot;" target="&quot;PULSE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Columbia Pictures produced and distributed the 1988 film Pulse."</data>
+      <data key="d5">9228702d52f5bb9ab62e0d06132138ea</data>
+    </edge>
+    <edge source="&quot;ASPEN FILM SOCIETY&quot;" target="&quot;PULSE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Aspen Film Society co-produced the 1988 film Pulse."</data>
+      <data key="d5">9228702d52f5bb9ab62e0d06132138ea</data>
+    </edge>
+    <edge source="&quot;CINEMA RESEARCH&quot;" target="&quot;PULSE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cinema Research designed the titular Pulse and its accompanying elements for the 1988 film."</data>
+      <data key="d5">9228702d52f5bb9ab62e0d06132138ea</data>
+    </edge>
+    <edge source="&quot;CLAY MILLS&quot;" target="&quot;DARIUS RUCKER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Darius Rucker co-wrote the song 'I Got Nothin'' with Clay Mills."</data>
+      <data key="d5">b98adc3a0c8390e30ae13eedaf9422cd</data>
+    </edge>
+    <edge source="&quot;CLAY MILLS&quot;" target="&quot;I GOT NOTHIN'&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Clay Mills co-wrote the song 'I Got Nothin'' with Darius Rucker."</data>
+      <data key="d5">b98adc3a0c8390e30ae13eedaf9422cd</data>
+    </edge>
+    <edge source="&quot;CHARLESTON, SC 1966&quot;" target="&quot;DARIUS RUCKER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The song 'I Got Nothin'' is part of Darius Rucker's album Charleston, SC 1966."</data>
+      <data key="d5">b98adc3a0c8390e30ae13eedaf9422cd</data>
+    </edge>
+    <edge source="&quot;VAN LEER&quot;" target="&quot;THIJS VAN LEER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Thijs van Leer is associated with Van Leer as the artist who released an album under this name."</data>
+      <data key="d5">2eb2714564b664169e46d6743395cbb8</data>
+    </edge>
+    <edge source="&quot;WARNER MUSIC CANADA&quot;" target="&quot;YOU CAN'T RESIST&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Warner Music Canada is the record label that released Patricia Conroy's album You Can't Resist."</data>
+      <data key="d5">9b5334f579c8cfa10049a94a6867ec3a</data>
+    </edge>
+    <edge source="&quot;YOU CAN'T RESIST&quot;" target="&quot;PATRICIA CONROY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patricia Conroy is the artist who released the album You Can't Resist."</data>
+      <data key="d5">9b5334f579c8cfa10049a94a6867ec3a</data>
+    </edge>
+    <edge source="&quot;DAVID FOSTER&quot;" target="&quot;AIRPLAY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"David Foster is a founder of the band Airplay."</data>
+      <data key="d5">f3f7ad852f6d4118b64889915d02bafc</data>
+    </edge>
+    <edge source="&quot;DAVID FOSTER&quot;" target="&quot;BILL CHAMPLIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bill Champlin co-wrote 'After the Love Has Gone' with David Foster and Jay Graydon."</data>
+      <data key="d5">f3f7ad852f6d4118b64889915d02bafc</data>
+    </edge>
+    <edge source="&quot;JAY GRAYDON&quot;" target="&quot;AIRPLAY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jay Graydon is a founder of the band Airplay."</data>
+      <data key="d5">f3f7ad852f6d4118b64889915d02bafc</data>
+    </edge>
+    <edge source="&quot;THE MANHATTAN TRANSFER&quot;" target="&quot;AIRPLAY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Airplay covered The Manhattan Transfer's song 'Nothin' You Can Do About It'."&gt;</data>
+      <data key="d5">f3f7ad852f6d4118b64889915d02bafc</data>
+    </edge>
+    <edge source="&quot;EARTH, WIND &amp; FIRE&quot;" target="&quot;AIRPLAY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Airplay covered Earth, Wind &amp; Fire's song 'After the Love Has Gone'."&gt;</data>
+      <data key="d5">f3f7ad852f6d4118b64889915d02bafc</data>
+    </edge>
+  </graph>
+</graphml>

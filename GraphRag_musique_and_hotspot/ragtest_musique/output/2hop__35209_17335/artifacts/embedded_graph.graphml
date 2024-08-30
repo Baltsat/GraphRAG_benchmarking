@@ -1,0 +1,885 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;OTTOMAN EMPIRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+The Ottoman Empire was an empire led by Sultan Mehmed the Conqueror, known for its military conquests, including the capture of Constantinople in 1453.</data>
+      <data key="d2">9ba9822104f0e0dd6832e609c1dbcf54,a5bfb430c56a154a3eae5d69326f3507</data>
+    </node>
+    <node id="&quot;BYZANTINE EMPIRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Byzantine Empire, also known as the Eastern Roman Empire, was a historical empire that had its capital in Constantinople. Despite losing its western territories, it maintained a claim over them but had limited control. The empire survived in the east and remained a major power, with its law code, the Code of Justinian, being rediscovered in Northern Italy in 1070. However, its reign eventually came to an end when Constantinople was conquered by the Ottoman Empire in 1453.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">75b7aa9e79b12259049859959ac16b1b,94ed81a8918c0410f7392b70082e3651,a5bfb430c56a154a3eae5d69326f3507,fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </node>
+    <node id="&quot;MEHMED THE CONQUEROR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mehmed the Conqueror was the 21-year-old Sultan of the Ottoman Empire who led the conquest of Constantinople in 1453."</data>
+      <data key="d2">a5bfb430c56a154a3eae5d69326f3507</data>
+    </node>
+    <node id="&quot;CONSTANTINE XI PALAIOLOGOS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Constantine XI Palaiologos was the Byzantine Emperor who commanded an army that was defeated by the Ottomans during the conquest of Constantinople."</data>
+      <data key="d2">a5bfb430c56a154a3eae5d69326f3507</data>
+    </node>
+    <node id="&quot;THE FALL OF CONSTANTINOPLE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Fall of Constantinople was a historical and significant event in which the Ottoman army, representing the Ottoman Empire, captured the capital of the Byzantine Empire on 29 May 1453.</data>
+      <data key="d2">94ed81a8918c0410f7392b70082e3651,a5bfb430c56a154a3eae5d69326f3507</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">1346d6522e1c9783a1d5ee065f44774b,55e0183a1283b79e0eeb5d8559bdc765,75b7aa9e79b12259049859959ac16b1b,76d949dd68b1e9b69d725ad767a8043b,7b61734070bcf149c4aab041788cde48,88d20afada2e8dff7d1ce2509b138dfa,94ed81a8918c0410f7392b70082e3651,9a81376a98c56904e8350416e49ec2e4,9ba9822104f0e0dd6832e609c1dbcf54,a5bfb430c56a154a3eae5d69326f3507,af72e870935995b86574e303dc03f5b1,e7e142c5dd125e147c6f7c0a72f83e50,f821617d818e560c412b668d7b775b2d,fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">1346d6522e1c9783a1d5ee065f44774b,55e0183a1283b79e0eeb5d8559bdc765,75b7aa9e79b12259049859959ac16b1b,76d949dd68b1e9b69d725ad767a8043b,7b61734070bcf149c4aab041788cde48,88d20afada2e8dff7d1ce2509b138dfa,94ed81a8918c0410f7392b70082e3651,9a81376a98c56904e8350416e49ec2e4,9ba9822104f0e0dd6832e609c1dbcf54,a5bfb430c56a154a3eae5d69326f3507,af72e870935995b86574e303dc03f5b1,e7e142c5dd125e147c6f7c0a72f83e50,f821617d818e560c412b668d7b775b2d,fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">1346d6522e1c9783a1d5ee065f44774b,55e0183a1283b79e0eeb5d8559bdc765,75b7aa9e79b12259049859959ac16b1b,76d949dd68b1e9b69d725ad767a8043b,7b61734070bcf149c4aab041788cde48,88d20afada2e8dff7d1ce2509b138dfa,94ed81a8918c0410f7392b70082e3651,9a81376a98c56904e8350416e49ec2e4,9ba9822104f0e0dd6832e609c1dbcf54,a5bfb430c56a154a3eae5d69326f3507,af72e870935995b86574e303dc03f5b1,e7e142c5dd125e147c6f7c0a72f83e50,f821617d818e560c412b668d7b775b2d,fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">1346d6522e1c9783a1d5ee065f44774b,55e0183a1283b79e0eeb5d8559bdc765,75b7aa9e79b12259049859959ac16b1b,76d949dd68b1e9b69d725ad767a8043b,7b61734070bcf149c4aab041788cde48,88d20afada2e8dff7d1ce2509b138dfa,94ed81a8918c0410f7392b70082e3651,9a81376a98c56904e8350416e49ec2e4,9ba9822104f0e0dd6832e609c1dbcf54,a5bfb430c56a154a3eae5d69326f3507,af72e870935995b86574e303dc03f5b1,e7e142c5dd125e147c6f7c0a72f83e50,f821617d818e560c412b668d7b775b2d,fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">1346d6522e1c9783a1d5ee065f44774b,55e0183a1283b79e0eeb5d8559bdc765,75b7aa9e79b12259049859959ac16b1b,76d949dd68b1e9b69d725ad767a8043b,7b61734070bcf149c4aab041788cde48,88d20afada2e8dff7d1ce2509b138dfa,94ed81a8918c0410f7392b70082e3651,9a81376a98c56904e8350416e49ec2e4,9ba9822104f0e0dd6832e609c1dbcf54,a5bfb430c56a154a3eae5d69326f3507,af72e870935995b86574e303dc03f5b1,e7e142c5dd125e147c6f7c0a72f83e50,f821617d818e560c412b668d7b775b2d,fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">1346d6522e1c9783a1d5ee065f44774b,55e0183a1283b79e0eeb5d8559bdc765,75b7aa9e79b12259049859959ac16b1b,76d949dd68b1e9b69d725ad767a8043b,7b61734070bcf149c4aab041788cde48,88d20afada2e8dff7d1ce2509b138dfa,94ed81a8918c0410f7392b70082e3651,9a81376a98c56904e8350416e49ec2e4,9ba9822104f0e0dd6832e609c1dbcf54,a5bfb430c56a154a3eae5d69326f3507,af72e870935995b86574e303dc03f5b1,e7e142c5dd125e147c6f7c0a72f83e50,f821617d818e560c412b668d7b775b2d,fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">1346d6522e1c9783a1d5ee065f44774b,55e0183a1283b79e0eeb5d8559bdc765,75b7aa9e79b12259049859959ac16b1b,76d949dd68b1e9b69d725ad767a8043b,7b61734070bcf149c4aab041788cde48,88d20afada2e8dff7d1ce2509b138dfa,94ed81a8918c0410f7392b70082e3651,9a81376a98c56904e8350416e49ec2e4,9ba9822104f0e0dd6832e609c1dbcf54,a5bfb430c56a154a3eae5d69326f3507,af72e870935995b86574e303dc03f5b1,e7e142c5dd125e147c6f7c0a72f83e50,f821617d818e560c412b668d7b775b2d,fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">1346d6522e1c9783a1d5ee065f44774b,55e0183a1283b79e0eeb5d8559bdc765,75b7aa9e79b12259049859959ac16b1b,76d949dd68b1e9b69d725ad767a8043b,7b61734070bcf149c4aab041788cde48,88d20afada2e8dff7d1ce2509b138dfa,94ed81a8918c0410f7392b70082e3651,9a81376a98c56904e8350416e49ec2e4,9ba9822104f0e0dd6832e609c1dbcf54,a5bfb430c56a154a3eae5d69326f3507,af72e870935995b86574e303dc03f5b1,e7e142c5dd125e147c6f7c0a72f83e50,f821617d818e560c412b668d7b775b2d,fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">1346d6522e1c9783a1d5ee065f44774b,55e0183a1283b79e0eeb5d8559bdc765,75b7aa9e79b12259049859959ac16b1b,76d949dd68b1e9b69d725ad767a8043b,7b61734070bcf149c4aab041788cde48,88d20afada2e8dff7d1ce2509b138dfa,94ed81a8918c0410f7392b70082e3651,9a81376a98c56904e8350416e49ec2e4,9ba9822104f0e0dd6832e609c1dbcf54,a5bfb430c56a154a3eae5d69326f3507,af72e870935995b86574e303dc03f5b1,e7e142c5dd125e147c6f7c0a72f83e50,f821617d818e560c412b668d7b775b2d,fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1346d6522e1c9783a1d5ee065f44774b,55e0183a1283b79e0eeb5d8559bdc765,75b7aa9e79b12259049859959ac16b1b,76d949dd68b1e9b69d725ad767a8043b,7b61734070bcf149c4aab041788cde48,88d20afada2e8dff7d1ce2509b138dfa,94ed81a8918c0410f7392b70082e3651,9a81376a98c56904e8350416e49ec2e4,9ba9822104f0e0dd6832e609c1dbcf54,a5bfb430c56a154a3eae5d69326f3507,af72e870935995b86574e303dc03f5b1,e7e142c5dd125e147c6f7c0a72f83e50,f821617d818e560c412b668d7b775b2d,fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </node>
+    <node id="&quot;JAFFNA KINGDOM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Jaffna Kingdom is a kingdom where Varodaya Cinkaiariyan ruled as a king."</data>
+      <data key="d2">1346d6522e1c9783a1d5ee065f44774b</data>
+    </node>
+    <node id="&quot;PANDYAN EMPIRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Pandyan Empire was an empire that controlled the pearl fisheries before Varodaya Cinkaiariyan took over."</data>
+      <data key="d2">1346d6522e1c9783a1d5ee065f44774b</data>
+    </node>
+    <node id="&quot;DAMBADENIYA-BASED KINGDOMS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Dambadeniya-based kingdoms are southern kingdoms that were invaded by Varodaya Cinkaiariyan."</data>
+      <data key="d2">1346d6522e1c9783a1d5ee065f44774b</data>
+    </node>
+    <node id="&quot;VARODAYA CINKAIARIYAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1346d6522e1c9783a1d5ee065f44774b</data>
+    </node>
+    <node id="&quot;SCLAVENI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Sclaveni are a group of Slavs that appear in Byzantine records in the early 6th century."</data>
+      <data key="d2">55e0183a1283b79e0eeb5d8559bdc765</data>
+    </node>
+    <node id="&quot;JUSTINIAN I&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Justinian I was a Byzantine Emperor from 527-565 who ruled during the time when the Antes and Sclaveni emerged."</data>
+      <data key="d2">55e0183a1283b79e0eeb5d8559bdc765</data>
+    </node>
+    <node id="&quot;PROCOPIUS OF CAESAREA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Procopius of Caesarea was a Byzantine historiographer who wrote about the Antes and Sclaveni."</data>
+      <data key="d2">55e0183a1283b79e0eeb5d8559bdc765</data>
+    </node>
+    <node id="&quot;JORDANES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jordanes was a Byzantine historiographer who wrote about the Antes and Sclaveni."</data>
+      <data key="d2">55e0183a1283b79e0eeb5d8559bdc765</data>
+    </node>
+    <node id="&quot;THEOPHYLACT SIMOCATTA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Theophylact Simocatta was a Byzantine historiographer who wrote about the Antes and Sclaveni."</data>
+      <data key="d2">55e0183a1283b79e0eeb5d8559bdc765</data>
+    </node>
+    <node id="&quot;CARPATHIAN MOUNTAINS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Carpathian Mountains are a region where the Antes and Sclaveni emerged from."</data>
+      <data key="d2">55e0183a1283b79e0eeb5d8559bdc765</data>
+    </node>
+    <node id="&quot;LOWER DANUBE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Lower Danube is a region where the Antes and Sclaveni emerged from."</data>
+      <data key="d2">55e0183a1283b79e0eeb5d8559bdc765</data>
+    </node>
+    <node id="&quot;BLACK SEA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Black Sea is a region where the Antes and Sclaveni emerged from."</data>
+      <data key="d2">55e0183a1283b79e0eeb5d8559bdc765</data>
+    </node>
+    <node id="&quot;ANTES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">55e0183a1283b79e0eeb5d8559bdc765</data>
+    </node>
+    <node id="&quot;CHOLA EMPIRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Chola Empire was a powerful empire in India that expanded its influence to North India and across the Indian ocean under Rajendra Chola I's reign."</data>
+      <data key="d2">76d949dd68b1e9b69d725ad767a8043b</data>
+    </node>
+    <node id="&quot;RAJARAJA CHOLA I&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Rajaraja Chola I was the father of Rajendra Chola I and the predecessor to the throne."</data>
+      <data key="d2">76d949dd68b1e9b69d725ad767a8043b</data>
+    </node>
+    <node id="&quot;INDIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+India is a country with a rich history, having been home to several empires that expanded their influence across its territory. During the reign of Rajendra Chola I, the Chola Empire flourished and extended its reach within India. Additionally, India was also the geographic location where Skandagupta's empire existed, and it was here that he fought against the Huns.</data>
+      <data key="d2">76d949dd68b1e9b69d725ad767a8043b,9a81376a98c56904e8350416e49ec2e4</data>
+    </node>
+    <node id="&quot;GANGAIKONDA CHOLAPURAM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Gangaikonda Cholapuram is a city in India built by Rajendra Chola I to commemorate his victory over Mahipala, the Pala king of Bengal and Bihar."</data>
+      <data key="d2">76d949dd68b1e9b69d725ad767a8043b</data>
+    </node>
+    <node id="&quot;SRI LANKA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Sri Lanka is an island nation that was conquered by Rajendra Chola I during his reign."</data>
+      <data key="d2">76d949dd68b1e9b69d725ad767a8043b</data>
+    </node>
+    <node id="&quot;MALDIVES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Maldives is a country that was conquered by Rajendra Chola I during his reign."</data>
+      <data key="d2">76d949dd68b1e9b69d725ad767a8043b</data>
+    </node>
+    <node id="&quot;SRIVIJAYA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Srivijaya was a kingdom in Malaysia, Southern Thailand, and Indonesia that was invaded by Rajendra Chola I during his reign."</data>
+      <data key="d2">76d949dd68b1e9b69d725ad767a8043b</data>
+    </node>
+    <node id="&quot;THAILAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Thailand is a country that paid tribute to the Chola Empire under Rajendra Chola I's reign."</data>
+      <data key="d2">76d949dd68b1e9b69d725ad767a8043b</data>
+    </node>
+    <node id="&quot;KHMER KINGDOM OF CAMBODIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Khmer kingdom of Cambodia was a kingdom that paid tribute to the Chola Empire under Rajendra Chola I's reign."</data>
+      <data key="d2">76d949dd68b1e9b69d725ad767a8043b</data>
+    </node>
+    <node id="&quot;MAHIPALA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mahipala was the Pala king of Bengal and Bihar who was defeated by Rajendra Chola I during his reign."</data>
+      <data key="d2">76d949dd68b1e9b69d725ad767a8043b</data>
+    </node>
+    <node id="&quot;RAJENDRA CHOLA I&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">76d949dd68b1e9b69d725ad767a8043b</data>
+    </node>
+    <node id="&quot;HUNS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Huns, also referred to as Indo-Hephthalites or Hunas, probably Kidarites, were an invading force from the northwest that Skandagupta fought against."</data>
+      <data key="d2">9a81376a98c56904e8350416e49ec2e4</data>
+    </node>
+    <node id="&quot;EMPIRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The empire refers to the territory ruled by Skandagupta's family, where he was celebrated as a great warrior."</data>
+      <data key="d2">9a81376a98c56904e8350416e49ec2e4</data>
+    </node>
+    <node id="&quot;SKANDAGUPTA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9a81376a98c56904e8350416e49ec2e4</data>
+    </node>
+    <node id="&quot;TIMURID EMPIRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Timurid Empire was a powerful empire founded by Timur, which invaded Anatolia from the east and defeated the Ottoman forces."</data>
+      <data key="d2">9ba9822104f0e0dd6832e609c1dbcf54</data>
+    </node>
+    <node id="&quot;BYZANTINE LANDS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Byzantine lands refer to the territories formerly controlled by the Byzantine Empire, surrounding Constantinople."</data>
+      <data key="d2">9ba9822104f0e0dd6832e609c1dbcf54</data>
+    </node>
+    <node id="&quot;CONSTANTINOPLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Constantinople is a strategic location that was a crucial objective for the Turkish dominion to conquer.</data>
+      <data key="d2">94ed81a8918c0410f7392b70082e3651,9ba9822104f0e0dd6832e609c1dbcf54</data>
+    </node>
+    <node id="&quot;TIMUR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Timur was the Turco-Mongol leader who founded the Timurid Empire and invaded Anatolia, defeating the Ottoman forces."</data>
+      <data key="d2">9ba9822104f0e0dd6832e609c1dbcf54</data>
+    </node>
+    <node id="&quot;SULTAN BAYEZID I&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sultan Bayezid I was the ruler of the Ottoman Empire who was taken prisoner by Timur in 1402."</data>
+      <data key="d2">9ba9822104f0e0dd6832e609c1dbcf54</data>
+    </node>
+    <node id="&quot;MEHMED I&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mehmed I was the sultan who emerged victorious from the civil war and restored Ottoman power, ending the Interregnum."</data>
+      <data key="d2">9ba9822104f0e0dd6832e609c1dbcf54</data>
+    </node>
+    <node id="&quot;BATTLE OF ANKARA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Battle of Ankara was a significant event in 1402 where Timur defeated the Ottoman forces and took Sultan Bayezid I as a prisoner."</data>
+      <data key="d2">9ba9822104f0e0dd6832e609c1dbcf54</data>
+    </node>
+    <node id="&quot;INTERREGNUM&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Interregnum, also known as the Fetret Devri, was a period of civil war from 1402 to 1413 when Bayezid's sons fought over succession."</data>
+      <data key="d2">9ba9822104f0e0dd6832e609c1dbcf54</data>
+    </node>
+    <node id="&quot;TURKISH DOMINION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9ba9822104f0e0dd6832e609c1dbcf54</data>
+    </node>
+    <node id="&quot;TOM CRUISE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Tom Cruise plays the role of Major William Cage, a public relations officer with no combat experience, in the film Edge of Tomorrow."</data>
+      <data key="d2">af72e870935995b86574e303dc03f5b1</data>
+    </node>
+    <node id="&quot;EMILY BLUNT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Emily Blunt plays the role of Special Forces warrior Rita Vrataski in the film Edge of Tomorrow."</data>
+      <data key="d2">af72e870935995b86574e303dc03f5b1</data>
+    </node>
+    <node id="&quot;DOUG LIMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Doug Liman directed the film Edge of Tomorrow based on a screenplay adapted from the 2004 Japanese light novel All You Need Is Kill."</data>
+      <data key="d2">af72e870935995b86574e303dc03f5b1</data>
+    </node>
+    <node id="&quot;HIROSHI SAKURAZAKA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hiroshi Sakurazaka is the author of the 2004 Japanese light novel All You Need Is Kill, which was adapted into the film Edge of Tomorrow."</data>
+      <data key="d2">af72e870935995b86574e303dc03f5b1</data>
+    </node>
+    <node id="&quot;MAJOR WILLIAM CAGE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Major William Cage is a public relations officer with no combat experience who finds himself in a time loop during a battle against aliens."</data>
+      <data key="d2">af72e870935995b86574e303dc03f5b1</data>
+    </node>
+    <node id="&quot;RITA VRATASKI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Rita Vrataski is a Special Forces warrior who teams up with Major William Cage to improve his fighting skills and defeat the extraterrestrial invaders."</data>
+      <data key="d2">af72e870935995b86574e303dc03f5b1</data>
+    </node>
+    <node id="&quot;EDGE OF TOMORROW&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">af72e870935995b86574e303dc03f5b1</data>
+    </node>
+    <node id="&quot;ALL YOU NEED IS KILL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">af72e870935995b86574e303dc03f5b1</data>
+    </node>
+    <node id="&quot;SWEDISH EMPIRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Swedish Empire is a country that formed an alliance with the Kingdom of France during the Thirty Years' War."</data>
+      <data key="d2">e7e142c5dd125e147c6f7c0a72f83e50</data>
+    </node>
+    <node id="&quot;KINGDOM OF FRANCE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Kingdom of France is a country that formed an alliance with the Swedish Empire during the Thirty Years' War."</data>
+      <data key="d2">e7e142c5dd125e147c6f7c0a72f83e50</data>
+    </node>
+    <node id="&quot;FERDINAND II, HOLY ROMAN EMPEROR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ferdinand II, Holy Roman Emperor is a person whose forces occupied Northern Germany during the Thirty Years' War."</data>
+      <data key="d2">e7e142c5dd125e147c6f7c0a72f83e50</data>
+    </node>
+    <node id="&quot;NORTHERN GERMANY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Northern Germany is a geographic region that was occupied by Ferdinand II, Holy Roman Emperor's forces during the Thirty Years' War."</data>
+      <data key="d2">e7e142c5dd125e147c6f7c0a72f83e50</data>
+    </node>
+    <node id="&quot;THE TREATY OF B&#196;RWALDE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e7e142c5dd125e147c6f7c0a72f83e50</data>
+    </node>
+    <node id="&quot;ALEXANDER THE GREAT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Alexander the Great was a prominent figure in ancient Greek history, whose death marked the beginning of the Hellenistic period.</data>
+      <data key="d2">88d20afada2e8dff7d1ce2509b138dfa,f821617d818e560c412b668d7b775b2d</data>
+    </node>
+    <node id="&quot;ROMAN EMPIRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Roman Empire emerged as a dominant power after the Battle of Actium and the conquest of Ptolemaic Egypt."</data>
+      <data key="d2">88d20afada2e8dff7d1ce2509b138dfa</data>
+    </node>
+    <node id="&quot;PTOLEMAIC EGYPT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ptolemaic Egypt was a region conquered by the Roman Empire, marking the end of the Hellenistic period."</data>
+      <data key="d2">88d20afada2e8dff7d1ce2509b138dfa</data>
+    </node>
+    <node id="&quot;EUCLID&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Euclid was a mathematician who made significant contributions to Greek Science during the Hellenistic period."</data>
+      <data key="d2">88d20afada2e8dff7d1ce2509b138dfa</data>
+    </node>
+    <node id="&quot;ARCHIMEDES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Archimedes was a polymath who advanced Greek Science with his works during the Hellenistic period."</data>
+      <data key="d2">88d20afada2e8dff7d1ce2509b138dfa</data>
+    </node>
+    <node id="&quot;SERAPIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Serapis is a Greco-Egyptian god that emerged during the Hellenistic period, expanding the religious sphere."</data>
+      <data key="d2">88d20afada2e8dff7d1ce2509b138dfa</data>
+    </node>
+    <node id="&quot;ATTIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Attis is an eastern deity adopted by the Greeks during the Hellenistic period, contributing to the expansion of the religious sphere."</data>
+      <data key="d2">88d20afada2e8dff7d1ce2509b138dfa</data>
+    </node>
+    <node id="&quot;CYBELE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Cybele is an eastern deity adopted by the Greeks during the Hellenistic period, contributing to the expansion of the religious sphere."</data>
+      <data key="d2">88d20afada2e8dff7d1ce2509b138dfa</data>
+    </node>
+    <node id="&quot;HELLENISTIC PERIOD&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">88d20afada2e8dff7d1ce2509b138dfa</data>
+    </node>
+    <node id="&quot;GREEK SCIENCE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">88d20afada2e8dff7d1ce2509b138dfa</data>
+    </node>
+    <node id="&quot;CALIPHATE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Caliphate was an Islamic empire that conquered North Africa and the Middle East in the 7th century."</data>
+      <data key="d2">75b7aa9e79b12259049859959ac16b1b</data>
+    </node>
+    <node id="&quot;CAROLINGIAN EMPIRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Carolingian Empire was briefly established by the Franks under the Carolingian dynasty during the later 8th and early 9th century, covering much of Western Europe."</data>
+      <data key="d2">75b7aa9e79b12259049859959ac16b1b</data>
+    </node>
+    <node id="&quot;MUHAMMAD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Muhammad's successors conquered North Africa and the Middle East, establishing the Caliphate."</data>
+      <data key="d2">75b7aa9e79b12259049859959ac16b1b</data>
+    </node>
+    <node id="&quot;JUSTINIAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Justinian was a Byzantine Emperor who ruled from 527 to 565 and achieved significant accomplishments during his reign. Notably, he temporarily reconquered the Italian peninsula and Mediterranean periphery. Additionally, he created a law code, known as the Code of Justinian, which was later rediscovered in Northern Italy in 1070.</data>
+      <data key="d2">75b7aa9e79b12259049859959ac16b1b,fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </node>
+    <node id="&quot;WESTERN ROMAN EMPIRE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">75b7aa9e79b12259049859959ac16b1b,fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </node>
+    <node id="&quot;BARBARIAN INVADERS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">75b7aa9e79b12259049859959ac16b1b</data>
+    </node>
+    <node id="&quot;MUHAMMAD'S SUCCESSORS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">75b7aa9e79b12259049859959ac16b1b</data>
+    </node>
+    <node id="&quot;CODE OF JUSTINIAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">75b7aa9e79b12259049859959ac16b1b</data>
+    </node>
+    <node id="&quot;FRANKS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">75b7aa9e79b12259049859959ac16b1b</data>
+    </node>
+    <node id="&quot;VIKINGS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">75b7aa9e79b12259049859959ac16b1b</data>
+    </node>
+    <node id="&quot;OTTOMAN ARMY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Ottoman army was an invading force that captured Constantinople, led by Sultan Mehmed II."</data>
+      <data key="d2">94ed81a8918c0410f7392b70082e3651</data>
+    </node>
+    <node id="&quot;SULTAN MEHMED II&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sultan Mehmed II was the 21-year-old leader of the Ottoman army that conquered Constantinople in 1453."</data>
+      <data key="d2">94ed81a8918c0410f7392b70082e3651</data>
+    </node>
+    <node id="&quot;EMPEROR CONSTANTINE XI PALAIOLOGOS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Emperor Constantine XI Palaiologos was the commander of the Byzantine army that defended Constantinople against the Ottomans."</data>
+      <data key="d2">94ed81a8918c0410f7392b70082e3651</data>
+    </node>
+    <node id="&quot;DARIUS III&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Darius III was the last Achaemenid emperor, defeated by Alexander the Great at the Battle of Issus."</data>
+      <data key="d2">f821617d818e560c412b668d7b775b2d</data>
+    </node>
+    <node id="&quot;ACHAEMENID EMPIRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Achaemenid Empire was a powerful empire that was invaded and defeated by Alexander the Great."</data>
+      <data key="d2">f821617d818e560c412b668d7b775b2d</data>
+    </node>
+    <node id="&quot;SELEUCID EMPIRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Seleucid Empire was a Hellenistic empire that controlled Iran after Alexander's death. Although it once held significant power, by the time of its encounter with the Romans, it had become a disintegrating power that posed no threat to them, eventually leading to its abolition by Pompey the Great.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">7b61734070bcf149c4aab041788cde48,f821617d818e560c412b668d7b775b2d</data>
+    </node>
+    <node id="&quot;PARTHIAN EMPIRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Parthian Empire was a powerful empire that rose to prominence in the 2nd century BC and engaged in a long-standing rivalry with the Romans."</data>
+      <data key="d2">f821617d818e560c412b668d7b775b2d</data>
+    </node>
+    <node id="&quot;ROMAN-BYZANTINES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Roman-Byzantines were a dominant power that rivaled the Parthian Empire for over four centuries."</data>
+      <data key="d2">f821617d818e560c412b668d7b775b2d</data>
+    </node>
+    <node id="&quot;SASSANID EMPIRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Sassanid Empire succeeded the Parthian Empire in 224 CE and became a major power in the region."</data>
+      <data key="d2">f821617d818e560c412b668d7b775b2d</data>
+    </node>
+    <node id="&quot;BATTLE OF ISSUS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Battle of Issus was a decisive battle where Alexander the Great defeated Darius III."</data>
+      <data key="d2">f821617d818e560c412b668d7b775b2d</data>
+    </node>
+    <node id="&quot;ROMAN&#8211;PARTHIAN WARS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Roman&#8211;Parthian Wars were a series of conflicts between the Romans and Parthians that lasted for centuries."</data>
+      <data key="d2">f821617d818e560c412b668d7b775b2d</data>
+    </node>
+    <node id="&quot;PTOLEMAIC KINGDOM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Ptolemaic Kingdom is a declining power protected by the Roman Republic, until its eventual fall to Augustus Caesar."</data>
+      <data key="d2">7b61734070bcf149c4aab041788cde48</data>
+    </node>
+    <node id="&quot;POMPEY THE GREAT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Pompey the Great is a Roman proconsul who abolishes the Seleucid rump state and absorbs much of Syria into the Roman Republic."</data>
+      <data key="d2">7b61734070bcf149c4aab041788cde48</data>
+    </node>
+    <node id="&quot;MARK ANTHONY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mark Anthony is a Roman triumvir who fights against Augustus Caesar in the republican civil war, ultimately losing at the Battle of Actium."</data>
+      <data key="d2">7b61734070bcf149c4aab041788cde48</data>
+    </node>
+    <node id="&quot;AUGUSTUS CAESAR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Augustus Caesar is a Roman triumvir who defeats Mark Anthony and Cleopatra VII, absorbing Egypt into his personal fiefdom and ending the Hellenistic era."</data>
+      <data key="d2">7b61734070bcf149c4aab041788cde48</data>
+    </node>
+    <node id="&quot;CLEOPATRA VII&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Cleopatra VII is the last Ptolemaic monarch, defeated by Augustus Caesar at the Battle of Actium."</data>
+      <data key="d2">7b61734070bcf149c4aab041788cde48</data>
+    </node>
+    <node id="&quot;ANTIOCHUS IV EPIPHANES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Antiochus IV Epiphanes is a Seleucid king who tries to invade Egypt, but is stopped by the Roman Republic."</data>
+      <data key="d2">7b61734070bcf149c4aab041788cde48</data>
+    </node>
+    <node id="&quot;ROMAN REPUBLIC&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7b61734070bcf149c4aab041788cde48</data>
+    </node>
+    <node id="&quot;ROMULUS AUGUSTUS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Romulus Augustus was the last emperor of the Western Roman Empire, deposed in 476."</data>
+      <data key="d2">fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </node>
+    <node id="&quot;ITALIAN PENINSULA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </node>
+    <edge source="&quot;OTTOMAN EMPIRE&quot;" target="&quot;MEHMED THE CONQUEROR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mehmed the Conqueror was the leader of the Ottoman Empire during the conquest of Constantinople."</data>
+      <data key="d5">a5bfb430c56a154a3eae5d69326f3507</data>
+    </edge>
+    <edge source="&quot;OTTOMAN EMPIRE&quot;" target="&quot;THE FALL OF CONSTANTINOPLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Ottoman Empire was responsible for The Fall of Constantinople in 1453."</data>
+      <data key="d5">a5bfb430c56a154a3eae5d69326f3507</data>
+    </edge>
+    <edge source="&quot;OTTOMAN EMPIRE&quot;" target="&quot;TIMUR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Timur defeated the Ottoman forces in the Battle of Ankara and took Sultan Bayezid I as a prisoner."</data>
+      <data key="d5">9ba9822104f0e0dd6832e609c1dbcf54</data>
+    </edge>
+    <edge source="&quot;BYZANTINE EMPIRE&quot;" target="&quot;CONSTANTINE XI PALAIOLOGOS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Constantine XI Palaiologos was the Emperor of the Byzantine Empire during the conquest of Constantinople."</data>
+      <data key="d5">a5bfb430c56a154a3eae5d69326f3507</data>
+    </edge>
+    <edge source="&quot;BYZANTINE EMPIRE&quot;" target="&quot;THE FALL OF CONSTANTINOPLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Byzantine Empire suffered a significant defeat during The Fall of Constantinople in 1453."</data>
+      <data key="d5">a5bfb430c56a154a3eae5d69326f3507</data>
+    </edge>
+    <edge source="&quot;BYZANTINE EMPIRE&quot;" target="&quot;CODE OF JUSTINIAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Byzantine Empire's law code, the Code of Justinian, was rediscovered in Northern Italy in 1070."</data>
+      <data key="d5">75b7aa9e79b12259049859959ac16b1b</data>
+    </edge>
+    <edge source="&quot;BYZANTINE EMPIRE&quot;" target="&quot;EMPEROR CONSTANTINE XI PALAIOLOGOS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Emperor Constantine XI Palaiologos was the ruler of the Byzantine Empire when it was conquered by the Ottomans."</data>
+      <data key="d5">94ed81a8918c0410f7392b70082e3651</data>
+    </edge>
+    <edge source="&quot;BYZANTINE EMPIRE&quot;" target="&quot;OTTOMAN ARMY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Ottoman army conquered the Byzantine Empire, capturing its capital Constantinople."</data>
+      <data key="d5">94ed81a8918c0410f7392b70082e3651</data>
+    </edge>
+    <edge source="&quot;BYZANTINE EMPIRE&quot;" target="&quot;WESTERN ROMAN EMPIRE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Western Roman Empire fell, and the Byzantine Empire maintained a claim over its lost territories."</data>
+      <data key="d5">fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </edge>
+    <edge source="&quot;BYZANTINE EMPIRE&quot;" target="&quot;JUSTINIAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Justinian was a Byzantine emperor who led a temporary reconquest of the Italian peninsula and Mediterranean periphery."</data>
+      <data key="d5">fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </edge>
+    <edge source="&quot;THE FALL OF CONSTANTINOPLE&quot;" target="&quot;CONSTANTINOPLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Fall of Constantinople refers to the capture of the city by the Ottoman army in 1453."</data>
+      <data key="d5">94ed81a8918c0410f7392b70082e3651</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">1346d6522e1c9783a1d5ee065f44774b,55e0183a1283b79e0eeb5d8559bdc765,75b7aa9e79b12259049859959ac16b1b,76d949dd68b1e9b69d725ad767a8043b,7b61734070bcf149c4aab041788cde48,88d20afada2e8dff7d1ce2509b138dfa,94ed81a8918c0410f7392b70082e3651,9a81376a98c56904e8350416e49ec2e4,9ba9822104f0e0dd6832e609c1dbcf54,a5bfb430c56a154a3eae5d69326f3507,af72e870935995b86574e303dc03f5b1,e7e142c5dd125e147c6f7c0a72f83e50,f821617d818e560c412b668d7b775b2d,fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">1346d6522e1c9783a1d5ee065f44774b,55e0183a1283b79e0eeb5d8559bdc765,75b7aa9e79b12259049859959ac16b1b,76d949dd68b1e9b69d725ad767a8043b,7b61734070bcf149c4aab041788cde48,88d20afada2e8dff7d1ce2509b138dfa,94ed81a8918c0410f7392b70082e3651,9a81376a98c56904e8350416e49ec2e4,9ba9822104f0e0dd6832e609c1dbcf54,a5bfb430c56a154a3eae5d69326f3507,af72e870935995b86574e303dc03f5b1,e7e142c5dd125e147c6f7c0a72f83e50,f821617d818e560c412b668d7b775b2d,fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">1346d6522e1c9783a1d5ee065f44774b,55e0183a1283b79e0eeb5d8559bdc765,75b7aa9e79b12259049859959ac16b1b,76d949dd68b1e9b69d725ad767a8043b,7b61734070bcf149c4aab041788cde48,88d20afada2e8dff7d1ce2509b138dfa,94ed81a8918c0410f7392b70082e3651,9a81376a98c56904e8350416e49ec2e4,9ba9822104f0e0dd6832e609c1dbcf54,a5bfb430c56a154a3eae5d69326f3507,af72e870935995b86574e303dc03f5b1,e7e142c5dd125e147c6f7c0a72f83e50,f821617d818e560c412b668d7b775b2d,fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">1346d6522e1c9783a1d5ee065f44774b,55e0183a1283b79e0eeb5d8559bdc765,75b7aa9e79b12259049859959ac16b1b,76d949dd68b1e9b69d725ad767a8043b,7b61734070bcf149c4aab041788cde48,88d20afada2e8dff7d1ce2509b138dfa,94ed81a8918c0410f7392b70082e3651,9a81376a98c56904e8350416e49ec2e4,9ba9822104f0e0dd6832e609c1dbcf54,a5bfb430c56a154a3eae5d69326f3507,af72e870935995b86574e303dc03f5b1,e7e142c5dd125e147c6f7c0a72f83e50,f821617d818e560c412b668d7b775b2d,fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">1346d6522e1c9783a1d5ee065f44774b,55e0183a1283b79e0eeb5d8559bdc765,75b7aa9e79b12259049859959ac16b1b,76d949dd68b1e9b69d725ad767a8043b,7b61734070bcf149c4aab041788cde48,88d20afada2e8dff7d1ce2509b138dfa,94ed81a8918c0410f7392b70082e3651,9a81376a98c56904e8350416e49ec2e4,9ba9822104f0e0dd6832e609c1dbcf54,a5bfb430c56a154a3eae5d69326f3507,af72e870935995b86574e303dc03f5b1,e7e142c5dd125e147c6f7c0a72f83e50,f821617d818e560c412b668d7b775b2d,fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">1346d6522e1c9783a1d5ee065f44774b,55e0183a1283b79e0eeb5d8559bdc765,75b7aa9e79b12259049859959ac16b1b,76d949dd68b1e9b69d725ad767a8043b,7b61734070bcf149c4aab041788cde48,88d20afada2e8dff7d1ce2509b138dfa,94ed81a8918c0410f7392b70082e3651,9a81376a98c56904e8350416e49ec2e4,9ba9822104f0e0dd6832e609c1dbcf54,a5bfb430c56a154a3eae5d69326f3507,af72e870935995b86574e303dc03f5b1,e7e142c5dd125e147c6f7c0a72f83e50,f821617d818e560c412b668d7b775b2d,fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">1346d6522e1c9783a1d5ee065f44774b,55e0183a1283b79e0eeb5d8559bdc765,75b7aa9e79b12259049859959ac16b1b,76d949dd68b1e9b69d725ad767a8043b,7b61734070bcf149c4aab041788cde48,88d20afada2e8dff7d1ce2509b138dfa,94ed81a8918c0410f7392b70082e3651,9a81376a98c56904e8350416e49ec2e4,9ba9822104f0e0dd6832e609c1dbcf54,a5bfb430c56a154a3eae5d69326f3507,af72e870935995b86574e303dc03f5b1,e7e142c5dd125e147c6f7c0a72f83e50,f821617d818e560c412b668d7b775b2d,fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">1346d6522e1c9783a1d5ee065f44774b,55e0183a1283b79e0eeb5d8559bdc765,75b7aa9e79b12259049859959ac16b1b,76d949dd68b1e9b69d725ad767a8043b,7b61734070bcf149c4aab041788cde48,88d20afada2e8dff7d1ce2509b138dfa,94ed81a8918c0410f7392b70082e3651,9a81376a98c56904e8350416e49ec2e4,9ba9822104f0e0dd6832e609c1dbcf54,a5bfb430c56a154a3eae5d69326f3507,af72e870935995b86574e303dc03f5b1,e7e142c5dd125e147c6f7c0a72f83e50,f821617d818e560c412b668d7b775b2d,fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">1346d6522e1c9783a1d5ee065f44774b,55e0183a1283b79e0eeb5d8559bdc765,75b7aa9e79b12259049859959ac16b1b,76d949dd68b1e9b69d725ad767a8043b,7b61734070bcf149c4aab041788cde48,88d20afada2e8dff7d1ce2509b138dfa,94ed81a8918c0410f7392b70082e3651,9a81376a98c56904e8350416e49ec2e4,9ba9822104f0e0dd6832e609c1dbcf54,a5bfb430c56a154a3eae5d69326f3507,af72e870935995b86574e303dc03f5b1,e7e142c5dd125e147c6f7c0a72f83e50,f821617d818e560c412b668d7b775b2d,fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </edge>
+    <edge source="&quot;JAFFNA KINGDOM&quot;" target="&quot;VARODAYA CINKAIARIYAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Varodaya Cinkaiariyan was the king of Jaffna Kingdom."</data>
+      <data key="d5">1346d6522e1c9783a1d5ee065f44774b</data>
+    </edge>
+    <edge source="&quot;PANDYAN EMPIRE&quot;" target="&quot;VARODAYA CINKAIARIYAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Varodaya Cinkaiariyan took over pearl fisheries from Pandyan Empire."</data>
+      <data key="d5">1346d6522e1c9783a1d5ee065f44774b</data>
+    </edge>
+    <edge source="&quot;DAMBADENIYA-BASED KINGDOMS&quot;" target="&quot;VARODAYA CINKAIARIYAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Varodaya Cinkaiariyan invaded the southern Dambadeniya-based kingdoms."</data>
+      <data key="d5">1346d6522e1c9783a1d5ee065f44774b</data>
+    </edge>
+    <edge source="&quot;SCLAVENI&quot;" target="&quot;ANTES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Antes and Sclaveni are both groups of Slavs that appear in Byzantine records in the early 6th century."</data>
+      <data key="d5">55e0183a1283b79e0eeb5d8559bdc765</data>
+    </edge>
+    <edge source="&quot;JUSTINIAN I&quot;" target="&quot;PROCOPIUS OF CAESAREA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Procopius of Caesarea was a historiographer during Justinian I's reign."</data>
+      <data key="d5">55e0183a1283b79e0eeb5d8559bdc765</data>
+    </edge>
+    <edge source="&quot;JUSTINIAN I&quot;" target="&quot;JORDANES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jordanes was a historiographer during Justinian I's reign."</data>
+      <data key="d5">55e0183a1283b79e0eeb5d8559bdc765</data>
+    </edge>
+    <edge source="&quot;JUSTINIAN I&quot;" target="&quot;THEOPHYLACT SIMOCATTA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Theophylact Simocatta was a historiographer during Justinian I's reign."</data>
+      <data key="d5">55e0183a1283b79e0eeb5d8559bdc765</data>
+    </edge>
+    <edge source="&quot;CHOLA EMPIRE&quot;" target="&quot;RAJENDRA CHOLA I&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Rajendra Chola I was the emperor of the Chola Empire, extending its influence during his reign."</data>
+      <data key="d5">76d949dd68b1e9b69d725ad767a8043b</data>
+    </edge>
+    <edge source="&quot;CHOLA EMPIRE&quot;" target="&quot;SRI LANKA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Chola Empire conquered Sri Lanka during Rajendra Chola I's reign."</data>
+      <data key="d5">76d949dd68b1e9b69d725ad767a8043b</data>
+    </edge>
+    <edge source="&quot;CHOLA EMPIRE&quot;" target="&quot;MALDIVES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Chola Empire conquered Maldives during Rajendra Chola I's reign."</data>
+      <data key="d5">76d949dd68b1e9b69d725ad767a8043b</data>
+    </edge>
+    <edge source="&quot;CHOLA EMPIRE&quot;" target="&quot;THAILAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Chola Empire received tribute from Thailand under Rajendra Chola I's reign."</data>
+      <data key="d5">76d949dd68b1e9b69d725ad767a8043b</data>
+    </edge>
+    <edge source="&quot;CHOLA EMPIRE&quot;" target="&quot;KHMER KINGDOM OF CAMBODIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Chola Empire received tribute from the Khmer kingdom of Cambodia under Rajendra Chola I's reign."</data>
+      <data key="d5">76d949dd68b1e9b69d725ad767a8043b</data>
+    </edge>
+    <edge source="&quot;RAJARAJA CHOLA I&quot;" target="&quot;RAJENDRA CHOLA I&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Rajaraja Chola I was the father of Rajendra Chola I and predecessor to the throne."</data>
+      <data key="d5">76d949dd68b1e9b69d725ad767a8043b</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;RAJENDRA CHOLA I&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Rajendra Chola I ruled over India as a Chola emperor, expanding the empire's influence."</data>
+      <data key="d5">76d949dd68b1e9b69d725ad767a8043b</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;HUNS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Huns invaded India, specifically Skandagupta's empire, from the northwest."</data>
+      <data key="d5">9a81376a98c56904e8350416e49ec2e4</data>
+    </edge>
+    <edge source="&quot;SRIVIJAYA&quot;" target="&quot;RAJENDRA CHOLA I&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Rajendra Chola I invaded Srivijaya during his reign."</data>
+      <data key="d5">76d949dd68b1e9b69d725ad767a8043b</data>
+    </edge>
+    <edge source="&quot;MAHIPALA&quot;" target="&quot;RAJENDRA CHOLA I&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Rajendra Chola I defeated Mahipala, the Pala king of Bengal and Bihar, during his reign."</data>
+      <data key="d5">76d949dd68b1e9b69d725ad767a8043b</data>
+    </edge>
+    <edge source="&quot;HUNS&quot;" target="&quot;SKANDAGUPTA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Skandagupta warred against the Huns and crushed their invasion in 455."</data>
+      <data key="d5">9a81376a98c56904e8350416e49ec2e4</data>
+    </edge>
+    <edge source="&quot;EMPIRE&quot;" target="&quot;SKANDAGUPTA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Skandagupta was a ruler of the empire and celebrated as a great warrior throughout its territory."</data>
+      <data key="d5">9a81376a98c56904e8350416e49ec2e4</data>
+    </edge>
+    <edge source="&quot;CONSTANTINOPLE&quot;" target="&quot;TURKISH DOMINION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Turkish dominion sought to conquer Constantinople, which was a strategic objective."</data>
+      <data key="d5">9ba9822104f0e0dd6832e609c1dbcf54</data>
+    </edge>
+    <edge source="&quot;SULTAN BAYEZID I&quot;" target="&quot;MEHMED I&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sultan Bayezid I was succeeded by Mehmed I, who restored Ottoman power after the civil war."</data>
+      <data key="d5">9ba9822104f0e0dd6832e609c1dbcf54</data>
+    </edge>
+    <edge source="&quot;TOM CRUISE&quot;" target="&quot;EDGE OF TOMORROW&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tom Cruise stars in the film Edge of Tomorrow as Major William Cage."</data>
+      <data key="d5">af72e870935995b86574e303dc03f5b1</data>
+    </edge>
+    <edge source="&quot;EMILY BLUNT&quot;" target="&quot;EDGE OF TOMORROW&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Emily Blunt stars in the film Edge of Tomorrow as Rita Vrataski."</data>
+      <data key="d5">af72e870935995b86574e303dc03f5b1</data>
+    </edge>
+    <edge source="&quot;DOUG LIMAN&quot;" target="&quot;EDGE OF TOMORROW&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Doug Liman directed the film Edge of Tomorrow."</data>
+      <data key="d5">af72e870935995b86574e303dc03f5b1</data>
+    </edge>
+    <edge source="&quot;HIROSHI SAKURAZAKA&quot;" target="&quot;ALL YOU NEED IS KILL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hiroshi Sakurazaka is the author of the light novel All You Need Is Kill, which was adapted into the film Edge of Tomorrow."</data>
+      <data key="d5">af72e870935995b86574e303dc03f5b1</data>
+    </edge>
+    <edge source="&quot;SWEDISH EMPIRE&quot;" target="&quot;THE TREATY OF B&#196;RWALDE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Treaty of B&#228;rwalde concluded an alliance between the Swedish Empire and the Kingdom of France."</data>
+      <data key="d5">e7e142c5dd125e147c6f7c0a72f83e50</data>
+    </edge>
+    <edge source="&quot;SWEDISH EMPIRE&quot;" target="&quot;FERDINAND II, HOLY ROMAN EMPEROR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sweden invaded Northern Germany, which was occupied by Ferdinand II, Holy Roman Emperor's forces."</data>
+      <data key="d5">e7e142c5dd125e147c6f7c0a72f83e50</data>
+    </edge>
+    <edge source="&quot;KINGDOM OF FRANCE&quot;" target="&quot;THE TREATY OF B&#196;RWALDE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Treaty of B&#228;rwalde concluded an alliance between the Swedish Empire and the Kingdom of France."</data>
+      <data key="d5">e7e142c5dd125e147c6f7c0a72f83e50</data>
+    </edge>
+    <edge source="&quot;KINGDOM OF FRANCE&quot;" target="&quot;FERDINAND II, HOLY ROMAN EMPEROR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Kingdom of France formed an alliance with the Swedish Empire against Ferdinand II, Holy Roman Emperor's forces."</data>
+      <data key="d5">e7e142c5dd125e147c6f7c0a72f83e50</data>
+    </edge>
+    <edge source="&quot;ALEXANDER THE GREAT&quot;" target="&quot;HELLENISTIC PERIOD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Hellenistic period began after the death of Alexander the Great."</data>
+      <data key="d5">88d20afada2e8dff7d1ce2509b138dfa</data>
+    </edge>
+    <edge source="&quot;ALEXANDER THE GREAT&quot;" target="&quot;ACHAEMENID EMPIRE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alexander the Great invaded and defeated the Achaemenid Empire."</data>
+      <data key="d5">f821617d818e560c412b668d7b775b2d</data>
+    </edge>
+    <edge source="&quot;ROMAN EMPIRE&quot;" target="&quot;PTOLEMAIC EGYPT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Roman Empire conquered Ptolemaic Egypt, marking the end of the Hellenistic period."</data>
+      <data key="d5">88d20afada2e8dff7d1ce2509b138dfa</data>
+    </edge>
+    <edge source="&quot;EUCLID&quot;" target="&quot;GREEK SCIENCE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Euclid's works contributed to the advancement of Greek Science during the Hellenistic period."</data>
+      <data key="d5">88d20afada2e8dff7d1ce2509b138dfa</data>
+    </edge>
+    <edge source="&quot;ARCHIMEDES&quot;" target="&quot;GREEK SCIENCE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Archimedes' works advanced Greek Science during the Hellenistic period."</data>
+      <data key="d5">88d20afada2e8dff7d1ce2509b138dfa</data>
+    </edge>
+    <edge source="&quot;CALIPHATE&quot;" target="&quot;MUHAMMAD'S SUCCESSORS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Caliphate was established by Muhammad's successors after conquest of North Africa and the Middle East."</data>
+      <data key="d5">75b7aa9e79b12259049859959ac16b1b</data>
+    </edge>
+    <edge source="&quot;CAROLINGIAN EMPIRE&quot;" target="&quot;FRANKS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Carolingian Empire was established by the Franks under the Carolingian dynasty."</data>
+      <data key="d5">75b7aa9e79b12259049859959ac16b1b</data>
+    </edge>
+    <edge source="&quot;CAROLINGIAN EMPIRE&quot;" target="&quot;VIKINGS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Vikings invaded and pressured the Carolingian Empire from the north."</data>
+      <data key="d5">75b7aa9e79b12259049859959ac16b1b</data>
+    </edge>
+    <edge source="&quot;WESTERN ROMAN EMPIRE&quot;" target="&quot;BARBARIAN INVADERS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Western Roman Empire was invaded and eventually replaced by new kingdoms formed by barbarian invaders."</data>
+      <data key="d5">75b7aa9e79b12259049859959ac16b1b</data>
+    </edge>
+    <edge source="&quot;WESTERN ROMAN EMPIRE&quot;" target="&quot;ROMULUS AUGUSTUS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Romulus Augustus was the last emperor of the Western Roman Empire."</data>
+      <data key="d5">fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </edge>
+    <edge source="&quot;WESTERN ROMAN EMPIRE&quot;" target="&quot;ITALIAN PENINSULA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Western Roman Empire once controlled the Italian peninsula, but lost it after its fall."</data>
+      <data key="d5">fc5d1c8ab7ce174c4cce722f41978e82</data>
+    </edge>
+    <edge source="&quot;OTTOMAN ARMY&quot;" target="&quot;SULTAN MEHMED II&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sultan Mehmed II led the Ottoman army that conquered Constantinople."</data>
+      <data key="d5">94ed81a8918c0410f7392b70082e3651</data>
+    </edge>
+    <edge source="&quot;DARIUS III&quot;" target="&quot;ACHAEMENID EMPIRE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Darius III was the last emperor of the Achaemenid Empire."</data>
+      <data key="d5">f821617d818e560c412b668d7b775b2d</data>
+    </edge>
+    <edge source="&quot;SELEUCID EMPIRE&quot;" target="&quot;ROMAN REPUBLIC&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Roman Republic absorbs much of Syria after the collapse of the Seleucid empire."</data>
+      <data key="d5">7b61734070bcf149c4aab041788cde48</data>
+    </edge>
+    <edge source="&quot;SELEUCID EMPIRE&quot;" target="&quot;POMPEY THE GREAT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Pompey the Great abolishes the Seleucid rump state and absorbs much of Syria into the Roman Republic."</data>
+      <data key="d5">7b61734070bcf149c4aab041788cde48</data>
+    </edge>
+    <edge source="&quot;PARTHIAN EMPIRE&quot;" target="&quot;ROMAN-BYZANTINES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Parthian Empire and Roman-Byzantines engaged in a long-standing rivalry."</data>
+      <data key="d5">f821617d818e560c412b668d7b775b2d</data>
+    </edge>
+    <edge source="&quot;PTOLEMAIC KINGDOM&quot;" target="&quot;AUGUSTUS CAESAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Augustus Caesar defeats Cleopatra VII and absorbs Egypt into his personal fiefdom, ending the Ptolemaic Kingdom."</data>
+      <data key="d5">7b61734070bcf149c4aab041788cde48</data>
+    </edge>
+    <edge source="&quot;MARK ANTHONY&quot;" target="&quot;AUGUSTUS CAESAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mark Anthony fights against Augustus Caesar in the republican civil war, ultimately losing at the Battle of Actium."</data>
+      <data key="d5">7b61734070bcf149c4aab041788cde48</data>
+    </edge>
+  </graph>
+</graphml>

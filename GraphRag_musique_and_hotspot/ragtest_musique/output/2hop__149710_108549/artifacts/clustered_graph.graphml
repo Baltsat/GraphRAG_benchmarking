@@ -1,0 +1,1904 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="level" attr.type="long" />
+  <key id="d6" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d5" for="node" attr.name="id" attr.type="string" />
+  <key id="d4" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d3" for="node" attr.name="degree" attr.type="long" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;HANNA-BARBERA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Hanna-Barbera is the producer of The Quick Draw McGraw Show, highlighting their involvement in the creation and development of the show."</data>
+      <data key="d2">02114dd53dd41a148bfa7a34b5c32724</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;THE QUICK DRAW MCGRAW SHOW&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Quick Draw McGraw Show is a television show that aired between 1959 and 1962, indicating its significance as a cultural event."</data>
+      <data key="d2">02114dd53dd41a148bfa7a34b5c32724</data>
+      <data key="d3">2</data>
+      <data key="d4">1</data>
+      <data key="d5">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;SNOOPER AND BLABBER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">02114dd53dd41a148bfa7a34b5c32724</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">02114dd53dd41a148bfa7a34b5c32724,172dd380a6601c2ccfbd335a9f7cafc2,2fe91cf3d89743dcc4be47dc409b6f9f,30710b8cbc44ce24815e01cd64278a8d,4b149625a0eeae1d475bd23f7b1478c6,5ff210d4428c998e18634983f8fb812b,64fd3c1e3e7ef3962bddaba68dddc0ac,67dba2f5ef29e20821d257f45f33e395,6940b58af3cb1487fd46a0505874556a,6a3af1c6423900e1c203ab7802fe3a04,8be00863744ddade0d4a280ba800e469,92701be4d23e83f06bf19d5f9d087831,a897406f8eccbc06aa9fc762bab23000,b756c6292565315b2610282ffa17f717,c0b87e4defbadf0d22c548e4c2e853e7,cdef6acd779ee5bf42dc89937979d731,cf6115137d9161fd8eb225728bbf8510,dfbcbe16f50087f73863b56dca944c3b,ee415db9349fc704c689c30585f51651,ee592447418b71cafd429fbf784e1948</data>
+      <data key="d3">2</data>
+      <data key="d4">3</data>
+      <data key="d5">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">02114dd53dd41a148bfa7a34b5c32724,172dd380a6601c2ccfbd335a9f7cafc2,2fe91cf3d89743dcc4be47dc409b6f9f,30710b8cbc44ce24815e01cd64278a8d,4b149625a0eeae1d475bd23f7b1478c6,5ff210d4428c998e18634983f8fb812b,64fd3c1e3e7ef3962bddaba68dddc0ac,67dba2f5ef29e20821d257f45f33e395,6940b58af3cb1487fd46a0505874556a,6a3af1c6423900e1c203ab7802fe3a04,8be00863744ddade0d4a280ba800e469,92701be4d23e83f06bf19d5f9d087831,a897406f8eccbc06aa9fc762bab23000,b756c6292565315b2610282ffa17f717,c0b87e4defbadf0d22c548e4c2e853e7,cdef6acd779ee5bf42dc89937979d731,cf6115137d9161fd8eb225728bbf8510,dfbcbe16f50087f73863b56dca944c3b,ee415db9349fc704c689c30585f51651,ee592447418b71cafd429fbf784e1948</data>
+      <data key="d3">1</data>
+      <data key="d4">4</data>
+      <data key="d5">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">02114dd53dd41a148bfa7a34b5c32724,172dd380a6601c2ccfbd335a9f7cafc2,2fe91cf3d89743dcc4be47dc409b6f9f,30710b8cbc44ce24815e01cd64278a8d,4b149625a0eeae1d475bd23f7b1478c6,5ff210d4428c998e18634983f8fb812b,64fd3c1e3e7ef3962bddaba68dddc0ac,67dba2f5ef29e20821d257f45f33e395,6940b58af3cb1487fd46a0505874556a,6a3af1c6423900e1c203ab7802fe3a04,8be00863744ddade0d4a280ba800e469,92701be4d23e83f06bf19d5f9d087831,a897406f8eccbc06aa9fc762bab23000,b756c6292565315b2610282ffa17f717,c0b87e4defbadf0d22c548e4c2e853e7,cdef6acd779ee5bf42dc89937979d731,cf6115137d9161fd8eb225728bbf8510,dfbcbe16f50087f73863b56dca944c3b,ee415db9349fc704c689c30585f51651,ee592447418b71cafd429fbf784e1948</data>
+      <data key="d3">4</data>
+      <data key="d4">5</data>
+      <data key="d5">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">02114dd53dd41a148bfa7a34b5c32724,172dd380a6601c2ccfbd335a9f7cafc2,2fe91cf3d89743dcc4be47dc409b6f9f,30710b8cbc44ce24815e01cd64278a8d,4b149625a0eeae1d475bd23f7b1478c6,5ff210d4428c998e18634983f8fb812b,64fd3c1e3e7ef3962bddaba68dddc0ac,67dba2f5ef29e20821d257f45f33e395,6940b58af3cb1487fd46a0505874556a,6a3af1c6423900e1c203ab7802fe3a04,8be00863744ddade0d4a280ba800e469,92701be4d23e83f06bf19d5f9d087831,a897406f8eccbc06aa9fc762bab23000,b756c6292565315b2610282ffa17f717,c0b87e4defbadf0d22c548e4c2e853e7,cdef6acd779ee5bf42dc89937979d731,cf6115137d9161fd8eb225728bbf8510,dfbcbe16f50087f73863b56dca944c3b,ee415db9349fc704c689c30585f51651,ee592447418b71cafd429fbf784e1948</data>
+      <data key="d3">1</data>
+      <data key="d4">6</data>
+      <data key="d5">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">02114dd53dd41a148bfa7a34b5c32724,172dd380a6601c2ccfbd335a9f7cafc2,2fe91cf3d89743dcc4be47dc409b6f9f,30710b8cbc44ce24815e01cd64278a8d,4b149625a0eeae1d475bd23f7b1478c6,5ff210d4428c998e18634983f8fb812b,64fd3c1e3e7ef3962bddaba68dddc0ac,67dba2f5ef29e20821d257f45f33e395,6940b58af3cb1487fd46a0505874556a,6a3af1c6423900e1c203ab7802fe3a04,8be00863744ddade0d4a280ba800e469,92701be4d23e83f06bf19d5f9d087831,a897406f8eccbc06aa9fc762bab23000,b756c6292565315b2610282ffa17f717,c0b87e4defbadf0d22c548e4c2e853e7,cdef6acd779ee5bf42dc89937979d731,cf6115137d9161fd8eb225728bbf8510,dfbcbe16f50087f73863b56dca944c3b,ee415db9349fc704c689c30585f51651,ee592447418b71cafd429fbf784e1948</data>
+      <data key="d3">1</data>
+      <data key="d4">7</data>
+      <data key="d5">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">02114dd53dd41a148bfa7a34b5c32724,172dd380a6601c2ccfbd335a9f7cafc2,2fe91cf3d89743dcc4be47dc409b6f9f,30710b8cbc44ce24815e01cd64278a8d,4b149625a0eeae1d475bd23f7b1478c6,5ff210d4428c998e18634983f8fb812b,64fd3c1e3e7ef3962bddaba68dddc0ac,67dba2f5ef29e20821d257f45f33e395,6940b58af3cb1487fd46a0505874556a,6a3af1c6423900e1c203ab7802fe3a04,8be00863744ddade0d4a280ba800e469,92701be4d23e83f06bf19d5f9d087831,a897406f8eccbc06aa9fc762bab23000,b756c6292565315b2610282ffa17f717,c0b87e4defbadf0d22c548e4c2e853e7,cdef6acd779ee5bf42dc89937979d731,cf6115137d9161fd8eb225728bbf8510,dfbcbe16f50087f73863b56dca944c3b,ee415db9349fc704c689c30585f51651,ee592447418b71cafd429fbf784e1948</data>
+      <data key="d3">2</data>
+      <data key="d4">8</data>
+      <data key="d5">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">02114dd53dd41a148bfa7a34b5c32724,172dd380a6601c2ccfbd335a9f7cafc2,2fe91cf3d89743dcc4be47dc409b6f9f,30710b8cbc44ce24815e01cd64278a8d,4b149625a0eeae1d475bd23f7b1478c6,5ff210d4428c998e18634983f8fb812b,64fd3c1e3e7ef3962bddaba68dddc0ac,67dba2f5ef29e20821d257f45f33e395,6940b58af3cb1487fd46a0505874556a,6a3af1c6423900e1c203ab7802fe3a04,8be00863744ddade0d4a280ba800e469,92701be4d23e83f06bf19d5f9d087831,a897406f8eccbc06aa9fc762bab23000,b756c6292565315b2610282ffa17f717,c0b87e4defbadf0d22c548e4c2e853e7,cdef6acd779ee5bf42dc89937979d731,cf6115137d9161fd8eb225728bbf8510,dfbcbe16f50087f73863b56dca944c3b,ee415db9349fc704c689c30585f51651,ee592447418b71cafd429fbf784e1948</data>
+      <data key="d3">1</data>
+      <data key="d4">9</data>
+      <data key="d5">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">02114dd53dd41a148bfa7a34b5c32724,172dd380a6601c2ccfbd335a9f7cafc2,2fe91cf3d89743dcc4be47dc409b6f9f,30710b8cbc44ce24815e01cd64278a8d,4b149625a0eeae1d475bd23f7b1478c6,5ff210d4428c998e18634983f8fb812b,64fd3c1e3e7ef3962bddaba68dddc0ac,67dba2f5ef29e20821d257f45f33e395,6940b58af3cb1487fd46a0505874556a,6a3af1c6423900e1c203ab7802fe3a04,8be00863744ddade0d4a280ba800e469,92701be4d23e83f06bf19d5f9d087831,a897406f8eccbc06aa9fc762bab23000,b756c6292565315b2610282ffa17f717,c0b87e4defbadf0d22c548e4c2e853e7,cdef6acd779ee5bf42dc89937979d731,cf6115137d9161fd8eb225728bbf8510,dfbcbe16f50087f73863b56dca944c3b,ee415db9349fc704c689c30585f51651,ee592447418b71cafd429fbf784e1948</data>
+      <data key="d3">1</data>
+      <data key="d4">10</data>
+      <data key="d5">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">02114dd53dd41a148bfa7a34b5c32724,172dd380a6601c2ccfbd335a9f7cafc2,2fe91cf3d89743dcc4be47dc409b6f9f,30710b8cbc44ce24815e01cd64278a8d,4b149625a0eeae1d475bd23f7b1478c6,5ff210d4428c998e18634983f8fb812b,64fd3c1e3e7ef3962bddaba68dddc0ac,67dba2f5ef29e20821d257f45f33e395,6940b58af3cb1487fd46a0505874556a,6a3af1c6423900e1c203ab7802fe3a04,8be00863744ddade0d4a280ba800e469,92701be4d23e83f06bf19d5f9d087831,a897406f8eccbc06aa9fc762bab23000,b756c6292565315b2610282ffa17f717,c0b87e4defbadf0d22c548e4c2e853e7,cdef6acd779ee5bf42dc89937979d731,cf6115137d9161fd8eb225728bbf8510,dfbcbe16f50087f73863b56dca944c3b,ee415db9349fc704c689c30585f51651,ee592447418b71cafd429fbf784e1948</data>
+      <data key="d3">0</data>
+      <data key="d4">11</data>
+      <data key="d5">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">02114dd53dd41a148bfa7a34b5c32724,172dd380a6601c2ccfbd335a9f7cafc2,2fe91cf3d89743dcc4be47dc409b6f9f,30710b8cbc44ce24815e01cd64278a8d,4b149625a0eeae1d475bd23f7b1478c6,5ff210d4428c998e18634983f8fb812b,64fd3c1e3e7ef3962bddaba68dddc0ac,67dba2f5ef29e20821d257f45f33e395,6940b58af3cb1487fd46a0505874556a,6a3af1c6423900e1c203ab7802fe3a04,8be00863744ddade0d4a280ba800e469,92701be4d23e83f06bf19d5f9d087831,a897406f8eccbc06aa9fc762bab23000,b756c6292565315b2610282ffa17f717,c0b87e4defbadf0d22c548e4c2e853e7,cdef6acd779ee5bf42dc89937979d731,cf6115137d9161fd8eb225728bbf8510,dfbcbe16f50087f73863b56dca944c3b,ee415db9349fc704c689c30585f51651,ee592447418b71cafd429fbf784e1948</data>
+      <data key="d3">5</data>
+      <data key="d4">12</data>
+      <data key="d5">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;DAN SCHNEIDER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dan Schneider is the creator of The Amanda Show, indicating his role as a writer and producer."</data>
+      <data key="d2">30710b8cbc44ce24815e01cd64278a8d</data>
+      <data key="d3">1</data>
+      <data key="d4">13</data>
+      <data key="d5">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;AMANDA BYNES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Amanda Bynes is the star of The Amanda Show, having co-starred in 'All That' previously."</data>
+      <data key="d2">30710b8cbc44ce24815e01cd64278a8d</data>
+      <data key="d3">1</data>
+      <data key="d4">14</data>
+      <data key="d5">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;DRAKE BELL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Drake Bell is a cast member of The Amanda Show, alongside Amanda Bynes and Nancy Sullivan."</data>
+      <data key="d2">30710b8cbc44ce24815e01cd64278a8d</data>
+      <data key="d3">1</data>
+      <data key="d4">15</data>
+      <data key="d5">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;NANCY SULLIVAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Nancy Sullivan is a cast member of The Amanda Show, starring alongside Amanda Bynes and Drake Bell."</data>
+      <data key="d2">30710b8cbc44ce24815e01cd64278a8d</data>
+      <data key="d3">0</data>
+      <data key="d4">16</data>
+      <data key="d5">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;JOHN KASSIR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"John Kassir is a featured cast member of The Amanda Show."</data>
+      <data key="d2">30710b8cbc44ce24815e01cd64278a8d</data>
+      <data key="d3">0</data>
+      <data key="d4">17</data>
+      <data key="d5">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;RAQUEL LEE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Raquel Lee is a featured cast member of The Amanda Show."</data>
+      <data key="d2">30710b8cbc44ce24815e01cd64278a8d</data>
+      <data key="d3">0</data>
+      <data key="d4">18</data>
+      <data key="d5">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;JOSH PECK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Josh Peck is a featured cast member of The Amanda Show."</data>
+      <data key="d2">30710b8cbc44ce24815e01cd64278a8d</data>
+      <data key="d3">0</data>
+      <data key="d4">19</data>
+      <data key="d5">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;NICKELODEON&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Nickelodeon is the television network that aired The Amanda Show from 1999 to 2002."</data>
+      <data key="d2">30710b8cbc44ce24815e01cd64278a8d</data>
+      <data key="d3">1</data>
+      <data key="d4">20</data>
+      <data key="d5">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;THE AMANDA SHOW&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">30710b8cbc44ce24815e01cd64278a8d</data>
+      <data key="d3">4</data>
+      <data key="d4">21</data>
+      <data key="d5">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;JACK LALANNE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jack LaLanne was the host of The Jack LaLanne Show, an American exercise television show."</data>
+      <data key="d2">ee415db9349fc704c689c30585f51651</data>
+      <data key="d3">1</data>
+      <data key="d4">22</data>
+      <data key="d5">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;THE JACK LALANNE SHOW&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ee415db9349fc704c689c30585f51651</data>
+      <data key="d3">1</data>
+      <data key="d4">23</data>
+      <data key="d5">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;MILES MILLAR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Miles Millar is a writer-producer who developed the American television series Smallville."</data>
+      <data key="d2">cdef6acd779ee5bf42dc89937979d731</data>
+      <data key="d3">1</data>
+      <data key="d4">24</data>
+      <data key="d5">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;JERRY SIEGEL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jerry Siegel is the creator of the DC Comics character Superman, which inspired the television series Smallville."</data>
+      <data key="d2">cdef6acd779ee5bf42dc89937979d731</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">25</data>
+      <data key="d5">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;JOE SHUSTER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Joe Shuster is the creator of the DC Comics character Superman, which inspired the television series Smallville."</data>
+      <data key="d2">cdef6acd779ee5bf42dc89937979d731</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">26</data>
+      <data key="d5">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;THE WB&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The WB is a television network that initially broadcast the American television series Smallville."</data>
+      <data key="d2">cdef6acd779ee5bf42dc89937979d731</data>
+      <data key="d3">0</data>
+      <data key="d4">27</data>
+      <data key="d5">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;UPN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"UPN is a television network that merged with The WB to form The CW, which later broadcast Smallville."</data>
+      <data key="d2">cdef6acd779ee5bf42dc89937979d731</data>
+      <data key="d3">0</data>
+      <data key="d4">28</data>
+      <data key="d5">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;THE CW&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The CW is a television network that broadcast the American television series Smallville after its merger with UPN and The WB."</data>
+      <data key="d2">cdef6acd779ee5bf42dc89937979d731</data>
+      <data key="d3">0</data>
+      <data key="d4">29</data>
+      <data key="d5">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;SMALLVILLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Smallville is a fictional town in Kansas where Clark Kent grows up before becoming Superman."</data>
+      <data key="d2">cdef6acd779ee5bf42dc89937979d731</data>
+      <data key="d3">2</data>
+      <data key="d4">30</data>
+      <data key="d5">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;DAILY PLANET&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Daily Planet is a newspaper where Clark Kent works, introduced in the later seasons of Smallville."</data>
+      <data key="d2">cdef6acd779ee5bf42dc89937979d731</data>
+      <data key="d3">0</data>
+      <data key="d4">31</data>
+      <data key="d5">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&quot;SUPERMAN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Superman is one of the original seven members of the Justice League, a superhero from the DC Universe. He is also the superhero identity that Clark Kent assumes after growing up in Smallville.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">92701be4d23e83f06bf19d5f9d087831,cdef6acd779ee5bf42dc89937979d731</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">3</data>
+      <data key="d4">32</data>
+      <data key="d5">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&quot;ALFRED GOUGH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">cdef6acd779ee5bf42dc89937979d731</data>
+      <data key="d3">1</data>
+      <data key="d4">33</data>
+      <data key="d5">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&quot;PAULA ABDUL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Paula Abdul is a person who made an appearance in the finale, likely as a figure from the show's past."</data>
+      <data key="d2">4b149625a0eeae1d475bd23f7b1478c6</data>
+      <data key="d3">1</data>
+      <data key="d4">34</data>
+      <data key="d5">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&quot;THE SHOW&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Show refers to the organization or program that Simon Cowell and Paula Abdul were part of."</data>
+      <data key="d2">4b149625a0eeae1d475bd23f7b1478c6</data>
+      <data key="d3">2</data>
+      <data key="d4">35</data>
+      <data key="d5">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&quot;SIMON COWELL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4b149625a0eeae1d475bd23f7b1478c6</data>
+      <data key="d3">1</data>
+      <data key="d4">36</data>
+      <data key="d5">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&quot;NHK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"NHK is a producer of the AKB48 Show! TV variety show."</data>
+      <data key="d2">64fd3c1e3e7ef3962bddaba68dddc0ac</data>
+      <data key="d3">1</data>
+      <data key="d4">37</data>
+      <data key="d5">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&quot;JAPAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Japan is the country where the AKB48 Show! was produced and aired."</data>
+      <data key="d2">64fd3c1e3e7ef3962bddaba68dddc0ac</data>
+      <data key="d3">1</data>
+      <data key="d4">38</data>
+      <data key="d5">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&quot;AKB48&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"AKB48 is a group that performed songs, comedy skits, and short dramas on the AKB48 Show!"</data>
+      <data key="d2">64fd3c1e3e7ef3962bddaba68dddc0ac</data>
+      <data key="d3">1</data>
+      <data key="d4">39</data>
+      <data key="d5">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <node id="&quot;AKB48 SHOW!&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">64fd3c1e3e7ef3962bddaba68dddc0ac</data>
+      <data key="d3">3</data>
+      <data key="d4">40</data>
+      <data key="d5">3ce7c210a21b4deebad7cc9308148d86</data>
+    </node>
+    <node id="&quot;DUMONT TELEVISION NETWORK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"DuMont Television Network was a television network that broadcast Music From Chicago."</data>
+      <data key="d2">172dd380a6601c2ccfbd335a9f7cafc2</data>
+      <data key="d3">1</data>
+      <data key="d4">41</data>
+      <data key="d5">d64ed762ea924caa95c8d06f072a9a96</data>
+    </node>
+    <node id="&quot;WGN-TV&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"WGN-TV is a TV station in Chicago that broadcast Music From Chicago."</data>
+      <data key="d2">172dd380a6601c2ccfbd335a9f7cafc2</data>
+      <data key="d3">1</data>
+      <data key="d4">42</data>
+      <data key="d5">adf4ee3fbe9b4d0381044838c4f889c8</data>
+    </node>
+    <node id="&quot;CHICAGO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Chicago is the location where WGN-TV is based and where Music From Chicago was broadcast from."</data>
+      <data key="d2">172dd380a6601c2ccfbd335a9f7cafc2</data>
+      <data key="d3">1</data>
+      <data key="d4">43</data>
+      <data key="d5">32ee140946e5461f9275db664dc541a5</data>
+    </node>
+    <node id="&quot;APRIL 15, 1951&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"April 15, 1951 is the date when Music From Chicago first aired."</data>
+      <data key="d2">172dd380a6601c2ccfbd335a9f7cafc2</data>
+      <data key="d3">1</data>
+      <data key="d4">44</data>
+      <data key="d5">c160b9cb27d6408ba6ab20214a2f3f81</data>
+    </node>
+    <node id="&quot;JUNE 17, 1951&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"June 17, 1951 is the date when Music From Chicago last aired."</data>
+      <data key="d2">172dd380a6601c2ccfbd335a9f7cafc2</data>
+      <data key="d3">1</data>
+      <data key="d4">45</data>
+      <data key="d5">23527cd679ff4d5a988d52e7cd056078</data>
+    </node>
+    <node id="&quot;MUSIC FROM CHICAGO&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">172dd380a6601c2ccfbd335a9f7cafc2</data>
+      <data key="d3">5</data>
+      <data key="d4">46</data>
+      <data key="d5">f1c6eed066f24cbdb376b910fce29ed4</data>
+    </node>
+    <node id="&quot;TERRY WOGAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Terry Wogan was the presenter of the British television talk show Wogan."</data>
+      <data key="d2">dfbcbe16f50087f73863b56dca944c3b</data>
+      <data key="d3">1</data>
+      <data key="d4">47</data>
+      <data key="d5">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+    </node>
+    <node id="&quot;BBC TELEVISION THEATRE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"BBC Television Theatre is a location in Shepherd's Bush, London where the talk show Wogan was generally broadcast live until 1991."</data>
+      <data key="d2">dfbcbe16f50087f73863b56dca944c3b</data>
+      <data key="d3">1</data>
+      <data key="d4">48</data>
+      <data key="d5">147c038aef3e4422acbbc5f7938c4ab8</data>
+    </node>
+    <node id="&quot;SHEPHERD'S BUSH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Shepherd's Bush is a location in London where the BBC Television Theatre is situated."</data>
+      <data key="d2">dfbcbe16f50087f73863b56dca944c3b</data>
+      <data key="d3">0</data>
+      <data key="d4">49</data>
+      <data key="d5">b7702b90c7f24190b864e8c6e64612a5</data>
+    </node>
+    <node id="&quot;LONDON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"London is a city in the United Kingdom where the talk show Wogan was broadcast from."</data>
+      <data key="d2">dfbcbe16f50087f73863b56dca944c3b</data>
+      <data key="d3">0</data>
+      <data key="d4">50</data>
+      <data key="d5">de6fa24480894518ab3cbcb66f739266</data>
+    </node>
+    <node id="&quot;BBC TELEVISION CENTRE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"BBC Television Centre is a location where the talk show Wogan was broadcast from after 1991."</data>
+      <data key="d2">dfbcbe16f50087f73863b56dca944c3b</data>
+      <data key="d3">1</data>
+      <data key="d4">51</data>
+      <data key="d5">6fae5ee1a831468aa585a1ea09095998</data>
+    </node>
+    <node id="&quot;ELDORADO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Eldorado is a soap opera that replaced Wogan on BBC1 in July 1992."</data>
+      <data key="d2">dfbcbe16f50087f73863b56dca944c3b</data>
+      <data key="d3">1</data>
+      <data key="d4">52</data>
+      <data key="d5">ef32c4b208d041cc856f6837915dc1b0</data>
+    </node>
+    <node id="&quot;WOGAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">dfbcbe16f50087f73863b56dca944c3b</data>
+      <data key="d3">5</data>
+      <data key="d4">53</data>
+      <data key="d5">07b2425216bd4f0aa4e079827cb48ef5</data>
+    </node>
+    <node id="&quot;BBC1&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">dfbcbe16f50087f73863b56dca944c3b</data>
+      <data key="d3">1</data>
+      <data key="d4">54</data>
+      <data key="d5">2670deebfa3f4d69bb82c28ab250a209</data>
+    </node>
+    <node id="&quot;ITV NETWORK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ITV Network is a television network that broadcasts Make Your Play in the UK."</data>
+      <data key="d2">6940b58af3cb1487fd46a0505874556a</data>
+      <data key="d3">1</data>
+      <data key="d4">55</data>
+      <data key="d5">404309e89a5241d6bff42c05a45df206</data>
+    </node>
+    <node id="&quot;UK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"UK is the country where Make Your Play is shown on ITV Network."</data>
+      <data key="d2">6940b58af3cb1487fd46a0505874556a</data>
+      <data key="d3">1</data>
+      <data key="d4">56</data>
+      <data key="d5">b785a9025069417f94950ad231bb1441</data>
+    </node>
+    <node id="&quot;FRIDAY 29 SEPTEMBER 2006&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Friday 29 September 2006 is the launch date of Make Your Play on ITV and ITV Play."</data>
+      <data key="d2">6940b58af3cb1487fd46a0505874556a</data>
+      <data key="d3">1</data>
+      <data key="d4">57</data>
+      <data key="d5">3b6cd96a27304614850709aba1c9598b</data>
+    </node>
+    <node id="&quot;MAKE YOUR PLAY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6940b58af3cb1487fd46a0505874556a</data>
+      <data key="d3">3</data>
+      <data key="d4">58</data>
+      <data key="d5">d54956b79dd147f894b67a8b97dcbef0</data>
+    </node>
+    <node id="&quot;IRELAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ireland is a country where The Lucy Kennedy Show was broadcast and received criticism from local television critics."</data>
+      <data key="d2">5ff210d4428c998e18634983f8fb812b</data>
+      <data key="d3">1</data>
+      <data key="d4">59</data>
+      <data key="d5">958beecdb5bb4060948415ffd75d2b03</data>
+    </node>
+    <node id="&quot;MAEVE QUIGLEY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Maeve Quigley is a TV analyst for The Mirror who positively reviewed The Lucy Kennedy Show, choosing it as her 'Pick of The Week'."</data>
+      <data key="d2">5ff210d4428c998e18634983f8fb812b</data>
+      <data key="d3">2</data>
+      <data key="d4">60</data>
+      <data key="d5">b999ed77e19e4f85b7f1ae79af5c002a</data>
+    </node>
+    <node id="&quot;THE MIRROR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Mirror is a publication that employs Maeve Quigley as a TV analyst and where she promoted The Lucy Kennedy Show."</data>
+      <data key="d2">5ff210d4428c998e18634983f8fb812b</data>
+      <data key="d3">1</data>
+      <data key="d4">61</data>
+      <data key="d5">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+    </node>
+    <node id="&quot;THE LUCY KENNEDY SHOW&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5ff210d4428c998e18634983f8fb812b</data>
+      <data key="d3">2</data>
+      <data key="d4">62</data>
+      <data key="d5">4f3c97517f794ebfb49c4c6315f9cf23</data>
+    </node>
+    <node id="&quot;GARRISON KEILLOR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Garrison Keillor is the creator and original host of A Prairie Home Companion, known for his wry storytelling segment 'News from Lake Wobegon'."</data>
+      <data key="d2">b756c6292565315b2610282ffa17f717</data>
+      <data key="d3">1</data>
+      <data key="d4">63</data>
+      <data key="d5">1745a2485a9443bab76587ad650e9be0</data>
+    </node>
+    <node id="&quot;CHRIS THILE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Chris Thile is a musician who took over as host of A Prairie Home Companion in 2016, leading to the show's eventual renaming to Live from Here."</data>
+      <data key="d2">b756c6292565315b2610282ffa17f717</data>
+      <data key="d3">1</data>
+      <data key="d4">64</data>
+      <data key="d5">32e6ccab20d94029811127dbbe424c64</data>
+    </node>
+    <node id="&quot;LIVE FROM HERE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Live from Here is the successor show to A Prairie Home Companion, hosted by Chris Thile."</data>
+      <data key="d2">b756c6292565315b2610282ffa17f717</data>
+      <data key="d3">1</data>
+      <data key="d4">65</data>
+      <data key="d5">94a964c6992945ebb3833dfdfdc8d655</data>
+    </node>
+    <node id="&quot;FITZGERALD THEATER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Fitzgerald Theater in Saint Paul, Minnesota was the primary venue for A Prairie Home Companion's live broadcasts."</data>
+      <data key="d2">b756c6292565315b2610282ffa17f717</data>
+      <data key="d3">1</data>
+      <data key="d4">66</data>
+      <data key="d5">1eb829d0ace042089f0746f78729696c</data>
+    </node>
+    <node id="&quot;SAINT PAUL, MINNESOTA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Saint Paul, Minnesota is a city where A Prairie Home Companion frequently aired from the Fitzgerald Theater."</data>
+      <data key="d2">b756c6292565315b2610282ffa17f717</data>
+      <data key="d3">0</data>
+      <data key="d4">67</data>
+      <data key="d5">015e7b58d1a14b44beab3bbc9f912c18</data>
+    </node>
+    <node id="&quot;NEW YORK CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New York City was one of the US cities that A Prairie Home Companion toured to for live broadcasts."</data>
+      <data key="d2">b756c6292565315b2610282ffa17f717</data>
+      <data key="d3">1</data>
+      <data key="d4">68</data>
+      <data key="d5">26f88ab3e2e04c33a459ad6270ade565</data>
+    </node>
+    <node id="&quot;A PRAIRIE HOME COMPANION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b756c6292565315b2610282ffa17f717</data>
+      <data key="d3">3</data>
+      <data key="d4">69</data>
+      <data key="d5">babe97e1d9784cffa1c85abc1e588126</data>
+    </node>
+    <node id="&quot;CBS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+CBS is an American television network that has aired various shows, including The Face Is Familiar game show and The Pat Sajak Show.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">67dba2f5ef29e20821d257f45f33e395,6a3af1c6423900e1c203ab7802fe3a04</data>
+      <data key="d3">2</data>
+      <data key="d4">70</data>
+      <data key="d5">1033a18c45aa4584b2aef6ab96890351</data>
+    </node>
+    <node id="&quot;JACK WHITAKER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jack Whitaker was the host of The Face Is Familiar game show."</data>
+      <data key="d2">67dba2f5ef29e20821d257f45f33e395</data>
+      <data key="d3">1</data>
+      <data key="d4">71</data>
+      <data key="d5">c9b8ce91fc2945b4907fe35519339cac</data>
+    </node>
+    <node id="&quot;BOB CRANE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bob Crane was a celebrity guest on The Face Is Familiar game show."</data>
+      <data key="d2">67dba2f5ef29e20821d257f45f33e395</data>
+      <data key="d3">1</data>
+      <data key="d4">72</data>
+      <data key="d5">fa3c4204421c48609e52c8de2da4c654</data>
+    </node>
+    <node id="&quot;DICK VAN PATTEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dick Van Patten was a celebrity guest on The Face Is Familiar game show."</data>
+      <data key="d2">67dba2f5ef29e20821d257f45f33e395</data>
+      <data key="d3">1</data>
+      <data key="d4">73</data>
+      <data key="d5">53af055f068244d0ac861b2e89376495</data>
+    </node>
+    <node id="&quot;MEL BROOKS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mel Brooks was a celebrity guest on The Face Is Familiar game show."</data>
+      <data key="d2">67dba2f5ef29e20821d257f45f33e395</data>
+      <data key="d3">1</data>
+      <data key="d4">74</data>
+      <data key="d5">c03ab3ce8cb74ad2a03b94723bfab3c7</data>
+    </node>
+    <node id="&quot;JUNE LOCKHART&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"June Lockhart was a celebrity guest on The Face Is Familiar game show."</data>
+      <data key="d2">67dba2f5ef29e20821d257f45f33e395</data>
+      <data key="d3">1</data>
+      <data key="d4">75</data>
+      <data key="d5">ed6d2eee9d7b4f5db466b1f6404d31cc</data>
+    </node>
+    <node id="&quot;THE FACE IS FAMILIAR&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">67dba2f5ef29e20821d257f45f33e395</data>
+      <data key="d3">6</data>
+      <data key="d4">76</data>
+      <data key="d5">fc01e9baa80e417c9206f941bb279407</data>
+    </node>
+    <node id="&quot;SONY TV&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Sony TV is a television channel that aired the reality show Naya Roop Nayi Zindigi."</data>
+      <data key="d2">8be00863744ddade0d4a280ba800e469</data>
+      <data key="d3">1</data>
+      <data key="d4">77</data>
+      <data key="d5">56d0e5ebe79e4814bd1463cf6ca21394</data>
+    </node>
+    <node id="&quot;MONA SINGH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mona Singh, also known as Jassi, is the anchor of the reality television show Naya Roop Nayi Zindigi."</data>
+      <data key="d2">8be00863744ddade0d4a280ba800e469</data>
+      <data key="d3">1</data>
+      <data key="d4">78</data>
+      <data key="d5">7c49f2710e8b4d3b8dc9310834406ea5</data>
+    </node>
+    <node id="&quot;INDIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"India is the country where the reality television show Naya Roop Nayi Zindigi was produced and aired."</data>
+      <data key="d2">8be00863744ddade0d4a280ba800e469</data>
+      <data key="d3">1</data>
+      <data key="d4">79</data>
+      <data key="d5">c6d1e4f56c2843e89cf0b91c10bb6de2</data>
+    </node>
+    <node id="&quot;EXTREME MAKEOVER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Extreme Makeover is an American television show that inspired the Indian version, Naya Roop Nayi Zindigi."</data>
+      <data key="d2">8be00863744ddade0d4a280ba800e469</data>
+      <data key="d3">1</data>
+      <data key="d4">80</data>
+      <data key="d5">0adb2d9941f34ef7b2f7743cc6225844</data>
+    </node>
+    <node id="&quot;NAYA ROOP NAYI ZINDIGI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8be00863744ddade0d4a280ba800e469</data>
+      <data key="d3">4</data>
+      <data key="d4">81</data>
+      <data key="d5">6b02373137fd438ba96af28f735cdbdb</data>
+    </node>
+    <node id="&quot;PAT SAJAK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Pat Sajak is the host of The Pat Sajak Show, a late-night television talk show."</data>
+      <data key="d2">6a3af1c6423900e1c203ab7802fe3a04</data>
+      <data key="d3">1</data>
+      <data key="d4">82</data>
+      <data key="d5">36a4fcd8efc144e6b8af9a1c7ab8b2ce</data>
+    </node>
+    <node id="&quot;JANUARY 9, 1989&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"January 9, 1989 is the start date of The Pat Sajak Show on CBS."</data>
+      <data key="d2">6a3af1c6423900e1c203ab7802fe3a04</data>
+      <data key="d3">1</data>
+      <data key="d4">83</data>
+      <data key="d5">fbeef791d19b413a9c93c6608286ab63</data>
+    </node>
+    <node id="&quot;APRIL 13, 1990&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"April 13, 1990 is the end date of The Pat Sajak Show on CBS."</data>
+      <data key="d2">6a3af1c6423900e1c203ab7802fe3a04</data>
+      <data key="d3">1</data>
+      <data key="d4">84</data>
+      <data key="d5">d2b629c0396f4180a03e16ddf3818589</data>
+    </node>
+    <node id="&quot;THE PAT SAJAK SHOW&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6a3af1c6423900e1c203ab7802fe3a04</data>
+      <data key="d3">4</data>
+      <data key="d4">85</data>
+      <data key="d5">6102fc6619ed422ebc42588bfa97355d</data>
+    </node>
+    <node id="&quot;PAUL WERNICK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Paul Wernick is one of the creators of The Joe Schmo Show, a reality television hoax show."</data>
+      <data key="d2">ee592447418b71cafd429fbf784e1948</data>
+      <data key="d3">1</data>
+      <data key="d4">86</data>
+      <data key="d5">8d141c0b80f74b79a05eed7fe161fe49</data>
+    </node>
+    <node id="&quot;RHETT REESE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Rhett Reese is one of the creators of The Joe Schmo Show, a reality television hoax show."</data>
+      <data key="d2">ee592447418b71cafd429fbf784e1948</data>
+      <data key="d3">1</data>
+      <data key="d4">87</data>
+      <data key="d5">e22d1d1cd8d14f12b81828d940f40d70</data>
+    </node>
+    <node id="&quot;SPIKE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Spike is a cable network that broadcasts The Joe Schmo Show in the U.S."</data>
+      <data key="d2">ee592447418b71cafd429fbf784e1948</data>
+      <data key="d3">2</data>
+      <data key="d4">88</data>
+      <data key="d5">9ab48505fb1b487babd0d1f6d3a3f980</data>
+    </node>
+    <node id="&quot;U.S.&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S. is the country where The Joe Schmo Show is broadcast on Spike."</data>
+      <data key="d2">ee592447418b71cafd429fbf784e1948</data>
+      <data key="d3">1</data>
+      <data key="d4">89</data>
+      <data key="d5">148fffeb994541b2b4b6dcefda7001a8</data>
+    </node>
+    <node id="&quot;THE JOE SCHMO SHOW&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ee592447418b71cafd429fbf784e1948</data>
+      <data key="d3">3</data>
+      <data key="d4">90</data>
+      <data key="d5">89c08e793298442686292454a1abff31</data>
+    </node>
+    <node id="&quot;STEVE ALLEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Steve Allen was the host of The Steve Allen Show from 1956 to 1964."</data>
+      <data key="d2">a897406f8eccbc06aa9fc762bab23000</data>
+      <data key="d3">1</data>
+      <data key="d4">91</data>
+      <data key="d5">0467928aa65e4a4fba62bdb1467e3a54</data>
+    </node>
+    <node id="&quot;NBC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"NBC is a television network that aired The Steve Allen Show from June 1956 to June 1960."</data>
+      <data key="d2">a897406f8eccbc06aa9fc762bab23000</data>
+      <data key="d3">1</data>
+      <data key="d4">92</data>
+      <data key="d5">43c3390303c6476cb65f584e37c3e81c</data>
+    </node>
+    <node id="&quot;ABC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ABC is a television network that aired The Steve Allen Show from September 1961 to December 1961."</data>
+      <data key="d2">a897406f8eccbc06aa9fc762bab23000</data>
+      <data key="d3">1</data>
+      <data key="d4">93</data>
+      <data key="d5">fa14b16c17e3417dba5a4b473ea5b18d</data>
+    </node>
+    <node id="&quot;THE STEVE ALLEN SHOW&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a897406f8eccbc06aa9fc762bab23000</data>
+      <data key="d3">3</data>
+      <data key="d4">94</data>
+      <data key="d5">7cc3356d38de4328a51a5cbcb187dac3</data>
+    </node>
+    <node id="&quot;CARL INGEMAR PERSTAD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Carl Ingemar Perstad is the creator and host of Trafikmagasinet until 2002."</data>
+      <data key="d2">c0b87e4defbadf0d22c548e4c2e853e7</data>
+      <data key="d3">1</data>
+      <data key="d4">95</data>
+      <data key="d5">bef16fb5fd7344cca5e295b13ef3e0cd</data>
+    </node>
+    <node id="&quot;CHRISTER GLENNING&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Christer Glenning was a co-host of Trafikmagasinet, responsible for car testing until his death in 1998."</data>
+      <data key="d2">c0b87e4defbadf0d22c548e4c2e853e7</data>
+      <data key="d3">1</data>
+      <data key="d4">96</data>
+      <data key="d5">bb9e01bc171d4326a29afda59ece8d17</data>
+    </node>
+    <node id="&quot;SVT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"SVT is the Swedish public service network that broadcast Trafikmagasinet from 1978 to 2003."</data>
+      <data key="d2">c0b87e4defbadf0d22c548e4c2e853e7</data>
+      <data key="d3">1</data>
+      <data key="d4">97</data>
+      <data key="d5">3c063eea52e94164b70c99431ea30bae</data>
+    </node>
+    <node id="&quot;TRAFIKMAGASINET&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c0b87e4defbadf0d22c548e4c2e853e7</data>
+      <data key="d3">3</data>
+      <data key="d4">98</data>
+      <data key="d5">252cc8452bfc4c2aa58cab68d8b61879</data>
+    </node>
+    <node id="&quot;SHAYERA HALL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Shayera Hall is Hawkgirl's secret identity, and has been reincarnated many times through the ages alongside her husband Hawkman."</data>
+      <data key="d2">cf6115137d9161fd8eb225728bbf8510</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">99</data>
+      <data key="d5">7e2c84548fb94ee395ba8588d8f2a006</data>
+    </node>
+    <node id="&quot;HAWKMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Hawkman is a superhero from the DC Universe who has been a member of the Justice League. He is married to Shayera Hall, and together they have been reincarnated many times throughout history, with their bond enduring across multiple lifetimes.</data>
+      <data key="d2">92701be4d23e83f06bf19d5f9d087831,cf6115137d9161fd8eb225728bbf8510</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">100</data>
+      <data key="d5">f034618dde7948beb6dab30176d0fc87</data>
+    </node>
+    <node id="&quot;CARTER HALL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Carter Hall is Hawkman's secret identity, and has lived past lives as Prince Khufu."</data>
+      <data key="d2">cf6115137d9161fd8eb225728bbf8510</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">3</data>
+      <data key="d4">101</data>
+      <data key="d5">5c41f96be13e49dba649454297834546</data>
+    </node>
+    <node id="&quot;LOIS LANE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lois Lane is a character who learns about Carter Hall's past life as Prince Khufu from him directly."</data>
+      <data key="d2">cf6115137d9161fd8eb225728bbf8510</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">102</data>
+      <data key="d5">7ea4afbf8a264f29af29950ce98105ba</data>
+    </node>
+    <node id="&quot;GENERAL SLADE WILSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"General Slade Wilson is an antagonist who kills Carter Hall in the episode 'Icarus'."</data>
+      <data key="d2">cf6115137d9161fd8eb225728bbf8510</data>
+      <data key="d3">0</data>
+      <data key="d4">103</data>
+      <data key="d5">91ff849d12b24574b0691dbddf44968b</data>
+    </node>
+    <node id="&quot;OLIVER QUEEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Oliver Queen is a character whose office at LuthorCorp building is the site of Carter Hall's death."</data>
+      <data key="d2">cf6115137d9161fd8eb225728bbf8510</data>
+      <data key="d3">0</data>
+      <data key="d4">104</data>
+      <data key="d5">d73c1f2fb3094d8dace42ad2a76e9a52</data>
+    </node>
+    <node id="&quot;LUTHORCORP&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LuthorCorp is a corporation where Oliver Queen has an office, and is the site of Carter Hall's death."</data>
+      <data key="d2">cf6115137d9161fd8eb225728bbf8510</data>
+      <data key="d3">0</data>
+      <data key="d4">105</data>
+      <data key="d5">cdc8901e668749889bd49bebdc4ff1f6</data>
+    </node>
+    <node id="&quot;JSA BROWNSTONE&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"The JSA brownstone is a location where Hawkgirl's weaponry and mask are on display."</data>
+      <data key="d2">cf6115137d9161fd8eb225728bbf8510</data>
+      <data key="d3">0</data>
+      <data key="d4">106</data>
+      <data key="d5">36084a9fab53433493f079e97e68bf65</data>
+    </node>
+    <node id="&quot;EGYPTIAN TOMB&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"An Egyptian tomb is the burial site of Carter Hall and Shayera Hall, where their helmets and maces are placed in honor and respect."</data>
+      <data key="d2">cf6115137d9161fd8eb225728bbf8510</data>
+      <data key="d3">0</data>
+      <data key="d4">107</data>
+      <data key="d5">eebcc7ec8e3e4df7aea83659bbdc2199</data>
+    </node>
+    <node id="&quot;HAWKGIRL&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Hawkgirl is a superhero from the DC Universe who has been a member of the Justice League.</data>
+      <data key="d2">92701be4d23e83f06bf19d5f9d087831,cf6115137d9161fd8eb225728bbf8510</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">108</data>
+      <data key="d5">ceadf262ef834e9ab146b20650912cae</data>
+    </node>
+    <node id="&quot;AQUAMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Aquaman is one of the original seven members of the Justice League, a superhero from the DC Universe."</data>
+      <data key="d2">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">109</data>
+      <data key="d5">7f65feab75424b53b24470d305ba331a</data>
+    </node>
+    <node id="&quot;FLASH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Flash is one of the original seven members of the Justice League, a superhero from the DC Universe."</data>
+      <data key="d2">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">110</data>
+      <data key="d5">fd9cb733b28d420cb5cef01e545a132c</data>
+    </node>
+    <node id="&quot;GREEN LANTERN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Green Lantern is one of the original seven members of the Justice League, a superhero from the DC Universe."</data>
+      <data key="d2">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">111</data>
+      <data key="d5">0fbcca3f17c649a08aea64b5a7d9ef36</data>
+    </node>
+    <node id="&quot;MARTIAN MANHUNTER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Martian Manhunter is one of the original seven members of the Justice League, a superhero from the DC Universe."</data>
+      <data key="d2">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">112</data>
+      <data key="d5">482027a59f32484c9c44fd700615c1b6</data>
+    </node>
+    <node id="&quot;BATMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Batman is one of the original seven members of the Justice League, a superhero from the DC Universe."</data>
+      <data key="d2">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">113</data>
+      <data key="d5">de837ff3d626451282ff6ac77a82216d</data>
+    </node>
+    <node id="&quot;WONDER WOMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Wonder Woman is one of the original seven members of the Justice League, a superhero from the DC Universe."</data>
+      <data key="d2">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">114</data>
+      <data key="d5">460295fed3ae4cd39f9f274cec9c2506</data>
+    </node>
+    <node id="&quot;ATOM&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Atom is a superhero from the DC Universe who has been a member of the Justice League."</data>
+      <data key="d2">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">115</data>
+      <data key="d5">553b285bba60460ab1ed8341ae61282b</data>
+    </node>
+    <node id="&quot;BLACK CANARY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Black Canary is a superhero from the DC Universe who has been a member of the Justice League."</data>
+      <data key="d2">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">116</data>
+      <data key="d5">cec95bf17e7e4c939b56c9c6f402a29f</data>
+    </node>
+    <node id="&quot;CYBORG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Cyborg is a superhero from the DC Universe who has been a member of the Justice League."</data>
+      <data key="d2">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">117</data>
+      <data key="d5">599164aead034bc19446efacc77554d2</data>
+    </node>
+    <node id="&quot;GREEN ARROW&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Green Arrow is a superhero from the DC Universe who has been a member of the Justice League."</data>
+      <data key="d2">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">118</data>
+      <data key="d5">bbf148ae4d48422f8fdef754cfa2b9e4</data>
+    </node>
+    <node id="&quot;ELONGATED MAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Elongated Man is a superhero from the DC Universe who has been a member of the Justice League."</data>
+      <data key="d2">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">119</data>
+      <data key="d5">de61b2670999433f807a6a1dc2b81e43</data>
+    </node>
+    <node id="&quot;PLASTIC MAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Plastic Man is a superhero from the DC Universe who has been a member of the Justice League."</data>
+      <data key="d2">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">120</data>
+      <data key="d5">3e95dacfe57b4d57b5da4310ef2e157f</data>
+    </node>
+    <node id="&quot;RED TORNADO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Red Tornado is a superhero from the DC Universe who has been a member of the Justice League."</data>
+      <data key="d2">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">121</data>
+      <data key="d5">1f1545308e9347af91fd03b94aadc21f</data>
+    </node>
+    <node id="&quot;STARGIRL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Stargirl is a superhero from the DC Universe who has been a member of the Justice League."</data>
+      <data key="d2">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">122</data>
+      <data key="d5">6ea81acaf232485e94fff638e03336e1</data>
+    </node>
+    <node id="&quot;CAPTAIN MARVEL / SHAZAM&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Captain Marvel / Shazam is a superhero from the DC Universe who has been a member of the Justice League."</data>
+      <data key="d2">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">123</data>
+      <data key="d5">d136b08d586d488f9e4188b524c85a29</data>
+    </node>
+    <node id="&quot;ZATANNA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Zatanna is a superhero from the DC Universe who has been a member of the Justice League."</data>
+      <data key="d2">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">124</data>
+      <data key="d5">cccfa151fedc4b218a8d96adc7dceabe</data>
+    </node>
+    <node id="&quot;JUSTICE LEAGUE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">19</data>
+      <data key="d4">125</data>
+      <data key="d5">ce54725672a74ebcabe6127577dacb2b</data>
+    </node>
+    <node id="&quot;AHMAD RASH&#256;D&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ahmad Rash&#257;d hosted the Caesars Challenge series."</data>
+      <data key="d2">2fe91cf3d89743dcc4be47dc409b6f9f</data>
+      <data key="d3">1</data>
+      <data key="d4">126</data>
+      <data key="d5">ea2b28ca1a974ffab4517811dc1d1e5c</data>
+    </node>
+    <node id="&quot;DAN DOHERTY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dan Doherty played the role of a Roman gladiator on Caesars Challenge for most of its run."</data>
+      <data key="d2">2fe91cf3d89743dcc4be47dc409b6f9f</data>
+      <data key="d3">1</data>
+      <data key="d4">127</data>
+      <data key="d5">aff21f1da1654e7babdcf3fb0e4a75fc</data>
+    </node>
+    <node id="&quot;CHAD BROWN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Chad Brown handled some of the earliest episodes of Caesars Challenge before Dan Doherty joined the show."</data>
+      <data key="d2">2fe91cf3d89743dcc4be47dc409b6f9f</data>
+      <data key="d3">1</data>
+      <data key="d4">128</data>
+      <data key="d5">dc2cc9016e3f49dbac7232f05cce794d</data>
+    </node>
+    <node id="&quot;ZACH RUBY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Zach Ruby handled some of the earliest episodes of Caesars Challenge before Dan Doherty joined the show."</data>
+      <data key="d2">2fe91cf3d89743dcc4be47dc409b6f9f</data>
+      <data key="d3">1</data>
+      <data key="d4">129</data>
+      <data key="d5">6ea0cef05f694dcea455478f40674e45</data>
+    </node>
+    <node id="&quot;CAESARS PALACE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Caesars Palace is a location in Las Vegas, Nevada where Caesars Challenge was filmed."</data>
+      <data key="d2">2fe91cf3d89743dcc4be47dc409b6f9f</data>
+      <data key="d3">0</data>
+      <data key="d4">130</data>
+      <data key="d5">7ab5d53a872f4dfc98f3d386879f3c75</data>
+    </node>
+    <node id="&quot;CAESARS CHALLENGE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2fe91cf3d89743dcc4be47dc409b6f9f</data>
+      <data key="d3">4</data>
+      <data key="d4">131</data>
+      <data key="d5">af1d0fec22114a3398b8016f5225f9ed</data>
+    </node>
+    <edge source="&quot;HANNA-BARBERA&quot;" target="&quot;THE QUICK DRAW MCGRAW SHOW&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hanna-Barbera produced The Quick Draw McGraw Show, indicating their role in its creation and development."</data>
+      <data key="d10">02114dd53dd41a148bfa7a34b5c32724</data>
+      <data key="d11">b07a7f088364459098cd8511ff27a4c8</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;THE QUICK DRAW MCGRAW SHOW&quot;" target="&quot;SNOOPER AND BLABBER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Snooper and Blabber is a part of The Quick Draw McGraw Show, highlighting their connection."</data>
+      <data key="d10">02114dd53dd41a148bfa7a34b5c32724</data>
+      <data key="d11">8870cf2b5df64d2cab5820f67e29b9f1</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is the county seat of Pima County."</data>
+      <data key="d10">02114dd53dd41a148bfa7a34b5c32724,172dd380a6601c2ccfbd335a9f7cafc2,2fe91cf3d89743dcc4be47dc409b6f9f,30710b8cbc44ce24815e01cd64278a8d,4b149625a0eeae1d475bd23f7b1478c6,5ff210d4428c998e18634983f8fb812b,64fd3c1e3e7ef3962bddaba68dddc0ac,67dba2f5ef29e20821d257f45f33e395,6940b58af3cb1487fd46a0505874556a,6a3af1c6423900e1c203ab7802fe3a04,8be00863744ddade0d4a280ba800e469,92701be4d23e83f06bf19d5f9d087831,a897406f8eccbc06aa9fc762bab23000,b756c6292565315b2610282ffa17f717,c0b87e4defbadf0d22c548e4c2e853e7,cdef6acd779ee5bf42dc89937979d731,cf6115137d9161fd8eb225728bbf8510,dfbcbe16f50087f73863b56dca944c3b,ee415db9349fc704c689c30585f51651,ee592447418b71cafd429fbf784e1948</data>
+      <data key="d11">cd130938a2844050be991af70baf5ee0</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Pima County is a county in Arizona."</data>
+      <data key="d10">02114dd53dd41a148bfa7a34b5c32724,172dd380a6601c2ccfbd335a9f7cafc2,2fe91cf3d89743dcc4be47dc409b6f9f,30710b8cbc44ce24815e01cd64278a8d,4b149625a0eeae1d475bd23f7b1478c6,5ff210d4428c998e18634983f8fb812b,64fd3c1e3e7ef3962bddaba68dddc0ac,67dba2f5ef29e20821d257f45f33e395,6940b58af3cb1487fd46a0505874556a,6a3af1c6423900e1c203ab7802fe3a04,8be00863744ddade0d4a280ba800e469,92701be4d23e83f06bf19d5f9d087831,a897406f8eccbc06aa9fc762bab23000,b756c6292565315b2610282ffa17f717,c0b87e4defbadf0d22c548e4c2e853e7,cdef6acd779ee5bf42dc89937979d731,cf6115137d9161fd8eb225728bbf8510,dfbcbe16f50087f73863b56dca944c3b,ee415db9349fc704c689c30585f51651,ee592447418b71cafd429fbf784e1948</data>
+      <data key="d11">43544b99c3b04b059546198a0ae6366d</data>
+      <data key="d12">3</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The University of Arizona is located in Tucson."</data>
+      <data key="d10">02114dd53dd41a148bfa7a34b5c32724,172dd380a6601c2ccfbd335a9f7cafc2,2fe91cf3d89743dcc4be47dc409b6f9f,30710b8cbc44ce24815e01cd64278a8d,4b149625a0eeae1d475bd23f7b1478c6,5ff210d4428c998e18634983f8fb812b,64fd3c1e3e7ef3962bddaba68dddc0ac,67dba2f5ef29e20821d257f45f33e395,6940b58af3cb1487fd46a0505874556a,6a3af1c6423900e1c203ab7802fe3a04,8be00863744ddade0d4a280ba800e469,92701be4d23e83f06bf19d5f9d087831,a897406f8eccbc06aa9fc762bab23000,b756c6292565315b2610282ffa17f717,c0b87e4defbadf0d22c548e4c2e853e7,cdef6acd779ee5bf42dc89937979d731,cf6115137d9161fd8eb225728bbf8510,dfbcbe16f50087f73863b56dca944c3b,ee415db9349fc704c689c30585f51651,ee592447418b71cafd429fbf784e1948</data>
+      <data key="d11">a671bf7fea2f4514b6e96ba99127fafd</data>
+      <data key="d12">4</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Arizona is a state in the United States."</data>
+      <data key="d10">02114dd53dd41a148bfa7a34b5c32724,172dd380a6601c2ccfbd335a9f7cafc2,2fe91cf3d89743dcc4be47dc409b6f9f,30710b8cbc44ce24815e01cd64278a8d,4b149625a0eeae1d475bd23f7b1478c6,5ff210d4428c998e18634983f8fb812b,64fd3c1e3e7ef3962bddaba68dddc0ac,67dba2f5ef29e20821d257f45f33e395,6940b58af3cb1487fd46a0505874556a,6a3af1c6423900e1c203ab7802fe3a04,8be00863744ddade0d4a280ba800e469,92701be4d23e83f06bf19d5f9d087831,a897406f8eccbc06aa9fc762bab23000,b756c6292565315b2610282ffa17f717,c0b87e4defbadf0d22c548e4c2e853e7,cdef6acd779ee5bf42dc89937979d731,cf6115137d9161fd8eb225728bbf8510,dfbcbe16f50087f73863b56dca944c3b,ee415db9349fc704c689c30585f51651,ee592447418b71cafd429fbf784e1948</data>
+      <data key="d11">525f41ea20274a05af4e52b625b473f3</data>
+      <data key="d12">5</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is a city in Arizona."</data>
+      <data key="d10">02114dd53dd41a148bfa7a34b5c32724,172dd380a6601c2ccfbd335a9f7cafc2,2fe91cf3d89743dcc4be47dc409b6f9f,30710b8cbc44ce24815e01cd64278a8d,4b149625a0eeae1d475bd23f7b1478c6,5ff210d4428c998e18634983f8fb812b,64fd3c1e3e7ef3962bddaba68dddc0ac,67dba2f5ef29e20821d257f45f33e395,6940b58af3cb1487fd46a0505874556a,6a3af1c6423900e1c203ab7802fe3a04,8be00863744ddade0d4a280ba800e469,92701be4d23e83f06bf19d5f9d087831,a897406f8eccbc06aa9fc762bab23000,b756c6292565315b2610282ffa17f717,c0b87e4defbadf0d22c548e4c2e853e7,cdef6acd779ee5bf42dc89937979d731,cf6115137d9161fd8eb225728bbf8510,dfbcbe16f50087f73863b56dca944c3b,ee415db9349fc704c689c30585f51651,ee592447418b71cafd429fbf784e1948</data>
+      <data key="d11">071a416efbec4f0886c19ac68f6d43cb</data>
+      <data key="d12">6</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Phoenix is a city in Arizona."</data>
+      <data key="d10">02114dd53dd41a148bfa7a34b5c32724,172dd380a6601c2ccfbd335a9f7cafc2,2fe91cf3d89743dcc4be47dc409b6f9f,30710b8cbc44ce24815e01cd64278a8d,4b149625a0eeae1d475bd23f7b1478c6,5ff210d4428c998e18634983f8fb812b,64fd3c1e3e7ef3962bddaba68dddc0ac,67dba2f5ef29e20821d257f45f33e395,6940b58af3cb1487fd46a0505874556a,6a3af1c6423900e1c203ab7802fe3a04,8be00863744ddade0d4a280ba800e469,92701be4d23e83f06bf19d5f9d087831,a897406f8eccbc06aa9fc762bab23000,b756c6292565315b2610282ffa17f717,c0b87e4defbadf0d22c548e4c2e853e7,cdef6acd779ee5bf42dc89937979d731,cf6115137d9161fd8eb225728bbf8510,dfbcbe16f50087f73863b56dca944c3b,ee415db9349fc704c689c30585f51651,ee592447418b71cafd429fbf784e1948</data>
+      <data key="d11">6d8473ef3b1042bf87178a611e3dbcc6</data>
+      <data key="d12">7</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d10">02114dd53dd41a148bfa7a34b5c32724,172dd380a6601c2ccfbd335a9f7cafc2,2fe91cf3d89743dcc4be47dc409b6f9f,30710b8cbc44ce24815e01cd64278a8d,4b149625a0eeae1d475bd23f7b1478c6,5ff210d4428c998e18634983f8fb812b,64fd3c1e3e7ef3962bddaba68dddc0ac,67dba2f5ef29e20821d257f45f33e395,6940b58af3cb1487fd46a0505874556a,6a3af1c6423900e1c203ab7802fe3a04,8be00863744ddade0d4a280ba800e469,92701be4d23e83f06bf19d5f9d087831,a897406f8eccbc06aa9fc762bab23000,b756c6292565315b2610282ffa17f717,c0b87e4defbadf0d22c548e4c2e853e7,cdef6acd779ee5bf42dc89937979d731,cf6115137d9161fd8eb225728bbf8510,dfbcbe16f50087f73863b56dca944c3b,ee415db9349fc704c689c30585f51651,ee592447418b71cafd429fbf784e1948</data>
+      <data key="d11">30c9641543c24773938bd8ec57ea98ab</data>
+      <data key="d12">8</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Mexico shares an international border with the United States."</data>
+      <data key="d10">02114dd53dd41a148bfa7a34b5c32724,172dd380a6601c2ccfbd335a9f7cafc2,2fe91cf3d89743dcc4be47dc409b6f9f,30710b8cbc44ce24815e01cd64278a8d,4b149625a0eeae1d475bd23f7b1478c6,5ff210d4428c998e18634983f8fb812b,64fd3c1e3e7ef3962bddaba68dddc0ac,67dba2f5ef29e20821d257f45f33e395,6940b58af3cb1487fd46a0505874556a,6a3af1c6423900e1c203ab7802fe3a04,8be00863744ddade0d4a280ba800e469,92701be4d23e83f06bf19d5f9d087831,a897406f8eccbc06aa9fc762bab23000,b756c6292565315b2610282ffa17f717,c0b87e4defbadf0d22c548e4c2e853e7,cdef6acd779ee5bf42dc89937979d731,cf6115137d9161fd8eb225728bbf8510,dfbcbe16f50087f73863b56dca944c3b,ee415db9349fc704c689c30585f51651,ee592447418b71cafd429fbf784e1948</data>
+      <data key="d11">18b839da898e4026b81727d759d95c6a</data>
+      <data key="d12">9</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d10">02114dd53dd41a148bfa7a34b5c32724,172dd380a6601c2ccfbd335a9f7cafc2,2fe91cf3d89743dcc4be47dc409b6f9f,30710b8cbc44ce24815e01cd64278a8d,4b149625a0eeae1d475bd23f7b1478c6,5ff210d4428c998e18634983f8fb812b,64fd3c1e3e7ef3962bddaba68dddc0ac,67dba2f5ef29e20821d257f45f33e395,6940b58af3cb1487fd46a0505874556a,6a3af1c6423900e1c203ab7802fe3a04,8be00863744ddade0d4a280ba800e469,92701be4d23e83f06bf19d5f9d087831,a897406f8eccbc06aa9fc762bab23000,b756c6292565315b2610282ffa17f717,c0b87e4defbadf0d22c548e4c2e853e7,cdef6acd779ee5bf42dc89937979d731,cf6115137d9161fd8eb225728bbf8510,dfbcbe16f50087f73863b56dca944c3b,ee415db9349fc704c689c30585f51651,ee592447418b71cafd429fbf784e1948</data>
+      <data key="d11">eeef6ae5c464400c8755900b4f1ac37a</data>
+      <data key="d12">10</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DAN SCHNEIDER&quot;" target="&quot;THE AMANDA SHOW&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Dan Schneider created and wrote for The Amanda Show, indicating a significant creative role."</data>
+      <data key="d10">30710b8cbc44ce24815e01cd64278a8d</data>
+      <data key="d11">422433aa45804c7ebb973b2fafce5da6</data>
+      <data key="d12">11</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AMANDA BYNES&quot;" target="&quot;THE AMANDA SHOW&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Amanda Bynes starred in The Amanda Show, which was a spin-off from 'All That'."</data>
+      <data key="d10">30710b8cbc44ce24815e01cd64278a8d</data>
+      <data key="d11">86505bca739d4bccaaa1a8e0f3baffdc</data>
+      <data key="d12">12</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DRAKE BELL&quot;" target="&quot;THE AMANDA SHOW&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Drake Bell is a cast member of The Amanda Show, alongside Amanda Bynes and Nancy Sullivan."</data>
+      <data key="d10">30710b8cbc44ce24815e01cd64278a8d</data>
+      <data key="d11">1af9faf341e14a5bbf4ddc9080e8dc0b</data>
+      <data key="d12">13</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NICKELODEON&quot;" target="&quot;THE AMANDA SHOW&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Amanda Show aired on Nickelodeon from 1999 to 2002, indicating a broadcasting relationship."</data>
+      <data key="d10">30710b8cbc44ce24815e01cd64278a8d</data>
+      <data key="d11">353d91abc68648639d65a549e59b5cf3</data>
+      <data key="d12">14</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JACK LALANNE&quot;" target="&quot;THE JACK LALANNE SHOW&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Jack LaLanne Show was hosted by Jack LaLanne."</data>
+      <data key="d10">ee415db9349fc704c689c30585f51651</data>
+      <data key="d11">7ce637e4f35b42e3a9f8272cab69cd22</data>
+      <data key="d12">15</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MILES MILLAR&quot;" target="&quot;SMALLVILLE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Miles Millar developed the American television series Smallville."</data>
+      <data key="d10">cdef6acd779ee5bf42dc89937979d731</data>
+      <data key="d11">4d999d7744b04a998475f8f8531589f0</data>
+      <data key="d12">16</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JERRY SIEGEL&quot;" target="&quot;SUPERMAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jerry Siegel created the DC Comics character Superman, which inspired the television series Smallville."</data>
+      <data key="d10">cdef6acd779ee5bf42dc89937979d731</data>
+      <data key="d11">9a6f414210e14841a5b0e661aedc898d</data>
+      <data key="d12">17</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JOE SHUSTER&quot;" target="&quot;SUPERMAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Joe Shuster created the DC Comics character Superman, which inspired the television series Smallville."</data>
+      <data key="d10">cdef6acd779ee5bf42dc89937979d731</data>
+      <data key="d11">db541b7260974db8bac94e953009f60e</data>
+      <data key="d12">18</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SMALLVILLE&quot;" target="&quot;ALFRED GOUGH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Alfred Gough developed the American television series Smallville."</data>
+      <data key="d10">cdef6acd779ee5bf42dc89937979d731</data>
+      <data key="d11">f2ff8044718648e18acef16dd9a65436</data>
+      <data key="d12">19</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SUPERMAN&quot;" target="&quot;JUSTICE LEAGUE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Superman is one of the original members of the Justice League."</data>
+      <data key="d10">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d11">00d785e7d76b47ec81b508e768d40584</data>
+      <data key="d12">20</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PAULA ABDUL&quot;" target="&quot;THE SHOW&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Paula Abdul made an appearance on The Show, indicating her past involvement with the organization."</data>
+      <data key="d10">4b149625a0eeae1d475bd23f7b1478c6</data>
+      <data key="d11">87915637da3e474c9349bd0ae604bd95</data>
+      <data key="d12">21</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;THE SHOW&quot;" target="&quot;SIMON COWELL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Simon Cowell was part of The Show, specifically in his final season."</data>
+      <data key="d10">4b149625a0eeae1d475bd23f7b1478c6</data>
+      <data key="d11">8f1eba29f39e411188200bf0d14628ec</data>
+      <data key="d12">22</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NHK&quot;" target="&quot;AKB48 SHOW!&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"NHK produced the AKB48 Show! TV variety show."</data>
+      <data key="d10">64fd3c1e3e7ef3962bddaba68dddc0ac</data>
+      <data key="d11">7282c73622b8408e97289d959faff483</data>
+      <data key="d12">23</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JAPAN&quot;" target="&quot;AKB48 SHOW!&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The AKB48 Show! was aired in Japan."</data>
+      <data key="d10">64fd3c1e3e7ef3962bddaba68dddc0ac</data>
+      <data key="d11">3deb220d31f74103aa44870a36a63220</data>
+      <data key="d12">24</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AKB48&quot;" target="&quot;AKB48 SHOW!&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"AKB48 performed on the AKB48 Show! TV variety show."</data>
+      <data key="d10">64fd3c1e3e7ef3962bddaba68dddc0ac</data>
+      <data key="d11">af7a1584dd15492cb9a4940e285f57fc</data>
+      <data key="d12">25</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DUMONT TELEVISION NETWORK&quot;" target="&quot;MUSIC FROM CHICAGO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Music From Chicago was broadcast on DuMont Television Network."</data>
+      <data key="d10">172dd380a6601c2ccfbd335a9f7cafc2</data>
+      <data key="d11">6e8d9029ce4e4ea182367173ab2c7bbf</data>
+      <data key="d12">26</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WGN-TV&quot;" target="&quot;MUSIC FROM CHICAGO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Music From Chicago was broadcast from WGN-TV."</data>
+      <data key="d10">172dd380a6601c2ccfbd335a9f7cafc2</data>
+      <data key="d11">cbf232211e7d4eb6abdbe182f71c2cf0</data>
+      <data key="d12">27</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CHICAGO&quot;" target="&quot;MUSIC FROM CHICAGO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Music From Chicago was broadcast from Chicago."</data>
+      <data key="d10">172dd380a6601c2ccfbd335a9f7cafc2</data>
+      <data key="d11">bb0cff774a4440b289cc6f3b929fe13c</data>
+      <data key="d12">28</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;APRIL 15, 1951&quot;" target="&quot;MUSIC FROM CHICAGO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"April 15, 1951 is the date when Music From Chicago first aired."</data>
+      <data key="d10">172dd380a6601c2ccfbd335a9f7cafc2</data>
+      <data key="d11">ce55841ebfdd47008bab8c258f10372e</data>
+      <data key="d12">29</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JUNE 17, 1951&quot;" target="&quot;MUSIC FROM CHICAGO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"June 17, 1951 is the date when Music From Chicago last aired."</data>
+      <data key="d10">172dd380a6601c2ccfbd335a9f7cafc2</data>
+      <data key="d11">6090e736374d45fd84f0e4610a314f8f</data>
+      <data key="d12">30</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TERRY WOGAN&quot;" target="&quot;WOGAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Terry Wogan was the presenter of the talk show Wogan."</data>
+      <data key="d10">dfbcbe16f50087f73863b56dca944c3b</data>
+      <data key="d11">0e8d921ccd8d4a8594b65b7fd19f7120</data>
+      <data key="d12">31</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BBC TELEVISION THEATRE&quot;" target="&quot;WOGAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Wogan was generally broadcast live from BBC Television Theatre until 1991."</data>
+      <data key="d10">dfbcbe16f50087f73863b56dca944c3b</data>
+      <data key="d11">59c726a8792d443e84ab052cb7942b4a</data>
+      <data key="d12">32</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BBC TELEVISION CENTRE&quot;" target="&quot;WOGAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Wogan was broadcast from BBC Television Centre after 1991."</data>
+      <data key="d10">dfbcbe16f50087f73863b56dca944c3b</data>
+      <data key="d11">4f2c665decf242b0bfcaf7350b0e02ed</data>
+      <data key="d12">33</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ELDORADO&quot;" target="&quot;WOGAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Eldorado replaced Wogan on BBC1 in July 1992."</data>
+      <data key="d10">dfbcbe16f50087f73863b56dca944c3b</data>
+      <data key="d11">66cdf168f36d4a57a505028c97dc06e0</data>
+      <data key="d12">34</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WOGAN&quot;" target="&quot;BBC1&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Wogan was a talk show broadcast on BBC1."</data>
+      <data key="d10">dfbcbe16f50087f73863b56dca944c3b</data>
+      <data key="d11">38f51478f41f48db9bee570859b6f43e</data>
+      <data key="d12">35</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ITV NETWORK&quot;" target="&quot;MAKE YOUR PLAY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Make Your Play is broadcasted on ITV Network."</data>
+      <data key="d10">6940b58af3cb1487fd46a0505874556a</data>
+      <data key="d11">896d2a51e8de47de85ba8ced108c3d53</data>
+      <data key="d12">36</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UK&quot;" target="&quot;MAKE YOUR PLAY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Make Your Play is shown in the UK."</data>
+      <data key="d10">6940b58af3cb1487fd46a0505874556a</data>
+      <data key="d11">14555b518e954637b83aa762dc03164e</data>
+      <data key="d12">37</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FRIDAY 29 SEPTEMBER 2006&quot;" target="&quot;MAKE YOUR PLAY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Make Your Play was launched on Friday 29 September 2006."</data>
+      <data key="d10">6940b58af3cb1487fd46a0505874556a</data>
+      <data key="d11">b1f6164116d44fe8b8f135d7f65b9e58</data>
+      <data key="d12">38</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;IRELAND&quot;" target="&quot;THE LUCY KENNEDY SHOW&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Lucy Kennedy Show was broadcast in Ireland and received criticism from local television critics."</data>
+      <data key="d10">5ff210d4428c998e18634983f8fb812b</data>
+      <data key="d11">c8b2408617804483b620e1a6691ac90d</data>
+      <data key="d12">39</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MAEVE QUIGLEY&quot;" target="&quot;THE MIRROR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Maeve Quigley works as a TV analyst for The Mirror, promoting The Lucy Kennedy Show to its readers."</data>
+      <data key="d10">5ff210d4428c998e18634983f8fb812b</data>
+      <data key="d11">a5e0d1644eb547ba9a5c3211aac4631a</data>
+      <data key="d12">40</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MAEVE QUIGLEY&quot;" target="&quot;THE LUCY KENNEDY SHOW&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Maeve Quigley positively reviewed The Lucy Kennedy Show, choosing it as her 'Pick of The Week'."</data>
+      <data key="d10">5ff210d4428c998e18634983f8fb812b</data>
+      <data key="d11">5a28b94bc63b44edb30c54748fd14f15</data>
+      <data key="d12">41</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GARRISON KEILLOR&quot;" target="&quot;A PRAIRIE HOME COMPANION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Garrison Keillor created and hosted A Prairie Home Companion from 1974 to 2016."</data>
+      <data key="d10">b756c6292565315b2610282ffa17f717</data>
+      <data key="d11">f97011b2a99d44648e18d517e1eae15c</data>
+      <data key="d12">42</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CHRIS THILE&quot;" target="&quot;LIVE FROM HERE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Chris Thile hosts Live from Here, the successor show to A Prairie Home Companion."</data>
+      <data key="d10">b756c6292565315b2610282ffa17f717</data>
+      <data key="d11">35489ca6a63b47d6a8913cf333818bc1</data>
+      <data key="d12">43</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FITZGERALD THEATER&quot;" target="&quot;A PRAIRIE HOME COMPANION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"A Prairie Home Companion frequently aired live from the Fitzgerald Theater in Saint Paul, Minnesota."</data>
+      <data key="d10">b756c6292565315b2610282ffa17f717</data>
+      <data key="d11">5d3344f45e654d2c808481672f2f08dd</data>
+      <data key="d12">44</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NEW YORK CITY&quot;" target="&quot;A PRAIRIE HOME COMPANION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"A Prairie Home Companion toured to New York City for live broadcasts."</data>
+      <data key="d10">b756c6292565315b2610282ffa17f717</data>
+      <data key="d11">6fb57f83baec45c9b30490ee991f433f</data>
+      <data key="d12">45</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CBS&quot;" target="&quot;THE FACE IS FAMILIAR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Face Is Familiar game show aired on CBS."</data>
+      <data key="d10">67dba2f5ef29e20821d257f45f33e395</data>
+      <data key="d11">68762e6f0d1c41cd857c6b964a8e76c3</data>
+      <data key="d12">46</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CBS&quot;" target="&quot;THE PAT SAJAK SHOW&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Pat Sajak Show aired on CBS."</data>
+      <data key="d10">6a3af1c6423900e1c203ab7802fe3a04</data>
+      <data key="d11">70634e10a5e845aa8c6a32fe7e8eb2b2</data>
+      <data key="d12">47</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JACK WHITAKER&quot;" target="&quot;THE FACE IS FAMILIAR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jack Whitaker hosted The Face Is Familiar game show."</data>
+      <data key="d10">67dba2f5ef29e20821d257f45f33e395</data>
+      <data key="d11">04085f7cf46544b79597fc49286ff84d</data>
+      <data key="d12">48</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BOB CRANE&quot;" target="&quot;THE FACE IS FAMILIAR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Bob Crane was a celebrity guest on The Face Is Familiar game show."</data>
+      <data key="d10">67dba2f5ef29e20821d257f45f33e395</data>
+      <data key="d11">d203efdbfb2f4b2a899abfb31cf72e82</data>
+      <data key="d12">49</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DICK VAN PATTEN&quot;" target="&quot;THE FACE IS FAMILIAR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Dick Van Patten was a celebrity guest on The Face Is Familiar game show."</data>
+      <data key="d10">67dba2f5ef29e20821d257f45f33e395</data>
+      <data key="d11">6731a665561840c2898ce8c9788e4c88</data>
+      <data key="d12">50</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MEL BROOKS&quot;" target="&quot;THE FACE IS FAMILIAR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Mel Brooks was a celebrity guest on The Face Is Familiar game show."</data>
+      <data key="d10">67dba2f5ef29e20821d257f45f33e395</data>
+      <data key="d11">4026806fa92f4e849a59a7f5c9a45c79</data>
+      <data key="d12">51</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JUNE LOCKHART&quot;" target="&quot;THE FACE IS FAMILIAR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"June Lockhart was a celebrity guest on The Face Is Familiar game show."</data>
+      <data key="d10">67dba2f5ef29e20821d257f45f33e395</data>
+      <data key="d11">68e0c60d2e8845d89d9d0ad397833648</data>
+      <data key="d12">52</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SONY TV&quot;" target="&quot;NAYA ROOP NAYI ZINDIGI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Naya Roop Nayi Zindigi aired on Sony TV."</data>
+      <data key="d10">8be00863744ddade0d4a280ba800e469</data>
+      <data key="d11">101572f552b54e529fe7765c05168981</data>
+      <data key="d12">53</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MONA SINGH&quot;" target="&quot;NAYA ROOP NAYI ZINDIGI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Mona Singh anchored the reality television show Naya Roop Nayi Zindigi."</data>
+      <data key="d10">8be00863744ddade0d4a280ba800e469</data>
+      <data key="d11">60c58026b2764b40adffca6eaa31d6d9</data>
+      <data key="d12">54</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;NAYA ROOP NAYI ZINDIGI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Naya Roop Nayi Zindigi was produced and aired in India."</data>
+      <data key="d10">8be00863744ddade0d4a280ba800e469</data>
+      <data key="d11">ad1595a78935472999444c9330e7730e</data>
+      <data key="d12">55</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;EXTREME MAKEOVER&quot;" target="&quot;NAYA ROOP NAYI ZINDIGI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Naya Roop Nayi Zindigi is the Indian version of Extreme Makeover."</data>
+      <data key="d10">8be00863744ddade0d4a280ba800e469</data>
+      <data key="d11">735d19aea0744b2295556841c5c4c3fd</data>
+      <data key="d12">56</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PAT SAJAK&quot;" target="&quot;THE PAT SAJAK SHOW&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Pat Sajak is the host of The Pat Sajak Show."</data>
+      <data key="d10">6a3af1c6423900e1c203ab7802fe3a04</data>
+      <data key="d11">c725babdb14a485582f8fbdf95429030</data>
+      <data key="d12">57</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JANUARY 9, 1989&quot;" target="&quot;THE PAT SAJAK SHOW&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"January 9, 1989 is the start date of The Pat Sajak Show."</data>
+      <data key="d10">6a3af1c6423900e1c203ab7802fe3a04</data>
+      <data key="d11">a0047221896d418d849847d422fa4bb8</data>
+      <data key="d12">58</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;APRIL 13, 1990&quot;" target="&quot;THE PAT SAJAK SHOW&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"April 13, 1990 is the end date of The Pat Sajak Show."</data>
+      <data key="d10">6a3af1c6423900e1c203ab7802fe3a04</data>
+      <data key="d11">98fc2ee593184c5a839454db4eec7013</data>
+      <data key="d12">59</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PAUL WERNICK&quot;" target="&quot;THE JOE SCHMO SHOW&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Paul Wernick created The Joe Schmo Show, a reality television hoax show."</data>
+      <data key="d10">ee592447418b71cafd429fbf784e1948</data>
+      <data key="d11">80020a1da63042459e00266b2a605452</data>
+      <data key="d12">60</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;RHETT REESE&quot;" target="&quot;THE JOE SCHMO SHOW&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Rhett Reese created The Joe Schmo Show, a reality television hoax show."</data>
+      <data key="d10">ee592447418b71cafd429fbf784e1948</data>
+      <data key="d11">31a7e680c4d54101afe4c8d52d246913</data>
+      <data key="d12">61</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SPIKE&quot;" target="&quot;THE JOE SCHMO SHOW&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Spike broadcasts The Joe Schmo Show in the U.S."</data>
+      <data key="d10">ee592447418b71cafd429fbf784e1948</data>
+      <data key="d11">351abba16e5c448994c6daf48121b14d</data>
+      <data key="d12">62</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SPIKE&quot;" target="&quot;U.S.&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Spike is a cable network that operates in the U.S."</data>
+      <data key="d10">ee592447418b71cafd429fbf784e1948</data>
+      <data key="d11">50ea7d3b69614bcdbfbff7ddbfbf3d34</data>
+      <data key="d12">63</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;STEVE ALLEN&quot;" target="&quot;THE STEVE ALLEN SHOW&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Steve Allen was the host of The Steve Allen Show."</data>
+      <data key="d10">a897406f8eccbc06aa9fc762bab23000</data>
+      <data key="d11">004f40a5aeca48a1879db728eb12bcba</data>
+      <data key="d12">64</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NBC&quot;" target="&quot;THE STEVE ALLEN SHOW&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Steve Allen Show aired on NBC from June 1956 to June 1960."</data>
+      <data key="d10">a897406f8eccbc06aa9fc762bab23000</data>
+      <data key="d11">4465efb7f6ed4dedad72a658184addd2</data>
+      <data key="d12">65</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ABC&quot;" target="&quot;THE STEVE ALLEN SHOW&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Steve Allen Show aired on ABC from September 1961 to December 1961."</data>
+      <data key="d10">a897406f8eccbc06aa9fc762bab23000</data>
+      <data key="d11">b0dd60e11dad4ff782623acf039b3948</data>
+      <data key="d12">66</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CARL INGEMAR PERSTAD&quot;" target="&quot;TRAFIKMAGASINET&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Carl Ingemar Perstad created and hosted Trafikmagasinet until 2002."</data>
+      <data key="d10">c0b87e4defbadf0d22c548e4c2e853e7</data>
+      <data key="d11">db8c43fa4df947b09e5754d3b1393ead</data>
+      <data key="d12">67</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CHRISTER GLENNING&quot;" target="&quot;TRAFIKMAGASINET&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Christer Glenning co-hosted Trafikmagasinet and was responsible for car testing until his death in 1998."</data>
+      <data key="d10">c0b87e4defbadf0d22c548e4c2e853e7</data>
+      <data key="d11">5dabc4cd05da425cb194a04482bf0c29</data>
+      <data key="d12">68</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SVT&quot;" target="&quot;TRAFIKMAGASINET&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"SVT broadcast Trafikmagasinet from 1978 to 2003."</data>
+      <data key="d10">c0b87e4defbadf0d22c548e4c2e853e7</data>
+      <data key="d11">9d08f285a7be4c79b8f359c51d51db37</data>
+      <data key="d12">69</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SHAYERA HALL&quot;" target="&quot;HAWKGIRL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hawkgirl is the superheroine identity of Shayera Hall."</data>
+      <data key="d10">cf6115137d9161fd8eb225728bbf8510</data>
+      <data key="d11">adffed660d154b519c1817e514e83096</data>
+      <data key="d12">70</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SHAYERA HALL&quot;" target="&quot;CARTER HALL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Shayera Hall and Carter Hall are husband and wife, and have been reincarnated many times through the ages."</data>
+      <data key="d10">cf6115137d9161fd8eb225728bbf8510</data>
+      <data key="d11">b7e9c9ef572c445a9574ca571e41fb96</data>
+      <data key="d12">71</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HAWKMAN&quot;" target="&quot;CARTER HALL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hawkman is the superhero identity of Carter Hall."</data>
+      <data key="d10">cf6115137d9161fd8eb225728bbf8510</data>
+      <data key="d11">dcb9f281cd6248c699e0ebb285a42a5e</data>
+      <data key="d12">72</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HAWKMAN&quot;" target="&quot;JUSTICE LEAGUE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hawkman has been a member of the Justice League."</data>
+      <data key="d10">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d11">072cdee531b74513984f49d99a8d64a0</data>
+      <data key="d12">73</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CARTER HALL&quot;" target="&quot;LOIS LANE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lois Lane learns about Carter Hall's past life as Prince Khufu from him directly."</data>
+      <data key="d10">cf6115137d9161fd8eb225728bbf8510</data>
+      <data key="d11">5ae335d9210a45fda3f92a9a028d6d9b</data>
+      <data key="d12">74</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HAWKGIRL&quot;" target="&quot;JUSTICE LEAGUE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hawkgirl has been a member of the Justice League."</data>
+      <data key="d10">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d11">5ac60a941a5b4934bdc43d2f87de601c</data>
+      <data key="d12">75</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AQUAMAN&quot;" target="&quot;JUSTICE LEAGUE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Aquaman is one of the original members of the Justice League."</data>
+      <data key="d10">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d11">d405c3154d0e48ce96fad4c28fe20590</data>
+      <data key="d12">76</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FLASH&quot;" target="&quot;JUSTICE LEAGUE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Flash is one of the original members of the Justice League."</data>
+      <data key="d10">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d11">7923d8521c744bd9aab131c1aea91ffd</data>
+      <data key="d12">77</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GREEN LANTERN&quot;" target="&quot;JUSTICE LEAGUE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Green Lantern is one of the original members of the Justice League."</data>
+      <data key="d10">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d11">5bd156c87ec44e19ae6f8f62e6e50b9d</data>
+      <data key="d12">78</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MARTIAN MANHUNTER&quot;" target="&quot;JUSTICE LEAGUE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Martian Manhunter is one of the original members of the Justice League."</data>
+      <data key="d10">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d11">c1a146d7fb16429ea6d0aa2a55ee597f</data>
+      <data key="d12">79</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BATMAN&quot;" target="&quot;JUSTICE LEAGUE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Batman is one of the original members of the Justice League."</data>
+      <data key="d10">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d11">ede9350632084da5b0b577ff799ab14b</data>
+      <data key="d12">80</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WONDER WOMAN&quot;" target="&quot;JUSTICE LEAGUE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Wonder Woman is one of the original members of the Justice League."</data>
+      <data key="d10">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d11">ed559fb4ebde45518849ec803b350fa3</data>
+      <data key="d12">81</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ATOM&quot;" target="&quot;JUSTICE LEAGUE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Atom has been a member of the Justice League."</data>
+      <data key="d10">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d11">f422035f8b78417f98e4d116971cf9f3</data>
+      <data key="d12">82</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BLACK CANARY&quot;" target="&quot;JUSTICE LEAGUE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Black Canary has been a member of the Justice League."</data>
+      <data key="d10">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d11">c79d686eba044c5586c706cdc096817d</data>
+      <data key="d12">83</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CYBORG&quot;" target="&quot;JUSTICE LEAGUE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Cyborg has been a member of the Justice League."</data>
+      <data key="d10">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d11">0f70db1e598d463fbbcdd1e288bd9490</data>
+      <data key="d12">84</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GREEN ARROW&quot;" target="&quot;JUSTICE LEAGUE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Green Arrow has been a member of the Justice League."</data>
+      <data key="d10">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d11">b35c3d1a7daa4924b6bdb58bc69c354d</data>
+      <data key="d12">85</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ELONGATED MAN&quot;" target="&quot;JUSTICE LEAGUE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Elongated Man has been a member of the Justice League."</data>
+      <data key="d10">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d11">a97e2ecd870944cfbe71c79bc0fcc752</data>
+      <data key="d12">86</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PLASTIC MAN&quot;" target="&quot;JUSTICE LEAGUE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Plastic Man has been a member of the Justice League."</data>
+      <data key="d10">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d11">3e1b063bbfa9423d84e50311296d2f3c</data>
+      <data key="d12">87</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;RED TORNADO&quot;" target="&quot;JUSTICE LEAGUE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Red Tornado has been a member of the Justice League."</data>
+      <data key="d10">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d11">9a8ce816ee954bdabd01ea2081538009</data>
+      <data key="d12">88</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;STARGIRL&quot;" target="&quot;JUSTICE LEAGUE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Stargirl has been a member of the Justice League."</data>
+      <data key="d10">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d11">09f18f81442d4d6d93a90f0fac683f9b</data>
+      <data key="d12">89</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CAPTAIN MARVEL / SHAZAM&quot;" target="&quot;JUSTICE LEAGUE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Captain Marvel / Shazam has been a member of the Justice League."</data>
+      <data key="d10">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d11">e02be3e37ca0454883a4c1fd859c24bb</data>
+      <data key="d12">90</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ZATANNA&quot;" target="&quot;JUSTICE LEAGUE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Zatanna has been a member of the Justice League."</data>
+      <data key="d10">92701be4d23e83f06bf19d5f9d087831</data>
+      <data key="d11">6e0c81bef5364c988b21bf9b709d9861</data>
+      <data key="d12">91</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AHMAD RASH&#256;D&quot;" target="&quot;CAESARS CHALLENGE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ahmad Rash&#257;d hosted the Caesars Challenge series."</data>
+      <data key="d10">2fe91cf3d89743dcc4be47dc409b6f9f</data>
+      <data key="d11">1dbc51475cb04dafa4a8833a8378635e</data>
+      <data key="d12">92</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DAN DOHERTY&quot;" target="&quot;CAESARS CHALLENGE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Dan Doherty played a role on Caesars Challenge for most of its run."</data>
+      <data key="d10">2fe91cf3d89743dcc4be47dc409b6f9f</data>
+      <data key="d11">c12b9ebd8b4e42b7896822a32e3fa6eb</data>
+      <data key="d12">93</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CHAD BROWN&quot;" target="&quot;CAESARS CHALLENGE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Chad Brown handled some episodes of Caesars Challenge before Dan Doherty joined the show."</data>
+      <data key="d10">2fe91cf3d89743dcc4be47dc409b6f9f</data>
+      <data key="d11">27505f6ade4b4e5f9316ffe9c34821f7</data>
+      <data key="d12">94</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ZACH RUBY&quot;" target="&quot;CAESARS CHALLENGE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Zach Ruby handled some episodes of Caesars Challenge before Dan Doherty joined the show."</data>
+      <data key="d10">2fe91cf3d89743dcc4be47dc409b6f9f</data>
+      <data key="d11">0ee7db2c6bea4630ba9f0c25e8a967ad</data>
+      <data key="d12">95</data>
+      <data key="d13">0</data>
+    </edge>
+  </graph>
+</graphml>

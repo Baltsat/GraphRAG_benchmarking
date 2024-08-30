@@ -1,0 +1,1040 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;ZHU YUANZHANG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Zhu Yuanzhang was the founder of the Ming dynasty, who had Muslim generals like Lan Yu fighting alongside him against the Mongols. He was also an ancestor of Zhu Yousong, and his legacy extended three centuries later, with his descendant faring better in their own endeavors.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">19ece47d2ff80b75bcb0b89a10cbe825,4ca59b0c2506086e7ba1ba2adb9014e6</data>
+    </node>
+    <node id="&quot;DODO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dodo was a Manchu prince who led the Qing army to victory in Jiangnan and Nanjing."</data>
+      <data key="d2">19ece47d2ff80b75bcb0b89a10cbe825</data>
+    </node>
+    <node id="&quot;QING FORCES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Qing forces were a military organization that defeated Zhu Yousong's regime and conquered Nanjing."</data>
+      <data key="d2">19ece47d2ff80b75bcb0b89a10cbe825</data>
+    </node>
+    <node id="&quot;HONGGUANG EMPEROR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Hongguang Emperor was the ruler who fled Nanjing after Yangzhou fell to the Manchus."</data>
+      <data key="d2">19ece47d2ff80b75bcb0b89a10cbe825</data>
+    </node>
+    <node id="&quot;ZHAO THE EARL OF XINCHENG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Zhao the Earl of Xincheng was the commander of Nanjing's garrison who surrendered the city to the Qing forces."</data>
+      <data key="d2">19ece47d2ff80b75bcb0b89a10cbe825</data>
+    </node>
+    <node id="&quot;NANJING&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Nanjing is a city that was conquered by the Qing forces and became their cantonment.</data>
+      <data key="d2">19ece47d2ff80b75bcb0b89a10cbe825,e8935f1eb67882c58c71cfe53a7d4d83</data>
+    </node>
+    <node id="&quot;YANGZHOU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Yangzhou is a city that fell to the Manchus in late May 1645, leading to the fall of Nanjing."</data>
+      <data key="d2">19ece47d2ff80b75bcb0b89a10cbe825</data>
+    </node>
+    <node id="&quot;JIANGNAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Jiangnan is a region where the Qing army led by Dodo approached and conquered Zhu Yousong's regime."</data>
+      <data key="d2">19ece47d2ff80b75bcb0b89a10cbe825</data>
+    </node>
+    <node id="&quot;ZHU YOUSONG&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Zhu Yousong is a Ming prince who was enthroned as the Hongguang Emperor in Nanjing in June 1644, marking the beginning of the Southern Ming dynasty.</data>
+      <data key="d2">19ece47d2ff80b75bcb0b89a10cbe825,e8935f1eb67882c58c71cfe53a7d4d83</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">1470b9a024ab27a9fe918bc97e6f43b0,19ece47d2ff80b75bcb0b89a10cbe825,2f253d07273103658672212347cf012d,2f8f404944e8c99d719961ed2679cf9e,380df4e10659072e4cb05fd12de6e1cb,3cd30fc0347f9e29b0f5f14e10470a8e,3e58b1a17acc39e8bae66728282adbf8,3f8b0033a0c5c21f35d765b6da45f399,445f40414b62f50315df854891f8dc5c,4ca59b0c2506086e7ba1ba2adb9014e6,651b28934d232f1a3cf7a1aa33a31ca4,79f2587ebf67769e7012bae118c35a99,84695c6e2ef860d08ee66429d6f4bc8d,89d792b5c937dfb298f56b0a82179f3c,8c96dea1e12f4404f29dc2dc845aa908,a56d06806ec8235142ce7e1b03b61a03,e235fdaac7fb40225f969cdeb86fce84,e5ffe05a931ca512bf64eb08894e5e8f,e8935f1eb67882c58c71cfe53a7d4d83,ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">1470b9a024ab27a9fe918bc97e6f43b0,19ece47d2ff80b75bcb0b89a10cbe825,2f253d07273103658672212347cf012d,2f8f404944e8c99d719961ed2679cf9e,380df4e10659072e4cb05fd12de6e1cb,3cd30fc0347f9e29b0f5f14e10470a8e,3e58b1a17acc39e8bae66728282adbf8,3f8b0033a0c5c21f35d765b6da45f399,445f40414b62f50315df854891f8dc5c,4ca59b0c2506086e7ba1ba2adb9014e6,651b28934d232f1a3cf7a1aa33a31ca4,79f2587ebf67769e7012bae118c35a99,84695c6e2ef860d08ee66429d6f4bc8d,89d792b5c937dfb298f56b0a82179f3c,8c96dea1e12f4404f29dc2dc845aa908,a56d06806ec8235142ce7e1b03b61a03,e235fdaac7fb40225f969cdeb86fce84,e5ffe05a931ca512bf64eb08894e5e8f,e8935f1eb67882c58c71cfe53a7d4d83,ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">1470b9a024ab27a9fe918bc97e6f43b0,19ece47d2ff80b75bcb0b89a10cbe825,2f253d07273103658672212347cf012d,2f8f404944e8c99d719961ed2679cf9e,380df4e10659072e4cb05fd12de6e1cb,3cd30fc0347f9e29b0f5f14e10470a8e,3e58b1a17acc39e8bae66728282adbf8,3f8b0033a0c5c21f35d765b6da45f399,445f40414b62f50315df854891f8dc5c,4ca59b0c2506086e7ba1ba2adb9014e6,651b28934d232f1a3cf7a1aa33a31ca4,79f2587ebf67769e7012bae118c35a99,84695c6e2ef860d08ee66429d6f4bc8d,89d792b5c937dfb298f56b0a82179f3c,8c96dea1e12f4404f29dc2dc845aa908,a56d06806ec8235142ce7e1b03b61a03,e235fdaac7fb40225f969cdeb86fce84,e5ffe05a931ca512bf64eb08894e5e8f,e8935f1eb67882c58c71cfe53a7d4d83,ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">1470b9a024ab27a9fe918bc97e6f43b0,19ece47d2ff80b75bcb0b89a10cbe825,2f253d07273103658672212347cf012d,2f8f404944e8c99d719961ed2679cf9e,380df4e10659072e4cb05fd12de6e1cb,3cd30fc0347f9e29b0f5f14e10470a8e,3e58b1a17acc39e8bae66728282adbf8,3f8b0033a0c5c21f35d765b6da45f399,445f40414b62f50315df854891f8dc5c,4ca59b0c2506086e7ba1ba2adb9014e6,651b28934d232f1a3cf7a1aa33a31ca4,79f2587ebf67769e7012bae118c35a99,84695c6e2ef860d08ee66429d6f4bc8d,89d792b5c937dfb298f56b0a82179f3c,8c96dea1e12f4404f29dc2dc845aa908,a56d06806ec8235142ce7e1b03b61a03,e235fdaac7fb40225f969cdeb86fce84,e5ffe05a931ca512bf64eb08894e5e8f,e8935f1eb67882c58c71cfe53a7d4d83,ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">1470b9a024ab27a9fe918bc97e6f43b0,19ece47d2ff80b75bcb0b89a10cbe825,2f253d07273103658672212347cf012d,2f8f404944e8c99d719961ed2679cf9e,380df4e10659072e4cb05fd12de6e1cb,3cd30fc0347f9e29b0f5f14e10470a8e,3e58b1a17acc39e8bae66728282adbf8,3f8b0033a0c5c21f35d765b6da45f399,445f40414b62f50315df854891f8dc5c,4ca59b0c2506086e7ba1ba2adb9014e6,651b28934d232f1a3cf7a1aa33a31ca4,79f2587ebf67769e7012bae118c35a99,84695c6e2ef860d08ee66429d6f4bc8d,89d792b5c937dfb298f56b0a82179f3c,8c96dea1e12f4404f29dc2dc845aa908,a56d06806ec8235142ce7e1b03b61a03,e235fdaac7fb40225f969cdeb86fce84,e5ffe05a931ca512bf64eb08894e5e8f,e8935f1eb67882c58c71cfe53a7d4d83,ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">1470b9a024ab27a9fe918bc97e6f43b0,19ece47d2ff80b75bcb0b89a10cbe825,2f253d07273103658672212347cf012d,2f8f404944e8c99d719961ed2679cf9e,380df4e10659072e4cb05fd12de6e1cb,3cd30fc0347f9e29b0f5f14e10470a8e,3e58b1a17acc39e8bae66728282adbf8,3f8b0033a0c5c21f35d765b6da45f399,445f40414b62f50315df854891f8dc5c,4ca59b0c2506086e7ba1ba2adb9014e6,651b28934d232f1a3cf7a1aa33a31ca4,79f2587ebf67769e7012bae118c35a99,84695c6e2ef860d08ee66429d6f4bc8d,89d792b5c937dfb298f56b0a82179f3c,8c96dea1e12f4404f29dc2dc845aa908,a56d06806ec8235142ce7e1b03b61a03,e235fdaac7fb40225f969cdeb86fce84,e5ffe05a931ca512bf64eb08894e5e8f,e8935f1eb67882c58c71cfe53a7d4d83,ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">1470b9a024ab27a9fe918bc97e6f43b0,19ece47d2ff80b75bcb0b89a10cbe825,2f253d07273103658672212347cf012d,2f8f404944e8c99d719961ed2679cf9e,380df4e10659072e4cb05fd12de6e1cb,3cd30fc0347f9e29b0f5f14e10470a8e,3e58b1a17acc39e8bae66728282adbf8,3f8b0033a0c5c21f35d765b6da45f399,445f40414b62f50315df854891f8dc5c,4ca59b0c2506086e7ba1ba2adb9014e6,651b28934d232f1a3cf7a1aa33a31ca4,79f2587ebf67769e7012bae118c35a99,84695c6e2ef860d08ee66429d6f4bc8d,89d792b5c937dfb298f56b0a82179f3c,8c96dea1e12f4404f29dc2dc845aa908,a56d06806ec8235142ce7e1b03b61a03,e235fdaac7fb40225f969cdeb86fce84,e5ffe05a931ca512bf64eb08894e5e8f,e8935f1eb67882c58c71cfe53a7d4d83,ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">1470b9a024ab27a9fe918bc97e6f43b0,19ece47d2ff80b75bcb0b89a10cbe825,2f253d07273103658672212347cf012d,2f8f404944e8c99d719961ed2679cf9e,380df4e10659072e4cb05fd12de6e1cb,3cd30fc0347f9e29b0f5f14e10470a8e,3e58b1a17acc39e8bae66728282adbf8,3f8b0033a0c5c21f35d765b6da45f399,445f40414b62f50315df854891f8dc5c,4ca59b0c2506086e7ba1ba2adb9014e6,651b28934d232f1a3cf7a1aa33a31ca4,79f2587ebf67769e7012bae118c35a99,84695c6e2ef860d08ee66429d6f4bc8d,89d792b5c937dfb298f56b0a82179f3c,8c96dea1e12f4404f29dc2dc845aa908,a56d06806ec8235142ce7e1b03b61a03,e235fdaac7fb40225f969cdeb86fce84,e5ffe05a931ca512bf64eb08894e5e8f,e8935f1eb67882c58c71cfe53a7d4d83,ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">1470b9a024ab27a9fe918bc97e6f43b0,19ece47d2ff80b75bcb0b89a10cbe825,2f253d07273103658672212347cf012d,2f8f404944e8c99d719961ed2679cf9e,380df4e10659072e4cb05fd12de6e1cb,3cd30fc0347f9e29b0f5f14e10470a8e,3e58b1a17acc39e8bae66728282adbf8,3f8b0033a0c5c21f35d765b6da45f399,445f40414b62f50315df854891f8dc5c,4ca59b0c2506086e7ba1ba2adb9014e6,651b28934d232f1a3cf7a1aa33a31ca4,79f2587ebf67769e7012bae118c35a99,84695c6e2ef860d08ee66429d6f4bc8d,89d792b5c937dfb298f56b0a82179f3c,8c96dea1e12f4404f29dc2dc845aa908,a56d06806ec8235142ce7e1b03b61a03,e235fdaac7fb40225f969cdeb86fce84,e5ffe05a931ca512bf64eb08894e5e8f,e8935f1eb67882c58c71cfe53a7d4d83,ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1470b9a024ab27a9fe918bc97e6f43b0,19ece47d2ff80b75bcb0b89a10cbe825,2f253d07273103658672212347cf012d,2f8f404944e8c99d719961ed2679cf9e,380df4e10659072e4cb05fd12de6e1cb,3cd30fc0347f9e29b0f5f14e10470a8e,3e58b1a17acc39e8bae66728282adbf8,3f8b0033a0c5c21f35d765b6da45f399,445f40414b62f50315df854891f8dc5c,4ca59b0c2506086e7ba1ba2adb9014e6,651b28934d232f1a3cf7a1aa33a31ca4,79f2587ebf67769e7012bae118c35a99,84695c6e2ef860d08ee66429d6f4bc8d,89d792b5c937dfb298f56b0a82179f3c,8c96dea1e12f4404f29dc2dc845aa908,a56d06806ec8235142ce7e1b03b61a03,e235fdaac7fb40225f969cdeb86fce84,e5ffe05a931ca512bf64eb08894e5e8f,e8935f1eb67882c58c71cfe53a7d4d83,ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </node>
+    <node id="&quot;MUSLIMS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Muslims refer to a religious group that was discriminated against by the Yuan Emperors, with restrictions on their practices such as Halal slaughter and circumcision."</data>
+      <data key="d2">4ca59b0c2506086e7ba1ba2adb9014e6</data>
+    </node>
+    <node id="&quot;JEWS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Jews were another religious group affected by the discriminatory policies of the Yuan Emperors, specifically regarding Kosher butchering."</data>
+      <data key="d2">4ca59b0c2506086e7ba1ba2adb9014e6</data>
+    </node>
+    <node id="&quot;LAN YU&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lan Yu was a Muslim general who rebelled against the Mongols and defeated them in combat, playing an important role in overthrowing the Yuan dynasty."</data>
+      <data key="d2">4ca59b0c2506086e7ba1ba2adb9014e6</data>
+    </node>
+    <node id="&quot;FENG SHENG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Feng Sheng was a Hui Muslim who fought in the armies of the Ming Emperor Zhu Yuanzhang during the war against the Mongols."</data>
+      <data key="d2">4ca59b0c2506086e7ba1ba2adb9014e6</data>
+    </node>
+    <node id="&quot;CHEN YOUDING&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Chen Youding was a Yuan loyalist commander who crushed the Ispah Rebellion and massacred the Muslims involved."</data>
+      <data key="d2">4ca59b0c2506086e7ba1ba2adb9014e6</data>
+    </node>
+    <node id="&quot;YUAN EMPERORS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4ca59b0c2506086e7ba1ba2adb9014e6</data>
+    </node>
+    <node id="&quot;ISPAH REBELLION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4ca59b0c2506086e7ba1ba2adb9014e6</data>
+    </node>
+    <node id="&quot;WU SANGUI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of Wu Sangui:
+
+Wu Sangui was a Han Chinese general who played a crucial role in the transition of power from the Ming dynasty to the Qing dynasty. Initially, he was the commander of the Ming garrison at Shanhai Pass, where he decided to ally with the Manchu forces against Li Zicheng's rebel Shun dynasty. This alliance ultimately led to the defeat of Li Zicheng and the collapse of the Shun dynasty. Wu Sangui's collaboration with the Manchus also facilitated their invasion and subsequent seizure of control over Beijing, marking the beginning of Qing rule in China.</data>
+      <data key="d2">1470b9a024ab27a9fe918bc97e6f43b0,89d792b5c937dfb298f56b0a82179f3c,ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </node>
+    <node id="&quot;DALAI LAMA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Dalai Lama is the spiritual leader of Tibet, who maintained independence and formed alliances with various tribes and nations."</data>
+      <data key="d2">89d792b5c937dfb298f56b0a82179f3c</data>
+    </node>
+    <node id="&quot;SHUNZHI EMPEROR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Shunzhi Emperor was the ruler of the Qing dynasty from 1644 to 1661, who invited the Dalai Lama to Beijing in 1652."</data>
+      <data key="d2">89d792b5c937dfb298f56b0a82179f3c</data>
+    </node>
+    <node id="&quot;LOZANG GYATSO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lozang Gyatso was the fifth Dalai Lama, who was treated as an independent sovereign of Tibet by the Shunzhi Emperor."</data>
+      <data key="d2">89d792b5c937dfb298f56b0a82179f3c</data>
+    </node>
+    <node id="&quot;QING DYNASTY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Qing Dynasty was a Chinese imperial dynasty that captured Beijing in 1644, leading to the fall of the Ming dynasty. It overthrew the Ming dynasty and later annexed the Kingdom of Tungning in 1683. The Qing Dynasty ruled from 1644 to 1912, replacing the Ming dynasty as the ruling power in China.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">1470b9a024ab27a9fe918bc97e6f43b0,380df4e10659072e4cb05fd12de6e1cb,3e58b1a17acc39e8bae66728282adbf8,89d792b5c937dfb298f56b0a82179f3c,a56d06806ec8235142ce7e1b03b61a03,e8935f1eb67882c58c71cfe53a7d4d83</data>
+    </node>
+    <node id="&quot;MING DYNASTY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+The Ming Dynasty was a Chinese imperial dynasty that ruled China before being overthrown by the Manchu-led Qing dynasty in 1644 after Li Zicheng's rebellion. During their rule, they had no control over Tibet and maintained a problematic relationship with the region. The Ming Dynasty was the last Han Chinese dynasty to rule China, preceding the Qing dynasty. After its fall, the Qing dynasty adopted many of the bureaucratic structures and institutions established by the Ming Dynasty. Notably, Zheng Jing, a loyalist, lived during this historical period.</data>
+      <data key="d2">1470b9a024ab27a9fe918bc97e6f43b0,2f253d07273103658672212347cf012d,380df4e10659072e4cb05fd12de6e1cb,3e58b1a17acc39e8bae66728282adbf8,89d792b5c937dfb298f56b0a82179f3c,e5ffe05a931ca512bf64eb08894e5e8f,e8935f1eb67882c58c71cfe53a7d4d83</data>
+    </node>
+    <node id="&quot;TIBET&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Tibet is a region in Asia that has a complex history of relationships with China, Mongolia, and other empires. Historically, its independence and sovereignty were recognized by various nations and tribes.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">2f253d07273103658672212347cf012d,89d792b5c937dfb298f56b0a82179f3c</data>
+    </node>
+    <node id="&quot;LI ZICHENG&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Li Zicheng is a person who led rebel forces that captured Beijing in 1644, thereby leading to the fall of the Ming dynasty. As a peasant rebel leader, he played a significant role in this pivotal event in Chinese history.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">1470b9a024ab27a9fe918bc97e6f43b0,89d792b5c937dfb298f56b0a82179f3c,e8935f1eb67882c58c71cfe53a7d4d83,ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </node>
+    <node id="&quot;AMERICAN CIVIL WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The American Civil War was a major conflict in which the Battle of Little Blue River took place."</data>
+      <data key="d2">2f8f404944e8c99d719961ed2679cf9e</data>
+    </node>
+    <node id="&quot;PRICE'S MISSOURI EXPEDITION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Price's Missouri Expedition was a military campaign during the American Civil War that included the Battle of Little Blue River."</data>
+      <data key="d2">2f8f404944e8c99d719961ed2679cf9e</data>
+    </node>
+    <node id="&quot;SECOND BATTLE OF INDEPENDENCE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Second Battle of Independence was a continuation of the Battle of Little Blue River, occurring on the same day."</data>
+      <data key="d2">2f8f404944e8c99d719961ed2679cf9e</data>
+    </node>
+    <node id="&quot;BATTLE OF WESTPORT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Battle of Westport resulted in Price's defeat and the ending of major Confederate military operations in Missouri."</data>
+      <data key="d2">2f8f404944e8c99d719961ed2679cf9e</data>
+    </node>
+    <node id="&quot;MISSOURI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Missouri is a state where several battles took place, including the Battle of Little Blue River and the Second Battle of Independence."</data>
+      <data key="d2">2f8f404944e8c99d719961ed2679cf9e</data>
+    </node>
+    <node id="&quot;JACKSON COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Jackson County is a county in Missouri where the Battle of Little Blue River occurred."</data>
+      <data key="d2">2f8f404944e8c99d719961ed2679cf9e</data>
+    </node>
+    <node id="&quot;PRICE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Price was a military leader who led the Missouri Expedition during the American Civil War."</data>
+      <data key="d2">2f8f404944e8c99d719961ed2679cf9e</data>
+    </node>
+    <node id="&quot;BATTLE OF LITTLE BLUE RIVER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2f8f404944e8c99d719961ed2679cf9e</data>
+    </node>
+    <node id="&quot;CUBA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Cuba is the country where Alberto Bayo y Giroud was born and died."</data>
+      <data key="d2">651b28934d232f1a3cf7a1aa33a31ca4</data>
+    </node>
+    <node id="&quot;HAVANA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Havana is a location in Cuba where Alberto Bayo y Giroud died."</data>
+      <data key="d2">651b28934d232f1a3cf7a1aa33a31ca4</data>
+    </node>
+    <node id="&quot;CAMAG&#220;EY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Camag&#252;ey is a location in Cuba where Alberto Bayo y Giroud was born."</data>
+      <data key="d2">651b28934d232f1a3cf7a1aa33a31ca4</data>
+    </node>
+    <node id="&quot;SPANISH CIVIL WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Spanish Civil War was an event in which Alberto Bayo y Giroud fought as a military leader of the left-wing Loyalists."</data>
+      <data key="d2">651b28934d232f1a3cf7a1aa33a31ca4</data>
+    </node>
+    <node id="&quot;ALBERTO BAYO Y GIROUD&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">651b28934d232f1a3cf7a1aa33a31ca4</data>
+    </node>
+    <node id="&quot;HAN BANNERMEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Han Bannermen are a group of people who fought for the Qing and carried out fighting and killing in Fujian."</data>
+      <data key="d2">84695c6e2ef860d08ee66429d6f4bc8d</data>
+    </node>
+    <node id="&quot;KOXINGA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Koxinga, also known as Zheng Chenggong, was a leader of Ming loyalists who fought against Han Bannermen in Fujian. He founded the Kingdom of Tungning as part of the loyalist movement to restore the Ming dynasty in China.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">3e58b1a17acc39e8bae66728282adbf8,84695c6e2ef860d08ee66429d6f4bc8d</data>
+    </node>
+    <node id="&quot;QING&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Qing are an organization that carried out a massive depopulation policy and seaban, forcing people to evacuate the coast."</data>
+      <data key="d2">84695c6e2ef860d08ee66429d6f4bc8d</data>
+    </node>
+    <node id="&quot;FUJIAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Fujian is a geographic location that has been involved in significant military conflicts. It was a battleground where Han Bannermen fought against Koxinga's Ming loyalists. Additionally, Fujian was also a region where notable leaders such as Chen Zheng and his son, as well as Wang Chao and Wang Shenzhi, led military expeditions to pacify rebellions.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">84695c6e2ef860d08ee66429d6f4bc8d,e235fdaac7fb40225f969cdeb86fce84</data>
+    </node>
+    <node id="&quot;MANCHUS&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+The Manchus refer to an ethnic group that shared rule with Han Chinese in the Qing dynasty, which they founded and previously were known as the Jurchens. During their reign, the Manchu Qing dynasty invaded Tibet in the 18th century and exerted control over the region.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">1470b9a024ab27a9fe918bc97e6f43b0,2f253d07273103658672212347cf012d,380df4e10659072e4cb05fd12de6e1cb,84695c6e2ef860d08ee66429d6f4bc8d</data>
+    </node>
+    <node id="&quot;MING LOYALISTS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">84695c6e2ef860d08ee66429d6f4bc8d</data>
+    </node>
+    <node id="&quot;INDIANA UNIVERSITY&#8217;S DEPARTMENT OF CENTRAL EURASIA STUDIES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The department is affiliated with Elliot Sperling and hosts the Tibetan Studies program."</data>
+      <data key="d2">2f253d07273103658672212347cf012d</data>
+    </node>
+    <node id="&quot;CHINA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"China has a long and disputed history of sovereignty over Tibet, with varying degrees of control and influence."</data>
+      <data key="d2">2f253d07273103658672212347cf012d</data>
+    </node>
+    <node id="&quot;MONGOLS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+The Mongols refer to an ethnic group that held some positions of power in the Qing dynasty. Additionally, they had significant influence over Tibet, with Tibet being ruled within their empire.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">2f253d07273103658672212347cf012d,380df4e10659072e4cb05fd12de6e1cb</data>
+    </node>
+    <node id="&quot;YUAN DYNASTY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Yuan dynasty ruled Tibet, with Tibetans describing themselves as subjects of the Yuan emperors."</data>
+      <data key="d2">2f253d07273103658672212347cf012d</data>
+    </node>
+    <node id="&quot;ELLIOT SPERLING&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2f253d07273103658672212347cf012d</data>
+    </node>
+    <node id="&quot;TIBETAN STUDIES PROGRAM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2f253d07273103658672212347cf012d</data>
+    </node>
+    <node id="&quot;JURCHEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Jurchen are a Tungusic people who lived around the region now comprising the Chinese provinces of Jilin and Heilongjiang."</data>
+      <data key="d2">a56d06806ec8235142ce7e1b03b61a03</data>
+    </node>
+    <node id="&quot;NURHACI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Nurhaci was the chieftain of a minor Jurchen tribe, the Aisin Gioro, and founded what was to become the Manchu state in Jianzhou in the early 17th century.</data>
+      <data key="d2">3f8b0033a0c5c21f35d765b6da45f399,a56d06806ec8235142ce7e1b03b61a03</data>
+    </node>
+    <node id="&quot;AISIN GIORO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Aisin Gioro is a minor Jurchen tribe that played a significant role in the founding of the Manchu state."</data>
+      <data key="d2">a56d06806ec8235142ce7e1b03b61a03</data>
+    </node>
+    <node id="&quot;MING EMPERORS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Ming emperors were the rulers of China before the rise of the Qing dynasty, and Nurhaci was originally a vassal to them."</data>
+      <data key="d2">a56d06806ec8235142ce7e1b03b61a03</data>
+    </node>
+    <node id="&quot;GREAT JIN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Great Jin refers to the previous Jurchen dynasty that inspired Nurhaci's proclamation as Khan in 1616."</data>
+      <data key="d2">a56d06806ec8235142ce7e1b03b61a03</data>
+    </node>
+    <node id="&quot;CHONGZHEN EMPEROR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Chongzhen Emperor was the last Ming emperor, who committed suicide when Beijing was captured by Li Zicheng's rebels."</data>
+      <data key="d2">1470b9a024ab27a9fe918bc97e6f43b0</data>
+    </node>
+    <node id="&quot;SCHOPPA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Schoppa is the editor of The Columbia Guide to Modern Chinese History, providing insights into China's modern history."</data>
+      <data key="d2">1470b9a024ab27a9fe918bc97e6f43b0</data>
+    </node>
+    <node id="&quot;BEIJING&quot;">
+      <data key="d0" />
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Beijing is a geographic location that served as the capital during the Ming dynasty. It was protected by Shanhai Pass, which shielded it from direct raids by the Manchu-led Qing dynasty. However, Beijing's status as the capital was eventually removed, and later, it fell to Li Zicheng's rebel forces before ultimately being taken over by the Qing dynasty.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">1470b9a024ab27a9fe918bc97e6f43b0,e8935f1eb67882c58c71cfe53a7d4d83,ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </node>
+    <node id="&quot;SOUTHERN MING DYNASTY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Southern Ming dynasty is an organization that was established after the fall of the Ming dynasty, with Zhu Yousong as its first emperor."</data>
+      <data key="d2">e8935f1eb67882c58c71cfe53a7d4d83</data>
+    </node>
+    <node id="&quot;EMPEROR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+The EMPEROR is the absolute ruler of the Qing government, presiding over the six Boards (Ministries).
+
+Let me know if you have any further requests!</data>
+      <data key="d2">3f8b0033a0c5c21f35d765b6da45f399,8c96dea1e12f4404f29dc2dc845aa908</data>
+    </node>
+    <node id="&quot;GRAND SECRETARIAT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Grand Secretariat was an important policy-making body under the Ming, but lost its importance during the Qing and evolved into an imperial chancery."</data>
+      <data key="d2">8c96dea1e12f4404f29dc2dc845aa908</data>
+    </node>
+    <node id="&quot;FORBIDDEN CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Forbidden City is a location where the Qing 'Outer Court' is situated, handling routine matters."</data>
+      <data key="d2">8c96dea1e12f4404f29dc2dc845aa908</data>
+    </node>
+    <node id="&quot;MING SYSTEM&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Ming system refers to the preceding government structure that was replaced by the Qing government."</data>
+      <data key="d2">8c96dea1e12f4404f29dc2dc845aa908</data>
+    </node>
+    <node id="&quot;QING GOVERNMENT&quot;">
+      <data key="d0" />
+      <data key="d1">Here is a comprehensive summary of the data:
+
+The Qing Government was the central authority that faced problems due to the success of the Yongying system and the permanent regional force of the Xiang Army.</data>
+      <data key="d2">79f2587ebf67769e7012bae118c35a99,8c96dea1e12f4404f29dc2dc845aa908</data>
+    </node>
+    <node id="&quot;HONG TAIJI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hong Taiji expanded the Banner system to include mirrored Mongol and Han Banners."</data>
+      <data key="d2">3f8b0033a0c5c21f35d765b6da45f399</data>
+    </node>
+    <node id="&quot;QING MILITARY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Qing military was rooted in the Eight Banners system developed by Nurhaci."</data>
+      <data key="d2">3f8b0033a0c5c21f35d765b6da45f399</data>
+    </node>
+    <node id="&quot;EIGHT BANNERS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Eight Banners were a system developed by Nurhaci to organize Jurchen society beyond petty clan affiliations."</data>
+      <data key="d2">3f8b0033a0c5c21f35d765b6da45f399</data>
+    </node>
+    <node id="&quot;UPPER THREE BANNERS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Upper Three Banners were under the direct command of the emperor and consisted of the yellow, bordered yellow, and white banners."</data>
+      <data key="d2">3f8b0033a0c5c21f35d765b6da45f399</data>
+    </node>
+    <node id="&quot;LOWER FIVE BANNERS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Lower Five Banners were commanded by hereditary Manchu princes descended from Nurhachi's immediate family."</data>
+      <data key="d2">3f8b0033a0c5c21f35d765b6da45f399</data>
+    </node>
+    <node id="&quot;MANCHU NATION&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Manchu nation was ruled by the council formed by the Upper Three Banners and the Lower Five Banners."</data>
+      <data key="d2">3f8b0033a0c5c21f35d765b6da45f399</data>
+    </node>
+    <node id="&quot;GREEN STANDARD ARMY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Green Standard Army was made up of Ming troops who had surrendered to the Qing and eventually outnumbered Banner troops three to one."</data>
+      <data key="d2">3f8b0033a0c5c21f35d765b6da45f399</data>
+    </node>
+    <node id="&quot;HAN CHINESE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Han Chinese refers to an ethnic group that held positions of power in the Qing dynasty."</data>
+      <data key="d2">380df4e10659072e4cb05fd12de6e1cb</data>
+    </node>
+    <node id="&quot;KHALID IBN WALID&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Khalid ibn Walid is a legendary Arab Muslim general who led the Siege of Germanicia or Marash and was later dismissed from the army."</data>
+      <data key="d2">3cd30fc0347f9e29b0f5f14e10470a8e</data>
+    </node>
+    <node id="&quot;GERMANICIA OR MARASH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Germanicia or Marash is a city in Anatolia that was sieged by Muslim forces of the Rashidun Caliphate in 638."</data>
+      <data key="d2">3cd30fc0347f9e29b0f5f14e10470a8e</data>
+    </node>
+    <node id="&quot;THE SIEGE OF GERMANICIA OR MARASH&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Siege of Germanicia or Marash is an event where Muslim forces led by Khalid ibn Walid captured the city without much bloodshed in 638."</data>
+      <data key="d2">3cd30fc0347f9e29b0f5f14e10470a8e</data>
+    </node>
+    <node id="&quot;RASHIDUN CALIPHATE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3cd30fc0347f9e29b0f5f14e10470a8e</data>
+    </node>
+    <node id="&quot;QI JIGUANG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Qi Jiguang was a Ming general who formed his own 'private' army to repel Japanese pirates in the mid-16th century."</data>
+      <data key="d2">79f2587ebf67769e7012bae118c35a99</data>
+    </node>
+    <node id="&quot;XIANG ARMY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Xiang Army was a regional force within the Qing military, originally formed by Zeng Guofan to eradicate the Taiping rebels."</data>
+      <data key="d2">79f2587ebf67769e7012bae118c35a99</data>
+    </node>
+    <node id="&quot;TAIPING REBELS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Taiping rebels were a group that Zeng Guofan's Xiang Army was intended to eradicate."</data>
+      <data key="d2">79f2587ebf67769e7012bae118c35a99</data>
+    </node>
+    <node id="&quot;ZENG GUOFAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">79f2587ebf67769e7012bae118c35a99</data>
+    </node>
+    <node id="&quot;KINGDOM OF TUNGNING&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Kingdom of Tungning, a state ruled by Zheng Jing, existed in Taiwan.</data>
+      <data key="d2">3e58b1a17acc39e8bae66728282adbf8,e5ffe05a931ca512bf64eb08894e5e8f</data>
+    </node>
+    <node id="&quot;TAIWAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Taiwan is an island where the Kingdom of Tungning was located."</data>
+      <data key="d2">e5ffe05a931ca512bf64eb08894e5e8f</data>
+    </node>
+    <node id="&quot;ZHENG JING&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e5ffe05a931ca512bf64eb08894e5e8f</data>
+    </node>
+    <node id="&quot;CHEN YUANGUANG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Chen Yuanguang was the son of Chen Zheng and participated in the military expedition to pacify the rebellion in Fujian."</data>
+      <data key="d2">e235fdaac7fb40225f969cdeb86fce84</data>
+    </node>
+    <node id="&quot;EMPEROR GAOZONG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Emperor Gaozong was the ruler during whose reign Chen Zheng led a military expedition to pacify the rebellion in Fujian."</data>
+      <data key="d2">e235fdaac7fb40225f969cdeb86fce84</data>
+    </node>
+    <node id="&quot;WANG CHAO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Wang Chao was a leader who led a military expedition force to pacify the Huang Chao rebellion during the reign of Emperor Xizong of Tang."</data>
+      <data key="d2">e235fdaac7fb40225f969cdeb86fce84</data>
+    </node>
+    <node id="&quot;WANG SHENZHI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Wang Shenzhi was the brother of Wang Chao and participated in the military expedition force to pacify the Huang Chao rebellion."</data>
+      <data key="d2">e235fdaac7fb40225f969cdeb86fce84</data>
+    </node>
+    <node id="&quot;EMPEROR XIZONG OF TANG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Emperor Xizong of Tang was the ruler during whose reign Wang Chao and Wang Shenzhi led a military expedition force to pacify the Huang Chao rebellion."</data>
+      <data key="d2">e235fdaac7fb40225f969cdeb86fce84</data>
+    </node>
+    <node id="&quot;ZHANGZHOU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Zhangzhou is a city in Fujian where the Middle Chinese phonology of northern China was brought during the 7th century."</data>
+      <data key="d2">e235fdaac7fb40225f969cdeb86fce84</data>
+    </node>
+    <node id="&quot;HUANG CHAO REBELLION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Huang Chao rebellion was a rebellion that was pacified by Wang Chao and Wang Shenzhi during the reign of Emperor Xizong of Tang."</data>
+      <data key="d2">e235fdaac7fb40225f969cdeb86fce84</data>
+    </node>
+    <node id="&quot;CHEN ZHENG&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e235fdaac7fb40225f969cdeb86fce84</data>
+    </node>
+    <node id="&quot;HOUSE OF KOXINGA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The House of Koxinga ruled the Kingdom of Tungning after Koxinga's death, until its annexation by the Qing Dynasty in 1683."</data>
+      <data key="d2">3e58b1a17acc39e8bae66728282adbf8</data>
+    </node>
+    <node id="&quot;FORMOSA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Formosa, also known as Taiwan, is an island where the Kingdom of Tungning was established."</data>
+      <data key="d2">3e58b1a17acc39e8bae66728282adbf8</data>
+    </node>
+    <node id="&quot;FLETCHER CHRISTIAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Fletcher Christian is the Acting Lieutenant who led the mutiny on HMS Bounty, seizing control of the ship from Captain William Bligh."</data>
+      <data key="d2">445f40414b62f50315df854891f8dc5c</data>
+    </node>
+    <node id="&quot;WILLIAM BLIGH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"William Bligh is the captain of HMS Bounty who was overthrown by Fletcher Christian and set adrift with 18 loyalists."</data>
+      <data key="d2">445f40414b62f50315df854891f8dc5c</data>
+    </node>
+    <node id="&quot;TAHITI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Tahiti is an island in the south Pacific where some mutineers settled after the mutiny on HMS Bounty."</data>
+      <data key="d2">445f40414b62f50315df854891f8dc5c</data>
+    </node>
+    <node id="&quot;PITCAIRN ISLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pitcairn Island is a small island in the south Pacific where some mutineers settled after the mutiny on HMS Bounty."</data>
+      <data key="d2">445f40414b62f50315df854891f8dc5c</data>
+    </node>
+    <node id="&quot;HMS BOUNTY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">445f40414b62f50315df854891f8dc5c</data>
+    </node>
+    <node id="&quot;DORGON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dorgon allied with Wu Sangui in avenging the death of the Chongzhen Emperor and defeating Li Zicheng's rebel forces."</data>
+      <data key="d2">ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </node>
+    <node id="&quot;CHEN YUANYUAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Chen Yuanyuan was Wu Sangui's concubine, taken by Li Zicheng for himself."</data>
+      <data key="d2">ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </node>
+    <node id="&quot;SHANHAI PASS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Shanhai Pass is a pivotal pass of the Great Wall, located fifty miles northeast of Beijing, and played a crucial role in the battle between Li Zicheng's rebel forces and Wu Sangui's Ming garrison."</data>
+      <data key="d2">ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </node>
+    <node id="&quot;THE BATTLE OF SHANHAI PASS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Battle of Shanhai Pass took place on May 27, 1644, where Wu Sangui and Dorgon defeated Li Zicheng's rebel forces."</data>
+      <data key="d2">ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </node>
+    <edge source="&quot;ZHU YUANZHANG&quot;" target="&quot;LAN YU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lan Yu was a Muslim general who fought alongside Zhu Yuanzhang against the Mongols."</data>
+      <data key="d5">4ca59b0c2506086e7ba1ba2adb9014e6</data>
+    </edge>
+    <edge source="&quot;ZHU YUANZHANG&quot;" target="&quot;FENG SHENG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Feng Sheng was a Hui Muslim who fought in the armies of Zhu Yuanzhang during the war against the Mongols."</data>
+      <data key="d5">4ca59b0c2506086e7ba1ba2adb9014e6</data>
+    </edge>
+    <edge source="&quot;DODO&quot;" target="&quot;NANJING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dodo led the Qing army to conquer Nanjing and established their cantonment there."</data>
+      <data key="d5">19ece47d2ff80b75bcb0b89a10cbe825</data>
+    </edge>
+    <edge source="&quot;QING FORCES&quot;" target="&quot;ZHU YOUSONG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Zhu Yousong's regime was defeated by the Qing forces, leading to the fall of Nanjing."</data>
+      <data key="d5">19ece47d2ff80b75bcb0b89a10cbe825</data>
+    </edge>
+    <edge source="&quot;HONGGUANG EMPEROR&quot;" target="&quot;NANJING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Hongguang Emperor fled Nanjing after Yangzhou fell to the Manchus."</data>
+      <data key="d5">19ece47d2ff80b75bcb0b89a10cbe825</data>
+    </edge>
+    <edge source="&quot;ZHAO THE EARL OF XINCHENG&quot;" target="&quot;NANJING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Zhao the Earl of Xincheng surrendered Nanjing to the Qing forces."</data>
+      <data key="d5">19ece47d2ff80b75bcb0b89a10cbe825</data>
+    </edge>
+    <edge source="&quot;NANJING&quot;" target="&quot;ZHU YOUSONG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nanjing was the capital where Zhu Yousong was enthroned as the Hongguang Emperor."</data>
+      <data key="d5">e8935f1eb67882c58c71cfe53a7d4d83</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">1470b9a024ab27a9fe918bc97e6f43b0,19ece47d2ff80b75bcb0b89a10cbe825,2f253d07273103658672212347cf012d,2f8f404944e8c99d719961ed2679cf9e,380df4e10659072e4cb05fd12de6e1cb,3cd30fc0347f9e29b0f5f14e10470a8e,3e58b1a17acc39e8bae66728282adbf8,3f8b0033a0c5c21f35d765b6da45f399,445f40414b62f50315df854891f8dc5c,4ca59b0c2506086e7ba1ba2adb9014e6,651b28934d232f1a3cf7a1aa33a31ca4,79f2587ebf67769e7012bae118c35a99,84695c6e2ef860d08ee66429d6f4bc8d,89d792b5c937dfb298f56b0a82179f3c,8c96dea1e12f4404f29dc2dc845aa908,a56d06806ec8235142ce7e1b03b61a03,e235fdaac7fb40225f969cdeb86fce84,e5ffe05a931ca512bf64eb08894e5e8f,e8935f1eb67882c58c71cfe53a7d4d83,ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">1470b9a024ab27a9fe918bc97e6f43b0,19ece47d2ff80b75bcb0b89a10cbe825,2f253d07273103658672212347cf012d,2f8f404944e8c99d719961ed2679cf9e,380df4e10659072e4cb05fd12de6e1cb,3cd30fc0347f9e29b0f5f14e10470a8e,3e58b1a17acc39e8bae66728282adbf8,3f8b0033a0c5c21f35d765b6da45f399,445f40414b62f50315df854891f8dc5c,4ca59b0c2506086e7ba1ba2adb9014e6,651b28934d232f1a3cf7a1aa33a31ca4,79f2587ebf67769e7012bae118c35a99,84695c6e2ef860d08ee66429d6f4bc8d,89d792b5c937dfb298f56b0a82179f3c,8c96dea1e12f4404f29dc2dc845aa908,a56d06806ec8235142ce7e1b03b61a03,e235fdaac7fb40225f969cdeb86fce84,e5ffe05a931ca512bf64eb08894e5e8f,e8935f1eb67882c58c71cfe53a7d4d83,ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">1470b9a024ab27a9fe918bc97e6f43b0,19ece47d2ff80b75bcb0b89a10cbe825,2f253d07273103658672212347cf012d,2f8f404944e8c99d719961ed2679cf9e,380df4e10659072e4cb05fd12de6e1cb,3cd30fc0347f9e29b0f5f14e10470a8e,3e58b1a17acc39e8bae66728282adbf8,3f8b0033a0c5c21f35d765b6da45f399,445f40414b62f50315df854891f8dc5c,4ca59b0c2506086e7ba1ba2adb9014e6,651b28934d232f1a3cf7a1aa33a31ca4,79f2587ebf67769e7012bae118c35a99,84695c6e2ef860d08ee66429d6f4bc8d,89d792b5c937dfb298f56b0a82179f3c,8c96dea1e12f4404f29dc2dc845aa908,a56d06806ec8235142ce7e1b03b61a03,e235fdaac7fb40225f969cdeb86fce84,e5ffe05a931ca512bf64eb08894e5e8f,e8935f1eb67882c58c71cfe53a7d4d83,ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">1470b9a024ab27a9fe918bc97e6f43b0,19ece47d2ff80b75bcb0b89a10cbe825,2f253d07273103658672212347cf012d,2f8f404944e8c99d719961ed2679cf9e,380df4e10659072e4cb05fd12de6e1cb,3cd30fc0347f9e29b0f5f14e10470a8e,3e58b1a17acc39e8bae66728282adbf8,3f8b0033a0c5c21f35d765b6da45f399,445f40414b62f50315df854891f8dc5c,4ca59b0c2506086e7ba1ba2adb9014e6,651b28934d232f1a3cf7a1aa33a31ca4,79f2587ebf67769e7012bae118c35a99,84695c6e2ef860d08ee66429d6f4bc8d,89d792b5c937dfb298f56b0a82179f3c,8c96dea1e12f4404f29dc2dc845aa908,a56d06806ec8235142ce7e1b03b61a03,e235fdaac7fb40225f969cdeb86fce84,e5ffe05a931ca512bf64eb08894e5e8f,e8935f1eb67882c58c71cfe53a7d4d83,ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">1470b9a024ab27a9fe918bc97e6f43b0,19ece47d2ff80b75bcb0b89a10cbe825,2f253d07273103658672212347cf012d,2f8f404944e8c99d719961ed2679cf9e,380df4e10659072e4cb05fd12de6e1cb,3cd30fc0347f9e29b0f5f14e10470a8e,3e58b1a17acc39e8bae66728282adbf8,3f8b0033a0c5c21f35d765b6da45f399,445f40414b62f50315df854891f8dc5c,4ca59b0c2506086e7ba1ba2adb9014e6,651b28934d232f1a3cf7a1aa33a31ca4,79f2587ebf67769e7012bae118c35a99,84695c6e2ef860d08ee66429d6f4bc8d,89d792b5c937dfb298f56b0a82179f3c,8c96dea1e12f4404f29dc2dc845aa908,a56d06806ec8235142ce7e1b03b61a03,e235fdaac7fb40225f969cdeb86fce84,e5ffe05a931ca512bf64eb08894e5e8f,e8935f1eb67882c58c71cfe53a7d4d83,ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">1470b9a024ab27a9fe918bc97e6f43b0,19ece47d2ff80b75bcb0b89a10cbe825,2f253d07273103658672212347cf012d,2f8f404944e8c99d719961ed2679cf9e,380df4e10659072e4cb05fd12de6e1cb,3cd30fc0347f9e29b0f5f14e10470a8e,3e58b1a17acc39e8bae66728282adbf8,3f8b0033a0c5c21f35d765b6da45f399,445f40414b62f50315df854891f8dc5c,4ca59b0c2506086e7ba1ba2adb9014e6,651b28934d232f1a3cf7a1aa33a31ca4,79f2587ebf67769e7012bae118c35a99,84695c6e2ef860d08ee66429d6f4bc8d,89d792b5c937dfb298f56b0a82179f3c,8c96dea1e12f4404f29dc2dc845aa908,a56d06806ec8235142ce7e1b03b61a03,e235fdaac7fb40225f969cdeb86fce84,e5ffe05a931ca512bf64eb08894e5e8f,e8935f1eb67882c58c71cfe53a7d4d83,ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">1470b9a024ab27a9fe918bc97e6f43b0,19ece47d2ff80b75bcb0b89a10cbe825,2f253d07273103658672212347cf012d,2f8f404944e8c99d719961ed2679cf9e,380df4e10659072e4cb05fd12de6e1cb,3cd30fc0347f9e29b0f5f14e10470a8e,3e58b1a17acc39e8bae66728282adbf8,3f8b0033a0c5c21f35d765b6da45f399,445f40414b62f50315df854891f8dc5c,4ca59b0c2506086e7ba1ba2adb9014e6,651b28934d232f1a3cf7a1aa33a31ca4,79f2587ebf67769e7012bae118c35a99,84695c6e2ef860d08ee66429d6f4bc8d,89d792b5c937dfb298f56b0a82179f3c,8c96dea1e12f4404f29dc2dc845aa908,a56d06806ec8235142ce7e1b03b61a03,e235fdaac7fb40225f969cdeb86fce84,e5ffe05a931ca512bf64eb08894e5e8f,e8935f1eb67882c58c71cfe53a7d4d83,ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">1470b9a024ab27a9fe918bc97e6f43b0,19ece47d2ff80b75bcb0b89a10cbe825,2f253d07273103658672212347cf012d,2f8f404944e8c99d719961ed2679cf9e,380df4e10659072e4cb05fd12de6e1cb,3cd30fc0347f9e29b0f5f14e10470a8e,3e58b1a17acc39e8bae66728282adbf8,3f8b0033a0c5c21f35d765b6da45f399,445f40414b62f50315df854891f8dc5c,4ca59b0c2506086e7ba1ba2adb9014e6,651b28934d232f1a3cf7a1aa33a31ca4,79f2587ebf67769e7012bae118c35a99,84695c6e2ef860d08ee66429d6f4bc8d,89d792b5c937dfb298f56b0a82179f3c,8c96dea1e12f4404f29dc2dc845aa908,a56d06806ec8235142ce7e1b03b61a03,e235fdaac7fb40225f969cdeb86fce84,e5ffe05a931ca512bf64eb08894e5e8f,e8935f1eb67882c58c71cfe53a7d4d83,ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">1470b9a024ab27a9fe918bc97e6f43b0,19ece47d2ff80b75bcb0b89a10cbe825,2f253d07273103658672212347cf012d,2f8f404944e8c99d719961ed2679cf9e,380df4e10659072e4cb05fd12de6e1cb,3cd30fc0347f9e29b0f5f14e10470a8e,3e58b1a17acc39e8bae66728282adbf8,3f8b0033a0c5c21f35d765b6da45f399,445f40414b62f50315df854891f8dc5c,4ca59b0c2506086e7ba1ba2adb9014e6,651b28934d232f1a3cf7a1aa33a31ca4,79f2587ebf67769e7012bae118c35a99,84695c6e2ef860d08ee66429d6f4bc8d,89d792b5c937dfb298f56b0a82179f3c,8c96dea1e12f4404f29dc2dc845aa908,a56d06806ec8235142ce7e1b03b61a03,e235fdaac7fb40225f969cdeb86fce84,e5ffe05a931ca512bf64eb08894e5e8f,e8935f1eb67882c58c71cfe53a7d4d83,ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </edge>
+    <edge source="&quot;MUSLIMS&quot;" target="&quot;YUAN EMPERORS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Yuan Emperors discriminated against Muslims, restricting their practices and forcing them to adopt Mongol ways."</data>
+      <data key="d5">4ca59b0c2506086e7ba1ba2adb9014e6</data>
+    </edge>
+    <edge source="&quot;CHEN YOUDING&quot;" target="&quot;ISPAH REBELLION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chen Youding crushed the Ispah Rebellion and massacred the Muslims involved."</data>
+      <data key="d5">4ca59b0c2506086e7ba1ba2adb9014e6</data>
+    </edge>
+    <edge source="&quot;WU SANGUI&quot;" target="&quot;QING DYNASTY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Wu Sangui helped the Manchu invasion and contributed to the establishment of Qing rule over China."</data>
+      <data key="d5">89d792b5c937dfb298f56b0a82179f3c</data>
+    </edge>
+    <edge source="&quot;WU SANGUI&quot;" target="&quot;LI ZICHENG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Zicheng led a coalition of rebel forces against Wu Sangui's Ming garrison at Shanhai Pass."</data>
+      <data key="d5">ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </edge>
+    <edge source="&quot;WU SANGUI&quot;" target="&quot;DORGON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Wu Sangui and Dorgon allied in avenging the death of the Chongzhen Emperor and defeating Li Zicheng's rebel forces."</data>
+      <data key="d5">ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </edge>
+    <edge source="&quot;DALAI LAMA&quot;" target="&quot;TIBET&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Dalai Lama is the spiritual leader of Tibet, maintaining its independence and sovereignty."</data>
+      <data key="d5">89d792b5c937dfb298f56b0a82179f3c</data>
+    </edge>
+    <edge source="&quot;DALAI LAMA&quot;" target="&quot;LOZANG GYATSO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lozang Gyatso was the fifth Dalai Lama, who maintained Tibet's independence and sovereignty."</data>
+      <data key="d5">89d792b5c937dfb298f56b0a82179f3c</data>
+    </edge>
+    <edge source="&quot;SHUNZHI EMPEROR&quot;" target="&quot;QING DYNASTY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Shunzhi Emperor was the ruler of the Qing dynasty from 1644 to 1661."</data>
+      <data key="d5">89d792b5c937dfb298f56b0a82179f3c</data>
+    </edge>
+    <edge source="&quot;QING DYNASTY&quot;" target="&quot;NURHACI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nurhaci founded the Qing dynasty, marking a significant turning point in Chinese history."</data>
+      <data key="d5">a56d06806ec8235142ce7e1b03b61a03</data>
+    </edge>
+    <edge source="&quot;QING DYNASTY&quot;" target="&quot;MANCHUS&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Here is a comprehensive summary of the data:
+
+The Qing Dynasty, founded by the Manchus after the fall of the Ming dynasty, was a period of shared rule between the Manchus and Han Chinese.</data>
+      <data key="d5">1470b9a024ab27a9fe918bc97e6f43b0,380df4e10659072e4cb05fd12de6e1cb</data>
+    </edge>
+    <edge source="&quot;QING DYNASTY&quot;" target="&quot;MING DYNASTY&quot;">
+      <data key="d3">3.0</data>
+      <data key="d4">Here is a comprehensive summary of the data:
+
+The Qing Dynasty and Ming Dynasty were two Chinese dynasties with a significant historical connection. The Qing Dynasty adopted bureaucratic structures and institutions from the Ming Dynasty, indicating a level of continuity and influence between the two regimes. However, this relationship was ultimately marked by conflict, as the Qing Dynasty overthrew the Ming Dynasty in China, leading to its fall.</data>
+      <data key="d5">380df4e10659072e4cb05fd12de6e1cb,3e58b1a17acc39e8bae66728282adbf8,e8935f1eb67882c58c71cfe53a7d4d83</data>
+    </edge>
+    <edge source="&quot;QING DYNASTY&quot;" target="&quot;HAN CHINESE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Han Chinese held positions of power in the Qing dynasty."</data>
+      <data key="d5">380df4e10659072e4cb05fd12de6e1cb</data>
+    </edge>
+    <edge source="&quot;QING DYNASTY&quot;" target="&quot;MONGOLS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mongols held some positions of power in the Qing dynasty."</data>
+      <data key="d5">380df4e10659072e4cb05fd12de6e1cb</data>
+    </edge>
+    <edge source="&quot;MING DYNASTY&quot;" target="&quot;LI ZICHENG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Zicheng overthrew the Ming dynasty in 1644."</data>
+      <data key="d5">89d792b5c937dfb298f56b0a82179f3c</data>
+    </edge>
+    <edge source="&quot;MING DYNASTY&quot;" target="&quot;TIBET&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Ming dynasty had a problematic relationship with Tibet, with no control over the region during their rule."</data>
+      <data key="d5">2f253d07273103658672212347cf012d</data>
+    </edge>
+    <edge source="&quot;MING DYNASTY&quot;" target="&quot;CHONGZHEN EMPEROR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Chongzhen Emperor was the last ruler of the Ming dynasty."</data>
+      <data key="d5">1470b9a024ab27a9fe918bc97e6f43b0</data>
+    </edge>
+    <edge source="&quot;MING DYNASTY&quot;" target="&quot;ZHENG JING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Zheng Jing was a loyalist of the Ming dynasty."</data>
+      <data key="d5">e5ffe05a931ca512bf64eb08894e5e8f</data>
+    </edge>
+    <edge source="&quot;TIBET&quot;" target="&quot;CHINA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tibet has a complex and disputed history of relationships with China, including periods of sovereignty and influence."</data>
+      <data key="d5">2f253d07273103658672212347cf012d</data>
+    </edge>
+    <edge source="&quot;TIBET&quot;" target="&quot;MONGOLS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Mongol empire had significant influence over Tibet, ruling it within their empire."</data>
+      <data key="d5">2f253d07273103658672212347cf012d</data>
+    </edge>
+    <edge source="&quot;TIBET&quot;" target="&quot;MANCHUS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Manchu Qing dynasty invaded and exerted control over Tibet in the 18th century."</data>
+      <data key="d5">2f253d07273103658672212347cf012d</data>
+    </edge>
+    <edge source="&quot;TIBET&quot;" target="&quot;YUAN DYNASTY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Yuan dynasty ruled Tibet, with Tibetans describing themselves as subjects of the Yuan emperors."</data>
+      <data key="d5">2f253d07273103658672212347cf012d</data>
+    </edge>
+    <edge source="&quot;LI ZICHENG&quot;" target="&quot;BEIJING&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Here is a comprehensive summary of the data:
+
+Li Zicheng and Beijing: In 1644, Li Zicheng's rebel forces, comprised of peasants, successfully captured Beijing, resulting in the fall of the city and ultimately contributing to the downfall of the Ming dynasty.</data>
+      <data key="d5">1470b9a024ab27a9fe918bc97e6f43b0,e8935f1eb67882c58c71cfe53a7d4d83</data>
+    </edge>
+    <edge source="&quot;LI ZICHENG&quot;" target="&quot;SHANHAI PASS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Li Zicheng led a coalition of rebel forces to confront Wu Sangui at Shanhai Pass."</data>
+      <data key="d5">ea981ded2f88f5fb90ab1cedc86c774a</data>
+    </edge>
+    <edge source="&quot;AMERICAN CIVIL WAR&quot;" target="&quot;BATTLE OF LITTLE BLUE RIVER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Battle of Little Blue River was part of the larger conflict of the American Civil War."</data>
+      <data key="d5">2f8f404944e8c99d719961ed2679cf9e</data>
+    </edge>
+    <edge source="&quot;PRICE'S MISSOURI EXPEDITION&quot;" target="&quot;BATTLE OF LITTLE BLUE RIVER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Battle of Little Blue River was a part of Price's Missouri Expedition."</data>
+      <data key="d5">2f8f404944e8c99d719961ed2679cf9e</data>
+    </edge>
+    <edge source="&quot;PRICE'S MISSOURI EXPEDITION&quot;" target="&quot;BATTLE OF WESTPORT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Battle of Westport resulted in Price's defeat, ending his Missouri Expedition."</data>
+      <data key="d5">2f8f404944e8c99d719961ed2679cf9e</data>
+    </edge>
+    <edge source="&quot;PRICE'S MISSOURI EXPEDITION&quot;" target="&quot;PRICE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Price led the Missouri Expedition during the American Civil War."</data>
+      <data key="d5">2f8f404944e8c99d719961ed2679cf9e</data>
+    </edge>
+    <edge source="&quot;SECOND BATTLE OF INDEPENDENCE&quot;" target="&quot;BATTLE OF LITTLE BLUE RIVER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Second Battle of Independence was a continuation of the Battle of Little Blue River."</data>
+      <data key="d5">2f8f404944e8c99d719961ed2679cf9e</data>
+    </edge>
+    <edge source="&quot;MISSOURI&quot;" target="&quot;BATTLE OF LITTLE BLUE RIVER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Battle of Little Blue River took place in the state of Missouri."</data>
+      <data key="d5">2f8f404944e8c99d719961ed2679cf9e</data>
+    </edge>
+    <edge source="&quot;JACKSON COUNTY&quot;" target="&quot;BATTLE OF LITTLE BLUE RIVER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Battle of Little Blue River occurred in Jackson County, Missouri."</data>
+      <data key="d5">2f8f404944e8c99d719961ed2679cf9e</data>
+    </edge>
+    <edge source="&quot;CUBA&quot;" target="&quot;ALBERTO BAYO Y GIROUD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alberto Bayo y Giroud was born and died in Cuba."</data>
+      <data key="d5">651b28934d232f1a3cf7a1aa33a31ca4</data>
+    </edge>
+    <edge source="&quot;HAVANA&quot;" target="&quot;ALBERTO BAYO Y GIROUD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alberto Bayo y Giroud died in Havana."</data>
+      <data key="d5">651b28934d232f1a3cf7a1aa33a31ca4</data>
+    </edge>
+    <edge source="&quot;CAMAG&#220;EY&quot;" target="&quot;ALBERTO BAYO Y GIROUD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alberto Bayo y Giroud was born in Camag&#252;ey."</data>
+      <data key="d5">651b28934d232f1a3cf7a1aa33a31ca4</data>
+    </edge>
+    <edge source="&quot;SPANISH CIVIL WAR&quot;" target="&quot;ALBERTO BAYO Y GIROUD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alberto Bayo y Giroud fought as a military leader in the Spanish Civil War."</data>
+      <data key="d5">651b28934d232f1a3cf7a1aa33a31ca4</data>
+    </edge>
+    <edge source="&quot;HAN BANNERMEN&quot;" target="&quot;MANCHUS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Manchus sent Han Bannermen to fight against Koxinga's Ming loyalists in Fujian."</data>
+      <data key="d5">84695c6e2ef860d08ee66429d6f4bc8d</data>
+    </edge>
+    <edge source="&quot;HAN BANNERMEN&quot;" target="&quot;QING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Qing used Han Bannermen to fight against Koxinga's Ming loyalists in Fujian."</data>
+      <data key="d5">84695c6e2ef860d08ee66429d6f4bc8d</data>
+    </edge>
+    <edge source="&quot;KOXINGA&quot;" target="&quot;MING LOYALISTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Koxinga is the leader of Ming loyalists who were fought against by Han Bannermen in Fujian."</data>
+      <data key="d5">84695c6e2ef860d08ee66429d6f4bc8d</data>
+    </edge>
+    <edge source="&quot;KOXINGA&quot;" target="&quot;KINGDOM OF TUNGNING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Koxinga founded the Kingdom of Tungning."</data>
+      <data key="d5">3e58b1a17acc39e8bae66728282adbf8</data>
+    </edge>
+    <edge source="&quot;QING&quot;" target="&quot;FUJIAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Fujian is a location where the Qing carried out their depopulation policy and seaban."</data>
+      <data key="d5">84695c6e2ef860d08ee66429d6f4bc8d</data>
+    </edge>
+    <edge source="&quot;FUJIAN&quot;" target="&quot;CHEN ZHENG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chen Zheng led a military expedition to pacify a rebellion in Fujian."</data>
+      <data key="d5">e235fdaac7fb40225f969cdeb86fce84</data>
+    </edge>
+    <edge source="&quot;INDIANA UNIVERSITY&#8217;S DEPARTMENT OF CENTRAL EURASIA STUDIES&quot;" target="&quot;TIBETAN STUDIES PROGRAM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The department hosts the Tibetan Studies program led by Elliot Sperling."</data>
+      <data key="d5">2f253d07273103658672212347cf012d</data>
+    </edge>
+    <edge source="&quot;ELLIOT SPERLING&quot;" target="&quot;TIBETAN STUDIES PROGRAM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Elliot Sperling is the director of the Tibetan Studies program at Indiana University."</data>
+      <data key="d5">2f253d07273103658672212347cf012d</data>
+    </edge>
+    <edge source="&quot;JURCHEN&quot;" target="&quot;AISIN GIORO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Jurchen are the people to which the Aisin Gioro tribe belongs, sharing a common cultural and geographical identity."</data>
+      <data key="d5">a56d06806ec8235142ce7e1b03b61a03</data>
+    </edge>
+    <edge source="&quot;NURHACI&quot;" target="&quot;MING EMPERORS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nurhaci was originally a vassal of the Ming emperors before embarking on his campaign to unify the nearby tribes."</data>
+      <data key="d5">a56d06806ec8235142ce7e1b03b61a03</data>
+    </edge>
+    <edge source="&quot;NURHACI&quot;" target="&quot;EIGHT BANNERS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nurhaci developed the Eight Banners system."</data>
+      <data key="d5">3f8b0033a0c5c21f35d765b6da45f399</data>
+    </edge>
+    <edge source="&quot;EMPEROR&quot;" target="&quot;QING GOVERNMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Emperor is the head of the Qing government, holding absolute power."</data>
+      <data key="d5">8c96dea1e12f4404f29dc2dc845aa908</data>
+    </edge>
+    <edge source="&quot;EMPEROR&quot;" target="&quot;UPPER THREE BANNERS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Upper Three Banners were under the direct command of the emperor."</data>
+      <data key="d5">3f8b0033a0c5c21f35d765b6da45f399</data>
+    </edge>
+    <edge source="&quot;GRAND SECRETARIAT&quot;" target="&quot;MING SYSTEM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Grand Secretariat was an important institution under the Ming system, but lost its importance during the Qing."</data>
+      <data key="d5">8c96dea1e12f4404f29dc2dc845aa908</data>
+    </edge>
+    <edge source="&quot;FORBIDDEN CITY&quot;" target="&quot;QING GOVERNMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Qing 'Outer Court' is located in the Forbidden City, handling routine matters."</data>
+      <data key="d5">8c96dea1e12f4404f29dc2dc845aa908</data>
+    </edge>
+    <edge source="&quot;HONG TAIJI&quot;" target="&quot;EIGHT BANNERS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hong Taiji expanded the Eight Banners system."</data>
+      <data key="d5">3f8b0033a0c5c21f35d765b6da45f399</data>
+    </edge>
+    <edge source="&quot;QING MILITARY&quot;" target="&quot;EIGHT BANNERS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Qing military was rooted in the Eight Banners system."</data>
+      <data key="d5">3f8b0033a0c5c21f35d765b6da45f399</data>
+    </edge>
+    <edge source="&quot;KHALID IBN WALID&quot;" target="&quot;RASHIDUN CALIPHATE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Khalid ibn Walid was a general of the Rashidun Caliphate and led their forces during the Siege of Germanicia or Marash."</data>
+      <data key="d5">3cd30fc0347f9e29b0f5f14e10470a8e</data>
+    </edge>
+    <edge source="&quot;KHALID IBN WALID&quot;" target="&quot;THE SIEGE OF GERMANICIA OR MARASH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Khalid ibn Walid led the Siege of Germanicia or Marash, which marked the end of his military career."</data>
+      <data key="d5">3cd30fc0347f9e29b0f5f14e10470a8e</data>
+    </edge>
+    <edge source="&quot;THE SIEGE OF GERMANICIA OR MARASH&quot;" target="&quot;RASHIDUN CALIPHATE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Rashidun Caliphate led the Muslim forces during the Siege of Germanicia or Marash."</data>
+      <data key="d5">3cd30fc0347f9e29b0f5f14e10470a8e</data>
+    </edge>
+    <edge source="&quot;QI JIGUANG&quot;" target="&quot;XIANG ARMY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Qi Jiguang's doctrine influenced Zeng Guofan's formation of the Xiang Army."</data>
+      <data key="d5">79f2587ebf67769e7012bae118c35a99</data>
+    </edge>
+    <edge source="&quot;XIANG ARMY&quot;" target="&quot;ZENG GUOFAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Zeng Guofan formed the Xiang Army, which became a permanent regional force within the Qing military."</data>
+      <data key="d5">79f2587ebf67769e7012bae118c35a99</data>
+    </edge>
+    <edge source="&quot;XIANG ARMY&quot;" target="&quot;TAIPING REBELS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Xiang Army was formed to eradicate the Taiping rebels."</data>
+      <data key="d5">79f2587ebf67769e7012bae118c35a99</data>
+    </edge>
+    <edge source="&quot;KINGDOM OF TUNGNING&quot;" target="&quot;ZHENG JING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Zheng Jing was the ruler of the Kingdom of Tungning."</data>
+      <data key="d5">e5ffe05a931ca512bf64eb08894e5e8f</data>
+    </edge>
+    <edge source="&quot;KINGDOM OF TUNGNING&quot;" target="&quot;HOUSE OF KOXINGA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The House of Koxinga ruled the Kingdom of Tungning after Koxinga's death."</data>
+      <data key="d5">3e58b1a17acc39e8bae66728282adbf8</data>
+    </edge>
+    <edge source="&quot;TAIWAN&quot;" target="&quot;ZHENG JING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Zheng Jing ruled over Taiwan as part of the Kingdom of Tungning."</data>
+      <data key="d5">e5ffe05a931ca512bf64eb08894e5e8f</data>
+    </edge>
+    <edge source="&quot;EMPEROR GAOZONG&quot;" target="&quot;CHEN ZHENG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chen Zheng led a military expedition during the reign of Emperor Gaozong."</data>
+      <data key="d5">e235fdaac7fb40225f969cdeb86fce84</data>
+    </edge>
+    <edge source="&quot;WANG CHAO&quot;" target="&quot;HUANG CHAO REBELLION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Wang Chao led a military expedition force to pacify the Huang Chao rebellion."</data>
+      <data key="d5">e235fdaac7fb40225f969cdeb86fce84</data>
+    </edge>
+    <edge source="&quot;WANG CHAO&quot;" target="&quot;EMPEROR XIZONG OF TANG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Wang Chao led a military expedition force during the reign of Emperor Xizong of Tang."</data>
+      <data key="d5">e235fdaac7fb40225f969cdeb86fce84</data>
+    </edge>
+    <edge source="&quot;FLETCHER CHRISTIAN&quot;" target="&quot;HMS BOUNTY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Fletcher Christian led the mutiny on HMS Bounty, seizing control of the ship from Captain William Bligh."</data>
+      <data key="d5">445f40414b62f50315df854891f8dc5c</data>
+    </edge>
+    <edge source="&quot;FLETCHER CHRISTIAN&quot;" target="&quot;TAHITI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Some mutineers led by Fletcher Christian settled on Tahiti after the mutiny on HMS Bounty."</data>
+      <data key="d5">445f40414b62f50315df854891f8dc5c</data>
+    </edge>
+    <edge source="&quot;FLETCHER CHRISTIAN&quot;" target="&quot;PITCAIRN ISLAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Some mutineers led by Fletcher Christian settled on Pitcairn Island after the mutiny on HMS Bounty."</data>
+      <data key="d5">445f40414b62f50315df854891f8dc5c</data>
+    </edge>
+    <edge source="&quot;WILLIAM BLIGH&quot;" target="&quot;HMS BOUNTY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"William Bligh was the captain of HMS Bounty who was overthrown by Fletcher Christian and set adrift with 18 loyalists."</data>
+      <data key="d5">445f40414b62f50315df854891f8dc5c</data>
+    </edge>
+  </graph>
+</graphml>

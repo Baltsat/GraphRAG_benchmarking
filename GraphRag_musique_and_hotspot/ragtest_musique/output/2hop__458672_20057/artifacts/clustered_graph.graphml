@@ -1,0 +1,1156 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="id" attr.type="string" />
+  <key id="d6" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d5" for="node" attr.name="degree" attr.type="long" />
+  <key id="d4" for="node" attr.name="level" attr.type="long" />
+  <key id="d3" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;FREE SOFTWARE FOUNDATION (FSF)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+The Free Software Foundation (FSF) is an organization that plays a crucial role in the free software community by publishing and promoting the Free Software Definition, highlighting its importance. Additionally, the FSF also runs the Free Software Directory project.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">0b779017b7a581df4788a084f5f11d8b,54e734a407073c47c5606ba69a3b49d4</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">0</data>
+      <data key="d7">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;GNU PROJECT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The GNU Project is an organization that plays a significant role in promoting free and open-source software. It hosts the canonical source of the Free Software Definition on its website, making it a valuable resource for information on free software. Additionally, the project has been contributed to by individuals such as Jonas &#214;berg, who served as a webmaster and worked towards the development of free and open-source software.</data>
+      <data key="d2">0759addb038ad847fada6b03a6c6deb5,0b779017b7a581df4788a084f5f11d8b</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">1</data>
+      <data key="d7">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;FREE SOFTWARE DEFINITION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Free Software Definition is a document that outlines the principles of free software, emphasizing user freedom and flexibility."</data>
+      <data key="d2">0b779017b7a581df4788a084f5f11d8b</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">2</data>
+      <data key="d7">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;RICHARD STALLMAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0759addb038ad847fada6b03a6c6deb5,0b779017b7a581df4788a084f5f11d8b,2c83d7e9c9dbb7f335fe148bb127b7a2,9a559b721e4bff9647dbd8713b90786b,d240705dbc4b4ea839c553f34f7bb899</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">7</data>
+      <data key="d6">3</data>
+      <data key="d7">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">0759addb038ad847fada6b03a6c6deb5,0a9e11cac4f37514f2f01809364672bd,0b779017b7a581df4788a084f5f11d8b,2c83d7e9c9dbb7f335fe148bb127b7a2,35210fdaf62a5b920dbb16a08e1cbb57,3e243e51548f2ea33f98401d59f5e4cf,44300f6d2ad18fa5901ac78c24404615,54e734a407073c47c5606ba69a3b49d4,79a28a29bc03f1e19461347b3a13bd37,7de4565812cb4f2345fd41c59a6d2f70,7ee03e6670d9a8687297f78e401e60bb,9a559b721e4bff9647dbd8713b90786b,a221d8c116488f0d09448f21bf49ee89,b2f195f28d4209958632e70698037263,b8dba35aa7d1be41905e84a7d6e2ef3a,d240705dbc4b4ea839c553f34f7bb899,da11f4c03b035d1e462415b53cf6cc8a,e00c9e51e5a56771696f46153870a1a8,ee59d35c8043cd237e83f3b685870a2d,fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d5">2</data>
+      <data key="d6">4</data>
+      <data key="d7">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">0759addb038ad847fada6b03a6c6deb5,0a9e11cac4f37514f2f01809364672bd,0b779017b7a581df4788a084f5f11d8b,2c83d7e9c9dbb7f335fe148bb127b7a2,35210fdaf62a5b920dbb16a08e1cbb57,3e243e51548f2ea33f98401d59f5e4cf,44300f6d2ad18fa5901ac78c24404615,54e734a407073c47c5606ba69a3b49d4,79a28a29bc03f1e19461347b3a13bd37,7de4565812cb4f2345fd41c59a6d2f70,7ee03e6670d9a8687297f78e401e60bb,9a559b721e4bff9647dbd8713b90786b,a221d8c116488f0d09448f21bf49ee89,b2f195f28d4209958632e70698037263,b8dba35aa7d1be41905e84a7d6e2ef3a,d240705dbc4b4ea839c553f34f7bb899,da11f4c03b035d1e462415b53cf6cc8a,e00c9e51e5a56771696f46153870a1a8,ee59d35c8043cd237e83f3b685870a2d,fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d5">1</data>
+      <data key="d6">5</data>
+      <data key="d7">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">0759addb038ad847fada6b03a6c6deb5,0a9e11cac4f37514f2f01809364672bd,0b779017b7a581df4788a084f5f11d8b,2c83d7e9c9dbb7f335fe148bb127b7a2,35210fdaf62a5b920dbb16a08e1cbb57,3e243e51548f2ea33f98401d59f5e4cf,44300f6d2ad18fa5901ac78c24404615,54e734a407073c47c5606ba69a3b49d4,79a28a29bc03f1e19461347b3a13bd37,7de4565812cb4f2345fd41c59a6d2f70,7ee03e6670d9a8687297f78e401e60bb,9a559b721e4bff9647dbd8713b90786b,a221d8c116488f0d09448f21bf49ee89,b2f195f28d4209958632e70698037263,b8dba35aa7d1be41905e84a7d6e2ef3a,d240705dbc4b4ea839c553f34f7bb899,da11f4c03b035d1e462415b53cf6cc8a,e00c9e51e5a56771696f46153870a1a8,ee59d35c8043cd237e83f3b685870a2d,fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d5">4</data>
+      <data key="d6">6</data>
+      <data key="d7">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">0759addb038ad847fada6b03a6c6deb5,0a9e11cac4f37514f2f01809364672bd,0b779017b7a581df4788a084f5f11d8b,2c83d7e9c9dbb7f335fe148bb127b7a2,35210fdaf62a5b920dbb16a08e1cbb57,3e243e51548f2ea33f98401d59f5e4cf,44300f6d2ad18fa5901ac78c24404615,54e734a407073c47c5606ba69a3b49d4,79a28a29bc03f1e19461347b3a13bd37,7de4565812cb4f2345fd41c59a6d2f70,7ee03e6670d9a8687297f78e401e60bb,9a559b721e4bff9647dbd8713b90786b,a221d8c116488f0d09448f21bf49ee89,b2f195f28d4209958632e70698037263,b8dba35aa7d1be41905e84a7d6e2ef3a,d240705dbc4b4ea839c553f34f7bb899,da11f4c03b035d1e462415b53cf6cc8a,e00c9e51e5a56771696f46153870a1a8,ee59d35c8043cd237e83f3b685870a2d,fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d5">1</data>
+      <data key="d6">7</data>
+      <data key="d7">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">0759addb038ad847fada6b03a6c6deb5,0a9e11cac4f37514f2f01809364672bd,0b779017b7a581df4788a084f5f11d8b,2c83d7e9c9dbb7f335fe148bb127b7a2,35210fdaf62a5b920dbb16a08e1cbb57,3e243e51548f2ea33f98401d59f5e4cf,44300f6d2ad18fa5901ac78c24404615,54e734a407073c47c5606ba69a3b49d4,79a28a29bc03f1e19461347b3a13bd37,7de4565812cb4f2345fd41c59a6d2f70,7ee03e6670d9a8687297f78e401e60bb,9a559b721e4bff9647dbd8713b90786b,a221d8c116488f0d09448f21bf49ee89,b2f195f28d4209958632e70698037263,b8dba35aa7d1be41905e84a7d6e2ef3a,d240705dbc4b4ea839c553f34f7bb899,da11f4c03b035d1e462415b53cf6cc8a,e00c9e51e5a56771696f46153870a1a8,ee59d35c8043cd237e83f3b685870a2d,fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d5">1</data>
+      <data key="d6">8</data>
+      <data key="d7">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">0759addb038ad847fada6b03a6c6deb5,0a9e11cac4f37514f2f01809364672bd,0b779017b7a581df4788a084f5f11d8b,2c83d7e9c9dbb7f335fe148bb127b7a2,35210fdaf62a5b920dbb16a08e1cbb57,3e243e51548f2ea33f98401d59f5e4cf,44300f6d2ad18fa5901ac78c24404615,54e734a407073c47c5606ba69a3b49d4,79a28a29bc03f1e19461347b3a13bd37,7de4565812cb4f2345fd41c59a6d2f70,7ee03e6670d9a8687297f78e401e60bb,9a559b721e4bff9647dbd8713b90786b,a221d8c116488f0d09448f21bf49ee89,b2f195f28d4209958632e70698037263,b8dba35aa7d1be41905e84a7d6e2ef3a,d240705dbc4b4ea839c553f34f7bb899,da11f4c03b035d1e462415b53cf6cc8a,e00c9e51e5a56771696f46153870a1a8,ee59d35c8043cd237e83f3b685870a2d,fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d5">2</data>
+      <data key="d6">9</data>
+      <data key="d7">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">0759addb038ad847fada6b03a6c6deb5,0a9e11cac4f37514f2f01809364672bd,0b779017b7a581df4788a084f5f11d8b,2c83d7e9c9dbb7f335fe148bb127b7a2,35210fdaf62a5b920dbb16a08e1cbb57,3e243e51548f2ea33f98401d59f5e4cf,44300f6d2ad18fa5901ac78c24404615,54e734a407073c47c5606ba69a3b49d4,79a28a29bc03f1e19461347b3a13bd37,7de4565812cb4f2345fd41c59a6d2f70,7ee03e6670d9a8687297f78e401e60bb,9a559b721e4bff9647dbd8713b90786b,a221d8c116488f0d09448f21bf49ee89,b2f195f28d4209958632e70698037263,b8dba35aa7d1be41905e84a7d6e2ef3a,d240705dbc4b4ea839c553f34f7bb899,da11f4c03b035d1e462415b53cf6cc8a,e00c9e51e5a56771696f46153870a1a8,ee59d35c8043cd237e83f3b685870a2d,fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d5">1</data>
+      <data key="d6">10</data>
+      <data key="d7">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">0759addb038ad847fada6b03a6c6deb5,0a9e11cac4f37514f2f01809364672bd,0b779017b7a581df4788a084f5f11d8b,2c83d7e9c9dbb7f335fe148bb127b7a2,35210fdaf62a5b920dbb16a08e1cbb57,3e243e51548f2ea33f98401d59f5e4cf,44300f6d2ad18fa5901ac78c24404615,54e734a407073c47c5606ba69a3b49d4,79a28a29bc03f1e19461347b3a13bd37,7de4565812cb4f2345fd41c59a6d2f70,7ee03e6670d9a8687297f78e401e60bb,9a559b721e4bff9647dbd8713b90786b,a221d8c116488f0d09448f21bf49ee89,b2f195f28d4209958632e70698037263,b8dba35aa7d1be41905e84a7d6e2ef3a,d240705dbc4b4ea839c553f34f7bb899,da11f4c03b035d1e462415b53cf6cc8a,e00c9e51e5a56771696f46153870a1a8,ee59d35c8043cd237e83f3b685870a2d,fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d5">1</data>
+      <data key="d6">11</data>
+      <data key="d7">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">0759addb038ad847fada6b03a6c6deb5,0a9e11cac4f37514f2f01809364672bd,0b779017b7a581df4788a084f5f11d8b,2c83d7e9c9dbb7f335fe148bb127b7a2,35210fdaf62a5b920dbb16a08e1cbb57,3e243e51548f2ea33f98401d59f5e4cf,44300f6d2ad18fa5901ac78c24404615,54e734a407073c47c5606ba69a3b49d4,79a28a29bc03f1e19461347b3a13bd37,7de4565812cb4f2345fd41c59a6d2f70,7ee03e6670d9a8687297f78e401e60bb,9a559b721e4bff9647dbd8713b90786b,a221d8c116488f0d09448f21bf49ee89,b2f195f28d4209958632e70698037263,b8dba35aa7d1be41905e84a7d6e2ef3a,d240705dbc4b4ea839c553f34f7bb899,da11f4c03b035d1e462415b53cf6cc8a,e00c9e51e5a56771696f46153870a1a8,ee59d35c8043cd237e83f3b685870a2d,fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d5">0</data>
+      <data key="d6">12</data>
+      <data key="d7">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0759addb038ad847fada6b03a6c6deb5,0a9e11cac4f37514f2f01809364672bd,0b779017b7a581df4788a084f5f11d8b,2c83d7e9c9dbb7f335fe148bb127b7a2,35210fdaf62a5b920dbb16a08e1cbb57,3e243e51548f2ea33f98401d59f5e4cf,44300f6d2ad18fa5901ac78c24404615,54e734a407073c47c5606ba69a3b49d4,79a28a29bc03f1e19461347b3a13bd37,7de4565812cb4f2345fd41c59a6d2f70,7ee03e6670d9a8687297f78e401e60bb,9a559b721e4bff9647dbd8713b90786b,a221d8c116488f0d09448f21bf49ee89,b2f195f28d4209958632e70698037263,b8dba35aa7d1be41905e84a7d6e2ef3a,d240705dbc4b4ea839c553f34f7bb899,da11f4c03b035d1e462415b53cf6cc8a,e00c9e51e5a56771696f46153870a1a8,ee59d35c8043cd237e83f3b685870a2d,fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d5">5</data>
+      <data key="d6">13</data>
+      <data key="d7">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;GNU&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+GNU is a complete Unix-like operating system composed entirely of free software, initiated by Richard Stallman in 1983 to promote free software. In addition to being an operating system, GNU is also an organization that provides licenses for free software, including the GNU General Public License (GPL) version 3, under which various software applications operate.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">0a9e11cac4f37514f2f01809364672bd,9a559b721e4bff9647dbd8713b90786b,b2f195f28d4209958632e70698037263,d240705dbc4b4ea839c553f34f7bb899,fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">14</data>
+      <data key="d7">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;INDIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"India is the country where the Free Software Movement of India (FSMI) operates."</data>
+      <data key="d2">da11f4c03b035d1e462415b53cf6cc8a</data>
+      <data key="d5">1</data>
+      <data key="d6">15</data>
+      <data key="d7">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;NATIONAL FREE SOFTWARE CONFERENCE - 2010&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"National Free Software Conference - 2010 was an event held in Bangalore during 20&#8211;21 March 2010, where the formation of FSMI was announced."</data>
+      <data key="d2">da11f4c03b035d1e462415b53cf6cc8a</data>
+      <data key="d5">2</data>
+      <data key="d6">16</data>
+      <data key="d7">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;FREE SOFTWARE MOVEMENT OF INDIA (FSMI)&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">da11f4c03b035d1e462415b53cf6cc8a</data>
+      <data key="d5">2</data>
+      <data key="d6">17</data>
+      <data key="d7">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;BANGALORE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">da11f4c03b035d1e462415b53cf6cc8a</data>
+      <data key="d5">1</data>
+      <data key="d6">18</data>
+      <data key="d7">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;FREE SOFTWARE FOUNDATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+The Free Software Foundation is a nonprofit corporation founded by Richard Stallman to employ free software programmers, provide legal infrastructure for the movement, and promote and develop free software. As an organization sharing its founder's views on intellectual property, it plays a crucial role in advancing the free software movement.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">2c83d7e9c9dbb7f335fe148bb127b7a2,9a559b721e4bff9647dbd8713b90786b,d240705dbc4b4ea839c553f34f7bb899</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">19</data>
+      <data key="d7">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;DR. DOBB'S JOURNAL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Dr. Dobb's Journal is a publication where Richard Stallman published his manifesto detailing the GNU project."</data>
+      <data key="d2">d240705dbc4b4ea839c553f34f7bb899</data>
+      <data key="d5">0</data>
+      <data key="d6">20</data>
+      <data key="d7">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;FREE SOFTWARE FOUNDATION EUROPE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Free Software Foundation Europe is an organization that Jonas &#214;berg has worked with, promoting free and open-source software."</data>
+      <data key="d2">0759addb038ad847fada6b03a6c6deb5</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">21</data>
+      <data key="d7">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;FSCONS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"FSCONS is an event that Jonas &#214;berg has worked with, likely related to free and open-source software."</data>
+      <data key="d2">0759addb038ad847fada6b03a6c6deb5</data>
+      <data key="d5">0</data>
+      <data key="d6">22</data>
+      <data key="d7">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;CREATIVE COMMONS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Creative Commons is an organization that Jonas &#214;berg has worked with, promoting open-source licenses and creative freedom."</data>
+      <data key="d2">0759addb038ad847fada6b03a6c6deb5</data>
+      <data key="d5">0</data>
+      <data key="d6">23</data>
+      <data key="d7">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;SHUTTLEWORTH FOUNDATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Shuttleworth Foundation is an organization that Jonas &#214;berg has worked with, supporting innovation and social change through open-source software."</data>
+      <data key="d2">0759addb038ad847fada6b03a6c6deb5</data>
+      <data key="d5">0</data>
+      <data key="d6">24</data>
+      <data key="d7">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;MIT AI LABS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"MIT AI Labs is a location where Jonas &#214;berg spent time, meeting with Richard Stallman and others from the Free Software Foundation."</data>
+      <data key="d2">0759addb038ad847fada6b03a6c6deb5</data>
+      <data key="d5">0</data>
+      <data key="d6">25</data>
+      <data key="d7">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;NEW YORK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New York is a location where Jonas &#214;berg attended The Bazaar conference, an event related to free and open-source software."</data>
+      <data key="d2">0759addb038ad847fada6b03a6c6deb5</data>
+      <data key="d5">0</data>
+      <data key="d6">26</data>
+      <data key="d7">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;JONAS &#214;BERG&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0759addb038ad847fada6b03a6c6deb5</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">27</data>
+      <data key="d7">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;INTELLECTUAL PROPERTY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Intellectual Property is a term that refers to copyrights, patents, and trademarks, but according to Richard Stallman, it is misleading and should be rejected."</data>
+      <data key="d2">2c83d7e9c9dbb7f335fe148bb127b7a2</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">28</data>
+      <data key="d7">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;LINUX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Linux is an operating system platform where Sodipodi was developed."</data>
+      <data key="d2">44300f6d2ad18fa5901ac78c24404615</data>
+      <data key="d5">1</data>
+      <data key="d6">29</data>
+      <data key="d7">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;MICROSOFT WINDOWS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Microsoft Windows is an operating system platform that allows for the development of applications using MinGW, and it is also a platform where various software programs operate, including CDex. Additionally, Microsoft Windows was the platform on which Sodipodi was developed.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">44300f6d2ad18fa5901ac78c24404615,7ee03e6670d9a8687297f78e401e60bb,b8dba35aa7d1be41905e84a7d6e2ef3a</data>
+      <data key="d5">3</data>
+      <data key="d6">30</data>
+      <data key="d7">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;GNU GENERAL PUBLIC LICENSE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"GNU General Public License is a license under which Sodipodi was released, making it free software."</data>
+      <data key="d2">44300f6d2ad18fa5901ac78c24404615</data>
+      <data key="d5">1</data>
+      <data key="d6">31</data>
+      <data key="d7">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&quot;SODIPODI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">44300f6d2ad18fa5901ac78c24404615</data>
+      <data key="d5">3</data>
+      <data key="d6">32</data>
+      <data key="d7">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&quot;8CHAN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"8chan is an imageboard website founded by Fredrick Brennan."</data>
+      <data key="d2">79a28a29bc03f1e19461347b3a13bd37</data>
+      <data key="d5">1</data>
+      <data key="d6">33</data>
+      <data key="d7">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&quot;FREDRICK BRENNAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">79a28a29bc03f1e19461347b3a13bd37</data>
+      <data key="d5">1</data>
+      <data key="d6">34</data>
+      <data key="d7">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&quot;ALBERT L. FABER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Albert L. Faber is the original writer of CDex, a free software package for Digital Audio Extraction and audio format conversion."</data>
+      <data key="d2">7ee03e6670d9a8687297f78e401e60bb</data>
+      <data key="d5">1</data>
+      <data key="d6">35</data>
+      <data key="d7">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&quot;GEORGY BERDYSHEV&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Georgy Berdyshev is the developer and maintainer of CDex, a free software package for Digital Audio Extraction and audio format conversion."</data>
+      <data key="d2">7ee03e6670d9a8687297f78e401e60bb</data>
+      <data key="d5">1</data>
+      <data key="d6">36</data>
+      <data key="d7">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&quot;CDEX&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7ee03e6670d9a8687297f78e401e60bb</data>
+      <data key="d5">3</data>
+      <data key="d6">37</data>
+      <data key="d7">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&quot;PETE SHINNERS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Pete Shinners is the original author of Pygame, who wrote it to replace PySDL after its development stalled."</data>
+      <data key="d2">a221d8c116488f0d09448f21bf49ee89</data>
+      <data key="d5">1</data>
+      <data key="d6">38</data>
+      <data key="d7">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&quot;PYGAME&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a221d8c116488f0d09448f21bf49ee89</data>
+      <data key="d5">2</data>
+      <data key="d6">39</data>
+      <data key="d7">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <node id="&quot;PYSDL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"PySDL is a software library that was replaced by Pygame after its development stalled."</data>
+      <data key="d2">a221d8c116488f0d09448f21bf49ee89</data>
+      <data key="d5">1</data>
+      <data key="d6">40</data>
+      <data key="d7">3ce7c210a21b4deebad7cc9308148d86</data>
+    </node>
+    <node id="&quot;MINGW32&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"mingw32 is an alternative name for MinGW, a software development environment."</data>
+      <data key="d2">b8dba35aa7d1be41905e84a7d6e2ef3a</data>
+      <data key="d5">0</data>
+      <data key="d6">41</data>
+      <data key="d7">d64ed762ea924caa95c8d06f072a9a96</data>
+    </node>
+    <node id="&quot;MINGW-W64&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"MinGW-w64 is an alternative project to MinGW, created in 2013 by a different author."</data>
+      <data key="d2">b8dba35aa7d1be41905e84a7d6e2ef3a</data>
+      <data key="d5">2</data>
+      <data key="d6">42</data>
+      <data key="d7">adf4ee3fbe9b4d0381044838c4f889c8</data>
+    </node>
+    <node id="&quot;AUTHOR OF MINGW-W64&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The author of MinGW-w64 is the creator of the alternative project to MinGW, started in 2013."</data>
+      <data key="d2">b8dba35aa7d1be41905e84a7d6e2ef3a</data>
+      <data key="d5">1</data>
+      <data key="d6">43</data>
+      <data key="d7">32ee140946e5461f9275db664dc541a5</data>
+    </node>
+    <node id="&quot;MINGW&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b8dba35aa7d1be41905e84a7d6e2ef3a</data>
+      <data key="d5">2</data>
+      <data key="d6">44</data>
+      <data key="d7">c160b9cb27d6408ba6ab20214a2f3f81</data>
+    </node>
+    <node id="&quot;DIVX, INC.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"DivX, Inc. is a company that develops proprietary software, including the DivX Pro Codec."</data>
+      <data key="d2">fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">45</data>
+      <data key="d7">23527cd679ff4d5a988d52e7cd056078</data>
+    </node>
+    <node id="&quot;DIVX PRO CODEC&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The DivX Pro Codec is a proprietary software developed by DivX, Inc."</data>
+      <data key="d2">fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">46</data>
+      <data key="d7">f1c6eed066f24cbdb376b910fce29ed4</data>
+    </node>
+    <node id="&quot;XVID&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">47</data>
+      <data key="d7">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+    </node>
+    <node id="&quot;CNET&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"CNET is an organization that rates and reviews software, including InfraRecorder."</data>
+      <data key="d2">0a9e11cac4f37514f2f01809364672bd</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">48</data>
+      <data key="d7">147c038aef3e4422acbbc5f7938c4ab8</data>
+    </node>
+    <node id="&quot;NOVEMBER 2007&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"November 2007 is an event when CNET rated InfraRecorder as the best free alternative to commercial DVD burning software."</data>
+      <data key="d2">0a9e11cac4f37514f2f01809364672bd</data>
+      <data key="d5">0</data>
+      <data key="d6">49</data>
+      <data key="d7">b7702b90c7f24190b864e8c6e64612a5</data>
+    </node>
+    <node id="&quot;INFRARECORDER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0a9e11cac4f37514f2f01809364672bd</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">50</data>
+      <data key="d7">de6fa24480894518ab3cbcb66f739266</data>
+    </node>
+    <node id="&quot;UNIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Unix is an operating system platform where EtherApe was developed for."</data>
+      <data key="d2">ee59d35c8043cd237e83f3b685870a2d</data>
+      <data key="d5">1</data>
+      <data key="d6">51</data>
+      <data key="d7">6fae5ee1a831468aa585a1ea09095998</data>
+    </node>
+    <node id="&quot;ETHERAPE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ee59d35c8043cd237e83f3b685870a2d</data>
+      <data key="d5">1</data>
+      <data key="d6">52</data>
+      <data key="d7">ef32c4b208d041cc856f6837915dc1b0</data>
+    </node>
+    <node id="&quot;VANCOUVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Vancouver is a location where Metalogix Software was founded in 2001."</data>
+      <data key="d2">e00c9e51e5a56771696f46153870a1a8</data>
+      <data key="d5">1</data>
+      <data key="d6">53</data>
+      <data key="d7">07b2425216bd4f0aa4e079827cb48ef5</data>
+    </node>
+    <node id="&quot;BRITISH COLUMBIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"British Columbia is a province in Canada where Metalogix Software was founded in 2001."</data>
+      <data key="d2">e00c9e51e5a56771696f46153870a1a8</data>
+      <data key="d5">0</data>
+      <data key="d6">54</data>
+      <data key="d7">2670deebfa3f4d69bb82c28ab250a209</data>
+    </node>
+    <node id="&quot;WASHINGTON, D.C.&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Washington, D.C. is the location of Metalogix International GmbH's headquarters."</data>
+      <data key="d2">e00c9e51e5a56771696f46153870a1a8</data>
+      <data key="d5">1</data>
+      <data key="d6">55</data>
+      <data key="d7">404309e89a5241d6bff42c05a45df206</data>
+    </node>
+    <node id="&quot;METALOGIX INTERNATIONAL GMBH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Metalogix International GmbH is a private company and the current form of Metalogix Software."</data>
+      <data key="d2">e00c9e51e5a56771696f46153870a1a8</data>
+      <data key="d5">1</data>
+      <data key="d6">56</data>
+      <data key="d7">b785a9025069417f94950ad231bb1441</data>
+    </node>
+    <node id="&quot;METALOGIX SOFTWARE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e00c9e51e5a56771696f46153870a1a8</data>
+      <data key="d5">2</data>
+      <data key="d6">57</data>
+      <data key="d7">3b6cd96a27304614850709aba1c9598b</data>
+    </node>
+    <node id="&quot;FOUNDING OF METALOGIX SOFTWARE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e00c9e51e5a56771696f46153870a1a8</data>
+      <data key="d5">1</data>
+      <data key="d6">58</data>
+      <data key="d7">d54956b79dd147f894b67a8b97dcbef0</data>
+    </node>
+    <node id="&quot;MIGUEL DE ICAZA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Miguel de Icaza is one of the founders of GNOME, a free software project."</data>
+      <data key="d2">35210fdaf62a5b920dbb16a08e1cbb57</data>
+      <data key="d5">1</data>
+      <data key="d6">59</data>
+      <data key="d7">958beecdb5bb4060948415ffd75d2b03</data>
+    </node>
+    <node id="&quot;FEDERICO MENA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Federico Mena is one of the founders of GNOME, a free software project."</data>
+      <data key="d2">35210fdaf62a5b920dbb16a08e1cbb57</data>
+      <data key="d5">1</data>
+      <data key="d6">60</data>
+      <data key="d7">b999ed77e19e4f85b7f1ae79af5c002a</data>
+    </node>
+    <node id="&quot;K DESKTOP ENVIRONMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"K Desktop Environment is a desktop environment that relies on the Qt widget toolkit."</data>
+      <data key="d2">35210fdaf62a5b920dbb16a08e1cbb57</data>
+      <data key="d5">1</data>
+      <data key="d6">61</data>
+      <data key="d7">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+    </node>
+    <node id="&quot;QT WIDGET TOOLKIT&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Qt widget toolkit is a proprietary software license used by K Desktop Environment until version 2.0."</data>
+      <data key="d2">35210fdaf62a5b920dbb16a08e1cbb57</data>
+      <data key="d5">1</data>
+      <data key="d6">62</data>
+      <data key="d7">4f3c97517f794ebfb49c4c6315f9cf23</data>
+    </node>
+    <node id="&quot;GTK (GIMP TOOLKIT)&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"GTK is an open-source widget toolkit used as the base of GNOME, licensed under LGPL."</data>
+      <data key="d2">35210fdaf62a5b920dbb16a08e1cbb57</data>
+      <data key="d5">1</data>
+      <data key="d6">63</data>
+      <data key="d7">1745a2485a9443bab76587ad650e9be0</data>
+    </node>
+    <node id="&quot;GNU LESSER GENERAL PUBLIC LICENSE (LGPL)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"LGPL is a free software license that allows software linking to it to use a wider set of licenses."</data>
+      <data key="d2">35210fdaf62a5b920dbb16a08e1cbb57</data>
+      <data key="d5">1</data>
+      <data key="d6">64</data>
+      <data key="d7">32e6ccab20d94029811127dbbe424c64</data>
+    </node>
+    <node id="&quot;GNU GENERAL PUBLIC LICENSE (GPL)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"GPL is a free software license used by GNOME for its applications."</data>
+      <data key="d2">35210fdaf62a5b920dbb16a08e1cbb57</data>
+      <data key="d5">1</data>
+      <data key="d6">65</data>
+      <data key="d7">94a964c6992945ebb3833dfdfdc8d655</data>
+    </node>
+    <node id="&quot;GNOME&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">35210fdaf62a5b920dbb16a08e1cbb57</data>
+      <data key="d5">5</data>
+      <data key="d6">66</data>
+      <data key="d7">1eb829d0ace042089f0746f78729696c</data>
+    </node>
+    <node id="&quot;MEDIAWIKI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"MediaWiki is the base platform for BlueSpice MediaWiki, a free wiki software."</data>
+      <data key="d2">7de4565812cb4f2345fd41c59a6d2f70</data>
+      <data key="d5">1</data>
+      <data key="d6">67</data>
+      <data key="d7">015e7b58d1a14b44beab3bbc9f912c18</data>
+    </node>
+    <node id="&quot;BLUESPICE MEDIAWIKI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7de4565812cb4f2345fd41c59a6d2f70</data>
+      <data key="d5">1</data>
+      <data key="d6">68</data>
+      <data key="d7">26f88ab3e2e04c33a459ad6270ade565</data>
+    </node>
+    <node id="&quot;MASSACHUSETTS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Massachusetts is the location where the Free Software Foundation was founded."</data>
+      <data key="d2">9a559b721e4bff9647dbd8713b90786b</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">69</data>
+      <data key="d7">babe97e1d9784cffa1c85abc1e588126</data>
+    </node>
+    <node id="&quot;GNU MANIFESTO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The GNU Manifesto is a document published by Richard Stallman in 1985, outlining his motivation for creating the GNU operating system."</data>
+      <data key="d2">9a559b721e4bff9647dbd8713b90786b</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">70</data>
+      <data key="d7">1033a18c45aa4584b2aef6ab96890351</data>
+    </node>
+    <node id="&quot;UNESCO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"UNESCO was formerly a co-runner of the Free Software Directory project."</data>
+      <data key="d2">54e734a407073c47c5606ba69a3b49d4</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">71</data>
+      <data key="d7">c9b8ce91fc2945b4907fe35519339cac</data>
+    </node>
+    <node id="&quot;FREE SOFTWARE DIRECTORY (FSD)&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">54e734a407073c47c5606ba69a3b49d4</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">72</data>
+      <data key="d7">fa3c4204421c48609e52c8de2da4c654</data>
+    </node>
+    <node id="&quot;XWIKI ENTERPRISE WIKI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"XWiki Enterprise wiki is a platform where content is licensed under Creative Commons attribution license, allowing redistribution with reference to XWiki."</data>
+      <data key="d2">3e243e51548f2ea33f98401d59f5e4cf</data>
+      <data key="d5">3</data>
+      <data key="d6">73</data>
+      <data key="d7">53af055f068244d0ac861b2e89376495</data>
+    </node>
+    <node id="&quot;GITHUB&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"GitHub is a hosting platform where the XWiki source code is hosted, allowing everyone to fork and develop changes."</data>
+      <data key="d2">3e243e51548f2ea33f98401d59f5e4cf</data>
+      <data key="d5">1</data>
+      <data key="d6">74</data>
+      <data key="d7">c03ab3ce8cb74ad2a03b94723bfab3c7</data>
+    </node>
+    <node id="&quot;GNU LESSER GENERAL PUBLIC LICENSE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The GNU Lesser General Public License is an event that licenses the XWiki code, making it free software."</data>
+      <data key="d2">3e243e51548f2ea33f98401d59f5e4cf</data>
+      <data key="d5">1</data>
+      <data key="d6">75</data>
+      <data key="d7">ed6d2eee9d7b4f5db466b1f6404d31cc</data>
+    </node>
+    <node id="&quot;XWIKI SAS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3e243e51548f2ea33f98401d59f5e4cf</data>
+      <data key="d5">1</data>
+      <data key="d6">76</data>
+      <data key="d7">fc01e9baa80e417c9206f941bb279407</data>
+    </node>
+    <edge source="&quot;FREE SOFTWARE FOUNDATION (FSF)&quot;" target="&quot;RICHARD STALLMAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Richard Stallman wrote the Free Software Definition, which was published by the Free Software Foundation (FSF), indicating their collaboration in promoting free software."</data>
+      <data key="d10">0b779017b7a581df4788a084f5f11d8b</data>
+      <data key="d11">56d0e5ebe79e4814bd1463cf6ca21394</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FREE SOFTWARE FOUNDATION (FSF)&quot;" target="&quot;GNU PROJECT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Free Software Foundation (FSF) and the GNU Project are related organizations that share a common goal of promoting free software, as evidenced by the hosting of the Free Software Definition on the GNU Project website."</data>
+      <data key="d10">0b779017b7a581df4788a084f5f11d8b</data>
+      <data key="d11">7c49f2710e8b4d3b8dc9310834406ea5</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FREE SOFTWARE FOUNDATION (FSF)&quot;" target="&quot;FREE SOFTWARE DIRECTORY (FSD)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Free Software Directory is a project of the Free Software Foundation."</data>
+      <data key="d10">54e734a407073c47c5606ba69a3b49d4</data>
+      <data key="d11">c6d1e4f56c2843e89cf0b91c10bb6de2</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GNU PROJECT&quot;" target="&quot;FREE SOFTWARE FOUNDATION EUROPE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Free Software Foundation Europe and GNU Project are both organizations that Jonas &#214;berg has worked with, promoting free and open-source software."</data>
+      <data key="d10">0759addb038ad847fada6b03a6c6deb5</data>
+      <data key="d11">0adb2d9941f34ef7b2f7743cc6225844</data>
+      <data key="d12">3</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GNU PROJECT&quot;" target="&quot;JONAS &#214;BERG&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jonas &#214;berg served as a webmaster for the GNU Project, contributing to the development of free and open-source software."</data>
+      <data key="d10">0759addb038ad847fada6b03a6c6deb5</data>
+      <data key="d11">6b02373137fd438ba96af28f735cdbdb</data>
+      <data key="d12">4</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FREE SOFTWARE DEFINITION&quot;" target="&quot;RICHARD STALLMAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Richard Stallman is the author of the Free Software Definition, which defines the principles of free software and highlights his contribution to the movement."</data>
+      <data key="d10">0b779017b7a581df4788a084f5f11d8b</data>
+      <data key="d11">36a4fcd8efc144e6b8af9a1c7ab8b2ce</data>
+      <data key="d12">5</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;RICHARD STALLMAN&quot;" target="&quot;FREE SOFTWARE FOUNDATION&quot;">
+      <data key="d8">3.0</data>
+      <data key="d9">Here is a comprehensive summary of the data:
+
+Richard Stallman is the founder and current president of the Free Software Foundation, an organization that promotes and develops free software.</data>
+      <data key="d10">2c83d7e9c9dbb7f335fe148bb127b7a2,9a559b721e4bff9647dbd8713b90786b,d240705dbc4b4ea839c553f34f7bb899</data>
+      <data key="d11">fbeef791d19b413a9c93c6608286ab63</data>
+      <data key="d12">6</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;RICHARD STALLMAN&quot;" target="&quot;GNU&quot;">
+      <data key="d8">2.0</data>
+      <data key="d9">Here is the comprehensive summary:
+
+Richard Stallman, also known as the founder of GNU, created and initiated the GNU project with a vision to promote free software by developing a complete Unix-like operating system composed entirely of free software.</data>
+      <data key="d10">9a559b721e4bff9647dbd8713b90786b,d240705dbc4b4ea839c553f34f7bb899</data>
+      <data key="d11">d2b629c0396f4180a03e16ddf3818589</data>
+      <data key="d12">7</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;RICHARD STALLMAN&quot;" target="&quot;JONAS &#214;BERG&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jonas &#214;berg met with Richard Stallman at the MIT AI Labs, indicating a connection between them in the free and open-source software community."</data>
+      <data key="d10">0759addb038ad847fada6b03a6c6deb5</data>
+      <data key="d11">6102fc6619ed422ebc42588bfa97355d</data>
+      <data key="d12">8</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;RICHARD STALLMAN&quot;" target="&quot;INTELLECTUAL PROPERTY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Richard Stallman argues against the use of the term 'intellectual property' due to its confusing nature."</data>
+      <data key="d10">2c83d7e9c9dbb7f335fe148bb127b7a2</data>
+      <data key="d11">8d141c0b80f74b79a05eed7fe161fe49</data>
+      <data key="d12">9</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;RICHARD STALLMAN&quot;" target="&quot;GNU MANIFESTO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The GNU Manifesto was published by Richard Stallman in 1985."</data>
+      <data key="d10">9a559b721e4bff9647dbd8713b90786b</data>
+      <data key="d11">e22d1d1cd8d14f12b81828d940f40d70</data>
+      <data key="d12">10</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is the county seat of Pima County."</data>
+      <data key="d10">0759addb038ad847fada6b03a6c6deb5,0a9e11cac4f37514f2f01809364672bd,0b779017b7a581df4788a084f5f11d8b,2c83d7e9c9dbb7f335fe148bb127b7a2,35210fdaf62a5b920dbb16a08e1cbb57,3e243e51548f2ea33f98401d59f5e4cf,44300f6d2ad18fa5901ac78c24404615,54e734a407073c47c5606ba69a3b49d4,79a28a29bc03f1e19461347b3a13bd37,7de4565812cb4f2345fd41c59a6d2f70,7ee03e6670d9a8687297f78e401e60bb,9a559b721e4bff9647dbd8713b90786b,a221d8c116488f0d09448f21bf49ee89,b2f195f28d4209958632e70698037263,b8dba35aa7d1be41905e84a7d6e2ef3a,d240705dbc4b4ea839c553f34f7bb899,da11f4c03b035d1e462415b53cf6cc8a,e00c9e51e5a56771696f46153870a1a8,ee59d35c8043cd237e83f3b685870a2d,fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d11">9ab48505fb1b487babd0d1f6d3a3f980</data>
+      <data key="d12">11</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Pima County is a county in Arizona."</data>
+      <data key="d10">0759addb038ad847fada6b03a6c6deb5,0a9e11cac4f37514f2f01809364672bd,0b779017b7a581df4788a084f5f11d8b,2c83d7e9c9dbb7f335fe148bb127b7a2,35210fdaf62a5b920dbb16a08e1cbb57,3e243e51548f2ea33f98401d59f5e4cf,44300f6d2ad18fa5901ac78c24404615,54e734a407073c47c5606ba69a3b49d4,79a28a29bc03f1e19461347b3a13bd37,7de4565812cb4f2345fd41c59a6d2f70,7ee03e6670d9a8687297f78e401e60bb,9a559b721e4bff9647dbd8713b90786b,a221d8c116488f0d09448f21bf49ee89,b2f195f28d4209958632e70698037263,b8dba35aa7d1be41905e84a7d6e2ef3a,d240705dbc4b4ea839c553f34f7bb899,da11f4c03b035d1e462415b53cf6cc8a,e00c9e51e5a56771696f46153870a1a8,ee59d35c8043cd237e83f3b685870a2d,fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d11">148fffeb994541b2b4b6dcefda7001a8</data>
+      <data key="d12">12</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The University of Arizona is located in Tucson."</data>
+      <data key="d10">0759addb038ad847fada6b03a6c6deb5,0a9e11cac4f37514f2f01809364672bd,0b779017b7a581df4788a084f5f11d8b,2c83d7e9c9dbb7f335fe148bb127b7a2,35210fdaf62a5b920dbb16a08e1cbb57,3e243e51548f2ea33f98401d59f5e4cf,44300f6d2ad18fa5901ac78c24404615,54e734a407073c47c5606ba69a3b49d4,79a28a29bc03f1e19461347b3a13bd37,7de4565812cb4f2345fd41c59a6d2f70,7ee03e6670d9a8687297f78e401e60bb,9a559b721e4bff9647dbd8713b90786b,a221d8c116488f0d09448f21bf49ee89,b2f195f28d4209958632e70698037263,b8dba35aa7d1be41905e84a7d6e2ef3a,d240705dbc4b4ea839c553f34f7bb899,da11f4c03b035d1e462415b53cf6cc8a,e00c9e51e5a56771696f46153870a1a8,ee59d35c8043cd237e83f3b685870a2d,fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d11">89c08e793298442686292454a1abff31</data>
+      <data key="d12">13</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Arizona is a state in the United States."</data>
+      <data key="d10">0759addb038ad847fada6b03a6c6deb5,0a9e11cac4f37514f2f01809364672bd,0b779017b7a581df4788a084f5f11d8b,2c83d7e9c9dbb7f335fe148bb127b7a2,35210fdaf62a5b920dbb16a08e1cbb57,3e243e51548f2ea33f98401d59f5e4cf,44300f6d2ad18fa5901ac78c24404615,54e734a407073c47c5606ba69a3b49d4,79a28a29bc03f1e19461347b3a13bd37,7de4565812cb4f2345fd41c59a6d2f70,7ee03e6670d9a8687297f78e401e60bb,9a559b721e4bff9647dbd8713b90786b,a221d8c116488f0d09448f21bf49ee89,b2f195f28d4209958632e70698037263,b8dba35aa7d1be41905e84a7d6e2ef3a,d240705dbc4b4ea839c553f34f7bb899,da11f4c03b035d1e462415b53cf6cc8a,e00c9e51e5a56771696f46153870a1a8,ee59d35c8043cd237e83f3b685870a2d,fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d11">0467928aa65e4a4fba62bdb1467e3a54</data>
+      <data key="d12">14</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is a city in Arizona."</data>
+      <data key="d10">0759addb038ad847fada6b03a6c6deb5,0a9e11cac4f37514f2f01809364672bd,0b779017b7a581df4788a084f5f11d8b,2c83d7e9c9dbb7f335fe148bb127b7a2,35210fdaf62a5b920dbb16a08e1cbb57,3e243e51548f2ea33f98401d59f5e4cf,44300f6d2ad18fa5901ac78c24404615,54e734a407073c47c5606ba69a3b49d4,79a28a29bc03f1e19461347b3a13bd37,7de4565812cb4f2345fd41c59a6d2f70,7ee03e6670d9a8687297f78e401e60bb,9a559b721e4bff9647dbd8713b90786b,a221d8c116488f0d09448f21bf49ee89,b2f195f28d4209958632e70698037263,b8dba35aa7d1be41905e84a7d6e2ef3a,d240705dbc4b4ea839c553f34f7bb899,da11f4c03b035d1e462415b53cf6cc8a,e00c9e51e5a56771696f46153870a1a8,ee59d35c8043cd237e83f3b685870a2d,fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d11">43c3390303c6476cb65f584e37c3e81c</data>
+      <data key="d12">15</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Phoenix is a city in Arizona."</data>
+      <data key="d10">0759addb038ad847fada6b03a6c6deb5,0a9e11cac4f37514f2f01809364672bd,0b779017b7a581df4788a084f5f11d8b,2c83d7e9c9dbb7f335fe148bb127b7a2,35210fdaf62a5b920dbb16a08e1cbb57,3e243e51548f2ea33f98401d59f5e4cf,44300f6d2ad18fa5901ac78c24404615,54e734a407073c47c5606ba69a3b49d4,79a28a29bc03f1e19461347b3a13bd37,7de4565812cb4f2345fd41c59a6d2f70,7ee03e6670d9a8687297f78e401e60bb,9a559b721e4bff9647dbd8713b90786b,a221d8c116488f0d09448f21bf49ee89,b2f195f28d4209958632e70698037263,b8dba35aa7d1be41905e84a7d6e2ef3a,d240705dbc4b4ea839c553f34f7bb899,da11f4c03b035d1e462415b53cf6cc8a,e00c9e51e5a56771696f46153870a1a8,ee59d35c8043cd237e83f3b685870a2d,fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d11">fa14b16c17e3417dba5a4b473ea5b18d</data>
+      <data key="d12">16</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d10">0759addb038ad847fada6b03a6c6deb5,0a9e11cac4f37514f2f01809364672bd,0b779017b7a581df4788a084f5f11d8b,2c83d7e9c9dbb7f335fe148bb127b7a2,35210fdaf62a5b920dbb16a08e1cbb57,3e243e51548f2ea33f98401d59f5e4cf,44300f6d2ad18fa5901ac78c24404615,54e734a407073c47c5606ba69a3b49d4,79a28a29bc03f1e19461347b3a13bd37,7de4565812cb4f2345fd41c59a6d2f70,7ee03e6670d9a8687297f78e401e60bb,9a559b721e4bff9647dbd8713b90786b,a221d8c116488f0d09448f21bf49ee89,b2f195f28d4209958632e70698037263,b8dba35aa7d1be41905e84a7d6e2ef3a,d240705dbc4b4ea839c553f34f7bb899,da11f4c03b035d1e462415b53cf6cc8a,e00c9e51e5a56771696f46153870a1a8,ee59d35c8043cd237e83f3b685870a2d,fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d11">7cc3356d38de4328a51a5cbcb187dac3</data>
+      <data key="d12">17</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Mexico shares an international border with the United States."</data>
+      <data key="d10">0759addb038ad847fada6b03a6c6deb5,0a9e11cac4f37514f2f01809364672bd,0b779017b7a581df4788a084f5f11d8b,2c83d7e9c9dbb7f335fe148bb127b7a2,35210fdaf62a5b920dbb16a08e1cbb57,3e243e51548f2ea33f98401d59f5e4cf,44300f6d2ad18fa5901ac78c24404615,54e734a407073c47c5606ba69a3b49d4,79a28a29bc03f1e19461347b3a13bd37,7de4565812cb4f2345fd41c59a6d2f70,7ee03e6670d9a8687297f78e401e60bb,9a559b721e4bff9647dbd8713b90786b,a221d8c116488f0d09448f21bf49ee89,b2f195f28d4209958632e70698037263,b8dba35aa7d1be41905e84a7d6e2ef3a,d240705dbc4b4ea839c553f34f7bb899,da11f4c03b035d1e462415b53cf6cc8a,e00c9e51e5a56771696f46153870a1a8,ee59d35c8043cd237e83f3b685870a2d,fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d11">bef16fb5fd7344cca5e295b13ef3e0cd</data>
+      <data key="d12">18</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d10">0759addb038ad847fada6b03a6c6deb5,0a9e11cac4f37514f2f01809364672bd,0b779017b7a581df4788a084f5f11d8b,2c83d7e9c9dbb7f335fe148bb127b7a2,35210fdaf62a5b920dbb16a08e1cbb57,3e243e51548f2ea33f98401d59f5e4cf,44300f6d2ad18fa5901ac78c24404615,54e734a407073c47c5606ba69a3b49d4,79a28a29bc03f1e19461347b3a13bd37,7de4565812cb4f2345fd41c59a6d2f70,7ee03e6670d9a8687297f78e401e60bb,9a559b721e4bff9647dbd8713b90786b,a221d8c116488f0d09448f21bf49ee89,b2f195f28d4209958632e70698037263,b8dba35aa7d1be41905e84a7d6e2ef3a,d240705dbc4b4ea839c553f34f7bb899,da11f4c03b035d1e462415b53cf6cc8a,e00c9e51e5a56771696f46153870a1a8,ee59d35c8043cd237e83f3b685870a2d,fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d11">bb9e01bc171d4326a29afda59ece8d17</data>
+      <data key="d12">19</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GNU&quot;" target="&quot;FREE SOFTWARE FOUNDATION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Free Software Foundation is involved in the development and promotion of the GNU operating system."</data>
+      <data key="d10">d240705dbc4b4ea839c553f34f7bb899</data>
+      <data key="d11">3c063eea52e94164b70c99431ea30bae</data>
+      <data key="d12">20</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GNU&quot;" target="&quot;XVID&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Xvid distributes its software under the terms of the GNU General Public License."</data>
+      <data key="d10">fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d11">252cc8452bfc4c2aa58cab68d8b61879</data>
+      <data key="d12">21</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GNU&quot;" target="&quot;INFRARECORDER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"InfraRecorder releases its product under the terms of the GNU General Public License 3."</data>
+      <data key="d10">0a9e11cac4f37514f2f01809364672bd</data>
+      <data key="d11">7e2c84548fb94ee395ba8588d8f2a006</data>
+      <data key="d12">22</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;FREE SOFTWARE MOVEMENT OF INDIA (FSMI)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Free Software Movement of India (FSMI) operates at a national level in India."</data>
+      <data key="d10">da11f4c03b035d1e462415b53cf6cc8a</data>
+      <data key="d11">f034618dde7948beb6dab30176d0fc87</data>
+      <data key="d12">23</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NATIONAL FREE SOFTWARE CONFERENCE - 2010&quot;" target="&quot;BANGALORE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The National Free Software Conference - 2010 was held in Bangalore, indicating the city's significance in the movement."</data>
+      <data key="d10">da11f4c03b035d1e462415b53cf6cc8a</data>
+      <data key="d11">5c41f96be13e49dba649454297834546</data>
+      <data key="d12">24</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NATIONAL FREE SOFTWARE CONFERENCE - 2010&quot;" target="&quot;FREE SOFTWARE MOVEMENT OF INDIA (FSMI)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The formation of FSMI was announced at the National Free Software Conference - 2010, highlighting the event's importance in the movement's history."</data>
+      <data key="d10">da11f4c03b035d1e462415b53cf6cc8a</data>
+      <data key="d11">7ea4afbf8a264f29af29950ce98105ba</data>
+      <data key="d12">25</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FREE SOFTWARE FOUNDATION&quot;" target="&quot;MASSACHUSETTS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Free Software Foundation was founded in Massachusetts."</data>
+      <data key="d10">9a559b721e4bff9647dbd8713b90786b</data>
+      <data key="d11">91ff849d12b24574b0691dbddf44968b</data>
+      <data key="d12">26</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FREE SOFTWARE FOUNDATION EUROPE&quot;" target="&quot;JONAS &#214;BERG&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jonas &#214;berg has worked with the Free Software Foundation Europe, promoting free and open-source software."</data>
+      <data key="d10">0759addb038ad847fada6b03a6c6deb5</data>
+      <data key="d11">d73c1f2fb3094d8dace42ad2a76e9a52</data>
+      <data key="d12">27</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LINUX&quot;" target="&quot;SODIPODI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Sodipodi was developed for Linux platform."</data>
+      <data key="d10">44300f6d2ad18fa5901ac78c24404615</data>
+      <data key="d11">cdc8901e668749889bd49bebdc4ff1f6</data>
+      <data key="d12">28</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MICROSOFT WINDOWS&quot;" target="&quot;SODIPODI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Sodipodi was developed for Microsoft Windows platform."</data>
+      <data key="d10">44300f6d2ad18fa5901ac78c24404615</data>
+      <data key="d11">36084a9fab53433493f079e97e68bf65</data>
+      <data key="d12">29</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MICROSOFT WINDOWS&quot;" target="&quot;CDEX&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"CDex operates on the Microsoft Windows platform."</data>
+      <data key="d10">7ee03e6670d9a8687297f78e401e60bb</data>
+      <data key="d11">eebcc7ec8e3e4df7aea83659bbdc2199</data>
+      <data key="d12">30</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MICROSOFT WINDOWS&quot;" target="&quot;MINGW&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"MinGW is a development environment for creating Microsoft Windows applications."</data>
+      <data key="d10">b8dba35aa7d1be41905e84a7d6e2ef3a</data>
+      <data key="d11">ceadf262ef834e9ab146b20650912cae</data>
+      <data key="d12">31</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GNU GENERAL PUBLIC LICENSE&quot;" target="&quot;SODIPODI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Sodipodi was released under the GNU General Public License, making it free software."</data>
+      <data key="d10">44300f6d2ad18fa5901ac78c24404615</data>
+      <data key="d11">7f65feab75424b53b24470d305ba331a</data>
+      <data key="d12">32</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;8CHAN&quot;" target="&quot;FREDRICK BRENNAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Fredrick Brennan is the founder of 8chan."</data>
+      <data key="d10">79a28a29bc03f1e19461347b3a13bd37</data>
+      <data key="d11">fd9cb733b28d420cb5cef01e545a132c</data>
+      <data key="d12">33</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ALBERT L. FABER&quot;" target="&quot;CDEX&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"CDex was originally written by Albert L. Faber."</data>
+      <data key="d10">7ee03e6670d9a8687297f78e401e60bb</data>
+      <data key="d11">0fbcca3f17c649a08aea64b5a7d9ef36</data>
+      <data key="d12">34</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GEORGY BERDYSHEV&quot;" target="&quot;CDEX&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"CDex is developed and maintained by Georgy Berdyshev."</data>
+      <data key="d10">7ee03e6670d9a8687297f78e401e60bb</data>
+      <data key="d11">482027a59f32484c9c44fd700615c1b6</data>
+      <data key="d12">35</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PETE SHINNERS&quot;" target="&quot;PYGAME&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Pete Shinners is the creator of Pygame."</data>
+      <data key="d10">a221d8c116488f0d09448f21bf49ee89</data>
+      <data key="d11">de837ff3d626451282ff6ac77a82216d</data>
+      <data key="d12">36</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PYGAME&quot;" target="&quot;PYSDL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Pygame was written to replace PySDL."</data>
+      <data key="d10">a221d8c116488f0d09448f21bf49ee89</data>
+      <data key="d11">460295fed3ae4cd39f9f274cec9c2506</data>
+      <data key="d12">37</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MINGW-W64&quot;" target="&quot;AUTHOR OF MINGW-W64&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The author of MinGW-w64 created the alternative project to MinGW in 2013."</data>
+      <data key="d10">b8dba35aa7d1be41905e84a7d6e2ef3a</data>
+      <data key="d11">553b285bba60460ab1ed8341ae61282b</data>
+      <data key="d12">38</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MINGW-W64&quot;" target="&quot;MINGW&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"MinGW-w64 is an alternative project to MinGW, created by a different author."</data>
+      <data key="d10">b8dba35aa7d1be41905e84a7d6e2ef3a</data>
+      <data key="d11">cec95bf17e7e4c939b56c9c6f402a29f</data>
+      <data key="d12">39</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DIVX, INC.&quot;" target="&quot;XVID&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Xvid is a primary competitor of DivX, Inc. in the video codec market."</data>
+      <data key="d10">fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d11">599164aead034bc19446efacc77554d2</data>
+      <data key="d12">40</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DIVX, INC.&quot;" target="&quot;DIVX PRO CODEC&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The DivX Pro Codec is a proprietary software developed by DivX, Inc."</data>
+      <data key="d10">fe5ab28446af9c9f36b1c26c1525d577</data>
+      <data key="d11">bbf148ae4d48422f8fdef754cfa2b9e4</data>
+      <data key="d12">41</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CNET&quot;" target="&quot;INFRARECORDER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"CNET rated InfraRecorder as the best free alternative to commercial DVD burning software in November 2007."</data>
+      <data key="d10">0a9e11cac4f37514f2f01809364672bd</data>
+      <data key="d11">de61b2670999433f807a6a1dc2b81e43</data>
+      <data key="d12">42</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNIX&quot;" target="&quot;ETHERAPE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"EtherApe was developed for Unix, indicating a connection between the organization and the operating system platform."</data>
+      <data key="d10">ee59d35c8043cd237e83f3b685870a2d</data>
+      <data key="d11">3e95dacfe57b4d57b5da4310ef2e157f</data>
+      <data key="d12">43</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VANCOUVER&quot;" target="&quot;METALOGIX SOFTWARE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Metalogix Software was founded in Vancouver, British Columbia."</data>
+      <data key="d10">e00c9e51e5a56771696f46153870a1a8</data>
+      <data key="d11">1f1545308e9347af91fd03b94aadc21f</data>
+      <data key="d12">44</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WASHINGTON, D.C.&quot;" target="&quot;METALOGIX INTERNATIONAL GMBH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Metalogix International GmbH has its headquarters in Washington, D.C."</data>
+      <data key="d10">e00c9e51e5a56771696f46153870a1a8</data>
+      <data key="d11">6ea81acaf232485e94fff638e03336e1</data>
+      <data key="d12">45</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;METALOGIX SOFTWARE&quot;" target="&quot;FOUNDING OF METALOGIX SOFTWARE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The founding of Metalogix Software is a significant event in the company's history."</data>
+      <data key="d10">e00c9e51e5a56771696f46153870a1a8</data>
+      <data key="d11">d136b08d586d488f9e4188b524c85a29</data>
+      <data key="d12">46</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MIGUEL DE ICAZA&quot;" target="&quot;GNOME&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Miguel de Icaza is one of the founders of GNOME."</data>
+      <data key="d10">35210fdaf62a5b920dbb16a08e1cbb57</data>
+      <data key="d11">cccfa151fedc4b218a8d96adc7dceabe</data>
+      <data key="d12">47</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FEDERICO MENA&quot;" target="&quot;GNOME&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Federico Mena is one of the founders of GNOME."</data>
+      <data key="d10">35210fdaf62a5b920dbb16a08e1cbb57</data>
+      <data key="d11">ce54725672a74ebcabe6127577dacb2b</data>
+      <data key="d12">48</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;K DESKTOP ENVIRONMENT&quot;" target="&quot;QT WIDGET TOOLKIT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"K Desktop Environment relies on Qt widget toolkit."</data>
+      <data key="d10">35210fdaf62a5b920dbb16a08e1cbb57</data>
+      <data key="d11">ea2b28ca1a974ffab4517811dc1d1e5c</data>
+      <data key="d12">49</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GTK (GIMP TOOLKIT)&quot;" target="&quot;GNOME&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"GNOME uses GTK as its base."</data>
+      <data key="d10">35210fdaf62a5b920dbb16a08e1cbb57</data>
+      <data key="d11">aff21f1da1654e7babdcf3fb0e4a75fc</data>
+      <data key="d12">50</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GNU LESSER GENERAL PUBLIC LICENSE (LGPL)&quot;" target="&quot;GNOME&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"GNOME's libraries are licensed under LGPL."</data>
+      <data key="d10">35210fdaf62a5b920dbb16a08e1cbb57</data>
+      <data key="d11">dc2cc9016e3f49dbac7232f05cce794d</data>
+      <data key="d12">51</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GNU GENERAL PUBLIC LICENSE (GPL)&quot;" target="&quot;GNOME&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"GNOME's applications are licensed under GPL."</data>
+      <data key="d10">35210fdaf62a5b920dbb16a08e1cbb57</data>
+      <data key="d11">6ea0cef05f694dcea455478f40674e45</data>
+      <data key="d12">52</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MEDIAWIKI&quot;" target="&quot;BLUESPICE MEDIAWIKI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"BlueSpice MediaWiki is based on MediaWiki and developed as an enterprise wiki distribution."</data>
+      <data key="d10">7de4565812cb4f2345fd41c59a6d2f70</data>
+      <data key="d11">7ab5d53a872f4dfc98f3d386879f3c75</data>
+      <data key="d12">53</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNESCO&quot;" target="&quot;FREE SOFTWARE DIRECTORY (FSD)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Free Software Directory was formerly co-run by UNESCO."</data>
+      <data key="d10">54e734a407073c47c5606ba69a3b49d4</data>
+      <data key="d11">af1d0fec22114a3398b8016f5225f9ed</data>
+      <data key="d12">54</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;XWIKI ENTERPRISE WIKI&quot;" target="&quot;XWIKI SAS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"XWiki SAS funds developers who work on the XWiki Enterprise wiki, but maintains a separate boundary."</data>
+      <data key="d10">3e243e51548f2ea33f98401d59f5e4cf</data>
+      <data key="d11">b07a7f088364459098cd8511ff27a4c8</data>
+      <data key="d12">55</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;XWIKI ENTERPRISE WIKI&quot;" target="&quot;GITHUB&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The XWiki source code is hosted on GitHub, where it can be forked and developed by anyone."</data>
+      <data key="d10">3e243e51548f2ea33f98401d59f5e4cf</data>
+      <data key="d11">8870cf2b5df64d2cab5820f67e29b9f1</data>
+      <data key="d12">56</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;XWIKI ENTERPRISE WIKI&quot;" target="&quot;GNU LESSER GENERAL PUBLIC LICENSE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The GNU Lesser General Public License governs the licensing of the XWiki code, making it free software."</data>
+      <data key="d10">3e243e51548f2ea33f98401d59f5e4cf</data>
+      <data key="d11">cd130938a2844050be991af70baf5ee0</data>
+      <data key="d12">57</data>
+      <data key="d13">0</data>
+    </edge>
+  </graph>
+</graphml>

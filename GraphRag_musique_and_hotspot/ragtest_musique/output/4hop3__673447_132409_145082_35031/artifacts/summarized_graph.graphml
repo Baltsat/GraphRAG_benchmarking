@@ -1,0 +1,1103 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;NORTH CHARLESTON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"North Charleston is the second-largest city in the Charleston-North Charleston-Summerville Metropolitan Statistical Area and ranks as the third-largest city in the state."</data>
+      <data key="d2">27538feb98a541240d3a540eefe8458b</data>
+    </node>
+    <node id="&quot;MOUNT PLEASANT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mount Pleasant is one of the next-largest cities in the Charleston-North Charleston-Summerville Metropolitan Statistical Area."</data>
+      <data key="d2">27538feb98a541240d3a540eefe8458b</data>
+    </node>
+    <node id="&quot;SUMMERVILLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Summerville is one of the next-largest cities in the Charleston-North Charleston-Summerville Metropolitan Statistical Area."</data>
+      <data key="d2">27538feb98a541240d3a540eefe8458b</data>
+    </node>
+    <node id="&quot;CHARLESTON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Charleston is a city that forms part of the Charleston-North Charleston Urban Area."</data>
+      <data key="d2">27538feb98a541240d3a540eefe8458b</data>
+    </node>
+    <node id="&quot;BERKELEY COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Berkeley County is one of the three counties in the Charleston-North Charleston-Summerville Metropolitan Statistical Area."</data>
+      <data key="d2">27538feb98a541240d3a540eefe8458b</data>
+    </node>
+    <node id="&quot;DORCHESTER COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Dorchester County is one of the three counties in the Charleston-North Charleston-Summerville Metropolitan Statistical Area."</data>
+      <data key="d2">27538feb98a541240d3a540eefe8458b</data>
+    </node>
+    <node id="&quot;MONCKS CORNER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Moncks Corner is a smaller urban area within Berkeley County with a population of 9,123 as of 2000."</data>
+      <data key="d2">27538feb98a541240d3a540eefe8458b</data>
+    </node>
+    <node id="&quot;CHARLESTON-NORTH CHARLESTON-SUMMERVILLE METROPOLITAN STATISTICAL AREA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">27538feb98a541240d3a540eefe8458b</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">0333734de4c8bff44338fc11693fe1ed,072f87ebcbd91890dac733ad7bfe3b84,0f1bea8e6070909ba2eebed3f545ae64,10db3431a6d4140eadac9a591eba1f87,21da7a051bfdef63b2cdb21fc3e17a8c,27538feb98a541240d3a540eefe8458b,3f6a841ea71db5a145a532348c67e824,61ff7e5eddfb55d3e9cf2a7ad0e5244e,6a2c72cebdc264d637a51d00daaea054,76b745e8b5dd17577fc9c6e319667ae9,7ce994b0a6fcb4c23e6e31e8dbe70209,8244806fd00c10a492946d6dbb1901d6,82c739d3deb45c3c686b8f47753e4ad1,a5fa1edb4cefb91a950565a1c3eaad80,b66af27a96217b37339536e65c41ada9,c29176e9d12c6b4b69283376a4b45545,cd4929d3b205f6fcf8337d5a7e5d711c,d01a1a47081277e751f69bbafc9a9375,e0cca2328ad4090a5bac5ca5d4dec774,ec420356156bd4a48da7806d5e30ed55</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">0333734de4c8bff44338fc11693fe1ed,072f87ebcbd91890dac733ad7bfe3b84,0f1bea8e6070909ba2eebed3f545ae64,10db3431a6d4140eadac9a591eba1f87,21da7a051bfdef63b2cdb21fc3e17a8c,27538feb98a541240d3a540eefe8458b,3f6a841ea71db5a145a532348c67e824,61ff7e5eddfb55d3e9cf2a7ad0e5244e,6a2c72cebdc264d637a51d00daaea054,76b745e8b5dd17577fc9c6e319667ae9,7ce994b0a6fcb4c23e6e31e8dbe70209,8244806fd00c10a492946d6dbb1901d6,82c739d3deb45c3c686b8f47753e4ad1,a5fa1edb4cefb91a950565a1c3eaad80,b66af27a96217b37339536e65c41ada9,c29176e9d12c6b4b69283376a4b45545,cd4929d3b205f6fcf8337d5a7e5d711c,d01a1a47081277e751f69bbafc9a9375,e0cca2328ad4090a5bac5ca5d4dec774,ec420356156bd4a48da7806d5e30ed55</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">0333734de4c8bff44338fc11693fe1ed,072f87ebcbd91890dac733ad7bfe3b84,0f1bea8e6070909ba2eebed3f545ae64,10db3431a6d4140eadac9a591eba1f87,21da7a051bfdef63b2cdb21fc3e17a8c,27538feb98a541240d3a540eefe8458b,3f6a841ea71db5a145a532348c67e824,61ff7e5eddfb55d3e9cf2a7ad0e5244e,6a2c72cebdc264d637a51d00daaea054,76b745e8b5dd17577fc9c6e319667ae9,7ce994b0a6fcb4c23e6e31e8dbe70209,8244806fd00c10a492946d6dbb1901d6,82c739d3deb45c3c686b8f47753e4ad1,a5fa1edb4cefb91a950565a1c3eaad80,b66af27a96217b37339536e65c41ada9,c29176e9d12c6b4b69283376a4b45545,cd4929d3b205f6fcf8337d5a7e5d711c,d01a1a47081277e751f69bbafc9a9375,e0cca2328ad4090a5bac5ca5d4dec774,ec420356156bd4a48da7806d5e30ed55</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">0333734de4c8bff44338fc11693fe1ed,072f87ebcbd91890dac733ad7bfe3b84,0f1bea8e6070909ba2eebed3f545ae64,10db3431a6d4140eadac9a591eba1f87,21da7a051bfdef63b2cdb21fc3e17a8c,27538feb98a541240d3a540eefe8458b,3f6a841ea71db5a145a532348c67e824,61ff7e5eddfb55d3e9cf2a7ad0e5244e,6a2c72cebdc264d637a51d00daaea054,76b745e8b5dd17577fc9c6e319667ae9,7ce994b0a6fcb4c23e6e31e8dbe70209,8244806fd00c10a492946d6dbb1901d6,82c739d3deb45c3c686b8f47753e4ad1,a5fa1edb4cefb91a950565a1c3eaad80,b66af27a96217b37339536e65c41ada9,c29176e9d12c6b4b69283376a4b45545,cd4929d3b205f6fcf8337d5a7e5d711c,d01a1a47081277e751f69bbafc9a9375,e0cca2328ad4090a5bac5ca5d4dec774,ec420356156bd4a48da7806d5e30ed55</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country where Tucson, Pima County, and Arizona are located. Additionally, it is also the country where the rock band Papa Roach achieved significant commercial success with their album Infest, which sold over three million copies.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">0333734de4c8bff44338fc11693fe1ed,072f87ebcbd91890dac733ad7bfe3b84,0f1bea8e6070909ba2eebed3f545ae64,10db3431a6d4140eadac9a591eba1f87,21da7a051bfdef63b2cdb21fc3e17a8c,27538feb98a541240d3a540eefe8458b,3f6a841ea71db5a145a532348c67e824,61ff7e5eddfb55d3e9cf2a7ad0e5244e,6a2c72cebdc264d637a51d00daaea054,76b745e8b5dd17577fc9c6e319667ae9,7ce994b0a6fcb4c23e6e31e8dbe70209,8244806fd00c10a492946d6dbb1901d6,82c739d3deb45c3c686b8f47753e4ad1,a5fa1edb4cefb91a950565a1c3eaad80,b66af27a96217b37339536e65c41ada9,c29176e9d12c6b4b69283376a4b45545,cd4929d3b205f6fcf8337d5a7e5d711c,d01a1a47081277e751f69bbafc9a9375,e0cca2328ad4090a5bac5ca5d4dec774,ec420356156bd4a48da7806d5e30ed55</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">0333734de4c8bff44338fc11693fe1ed,072f87ebcbd91890dac733ad7bfe3b84,0f1bea8e6070909ba2eebed3f545ae64,10db3431a6d4140eadac9a591eba1f87,21da7a051bfdef63b2cdb21fc3e17a8c,27538feb98a541240d3a540eefe8458b,3f6a841ea71db5a145a532348c67e824,61ff7e5eddfb55d3e9cf2a7ad0e5244e,6a2c72cebdc264d637a51d00daaea054,76b745e8b5dd17577fc9c6e319667ae9,7ce994b0a6fcb4c23e6e31e8dbe70209,8244806fd00c10a492946d6dbb1901d6,82c739d3deb45c3c686b8f47753e4ad1,a5fa1edb4cefb91a950565a1c3eaad80,b66af27a96217b37339536e65c41ada9,c29176e9d12c6b4b69283376a4b45545,cd4929d3b205f6fcf8337d5a7e5d711c,d01a1a47081277e751f69bbafc9a9375,e0cca2328ad4090a5bac5ca5d4dec774,ec420356156bd4a48da7806d5e30ed55</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">0333734de4c8bff44338fc11693fe1ed,072f87ebcbd91890dac733ad7bfe3b84,0f1bea8e6070909ba2eebed3f545ae64,10db3431a6d4140eadac9a591eba1f87,21da7a051bfdef63b2cdb21fc3e17a8c,27538feb98a541240d3a540eefe8458b,3f6a841ea71db5a145a532348c67e824,61ff7e5eddfb55d3e9cf2a7ad0e5244e,6a2c72cebdc264d637a51d00daaea054,76b745e8b5dd17577fc9c6e319667ae9,7ce994b0a6fcb4c23e6e31e8dbe70209,8244806fd00c10a492946d6dbb1901d6,82c739d3deb45c3c686b8f47753e4ad1,a5fa1edb4cefb91a950565a1c3eaad80,b66af27a96217b37339536e65c41ada9,c29176e9d12c6b4b69283376a4b45545,cd4929d3b205f6fcf8337d5a7e5d711c,d01a1a47081277e751f69bbafc9a9375,e0cca2328ad4090a5bac5ca5d4dec774,ec420356156bd4a48da7806d5e30ed55</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Mexico is a country that shares an international border with the United States, specifically near Tucson. Additionally, it has several states, including Chihuahua. The country's economy is significantly driven by its urban agglomeration, Mexico City, which generates a substantial portion of its GDP.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">0333734de4c8bff44338fc11693fe1ed,072f87ebcbd91890dac733ad7bfe3b84,0f1bea8e6070909ba2eebed3f545ae64,10db3431a6d4140eadac9a591eba1f87,21da7a051bfdef63b2cdb21fc3e17a8c,27538feb98a541240d3a540eefe8458b,3f6a841ea71db5a145a532348c67e824,61ff7e5eddfb55d3e9cf2a7ad0e5244e,6a2c72cebdc264d637a51d00daaea054,76b745e8b5dd17577fc9c6e319667ae9,7ce994b0a6fcb4c23e6e31e8dbe70209,8244806fd00c10a492946d6dbb1901d6,82c739d3deb45c3c686b8f47753e4ad1,a5fa1edb4cefb91a950565a1c3eaad80,b66af27a96217b37339536e65c41ada9,c29176e9d12c6b4b69283376a4b45545,cd4929d3b205f6fcf8337d5a7e5d711c,d01a1a47081277e751f69bbafc9a9375,e0cca2328ad4090a5bac5ca5d4dec774,ec420356156bd4a48da7806d5e30ed55</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">0333734de4c8bff44338fc11693fe1ed,072f87ebcbd91890dac733ad7bfe3b84,0f1bea8e6070909ba2eebed3f545ae64,10db3431a6d4140eadac9a591eba1f87,21da7a051bfdef63b2cdb21fc3e17a8c,27538feb98a541240d3a540eefe8458b,3f6a841ea71db5a145a532348c67e824,61ff7e5eddfb55d3e9cf2a7ad0e5244e,6a2c72cebdc264d637a51d00daaea054,76b745e8b5dd17577fc9c6e319667ae9,7ce994b0a6fcb4c23e6e31e8dbe70209,8244806fd00c10a492946d6dbb1901d6,82c739d3deb45c3c686b8f47753e4ad1,a5fa1edb4cefb91a950565a1c3eaad80,b66af27a96217b37339536e65c41ada9,c29176e9d12c6b4b69283376a4b45545,cd4929d3b205f6fcf8337d5a7e5d711c,d01a1a47081277e751f69bbafc9a9375,e0cca2328ad4090a5bac5ca5d4dec774,ec420356156bd4a48da7806d5e30ed55</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0333734de4c8bff44338fc11693fe1ed,072f87ebcbd91890dac733ad7bfe3b84,0f1bea8e6070909ba2eebed3f545ae64,10db3431a6d4140eadac9a591eba1f87,21da7a051bfdef63b2cdb21fc3e17a8c,27538feb98a541240d3a540eefe8458b,3f6a841ea71db5a145a532348c67e824,61ff7e5eddfb55d3e9cf2a7ad0e5244e,6a2c72cebdc264d637a51d00daaea054,76b745e8b5dd17577fc9c6e319667ae9,7ce994b0a6fcb4c23e6e31e8dbe70209,8244806fd00c10a492946d6dbb1901d6,82c739d3deb45c3c686b8f47753e4ad1,a5fa1edb4cefb91a950565a1c3eaad80,b66af27a96217b37339536e65c41ada9,c29176e9d12c6b4b69283376a4b45545,cd4929d3b205f6fcf8337d5a7e5d711c,d01a1a47081277e751f69bbafc9a9375,e0cca2328ad4090a5bac5ca5d4dec774,ec420356156bd4a48da7806d5e30ed55</data>
+    </node>
+    <node id="&quot;JACOBY SHADDIX&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jacoby Shaddix is the lead vocalist of Papa Roach."</data>
+      <data key="d2">c29176e9d12c6b4b69283376a4b45545</data>
+    </node>
+    <node id="&quot;JERRY HORTON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jerry Horton is a guitarist of Papa Roach."</data>
+      <data key="d2">c29176e9d12c6b4b69283376a4b45545</data>
+    </node>
+    <node id="&quot;DAVE BUCKNER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dave Buckner is a drummer of Papa Roach."</data>
+      <data key="d2">c29176e9d12c6b4b69283376a4b45545</data>
+    </node>
+    <node id="&quot;WILL JAMES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Will James is a bassist of Papa Roach."</data>
+      <data key="d2">c29176e9d12c6b4b69283376a4b45545</data>
+    </node>
+    <node id="&quot;BEN LUTHER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ben Luther is a trombonist of Papa Roach."</data>
+      <data key="d2">c29176e9d12c6b4b69283376a4b45545</data>
+    </node>
+    <node id="&quot;VACAVILLE, CALIFORNIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Vacaville, California is the hometown of Papa Roach."</data>
+      <data key="d2">c29176e9d12c6b4b69283376a4b45545</data>
+    </node>
+    <node id="&quot;PAPA ROACH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">21da7a051bfdef63b2cdb21fc3e17a8c,c29176e9d12c6b4b69283376a4b45545</data>
+    </node>
+    <node id="&quot;NEW YORK CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+New York City is a city with a highly-regarded park system, ranked second best among the 50 most populous U.S. cities. Additionally, it is a thriving metropolitan area boasting a high GDP, surpassing that of Mexico City.</data>
+      <data key="d2">82c739d3deb45c3c686b8f47753e4ad1,b66af27a96217b37339536e65c41ada9</data>
+    </node>
+    <node id="&quot;MINNEAPOLIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Minneapolis is the largest city in Minnesota, adjacent to Saint Paul and forming the Twin Cities. It is also a city with the best park system among the 50 most populous U.S. cities.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">b66af27a96217b37339536e65c41ada9,d01a1a47081277e751f69bbafc9a9375</data>
+    </node>
+    <node id="&quot;PARKSCORE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ParkScore is an annual ranking of urban park systems in the United States."</data>
+      <data key="d2">b66af27a96217b37339536e65c41ada9</data>
+    </node>
+    <node id="&quot;THE TRUST FOR PUBLIC LAND&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b66af27a96217b37339536e65c41ada9</data>
+    </node>
+    <node id="&quot;GALLATIN COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Gallatin County is a county in southwest Montana, where Bozeman is located."</data>
+      <data key="d2">ec420356156bd4a48da7806d5e30ed55</data>
+    </node>
+    <node id="&quot;JOHN M. BOZEMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"John M. Bozeman was the founder of Bozeman and established the Bozeman Trail."</data>
+      <data key="d2">ec420356156bd4a48da7806d5e30ed55</data>
+    </node>
+    <node id="&quot;MONTANA STATE UNIVERSITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Montana State University is a university located in Bozeman, Montana."</data>
+      <data key="d2">ec420356156bd4a48da7806d5e30ed55</data>
+    </node>
+    <node id="&quot;NATIONAL CIVIC LEAGUE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The National Civic League elected Bozeman as an All-America City in 2001."</data>
+      <data key="d2">ec420356156bd4a48da7806d5e30ed55</data>
+    </node>
+    <node id="&quot;BOZEMAN DAILY CHRONICLE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Bozeman Daily Chronicle is the local newspaper serving Bozeman, Montana."</data>
+      <data key="d2">ec420356156bd4a48da7806d5e30ed55</data>
+    </node>
+    <node id="&quot;BOZEMAN YELLOWSTONE INTERNATIONAL AIRPORT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Bozeman Yellowstone International Airport serves the city of Bozeman, Montana."</data>
+      <data key="d2">ec420356156bd4a48da7806d5e30ed55</data>
+    </node>
+    <node id="&quot;BOZEMAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ec420356156bd4a48da7806d5e30ed55</data>
+    </node>
+    <node id="&quot;TENNESSEE RIVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Tennessee River is a body of water formed by numerous tributaries in the Tennessee Valley."</data>
+      <data key="d2">cd4929d3b205f6fcf8337d5a7e5d711c</data>
+    </node>
+    <node id="&quot;BAYS MOUNTAIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bays Mountain is a wooded ridge in the Ridge and Valley region of Tennessee."</data>
+      <data key="d2">cd4929d3b205f6fcf8337d5a7e5d711c</data>
+    </node>
+    <node id="&quot;CLINCH MOUNTAIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Clinch Mountain is a wooded ridge in the Ridge and Valley region of Tennessee."</data>
+      <data key="d2">cd4929d3b205f6fcf8337d5a7e5d711c</data>
+    </node>
+    <node id="&quot;GREAT VALLEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Great Valley is a geographic area in the western section of the Tennessee Valley, characterized by broader depressions and lower ridges."</data>
+      <data key="d2">cd4929d3b205f6fcf8337d5a7e5d711c</data>
+    </node>
+    <node id="&quot;KNOXVILLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Knoxville is the 3rd largest city in Tennessee, located in the Great Valley."</data>
+      <data key="d2">cd4929d3b205f6fcf8337d5a7e5d711c</data>
+    </node>
+    <node id="&quot;CHATTANOOGA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Chattanooga is the 4th largest city in Tennessee, located in the Great Valley."</data>
+      <data key="d2">cd4929d3b205f6fcf8337d5a7e5d711c</data>
+    </node>
+    <node id="&quot;TRI-CITIES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Tri-Cities are an urban area comprising Bristol, Johnson City, and Kingsport and their environs, located to the northeast of Knoxville."</data>
+      <data key="d2">cd4929d3b205f6fcf8337d5a7e5d711c</data>
+    </node>
+    <node id="&quot;BRISTOL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bristol is a city in the Tri-Cities urban area."</data>
+      <data key="d2">cd4929d3b205f6fcf8337d5a7e5d711c</data>
+    </node>
+    <node id="&quot;JOHNSON CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Johnson City is a city in the Tri-Cities urban area."</data>
+      <data key="d2">cd4929d3b205f6fcf8337d5a7e5d711c</data>
+    </node>
+    <node id="&quot;KINGSPORT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Kingsport is a city in the Tri-Cities urban area."</data>
+      <data key="d2">cd4929d3b205f6fcf8337d5a7e5d711c</data>
+    </node>
+    <node id="&quot;RIDGE AND VALLEY REGION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">cd4929d3b205f6fcf8337d5a7e5d711c</data>
+    </node>
+    <node id="&quot;MINNESOTA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Minnesota is a U.S. state where Saint Paul is located."</data>
+      <data key="d2">d01a1a47081277e751f69bbafc9a9375</data>
+    </node>
+    <node id="&quot;RAMSEY COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ramsey County is the smallest and most densely populated county in Minnesota, where Saint Paul is the county seat."</data>
+      <data key="d2">d01a1a47081277e751f69bbafc9a9375</data>
+    </node>
+    <node id="&quot;MISSISSIPPI RIVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Mississippi River is a significant geographical feature where Saint Paul is located."</data>
+      <data key="d2">d01a1a47081277e751f69bbafc9a9375</data>
+    </node>
+    <node id="&quot;MINNESOTA RIVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Minnesota River is another important geographical feature near Saint Paul, where it converges with the Mississippi River."</data>
+      <data key="d2">d01a1a47081277e751f69bbafc9a9375</data>
+    </node>
+    <node id="&quot;SAINT PAUL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d01a1a47081277e751f69bbafc9a9375</data>
+    </node>
+    <node id="&quot;SAN DIEGO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+San Diego is a dominant area in Southern California, serving as the center of its respective metropolitan area and part of an international metropolitan region with Tijuana. Additionally, it is also known as the birthplace of Tamara Leitner, a notable individual from California.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">0f1bea8e6070909ba2eebed3f545ae64,3f6a841ea71db5a145a532348c67e824,8244806fd00c10a492946d6dbb1901d6</data>
+    </node>
+    <node id="&quot;TAMARA LEITNER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3f6a841ea71db5a145a532348c67e824</data>
+    </node>
+    <node id="&quot;PWC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"PwC is a consulting firm that conducted a study on Mexico City's GDP, ranking it as the eighth richest city in the world."</data>
+      <data key="d2">82c739d3deb45c3c686b8f47753e4ad1</data>
+    </node>
+    <node id="&quot;TOKYO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Tokyo is a metropolitan area with a high GDP, ranking above Mexico City."</data>
+      <data key="d2">82c739d3deb45c3c686b8f47753e4ad1</data>
+    </node>
+    <node id="&quot;LOS ANGELES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Los Angeles is a dominant area in Southern California, serving as the center of its respective metropolitan area, which has a high GDP, ranking above Mexico City.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">8244806fd00c10a492946d6dbb1901d6,82c739d3deb45c3c686b8f47753e4ad1</data>
+    </node>
+    <node id="&quot;CHICAGO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Chicago is a metropolitan area with a high GDP, ranking above Mexico City."</data>
+      <data key="d2">82c739d3deb45c3c686b8f47753e4ad1</data>
+    </node>
+    <node id="&quot;PARIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Paris is a metropolitan area with a high GDP, ranking above Mexico City."</data>
+      <data key="d2">82c739d3deb45c3c686b8f47753e4ad1</data>
+    </node>
+    <node id="&quot;LONDON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+London is a metropolitan area with a high GDP, ranking above Mexico City.</data>
+      <data key="d2">82c739d3deb45c3c686b8f47753e4ad1,e0cca2328ad4090a5bac5ca5d4dec774</data>
+    </node>
+    <node id="&quot;OSAKA/KOBE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Osaka/Kobe is a metropolitan area with a high GDP, ranking above Mexico City."</data>
+      <data key="d2">82c739d3deb45c3c686b8f47753e4ad1</data>
+    </node>
+    <node id="&quot;MEXICO CITY&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Mexico City is an urban agglomeration that generates 15.8% of Mexico's Gross Domestic Product and accounts for about 22% of total national GDP.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">61ff7e5eddfb55d3e9cf2a7ad0e5244e,82c739d3deb45c3c686b8f47753e4ad1</data>
+    </node>
+    <node id="&quot;AUSTRALIAN DREAM&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The Australian Dream refers to the notion of a 'quarter acre home and garden' for every family, influencing urban development in Melbourne."</data>
+      <data key="d2">6a2c72cebdc264d637a51d00daaea054</data>
+    </node>
+    <node id="&quot;DOCKLANDS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Docklands is an area in Melbourne's city centre featuring high-density urban forms."</data>
+      <data key="d2">6a2c72cebdc264d637a51d00daaea054</data>
+    </node>
+    <node id="&quot;ST. KILDA ROAD&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"St. Kilda Road is a location in Melbourne's city centre featuring high-density urban forms."</data>
+      <data key="d2">6a2c72cebdc264d637a51d00daaea054</data>
+    </node>
+    <node id="&quot;SOUTHBANK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Southbank is an area in Melbourne's city centre featuring high-density urban forms."</data>
+      <data key="d2">6a2c72cebdc264d637a51d00daaea054</data>
+    </node>
+    <node id="&quot;MELBOURNE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6a2c72cebdc264d637a51d00daaea054</data>
+    </node>
+    <node id="&quot;GHMC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"GHMC (Greater Hyderabad Municipal Corporation) is a municipal corporation responsible for the administration of Hyderabad city."</data>
+      <data key="d2">a5fa1edb4cefb91a950565a1c3eaad80</data>
+    </node>
+    <node id="&quot;HMDA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"HMDA (Hyderabad Metropolitan Development Authority) is an apolitical urban planning agency that coordinates development activities in Hyderabad and its suburbs."</data>
+      <data key="d2">a5fa1edb4cefb91a950565a1c3eaad80</data>
+    </node>
+    <node id="&quot;HMWSSB&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"HMWSSB (Hyderabad Metropolitan Water Supply and Sewerage Board) is a body responsible for water supply and sewerage management in Hyderabad, administered by HMDA."</data>
+      <data key="d2">a5fa1edb4cefb91a950565a1c3eaad80</data>
+    </node>
+    <node id="&quot;HYDERABAD DISTRICT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hyderabad district is an administrative division that includes the city of Hyderabad and its surrounding areas."</data>
+      <data key="d2">a5fa1edb4cefb91a950565a1c3eaad80</data>
+    </node>
+    <node id="&quot;HYDERABAD CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hyderabad city is a urban area within the Hyderabad district, administered by GHMC."</data>
+      <data key="d2">a5fa1edb4cefb91a950565a1c3eaad80</data>
+    </node>
+    <node id="&quot;CHIHUAHUA CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Chihuahua City is a city in Mexico, ranked 16th most populous in the country and has one of the highest literacy rates at 98%."</data>
+      <data key="d2">072f87ebcbd91890dac733ad7bfe3b84</data>
+    </node>
+    <node id="&quot;EL PASO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"El Paso is a city in the United States, part of a large binational metropolitan area with Ciudad Ju&#225;rez."</data>
+      <data key="d2">072f87ebcbd91890dac733ad7bfe3b84</data>
+    </node>
+    <node id="&quot;CHIHUAHUA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Chihuahua is a state in Mexico, with two cities ranked in the top 20 most populated."</data>
+      <data key="d2">072f87ebcbd91890dac733ad7bfe3b84</data>
+    </node>
+    <node id="&quot;FEDERAL RESERVE BANK OF DALLAS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Federal Reserve Bank of Dallas published data on Ciudad Ju&#225;rez's population growth."</data>
+      <data key="d2">072f87ebcbd91890dac733ad7bfe3b84</data>
+    </node>
+    <node id="&quot;CIUDAD JU&#193;REZ&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">072f87ebcbd91890dac733ad7bfe3b84</data>
+    </node>
+    <node id="&quot;BANGLADESH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bangladesh is a country with 12 city corporations and 506 urban centres."</data>
+      <data key="d2">76b745e8b5dd17577fc9c6e319667ae9</data>
+    </node>
+    <node id="&quot;CHITTAGONG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Chittagong is one of the 12 city corporations in Bangladesh, holding mayoral elections."</data>
+      <data key="d2">76b745e8b5dd17577fc9c6e319667ae9</data>
+    </node>
+    <node id="&quot;COMILLA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Comilla is one of the 12 city corporations in Bangladesh, holding mayoral elections."</data>
+      <data key="d2">76b745e8b5dd17577fc9c6e319667ae9</data>
+    </node>
+    <node id="&quot;KHULNA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Khulna is one of the 12 city corporations in Bangladesh, holding mayoral elections."</data>
+      <data key="d2">76b745e8b5dd17577fc9c6e319667ae9</data>
+    </node>
+    <node id="&quot;MYMENSINGH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mymensingh is one of the 12 city corporations in Bangladesh, holding mayoral elections."</data>
+      <data key="d2">76b745e8b5dd17577fc9c6e319667ae9</data>
+    </node>
+    <node id="&quot;SYLHET&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Sylhet is one of the 12 city corporations in Bangladesh, holding mayoral elections."</data>
+      <data key="d2">76b745e8b5dd17577fc9c6e319667ae9</data>
+    </node>
+    <node id="&quot;RAJSHAHI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Rajshahi is one of the 12 city corporations in Bangladesh, holding mayoral elections."</data>
+      <data key="d2">76b745e8b5dd17577fc9c6e319667ae9</data>
+    </node>
+    <node id="&quot;BARISAL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Barisal is one of the 12 city corporations in Bangladesh, holding mayoral elections."</data>
+      <data key="d2">76b745e8b5dd17577fc9c6e319667ae9</data>
+    </node>
+    <node id="&quot;RANGPUR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Rangpur is one of the 12 city corporations in Bangladesh, holding mayoral elections."</data>
+      <data key="d2">76b745e8b5dd17577fc9c6e319667ae9</data>
+    </node>
+    <node id="&quot;GAZIPUR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Gazipur is one of the 12 city corporations in Bangladesh, holding mayoral elections."</data>
+      <data key="d2">76b745e8b5dd17577fc9c6e319667ae9</data>
+    </node>
+    <node id="&quot;NARAYANGANJ&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Narayanganj is one of the 12 city corporations in Bangladesh, holding mayoral elections."</data>
+      <data key="d2">76b745e8b5dd17577fc9c6e319667ae9</data>
+    </node>
+    <node id="&quot;DHAKA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">76b745e8b5dd17577fc9c6e319667ae9</data>
+    </node>
+    <node id="&quot;COSTA RICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Costa Rica is a country in Latin America, with an economy five times smaller than Mexico City's."</data>
+      <data key="d2">61ff7e5eddfb55d3e9cf2a7ad0e5244e</data>
+    </node>
+    <node id="&quot;PERU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Peru is a country in Latin America, with an economy similar in size to Mexico City's."</data>
+      <data key="d2">61ff7e5eddfb55d3e9cf2a7ad0e5244e</data>
+    </node>
+    <node id="&quot;GREATER MEXICO CITY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">61ff7e5eddfb55d3e9cf2a7ad0e5244e</data>
+    </node>
+    <node id="&quot;KORTRIJK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Kortrijk is a city in Belgium and has Bissegem as one of its sub-municipalities."</data>
+      <data key="d2">0333734de4c8bff44338fc11693fe1ed</data>
+    </node>
+    <node id="&quot;BELGIUM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Belgium is a country where Kortrijk and Bissegem are located."</data>
+      <data key="d2">0333734de4c8bff44338fc11693fe1ed</data>
+    </node>
+    <node id="&quot;BISSEGEM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0333734de4c8bff44338fc11693fe1ed</data>
+    </node>
+    <node id="&quot;AUCKLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Auckland is one of the four largest cities in New Zealand and was ranked the world's third most liveable city in 2016."</data>
+      <data key="d2">10db3431a6d4140eadac9a591eba1f87</data>
+    </node>
+    <node id="&quot;CHRISTCHURCH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Christchurch is one of the four largest cities in New Zealand."</data>
+      <data key="d2">10db3431a6d4140eadac9a591eba1f87</data>
+    </node>
+    <node id="&quot;WELLINGTON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Wellington is one of the four largest cities in New Zealand and was ranked the twelfth most liveable city in 2016."</data>
+      <data key="d2">10db3431a6d4140eadac9a591eba1f87</data>
+    </node>
+    <node id="&quot;HAMILTON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hamilton is one of the four largest cities in New Zealand."</data>
+      <data key="d2">10db3431a6d4140eadac9a591eba1f87</data>
+    </node>
+    <node id="&quot;MERCER QUALITY OF LIVING SURVEY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Mercer Quality of Living Survey ranks cities by their livability."</data>
+      <data key="d2">10db3431a6d4140eadac9a591eba1f87</data>
+    </node>
+    <node id="&quot;NEW ZEALAND&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">10db3431a6d4140eadac9a591eba1f87</data>
+    </node>
+    <node id="&quot;CABUYAO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Cabuyao is a geographic location, specifically a city in the province of Laguna, Philippines."</data>
+      <data key="d2">7ce994b0a6fcb4c23e6e31e8dbe70209</data>
+    </node>
+    <node id="&quot;LAGUNA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Laguna is a geographic location, specifically a province in the Philippines."</data>
+      <data key="d2">7ce994b0a6fcb4c23e6e31e8dbe70209</data>
+    </node>
+    <node id="&quot;PHILIPPINES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Philippines is a country where Barangay Pulo and Cabuyao are located."</data>
+      <data key="d2">7ce994b0a6fcb4c23e6e31e8dbe70209</data>
+    </node>
+    <node id="&quot;BARANGAY PULO&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7ce994b0a6fcb4c23e6e31e8dbe70209</data>
+    </node>
+    <node id="&quot;EUROPE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Europe is a continent where London has the largest concentration of higher education institutes."</data>
+      <data key="d2">e0cca2328ad4090a5bac5ca5d4dec774</data>
+    </node>
+    <node id="&quot;SUMMER OLYMPIC GAMES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Summer Olympic Games are a major international sporting event that London hosted three times."</data>
+      <data key="d2">e0cca2328ad4090a5bac5ca5d4dec774</data>
+    </node>
+    <node id="&quot;UNIVERSITIES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The 43 universities in London form the largest concentration of higher education institutes in Europe."</data>
+      <data key="d2">e0cca2328ad4090a5bac5ca5d4dec774</data>
+    </node>
+    <node id="&quot;GREAT LAKES MEGALOPOLIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Great Lakes Megalopolis is a megalopolis in the United States, ranking second in population."</data>
+      <data key="d2">8244806fd00c10a492946d6dbb1901d6</data>
+    </node>
+    <node id="&quot;NORTHEASTERN MEGALOPOLIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Northeastern megalopolis is a megalopolis in the United States, ranking first in population."</data>
+      <data key="d2">8244806fd00c10a492946d6dbb1901d6</data>
+    </node>
+    <node id="&quot;ORANGE COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Orange County is a dominant area in Southern California, serving as the center of its respective metropolitan area."</data>
+      <data key="d2">8244806fd00c10a492946d6dbb1901d6</data>
+    </node>
+    <node id="&quot;RIVERSIDE-SAN BERNARDINO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Riverside-San Bernardino is a dominant area in Southern California, serving as the center of its respective metropolitan area."</data>
+      <data key="d2">8244806fd00c10a492946d6dbb1901d6</data>
+    </node>
+    <node id="&quot;SAN DIEGO&#8211;TIJUANA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The San Diego&#8211;Tijuana international metropolitan region was created by the urban area spilling over into Baja California."</data>
+      <data key="d2">8244806fd00c10a492946d6dbb1901d6</data>
+    </node>
+    <node id="&quot;SOUTHERN CALIFORNIA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8244806fd00c10a492946d6dbb1901d6</data>
+    </node>
+    <node id="&quot;TIJUANA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8244806fd00c10a492946d6dbb1901d6</data>
+    </node>
+    <node id="&quot;LOS ANGELES METROPOLITAN AREA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Los Angeles metropolitan area is one of the largest urban areas in California, larger than the San Diego metropolitan area."</data>
+      <data key="d2">0f1bea8e6070909ba2eebed3f545ae64</data>
+    </node>
+    <node id="&quot;SAN FRANCISCO METROPOLITAN AREA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The San Francisco metropolitan area is one of the largest urban areas in California, larger than the San Diego metropolitan area."</data>
+      <data key="d2">0f1bea8e6070909ba2eebed3f545ae64</data>
+    </node>
+    <node id="&quot;RIVERSIDE&#8211;SAN BERNARDINO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Riverside&#8211;San Bernardino forms a metropolitan area in California, larger than the San Diego metropolitan area."</data>
+      <data key="d2">0f1bea8e6070909ba2eebed3f545ae64</data>
+    </node>
+    <node id="&quot;DREAMWORKS RECORDS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"DreamWorks Records is the record label that released Papa Roach's album Infest on April 25, 2000."</data>
+      <data key="d2">21da7a051bfdef63b2cdb21fc3e17a8c</data>
+    </node>
+    <node id="&quot;INFEST&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Infest is the second studio album by Papa Roach, released on April 25, 2000, which became a major commercial success."</data>
+      <data key="d2">21da7a051bfdef63b2cdb21fc3e17a8c</data>
+    </node>
+    <edge source="&quot;NORTH CHARLESTON&quot;" target="&quot;CHARLESTON-NORTH CHARLESTON-SUMMERVILLE METROPOLITAN STATISTICAL AREA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Charleston-North Charleston-Summerville Metropolitan Statistical Area includes North Charleston as its second-largest city."</data>
+      <data key="d5">27538feb98a541240d3a540eefe8458b</data>
+    </edge>
+    <edge source="&quot;MOUNT PLEASANT&quot;" target="&quot;CHARLESTON-NORTH CHARLESTON-SUMMERVILLE METROPOLITAN STATISTICAL AREA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Charleston-North Charleston-Summerville Metropolitan Statistical Area includes Mount Pleasant as one of its next-largest cities."</data>
+      <data key="d5">27538feb98a541240d3a540eefe8458b</data>
+    </edge>
+    <edge source="&quot;SUMMERVILLE&quot;" target="&quot;CHARLESTON-NORTH CHARLESTON-SUMMERVILLE METROPOLITAN STATISTICAL AREA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Charleston-North Charleston-Summerville Metropolitan Statistical Area includes Summerville as one of its next-largest cities."</data>
+      <data key="d5">27538feb98a541240d3a540eefe8458b</data>
+    </edge>
+    <edge source="&quot;BERKELEY COUNTY&quot;" target="&quot;MONCKS CORNER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Berkeley County contains the smaller urban area of Moncks Corner."</data>
+      <data key="d5">27538feb98a541240d3a540eefe8458b</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">0333734de4c8bff44338fc11693fe1ed,072f87ebcbd91890dac733ad7bfe3b84,0f1bea8e6070909ba2eebed3f545ae64,10db3431a6d4140eadac9a591eba1f87,21da7a051bfdef63b2cdb21fc3e17a8c,27538feb98a541240d3a540eefe8458b,3f6a841ea71db5a145a532348c67e824,61ff7e5eddfb55d3e9cf2a7ad0e5244e,6a2c72cebdc264d637a51d00daaea054,76b745e8b5dd17577fc9c6e319667ae9,7ce994b0a6fcb4c23e6e31e8dbe70209,8244806fd00c10a492946d6dbb1901d6,82c739d3deb45c3c686b8f47753e4ad1,a5fa1edb4cefb91a950565a1c3eaad80,b66af27a96217b37339536e65c41ada9,c29176e9d12c6b4b69283376a4b45545,cd4929d3b205f6fcf8337d5a7e5d711c,d01a1a47081277e751f69bbafc9a9375,e0cca2328ad4090a5bac5ca5d4dec774,ec420356156bd4a48da7806d5e30ed55</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">0333734de4c8bff44338fc11693fe1ed,072f87ebcbd91890dac733ad7bfe3b84,0f1bea8e6070909ba2eebed3f545ae64,10db3431a6d4140eadac9a591eba1f87,21da7a051bfdef63b2cdb21fc3e17a8c,27538feb98a541240d3a540eefe8458b,3f6a841ea71db5a145a532348c67e824,61ff7e5eddfb55d3e9cf2a7ad0e5244e,6a2c72cebdc264d637a51d00daaea054,76b745e8b5dd17577fc9c6e319667ae9,7ce994b0a6fcb4c23e6e31e8dbe70209,8244806fd00c10a492946d6dbb1901d6,82c739d3deb45c3c686b8f47753e4ad1,a5fa1edb4cefb91a950565a1c3eaad80,b66af27a96217b37339536e65c41ada9,c29176e9d12c6b4b69283376a4b45545,cd4929d3b205f6fcf8337d5a7e5d711c,d01a1a47081277e751f69bbafc9a9375,e0cca2328ad4090a5bac5ca5d4dec774,ec420356156bd4a48da7806d5e30ed55</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">0333734de4c8bff44338fc11693fe1ed,072f87ebcbd91890dac733ad7bfe3b84,0f1bea8e6070909ba2eebed3f545ae64,10db3431a6d4140eadac9a591eba1f87,21da7a051bfdef63b2cdb21fc3e17a8c,27538feb98a541240d3a540eefe8458b,3f6a841ea71db5a145a532348c67e824,61ff7e5eddfb55d3e9cf2a7ad0e5244e,6a2c72cebdc264d637a51d00daaea054,76b745e8b5dd17577fc9c6e319667ae9,7ce994b0a6fcb4c23e6e31e8dbe70209,8244806fd00c10a492946d6dbb1901d6,82c739d3deb45c3c686b8f47753e4ad1,a5fa1edb4cefb91a950565a1c3eaad80,b66af27a96217b37339536e65c41ada9,c29176e9d12c6b4b69283376a4b45545,cd4929d3b205f6fcf8337d5a7e5d711c,d01a1a47081277e751f69bbafc9a9375,e0cca2328ad4090a5bac5ca5d4dec774,ec420356156bd4a48da7806d5e30ed55</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">0333734de4c8bff44338fc11693fe1ed,072f87ebcbd91890dac733ad7bfe3b84,0f1bea8e6070909ba2eebed3f545ae64,10db3431a6d4140eadac9a591eba1f87,21da7a051bfdef63b2cdb21fc3e17a8c,27538feb98a541240d3a540eefe8458b,3f6a841ea71db5a145a532348c67e824,61ff7e5eddfb55d3e9cf2a7ad0e5244e,6a2c72cebdc264d637a51d00daaea054,76b745e8b5dd17577fc9c6e319667ae9,7ce994b0a6fcb4c23e6e31e8dbe70209,8244806fd00c10a492946d6dbb1901d6,82c739d3deb45c3c686b8f47753e4ad1,a5fa1edb4cefb91a950565a1c3eaad80,b66af27a96217b37339536e65c41ada9,c29176e9d12c6b4b69283376a4b45545,cd4929d3b205f6fcf8337d5a7e5d711c,d01a1a47081277e751f69bbafc9a9375,e0cca2328ad4090a5bac5ca5d4dec774,ec420356156bd4a48da7806d5e30ed55</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">0333734de4c8bff44338fc11693fe1ed,072f87ebcbd91890dac733ad7bfe3b84,0f1bea8e6070909ba2eebed3f545ae64,10db3431a6d4140eadac9a591eba1f87,21da7a051bfdef63b2cdb21fc3e17a8c,27538feb98a541240d3a540eefe8458b,3f6a841ea71db5a145a532348c67e824,61ff7e5eddfb55d3e9cf2a7ad0e5244e,6a2c72cebdc264d637a51d00daaea054,76b745e8b5dd17577fc9c6e319667ae9,7ce994b0a6fcb4c23e6e31e8dbe70209,8244806fd00c10a492946d6dbb1901d6,82c739d3deb45c3c686b8f47753e4ad1,a5fa1edb4cefb91a950565a1c3eaad80,b66af27a96217b37339536e65c41ada9,c29176e9d12c6b4b69283376a4b45545,cd4929d3b205f6fcf8337d5a7e5d711c,d01a1a47081277e751f69bbafc9a9375,e0cca2328ad4090a5bac5ca5d4dec774,ec420356156bd4a48da7806d5e30ed55</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">0333734de4c8bff44338fc11693fe1ed,072f87ebcbd91890dac733ad7bfe3b84,0f1bea8e6070909ba2eebed3f545ae64,10db3431a6d4140eadac9a591eba1f87,21da7a051bfdef63b2cdb21fc3e17a8c,27538feb98a541240d3a540eefe8458b,3f6a841ea71db5a145a532348c67e824,61ff7e5eddfb55d3e9cf2a7ad0e5244e,6a2c72cebdc264d637a51d00daaea054,76b745e8b5dd17577fc9c6e319667ae9,7ce994b0a6fcb4c23e6e31e8dbe70209,8244806fd00c10a492946d6dbb1901d6,82c739d3deb45c3c686b8f47753e4ad1,a5fa1edb4cefb91a950565a1c3eaad80,b66af27a96217b37339536e65c41ada9,c29176e9d12c6b4b69283376a4b45545,cd4929d3b205f6fcf8337d5a7e5d711c,d01a1a47081277e751f69bbafc9a9375,e0cca2328ad4090a5bac5ca5d4dec774,ec420356156bd4a48da7806d5e30ed55</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;INFEST&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Infest was the 20th highest-selling album of 2000 in the United States."</data>
+      <data key="d5">21da7a051bfdef63b2cdb21fc3e17a8c</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">0333734de4c8bff44338fc11693fe1ed,072f87ebcbd91890dac733ad7bfe3b84,0f1bea8e6070909ba2eebed3f545ae64,10db3431a6d4140eadac9a591eba1f87,21da7a051bfdef63b2cdb21fc3e17a8c,27538feb98a541240d3a540eefe8458b,3f6a841ea71db5a145a532348c67e824,61ff7e5eddfb55d3e9cf2a7ad0e5244e,6a2c72cebdc264d637a51d00daaea054,76b745e8b5dd17577fc9c6e319667ae9,7ce994b0a6fcb4c23e6e31e8dbe70209,8244806fd00c10a492946d6dbb1901d6,82c739d3deb45c3c686b8f47753e4ad1,a5fa1edb4cefb91a950565a1c3eaad80,b66af27a96217b37339536e65c41ada9,c29176e9d12c6b4b69283376a4b45545,cd4929d3b205f6fcf8337d5a7e5d711c,d01a1a47081277e751f69bbafc9a9375,e0cca2328ad4090a5bac5ca5d4dec774,ec420356156bd4a48da7806d5e30ed55</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">0333734de4c8bff44338fc11693fe1ed,072f87ebcbd91890dac733ad7bfe3b84,0f1bea8e6070909ba2eebed3f545ae64,10db3431a6d4140eadac9a591eba1f87,21da7a051bfdef63b2cdb21fc3e17a8c,27538feb98a541240d3a540eefe8458b,3f6a841ea71db5a145a532348c67e824,61ff7e5eddfb55d3e9cf2a7ad0e5244e,6a2c72cebdc264d637a51d00daaea054,76b745e8b5dd17577fc9c6e319667ae9,7ce994b0a6fcb4c23e6e31e8dbe70209,8244806fd00c10a492946d6dbb1901d6,82c739d3deb45c3c686b8f47753e4ad1,a5fa1edb4cefb91a950565a1c3eaad80,b66af27a96217b37339536e65c41ada9,c29176e9d12c6b4b69283376a4b45545,cd4929d3b205f6fcf8337d5a7e5d711c,d01a1a47081277e751f69bbafc9a9375,e0cca2328ad4090a5bac5ca5d4dec774,ec420356156bd4a48da7806d5e30ed55</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">0333734de4c8bff44338fc11693fe1ed,072f87ebcbd91890dac733ad7bfe3b84,0f1bea8e6070909ba2eebed3f545ae64,10db3431a6d4140eadac9a591eba1f87,21da7a051bfdef63b2cdb21fc3e17a8c,27538feb98a541240d3a540eefe8458b,3f6a841ea71db5a145a532348c67e824,61ff7e5eddfb55d3e9cf2a7ad0e5244e,6a2c72cebdc264d637a51d00daaea054,76b745e8b5dd17577fc9c6e319667ae9,7ce994b0a6fcb4c23e6e31e8dbe70209,8244806fd00c10a492946d6dbb1901d6,82c739d3deb45c3c686b8f47753e4ad1,a5fa1edb4cefb91a950565a1c3eaad80,b66af27a96217b37339536e65c41ada9,c29176e9d12c6b4b69283376a4b45545,cd4929d3b205f6fcf8337d5a7e5d711c,d01a1a47081277e751f69bbafc9a9375,e0cca2328ad4090a5bac5ca5d4dec774,ec420356156bd4a48da7806d5e30ed55</data>
+    </edge>
+    <edge source="&quot;MEXICO&quot;" target="&quot;GREATER MEXICO CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Greater Mexico City is part of Mexico and contributes significantly to the country's economy."</data>
+      <data key="d5">61ff7e5eddfb55d3e9cf2a7ad0e5244e</data>
+    </edge>
+    <edge source="&quot;JACOBY SHADDIX&quot;" target="&quot;PAPA ROACH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jacoby Shaddix is a member of Papa Roach."</data>
+      <data key="d5">c29176e9d12c6b4b69283376a4b45545</data>
+    </edge>
+    <edge source="&quot;JERRY HORTON&quot;" target="&quot;PAPA ROACH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jerry Horton is a member of Papa Roach."</data>
+      <data key="d5">c29176e9d12c6b4b69283376a4b45545</data>
+    </edge>
+    <edge source="&quot;DAVE BUCKNER&quot;" target="&quot;PAPA ROACH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dave Buckner is a member of Papa Roach."</data>
+      <data key="d5">c29176e9d12c6b4b69283376a4b45545</data>
+    </edge>
+    <edge source="&quot;WILL JAMES&quot;" target="&quot;PAPA ROACH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Will James is a member of Papa Roach."</data>
+      <data key="d5">c29176e9d12c6b4b69283376a4b45545</data>
+    </edge>
+    <edge source="&quot;BEN LUTHER&quot;" target="&quot;PAPA ROACH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ben Luther is a member of Papa Roach."</data>
+      <data key="d5">c29176e9d12c6b4b69283376a4b45545</data>
+    </edge>
+    <edge source="&quot;VACAVILLE, CALIFORNIA&quot;" target="&quot;PAPA ROACH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Papa Roach originated from Vacaville, California."</data>
+      <data key="d5">c29176e9d12c6b4b69283376a4b45545</data>
+    </edge>
+    <edge source="&quot;PAPA ROACH&quot;" target="&quot;DREAMWORKS RECORDS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Papa Roach's album Infest was released through DreamWorks Records."</data>
+      <data key="d5">21da7a051bfdef63b2cdb21fc3e17a8c</data>
+    </edge>
+    <edge source="&quot;PAPA ROACH&quot;" target="&quot;INFEST&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Papa Roach released the studio album Infest, which earned them a Grammy nomination for Best New Artist."</data>
+      <data key="d5">21da7a051bfdef63b2cdb21fc3e17a8c</data>
+    </edge>
+    <edge source="&quot;NEW YORK CITY&quot;" target="&quot;PARKSCORE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"New York City's park system is ranked second best in the ParkScore ranking."</data>
+      <data key="d5">b66af27a96217b37339536e65c41ada9</data>
+    </edge>
+    <edge source="&quot;NEW YORK CITY&quot;" target="&quot;MEXICO CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mexico City's GDP is compared to that of New York City, a metropolitan area with a higher GDP."</data>
+      <data key="d5">82c739d3deb45c3c686b8f47753e4ad1</data>
+    </edge>
+    <edge source="&quot;MINNEAPOLIS&quot;" target="&quot;PARKSCORE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Minneapolis has the top-ranked park system according to ParkScore."</data>
+      <data key="d5">b66af27a96217b37339536e65c41ada9</data>
+    </edge>
+    <edge source="&quot;MINNEAPOLIS&quot;" target="&quot;SAINT PAUL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Saint Paul and Minneapolis form the Twin Cities, a metropolitan area with about 3.6 million residents."</data>
+      <data key="d5">d01a1a47081277e751f69bbafc9a9375</data>
+    </edge>
+    <edge source="&quot;PARKSCORE&quot;" target="&quot;THE TRUST FOR PUBLIC LAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Trust for Public Land reports on ParkScore rankings."</data>
+      <data key="d5">b66af27a96217b37339536e65c41ada9</data>
+    </edge>
+    <edge source="&quot;GALLATIN COUNTY&quot;" target="&quot;BOZEMAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bozeman is located in Gallatin County, Montana."</data>
+      <data key="d5">ec420356156bd4a48da7806d5e30ed55</data>
+    </edge>
+    <edge source="&quot;JOHN M. BOZEMAN&quot;" target="&quot;BOZEMAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"John M. Bozeman founded the city of Bozeman and established the Bozeman Trail."</data>
+      <data key="d5">ec420356156bd4a48da7806d5e30ed55</data>
+    </edge>
+    <edge source="&quot;MONTANA STATE UNIVERSITY&quot;" target="&quot;BOZEMAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Montana State University is located in Bozeman, Montana."</data>
+      <data key="d5">ec420356156bd4a48da7806d5e30ed55</data>
+    </edge>
+    <edge source="&quot;NATIONAL CIVIC LEAGUE&quot;" target="&quot;BOZEMAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The National Civic League elected Bozeman as an All-America City in 2001."</data>
+      <data key="d5">ec420356156bd4a48da7806d5e30ed55</data>
+    </edge>
+    <edge source="&quot;TENNESSEE RIVER&quot;" target="&quot;RIDGE AND VALLEY REGION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Ridge and Valley region is where the Tennessee River is formed."</data>
+      <data key="d5">cd4929d3b205f6fcf8337d5a7e5d711c</data>
+    </edge>
+    <edge source="&quot;GREAT VALLEY&quot;" target="&quot;KNOXVILLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Knoxville is located in the Great Valley."</data>
+      <data key="d5">cd4929d3b205f6fcf8337d5a7e5d711c</data>
+    </edge>
+    <edge source="&quot;GREAT VALLEY&quot;" target="&quot;CHATTANOOGA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chattanooga is located in the Great Valley."</data>
+      <data key="d5">cd4929d3b205f6fcf8337d5a7e5d711c</data>
+    </edge>
+    <edge source="&quot;TRI-CITIES&quot;" target="&quot;BRISTOL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bristol is part of the Tri-Cities urban area."</data>
+      <data key="d5">cd4929d3b205f6fcf8337d5a7e5d711c</data>
+    </edge>
+    <edge source="&quot;TRI-CITIES&quot;" target="&quot;JOHNSON CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Johnson City is part of the Tri-Cities urban area."</data>
+      <data key="d5">cd4929d3b205f6fcf8337d5a7e5d711c</data>
+    </edge>
+    <edge source="&quot;TRI-CITIES&quot;" target="&quot;KINGSPORT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Kingsport is part of the Tri-Cities urban area."</data>
+      <data key="d5">cd4929d3b205f6fcf8337d5a7e5d711c</data>
+    </edge>
+    <edge source="&quot;RAMSEY COUNTY&quot;" target="&quot;SAINT PAUL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Saint Paul is the county seat of Ramsey County."</data>
+      <data key="d5">d01a1a47081277e751f69bbafc9a9375</data>
+    </edge>
+    <edge source="&quot;MISSISSIPPI RIVER&quot;" target="&quot;MINNESOTA RIVER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Minnesota River converges with the Mississippi River near Saint Paul."</data>
+      <data key="d5">d01a1a47081277e751f69bbafc9a9375</data>
+    </edge>
+    <edge source="&quot;SAN DIEGO&quot;" target="&quot;TAMARA LEITNER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tamara Leitner was born in San Diego, California."</data>
+      <data key="d5">3f6a841ea71db5a145a532348c67e824</data>
+    </edge>
+    <edge source="&quot;SAN DIEGO&quot;" target="&quot;SOUTHERN CALIFORNIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"San Diego is a part of Southern California, serving as one of its dominant areas and part of an international metropolitan region with Tijuana."</data>
+      <data key="d5">8244806fd00c10a492946d6dbb1901d6</data>
+    </edge>
+    <edge source="&quot;SAN DIEGO&quot;" target="&quot;TIJUANA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"San Diego and Tijuana form an international metropolitan region."</data>
+      <data key="d5">8244806fd00c10a492946d6dbb1901d6</data>
+    </edge>
+    <edge source="&quot;SAN DIEGO&quot;" target="&quot;LOS ANGELES METROPOLITAN AREA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"San Diego is compared to the Los Angeles metropolitan area in terms of population size."</data>
+      <data key="d5">0f1bea8e6070909ba2eebed3f545ae64</data>
+    </edge>
+    <edge source="&quot;SAN DIEGO&quot;" target="&quot;SAN FRANCISCO METROPOLITAN AREA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"San Diego is compared to the San Francisco metropolitan area in terms of population size."</data>
+      <data key="d5">0f1bea8e6070909ba2eebed3f545ae64</data>
+    </edge>
+    <edge source="&quot;SAN DIEGO&quot;" target="&quot;RIVERSIDE&#8211;SAN BERNARDINO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Riverside&#8211;San Bernardino is larger than the San Diego metropolitan area in terms of population."</data>
+      <data key="d5">0f1bea8e6070909ba2eebed3f545ae64</data>
+    </edge>
+    <edge source="&quot;PWC&quot;" target="&quot;MEXICO CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mexico City's GDP was studied by PwC, which ranked it as the eighth richest city in the world."</data>
+      <data key="d5">82c739d3deb45c3c686b8f47753e4ad1</data>
+    </edge>
+    <edge source="&quot;TOKYO&quot;" target="&quot;MEXICO CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mexico City's GDP is compared to that of Tokyo, a metropolitan area with a higher GDP."</data>
+      <data key="d5">82c739d3deb45c3c686b8f47753e4ad1</data>
+    </edge>
+    <edge source="&quot;LOS ANGELES&quot;" target="&quot;MEXICO CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mexico City's GDP is compared to that of Los Angeles, a metropolitan area with a higher GDP."</data>
+      <data key="d5">82c739d3deb45c3c686b8f47753e4ad1</data>
+    </edge>
+    <edge source="&quot;LOS ANGELES&quot;" target="&quot;SOUTHERN CALIFORNIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Los Angeles is a part of Southern California, serving as one of its dominant areas."</data>
+      <data key="d5">8244806fd00c10a492946d6dbb1901d6</data>
+    </edge>
+    <edge source="&quot;CHICAGO&quot;" target="&quot;MEXICO CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mexico City's GDP is compared to that of Chicago, a metropolitan area with a higher GDP."</data>
+      <data key="d5">82c739d3deb45c3c686b8f47753e4ad1</data>
+    </edge>
+    <edge source="&quot;PARIS&quot;" target="&quot;MEXICO CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mexico City's GDP is compared to that of Paris, a metropolitan area with a higher GDP."</data>
+      <data key="d5">82c739d3deb45c3c686b8f47753e4ad1</data>
+    </edge>
+    <edge source="&quot;LONDON&quot;" target="&quot;MEXICO CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mexico City's GDP is compared to that of London, a metropolitan area with a higher GDP."</data>
+      <data key="d5">82c739d3deb45c3c686b8f47753e4ad1</data>
+    </edge>
+    <edge source="&quot;LONDON&quot;" target="&quot;EUROPE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"London is located in Europe and has the largest concentration of higher education institutes on the continent."</data>
+      <data key="d5">e0cca2328ad4090a5bac5ca5d4dec774</data>
+    </edge>
+    <edge source="&quot;LONDON&quot;" target="&quot;SUMMER OLYMPIC GAMES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"London is the first city to host the modern Summer Olympic Games three times."</data>
+      <data key="d5">e0cca2328ad4090a5bac5ca5d4dec774</data>
+    </edge>
+    <edge source="&quot;LONDON&quot;" target="&quot;UNIVERSITIES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"London is home to 43 universities, forming the largest concentration of higher education institutes in Europe."</data>
+      <data key="d5">e0cca2328ad4090a5bac5ca5d4dec774</data>
+    </edge>
+    <edge source="&quot;OSAKA/KOBE&quot;" target="&quot;MEXICO CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mexico City's GDP is compared to that of Osaka/Kobe, a metropolitan area with a higher GDP."</data>
+      <data key="d5">82c739d3deb45c3c686b8f47753e4ad1</data>
+    </edge>
+    <edge source="&quot;MEXICO CITY&quot;" target="&quot;COSTA RICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mexico City's economy is five times larger than Costa Rica's."</data>
+      <data key="d5">61ff7e5eddfb55d3e9cf2a7ad0e5244e</data>
+    </edge>
+    <edge source="&quot;MEXICO CITY&quot;" target="&quot;PERU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mexico City's economy is similar in size to Peru's."</data>
+      <data key="d5">61ff7e5eddfb55d3e9cf2a7ad0e5244e</data>
+    </edge>
+    <edge source="&quot;AUSTRALIAN DREAM&quot;" target="&quot;MELBOURNE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Australian Dream has influenced the development of Melbourne, shaping its urban structure."</data>
+      <data key="d5">6a2c72cebdc264d637a51d00daaea054</data>
+    </edge>
+    <edge source="&quot;DOCKLANDS&quot;" target="&quot;MELBOURNE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Docklands is a part of Melbourne's city centre, featuring high-density urban forms."</data>
+      <data key="d5">6a2c72cebdc264d637a51d00daaea054</data>
+    </edge>
+    <edge source="&quot;ST. KILDA ROAD&quot;" target="&quot;MELBOURNE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"St. Kilda Road is a location in Melbourne's city centre, featuring high-density urban forms."</data>
+      <data key="d5">6a2c72cebdc264d637a51d00daaea054</data>
+    </edge>
+    <edge source="&quot;SOUTHBANK&quot;" target="&quot;MELBOURNE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Southbank is an area in Melbourne's city centre, featuring high-density urban forms."</data>
+      <data key="d5">6a2c72cebdc264d637a51d00daaea054</data>
+    </edge>
+    <edge source="&quot;GHMC&quot;" target="&quot;HMDA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"HMDA coordinates the development activities of GHMC and suburban municipalities."</data>
+      <data key="d5">a5fa1edb4cefb91a950565a1c3eaad80</data>
+    </edge>
+    <edge source="&quot;GHMC&quot;" target="&quot;HYDERABAD CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hyderabad city is administered by GHMC."</data>
+      <data key="d5">a5fa1edb4cefb91a950565a1c3eaad80</data>
+    </edge>
+    <edge source="&quot;HMDA&quot;" target="&quot;HMWSSB&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"HMDA administers HMWSSB, which is responsible for water supply and sewerage management in Hyderabad."</data>
+      <data key="d5">a5fa1edb4cefb91a950565a1c3eaad80</data>
+    </edge>
+    <edge source="&quot;CHIHUAHUA CITY&quot;" target="&quot;CHIHUAHUA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chihuahua City is the capital city of the state of Chihuahua."</data>
+      <data key="d5">072f87ebcbd91890dac733ad7bfe3b84</data>
+    </edge>
+    <edge source="&quot;EL PASO&quot;" target="&quot;CIUDAD JU&#193;REZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"El Paso and Ciudad Ju&#225;rez comprise one of the largest binational metropolitan areas in the world."</data>
+      <data key="d5">072f87ebcbd91890dac733ad7bfe3b84</data>
+    </edge>
+    <edge source="&quot;CHIHUAHUA&quot;" target="&quot;CIUDAD JU&#193;REZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ciudad Ju&#225;rez is a city located in the state of Chihuahua."</data>
+      <data key="d5">072f87ebcbd91890dac733ad7bfe3b84</data>
+    </edge>
+    <edge source="&quot;FEDERAL RESERVE BANK OF DALLAS&quot;" target="&quot;CIUDAD JU&#193;REZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Federal Reserve Bank of Dallas published data on Ciudad Ju&#225;rez's population growth."</data>
+      <data key="d5">072f87ebcbd91890dac733ad7bfe3b84</data>
+    </edge>
+    <edge source="&quot;BANGLADESH&quot;" target="&quot;DHAKA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dhaka is the capital and largest city of Bangladesh."</data>
+      <data key="d5">76b745e8b5dd17577fc9c6e319667ae9</data>
+    </edge>
+    <edge source="&quot;BANGLADESH&quot;" target="&quot;CHITTAGONG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chittagong is one of the 12 city corporations in Bangladesh."</data>
+      <data key="d5">76b745e8b5dd17577fc9c6e319667ae9</data>
+    </edge>
+    <edge source="&quot;BANGLADESH&quot;" target="&quot;COMILLA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Comilla is one of the 12 city corporations in Bangladesh."</data>
+      <data key="d5">76b745e8b5dd17577fc9c6e319667ae9</data>
+    </edge>
+    <edge source="&quot;BANGLADESH&quot;" target="&quot;KHULNA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Khulna is one of the 12 city corporations in Bangladesh."</data>
+      <data key="d5">76b745e8b5dd17577fc9c6e319667ae9</data>
+    </edge>
+    <edge source="&quot;BANGLADESH&quot;" target="&quot;MYMENSINGH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mymensingh is one of the 12 city corporations in Bangladesh."</data>
+      <data key="d5">76b745e8b5dd17577fc9c6e319667ae9</data>
+    </edge>
+    <edge source="&quot;BANGLADESH&quot;" target="&quot;SYLHET&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sylhet is one of the 12 city corporations in Bangladesh."</data>
+      <data key="d5">76b745e8b5dd17577fc9c6e319667ae9</data>
+    </edge>
+    <edge source="&quot;BANGLADESH&quot;" target="&quot;RAJSHAHI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Rajshahi is one of the 12 city corporations in Bangladesh."</data>
+      <data key="d5">76b745e8b5dd17577fc9c6e319667ae9</data>
+    </edge>
+    <edge source="&quot;BANGLADESH&quot;" target="&quot;BARISAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Barisal is one of the 12 city corporations in Bangladesh."</data>
+      <data key="d5">76b745e8b5dd17577fc9c6e319667ae9</data>
+    </edge>
+    <edge source="&quot;BANGLADESH&quot;" target="&quot;RANGPUR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Rangpur is one of the 12 city corporations in Bangladesh."</data>
+      <data key="d5">76b745e8b5dd17577fc9c6e319667ae9</data>
+    </edge>
+    <edge source="&quot;BANGLADESH&quot;" target="&quot;GAZIPUR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gazipur is one of the 12 city corporations in Bangladesh."</data>
+      <data key="d5">76b745e8b5dd17577fc9c6e319667ae9</data>
+    </edge>
+    <edge source="&quot;BANGLADESH&quot;" target="&quot;NARAYANGANJ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Narayanganj is one of the 12 city corporations in Bangladesh."</data>
+      <data key="d5">76b745e8b5dd17577fc9c6e319667ae9</data>
+    </edge>
+    <edge source="&quot;KORTRIJK&quot;" target="&quot;BISSEGEM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bissegem is a sub-municipality of Kortrijk."</data>
+      <data key="d5">0333734de4c8bff44338fc11693fe1ed</data>
+    </edge>
+    <edge source="&quot;KORTRIJK&quot;" target="&quot;BELGIUM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Kortrijk is a city in Belgium."</data>
+      <data key="d5">0333734de4c8bff44338fc11693fe1ed</data>
+    </edge>
+    <edge source="&quot;BELGIUM&quot;" target="&quot;BISSEGEM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bissegem is located in Belgium."</data>
+      <data key="d5">0333734de4c8bff44338fc11693fe1ed</data>
+    </edge>
+    <edge source="&quot;AUCKLAND&quot;" target="&quot;NEW ZEALAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Auckland is a city located in New Zealand."</data>
+      <data key="d5">10db3431a6d4140eadac9a591eba1f87</data>
+    </edge>
+    <edge source="&quot;CHRISTCHURCH&quot;" target="&quot;NEW ZEALAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Christchurch is a city located in New Zealand."</data>
+      <data key="d5">10db3431a6d4140eadac9a591eba1f87</data>
+    </edge>
+    <edge source="&quot;WELLINGTON&quot;" target="&quot;NEW ZEALAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Wellington is the capital city of New Zealand."</data>
+      <data key="d5">10db3431a6d4140eadac9a591eba1f87</data>
+    </edge>
+    <edge source="&quot;HAMILTON&quot;" target="&quot;NEW ZEALAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hamilton is a city located in New Zealand."</data>
+      <data key="d5">10db3431a6d4140eadac9a591eba1f87</data>
+    </edge>
+    <edge source="&quot;CABUYAO&quot;" target="&quot;BARANGAY PULO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Barangay Pulo is part of the city of Cabuyao."</data>
+      <data key="d5">7ce994b0a6fcb4c23e6e31e8dbe70209</data>
+    </edge>
+    <edge source="&quot;CABUYAO&quot;" target="&quot;LAGUNA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cabuyao is a city located in the province of Laguna."</data>
+      <data key="d5">7ce994b0a6fcb4c23e6e31e8dbe70209</data>
+    </edge>
+    <edge source="&quot;LAGUNA&quot;" target="&quot;PHILIPPINES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Laguna is a province in the Philippines."</data>
+      <data key="d5">7ce994b0a6fcb4c23e6e31e8dbe70209</data>
+    </edge>
+    <edge source="&quot;ORANGE COUNTY&quot;" target="&quot;SOUTHERN CALIFORNIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Orange County is a part of Southern California, serving as one of its dominant areas."</data>
+      <data key="d5">8244806fd00c10a492946d6dbb1901d6</data>
+    </edge>
+    <edge source="&quot;RIVERSIDE-SAN BERNARDINO&quot;" target="&quot;SOUTHERN CALIFORNIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Riverside-San Bernardino is a part of Southern California, serving as one of its dominant areas."</data>
+      <data key="d5">8244806fd00c10a492946d6dbb1901d6</data>
+    </edge>
+  </graph>
+</graphml>

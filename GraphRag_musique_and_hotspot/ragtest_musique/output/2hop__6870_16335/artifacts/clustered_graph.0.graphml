@@ -1,0 +1,1874 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="level" attr.type="long" />
+  <key id="d6" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d5" for="node" attr.name="id" attr.type="string" />
+  <key id="d4" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d3" for="node" attr.name="degree" attr.type="long" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;HALAKHA&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Halakha refers to Jewish religious law that is followed by Orthodox Jews."</data>
+      <data key="d2">fdada6b4f65415b5d693ffff45b06412</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;ORTHODOX JEWS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Orthodox Jews are a group of religious Jews who follow the customs and interpretations of their ancestors."</data>
+      <data key="d2">fdada6b4f65415b5d693ffff45b06412</data>
+      <data key="d3">2</data>
+      <data key="d4">1</data>
+      <data key="d5">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;ASHKENAZIC&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ashkenazic refers to a geographic area or ancestry, as well as a body of customs binding on Jews of that ancestry."</data>
+      <data key="d2">fdada6b4f65415b5d693ffff45b06412</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;REFORM JUDAISM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Reform Judaism is a branch of Judaism that originated among Ashkenazi Jews and does not necessarily follow minhagim."</data>
+      <data key="d2">fdada6b4f65415b5d693ffff45b06412</data>
+      <data key="d3">1</data>
+      <data key="d4">3</data>
+      <data key="d5">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;MINHAGIM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fdada6b4f65415b5d693ffff45b06412</data>
+      <data key="d3">1</data>
+      <data key="d4">4</data>
+      <data key="d5">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">0283c34732a0698a71f0568da34fdb10,13086d74c36669cbbd88ba65db039f82,241b38468271979fc1ce36036727d718,3375980b55a073ae2883bbd7fb441688,3461bc8c5d8d2fddab29f35e5bdbc7f1,536653e3f10041bb7c732fbe2c5a3fca,5589d4abf722c40151f8478bbb534997,5adcbf099161a75788633957ecb25ad6,5c41eb69a5ce85247024fcb1c194aabf,71f43b1a5f2946696cf8e7c4bfe650d3,7ce11a40d96d53fc38103db050232857,9618f4cf35e82a9dafbd04b3cf255318,9bb05597c4d4d5e1407af849be521a78,a118f585b9763b83cf3b4ad0e2221e79,b68f860e3a4f77972ab554551a96feff,bee5248588f3ef1fb2ba9266d092a32a,bf32ba0d6b5f475ff76074895cc8a04c,f30d4fbd504d6d5d1a48a0ddd40e0bf2,fdada6b4f65415b5d693ffff45b06412,fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">5</data>
+      <data key="d5">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">0283c34732a0698a71f0568da34fdb10,13086d74c36669cbbd88ba65db039f82,241b38468271979fc1ce36036727d718,3375980b55a073ae2883bbd7fb441688,3461bc8c5d8d2fddab29f35e5bdbc7f1,536653e3f10041bb7c732fbe2c5a3fca,5589d4abf722c40151f8478bbb534997,5adcbf099161a75788633957ecb25ad6,5c41eb69a5ce85247024fcb1c194aabf,71f43b1a5f2946696cf8e7c4bfe650d3,7ce11a40d96d53fc38103db050232857,9618f4cf35e82a9dafbd04b3cf255318,9bb05597c4d4d5e1407af849be521a78,a118f585b9763b83cf3b4ad0e2221e79,b68f860e3a4f77972ab554551a96feff,bee5248588f3ef1fb2ba9266d092a32a,bf32ba0d6b5f475ff76074895cc8a04c,f30d4fbd504d6d5d1a48a0ddd40e0bf2,fdada6b4f65415b5d693ffff45b06412,fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d6">3</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">6</data>
+      <data key="d5">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">0283c34732a0698a71f0568da34fdb10,13086d74c36669cbbd88ba65db039f82,241b38468271979fc1ce36036727d718,3375980b55a073ae2883bbd7fb441688,3461bc8c5d8d2fddab29f35e5bdbc7f1,536653e3f10041bb7c732fbe2c5a3fca,5589d4abf722c40151f8478bbb534997,5adcbf099161a75788633957ecb25ad6,5c41eb69a5ce85247024fcb1c194aabf,71f43b1a5f2946696cf8e7c4bfe650d3,7ce11a40d96d53fc38103db050232857,9618f4cf35e82a9dafbd04b3cf255318,9bb05597c4d4d5e1407af849be521a78,a118f585b9763b83cf3b4ad0e2221e79,b68f860e3a4f77972ab554551a96feff,bee5248588f3ef1fb2ba9266d092a32a,bf32ba0d6b5f475ff76074895cc8a04c,f30d4fbd504d6d5d1a48a0ddd40e0bf2,fdada6b4f65415b5d693ffff45b06412,fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">4</data>
+      <data key="d4">7</data>
+      <data key="d5">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">0283c34732a0698a71f0568da34fdb10,13086d74c36669cbbd88ba65db039f82,241b38468271979fc1ce36036727d718,3375980b55a073ae2883bbd7fb441688,3461bc8c5d8d2fddab29f35e5bdbc7f1,536653e3f10041bb7c732fbe2c5a3fca,5589d4abf722c40151f8478bbb534997,5adcbf099161a75788633957ecb25ad6,5c41eb69a5ce85247024fcb1c194aabf,71f43b1a5f2946696cf8e7c4bfe650d3,7ce11a40d96d53fc38103db050232857,9618f4cf35e82a9dafbd04b3cf255318,9bb05597c4d4d5e1407af849be521a78,a118f585b9763b83cf3b4ad0e2221e79,b68f860e3a4f77972ab554551a96feff,bee5248588f3ef1fb2ba9266d092a32a,bf32ba0d6b5f475ff76074895cc8a04c,f30d4fbd504d6d5d1a48a0ddd40e0bf2,fdada6b4f65415b5d693ffff45b06412,fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">8</data>
+      <data key="d5">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country that received many Ashkenazi Jewish immigrants after World War II. Additionally, it is also home to various locations such as Tucson, Pima County, and Arizona.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">0283c34732a0698a71f0568da34fdb10,13086d74c36669cbbd88ba65db039f82,241b38468271979fc1ce36036727d718,3375980b55a073ae2883bbd7fb441688,3461bc8c5d8d2fddab29f35e5bdbc7f1,536653e3f10041bb7c732fbe2c5a3fca,5589d4abf722c40151f8478bbb534997,5adcbf099161a75788633957ecb25ad6,5c41eb69a5ce85247024fcb1c194aabf,71f43b1a5f2946696cf8e7c4bfe650d3,7ce11a40d96d53fc38103db050232857,9618f4cf35e82a9dafbd04b3cf255318,9bb05597c4d4d5e1407af849be521a78,a118f585b9763b83cf3b4ad0e2221e79,b68f860e3a4f77972ab554551a96feff,bee5248588f3ef1fb2ba9266d092a32a,bf32ba0d6b5f475ff76074895cc8a04c,f30d4fbd504d6d5d1a48a0ddd40e0bf2,fdada6b4f65415b5d693ffff45b06412,fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">9</data>
+      <data key="d5">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">0283c34732a0698a71f0568da34fdb10,13086d74c36669cbbd88ba65db039f82,241b38468271979fc1ce36036727d718,3375980b55a073ae2883bbd7fb441688,3461bc8c5d8d2fddab29f35e5bdbc7f1,536653e3f10041bb7c732fbe2c5a3fca,5589d4abf722c40151f8478bbb534997,5adcbf099161a75788633957ecb25ad6,5c41eb69a5ce85247024fcb1c194aabf,71f43b1a5f2946696cf8e7c4bfe650d3,7ce11a40d96d53fc38103db050232857,9618f4cf35e82a9dafbd04b3cf255318,9bb05597c4d4d5e1407af849be521a78,a118f585b9763b83cf3b4ad0e2221e79,b68f860e3a4f77972ab554551a96feff,bee5248588f3ef1fb2ba9266d092a32a,bf32ba0d6b5f475ff76074895cc8a04c,f30d4fbd504d6d5d1a48a0ddd40e0bf2,fdada6b4f65415b5d693ffff45b06412,fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d6">3</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">10</data>
+      <data key="d5">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">0283c34732a0698a71f0568da34fdb10,13086d74c36669cbbd88ba65db039f82,241b38468271979fc1ce36036727d718,3375980b55a073ae2883bbd7fb441688,3461bc8c5d8d2fddab29f35e5bdbc7f1,536653e3f10041bb7c732fbe2c5a3fca,5589d4abf722c40151f8478bbb534997,5adcbf099161a75788633957ecb25ad6,5c41eb69a5ce85247024fcb1c194aabf,71f43b1a5f2946696cf8e7c4bfe650d3,7ce11a40d96d53fc38103db050232857,9618f4cf35e82a9dafbd04b3cf255318,9bb05597c4d4d5e1407af849be521a78,a118f585b9763b83cf3b4ad0e2221e79,b68f860e3a4f77972ab554551a96feff,bee5248588f3ef1fb2ba9266d092a32a,bf32ba0d6b5f475ff76074895cc8a04c,f30d4fbd504d6d5d1a48a0ddd40e0bf2,fdada6b4f65415b5d693ffff45b06412,fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d6">3</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">11</data>
+      <data key="d5">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">0283c34732a0698a71f0568da34fdb10,13086d74c36669cbbd88ba65db039f82,241b38468271979fc1ce36036727d718,3375980b55a073ae2883bbd7fb441688,3461bc8c5d8d2fddab29f35e5bdbc7f1,536653e3f10041bb7c732fbe2c5a3fca,5589d4abf722c40151f8478bbb534997,5adcbf099161a75788633957ecb25ad6,5c41eb69a5ce85247024fcb1c194aabf,71f43b1a5f2946696cf8e7c4bfe650d3,7ce11a40d96d53fc38103db050232857,9618f4cf35e82a9dafbd04b3cf255318,9bb05597c4d4d5e1407af849be521a78,a118f585b9763b83cf3b4ad0e2221e79,b68f860e3a4f77972ab554551a96feff,bee5248588f3ef1fb2ba9266d092a32a,bf32ba0d6b5f475ff76074895cc8a04c,f30d4fbd504d6d5d1a48a0ddd40e0bf2,fdada6b4f65415b5d693ffff45b06412,fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d6">3</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">12</data>
+      <data key="d5">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">0283c34732a0698a71f0568da34fdb10,13086d74c36669cbbd88ba65db039f82,241b38468271979fc1ce36036727d718,3375980b55a073ae2883bbd7fb441688,3461bc8c5d8d2fddab29f35e5bdbc7f1,536653e3f10041bb7c732fbe2c5a3fca,5589d4abf722c40151f8478bbb534997,5adcbf099161a75788633957ecb25ad6,5c41eb69a5ce85247024fcb1c194aabf,71f43b1a5f2946696cf8e7c4bfe650d3,7ce11a40d96d53fc38103db050232857,9618f4cf35e82a9dafbd04b3cf255318,9bb05597c4d4d5e1407af849be521a78,a118f585b9763b83cf3b4ad0e2221e79,b68f860e3a4f77972ab554551a96feff,bee5248588f3ef1fb2ba9266d092a32a,bf32ba0d6b5f475ff76074895cc8a04c,f30d4fbd504d6d5d1a48a0ddd40e0bf2,fdada6b4f65415b5d693ffff45b06412,fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d3">0</data>
+      <data key="d4">13</data>
+      <data key="d5">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0283c34732a0698a71f0568da34fdb10,13086d74c36669cbbd88ba65db039f82,241b38468271979fc1ce36036727d718,3375980b55a073ae2883bbd7fb441688,3461bc8c5d8d2fddab29f35e5bdbc7f1,536653e3f10041bb7c732fbe2c5a3fca,5589d4abf722c40151f8478bbb534997,5adcbf099161a75788633957ecb25ad6,5c41eb69a5ce85247024fcb1c194aabf,71f43b1a5f2946696cf8e7c4bfe650d3,7ce11a40d96d53fc38103db050232857,9618f4cf35e82a9dafbd04b3cf255318,9bb05597c4d4d5e1407af849be521a78,a118f585b9763b83cf3b4ad0e2221e79,b68f860e3a4f77972ab554551a96feff,bee5248588f3ef1fb2ba9266d092a32a,bf32ba0d6b5f475ff76074895cc8a04c,f30d4fbd504d6d5d1a48a0ddd40e0bf2,fdada6b4f65415b5d693ffff45b06412,fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d6">3</data>
+      <data key="d7">0</data>
+      <data key="d3">5</data>
+      <data key="d4">14</data>
+      <data key="d5">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;ETHNIC GROUPS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ethnic Groups are smaller in areas with higher pathogen load, possibly due to avoidance of other groups to reduce pathogen transmission."</data>
+      <data key="d2">241b38468271979fc1ce36036727d718</data>
+      <data key="d3">1</data>
+      <data key="d4">15</data>
+      <data key="d5">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;RELIGIOUS GROUPS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Religious Groups are smaller in areas with higher pathogen load, possibly due to avoidance of other groups to reduce pathogen transmission."</data>
+      <data key="d2">241b38468271979fc1ce36036727d718</data>
+      <data key="d3">1</data>
+      <data key="d4">16</data>
+      <data key="d5">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;SETTLEMENTS AND ARMIES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Higher pathogen load may prevent the creation of large settlements and armies that enforce a common culture."</data>
+      <data key="d2">241b38468271979fc1ce36036727d718</data>
+      <data key="d3">1</data>
+      <data key="d4">17</data>
+      <data key="d5">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;PATHOGEN LOAD&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">241b38468271979fc1ce36036727d718</data>
+      <data key="d3">7</data>
+      <data key="d4">18</data>
+      <data key="d5">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;MATES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"People in areas with higher pathogen load have higher preferences for health and attractiveness in mates."</data>
+      <data key="d2">241b38468271979fc1ce36036727d718</data>
+      <data key="d3">1</data>
+      <data key="d4">19</data>
+      <data key="d5">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;POLYGYNY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Polygyny is more common in areas with higher pathogen load, possibly due to the importance of selecting males with high genetic resistance."</data>
+      <data key="d2">241b38468271979fc1ce36036727d718</data>
+      <data key="d3">1</data>
+      <data key="d4">20</data>
+      <data key="d5">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;COLLECTIVISM&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Collectivism is more prevalent in areas with higher pathogen load, possibly limiting contacts with outside groups and infections."</data>
+      <data key="d2">241b38468271979fc1ce36036727d718</data>
+      <data key="d3">1</data>
+      <data key="d4">21</data>
+      <data key="d5">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;INDIVIDUALISM&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Individualism is less prevalent in areas with higher pathogen load, possibly due to the need for collective protection against pathogens."</data>
+      <data key="d2">241b38468271979fc1ce36036727d718</data>
+      <data key="d3">1</data>
+      <data key="d4">22</data>
+      <data key="d5">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;SEPHARDIC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Sephardic refers to a Jewish community or tradition that has its own rabbinical authorities and practices, often followed by non-Ashkenazi Orthodox Jews. This community has an ethnic background connected to the Iberian Peninsula, encompassing individuals with Sephardic heritage as well as those with other non-Ashkenazi backgrounds.</data>
+      <data key="d2">13086d74c36669cbbd88ba65db039f82,bf32ba0d6b5f475ff76074895cc8a04c</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">4</data>
+      <data key="d4">23</data>
+      <data key="d5">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;MIZRAHI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Mizrahi is a subgroup of Jews with a specific ethnic background, often categorized alongside Sephardic Jews. This Jewish community originates from the Middle East or North Africa, which is likely the geographic region referred to by the term "Mizrahi".</data>
+      <data key="d2">13086d74c36669cbbd88ba65db039f82,bf32ba0d6b5f475ff76074895cc8a04c</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">24</data>
+      <data key="d5">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;YEMENITE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Yemenite is a subgroup of Jews with a specific ethnic background, often lumped together as Sephardic."</data>
+      <data key="d2">13086d74c36669cbbd88ba65db039f82</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">25</data>
+      <data key="d5">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;KURDISH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Kurdish is a subgroup of Jews with a specific ethnic background, often lumped together as Sephardic."</data>
+      <data key="d2">13086d74c36669cbbd88ba65db039f82</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">26</data>
+      <data key="d5">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;ISRAEL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Israel is a country that has received a significant number of Ashkenazi Jewish immigrants, particularly after World War II. As a result, Jews from around the world have integrated into Israeli society, leading to a blurring of the traditional religious definition of an Ashkenazi Jew. Today, Israel is home to many Ashkenazi Jews who have immigrated to the country. Interestingly, in Israel, the term "Ashkenazi" is often used in a way that deviates from its original meaning.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">13086d74c36669cbbd88ba65db039f82,5589d4abf722c40151f8478bbb534997,bf32ba0d6b5f475ff76074895cc8a04c,f30d4fbd504d6d5d1a48a0ddd40e0bf2</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">27</data>
+      <data key="d5">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;IBERIAN PENINSULA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Iberian Peninsula is a region connected to the ethnic background of Sephardic Jews."</data>
+      <data key="d2">13086d74c36669cbbd88ba65db039f82</data>
+      <data key="d3">0</data>
+      <data key="d4">28</data>
+      <data key="d5">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;ASHKENAZI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">13086d74c36669cbbd88ba65db039f82,bf32ba0d6b5f475ff76074895cc8a04c</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">3</data>
+      <data key="d4">29</data>
+      <data key="d5">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;LUBAVITCH HASIDIM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Lubavitch Hasidim is a group of people who use the Nusach Ari liturgical tradition in their prayers."</data>
+      <data key="d2">7ce11a40d96d53fc38103db050232857</data>
+      <data key="d3">1</data>
+      <data key="d4">30</data>
+      <data key="d5">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;POLISH HASIDIC JEWS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Polish Hasidic Jews are a group of people who follow the Nusach Sefard liturgical tradition in their prayers."</data>
+      <data key="d2">7ce11a40d96d53fc38103db050232857</data>
+      <data key="d3">1</data>
+      <data key="d4">31</data>
+      <data key="d5">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&quot;ASHKENAZ&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ashkenaz is a geographic region associated with the Ashkenazi Jewish community and its liturgical traditions."</data>
+      <data key="d2">7ce11a40d96d53fc38103db050232857</data>
+      <data key="d3">0</data>
+      <data key="d4">32</data>
+      <data key="d5">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&quot;SEPHARDIC RITUAL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Sephardic ritual refers to a specific tradition of prayer and worship among Sephardic Jews, distinct from Ashkenazic rituals."</data>
+      <data key="d2">7ce11a40d96d53fc38103db050232857</data>
+      <data key="d3">0</data>
+      <data key="d4">33</data>
+      <data key="d5">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&quot;ASHKENAZI JEWS&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Ashkenazi Jews are a Jewish ethnic group whose genetic origins have been studied by Bray et al. They are a Jewish population that shares the same overall paternal Near Eastern ancestries as Sephardic Jewish populations.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">0283c34732a0698a71f0568da34fdb10,3375980b55a073ae2883bbd7fb441688,3461bc8c5d8d2fddab29f35e5bdbc7f1,536653e3f10041bb7c732fbe2c5a3fca,5589d4abf722c40151f8478bbb534997,5adcbf099161a75788633957ecb25ad6,7ce11a40d96d53fc38103db050232857,9bb05597c4d4d5e1407af849be521a78,b68f860e3a4f77972ab554551a96feff,f30d4fbd504d6d5d1a48a0ddd40e0bf2,fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">27</data>
+      <data key="d4">34</data>
+      <data key="d5">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&quot;NUSACH ASHKENAZ&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7ce11a40d96d53fc38103db050232857</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">35</data>
+      <data key="d5">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&quot;NUSACH ARI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7ce11a40d96d53fc38103db050232857</data>
+      <data key="d3">1</data>
+      <data key="d4">36</data>
+      <data key="d5">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&quot;NUSACH SEFARD&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7ce11a40d96d53fc38103db050232857</data>
+      <data key="d3">1</data>
+      <data key="d4">37</data>
+      <data key="d5">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&quot;SEPHARDIC JEWISH POPULATIONS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Sephardic Jewish populations share the same overall paternal Near Eastern ancestries as Ashkenazi Jewish populations."</data>
+      <data key="d2">fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">38</data>
+      <data key="d5">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&quot;FERTILE CRESCENT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Fertile Crescent is a geographic region where Jews bear their strongest resemblance to the peoples of, and it is also a region where they were found to be more closely related to groups in the north.</data>
+      <data key="d2">bee5248588f3ef1fb2ba9266d092a32a,fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">39</data>
+      <data key="d5">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <node id="&quot;CENTRAL AND EASTERN EUROPEANS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Central and Eastern Europeans have a high frequency of Eu 19 (R1a) chromosomes, which are also present in Ashkenazi Jews."</data>
+      <data key="d2">fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d3">0</data>
+      <data key="d4">40</data>
+      <data key="d5">3ce7c210a21b4deebad7cc9308148d86</data>
+    </node>
+    <node id="&quot;2001 STUDY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2001 study by Nebel et al. provided insights into the paternal Near Eastern ancestries of Jewish populations."</data>
+      <data key="d2">fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d3">0</data>
+      <data key="d4">41</data>
+      <data key="d5">d64ed762ea924caa95c8d06f072a9a96</data>
+    </node>
+    <node id="&quot;2005 STUDY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2005 study by Nebel et al. found a similar level of male Ashkenazim belonging to R1a1a (M17+)."</data>
+      <data key="d2">fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d3">0</data>
+      <data key="d4">42</data>
+      <data key="d5">adf4ee3fbe9b4d0381044838c4f889c8</data>
+    </node>
+    <node id="&quot;NEBEL ET AL.&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">43</data>
+      <data key="d5">32ee140946e5461f9275db664dc541a5</data>
+    </node>
+    <node id="&quot;DRUZE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Druze are an ethnic group used as a reference point in the Bray et al. study to represent the ancestral genome of world Jewry."</data>
+      <data key="d2">3375980b55a073ae2883bbd7fb441688</data>
+      <data key="d3">1</data>
+      <data key="d4">44</data>
+      <data key="d5">c160b9cb27d6408ba6ab20214a2f3f81</data>
+    </node>
+    <node id="&quot;PALESTINIAN ARAB&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Palestinian Arabs are an ethnic group used as a reference point in the Bray et al. study to represent the ancestral genome of world Jewry."</data>
+      <data key="d2">3375980b55a073ae2883bbd7fb441688</data>
+      <data key="d3">1</data>
+      <data key="d4">45</data>
+      <data key="d5">23527cd679ff4d5a988d52e7cd056078</data>
+    </node>
+    <node id="&quot;RUSSIANS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Russians are an ethnic group used as a comparison in the Bray et al. study to determine the genetic diversity of Ashkenazi Jews."</data>
+      <data key="d2">3375980b55a073ae2883bbd7fb441688</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">46</data>
+      <data key="d5">f1c6eed066f24cbdb376b910fce29ed4</data>
+    </node>
+    <node id="&quot;ORCADIANS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Orcadians are an ethnic group used as a comparison in the Bray et al. study to determine the genetic diversity of Ashkenazi Jews."</data>
+      <data key="d2">3375980b55a073ae2883bbd7fb441688</data>
+      <data key="d3">0</data>
+      <data key="d4">47</data>
+      <data key="d5">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+    </node>
+    <node id="&quot;FRENCH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The French are an ethnic group used as a comparison in the Bray et al. study to determine the genetic diversity of Ashkenazi Jews."</data>
+      <data key="d2">3375980b55a073ae2883bbd7fb441688</data>
+      <data key="d3">0</data>
+      <data key="d4">48</data>
+      <data key="d5">147c038aef3e4422acbbc5f7938c4ab8</data>
+    </node>
+    <node id="&quot;BASQUES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Basques are an ethnic group used as a comparison in the Bray et al. study to determine the genetic diversity of Ashkenazi Jews."</data>
+      <data key="d2">3375980b55a073ae2883bbd7fb441688</data>
+      <data key="d3">0</data>
+      <data key="d4">49</data>
+      <data key="d5">b7702b90c7f24190b864e8c6e64612a5</data>
+    </node>
+    <node id="&quot;ITALIANS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Italians are an ethnic group that has been used as a comparison in the Bray et al. study to determine the genetic diversity of Ashkenazi Jews. Additionally, they form a significant demographic in Boston, where they constitute the second-largest ethnic group, making up 8.3% of the population.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">3375980b55a073ae2883bbd7fb441688,a118f585b9763b83cf3b4ad0e2221e79</data>
+      <data key="d3">1</data>
+      <data key="d4">50</data>
+      <data key="d5">de6fa24480894518ab3cbcb66f739266</data>
+    </node>
+    <node id="&quot;SARDINIANS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Sardinians are an ethnic group used as a comparison in the Bray et al. study to determine the genetic diversity of Ashkenazi Jews."</data>
+      <data key="d2">3375980b55a073ae2883bbd7fb441688</data>
+      <data key="d3">0</data>
+      <data key="d4">51</data>
+      <data key="d5">6fae5ee1a831468aa585a1ea09095998</data>
+    </node>
+    <node id="&quot;TUSCANS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Tuscans are an ethnic group used as a comparison in the Bray et al. study to determine the genetic diversity of Ashkenazi Jews."</data>
+      <data key="d2">3375980b55a073ae2883bbd7fb441688</data>
+      <data key="d3">0</data>
+      <data key="d4">52</data>
+      <data key="d5">ef32c4b208d041cc856f6837915dc1b0</data>
+    </node>
+    <node id="&quot;BRAY ET AL.&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3375980b55a073ae2883bbd7fb441688</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">53</data>
+      <data key="d5">07b2425216bd4f0aa4e079827cb48ef5</data>
+    </node>
+    <node id="&quot;WEST INDIAN AND CARIBBEAN&quot;">
+      <data key="d0">"ETHNIC GROUP"</data>
+      <data key="d1">"People of West Indian and Caribbean ancestry form a sizable group in Boston, at 6.0% of the population."</data>
+      <data key="d2">a118f585b9763b83cf3b4ad0e2221e79</data>
+      <data key="d3">2</data>
+      <data key="d4">54</data>
+      <data key="d5">2670deebfa3f4d69bb82c28ab250a209</data>
+    </node>
+    <node id="&quot;HAITIAN&quot;">
+      <data key="d0">"ETHNIC GROUP"</data>
+      <data key="d1">"Half of the people of West Indian and Caribbean ancestry are of Haitian ancestry."</data>
+      <data key="d2">a118f585b9763b83cf3b4ad0e2221e79</data>
+      <data key="d3">1</data>
+      <data key="d4">55</data>
+      <data key="d5">404309e89a5241d6bff42c05a45df206</data>
+    </node>
+    <node id="&quot;CHINESE AMERICANS&quot;">
+      <data key="d0">"ETHNIC GROUP"</data>
+      <data key="d1">"Over 27,000 Chinese Americans live in Boston city proper, with a growing Chinatown and Chinese-owned bus lines to Manhattan."</data>
+      <data key="d2">a118f585b9763b83cf3b4ad0e2221e79</data>
+      <data key="d3">1</data>
+      <data key="d4">56</data>
+      <data key="d5">b785a9025069417f94950ad231bb1441</data>
+    </node>
+    <node id="&quot;VIETNAMESE&quot;">
+      <data key="d0">"ETHNIC GROUP"</data>
+      <data key="d1">"Some neighborhoods, such as Dorchester, have received an influx of people of Vietnamese ancestry in recent decades."</data>
+      <data key="d2">a118f585b9763b83cf3b4ad0e2221e79</data>
+      <data key="d3">1</data>
+      <data key="d4">57</data>
+      <data key="d5">3b6cd96a27304614850709aba1c9598b</data>
+    </node>
+    <node id="&quot;DOMINICAN AMERICANS&quot;">
+      <data key="d0">"ETHNIC GROUP"</data>
+      <data key="d1">"Neighborhoods such as Jamaica Plain and Roslindale have experienced a growing number of Dominican Americans."</data>
+      <data key="d2">a118f585b9763b83cf3b4ad0e2221e79</data>
+      <data key="d3">1</data>
+      <data key="d4">58</data>
+      <data key="d5">d54956b79dd147f894b67a8b97dcbef0</data>
+    </node>
+    <node id="&quot;SOUTH ASIANS&quot;">
+      <data key="d0">"ETHNIC GROUP"</data>
+      <data key="d1">"The city and greater area has a growing immigrant population of South Asians, including the tenth-largest Indian community in the country."</data>
+      <data key="d2">a118f585b9763b83cf3b4ad0e2221e79</data>
+      <data key="d3">1</data>
+      <data key="d4">59</data>
+      <data key="d5">958beecdb5bb4060948415ffd75d2b03</data>
+    </node>
+    <node id="&quot;INDIAN COMMUNITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Indian community is the tenth-largest in the country, with a significant presence in Boston."</data>
+      <data key="d2">a118f585b9763b83cf3b4ad0e2221e79</data>
+      <data key="d3">0</data>
+      <data key="d4">60</data>
+      <data key="d5">b999ed77e19e4f85b7f1ae79af5c002a</data>
+    </node>
+    <node id="&quot;BOSTON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Boston is a city with a diverse population, hosting various ethnic groups and neighborhoods."</data>
+      <data key="d2">a118f585b9763b83cf3b4ad0e2221e79</data>
+      <data key="d3">5</data>
+      <data key="d4">61</data>
+      <data key="d5">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+    </node>
+    <node id="&quot;IRISH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a118f585b9763b83cf3b4ad0e2221e79</data>
+      <data key="d3">1</data>
+      <data key="d4">62</data>
+      <data key="d5">4f3c97517f794ebfb49c4c6315f9cf23</data>
+    </node>
+    <node id="&quot;DORCHESTER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a118f585b9763b83cf3b4ad0e2221e79</data>
+      <data key="d3">1</data>
+      <data key="d4">63</data>
+      <data key="d5">1745a2485a9443bab76587ad650e9be0</data>
+    </node>
+    <node id="&quot;JAMAICA PLAIN AND ROSLINDALE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a118f585b9763b83cf3b4ad0e2221e79</data>
+      <data key="d3">1</data>
+      <data key="d4">64</data>
+      <data key="d5">32e6ccab20d94029811127dbbe424c64</data>
+    </node>
+    <node id="&quot;NORTH AMERICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+North America is a region that has experienced significant immigration and integration of Jewish populations. Specifically, it has been a destination for Ashkenazi Jews, who have largely settled in English-speaking areas. As a result of this influx, North America has become a hub where Jews from diverse backgrounds have come together, leading to a blending of cultural and religious identities, which has contributed to a nuanced understanding of what it means to be an Ashkenazi Jew.</data>
+      <data key="d2">5589d4abf722c40151f8478bbb534997,bf32ba0d6b5f475ff76074895cc8a04c</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">65</data>
+      <data key="d5">94a964c6992945ebb3833dfdfdc8d655</data>
+    </node>
+    <node id="&quot;SEPHARDIC JEWS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Sephardic Jews are a Jewish population group that helps estimate the proportion of Ashkenazi Jews worldwide, according to Sergio DellaPergola's calculation. They are a distinct ethnic group associated with specific religious practices and traditions. Additionally, genetic research has revealed that Sephardic Jews share similar Y-chromosome mutations with Ashkenazi Jews, indicating common ancestry.</data>
+      <data key="d2">0283c34732a0698a71f0568da34fdb10,5adcbf099161a75788633957ecb25ad6,9bb05597c4d4d5e1407af849be521a78</data>
+      <data key="d3">2</data>
+      <data key="d4">66</data>
+      <data key="d5">1eb829d0ace042089f0746f78729696c</data>
+    </node>
+    <node id="&quot;HAMMER ET AL.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hammer et al. are researchers who published a study on the paternal origins of Ashkenazi Jews in 2000."</data>
+      <data key="d2">0283c34732a0698a71f0568da34fdb10</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">67</data>
+      <data key="d5">015e7b58d1a14b44beab3bbc9f912c18</data>
+    </node>
+    <node id="&quot;MIDDLE EAST&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Middle East is a geographic region that holds significant importance for Jewish heritage and ancestry. It is the origin of the Jewish people, and throughout history, Jewish populations have formed closely related groups in independent communities within this region. Furthermore, genetic research suggests that the male ancestors of Ashkenazi Jews also originated from the Middle East, as evidenced by Y-chromosome mutations.</data>
+      <data key="d2">0283c34732a0698a71f0568da34fdb10,536653e3f10041bb7c732fbe2c5a3fca,bee5248588f3ef1fb2ba9266d092a32a</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">3</data>
+      <data key="d4">68</data>
+      <data key="d5">26f88ab3e2e04c33a459ad6270ade565</data>
+    </node>
+    <node id="&quot;EUROPE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Europe is a continent where Ashkenazi Jews have lived for a significant period, originating from this geographic location and having had minimal genetic admixture with the local population.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">0283c34732a0698a71f0568da34fdb10,5589d4abf722c40151f8478bbb534997</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">69</data>
+      <data key="d5">babe97e1d9784cffa1c85abc1e588126</data>
+    </node>
+    <node id="&quot;MOTULSKY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Motulsky is a researcher who estimated the total admixture of European Y chromosomes in Ashkenazim to be around 12.5%."</data>
+      <data key="d2">0283c34732a0698a71f0568da34fdb10</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">70</data>
+      <data key="d5">1033a18c45aa4584b2aef6ab96890351</data>
+    </node>
+    <node id="&quot;RICHARDS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Richards is a researcher who stated that 50-80% of DNA from the Ashkenazi Y chromosome originated in the Near East."</data>
+      <data key="d2">0283c34732a0698a71f0568da34fdb10</data>
+      <data key="d3">0</data>
+      <data key="d4">71</data>
+      <data key="d5">c9b8ce91fc2945b4907fe35519339cac</data>
+    </node>
+    <node id="&quot;OFFICE FOR NATIONAL STATISTICS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Office for National Statistics published the results of the 2011 Census, providing data on Plymouth's population."</data>
+      <data key="d2">71f43b1a5f2946696cf8e7c4bfe650d3</data>
+      <data key="d3">1</data>
+      <data key="d4">72</data>
+      <data key="d5">fa3c4204421c48609e52c8de2da4c654</data>
+    </node>
+    <node id="&quot;UK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The UK is the country in which Plymouth is located and where the census was conducted."</data>
+      <data key="d2">71f43b1a5f2946696cf8e7c4bfe650d3</data>
+      <data key="d3">1</data>
+      <data key="d4">73</data>
+      <data key="d5">53af055f068244d0ac861b2e89376495</data>
+    </node>
+    <node id="&quot;WHITE BRITISH&quot;">
+      <data key="d0">"ETHNIC GROUP"</data>
+      <data key="d1">"White British is an ethnic group that makes up 92.9% of Plymouth's population."</data>
+      <data key="d2">71f43b1a5f2946696cf8e7c4bfe650d3</data>
+      <data key="d3">1</data>
+      <data key="d4">74</data>
+      <data key="d5">c03ab3ce8cb74ad2a03b94723bfab3c7</data>
+    </node>
+    <node id="&quot;CHINESE&quot;">
+      <data key="d0">"ETHNIC GROUP"</data>
+      <data key="d1">"Chinese is a minority ethnic group in Plymouth, making up 0.5% of the population."</data>
+      <data key="d2">71f43b1a5f2946696cf8e7c4bfe650d3</data>
+      <data key="d3">1</data>
+      <data key="d4">75</data>
+      <data key="d5">ed6d2eee9d7b4f5db466b1f6404d31cc</data>
+    </node>
+    <node id="&quot;WHITE IRISH&quot;">
+      <data key="d0">"ETHNIC GROUP"</data>
+      <data key="d1">"White Irish is an ethnic group that saw a decline in its share of the population between 2001 and 2011."</data>
+      <data key="d2">71f43b1a5f2946696cf8e7c4bfe650d3</data>
+      <data key="d3">0</data>
+      <data key="d4">76</data>
+      <data key="d5">fc01e9baa80e417c9206f941bb279407</data>
+    </node>
+    <node id="&quot;OTHER ASIAN&quot;">
+      <data key="d0">"ETHNIC GROUP"</data>
+      <data key="d1">"Other Asian is an ethnic group that saw a significant increase in its share of the population between 2001 and 2011."</data>
+      <data key="d2">71f43b1a5f2946696cf8e7c4bfe650d3</data>
+      <data key="d3">0</data>
+      <data key="d4">77</data>
+      <data key="d5">56d0e5ebe79e4814bd1463cf6ca21394</data>
+    </node>
+    <node id="&quot;BLACK AFRICAN&quot;">
+      <data key="d0">"ETHNIC GROUP"</data>
+      <data key="d1">"Black African is an ethnic group that saw a significant increase in its share of the population between 2001 and 2011."</data>
+      <data key="d2">71f43b1a5f2946696cf8e7c4bfe650d3</data>
+      <data key="d3">0</data>
+      <data key="d4">78</data>
+      <data key="d5">7c49f2710e8b4d3b8dc9310834406ea5</data>
+    </node>
+    <node id="&quot;PLYMOUTH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">71f43b1a5f2946696cf8e7c4bfe650d3</data>
+      <data key="d3">4</data>
+      <data key="d4">79</data>
+      <data key="d5">c6d1e4f56c2843e89cf0b91c10bb6de2</data>
+    </node>
+    <node id="&quot;POLISH JEWS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Polish Jews were a significant Jewish community in Europe, with 3 million out of 3.3 million murdered during the Holocaust."</data>
+      <data key="d2">f30d4fbd504d6d5d1a48a0ddd40e0bf2</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">80</data>
+      <data key="d5">0adb2d9941f34ef7b2f7743cc6225844</data>
+    </node>
+    <node id="&quot;UKRAINIAN JEWS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ukrainian Jews were another large Jewish community in Europe, with 900,000 out of 1.5 million murdered during the Holocaust."</data>
+      <data key="d2">f30d4fbd504d6d5d1a48a0ddd40e0bf2</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">81</data>
+      <data key="d5">6b02373137fd438ba96af28f735cdbdb</data>
+    </node>
+    <node id="&quot;SEPHARDI COMMUNITIES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Sephardi communities suffered significant losses during the Holocaust, particularly in countries such as Greece, the Netherlands, and the former Yugoslavia."</data>
+      <data key="d2">f30d4fbd504d6d5d1a48a0ddd40e0bf2</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">82</data>
+      <data key="d5">36a4fcd8efc144e6b8af9a1c7ab8b2ce</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Canada is a country that received many Ashkenazi Jewish immigrants after World War II."</data>
+      <data key="d2">f30d4fbd504d6d5d1a48a0ddd40e0bf2</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">83</data>
+      <data key="d5">fbeef791d19b413a9c93c6608286ab63</data>
+    </node>
+    <node id="&quot;ARGENTINA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Argentina is a country that received many Ashkenazi Jewish immigrants after World War II."</data>
+      <data key="d2">f30d4fbd504d6d5d1a48a0ddd40e0bf2</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">84</data>
+      <data key="d5">d2b629c0396f4180a03e16ddf3818589</data>
+    </node>
+    <node id="&quot;AUSTRALIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Australia is a country that received many Ashkenazi Jewish immigrants after World War II."</data>
+      <data key="d2">f30d4fbd504d6d5d1a48a0ddd40e0bf2</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">85</data>
+      <data key="d5">6102fc6619ed422ebc42588bfa97355d</data>
+    </node>
+    <node id="&quot;YIDDISH LANGUAGE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The Yiddish language was heavily impacted by the Holocaust, with the majority of its speakers murdered."</data>
+      <data key="d2">f30d4fbd504d6d5d1a48a0ddd40e0bf2</data>
+      <data key="d3">0</data>
+      <data key="d4">86</data>
+      <data key="d5">8d141c0b80f74b79a05eed7fe161fe49</data>
+    </node>
+    <node id="&quot;HOLOCAUST&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Holocaust was a genocide during World War II that resulted in the murder of six million Jews and millions of others deemed undesirable by the Nazi regime."</data>
+      <data key="d2">f30d4fbd504d6d5d1a48a0ddd40e0bf2</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">4</data>
+      <data key="d4">87</data>
+      <data key="d5">e22d1d1cd8d14f12b81828d940f40d70</data>
+    </node>
+    <node id="&quot;JEWS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">bee5248588f3ef1fb2ba9266d092a32a</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">88</data>
+      <data key="d5">9ab48505fb1b487babd0d1f6d3a3f980</data>
+    </node>
+    <node id="&quot;ASHKENAZIM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ashkenazim refers to a Jewish group, likely originating from Eastern Europe."</data>
+      <data key="d2">5c41eb69a5ce85247024fcb1c194aabf</data>
+      <data key="d3">1</data>
+      <data key="d4">89</data>
+      <data key="d5">148fffeb994541b2b4b6dcefda7001a8</data>
+    </node>
+    <node id="&quot;LEVANT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Levant is a geographic region where ancient Hebrew and Israelite residents lived, contributing to the shared ancestry of Jewish populations. Contemporary Jews have a close genetic relationship with its people, reflecting their historical connection to this region.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">536653e3f10041bb7c732fbe2c5a3fca,5c41eb69a5ce85247024fcb1c194aabf</data>
+      <data key="d3">1</data>
+      <data key="d4">90</data>
+      <data key="d5">89c08e793298442686292454a1abff31</data>
+    </node>
+    <node id="&quot;INDIAN JEWS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Indian Jews are a Jewish group excluded from the study, likely referring to Jews living in India or of Indian origin."</data>
+      <data key="d2">5c41eb69a5ce85247024fcb1c194aabf</data>
+      <data key="d3">0</data>
+      <data key="d4">91</data>
+      <data key="d5">0467928aa65e4a4fba62bdb1467e3a54</data>
+    </node>
+    <node id="&quot;ETHIOPIAN JEWS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ethiopian Jews are a Jewish group excluded from the study, likely referring to Jews living in Ethiopia or of Ethiopian origin."</data>
+      <data key="d2">5c41eb69a5ce85247024fcb1c194aabf</data>
+      <data key="d3">0</data>
+      <data key="d4">92</data>
+      <data key="d5">43c3390303c6476cb65f584e37c3e81c</data>
+    </node>
+    <node id="&quot;BEHAR ET AL.&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5c41eb69a5ce85247024fcb1c194aabf</data>
+      <data key="d3">1</data>
+      <data key="d4">93</data>
+      <data key="d5">fa14b16c17e3417dba5a4b473ea5b18d</data>
+    </node>
+    <node id="&quot;STUDY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5c41eb69a5ce85247024fcb1c194aabf</data>
+      <data key="d3">1</data>
+      <data key="d4">94</data>
+      <data key="d5">7cc3356d38de4328a51a5cbcb187dac3</data>
+    </node>
+    <node id="&quot;JEWISH GROUPS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5c41eb69a5ce85247024fcb1c194aabf</data>
+      <data key="d3">1</data>
+      <data key="d4">95</data>
+      <data key="d5">bef16fb5fd7344cca5e295b13ef3e0cd</data>
+    </node>
+    <node id="&quot;NON-JEWISH ETHNIC POPULATIONS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5c41eb69a5ce85247024fcb1c194aabf</data>
+      <data key="d3">1</data>
+      <data key="d4">96</data>
+      <data key="d5">bb9e01bc171d4326a29afda59ece8d17</data>
+    </node>
+    <node id="&quot;DAVID GOLDSTEIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"David Goldstein is a geneticist who reported on the genetic patterns of Ashkenazi Jewish communities, challenging the traditional model of origin."</data>
+      <data key="d2">b68f860e3a4f77972ab554551a96feff</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">97</data>
+      <data key="d5">3c063eea52e94164b70c99431ea30bae</data>
+    </node>
+    <node id="&quot;DUKE UNIVERSITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Duke University is an institution where David Goldstein is affiliated, conducting research on genetics and ethnogenesis."</data>
+      <data key="d2">b68f860e3a4f77972ab554551a96feff</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">98</data>
+      <data key="d5">252cc8452bfc4c2aa58cab68d8b61879</data>
+    </node>
+    <node id="&quot;ISRAELITE JEWISH MALE MIGRANTS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Israelite Jewish male migrants are a group of individuals who migrated from the Middle East, contributing to the ethnogenesis of Ashkenazi Jews."</data>
+      <data key="d2">b68f860e3a4f77972ab554551a96feff</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">99</data>
+      <data key="d5">7e2c84548fb94ee395ba8588d8f2a006</data>
+    </node>
+    <node id="&quot;POLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Poland is a geographic location with a historical Jewish population."</data>
+      <data key="d2">3461bc8c5d8d2fddab29f35e5bdbc7f1</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">100</data>
+      <data key="d5">f034618dde7948beb6dab30176d0fc87</data>
+    </node>
+    <node id="&quot;RUSSIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Russia is a geographic location with a historical Jewish population."</data>
+      <data key="d2">3461bc8c5d8d2fddab29f35e5bdbc7f1</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">101</data>
+      <data key="d5">5c41f96be13e49dba649454297834546</data>
+    </node>
+    <node id="&quot;HUNGARY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hungary is a geographic location with a historical Jewish population."</data>
+      <data key="d2">3461bc8c5d8d2fddab29f35e5bdbc7f1</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">102</data>
+      <data key="d5">7ea4afbf8a264f29af29950ce98105ba</data>
+    </node>
+    <node id="&quot;LITHUANIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lithuania is a geographic location with a historical Jewish population."</data>
+      <data key="d2">3461bc8c5d8d2fddab29f35e5bdbc7f1</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">103</data>
+      <data key="d5">91ff849d12b24574b0691dbddf44968b</data>
+    </node>
+    <node id="&quot;HAREDI JEWS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Haredi Jews are a group of Jews, particularly members of Hasidic or Hareidi sects, who continue to marry exclusively fellow Ashkenazi Jews."</data>
+      <data key="d2">3461bc8c5d8d2fddab29f35e5bdbc7f1</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">104</data>
+      <data key="d5">d73c1f2fb3094d8dace42ad2a76e9a52</data>
+    </node>
+    <node id="&quot;SERGIO DELLAPERGOLA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sergio DellaPergola is an individual who made a rough calculation of Sephardic and Mizrahi Jews, providing insight into the demography of Ashkenazi Jews."</data>
+      <data key="d2">9bb05597c4d4d5e1407af849be521a78</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">105</data>
+      <data key="d5">cdc8901e668749889bd49bebdc4ff1f6</data>
+    </node>
+    <node id="&quot;MIZRAHI JEWS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Mizrahi Jews are a Jewish population group that plays a significant role in estimating the proportion of Ashkenazi Jews worldwide, as mentioned in Sergio DellaPergola's calculation. Additionally, they exhibit evidence of admixture with other Middle Eastern populations and Sub-Saharan Africans, highlighting their unique demographic characteristics.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">536653e3f10041bb7c732fbe2c5a3fca,9bb05597c4d4d5e1407af849be521a78</data>
+      <data key="d3">1</data>
+      <data key="d4">106</data>
+      <data key="d5">36084a9fab53433493f079e97e68bf65</data>
+    </node>
+    <node id="&quot;LATIN AMERICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Latin America is a region where Ashkenazi Jews have immigrated to."</data>
+      <data key="d2">5589d4abf722c40151f8478bbb534997</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">107</data>
+      <data key="d5">eebcc7ec8e3e4df7aea83659bbdc2199</data>
+    </node>
+    <node id="&quot;FRANCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"France is a country in Europe where Ashkenazi Jews originated from."</data>
+      <data key="d2">5589d4abf722c40151f8478bbb534997</data>
+      <data key="d3">0</data>
+      <data key="d4">108</data>
+      <data key="d5">ceadf262ef834e9ab146b20650912cae</data>
+    </node>
+    <node id="&quot;HEBREW&quot;">
+      <data key="d0">"LANGUAGE"</data>
+      <data key="d1">"Hebrew has replaced Yiddish as the primary Jewish language for many Ashkenazi Jews."</data>
+      <data key="d2">5589d4abf722c40151f8478bbb534997</data>
+      <data key="d3">0</data>
+      <data key="d4">109</data>
+      <data key="d5">7f65feab75424b53b24470d305ba331a</data>
+    </node>
+    <node id="&quot;YIDDISH&quot;">
+      <data key="d0">"LANGUAGE"</data>
+      <data key="d1">"Yiddish is a language that was previously used by Ashkenazi Jews, but has been largely replaced by Hebrew."</data>
+      <data key="d2">5589d4abf722c40151f8478bbb534997</data>
+      <data key="d3">0</data>
+      <data key="d4">110</data>
+      <data key="d5">fd9cb733b28d420cb5cef01e545a132c</data>
+    </node>
+    <node id="&quot;SEPHARDI JEWS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Sephardi Jews are a Jewish population with a predominant amount of shared Middle Eastern ancestry, closely related to Ashkenazi Jews."</data>
+      <data key="d2">536653e3f10041bb7c732fbe2c5a3fca</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">111</data>
+      <data key="d5">0fbcca3f17c649a08aea64b5a7d9ef36</data>
+    </node>
+    <node id="&quot;BEHAR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Behar is a researcher who has studied the genetic composition of Jewish populations, providing insights into their ancestry and migration patterns."</data>
+      <data key="d2">536653e3f10041bb7c732fbe2c5a3fca</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">112</data>
+      <data key="d5">482027a59f32484c9c44fd700615c1b6</data>
+    </node>
+    <node id="&quot;JEWISH POPULATIONS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">536653e3f10041bb7c732fbe2c5a3fca</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">113</data>
+      <data key="d5">de837ff3d626451282ff6ac77a82216d</data>
+    </node>
+    <node id="&quot;MIDDLE EASTERN JEWS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Middle Eastern Jews refers to a group of Jews with origins in the Middle East."</data>
+      <data key="d2">9618f4cf35e82a9dafbd04b3cf255318</data>
+      <data key="d3">1</data>
+      <data key="d4">114</data>
+      <data key="d5">460295fed3ae4cd39f9f274cec9c2506</data>
+    </node>
+    <node id="&quot;EUROPEAN/SYRIAN JEWS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"European/Syrian Jews refers to a group of Jews with origins in Europe and Syria."</data>
+      <data key="d2">9618f4cf35e82a9dafbd04b3cf255318</data>
+      <data key="d3">1</data>
+      <data key="d4">115</data>
+      <data key="d5">553b285bba60460ab1ed8341ae61282b</data>
+    </node>
+    <node id="&quot;ASHKENAZI JEWRY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ashkenazi Jewry refers to a Jewish community with origins in Central and Eastern Europe."</data>
+      <data key="d2">9618f4cf35e82a9dafbd04b3cf255318</data>
+      <data key="d3">1</data>
+      <data key="d4">116</data>
+      <data key="d5">cec95bf17e7e4c939b56c9c6f402a29f</data>
+    </node>
+    <node id="&quot;IRANIAN JEWS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Iranian Jews refers to a group of Jews with origins in Iran."</data>
+      <data key="d2">9618f4cf35e82a9dafbd04b3cf255318</data>
+      <data key="d3">0</data>
+      <data key="d4">117</data>
+      <data key="d5">599164aead034bc19446efacc77554d2</data>
+    </node>
+    <node id="&quot;IRAQI JEWS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Iraqi Jews refers to a group of Jews with origins in Iraq."</data>
+      <data key="d2">9618f4cf35e82a9dafbd04b3cf255318</data>
+      <data key="d3">0</data>
+      <data key="d4">118</data>
+      <data key="d5">bbf148ae4d48422f8fdef754cfa2b9e4</data>
+    </node>
+    <node id="&quot;SYRIAN JEWS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Syrian Jews refers to a group of Jews with origins in Syria."</data>
+      <data key="d2">9618f4cf35e82a9dafbd04b3cf255318</data>
+      <data key="d3">0</data>
+      <data key="d4">119</data>
+      <data key="d5">de61b2670999433f807a6a1dc2b81e43</data>
+    </node>
+    <node id="&quot;ITALIAN JEWS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Italian Jews refers to a group of Jews with origins in Italy."</data>
+      <data key="d2">9618f4cf35e82a9dafbd04b3cf255318</data>
+      <data key="d3">1</data>
+      <data key="d4">120</data>
+      <data key="d5">3e95dacfe57b4d57b5da4310ef2e157f</data>
+    </node>
+    <node id="&quot;TURKISH JEWS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Turkish Jews refers to a group of Jews with origins in Turkey."</data>
+      <data key="d2">9618f4cf35e82a9dafbd04b3cf255318</data>
+      <data key="d3">0</data>
+      <data key="d4">121</data>
+      <data key="d5">1f1545308e9347af91fd03b94aadc21f</data>
+    </node>
+    <node id="&quot;GREEK JEWS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Greek Jews refers to a group of Jews with origins in Greece."</data>
+      <data key="d2">9618f4cf35e82a9dafbd04b3cf255318</data>
+      <data key="d3">0</data>
+      <data key="d4">122</data>
+      <data key="d5">6ea81acaf232485e94fff638e03336e1</data>
+    </node>
+    <node id="&quot;ATZMON-OSTRER ET AL.&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9618f4cf35e82a9dafbd04b3cf255318</data>
+      <data key="d3">1</data>
+      <data key="d4">123</data>
+      <data key="d5">d136b08d586d488f9e4188b524c85a29</data>
+    </node>
+    <node id="&quot;2010 STUDY ON JEWISH ANCESTRY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9618f4cf35e82a9dafbd04b3cf255318</data>
+      <data key="d3">1</data>
+      <data key="d4">124</data>
+      <data key="d5">cccfa151fedc4b218a8d96adc7dceabe</data>
+    </node>
+    <node id="&quot;NORTH AMERICAN CITIES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"North American cities are locations where social trends in Judaism are emerging, bringing together younger Jews of diverse ethnic backgrounds."</data>
+      <data key="d2">5adcbf099161a75788633957ecb25ad6</data>
+      <data key="d3">1</data>
+      <data key="d4">125</data>
+      <data key="d5">ce54725672a74ebcabe6127577dacb2b</data>
+    </node>
+    <node id="&quot;KABBALAH&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Kabbalah is a trend in Judaism that has gained popularity, with many Ashkenazi Jews studying it outside of the Yeshiva framework."</data>
+      <data key="d2">5adcbf099161a75788633957ecb25ad6</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">126</data>
+      <data key="d5">ea2b28ca1a974ffab4517811dc1d1e5c</data>
+    </node>
+    <node id="&quot;JEWISH RENEWAL MOVEMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Jewish Renewal movement is a trend in Judaism that emphasizes ecstatic worship and is nominally of Ashkenazi origin."</data>
+      <data key="d2">5adcbf099161a75788633957ecb25ad6</data>
+      <data key="d3">1</data>
+      <data key="d4">127</data>
+      <data key="d5">aff21f1da1654e7babdcf3fb0e4a75fc</data>
+    </node>
+    <node id="&quot;CARLEBACH STYLE MINYAN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Carlebach style minyan is a type of Jewish worship service that is part of the Jewish Renewal movement and is nominally of Ashkenazi origin."</data>
+      <data key="d2">5adcbf099161a75788633957ecb25ad6</data>
+      <data key="d3">1</data>
+      <data key="d4">128</data>
+      <data key="d5">dc2cc9016e3f49dbac7232f05cce794d</data>
+    </node>
+    <edge source="&quot;HALAKHA&quot;" target="&quot;ORTHODOX JEWS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Orthodox Jews are required to follow Halakha, or Jewish religious law."</data>
+      <data key="d10">fdada6b4f65415b5d693ffff45b06412</data>
+      <data key="d11">6ea0cef05f694dcea455478f40674e45</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ORTHODOX JEWS&quot;" target="&quot;MINHAGIM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Orthodox Jews are required to follow Minhagim, or customs, in addition to Halakha."</data>
+      <data key="d10">fdada6b4f65415b5d693ffff45b06412</data>
+      <data key="d11">7ab5d53a872f4dfc98f3d386879f3c75</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZIC&quot;" target="&quot;REFORM JUDAISM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Reform Judaism originated among Ashkenazi Jews and shares a common ancestry."</data>
+      <data key="d10">fdada6b4f65415b5d693ffff45b06412</data>
+      <data key="d11">af1d0fec22114a3398b8016f5225f9ed</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is the county seat of Pima County."</data>
+      <data key="d10">0283c34732a0698a71f0568da34fdb10,13086d74c36669cbbd88ba65db039f82,241b38468271979fc1ce36036727d718,3375980b55a073ae2883bbd7fb441688,3461bc8c5d8d2fddab29f35e5bdbc7f1,536653e3f10041bb7c732fbe2c5a3fca,5589d4abf722c40151f8478bbb534997,5adcbf099161a75788633957ecb25ad6,5c41eb69a5ce85247024fcb1c194aabf,71f43b1a5f2946696cf8e7c4bfe650d3,7ce11a40d96d53fc38103db050232857,9618f4cf35e82a9dafbd04b3cf255318,9bb05597c4d4d5e1407af849be521a78,a118f585b9763b83cf3b4ad0e2221e79,b68f860e3a4f77972ab554551a96feff,bee5248588f3ef1fb2ba9266d092a32a,bf32ba0d6b5f475ff76074895cc8a04c,f30d4fbd504d6d5d1a48a0ddd40e0bf2,fdada6b4f65415b5d693ffff45b06412,fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d11">b07a7f088364459098cd8511ff27a4c8</data>
+      <data key="d12">3</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Pima County is a county in Arizona."</data>
+      <data key="d10">0283c34732a0698a71f0568da34fdb10,13086d74c36669cbbd88ba65db039f82,241b38468271979fc1ce36036727d718,3375980b55a073ae2883bbd7fb441688,3461bc8c5d8d2fddab29f35e5bdbc7f1,536653e3f10041bb7c732fbe2c5a3fca,5589d4abf722c40151f8478bbb534997,5adcbf099161a75788633957ecb25ad6,5c41eb69a5ce85247024fcb1c194aabf,71f43b1a5f2946696cf8e7c4bfe650d3,7ce11a40d96d53fc38103db050232857,9618f4cf35e82a9dafbd04b3cf255318,9bb05597c4d4d5e1407af849be521a78,a118f585b9763b83cf3b4ad0e2221e79,b68f860e3a4f77972ab554551a96feff,bee5248588f3ef1fb2ba9266d092a32a,bf32ba0d6b5f475ff76074895cc8a04c,f30d4fbd504d6d5d1a48a0ddd40e0bf2,fdada6b4f65415b5d693ffff45b06412,fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d11">8870cf2b5df64d2cab5820f67e29b9f1</data>
+      <data key="d12">4</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The University of Arizona is located in Tucson."</data>
+      <data key="d10">0283c34732a0698a71f0568da34fdb10,13086d74c36669cbbd88ba65db039f82,241b38468271979fc1ce36036727d718,3375980b55a073ae2883bbd7fb441688,3461bc8c5d8d2fddab29f35e5bdbc7f1,536653e3f10041bb7c732fbe2c5a3fca,5589d4abf722c40151f8478bbb534997,5adcbf099161a75788633957ecb25ad6,5c41eb69a5ce85247024fcb1c194aabf,71f43b1a5f2946696cf8e7c4bfe650d3,7ce11a40d96d53fc38103db050232857,9618f4cf35e82a9dafbd04b3cf255318,9bb05597c4d4d5e1407af849be521a78,a118f585b9763b83cf3b4ad0e2221e79,b68f860e3a4f77972ab554551a96feff,bee5248588f3ef1fb2ba9266d092a32a,bf32ba0d6b5f475ff76074895cc8a04c,f30d4fbd504d6d5d1a48a0ddd40e0bf2,fdada6b4f65415b5d693ffff45b06412,fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d11">cd130938a2844050be991af70baf5ee0</data>
+      <data key="d12">5</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Arizona is a state in the United States."</data>
+      <data key="d10">0283c34732a0698a71f0568da34fdb10,13086d74c36669cbbd88ba65db039f82,241b38468271979fc1ce36036727d718,3375980b55a073ae2883bbd7fb441688,3461bc8c5d8d2fddab29f35e5bdbc7f1,536653e3f10041bb7c732fbe2c5a3fca,5589d4abf722c40151f8478bbb534997,5adcbf099161a75788633957ecb25ad6,5c41eb69a5ce85247024fcb1c194aabf,71f43b1a5f2946696cf8e7c4bfe650d3,7ce11a40d96d53fc38103db050232857,9618f4cf35e82a9dafbd04b3cf255318,9bb05597c4d4d5e1407af849be521a78,a118f585b9763b83cf3b4ad0e2221e79,b68f860e3a4f77972ab554551a96feff,bee5248588f3ef1fb2ba9266d092a32a,bf32ba0d6b5f475ff76074895cc8a04c,f30d4fbd504d6d5d1a48a0ddd40e0bf2,fdada6b4f65415b5d693ffff45b06412,fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d11">43544b99c3b04b059546198a0ae6366d</data>
+      <data key="d12">6</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is a city in Arizona."</data>
+      <data key="d10">0283c34732a0698a71f0568da34fdb10,13086d74c36669cbbd88ba65db039f82,241b38468271979fc1ce36036727d718,3375980b55a073ae2883bbd7fb441688,3461bc8c5d8d2fddab29f35e5bdbc7f1,536653e3f10041bb7c732fbe2c5a3fca,5589d4abf722c40151f8478bbb534997,5adcbf099161a75788633957ecb25ad6,5c41eb69a5ce85247024fcb1c194aabf,71f43b1a5f2946696cf8e7c4bfe650d3,7ce11a40d96d53fc38103db050232857,9618f4cf35e82a9dafbd04b3cf255318,9bb05597c4d4d5e1407af849be521a78,a118f585b9763b83cf3b4ad0e2221e79,b68f860e3a4f77972ab554551a96feff,bee5248588f3ef1fb2ba9266d092a32a,bf32ba0d6b5f475ff76074895cc8a04c,f30d4fbd504d6d5d1a48a0ddd40e0bf2,fdada6b4f65415b5d693ffff45b06412,fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d11">a671bf7fea2f4514b6e96ba99127fafd</data>
+      <data key="d12">7</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Phoenix is a city in Arizona."</data>
+      <data key="d10">0283c34732a0698a71f0568da34fdb10,13086d74c36669cbbd88ba65db039f82,241b38468271979fc1ce36036727d718,3375980b55a073ae2883bbd7fb441688,3461bc8c5d8d2fddab29f35e5bdbc7f1,536653e3f10041bb7c732fbe2c5a3fca,5589d4abf722c40151f8478bbb534997,5adcbf099161a75788633957ecb25ad6,5c41eb69a5ce85247024fcb1c194aabf,71f43b1a5f2946696cf8e7c4bfe650d3,7ce11a40d96d53fc38103db050232857,9618f4cf35e82a9dafbd04b3cf255318,9bb05597c4d4d5e1407af849be521a78,a118f585b9763b83cf3b4ad0e2221e79,b68f860e3a4f77972ab554551a96feff,bee5248588f3ef1fb2ba9266d092a32a,bf32ba0d6b5f475ff76074895cc8a04c,f30d4fbd504d6d5d1a48a0ddd40e0bf2,fdada6b4f65415b5d693ffff45b06412,fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d11">525f41ea20274a05af4e52b625b473f3</data>
+      <data key="d12">8</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;ASHKENAZI JEWS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Many Ashkenazi Jews emigrated to the United States after World War II."</data>
+      <data key="d10">f30d4fbd504d6d5d1a48a0ddd40e0bf2</data>
+      <data key="d11">071a416efbec4f0886c19ac68f6d43cb</data>
+      <data key="d12">9</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d10">0283c34732a0698a71f0568da34fdb10,13086d74c36669cbbd88ba65db039f82,241b38468271979fc1ce36036727d718,3375980b55a073ae2883bbd7fb441688,3461bc8c5d8d2fddab29f35e5bdbc7f1,536653e3f10041bb7c732fbe2c5a3fca,5589d4abf722c40151f8478bbb534997,5adcbf099161a75788633957ecb25ad6,5c41eb69a5ce85247024fcb1c194aabf,71f43b1a5f2946696cf8e7c4bfe650d3,7ce11a40d96d53fc38103db050232857,9618f4cf35e82a9dafbd04b3cf255318,9bb05597c4d4d5e1407af849be521a78,a118f585b9763b83cf3b4ad0e2221e79,b68f860e3a4f77972ab554551a96feff,bee5248588f3ef1fb2ba9266d092a32a,bf32ba0d6b5f475ff76074895cc8a04c,f30d4fbd504d6d5d1a48a0ddd40e0bf2,fdada6b4f65415b5d693ffff45b06412,fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d11">6d8473ef3b1042bf87178a611e3dbcc6</data>
+      <data key="d12">10</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Mexico shares an international border with the United States."</data>
+      <data key="d10">0283c34732a0698a71f0568da34fdb10,13086d74c36669cbbd88ba65db039f82,241b38468271979fc1ce36036727d718,3375980b55a073ae2883bbd7fb441688,3461bc8c5d8d2fddab29f35e5bdbc7f1,536653e3f10041bb7c732fbe2c5a3fca,5589d4abf722c40151f8478bbb534997,5adcbf099161a75788633957ecb25ad6,5c41eb69a5ce85247024fcb1c194aabf,71f43b1a5f2946696cf8e7c4bfe650d3,7ce11a40d96d53fc38103db050232857,9618f4cf35e82a9dafbd04b3cf255318,9bb05597c4d4d5e1407af849be521a78,a118f585b9763b83cf3b4ad0e2221e79,b68f860e3a4f77972ab554551a96feff,bee5248588f3ef1fb2ba9266d092a32a,bf32ba0d6b5f475ff76074895cc8a04c,f30d4fbd504d6d5d1a48a0ddd40e0bf2,fdada6b4f65415b5d693ffff45b06412,fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d11">30c9641543c24773938bd8ec57ea98ab</data>
+      <data key="d12">11</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d10">0283c34732a0698a71f0568da34fdb10,13086d74c36669cbbd88ba65db039f82,241b38468271979fc1ce36036727d718,3375980b55a073ae2883bbd7fb441688,3461bc8c5d8d2fddab29f35e5bdbc7f1,536653e3f10041bb7c732fbe2c5a3fca,5589d4abf722c40151f8478bbb534997,5adcbf099161a75788633957ecb25ad6,5c41eb69a5ce85247024fcb1c194aabf,71f43b1a5f2946696cf8e7c4bfe650d3,7ce11a40d96d53fc38103db050232857,9618f4cf35e82a9dafbd04b3cf255318,9bb05597c4d4d5e1407af849be521a78,a118f585b9763b83cf3b4ad0e2221e79,b68f860e3a4f77972ab554551a96feff,bee5248588f3ef1fb2ba9266d092a32a,bf32ba0d6b5f475ff76074895cc8a04c,f30d4fbd504d6d5d1a48a0ddd40e0bf2,fdada6b4f65415b5d693ffff45b06412,fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d11">18b839da898e4026b81727d759d95c6a</data>
+      <data key="d12">12</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ETHNIC GROUPS&quot;" target="&quot;PATHOGEN LOAD&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Higher pathogen load is associated with smaller ethnic groups."</data>
+      <data key="d10">241b38468271979fc1ce36036727d718</data>
+      <data key="d11">eeef6ae5c464400c8755900b4f1ac37a</data>
+      <data key="d12">13</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;RELIGIOUS GROUPS&quot;" target="&quot;PATHOGEN LOAD&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Higher pathogen load is associated with smaller religious groups."</data>
+      <data key="d10">241b38468271979fc1ce36036727d718</data>
+      <data key="d11">422433aa45804c7ebb973b2fafce5da6</data>
+      <data key="d12">14</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SETTLEMENTS AND ARMIES&quot;" target="&quot;PATHOGEN LOAD&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Higher pathogen load may prevent the creation of large settlements and armies."</data>
+      <data key="d10">241b38468271979fc1ce36036727d718</data>
+      <data key="d11">86505bca739d4bccaaa1a8e0f3baffdc</data>
+      <data key="d12">15</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PATHOGEN LOAD&quot;" target="&quot;MATES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Higher pathogen load is associated with higher preferences for health and attractiveness in mates."</data>
+      <data key="d10">241b38468271979fc1ce36036727d718</data>
+      <data key="d11">1af9faf341e14a5bbf4ddc9080e8dc0b</data>
+      <data key="d12">16</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PATHOGEN LOAD&quot;" target="&quot;POLYGYNY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Higher pathogen load is associated with polygyny."</data>
+      <data key="d10">241b38468271979fc1ce36036727d718</data>
+      <data key="d11">353d91abc68648639d65a549e59b5cf3</data>
+      <data key="d12">17</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PATHOGEN LOAD&quot;" target="&quot;COLLECTIVISM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Higher pathogen load is associated with more collectivism."</data>
+      <data key="d10">241b38468271979fc1ce36036727d718</data>
+      <data key="d11">7ce637e4f35b42e3a9f8272cab69cd22</data>
+      <data key="d12">18</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PATHOGEN LOAD&quot;" target="&quot;INDIVIDUALISM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Higher pathogen load is associated with less individualism."</data>
+      <data key="d10">241b38468271979fc1ce36036727d718</data>
+      <data key="d11">4d999d7744b04a998475f8f8531589f0</data>
+      <data key="d12">19</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SEPHARDIC&quot;" target="&quot;ASHKENAZI&quot;">
+      <data key="d8">2.0</data>
+      <data key="d9">Here is the comprehensive summary:
+
+Ashkenazi and Sephardic are two distinct groups of Jews that are often mistakenly used interchangeably or lumped together. While they share a common Jewish identity, they have developed separate traditions and customs over time. The Ashkenazi and Sephardic communities have their own distinct rabbinical authorities and practices, which may differ from one another. However, despite these differences, the two groups may intersect through marriage and conversion, highlighting the complex and dynamic nature of Jewish identity and community.</data>
+      <data key="d10">13086d74c36669cbbd88ba65db039f82,bf32ba0d6b5f475ff76074895cc8a04c</data>
+      <data key="d11">9a6f414210e14841a5b0e661aedc898d</data>
+      <data key="d12">20</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SEPHARDIC&quot;" target="&quot;MIZRAHI&quot;">
+      <data key="d8">2.0</data>
+      <data key="d9">Here is the comprehensive summary:
+
+Sephardic and Mizrahi are two entities that are closely related. Mizrahi is a subgroup of Jews that is often categorized together with Sephardic. The Mizrahi community is associated with the Sephardic tradition, and individuals from this background may follow Sephardic practices.</data>
+      <data key="d10">13086d74c36669cbbd88ba65db039f82,bf32ba0d6b5f475ff76074895cc8a04c</data>
+      <data key="d11">db541b7260974db8bac94e953009f60e</data>
+      <data key="d12">21</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SEPHARDIC&quot;" target="&quot;YEMENITE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Yemenite is a subgroup of Jews often lumped together as Sephardic."</data>
+      <data key="d10">13086d74c36669cbbd88ba65db039f82</data>
+      <data key="d11">f2ff8044718648e18acef16dd9a65436</data>
+      <data key="d12">22</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SEPHARDIC&quot;" target="&quot;KURDISH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Kurdish is a subgroup of Jews often lumped together as Sephardic."</data>
+      <data key="d10">13086d74c36669cbbd88ba65db039f82</data>
+      <data key="d11">00d785e7d76b47ec81b508e768d40584</data>
+      <data key="d12">23</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ISRAEL&quot;" target="&quot;ASHKENAZI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Israel is a country where Ashkenazi Jews have integrated with other Jewish communities, leading to a blurring of their religious definition."</data>
+      <data key="d10">bf32ba0d6b5f475ff76074895cc8a04c</data>
+      <data key="d11">87915637da3e474c9349bd0ae604bd95</data>
+      <data key="d12">24</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ISRAEL&quot;" target="&quot;ASHKENAZI JEWS&quot;">
+      <data key="d8">2.0</data>
+      <data key="d9">Here is a comprehensive summary of the data:
+
+Israel and Ashkenazi Jews are closely tied, with many Ashkenazi Jews having emigrated or immigrated to Israel, particularly in the aftermath of World War II.</data>
+      <data key="d10">5589d4abf722c40151f8478bbb534997,f30d4fbd504d6d5d1a48a0ddd40e0bf2</data>
+      <data key="d11">8f1eba29f39e411188200bf0d14628ec</data>
+      <data key="d12">25</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI&quot;" target="&quot;NORTH AMERICA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"North America is a region where Ashkenazi Jews have integrated with other Jewish communities, leading to a blurring of their religious definition."</data>
+      <data key="d10">bf32ba0d6b5f475ff76074895cc8a04c</data>
+      <data key="d11">7282c73622b8408e97289d959faff483</data>
+      <data key="d12">26</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LUBAVITCH HASIDIM&quot;" target="&quot;NUSACH ARI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lubavitch Hasidim use the Nusach Ari liturgical tradition in their prayers."</data>
+      <data key="d10">7ce11a40d96d53fc38103db050232857</data>
+      <data key="d11">3deb220d31f74103aa44870a36a63220</data>
+      <data key="d12">27</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;POLISH HASIDIC JEWS&quot;" target="&quot;NUSACH SEFARD&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Polish Hasidic Jews follow the Nusach Sefard liturgical tradition in their prayers."</data>
+      <data key="d10">7ce11a40d96d53fc38103db050232857</data>
+      <data key="d11">af7a1584dd15492cb9a4940e285f57fc</data>
+      <data key="d12">28</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWS&quot;" target="&quot;NUSACH ASHKENAZ&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ashkenazi Jews follow the Nusach Ashkenaz liturgical tradition in their prayers."</data>
+      <data key="d10">7ce11a40d96d53fc38103db050232857</data>
+      <data key="d11">6e8d9029ce4e4ea182367173ab2c7bbf</data>
+      <data key="d12">29</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWS&quot;" target="&quot;NEBEL ET AL.&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Nebel et al. conducted studies on Ashkenazi Jewish populations, providing insights into their paternal Near Eastern ancestries."</data>
+      <data key="d10">fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d11">cbf232211e7d4eb6abdbe182f71c2cf0</data>
+      <data key="d12">30</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWS&quot;" target="&quot;FERTILE CRESCENT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ashkenazi Jews were found to be more closely related to groups in the north of the Fertile Crescent."</data>
+      <data key="d10">fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d11">bb0cff774a4440b289cc6f3b929fe13c</data>
+      <data key="d12">31</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWS&quot;" target="&quot;BRAY ET AL.&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Bray et al. conducted a study on the genetic origins of Ashkenazi Jews."</data>
+      <data key="d10">3375980b55a073ae2883bbd7fb441688</data>
+      <data key="d11">ce55841ebfdd47008bab8c258f10372e</data>
+      <data key="d12">32</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWS&quot;" target="&quot;RUSSIANS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ashkenazi Jews were found to be more genetically diverse than Russians in the Bray et al. study."</data>
+      <data key="d10">3375980b55a073ae2883bbd7fb441688</data>
+      <data key="d11">6090e736374d45fd84f0e4610a314f8f</data>
+      <data key="d12">33</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWS&quot;" target="&quot;HAMMER ET AL.&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hammer et al. published a study on the paternal origins of Ashkenazi Jews."</data>
+      <data key="d10">0283c34732a0698a71f0568da34fdb10</data>
+      <data key="d11">0e8d921ccd8d4a8594b65b7fd19f7120</data>
+      <data key="d12">34</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWS&quot;" target="&quot;MIDDLE EAST&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The paternal origins of Ashkenazi Jews can be traced mostly to the Middle East."</data>
+      <data key="d10">0283c34732a0698a71f0568da34fdb10</data>
+      <data key="d11">59c726a8792d443e84ab052cb7942b4a</data>
+      <data key="d12">35</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWS&quot;" target="&quot;MOTULSKY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Motulsky's estimate of genetic admixture is relevant to understanding the ancestry of Ashkenazi Jews."</data>
+      <data key="d10">0283c34732a0698a71f0568da34fdb10</data>
+      <data key="d11">4f2c665decf242b0bfcaf7350b0e02ed</data>
+      <data key="d12">36</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWS&quot;" target="&quot;CANADA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Many Ashkenazi Jews emigrated to Canada after World War II."</data>
+      <data key="d10">f30d4fbd504d6d5d1a48a0ddd40e0bf2</data>
+      <data key="d11">66cdf168f36d4a57a505028c97dc06e0</data>
+      <data key="d12">37</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWS&quot;" target="&quot;ARGENTINA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Many Ashkenazi Jews emigrated to Argentina after World War II."</data>
+      <data key="d10">f30d4fbd504d6d5d1a48a0ddd40e0bf2</data>
+      <data key="d11">38f51478f41f48db9bee570859b6f43e</data>
+      <data key="d12">38</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWS&quot;" target="&quot;AUSTRALIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Many Ashkenazi Jews emigrated to Australia after World War II."</data>
+      <data key="d10">f30d4fbd504d6d5d1a48a0ddd40e0bf2</data>
+      <data key="d11">896d2a51e8de47de85ba8ced108c3d53</data>
+      <data key="d12">39</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWS&quot;" target="&quot;HOLOCAUST&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ashkenazi Jews were heavily affected by the Holocaust, with over 6 million murdered."</data>
+      <data key="d10">f30d4fbd504d6d5d1a48a0ddd40e0bf2</data>
+      <data key="d11">14555b518e954637b83aa762dc03164e</data>
+      <data key="d12">40</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWS&quot;" target="&quot;DAVID GOLDSTEIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"David Goldstein studied the genetic patterns of Ashkenazi Jewish communities, providing insights into their ethnogenesis."</data>
+      <data key="d10">b68f860e3a4f77972ab554551a96feff</data>
+      <data key="d11">b1f6164116d44fe8b8f135d7f65b9e58</data>
+      <data key="d12">41</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWS&quot;" target="&quot;ISRAELITE JEWISH MALE MIGRANTS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Israelite Jewish male migrants from the Middle East contributed to the ethnogenesis of Ashkenazi Jews through intermarriage with local populations."</data>
+      <data key="d10">b68f860e3a4f77972ab554551a96feff</data>
+      <data key="d11">c8b2408617804483b620e1a6691ac90d</data>
+      <data key="d12">42</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWS&quot;" target="&quot;POLAND&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ashkenazi Jews have ancestors from Poland, contributing to their genetic subgroup."</data>
+      <data key="d10">3461bc8c5d8d2fddab29f35e5bdbc7f1</data>
+      <data key="d11">a5e0d1644eb547ba9a5c3211aac4631a</data>
+      <data key="d12">43</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWS&quot;" target="&quot;RUSSIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ashkenazi Jews have ancestors from Russia, contributing to their genetic subgroup."</data>
+      <data key="d10">3461bc8c5d8d2fddab29f35e5bdbc7f1</data>
+      <data key="d11">5a28b94bc63b44edb30c54748fd14f15</data>
+      <data key="d12">44</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWS&quot;" target="&quot;HUNGARY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ashkenazi Jews have ancestors from Hungary, contributing to their genetic subgroup."</data>
+      <data key="d10">3461bc8c5d8d2fddab29f35e5bdbc7f1</data>
+      <data key="d11">f97011b2a99d44648e18d517e1eae15c</data>
+      <data key="d12">45</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWS&quot;" target="&quot;LITHUANIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ashkenazi Jews have ancestors from Lithuania, contributing to their genetic subgroup."</data>
+      <data key="d10">3461bc8c5d8d2fddab29f35e5bdbc7f1</data>
+      <data key="d11">35489ca6a63b47d6a8913cf333818bc1</data>
+      <data key="d12">46</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWS&quot;" target="&quot;HAREDI JEWS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Haredi Jews are a subset of Ashkenazi Jews who continue to marry exclusively within the group."</data>
+      <data key="d10">3461bc8c5d8d2fddab29f35e5bdbc7f1</data>
+      <data key="d11">5d3344f45e654d2c808481672f2f08dd</data>
+      <data key="d12">47</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWS&quot;" target="&quot;SERGIO DELLAPERGOLA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Sergio DellaPergola made an estimate about the proportion of Ashkenazi Jews in the world's Jewish population."</data>
+      <data key="d10">9bb05597c4d4d5e1407af849be521a78</data>
+      <data key="d11">6fb57f83baec45c9b30490ee991f433f</data>
+      <data key="d12">48</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWS&quot;" target="&quot;EUROPE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ashkenazi Jews originated from Europe and have since moved away to other locations."</data>
+      <data key="d10">5589d4abf722c40151f8478bbb534997</data>
+      <data key="d11">68762e6f0d1c41cd857c6b964a8e76c3</data>
+      <data key="d12">49</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWS&quot;" target="&quot;NORTH AMERICA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ashkenazi Jews have immigrated to North America, particularly English-speaking areas."</data>
+      <data key="d10">5589d4abf722c40151f8478bbb534997</data>
+      <data key="d11">70634e10a5e845aa8c6a32fe7e8eb2b2</data>
+      <data key="d12">50</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWS&quot;" target="&quot;LATIN AMERICA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ashkenazi Jews have immigrated to Latin America."</data>
+      <data key="d10">5589d4abf722c40151f8478bbb534997</data>
+      <data key="d11">04085f7cf46544b79597fc49286ff84d</data>
+      <data key="d12">51</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWS&quot;" target="&quot;SEPHARDI JEWS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ashkenazi Jews are closely related to Sephardi Jews, sharing a significant amount of Middle Eastern ancestry."</data>
+      <data key="d10">536653e3f10041bb7c732fbe2c5a3fca</data>
+      <data key="d11">d203efdbfb2f4b2a899abfb31cf72e82</data>
+      <data key="d12">52</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWS&quot;" target="&quot;KABBALAH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ashkenazi Jews are interested in studying Kabbalah, which has gained popularity."</data>
+      <data key="d10">5adcbf099161a75788633957ecb25ad6</data>
+      <data key="d11">6731a665561840c2898ce8c9788e4c88</data>
+      <data key="d12">53</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SEPHARDIC JEWISH POPULATIONS&quot;" target="&quot;NEBEL ET AL.&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Nebel et al. compared Ashkenazi Jewish populations to Sephardic Jewish populations in their studies."</data>
+      <data key="d10">fdb0054773e349f0170bc64cb9a48261</data>
+      <data key="d11">4026806fa92f4e849a59a7f5c9a45c79</data>
+      <data key="d12">54</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FERTILE CRESCENT&quot;" target="&quot;JEWS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jews bear their strongest resemblance to the peoples of the Fertile Crescent."</data>
+      <data key="d10">bee5248588f3ef1fb2ba9266d092a32a</data>
+      <data key="d11">68e0c60d2e8845d89d9d0ad397833648</data>
+      <data key="d12">55</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DRUZE&quot;" target="&quot;PALESTINIAN ARAB&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Druze and Palestinian Arabs were used as reference points in the Bray et al. study to represent the ancestral genome of world Jewry."</data>
+      <data key="d10">3375980b55a073ae2883bbd7fb441688</data>
+      <data key="d11">101572f552b54e529fe7765c05168981</data>
+      <data key="d12">56</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ITALIANS&quot;" target="&quot;BOSTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Italians are the second-largest ethnic group in Boston."</data>
+      <data key="d10">a118f585b9763b83cf3b4ad0e2221e79</data>
+      <data key="d11">60c58026b2764b40adffca6eaa31d6d9</data>
+      <data key="d12">57</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WEST INDIAN AND CARIBBEAN&quot;" target="&quot;BOSTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"People of West Indian and Caribbean ancestry form a sizable group in Boston."</data>
+      <data key="d10">a118f585b9763b83cf3b4ad0e2221e79</data>
+      <data key="d11">ad1595a78935472999444c9330e7730e</data>
+      <data key="d12">58</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WEST INDIAN AND CARIBBEAN&quot;" target="&quot;HAITIAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Half of the people of West Indian and Caribbean ancestry are of Haitian ancestry."</data>
+      <data key="d10">a118f585b9763b83cf3b4ad0e2221e79</data>
+      <data key="d11">735d19aea0744b2295556841c5c4c3fd</data>
+      <data key="d12">59</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CHINESE AMERICANS&quot;" target="&quot;BOSTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Over 27,000 Chinese Americans live in Boston city proper."</data>
+      <data key="d10">a118f585b9763b83cf3b4ad0e2221e79</data>
+      <data key="d11">c725babdb14a485582f8fbdf95429030</data>
+      <data key="d12">60</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VIETNAMESE&quot;" target="&quot;DORCHESTER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Some neighborhoods, such as Dorchester, have received an influx of people of Vietnamese ancestry."</data>
+      <data key="d10">a118f585b9763b83cf3b4ad0e2221e79</data>
+      <data key="d11">a0047221896d418d849847d422fa4bb8</data>
+      <data key="d12">61</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DOMINICAN AMERICANS&quot;" target="&quot;JAMAICA PLAIN AND ROSLINDALE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Neighborhoods such as Jamaica Plain and Roslindale have experienced a growing number of Dominican Americans."</data>
+      <data key="d10">a118f585b9763b83cf3b4ad0e2221e79</data>
+      <data key="d11">98fc2ee593184c5a839454db4eec7013</data>
+      <data key="d12">62</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SOUTH ASIANS&quot;" target="&quot;BOSTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The city and greater area has a growing immigrant population of South Asians."</data>
+      <data key="d10">a118f585b9763b83cf3b4ad0e2221e79</data>
+      <data key="d11">80020a1da63042459e00266b2a605452</data>
+      <data key="d12">63</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BOSTON&quot;" target="&quot;IRISH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Irish are the largest single ethnic group in Boston."</data>
+      <data key="d10">a118f585b9763b83cf3b4ad0e2221e79</data>
+      <data key="d11">31a7e680c4d54101afe4c8d52d246913</data>
+      <data key="d12">64</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SEPHARDIC JEWS&quot;" target="&quot;MIZRAHI JEWS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Both Sephardic and Mizrahi Jews are mentioned together in Sergio DellaPergola's calculation, highlighting their connection to Ashkenazi Jews."</data>
+      <data key="d10">9bb05597c4d4d5e1407af849be521a78</data>
+      <data key="d11">351abba16e5c448994c6daf48121b14d</data>
+      <data key="d12">65</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SEPHARDIC JEWS&quot;" target="&quot;NORTH AMERICAN CITIES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Sephardic Jews are part of the diverse ethnic backgrounds coming together in North American cities."</data>
+      <data key="d10">5adcbf099161a75788633957ecb25ad6</data>
+      <data key="d11">50ea7d3b69614bcdbfbff7ddbfbf3d34</data>
+      <data key="d12">66</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MIDDLE EAST&quot;" target="&quot;JEWS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jews originate from the Middle East, sharing a common genetic heritage."</data>
+      <data key="d10">bee5248588f3ef1fb2ba9266d092a32a</data>
+      <data key="d11">004f40a5aeca48a1879db728eb12bcba</data>
+      <data key="d12">67</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MIDDLE EAST&quot;" target="&quot;JEWISH POPULATIONS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Middle East is a region where Jewish populations have tended to form relatively closely related groups in independent communities."</data>
+      <data key="d10">536653e3f10041bb7c732fbe2c5a3fca</data>
+      <data key="d11">4465efb7f6ed4dedad72a658184addd2</data>
+      <data key="d12">68</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OFFICE FOR NATIONAL STATISTICS&quot;" target="&quot;PLYMOUTH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Office for National Statistics published data on Plymouth's population as part of the 2011 Census."</data>
+      <data key="d10">71f43b1a5f2946696cf8e7c4bfe650d3</data>
+      <data key="d11">b0dd60e11dad4ff782623acf039b3948</data>
+      <data key="d12">69</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UK&quot;" target="&quot;PLYMOUTH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Plymouth is a city located in the UK, where the census was conducted."</data>
+      <data key="d10">71f43b1a5f2946696cf8e7c4bfe650d3</data>
+      <data key="d11">db8c43fa4df947b09e5754d3b1393ead</data>
+      <data key="d12">70</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WHITE BRITISH&quot;" target="&quot;PLYMOUTH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The White British ethnic group makes up 92.9% of Plymouth's population."</data>
+      <data key="d10">71f43b1a5f2946696cf8e7c4bfe650d3</data>
+      <data key="d11">5dabc4cd05da425cb194a04482bf0c29</data>
+      <data key="d12">71</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CHINESE&quot;" target="&quot;PLYMOUTH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Chinese ethnic group is a minority in Plymouth, making up 0.5% of the population."</data>
+      <data key="d10">71f43b1a5f2946696cf8e7c4bfe650d3</data>
+      <data key="d11">9d08f285a7be4c79b8f359c51d51db37</data>
+      <data key="d12">72</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;POLISH JEWS&quot;" target="&quot;HOLOCAUST&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Polish Jews were significantly impacted by the Holocaust, with 3 million out of 3.3 million murdered."</data>
+      <data key="d10">f30d4fbd504d6d5d1a48a0ddd40e0bf2</data>
+      <data key="d11">adffed660d154b519c1817e514e83096</data>
+      <data key="d12">73</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UKRAINIAN JEWS&quot;" target="&quot;HOLOCAUST&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ukrainian Jews suffered heavy losses during the Holocaust, with 900,000 out of 1.5 million murdered."</data>
+      <data key="d10">f30d4fbd504d6d5d1a48a0ddd40e0bf2</data>
+      <data key="d11">b7e9c9ef572c445a9574ca571e41fb96</data>
+      <data key="d12">74</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SEPHARDI COMMUNITIES&quot;" target="&quot;HOLOCAUST&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Sephardi communities were also affected by the Holocaust, particularly in certain countries."</data>
+      <data key="d10">f30d4fbd504d6d5d1a48a0ddd40e0bf2</data>
+      <data key="d11">dcb9f281cd6248c699e0ebb285a42a5e</data>
+      <data key="d12">75</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZIM&quot;" target="&quot;LEVANT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ashkenazim have a close genetic relationship with people from the Levant."</data>
+      <data key="d10">5c41eb69a5ce85247024fcb1c194aabf</data>
+      <data key="d11">072cdee531b74513984f49d99a8d64a0</data>
+      <data key="d12">76</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BEHAR ET AL.&quot;" target="&quot;STUDY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Behar et al. conducted a genome-wide genetic study in 2010."</data>
+      <data key="d10">5c41eb69a5ce85247024fcb1c194aabf</data>
+      <data key="d11">5ae335d9210a45fda3f92a9a028d6d9b</data>
+      <data key="d12">77</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JEWISH GROUPS&quot;" target="&quot;NON-JEWISH ETHNIC POPULATIONS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The study examined the genetic relationships between Jewish groups and non-Jewish ethnic populations."</data>
+      <data key="d10">5c41eb69a5ce85247024fcb1c194aabf</data>
+      <data key="d11">5ac60a941a5b4934bdc43d2f87de601c</data>
+      <data key="d12">78</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DAVID GOLDSTEIN&quot;" target="&quot;DUKE UNIVERSITY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"David Goldstein is affiliated with Duke University, where he conducts research on genetics and ethnogenesis."</data>
+      <data key="d10">b68f860e3a4f77972ab554551a96feff</data>
+      <data key="d11">d405c3154d0e48ce96fad4c28fe20590</data>
+      <data key="d12">79</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BEHAR&quot;" target="&quot;JEWISH POPULATIONS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Behar has studied the genetic composition of Jewish populations, providing insights into their ancestry and migration patterns."</data>
+      <data key="d10">536653e3f10041bb7c732fbe2c5a3fca</data>
+      <data key="d11">7923d8521c744bd9aab131c1aea91ffd</data>
+      <data key="d12">80</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MIDDLE EASTERN JEWS&quot;" target="&quot;EUROPEAN/SYRIAN JEWS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Middle Eastern Jews and European/Syrian Jews share common ancestors in the Middle East about 2500 years ago."</data>
+      <data key="d10">9618f4cf35e82a9dafbd04b3cf255318</data>
+      <data key="d11">5bd156c87ec44e19ae6f8f62e6e50b9d</data>
+      <data key="d12">81</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ASHKENAZI JEWRY&quot;" target="&quot;ITALIAN JEWS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ashkenazi Jews are genetically similar to Italian Jews, suggesting inter-marriage and conversions in the time of the Roman Empire."</data>
+      <data key="d10">9618f4cf35e82a9dafbd04b3cf255318</data>
+      <data key="d11">c1a146d7fb16429ea6d0aa2a55ee597f</data>
+      <data key="d12">82</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ATZMON-OSTRER ET AL.&quot;" target="&quot;2010 STUDY ON JEWISH ANCESTRY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Atzmon-Ostrer et al. conducted the 2010 study on Jewish ancestry."</data>
+      <data key="d10">9618f4cf35e82a9dafbd04b3cf255318</data>
+      <data key="d11">ede9350632084da5b0b577ff799ab14b</data>
+      <data key="d12">83</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JEWISH RENEWAL MOVEMENT&quot;" target="&quot;CARLEBACH STYLE MINYAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Carlebach style minyan is a part of the Jewish Renewal movement, sharing similar goals and practices."</data>
+      <data key="d10">5adcbf099161a75788633957ecb25ad6</data>
+      <data key="d11">ed559fb4ebde45518849ec803b350fa3</data>
+      <data key="d12">84</data>
+      <data key="d13">0</data>
+    </edge>
+  </graph>
+</graphml>

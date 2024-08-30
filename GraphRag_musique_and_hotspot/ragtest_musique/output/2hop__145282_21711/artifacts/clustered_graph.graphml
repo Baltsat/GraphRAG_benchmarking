@@ -1,0 +1,1672 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="id" attr.type="string" />
+  <key id="d6" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d5" for="node" attr.name="degree" attr.type="long" />
+  <key id="d4" for="node" attr.name="level" attr.type="long" />
+  <key id="d3" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;CITY OF ARTS AND SCIENCES (CIUTAT DE LES ARTS I LES CI&#200;NCIES)&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The City of Arts and Sciences (Ciutat de les Arts i les Ci&#232;ncies) is an iconic institution in Valencia that hosts exhibitions and performances, contributing to the city's cultural development. This complex features various attractions, including an opera house, science museum, IMAX cinema, and oceanographic park, making it a hub of cultural and scientific activity in the city.</data>
+      <data key="d2">03674d32dddec8e720f6d0ca4f93dc2b,1f06b350039c40cf7d442bda14125ed3</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;VALENCIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Valencia is a city in Spain that holds significance for two notable individuals. It is the birthplace of Santiago Calatrava, a renowned architect who has designed several iconic structures in the city, including the City of Arts and Sciences and the Music Palace. Additionally, Valencia is also the birthplace of Paco Roca, a prominent figure.</data>
+      <data key="d2">03674d32dddec8e720f6d0ca4f93dc2b,1f06b350039c40cf7d442bda14125ed3,a4e6ab31d2612b157e0c0f889fbfb5b9</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">6</data>
+      <data key="d6">1</data>
+      <data key="d7">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;MUSIC PALACE (PALAU DE LA M&#218;SICA)&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Music Palace is a notable example of modern architecture in Valencia, designed by Santiago Calatrava."</data>
+      <data key="d2">1f06b350039c40cf7d442bda14125ed3</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">2</data>
+      <data key="d7">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;SANTIAGO CALATRAVA&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Santiago Calatrava is a renowned structural engineer, architect, and sculptor who has contributed to Valencia's international reputation.</data>
+      <data key="d2">03674d32dddec8e720f6d0ca4f93dc2b,1f06b350039c40cf7d442bda14125ed3</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">3</data>
+      <data key="d7">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">03674d32dddec8e720f6d0ca4f93dc2b,09812e46272896a092703b99a7946b54,1f06b350039c40cf7d442bda14125ed3,29df4d8f34614ed6310d80dbf2f79b62,2b35984007a0307673b69e2b11120f66,3d6cfc5357d06654e6fd363fafe8f57c,42fa8bb00798f838a2b67521f358d7dc,4468616d4a26a01ef154bbe7934d700f,671fdb5b43f333c5b30b2fc51136ec90,6801a29f6d9ed4dd5ebb453c5785c565,7371a9e9818e579e599950e2d9c50e96,8bdd0e1995992c9b64ab62037f5206ba,92793e2ed5e49b30a41c9b6a6815c8ca,998622965439dfdc730b38e8696b323e,9d8fca9b116ffea2feb89205e8d5b9c9,a4e6ab31d2612b157e0c0f889fbfb5b9,c81121399c5abc5b11338d03322154b0,cc9901a6d0a057ff7ca5174d1e7c43ea,df7a42a9f2e9410b14779dd7d84b3312,fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d5">2</data>
+      <data key="d6">4</data>
+      <data key="d7">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">03674d32dddec8e720f6d0ca4f93dc2b,09812e46272896a092703b99a7946b54,1f06b350039c40cf7d442bda14125ed3,29df4d8f34614ed6310d80dbf2f79b62,2b35984007a0307673b69e2b11120f66,3d6cfc5357d06654e6fd363fafe8f57c,42fa8bb00798f838a2b67521f358d7dc,4468616d4a26a01ef154bbe7934d700f,671fdb5b43f333c5b30b2fc51136ec90,6801a29f6d9ed4dd5ebb453c5785c565,7371a9e9818e579e599950e2d9c50e96,8bdd0e1995992c9b64ab62037f5206ba,92793e2ed5e49b30a41c9b6a6815c8ca,998622965439dfdc730b38e8696b323e,9d8fca9b116ffea2feb89205e8d5b9c9,a4e6ab31d2612b157e0c0f889fbfb5b9,c81121399c5abc5b11338d03322154b0,cc9901a6d0a057ff7ca5174d1e7c43ea,df7a42a9f2e9410b14779dd7d84b3312,fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d5">1</data>
+      <data key="d6">5</data>
+      <data key="d7">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">03674d32dddec8e720f6d0ca4f93dc2b,09812e46272896a092703b99a7946b54,1f06b350039c40cf7d442bda14125ed3,29df4d8f34614ed6310d80dbf2f79b62,2b35984007a0307673b69e2b11120f66,3d6cfc5357d06654e6fd363fafe8f57c,42fa8bb00798f838a2b67521f358d7dc,4468616d4a26a01ef154bbe7934d700f,671fdb5b43f333c5b30b2fc51136ec90,6801a29f6d9ed4dd5ebb453c5785c565,7371a9e9818e579e599950e2d9c50e96,8bdd0e1995992c9b64ab62037f5206ba,92793e2ed5e49b30a41c9b6a6815c8ca,998622965439dfdc730b38e8696b323e,9d8fca9b116ffea2feb89205e8d5b9c9,a4e6ab31d2612b157e0c0f889fbfb5b9,c81121399c5abc5b11338d03322154b0,cc9901a6d0a057ff7ca5174d1e7c43ea,df7a42a9f2e9410b14779dd7d84b3312,fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d5">4</data>
+      <data key="d6">6</data>
+      <data key="d7">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">03674d32dddec8e720f6d0ca4f93dc2b,09812e46272896a092703b99a7946b54,1f06b350039c40cf7d442bda14125ed3,29df4d8f34614ed6310d80dbf2f79b62,2b35984007a0307673b69e2b11120f66,3d6cfc5357d06654e6fd363fafe8f57c,42fa8bb00798f838a2b67521f358d7dc,4468616d4a26a01ef154bbe7934d700f,671fdb5b43f333c5b30b2fc51136ec90,6801a29f6d9ed4dd5ebb453c5785c565,7371a9e9818e579e599950e2d9c50e96,8bdd0e1995992c9b64ab62037f5206ba,92793e2ed5e49b30a41c9b6a6815c8ca,998622965439dfdc730b38e8696b323e,9d8fca9b116ffea2feb89205e8d5b9c9,a4e6ab31d2612b157e0c0f889fbfb5b9,c81121399c5abc5b11338d03322154b0,cc9901a6d0a057ff7ca5174d1e7c43ea,df7a42a9f2e9410b14779dd7d84b3312,fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d5">1</data>
+      <data key="d6">7</data>
+      <data key="d7">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">03674d32dddec8e720f6d0ca4f93dc2b,09812e46272896a092703b99a7946b54,1f06b350039c40cf7d442bda14125ed3,29df4d8f34614ed6310d80dbf2f79b62,2b35984007a0307673b69e2b11120f66,3d6cfc5357d06654e6fd363fafe8f57c,42fa8bb00798f838a2b67521f358d7dc,4468616d4a26a01ef154bbe7934d700f,671fdb5b43f333c5b30b2fc51136ec90,6801a29f6d9ed4dd5ebb453c5785c565,7371a9e9818e579e599950e2d9c50e96,8bdd0e1995992c9b64ab62037f5206ba,92793e2ed5e49b30a41c9b6a6815c8ca,998622965439dfdc730b38e8696b323e,9d8fca9b116ffea2feb89205e8d5b9c9,a4e6ab31d2612b157e0c0f889fbfb5b9,c81121399c5abc5b11338d03322154b0,cc9901a6d0a057ff7ca5174d1e7c43ea,df7a42a9f2e9410b14779dd7d84b3312,fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d5">1</data>
+      <data key="d6">8</data>
+      <data key="d7">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">03674d32dddec8e720f6d0ca4f93dc2b,09812e46272896a092703b99a7946b54,1f06b350039c40cf7d442bda14125ed3,29df4d8f34614ed6310d80dbf2f79b62,2b35984007a0307673b69e2b11120f66,3d6cfc5357d06654e6fd363fafe8f57c,42fa8bb00798f838a2b67521f358d7dc,4468616d4a26a01ef154bbe7934d700f,671fdb5b43f333c5b30b2fc51136ec90,6801a29f6d9ed4dd5ebb453c5785c565,7371a9e9818e579e599950e2d9c50e96,8bdd0e1995992c9b64ab62037f5206ba,92793e2ed5e49b30a41c9b6a6815c8ca,998622965439dfdc730b38e8696b323e,9d8fca9b116ffea2feb89205e8d5b9c9,a4e6ab31d2612b157e0c0f889fbfb5b9,c81121399c5abc5b11338d03322154b0,cc9901a6d0a057ff7ca5174d1e7c43ea,df7a42a9f2e9410b14779dd7d84b3312,fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d5">2</data>
+      <data key="d6">9</data>
+      <data key="d7">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">03674d32dddec8e720f6d0ca4f93dc2b,09812e46272896a092703b99a7946b54,1f06b350039c40cf7d442bda14125ed3,29df4d8f34614ed6310d80dbf2f79b62,2b35984007a0307673b69e2b11120f66,3d6cfc5357d06654e6fd363fafe8f57c,42fa8bb00798f838a2b67521f358d7dc,4468616d4a26a01ef154bbe7934d700f,671fdb5b43f333c5b30b2fc51136ec90,6801a29f6d9ed4dd5ebb453c5785c565,7371a9e9818e579e599950e2d9c50e96,8bdd0e1995992c9b64ab62037f5206ba,92793e2ed5e49b30a41c9b6a6815c8ca,998622965439dfdc730b38e8696b323e,9d8fca9b116ffea2feb89205e8d5b9c9,a4e6ab31d2612b157e0c0f889fbfb5b9,c81121399c5abc5b11338d03322154b0,cc9901a6d0a057ff7ca5174d1e7c43ea,df7a42a9f2e9410b14779dd7d84b3312,fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d5">1</data>
+      <data key="d6">10</data>
+      <data key="d7">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">03674d32dddec8e720f6d0ca4f93dc2b,09812e46272896a092703b99a7946b54,1f06b350039c40cf7d442bda14125ed3,29df4d8f34614ed6310d80dbf2f79b62,2b35984007a0307673b69e2b11120f66,3d6cfc5357d06654e6fd363fafe8f57c,42fa8bb00798f838a2b67521f358d7dc,4468616d4a26a01ef154bbe7934d700f,671fdb5b43f333c5b30b2fc51136ec90,6801a29f6d9ed4dd5ebb453c5785c565,7371a9e9818e579e599950e2d9c50e96,8bdd0e1995992c9b64ab62037f5206ba,92793e2ed5e49b30a41c9b6a6815c8ca,998622965439dfdc730b38e8696b323e,9d8fca9b116ffea2feb89205e8d5b9c9,a4e6ab31d2612b157e0c0f889fbfb5b9,c81121399c5abc5b11338d03322154b0,cc9901a6d0a057ff7ca5174d1e7c43ea,df7a42a9f2e9410b14779dd7d84b3312,fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d5">1</data>
+      <data key="d6">11</data>
+      <data key="d7">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">03674d32dddec8e720f6d0ca4f93dc2b,09812e46272896a092703b99a7946b54,1f06b350039c40cf7d442bda14125ed3,29df4d8f34614ed6310d80dbf2f79b62,2b35984007a0307673b69e2b11120f66,3d6cfc5357d06654e6fd363fafe8f57c,42fa8bb00798f838a2b67521f358d7dc,4468616d4a26a01ef154bbe7934d700f,671fdb5b43f333c5b30b2fc51136ec90,6801a29f6d9ed4dd5ebb453c5785c565,7371a9e9818e579e599950e2d9c50e96,8bdd0e1995992c9b64ab62037f5206ba,92793e2ed5e49b30a41c9b6a6815c8ca,998622965439dfdc730b38e8696b323e,9d8fca9b116ffea2feb89205e8d5b9c9,a4e6ab31d2612b157e0c0f889fbfb5b9,c81121399c5abc5b11338d03322154b0,cc9901a6d0a057ff7ca5174d1e7c43ea,df7a42a9f2e9410b14779dd7d84b3312,fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d5">0</data>
+      <data key="d6">12</data>
+      <data key="d7">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">03674d32dddec8e720f6d0ca4f93dc2b,09812e46272896a092703b99a7946b54,1f06b350039c40cf7d442bda14125ed3,29df4d8f34614ed6310d80dbf2f79b62,2b35984007a0307673b69e2b11120f66,3d6cfc5357d06654e6fd363fafe8f57c,42fa8bb00798f838a2b67521f358d7dc,4468616d4a26a01ef154bbe7934d700f,671fdb5b43f333c5b30b2fc51136ec90,6801a29f6d9ed4dd5ebb453c5785c565,7371a9e9818e579e599950e2d9c50e96,8bdd0e1995992c9b64ab62037f5206ba,92793e2ed5e49b30a41c9b6a6815c8ca,998622965439dfdc730b38e8696b323e,9d8fca9b116ffea2feb89205e8d5b9c9,a4e6ab31d2612b157e0c0f889fbfb5b9,c81121399c5abc5b11338d03322154b0,cc9901a6d0a057ff7ca5174d1e7c43ea,df7a42a9f2e9410b14779dd7d84b3312,fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d5">5</data>
+      <data key="d6">13</data>
+      <data key="d7">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;JULES HARDOUIN MANSART&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jules Hardouin Mansart was the architect responsible for designing and building parts of the Palace of Versailles, including the Hall of Mirrors."</data>
+      <data key="d2">8bdd0e1995992c9b64ab62037f5206ba</data>
+      <data key="d5">1</data>
+      <data key="d6">14</data>
+      <data key="d7">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;PALACE OF VERSAILLES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Palace of Versailles is a location in France where King Louis XIV's third building campaign took place."</data>
+      <data key="d2">8bdd0e1995992c9b64ab62037f5206ba</data>
+      <data key="d5">2</data>
+      <data key="d6">15</data>
+      <data key="d7">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;HALL OF MIRRORS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The construction of the Hall of Mirrors was a significant event during King Louis XIV's third building campaign at the Palace of Versailles."</data>
+      <data key="d2">8bdd0e1995992c9b64ab62037f5206ba</data>
+      <data key="d5">2</data>
+      <data key="d6">16</data>
+      <data key="d7">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;KING LOUIS XIV OF FRANCE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8bdd0e1995992c9b64ab62037f5206ba</data>
+      <data key="d5">1</data>
+      <data key="d6">17</data>
+      <data key="d7">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;CHARLES P&#201;LISSIER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Charles P&#233;lissier shared the lead with Raffaele di Paco after stage 5 of the 1931 Tour de France."</data>
+      <data key="d2">6801a29f6d9ed4dd5ebb453c5785c565</data>
+      <data key="d5">1</data>
+      <data key="d6">18</data>
+      <data key="d7">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;TOUR DE FRANCE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Tour de France is a road racing cycling event where Raffaele di Paco won several stages and wore the yellow jersey."</data>
+      <data key="d2">6801a29f6d9ed4dd5ebb453c5785c565</data>
+      <data key="d5">1</data>
+      <data key="d6">19</data>
+      <data key="d7">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;FAUGLIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Fauglia is a location in Tuscany, Italy, where Raffaele di Paco was born and died."</data>
+      <data key="d2">6801a29f6d9ed4dd5ebb453c5785c565</data>
+      <data key="d5">1</data>
+      <data key="d6">20</data>
+      <data key="d7">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;TUSCANY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Tuscany is a region in Italy where Fauglia is located."</data>
+      <data key="d2">6801a29f6d9ed4dd5ebb453c5785c565</data>
+      <data key="d5">0</data>
+      <data key="d6">21</data>
+      <data key="d7">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;RAFFAELE DI PACO&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6801a29f6d9ed4dd5ebb453c5785c565</data>
+      <data key="d5">3</data>
+      <data key="d6">22</data>
+      <data key="d7">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;BANQUE NATIONALE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Banque Nationale has a tower named Tour de la Banque Nationale as part of the Complexe Maisonneuve complex."</data>
+      <data key="d2">7371a9e9818e579e599950e2d9c50e96</data>
+      <data key="d5">1</data>
+      <data key="d6">23</data>
+      <data key="d7">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;MONTREAL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Montreal is a city in Quebec, Canada where the Complexe Maisonneuve office building complex is located."</data>
+      <data key="d2">7371a9e9818e579e599950e2d9c50e96</data>
+      <data key="d5">2</data>
+      <data key="d6">24</data>
+      <data key="d7">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;QUEBEC&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Quebec is a province in Canada where Montreal, the location of Complexe Maisonneuve, is situated."</data>
+      <data key="d2">7371a9e9818e579e599950e2d9c50e96</data>
+      <data key="d5">1</data>
+      <data key="d6">25</data>
+      <data key="d7">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Canada is the country where the city of Montreal and the province of Quebec are located, and where Complexe Maisonneuve is situated."</data>
+      <data key="d2">7371a9e9818e579e599950e2d9c50e96</data>
+      <data key="d5">0</data>
+      <data key="d6">26</data>
+      <data key="d7">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;VICTORIA SQUARE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Victoria Square is a location in Downtown Montreal facing which Complexe Maisonneuve is situated."</data>
+      <data key="d2">7371a9e9818e579e599950e2d9c50e96</data>
+      <data key="d5">0</data>
+      <data key="d6">27</data>
+      <data key="d7">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;QUARTIER INTERNATIONAL DISTRICT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Quartier international district is an area in Downtown Montreal where Complexe Maisonneuve is located."</data>
+      <data key="d2">7371a9e9818e579e599950e2d9c50e96</data>
+      <data key="d5">0</data>
+      <data key="d6">28</data>
+      <data key="d7">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;DOWNTOWN MONTREAL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Downtown Montreal is the area where Complexe Maisonneuve is situated, featuring Victoria Square and the Quartier international district."</data>
+      <data key="d2">7371a9e9818e579e599950e2d9c50e96</data>
+      <data key="d5">0</data>
+      <data key="d6">29</data>
+      <data key="d7">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;COMPLEXE MAISONNEUVE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7371a9e9818e579e599950e2d9c50e96</data>
+      <data key="d5">2</data>
+      <data key="d6">30</data>
+      <data key="d7">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;ANTONI GAUD&#205;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Antoni Gaud&#237; is an architect who designed the Palau G&#252;ell."</data>
+      <data key="d2">671fdb5b43f333c5b30b2fc51136ec90</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">31</data>
+      <data key="d7">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&quot;EUSEBI G&#220;ELL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Eusebi G&#252;ell is an industrial tycoon for whom the Palau G&#252;ell was built."</data>
+      <data key="d2">671fdb5b43f333c5b30b2fc51136ec90</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">32</data>
+      <data key="d7">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&quot;BARCELONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Barcelona is a city located in Catalonia, Spain, where the iconic Palau G&#252;ell is situated. It is also a geographic location that has been led by notable figures such as Pasqual Maragall, who served as Mayor from 1982 to 1997. Additionally, Barcelona is known as the hometown of Paco Godia, a prominent figure from the region.</data>
+      <data key="d2">671fdb5b43f333c5b30b2fc51136ec90,998622965439dfdc730b38e8696b323e,fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">33</data>
+      <data key="d7">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&quot;CATALONIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Catalonia is an autonomous community in Spain where Barcelona is located."</data>
+      <data key="d2">671fdb5b43f333c5b30b2fc51136ec90</data>
+      <data key="d5">0</data>
+      <data key="d6">34</data>
+      <data key="d7">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&quot;SPAIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Spain is a country located in Europe, notable for being home to the Palau G&#252;ell. It is also the country of origin for several individuals, including Francisco 'Paco' Javier Clos Orozco, Paco Godia, and Paco Roca, indicating their nationality. Additionally, Spain is the birthplace and homeland of Paco Roca.</data>
+      <data key="d2">3d6cfc5357d06654e6fd363fafe8f57c,671fdb5b43f333c5b30b2fc51136ec90,998622965439dfdc730b38e8696b323e,a4e6ab31d2612b157e0c0f889fbfb5b9</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">35</data>
+      <data key="d7">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&quot;UNESCO WORLD HERITAGE SITE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"UNESCO World Heritage Site is an organization that recognizes and protects cultural heritage sites, including the Works of Antoni Gaud&#237;."</data>
+      <data key="d2">671fdb5b43f333c5b30b2fc51136ec90</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">36</data>
+      <data key="d7">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&quot;PALAU G&#220;ELL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">671fdb5b43f333c5b30b2fc51136ec90</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">37</data>
+      <data key="d7">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&quot;IGNACIO DAZA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ignacio Daza was a Spanish engineer who designed the Castillo de San Marcos fort."</data>
+      <data key="d2">2b35984007a0307673b69e2b11120f66</data>
+      <data key="d5">1</data>
+      <data key="d6">38</data>
+      <data key="d7">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&quot;PEDRO MEN&#201;NDEZ DE AVIL&#201;S&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Pedro Men&#233;ndez de Avil&#233;s was a Spanish Admiral and conquistador who founded the city of St. Augustine, Florida."</data>
+      <data key="d2">2b35984007a0307673b69e2b11120f66</data>
+      <data key="d5">1</data>
+      <data key="d6">39</data>
+      <data key="d7">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <node id="&quot;FRANCISCO DE LA GUERRA Y DE LA VEGA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Francisco de la Guerra y de la Vega was a Governor who ordered the construction of the Castillo de San Marcos fort after a destructive raid by Robert Searles in 1668."</data>
+      <data key="d2">2b35984007a0307673b69e2b11120f66</data>
+      <data key="d5">1</data>
+      <data key="d6">40</data>
+      <data key="d7">3ce7c210a21b4deebad7cc9308148d86</data>
+    </node>
+    <node id="&quot;MANUEL DE CENDOYA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Manuel de Cendoya was an administrator who oversaw the construction of the Castillo de San Marcos fort under Governor Francisco de la Guerra y de la Vega's successor."</data>
+      <data key="d2">2b35984007a0307673b69e2b11120f66</data>
+      <data key="d5">1</data>
+      <data key="d6">41</data>
+      <data key="d7">d64ed762ea924caa95c8d06f072a9a96</data>
+    </node>
+    <node id="&quot;ROBERT SEARLES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Robert Searles was an English privateer who conducted a destructive raid on St. Augustine, Florida in 1668, leading to the construction of the Castillo de San Marcos fort."</data>
+      <data key="d2">2b35984007a0307673b69e2b11120f66</data>
+      <data key="d5">0</data>
+      <data key="d6">42</data>
+      <data key="d7">adf4ee3fbe9b4d0381044838c4f889c8</data>
+    </node>
+    <node id="&quot;ST. AUGUSTINE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"St. Augustine is a city located in Florida where the Castillo de San Marcos fort was built."</data>
+      <data key="d2">2b35984007a0307673b69e2b11120f66</data>
+      <data key="d5">1</data>
+      <data key="d6">43</data>
+      <data key="d7">32ee140946e5461f9275db664dc541a5</data>
+    </node>
+    <node id="&quot;FLORIDA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Florida is a state in the United States where the Castillo de San Marcos fort is located."</data>
+      <data key="d2">2b35984007a0307673b69e2b11120f66</data>
+      <data key="d5">0</data>
+      <data key="d6">44</data>
+      <data key="d7">c160b9cb27d6408ba6ab20214a2f3f81</data>
+    </node>
+    <node id="&quot;CASTILLO DE SAN MARCOS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2b35984007a0307673b69e2b11120f66</data>
+      <data key="d5">3</data>
+      <data key="d6">45</data>
+      <data key="d7">23527cd679ff4d5a988d52e7cd056078</data>
+    </node>
+    <node id="&quot;PALAU SOCCER LEAGUE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Palau Soccer League is the top level league in Palau, where Palau Track and Field Team competed."</data>
+      <data key="d2">09812e46272896a092703b99a7946b54</data>
+      <data key="d5">2</data>
+      <data key="d6">46</data>
+      <data key="d7">f1c6eed066f24cbdb376b910fce29ed4</data>
+    </node>
+    <node id="&quot;PALAU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Palau is a country where the Palau Soccer League takes place."</data>
+      <data key="d2">09812e46272896a092703b99a7946b54</data>
+      <data key="d5">1</data>
+      <data key="d6">47</data>
+      <data key="d7">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+    </node>
+    <node id="&quot;2004&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"2004 was the inaugural season of the Palau Soccer League, where Palau Track and Field Team finished third."</data>
+      <data key="d2">09812e46272896a092703b99a7946b54</data>
+      <data key="d5">1</data>
+      <data key="d6">48</data>
+      <data key="d7">147c038aef3e4422acbbc5f7938c4ab8</data>
+    </node>
+    <node id="&quot;PALAU TRACK AND FIELD TEAM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">09812e46272896a092703b99a7946b54</data>
+      <data key="d5">2</data>
+      <data key="d6">49</data>
+      <data key="d7">b7702b90c7f24190b864e8c6e64612a5</data>
+    </node>
+    <node id="&quot;F&#201;LIX CANDELA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"F&#233;lix Candela is an architect who has contributed to Valencia's international reputation through his public works."</data>
+      <data key="d2">03674d32dddec8e720f6d0ca4f93dc2b</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">50</data>
+      <data key="d7">de6fa24480894518ab3cbcb66f739266</data>
+    </node>
+    <node id="&quot;PALAU DE LA M&#218;SICA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Palau de la M&#250;sica is an iconic institution in Valencia that hosts exhibitions and performances, contributing to the city's cultural development."</data>
+      <data key="d2">03674d32dddec8e720f6d0ca4f93dc2b</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">51</data>
+      <data key="d7">6fae5ee1a831468aa585a1ea09095998</data>
+    </node>
+    <node id="&quot;PALACIO DE CONGRESOS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Palacio de Congresos is an iconic institution in Valencia that hosts exhibitions and performances, contributing to the city's cultural development."</data>
+      <data key="d2">03674d32dddec8e720f6d0ca4f93dc2b</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">52</data>
+      <data key="d7">ef32c4b208d041cc856f6837915dc1b0</data>
+    </node>
+    <node id="&quot;METRO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Metro is a public transportation system in Valencia that has contributed to the city's livability and tourism growth."</data>
+      <data key="d2">03674d32dddec8e720f6d0ca4f93dc2b</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">53</data>
+      <data key="d7">07b2425216bd4f0aa4e079827cb48ef5</data>
+    </node>
+    <node id="&quot;VALENCIAN MUSEUM OF ENLIGHTENMENT AND MODERNITY (MUSEO VALENCIANO DE LA ILUSTRACION Y LA MODERNIDAD)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Valencian Museum of Enlightenment and Modernity is an iconic institution in Valencia that hosts exhibitions and performances, contributing to the city's cultural development."</data>
+      <data key="d2">03674d32dddec8e720f6d0ca4f93dc2b</data>
+      <data key="d5">0</data>
+      <data key="d6">54</data>
+      <data key="d7">2670deebfa3f4d69bb82c28ab250a209</data>
+    </node>
+    <node id="&quot;INSTITUTE OF MODERN ART (INSTITUTO VALENCIANO DE ARTE MODERNO)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Institute of Modern Art is an iconic institution in Valencia that hosts exhibitions and performances, contributing to the city's cultural development."</data>
+      <data key="d2">03674d32dddec8e720f6d0ca4f93dc2b</data>
+      <data key="d5">0</data>
+      <data key="d6">55</data>
+      <data key="d7">404309e89a5241d6bff42c05a45df206</data>
+    </node>
+    <node id="&quot;JAUME MORERA I GAL&#205;CIA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jaume Morera i Gal&#237;cia is a painter who collaborated with the creation of the Museu d'Art Jaume Morera."</data>
+      <data key="d2">92793e2ed5e49b30a41c9b6a6815c8ca</data>
+      <data key="d5">0</data>
+      <data key="d6">56</data>
+      <data key="d7">b785a9025069417f94950ad231bb1441</data>
+    </node>
+    <node id="&quot;DIPUTACI&#211; DE LLEIDA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Diputaci&#243; de Lleida is an organization that created and financially supports the Museu d'Art Jaume Morera."</data>
+      <data key="d2">92793e2ed5e49b30a41c9b6a6815c8ca</data>
+      <data key="d5">1</data>
+      <data key="d6">57</data>
+      <data key="d7">3b6cd96a27304614850709aba1c9598b</data>
+    </node>
+    <node id="&quot;LLEIDA CITY COUNCIL (LA PAERIA)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Lleida City Council (La Paeria) is an organization that created and financially supports the Museu d'Art Jaume Morera."</data>
+      <data key="d2">92793e2ed5e49b30a41c9b6a6815c8ca</data>
+      <data key="d5">1</data>
+      <data key="d6">58</data>
+      <data key="d7">d54956b79dd147f894b67a8b97dcbef0</data>
+    </node>
+    <node id="&quot;DEPARTMENT OF CULTURE OF THE GENERALITAT OF CATALONIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Department of Culture of the Generalitat of Catalonia provides financial support to the Museu d'Art Jaume Morera."</data>
+      <data key="d2">92793e2ed5e49b30a41c9b6a6815c8ca</data>
+      <data key="d5">1</data>
+      <data key="d6">59</data>
+      <data key="d7">958beecdb5bb4060948415ffd75d2b03</data>
+    </node>
+    <node id="&quot;LLEIDA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lleida is a city in Catalonia where the Museu d'Art Jaume Morera is located."</data>
+      <data key="d2">92793e2ed5e49b30a41c9b6a6815c8ca</data>
+      <data key="d5">0</data>
+      <data key="d6">60</data>
+      <data key="d7">b999ed77e19e4f85b7f1ae79af5c002a</data>
+    </node>
+    <node id="&quot;MUSEU D'ART JAUME MORERA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">92793e2ed5e49b30a41c9b6a6815c8ca</data>
+      <data key="d5">3</data>
+      <data key="d6">61</data>
+      <data key="d7">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+    </node>
+    <node id="&quot;FORMULA ONE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Formula One is a racing event where Paco Godia participated."</data>
+      <data key="d2">998622965439dfdc730b38e8696b323e</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">62</data>
+      <data key="d7">4f3c97517f794ebfb49c4c6315f9cf23</data>
+    </node>
+    <node id="&quot;PACO GODIA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">998622965439dfdc730b38e8696b323e</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">63</data>
+      <data key="d7">1745a2485a9443bab76587ad650e9be0</data>
+    </node>
+    <node id="&quot;PACO ROCA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a4e6ab31d2612b157e0c0f889fbfb5b9</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">64</data>
+      <data key="d7">32e6ccab20d94029811127dbbe424c64</data>
+    </node>
+    <node id="&quot;JEAN DE LA VALL&#201;E&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jean de la Vall&#233;e is an architect who designed the Axel Oxenstierna palace."</data>
+      <data key="d2">9d8fca9b116ffea2feb89205e8d5b9c9</data>
+      <data key="d5">1</data>
+      <data key="d6">65</data>
+      <data key="d7">94a964c6992945ebb3833dfdfdc8d655</data>
+    </node>
+    <node id="&quot;AXEL OXENSTIERNA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Axel Oxenstierna was a Chancellor for whom the palace was constructed."</data>
+      <data key="d2">9d8fca9b116ffea2feb89205e8d5b9c9</data>
+      <data key="d5">1</data>
+      <data key="d6">66</data>
+      <data key="d7">1eb829d0ace042089f0746f78729696c</data>
+    </node>
+    <node id="&quot;STOCKHOLM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Stockholm is a location where the Old Town and Axel Oxenstierna palace are situated."</data>
+      <data key="d2">9d8fca9b116ffea2feb89205e8d5b9c9</data>
+      <data key="d5">1</data>
+      <data key="d6">67</data>
+      <data key="d7">015e7b58d1a14b44beab3bbc9f912c18</data>
+    </node>
+    <node id="&quot;OLD TOWN OF STOCKHOLM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Old Town of Stockholm is a neighborhood in Stockholm where the Axel Oxenstierna palace is located."</data>
+      <data key="d2">9d8fca9b116ffea2feb89205e8d5b9c9</data>
+      <data key="d5">1</data>
+      <data key="d6">68</data>
+      <data key="d7">26f88ab3e2e04c33a459ad6270ade565</data>
+    </node>
+    <node id="&quot;CONSTRUCTION OF AXEL OXENSTIERNA PALACE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The construction of Axel Oxenstierna palace started in 1653, marking an important event in its history."</data>
+      <data key="d2">9d8fca9b116ffea2feb89205e8d5b9c9</data>
+      <data key="d5">1</data>
+      <data key="d6">69</data>
+      <data key="d7">babe97e1d9784cffa1c85abc1e588126</data>
+    </node>
+    <node id="&quot;AXEL OXENSTIERNA PALACE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9d8fca9b116ffea2feb89205e8d5b9c9</data>
+      <data key="d5">3</data>
+      <data key="d6">70</data>
+      <data key="d7">1033a18c45aa4584b2aef6ab96890351</data>
+    </node>
+    <node id="&quot;LA FRESNAYE-AU-SAUVAGE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"La Fresnaye-au-Sauvage is a location in Normandy where Jean Vauquelin de la Fresnaye was born."</data>
+      <data key="d2">29df4d8f34614ed6310d80dbf2f79b62</data>
+      <data key="d5">2</data>
+      <data key="d6">71</data>
+      <data key="d7">c9b8ce91fc2945b4907fe35519339cac</data>
+    </node>
+    <node id="&quot;NORMANDY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Normandy is a region in France where La Fresnaye-au-Sauvage is located."</data>
+      <data key="d2">29df4d8f34614ed6310d80dbf2f79b62</data>
+      <data key="d5">1</data>
+      <data key="d6">72</data>
+      <data key="d7">fa3c4204421c48609e52c8de2da4c654</data>
+    </node>
+    <node id="&quot;JEAN VAUQUELIN DE LA FRESNAYE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">29df4d8f34614ed6310d80dbf2f79b62</data>
+      <data key="d5">1</data>
+      <data key="d6">73</data>
+      <data key="d7">53af055f068244d0ac861b2e89376495</data>
+    </node>
+    <node id="&quot;PASQUAL MARAGALL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Pasqual Maragall is a person who was President of the Generalitat de Catalunya (Government of Catalonia) from 2003-2006 and Mayor of Barcelona from 1982-1997, and was diagnosed with Alzheimer's disease in 2007."</data>
+      <data key="d2">fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">74</data>
+      <data key="d7">c03ab3ce8cb74ad2a03b94723bfab3c7</data>
+    </node>
+    <node id="&quot;GENERALITAT DE CATALUNYA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+The Generalitat de Catalunya refers to the autonomous community of Catalonia in Spain, which has its own government. This government, also known as the Government of Catalonia, had Pasqual Maragall serving as President from 2003-2006. The Generalitat de Catalunya also encompasses various entities, including Ferrocarrils de la Generalitat de Catalunya (FGC).</data>
+      <data key="d2">c81121399c5abc5b11338d03322154b0,fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">75</data>
+      <data key="d7">ed6d2eee9d7b4f5db466b1f6404d31cc</data>
+    </node>
+    <node id="&quot;ALZHEIMER'S DISEASE DIAGNOSIS EVENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Alzheimer's disease diagnosis event refers to the announcement made by Pasqual Maragall in October 2007 that he had been diagnosed with the disease."</data>
+      <data key="d2">fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">76</data>
+      <data key="d7">fc01e9baa80e417c9206f941bb279407</data>
+    </node>
+    <node id="&quot;PASQUAL MARAGALL FOUNDATION FOR RESEARCH ON ALZHEIMER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">77</data>
+      <data key="d7">56d0e5ebe79e4814bd1463cf6ca21394</data>
+    </node>
+    <node id="&quot;FERROCARRILS DE LA GENERALITAT DE CATALUNYA (FGC)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ferrocarrils de la Generalitat de Catalunya (FGC) is a public entity belonging to the Catalan government or Generalitat de Catalunya, responsible for running commuter train services."</data>
+      <data key="d2">c81121399c5abc5b11338d03322154b0</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">78</data>
+      <data key="d7">7c49f2710e8b4d3b8dc9310834406ea5</data>
+    </node>
+    <node id="&quot;TRANSPORTS METROPOLITANS DE BARCELONA (TMB)&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c81121399c5abc5b11338d03322154b0</data>
+      <data key="d5">1</data>
+      <data key="d6">79</data>
+      <data key="d7">c6d1e4f56c2843e89cf0b91c10bb6de2</data>
+    </node>
+    <node id="&quot;LINES L1, L2, L3, L4, L5, L9, L10, L11 AND THE FUNICULAR DE MONTJU&#207;C&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c81121399c5abc5b11338d03322154b0</data>
+      <data key="d5">1</data>
+      <data key="d6">80</data>
+      <data key="d7">0adb2d9941f34ef7b2f7743cc6225844</data>
+    </node>
+    <node id="&quot;LINES L6, L7, L8 AND L12&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c81121399c5abc5b11338d03322154b0</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">81</data>
+      <data key="d7">6b02373137fd438ba96af28f735cdbdb</data>
+    </node>
+    <node id="&quot;ANTENA 3&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Antena 3 is a television network that broadcast Los hombres de Paco."</data>
+      <data key="d2">df7a42a9f2e9410b14779dd7d84b3312</data>
+      <data key="d5">1</data>
+      <data key="d6">82</data>
+      <data key="d7">36a4fcd8efc144e6b8af9a1c7ab8b2ce</data>
+    </node>
+    <node id="&quot;DANIEL &#201;CIJA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Daniel &#201;cija is the creator of Los hombres de Paco."</data>
+      <data key="d2">df7a42a9f2e9410b14779dd7d84b3312</data>
+      <data key="d5">1</data>
+      <data key="d6">83</data>
+      <data key="d7">fbeef791d19b413a9c93c6608286ab63</data>
+    </node>
+    <node id="&quot;&#193;LEX PINA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"&#193;lex Pina is the co-creator of Los hombres de Paco."</data>
+      <data key="d2">df7a42a9f2e9410b14779dd7d84b3312</data>
+      <data key="d5">1</data>
+      <data key="d6">84</data>
+      <data key="d7">d2b629c0396f4180a03e16ddf3818589</data>
+    </node>
+    <node id="&quot;PACO TOUS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Paco Tous is an actor who starred in Los hombres de Paco."</data>
+      <data key="d2">df7a42a9f2e9410b14779dd7d84b3312</data>
+      <data key="d5">1</data>
+      <data key="d6">85</data>
+      <data key="d7">6102fc6619ed422ebc42588bfa97355d</data>
+    </node>
+    <node id="&quot;PEP&#211;N NIETO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Pep&#243;n Nieto is an actor who starred in Los hombres de Paco."</data>
+      <data key="d2">df7a42a9f2e9410b14779dd7d84b3312</data>
+      <data key="d5">1</data>
+      <data key="d6">86</data>
+      <data key="d7">8d141c0b80f74b79a05eed7fe161fe49</data>
+    </node>
+    <node id="&quot;ARGENTINA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Argentina is a country where Los hombres de Paco was broadcast."</data>
+      <data key="d2">df7a42a9f2e9410b14779dd7d84b3312</data>
+      <data key="d5">0</data>
+      <data key="d6">87</data>
+      <data key="d7">e22d1d1cd8d14f12b81828d940f40d70</data>
+    </node>
+    <node id="&quot;BULGARIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bulgaria is a country where Los hombres de Paco was broadcast."</data>
+      <data key="d2">df7a42a9f2e9410b14779dd7d84b3312</data>
+      <data key="d5">0</data>
+      <data key="d6">88</data>
+      <data key="d7">9ab48505fb1b487babd0d1f6d3a3f980</data>
+    </node>
+    <node id="&quot;CZECH REPUBLIC&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Czech Republic is a country where Los hombres de Paco was broadcast."</data>
+      <data key="d2">df7a42a9f2e9410b14779dd7d84b3312</data>
+      <data key="d5">0</data>
+      <data key="d6">89</data>
+      <data key="d7">148fffeb994541b2b4b6dcefda7001a8</data>
+    </node>
+    <node id="&quot;POLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Poland is a country where Los hombres de Paco was broadcast."</data>
+      <data key="d2">df7a42a9f2e9410b14779dd7d84b3312</data>
+      <data key="d5">0</data>
+      <data key="d6">90</data>
+      <data key="d7">89c08e793298442686292454a1abff31</data>
+    </node>
+    <node id="&quot;HUNGARY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hungary is a country where Los hommes de Paco was broadcast."</data>
+      <data key="d2">df7a42a9f2e9410b14779dd7d84b3312</data>
+      <data key="d5">0</data>
+      <data key="d6">91</data>
+      <data key="d7">0467928aa65e4a4fba62bdb1467e3a54</data>
+    </node>
+    <node id="&quot;MOROCCO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Morocco is a country where Los hombres de Paco was broadcast."</data>
+      <data key="d2">df7a42a9f2e9410b14779dd7d84b3312</data>
+      <data key="d5">0</data>
+      <data key="d6">92</data>
+      <data key="d7">43c3390303c6476cb65f584e37c3e81c</data>
+    </node>
+    <node id="&quot;ROMANIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Romania is a country where Los hombres de Paco was broadcast."</data>
+      <data key="d2">df7a42a9f2e9410b14779dd7d84b3312</data>
+      <data key="d5">0</data>
+      <data key="d6">93</data>
+      <data key="d7">fa14b16c17e3417dba5a4b473ea5b18d</data>
+    </node>
+    <node id="&quot;SERBIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Serbia is a country where Los hommes de Paco was broadcast."</data>
+      <data key="d2">df7a42a9f2e9410b14779dd7d84b3312</data>
+      <data key="d5">0</data>
+      <data key="d6">94</data>
+      <data key="d7">7cc3356d38de4328a51a5cbcb187dac3</data>
+    </node>
+    <node id="&quot;ITALY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Italy is a country where Los hombres de Paco was broadcast."</data>
+      <data key="d2">df7a42a9f2e9410b14779dd7d84b3312</data>
+      <data key="d5">0</data>
+      <data key="d6">95</data>
+      <data key="d7">bef16fb5fd7344cca5e295b13ef3e0cd</data>
+    </node>
+    <node id="&quot;SLOVAKIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Slovakia is a country where Los hombres de Paco was broadcast."</data>
+      <data key="d2">df7a42a9f2e9410b14779dd7d84b3312</data>
+      <data key="d5">0</data>
+      <data key="d6">96</data>
+      <data key="d7">bb9e01bc171d4326a29afda59ece8d17</data>
+    </node>
+    <node id="&quot;TURKEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Turkey is a country where Los hommes de Paco was broadcast."</data>
+      <data key="d2">df7a42a9f2e9410b14779dd7d84b3312</data>
+      <data key="d5">0</data>
+      <data key="d6">97</data>
+      <data key="d7">3c063eea52e94164b70c99431ea30bae</data>
+    </node>
+    <node id="&quot;LOS HOMBRES DE PACO&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">df7a42a9f2e9410b14779dd7d84b3312</data>
+      <data key="d5">5</data>
+      <data key="d6">98</data>
+      <data key="d7">252cc8452bfc4c2aa58cab68d8b61879</data>
+    </node>
+    <node id="&quot;ROYAL PALACE OF OLITE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Royal palace of Olite is a royal palace built during the 13th and 14th centuries for the kings of Navarre."</data>
+      <data key="d2">4468616d4a26a01ef154bbe7934d700f</data>
+      <data key="d5">1</data>
+      <data key="d6">99</data>
+      <data key="d7">7e2c84548fb94ee395ba8588d8f2a006</data>
+    </node>
+    <node id="&quot;MALBORK CASTLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Malbork Castle is an example of Brick Gothic architecture, built for the master of the Teutonic order."</data>
+      <data key="d2">4468616d4a26a01ef154bbe7934d700f</data>
+      <data key="d5">1</data>
+      <data key="d6">100</data>
+      <data key="d7">f034618dde7948beb6dab30176d0fc87</data>
+    </node>
+    <node id="&quot;DOGE'S PALACE OF VENICE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Doge's Palace of Venice is a partial survival of a former royal residence, built in the 15th century."</data>
+      <data key="d2">4468616d4a26a01ef154bbe7934d700f</data>
+      <data key="d5">1</data>
+      <data key="d6">101</data>
+      <data key="d7">5c41f96be13e49dba649454297834546</data>
+    </node>
+    <node id="&quot;PALAU DE LA GENERALITAT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Palau de la Generalitat is a palace located in Barcelona, built in the 15th century for the kings of Aragon."</data>
+      <data key="d2">4468616d4a26a01ef154bbe7934d700f</data>
+      <data key="d5">0</data>
+      <data key="d6">102</data>
+      <data key="d7">7ea4afbf8a264f29af29950ce98105ba</data>
+    </node>
+    <node id="&quot;CONCIERGERIE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Conciergerie is a former palace of the kings of France, located in Paris."</data>
+      <data key="d2">4468616d4a26a01ef154bbe7934d700f</data>
+      <data key="d5">0</data>
+      <data key="d6">103</data>
+      <data key="d7">91ff849d12b24574b0691dbddf44968b</data>
+    </node>
+    <node id="&quot;TEUTONIC ORDER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Teutonic order is an organization that commissioned the construction of Malbork Castle."</data>
+      <data key="d2">4468616d4a26a01ef154bbe7934d700f</data>
+      <data key="d5">1</data>
+      <data key="d6">104</data>
+      <data key="d7">d73c1f2fb3094d8dace42ad2a76e9a52</data>
+    </node>
+    <node id="&quot;KINGS OF NAVARRE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Kings of Navarre were the rulers who commissioned the construction of the Royal palace of Olite and Palais des Papes."</data>
+      <data key="d2">4468616d4a26a01ef154bbe7934d700f</data>
+      <data key="d5">1</data>
+      <data key="d6">105</data>
+      <data key="d7">cdc8901e668749889bd49bebdc4ff1f6</data>
+    </node>
+    <node id="&quot;KINGS OF ARAGON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Kings of Aragon were the rulers who commissioned the construction of the Palau de la Generalitat in Barcelona."</data>
+      <data key="d2">4468616d4a26a01ef154bbe7934d700f</data>
+      <data key="d5">0</data>
+      <data key="d6">106</data>
+      <data key="d7">36084a9fab53433493f079e97e68bf65</data>
+    </node>
+    <node id="&quot;KINGS OF FRANCE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Kings of France were the rulers who used the Conciergerie as their palace in Paris."</data>
+      <data key="d2">4468616d4a26a01ef154bbe7934d700f</data>
+      <data key="d5">0</data>
+      <data key="d6">107</data>
+      <data key="d7">eebcc7ec8e3e4df7aea83659bbdc2199</data>
+    </node>
+    <node id="&quot;PALAIS DES PAPES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4468616d4a26a01ef154bbe7934d700f</data>
+      <data key="d5">1</data>
+      <data key="d6">108</data>
+      <data key="d7">ceadf262ef834e9ab146b20650912cae</data>
+    </node>
+    <node id="&quot;AVIGNON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4468616d4a26a01ef154bbe7934d700f</data>
+      <data key="d5">1</data>
+      <data key="d6">109</data>
+      <data key="d7">7f65feab75424b53b24470d305ba331a</data>
+    </node>
+    <node id="&quot;VENICE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4468616d4a26a01ef154bbe7934d700f</data>
+      <data key="d5">1</data>
+      <data key="d6">110</data>
+      <data key="d7">fd9cb733b28d420cb5cef01e545a132c</data>
+    </node>
+    <node id="&quot;LA VANGUARDIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"La Vanguardia is a newspaper where Pedro Madue&#241;o Palma worked as a graphic reporter and later became Deputy to the Director."</data>
+      <data key="d2">42fa8bb00798f838a2b67521f358d7dc</data>
+      <data key="d5">1</data>
+      <data key="d6">111</data>
+      <data key="d7">0fbcca3f17c649a08aea64b5a7d9ef36</data>
+    </node>
+    <node id="&quot;CONDE DE BARCELONA FOUNDATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Conde de Barcelona Foundation awards the God&#243; Prize for Photojournalism, which Pedro Madue&#241;o Palma presided over as jury president."</data>
+      <data key="d2">42fa8bb00798f838a2b67521f358d7dc</data>
+      <data key="d5">1</data>
+      <data key="d6">112</data>
+      <data key="d7">482027a59f32484c9c44fd700615c1b6</data>
+    </node>
+    <node id="&quot;UNIVERSITY POMPEU FABRA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"University Pompeu Fabra is a location where Pedro Madue&#241;o Palma taught as an associate professor."</data>
+      <data key="d2">42fa8bb00798f838a2b67521f358d7dc</data>
+      <data key="d5">1</data>
+      <data key="d6">113</data>
+      <data key="d7">de837ff3d626451282ff6ac77a82216d</data>
+    </node>
+    <node id="&quot;AUTONOMOUS UNIVERSITY OF BARCELONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Autonomous University of Barcelona is a location where Pedro Madue&#241;o Palma taught graduate students."</data>
+      <data key="d2">42fa8bb00798f838a2b67521f358d7dc</data>
+      <data key="d5">1</data>
+      <data key="d6">114</data>
+      <data key="d7">460295fed3ae4cd39f9f274cec9c2506</data>
+    </node>
+    <node id="&quot;PRINCE FELIPE DE BORB&#211;N Y GRECIA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Prince Felipe de Borb&#243;n y Grecia had his official image taken by Pedro Madue&#241;o Palma between 2002-2010."</data>
+      <data key="d2">42fa8bb00798f838a2b67521f358d7dc</data>
+      <data key="d5">1</data>
+      <data key="d6">115</data>
+      <data key="d7">553b285bba60460ab1ed8341ae61282b</data>
+    </node>
+    <node id="&quot;ARTUR MAS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Artur Mas, the President of the Generalitat de Catalunya, had his official image taken by Pedro Madue&#241;o Palma in 2010."</data>
+      <data key="d2">42fa8bb00798f838a2b67521f358d7dc</data>
+      <data key="d5">1</data>
+      <data key="d6">116</data>
+      <data key="d7">cec95bf17e7e4c939b56c9c6f402a29f</data>
+    </node>
+    <node id="&quot;SALVADOR DAL&#205;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Salvador Dal&#237; was photographed by Pedro Madue&#241;o Palma during the last three years of his life."</data>
+      <data key="d2">42fa8bb00798f838a2b67521f358d7dc</data>
+      <data key="d5">1</data>
+      <data key="d6">117</data>
+      <data key="d7">599164aead034bc19446efacc77554d2</data>
+    </node>
+    <node id="&quot;PEDRO MADUE&#209;O PALMA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">42fa8bb00798f838a2b67521f358d7dc</data>
+      <data key="d5">7</data>
+      <data key="d6">118</data>
+      <data key="d7">bbf148ae4d48422f8fdef754cfa2b9e4</data>
+    </node>
+    <node id="&quot;ESTACI&#211; DEL NORD (NORTH STATION)&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Estaci&#243; del Nord (North Station) is the main railway terminus in Valencia."</data>
+      <data key="d2">cc9901a6d0a057ff7ca5174d1e7c43ea</data>
+      <data key="d5">1</data>
+      <data key="d6">119</data>
+      <data key="d7">de61b2670999433f807a6a1dc2b81e43</data>
+    </node>
+    <node id="&quot;VAL&#200;NCIA-JOAQU&#205;N SOROLLA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Val&#232;ncia-Joaqu&#237;n Sorolla is a temporary station built to accommodate high speed AVE trains."</data>
+      <data key="d2">cc9901a6d0a057ff7ca5174d1e7c43ea</data>
+      <data key="d5">0</data>
+      <data key="d6">120</data>
+      <data key="d7">3e95dacfe57b4d57b5da4310ef2e157f</data>
+    </node>
+    <node id="&quot;FERROCARRILS DE LA GENERALITAT VALENCIANA (FGV)&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">cc9901a6d0a057ff7ca5174d1e7c43ea</data>
+      <data key="d5">1</data>
+      <data key="d6">121</data>
+      <data key="d7">1f1545308e9347af91fd03b94aadc21f</data>
+    </node>
+    <node id="&quot;ALICANTE AIRPORT&quot;&lt;&gt;VALENCIA&quot;&lt;&gt;ALICANTE AIRPORT IS SITUATED SOUTH OF VALENCIA.&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">cc9901a6d0a057ff7ca5174d1e7c43ea</data>
+      <data key="d5">1</data>
+      <data key="d6">122</data>
+      <data key="d7">6ea81acaf232485e94fff638e03336e1</data>
+    </node>
+    <node id="7)&lt;|COMPLETE|&gt;I'LL ADD THE MISSING ENTITIES TO THE OUTPUT. HERE IS THE UPDATED LIST:(&quot;ENTITY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">cc9901a6d0a057ff7ca5174d1e7c43ea</data>
+      <data key="d5">1</data>
+      <data key="d6">123</data>
+      <data key="d7">d136b08d586d488f9e4188b524c85a29</data>
+    </node>
+    <edge source="&quot;CITY OF ARTS AND SCIENCES (CIUTAT DE LES ARTS I LES CI&#200;NCIES)&quot;" target="&quot;SANTIAGO CALATRAVA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Santiago Calatrava designed the City of Arts and Sciences complex in Valencia."</data>
+      <data key="d10">1f06b350039c40cf7d442bda14125ed3</data>
+      <data key="d11">cccfa151fedc4b218a8d96adc7dceabe</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VALENCIA&quot;" target="&quot;SANTIAGO CALATRAVA&quot;">
+      <data key="d8">2.0</data>
+      <data key="d9">Here is a comprehensive summary of the data:
+
+Valencia, a city that has benefited from the contributions of Santiago Calatrava, a renowned architect who was born in Valencia. Through his public works, Calatrava has significantly enhanced Valencia's international reputation. Moreover, he has designed several notable structures in the city, further solidifying his connection to his birthplace.
+
+Let me know if you need any adjustments!</data>
+      <data key="d10">03674d32dddec8e720f6d0ca4f93dc2b,1f06b350039c40cf7d442bda14125ed3</data>
+      <data key="d11">ce54725672a74ebcabe6127577dacb2b</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VALENCIA&quot;" target="&quot;F&#201;LIX CANDELA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"F&#233;lix Candela has contributed to Valencia's international reputation through his public works."</data>
+      <data key="d10">03674d32dddec8e720f6d0ca4f93dc2b</data>
+      <data key="d11">ea2b28ca1a974ffab4517811dc1d1e5c</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VALENCIA&quot;" target="&quot;PALAU DE LA M&#218;SICA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Palau de la M&#250;sica is an iconic institution in Valencia that hosts exhibitions and performances, contributing to the city's cultural development."</data>
+      <data key="d10">03674d32dddec8e720f6d0ca4f93dc2b</data>
+      <data key="d11">aff21f1da1654e7babdcf3fb0e4a75fc</data>
+      <data key="d12">3</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VALENCIA&quot;" target="&quot;PALACIO DE CONGRESOS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Palacio de Congresos is an iconic institution in Valencia that hosts exhibitions and performances, contributing to the city's cultural development."</data>
+      <data key="d10">03674d32dddec8e720f6d0ca4f93dc2b</data>
+      <data key="d11">dc2cc9016e3f49dbac7232f05cce794d</data>
+      <data key="d12">4</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VALENCIA&quot;" target="&quot;METRO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Metro is a public transportation system in Valencia that has contributed to the city's livability and tourism growth."</data>
+      <data key="d10">03674d32dddec8e720f6d0ca4f93dc2b</data>
+      <data key="d11">6ea0cef05f694dcea455478f40674e45</data>
+      <data key="d12">5</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VALENCIA&quot;" target="&quot;PACO ROCA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Paco Roca was born in Valencia."</data>
+      <data key="d10">a4e6ab31d2612b157e0c0f889fbfb5b9</data>
+      <data key="d11">7ab5d53a872f4dfc98f3d386879f3c75</data>
+      <data key="d12">6</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MUSIC PALACE (PALAU DE LA M&#218;SICA)&quot;" target="&quot;SANTIAGO CALATRAVA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Santiago Calatrava designed the Music Palace in Valencia."</data>
+      <data key="d10">1f06b350039c40cf7d442bda14125ed3</data>
+      <data key="d11">af1d0fec22114a3398b8016f5225f9ed</data>
+      <data key="d12">7</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is the county seat of Pima County."</data>
+      <data key="d10">03674d32dddec8e720f6d0ca4f93dc2b,09812e46272896a092703b99a7946b54,1f06b350039c40cf7d442bda14125ed3,29df4d8f34614ed6310d80dbf2f79b62,2b35984007a0307673b69e2b11120f66,3d6cfc5357d06654e6fd363fafe8f57c,42fa8bb00798f838a2b67521f358d7dc,4468616d4a26a01ef154bbe7934d700f,671fdb5b43f333c5b30b2fc51136ec90,6801a29f6d9ed4dd5ebb453c5785c565,7371a9e9818e579e599950e2d9c50e96,8bdd0e1995992c9b64ab62037f5206ba,92793e2ed5e49b30a41c9b6a6815c8ca,998622965439dfdc730b38e8696b323e,9d8fca9b116ffea2feb89205e8d5b9c9,a4e6ab31d2612b157e0c0f889fbfb5b9,c81121399c5abc5b11338d03322154b0,cc9901a6d0a057ff7ca5174d1e7c43ea,df7a42a9f2e9410b14779dd7d84b3312,fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d11">b07a7f088364459098cd8511ff27a4c8</data>
+      <data key="d12">8</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Pima County is a county in Arizona."</data>
+      <data key="d10">03674d32dddec8e720f6d0ca4f93dc2b,09812e46272896a092703b99a7946b54,1f06b350039c40cf7d442bda14125ed3,29df4d8f34614ed6310d80dbf2f79b62,2b35984007a0307673b69e2b11120f66,3d6cfc5357d06654e6fd363fafe8f57c,42fa8bb00798f838a2b67521f358d7dc,4468616d4a26a01ef154bbe7934d700f,671fdb5b43f333c5b30b2fc51136ec90,6801a29f6d9ed4dd5ebb453c5785c565,7371a9e9818e579e599950e2d9c50e96,8bdd0e1995992c9b64ab62037f5206ba,92793e2ed5e49b30a41c9b6a6815c8ca,998622965439dfdc730b38e8696b323e,9d8fca9b116ffea2feb89205e8d5b9c9,a4e6ab31d2612b157e0c0f889fbfb5b9,c81121399c5abc5b11338d03322154b0,cc9901a6d0a057ff7ca5174d1e7c43ea,df7a42a9f2e9410b14779dd7d84b3312,fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d11">8870cf2b5df64d2cab5820f67e29b9f1</data>
+      <data key="d12">9</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The University of Arizona is located in Tucson."</data>
+      <data key="d10">03674d32dddec8e720f6d0ca4f93dc2b,09812e46272896a092703b99a7946b54,1f06b350039c40cf7d442bda14125ed3,29df4d8f34614ed6310d80dbf2f79b62,2b35984007a0307673b69e2b11120f66,3d6cfc5357d06654e6fd363fafe8f57c,42fa8bb00798f838a2b67521f358d7dc,4468616d4a26a01ef154bbe7934d700f,671fdb5b43f333c5b30b2fc51136ec90,6801a29f6d9ed4dd5ebb453c5785c565,7371a9e9818e579e599950e2d9c50e96,8bdd0e1995992c9b64ab62037f5206ba,92793e2ed5e49b30a41c9b6a6815c8ca,998622965439dfdc730b38e8696b323e,9d8fca9b116ffea2feb89205e8d5b9c9,a4e6ab31d2612b157e0c0f889fbfb5b9,c81121399c5abc5b11338d03322154b0,cc9901a6d0a057ff7ca5174d1e7c43ea,df7a42a9f2e9410b14779dd7d84b3312,fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d11">cd130938a2844050be991af70baf5ee0</data>
+      <data key="d12">10</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Arizona is a state in the United States."</data>
+      <data key="d10">03674d32dddec8e720f6d0ca4f93dc2b,09812e46272896a092703b99a7946b54,1f06b350039c40cf7d442bda14125ed3,29df4d8f34614ed6310d80dbf2f79b62,2b35984007a0307673b69e2b11120f66,3d6cfc5357d06654e6fd363fafe8f57c,42fa8bb00798f838a2b67521f358d7dc,4468616d4a26a01ef154bbe7934d700f,671fdb5b43f333c5b30b2fc51136ec90,6801a29f6d9ed4dd5ebb453c5785c565,7371a9e9818e579e599950e2d9c50e96,8bdd0e1995992c9b64ab62037f5206ba,92793e2ed5e49b30a41c9b6a6815c8ca,998622965439dfdc730b38e8696b323e,9d8fca9b116ffea2feb89205e8d5b9c9,a4e6ab31d2612b157e0c0f889fbfb5b9,c81121399c5abc5b11338d03322154b0,cc9901a6d0a057ff7ca5174d1e7c43ea,df7a42a9f2e9410b14779dd7d84b3312,fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d11">43544b99c3b04b059546198a0ae6366d</data>
+      <data key="d12">11</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is a city in Arizona."</data>
+      <data key="d10">03674d32dddec8e720f6d0ca4f93dc2b,09812e46272896a092703b99a7946b54,1f06b350039c40cf7d442bda14125ed3,29df4d8f34614ed6310d80dbf2f79b62,2b35984007a0307673b69e2b11120f66,3d6cfc5357d06654e6fd363fafe8f57c,42fa8bb00798f838a2b67521f358d7dc,4468616d4a26a01ef154bbe7934d700f,671fdb5b43f333c5b30b2fc51136ec90,6801a29f6d9ed4dd5ebb453c5785c565,7371a9e9818e579e599950e2d9c50e96,8bdd0e1995992c9b64ab62037f5206ba,92793e2ed5e49b30a41c9b6a6815c8ca,998622965439dfdc730b38e8696b323e,9d8fca9b116ffea2feb89205e8d5b9c9,a4e6ab31d2612b157e0c0f889fbfb5b9,c81121399c5abc5b11338d03322154b0,cc9901a6d0a057ff7ca5174d1e7c43ea,df7a42a9f2e9410b14779dd7d84b3312,fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d11">a671bf7fea2f4514b6e96ba99127fafd</data>
+      <data key="d12">12</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Phoenix is a city in Arizona."</data>
+      <data key="d10">03674d32dddec8e720f6d0ca4f93dc2b,09812e46272896a092703b99a7946b54,1f06b350039c40cf7d442bda14125ed3,29df4d8f34614ed6310d80dbf2f79b62,2b35984007a0307673b69e2b11120f66,3d6cfc5357d06654e6fd363fafe8f57c,42fa8bb00798f838a2b67521f358d7dc,4468616d4a26a01ef154bbe7934d700f,671fdb5b43f333c5b30b2fc51136ec90,6801a29f6d9ed4dd5ebb453c5785c565,7371a9e9818e579e599950e2d9c50e96,8bdd0e1995992c9b64ab62037f5206ba,92793e2ed5e49b30a41c9b6a6815c8ca,998622965439dfdc730b38e8696b323e,9d8fca9b116ffea2feb89205e8d5b9c9,a4e6ab31d2612b157e0c0f889fbfb5b9,c81121399c5abc5b11338d03322154b0,cc9901a6d0a057ff7ca5174d1e7c43ea,df7a42a9f2e9410b14779dd7d84b3312,fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d11">525f41ea20274a05af4e52b625b473f3</data>
+      <data key="d12">13</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d10">03674d32dddec8e720f6d0ca4f93dc2b,09812e46272896a092703b99a7946b54,1f06b350039c40cf7d442bda14125ed3,29df4d8f34614ed6310d80dbf2f79b62,2b35984007a0307673b69e2b11120f66,3d6cfc5357d06654e6fd363fafe8f57c,42fa8bb00798f838a2b67521f358d7dc,4468616d4a26a01ef154bbe7934d700f,671fdb5b43f333c5b30b2fc51136ec90,6801a29f6d9ed4dd5ebb453c5785c565,7371a9e9818e579e599950e2d9c50e96,8bdd0e1995992c9b64ab62037f5206ba,92793e2ed5e49b30a41c9b6a6815c8ca,998622965439dfdc730b38e8696b323e,9d8fca9b116ffea2feb89205e8d5b9c9,a4e6ab31d2612b157e0c0f889fbfb5b9,c81121399c5abc5b11338d03322154b0,cc9901a6d0a057ff7ca5174d1e7c43ea,df7a42a9f2e9410b14779dd7d84b3312,fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d11">071a416efbec4f0886c19ac68f6d43cb</data>
+      <data key="d12">14</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Mexico shares an international border with the United States."</data>
+      <data key="d10">03674d32dddec8e720f6d0ca4f93dc2b,09812e46272896a092703b99a7946b54,1f06b350039c40cf7d442bda14125ed3,29df4d8f34614ed6310d80dbf2f79b62,2b35984007a0307673b69e2b11120f66,3d6cfc5357d06654e6fd363fafe8f57c,42fa8bb00798f838a2b67521f358d7dc,4468616d4a26a01ef154bbe7934d700f,671fdb5b43f333c5b30b2fc51136ec90,6801a29f6d9ed4dd5ebb453c5785c565,7371a9e9818e579e599950e2d9c50e96,8bdd0e1995992c9b64ab62037f5206ba,92793e2ed5e49b30a41c9b6a6815c8ca,998622965439dfdc730b38e8696b323e,9d8fca9b116ffea2feb89205e8d5b9c9,a4e6ab31d2612b157e0c0f889fbfb5b9,c81121399c5abc5b11338d03322154b0,cc9901a6d0a057ff7ca5174d1e7c43ea,df7a42a9f2e9410b14779dd7d84b3312,fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d11">6d8473ef3b1042bf87178a611e3dbcc6</data>
+      <data key="d12">15</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d10">03674d32dddec8e720f6d0ca4f93dc2b,09812e46272896a092703b99a7946b54,1f06b350039c40cf7d442bda14125ed3,29df4d8f34614ed6310d80dbf2f79b62,2b35984007a0307673b69e2b11120f66,3d6cfc5357d06654e6fd363fafe8f57c,42fa8bb00798f838a2b67521f358d7dc,4468616d4a26a01ef154bbe7934d700f,671fdb5b43f333c5b30b2fc51136ec90,6801a29f6d9ed4dd5ebb453c5785c565,7371a9e9818e579e599950e2d9c50e96,8bdd0e1995992c9b64ab62037f5206ba,92793e2ed5e49b30a41c9b6a6815c8ca,998622965439dfdc730b38e8696b323e,9d8fca9b116ffea2feb89205e8d5b9c9,a4e6ab31d2612b157e0c0f889fbfb5b9,c81121399c5abc5b11338d03322154b0,cc9901a6d0a057ff7ca5174d1e7c43ea,df7a42a9f2e9410b14779dd7d84b3312,fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d11">30c9641543c24773938bd8ec57ea98ab</data>
+      <data key="d12">16</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JULES HARDOUIN MANSART&quot;" target="&quot;HALL OF MIRRORS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jules Hardouin Mansart designed and built the Hall of Mirrors as part of King Louis XIV's third building campaign."</data>
+      <data key="d10">8bdd0e1995992c9b64ab62037f5206ba</data>
+      <data key="d11">18b839da898e4026b81727d759d95c6a</data>
+      <data key="d12">17</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PALACE OF VERSAILLES&quot;" target="&quot;KING LOUIS XIV OF FRANCE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"King Louis XIV of France commissioned and oversaw the construction of the Palace of Versailles."</data>
+      <data key="d10">8bdd0e1995992c9b64ab62037f5206ba</data>
+      <data key="d11">eeef6ae5c464400c8755900b4f1ac37a</data>
+      <data key="d12">18</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PALACE OF VERSAILLES&quot;" target="&quot;HALL OF MIRRORS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Palace of Versailles is the location where the Hall of Mirrors was constructed."</data>
+      <data key="d10">8bdd0e1995992c9b64ab62037f5206ba</data>
+      <data key="d11">422433aa45804c7ebb973b2fafce5da6</data>
+      <data key="d12">19</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CHARLES P&#201;LISSIER&quot;" target="&quot;RAFFAELE DI PACO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Raffaele di Paco shared the lead with Charles P&#233;lissier after stage 5 of the 1931 Tour de France."</data>
+      <data key="d10">6801a29f6d9ed4dd5ebb453c5785c565</data>
+      <data key="d11">86505bca739d4bccaaa1a8e0f3baffdc</data>
+      <data key="d12">20</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TOUR DE FRANCE&quot;" target="&quot;RAFFAELE DI PACO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Raffaele di Paco participated in and won several stages of the Tour de France."</data>
+      <data key="d10">6801a29f6d9ed4dd5ebb453c5785c565</data>
+      <data key="d11">1af9faf341e14a5bbf4ddc9080e8dc0b</data>
+      <data key="d12">21</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FAUGLIA&quot;" target="&quot;RAFFAELE DI PACO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Raffaele di Paco was born and died in Fauglia, Tuscany."</data>
+      <data key="d10">6801a29f6d9ed4dd5ebb453c5785c565</data>
+      <data key="d11">353d91abc68648639d65a549e59b5cf3</data>
+      <data key="d12">22</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BANQUE NATIONALE&quot;" target="&quot;COMPLEXE MAISONNEUVE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Tour de la Banque Nationale is part of the Complexe Maisonneuve complex."</data>
+      <data key="d10">7371a9e9818e579e599950e2d9c50e96</data>
+      <data key="d11">7ce637e4f35b42e3a9f8272cab69cd22</data>
+      <data key="d12">23</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MONTREAL&quot;" target="&quot;COMPLEXE MAISONNEUVE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Complexe Maisonneuve is located in Montreal, Quebec, Canada."</data>
+      <data key="d10">7371a9e9818e579e599950e2d9c50e96</data>
+      <data key="d11">4d999d7744b04a998475f8f8531589f0</data>
+      <data key="d12">24</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MONTREAL&quot;" target="&quot;QUEBEC&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Montreal is a city located in the province of Quebec, Canada."</data>
+      <data key="d10">7371a9e9818e579e599950e2d9c50e96</data>
+      <data key="d11">9a6f414210e14841a5b0e661aedc898d</data>
+      <data key="d12">25</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ANTONI GAUD&#205;&quot;" target="&quot;PALAU G&#220;ELL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Palau G&#252;ell was designed by Antoni Gaud&#237;."</data>
+      <data key="d10">671fdb5b43f333c5b30b2fc51136ec90</data>
+      <data key="d11">db541b7260974db8bac94e953009f60e</data>
+      <data key="d12">26</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;EUSEBI G&#220;ELL&quot;" target="&quot;PALAU G&#220;ELL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Palau G&#252;ell was built for Eusebi G&#252;ell."</data>
+      <data key="d10">671fdb5b43f333c5b30b2fc51136ec90</data>
+      <data key="d11">f2ff8044718648e18acef16dd9a65436</data>
+      <data key="d12">27</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BARCELONA&quot;" target="&quot;PALAU G&#220;ELL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Palau G&#252;ell is situated in Barcelona."</data>
+      <data key="d10">671fdb5b43f333c5b30b2fc51136ec90</data>
+      <data key="d11">00d785e7d76b47ec81b508e768d40584</data>
+      <data key="d12">28</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BARCELONA&quot;" target="&quot;PACO GODIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Paco Godia was from Barcelona."</data>
+      <data key="d10">998622965439dfdc730b38e8696b323e</data>
+      <data key="d11">87915637da3e474c9349bd0ae604bd95</data>
+      <data key="d12">29</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BARCELONA&quot;" target="&quot;PASQUAL MARAGALL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Pasqual Maragall served as Mayor of Barcelona from 1982-1997."</data>
+      <data key="d10">fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d11">8f1eba29f39e411188200bf0d14628ec</data>
+      <data key="d12">30</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SPAIN&quot;" target="&quot;PACO GODIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Paco Godia was from Spain."</data>
+      <data key="d10">998622965439dfdc730b38e8696b323e</data>
+      <data key="d11">7282c73622b8408e97289d959faff483</data>
+      <data key="d12">31</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SPAIN&quot;" target="&quot;PACO ROCA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Paco Roca is a Spanish national."</data>
+      <data key="d10">a4e6ab31d2612b157e0c0f889fbfb5b9</data>
+      <data key="d11">3deb220d31f74103aa44870a36a63220</data>
+      <data key="d12">32</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNESCO WORLD HERITAGE SITE&quot;" target="&quot;PALAU G&#220;ELL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Palau G&#252;ell is part of the UNESCO World Heritage Site 'Works of Antoni Gaud&#237;'."</data>
+      <data key="d10">671fdb5b43f333c5b30b2fc51136ec90</data>
+      <data key="d11">af7a1584dd15492cb9a4940e285f57fc</data>
+      <data key="d12">33</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;IGNACIO DAZA&quot;" target="&quot;CASTILLO DE SAN MARCOS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ignacio Daza designed the Castillo de San Marcos fort."</data>
+      <data key="d10">2b35984007a0307673b69e2b11120f66</data>
+      <data key="d11">6e8d9029ce4e4ea182367173ab2c7bbf</data>
+      <data key="d12">34</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PEDRO MEN&#201;NDEZ DE AVIL&#201;S&quot;" target="&quot;ST. AUGUSTINE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Pedro Men&#233;ndez de Avil&#233;s founded the city of St. Augustine, Florida."</data>
+      <data key="d10">2b35984007a0307673b69e2b11120f66</data>
+      <data key="d11">cbf232211e7d4eb6abdbe182f71c2cf0</data>
+      <data key="d12">35</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FRANCISCO DE LA GUERRA Y DE LA VEGA&quot;" target="&quot;CASTILLO DE SAN MARCOS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Francisco de la Guerra y de la Vega ordered the construction of the Castillo de San Marcos fort."</data>
+      <data key="d10">2b35984007a0307673b69e2b11120f66</data>
+      <data key="d11">bb0cff774a4440b289cc6f3b929fe13c</data>
+      <data key="d12">36</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MANUEL DE CENDOYA&quot;" target="&quot;CASTILLO DE SAN MARCOS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Manuel de Cendoya oversaw the construction of the Castillo de San Marcos fort."</data>
+      <data key="d10">2b35984007a0307673b69e2b11120f66</data>
+      <data key="d11">ce55841ebfdd47008bab8c258f10372e</data>
+      <data key="d12">37</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PALAU SOCCER LEAGUE&quot;" target="&quot;PALAU TRACK AND FIELD TEAM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Palau Track and Field Team competed in the Palau Soccer League."</data>
+      <data key="d10">09812e46272896a092703b99a7946b54</data>
+      <data key="d11">6090e736374d45fd84f0e4610a314f8f</data>
+      <data key="d12">38</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PALAU SOCCER LEAGUE&quot;" target="&quot;PALAU&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Palau Soccer League takes place in Palau."</data>
+      <data key="d10">09812e46272896a092703b99a7946b54</data>
+      <data key="d11">0e8d921ccd8d4a8594b65b7fd19f7120</data>
+      <data key="d12">39</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;2004&quot;" target="&quot;PALAU TRACK AND FIELD TEAM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Palau Track and Field Team finished third in the 2004 season of the Palau Soccer League."</data>
+      <data key="d10">09812e46272896a092703b99a7946b54</data>
+      <data key="d11">59c726a8792d443e84ab052cb7942b4a</data>
+      <data key="d12">40</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DIPUTACI&#211; DE LLEIDA&quot;" target="&quot;MUSEU D'ART JAUME MORERA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Diputaci&#243; de Lleida created and financially supports the Museu d'Art Jaume Morera."</data>
+      <data key="d10">92793e2ed5e49b30a41c9b6a6815c8ca</data>
+      <data key="d11">4f2c665decf242b0bfcaf7350b0e02ed</data>
+      <data key="d12">41</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LLEIDA CITY COUNCIL (LA PAERIA)&quot;" target="&quot;MUSEU D'ART JAUME MORERA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Lleida City Council (La Paeria) created and financially supports the Museu d'Art Jaume Morera."</data>
+      <data key="d10">92793e2ed5e49b30a41c9b6a6815c8ca</data>
+      <data key="d11">66cdf168f36d4a57a505028c97dc06e0</data>
+      <data key="d12">42</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DEPARTMENT OF CULTURE OF THE GENERALITAT OF CATALONIA&quot;" target="&quot;MUSEU D'ART JAUME MORERA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Department of Culture of the Generalitat of Catalonia provides financial support to the Museu d'Art Jaume Morera."</data>
+      <data key="d10">92793e2ed5e49b30a41c9b6a6815c8ca</data>
+      <data key="d11">38f51478f41f48db9bee570859b6f43e</data>
+      <data key="d12">43</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FORMULA ONE&quot;" target="&quot;PACO GODIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Paco Godia participated in Formula One races."</data>
+      <data key="d10">998622965439dfdc730b38e8696b323e</data>
+      <data key="d11">896d2a51e8de47de85ba8ced108c3d53</data>
+      <data key="d12">44</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JEAN DE LA VALL&#201;E&quot;" target="&quot;AXEL OXENSTIERNA PALACE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jean de la Vall&#233;e designed the Axel Oxenstierna palace."</data>
+      <data key="d10">9d8fca9b116ffea2feb89205e8d5b9c9</data>
+      <data key="d11">14555b518e954637b83aa762dc03164e</data>
+      <data key="d12">45</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AXEL OXENSTIERNA&quot;" target="&quot;AXEL OXENSTIERNA PALACE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The palace was constructed for Chancellor Axel Oxenstierna."</data>
+      <data key="d10">9d8fca9b116ffea2feb89205e8d5b9c9</data>
+      <data key="d11">b1f6164116d44fe8b8f135d7f65b9e58</data>
+      <data key="d12">46</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;STOCKHOLM&quot;" target="&quot;OLD TOWN OF STOCKHOLM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Old Town is a neighborhood located in Stockholm."</data>
+      <data key="d10">9d8fca9b116ffea2feb89205e8d5b9c9</data>
+      <data key="d11">c8b2408617804483b620e1a6691ac90d</data>
+      <data key="d12">47</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CONSTRUCTION OF AXEL OXENSTIERNA PALACE&quot;" target="&quot;AXEL OXENSTIERNA PALACE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The construction of the palace started in 1653, marking an important event in its history."</data>
+      <data key="d10">9d8fca9b116ffea2feb89205e8d5b9c9</data>
+      <data key="d11">a5e0d1644eb547ba9a5c3211aac4631a</data>
+      <data key="d12">48</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LA FRESNAYE-AU-SAUVAGE&quot;" target="&quot;JEAN VAUQUELIN DE LA FRESNAYE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jean Vauquelin de la Fresnaye was born at the ch&#226;teau of La Fresnaye-au-Sauvage."</data>
+      <data key="d10">29df4d8f34614ed6310d80dbf2f79b62</data>
+      <data key="d11">5a28b94bc63b44edb30c54748fd14f15</data>
+      <data key="d12">49</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LA FRESNAYE-AU-SAUVAGE&quot;" target="&quot;NORMANDY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"La Fresnaye-au-Sauvage is located in Normandy."</data>
+      <data key="d10">29df4d8f34614ed6310d80dbf2f79b62</data>
+      <data key="d11">f97011b2a99d44648e18d517e1eae15c</data>
+      <data key="d12">50</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PASQUAL MARAGALL&quot;" target="&quot;PASQUAL MARAGALL FOUNDATION FOR RESEARCH ON ALZHEIMER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Pasqual Maragall Foundation for Research on Alzheimer was founded as a result of Pasqual Maragall's commitment to research on Alzheimer's disease."</data>
+      <data key="d10">fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d11">35489ca6a63b47d6a8913cf333818bc1</data>
+      <data key="d12">51</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PASQUAL MARAGALL&quot;" target="&quot;GENERALITAT DE CATALUNYA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Pasqual Maragall served as President of the Generalitat de Catalunya from 2003-2006."</data>
+      <data key="d10">fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d11">5d3344f45e654d2c808481672f2f08dd</data>
+      <data key="d12">52</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PASQUAL MARAGALL&quot;" target="&quot;ALZHEIMER'S DISEASE DIAGNOSIS EVENT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Pasqual Maragall announced that he had been diagnosed with Alzheimer's disease in October 2007."</data>
+      <data key="d10">fd1c8e2af6d4410edd3e8d58477ccaa8</data>
+      <data key="d11">6fb57f83baec45c9b30490ee991f433f</data>
+      <data key="d12">53</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GENERALITAT DE CATALUNYA&quot;" target="&quot;FERROCARRILS DE LA GENERALITAT DE CATALUNYA (FGC)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Generalitat de Catalunya is the governing body that owns Ferrocarrils de la Generalitat de Catalunya (FGC)."</data>
+      <data key="d10">c81121399c5abc5b11338d03322154b0</data>
+      <data key="d11">68762e6f0d1c41cd857c6b964a8e76c3</data>
+      <data key="d12">54</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FERROCARRILS DE LA GENERALITAT DE CATALUNYA (FGC)&quot;" target="&quot;LINES L6, L7, L8 AND L12&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ferrocarrils de la Generalitat de Catalunya (FGC) runs these commuter train services."</data>
+      <data key="d10">c81121399c5abc5b11338d03322154b0</data>
+      <data key="d11">70634e10a5e845aa8c6a32fe7e8eb2b2</data>
+      <data key="d12">55</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TRANSPORTS METROPOLITANS DE BARCELONA (TMB)&quot;" target="&quot;LINES L1, L2, L3, L4, L5, L9, L10, L11 AND THE FUNICULAR DE MONTJU&#207;C&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Transports Metropolitans de Barcelona (TMB) administers these metro lines."</data>
+      <data key="d10">c81121399c5abc5b11338d03322154b0</data>
+      <data key="d11">04085f7cf46544b79597fc49286ff84d</data>
+      <data key="d12">56</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ANTENA 3&quot;" target="&quot;LOS HOMBRES DE PACO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Los hombres de Paco originally aired on Antena 3."</data>
+      <data key="d10">df7a42a9f2e9410b14779dd7d84b3312</data>
+      <data key="d11">d203efdbfb2f4b2a899abfb31cf72e82</data>
+      <data key="d12">57</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DANIEL &#201;CIJA&quot;" target="&quot;LOS HOMBRES DE PACO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Daniel &#201;cija is the creator of Los hombres de Paco."</data>
+      <data key="d10">df7a42a9f2e9410b14779dd7d84b3312</data>
+      <data key="d11">6731a665561840c2898ce8c9788e4c88</data>
+      <data key="d12">58</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;&#193;LEX PINA&quot;" target="&quot;LOS HOMBRES DE PACO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"&#193;lex Pina is the co-creator of Los hombres de Paco."</data>
+      <data key="d10">df7a42a9f2e9410b14779dd7d84b3312</data>
+      <data key="d11">4026806fa92f4e849a59a7f5c9a45c79</data>
+      <data key="d12">59</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PACO TOUS&quot;" target="&quot;LOS HOMBRES DE PACO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Paco Tous starred in Los hombres de Paco."</data>
+      <data key="d10">df7a42a9f2e9410b14779dd7d84b3312</data>
+      <data key="d11">68e0c60d2e8845d89d9d0ad397833648</data>
+      <data key="d12">60</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PEP&#211;N NIETO&quot;" target="&quot;LOS HOMBRES DE PACO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Pep&#243;n Nieto starred in Los hombres de Paco."</data>
+      <data key="d10">df7a42a9f2e9410b14779dd7d84b3312</data>
+      <data key="d11">101572f552b54e529fe7765c05168981</data>
+      <data key="d12">61</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ROYAL PALACE OF OLITE&quot;" target="&quot;KINGS OF NAVARRE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Royal palace of Olite was built for the Kings of Navarre."</data>
+      <data key="d10">4468616d4a26a01ef154bbe7934d700f</data>
+      <data key="d11">60c58026b2764b40adffca6eaa31d6d9</data>
+      <data key="d12">62</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MALBORK CASTLE&quot;" target="&quot;TEUTONIC ORDER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Malbork Castle was built for the Teutonic order."</data>
+      <data key="d10">4468616d4a26a01ef154bbe7934d700f</data>
+      <data key="d11">ad1595a78935472999444c9330e7730e</data>
+      <data key="d12">63</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DOGE'S PALACE OF VENICE&quot;" target="&quot;VENICE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Doge's Palace of Venice is located in Venice."</data>
+      <data key="d10">4468616d4a26a01ef154bbe7934d700f</data>
+      <data key="d11">735d19aea0744b2295556841c5c4c3fd</data>
+      <data key="d12">64</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PALAIS DES PAPES&quot;" target="&quot;AVIGNON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Palais des Papes is located in Avignon."</data>
+      <data key="d10">4468616d4a26a01ef154bbe7934d700f</data>
+      <data key="d11">c725babdb14a485582f8fbdf95429030</data>
+      <data key="d12">65</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LA VANGUARDIA&quot;" target="&quot;PEDRO MADUE&#209;O PALMA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Pedro Madue&#241;o Palma worked at La Vanguardia as a graphic reporter and later became Deputy to the Director."</data>
+      <data key="d10">42fa8bb00798f838a2b67521f358d7dc</data>
+      <data key="d11">a0047221896d418d849847d422fa4bb8</data>
+      <data key="d12">66</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CONDE DE BARCELONA FOUNDATION&quot;" target="&quot;PEDRO MADUE&#209;O PALMA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Pedro Madue&#241;o Palma presided over the jury of the God&#243; Prize for Photojournalism awarded by the Conde de Barcelona Foundation."</data>
+      <data key="d10">42fa8bb00798f838a2b67521f358d7dc</data>
+      <data key="d11">98fc2ee593184c5a839454db4eec7013</data>
+      <data key="d12">67</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY POMPEU FABRA&quot;" target="&quot;PEDRO MADUE&#209;O PALMA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Pedro Madue&#241;o Palma taught as an associate professor at University Pompeu Fabra."</data>
+      <data key="d10">42fa8bb00798f838a2b67521f358d7dc</data>
+      <data key="d11">80020a1da63042459e00266b2a605452</data>
+      <data key="d12">68</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AUTONOMOUS UNIVERSITY OF BARCELONA&quot;" target="&quot;PEDRO MADUE&#209;O PALMA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Pedro Madue&#241;o Palma taught graduate students at Autonomous University of Barcelona."</data>
+      <data key="d10">42fa8bb00798f838a2b67521f358d7dc</data>
+      <data key="d11">31a7e680c4d54101afe4c8d52d246913</data>
+      <data key="d12">69</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PRINCE FELIPE DE BORB&#211;N Y GRECIA&quot;" target="&quot;PEDRO MADUE&#209;O PALMA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Pedro Madue&#241;o Palma took the official image of Prince Felipe de Borb&#243;n y Grecia between 2002-2010."</data>
+      <data key="d10">42fa8bb00798f838a2b67521f358d7dc</data>
+      <data key="d11">351abba16e5c448994c6daf48121b14d</data>
+      <data key="d12">70</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARTUR MAS&quot;" target="&quot;PEDRO MADUE&#209;O PALMA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Pedro Madue&#241;o Palma took the official image of Artur Mas in 2010."</data>
+      <data key="d10">42fa8bb00798f838a2b67521f358d7dc</data>
+      <data key="d11">50ea7d3b69614bcdbfbff7ddbfbf3d34</data>
+      <data key="d12">71</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SALVADOR DAL&#205;&quot;" target="&quot;PEDRO MADUE&#209;O PALMA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Pedro Madue&#241;o Palma photographed Salvador Dal&#237; during the last three years of his life."</data>
+      <data key="d10">42fa8bb00798f838a2b67521f358d7dc</data>
+      <data key="d11">004f40a5aeca48a1879db728eb12bcba</data>
+      <data key="d12">72</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ESTACI&#211; DEL NORD (NORTH STATION)&quot;" target="&quot;FERROCARRILS DE LA GENERALITAT VALENCIANA (FGV)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Ferrocarrils de la Generalitat Valenciana (FGV) operates at the Estaci&#243; del Nord (North Station)."</data>
+      <data key="d10">cc9901a6d0a057ff7ca5174d1e7c43ea</data>
+      <data key="d11">4465efb7f6ed4dedad72a658184addd2</data>
+      <data key="d12">73</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ALICANTE AIRPORT&quot;&lt;&gt;VALENCIA&quot;&lt;&gt;ALICANTE AIRPORT IS SITUATED SOUTH OF VALENCIA.&quot;" target="7)&lt;|COMPLETE|&gt;I'LL ADD THE MISSING ENTITIES TO THE OUTPUT. HERE IS THE UPDATED LIST:(&quot;ENTITY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Tucson"</data>
+      <data key="d10">cc9901a6d0a057ff7ca5174d1e7c43ea</data>
+      <data key="d11">b0dd60e11dad4ff782623acf039b3948</data>
+      <data key="d12">74</data>
+      <data key="d13">0</data>
+    </edge>
+  </graph>
+</graphml>

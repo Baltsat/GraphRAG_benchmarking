@@ -1,0 +1,1253 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;PROTON-K&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Proton-K is a carrier rocket that launched Mars 5 into space."
+"Proton-K is a carrier rocket that launched Mars 4."
+"Proton-K is a carrier rocket that launched Mars 6 into space."</data>
+      <data key="d2">17aef16db9dfed9d3757b38b1935a22a,9918488cca410e27796b7280c9287b55,d7d7548af977a08d3be5fb01cb5b321c</data>
+    </node>
+    <node id="&quot;BLOK D&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Blok D is an upper stage that propelled Mars 5 into heliocentric orbit."
+"Blok D is an upper stage that propelled Mars 4 into heliocentric orbit."
+"Blok D is an upper stage that propelled Mars 6 into heliocentric orbit."</data>
+      <data key="d2">17aef16db9dfed9d3757b38b1935a22a,9918488cca410e27796b7280c9287b55,d7d7548af977a08d3be5fb01cb5b321c</data>
+    </node>
+    <node id="&quot;BAIKONUR COSMODROME SITE 81/24&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Baikonur Cosmodrome Site 81/24 is a launch site where Mars 5 was launched from."</data>
+      <data key="d2">17aef16db9dfed9d3757b38b1935a22a</data>
+    </node>
+    <node id="&quot;MARS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mars is the planet that Mars 5 is bound for."
+"Mars is the planet that Mars 4 is bound for."
+"Mars is the planet that Mars 6 is bound for."</data>
+      <data key="d2">17aef16db9dfed9d3757b38b1935a22a,9918488cca410e27796b7280c9287b55,d7d7548af977a08d3be5fb01cb5b321c</data>
+    </node>
+    <node id="&quot;EARTH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Earth is the planet where Mars 5 was launched from and entered into a low parking orbit around."
+"Earth is the planet where Mars 6 was launched from and performed a course correction."</data>
+      <data key="d2">17aef16db9dfed9d3757b38b1935a22a,9918488cca410e27796b7280c9287b55</data>
+    </node>
+    <node id="&quot;LAUNCH OF MARS 5&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The launch of Mars 5 occurred on 25 July 1973, marking the beginning of its journey to Mars."</data>
+      <data key="d2">17aef16db9dfed9d3757b38b1935a22a</data>
+    </node>
+    <node id="&quot;MARS 5&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">17aef16db9dfed9d3757b38b1935a22a</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">042532a19b7f45f6ee67aed8f1170c74,0c1d5654f0fe7076bd8c610ffaaa7691,16d57ec1208c10c012185f7549ed175c,17aef16db9dfed9d3757b38b1935a22a,29ddc56032e3b62fd927a9b16a2322aa,37cd0027eafcdee1adc7cf101c5bf0ae,3ff65807e582a43140266b502ed00a18,6a10ce94d2c9eff039fa2134bc9c9113,6fb20961afed666a070ef2b240c38f94,727059d0712aec4101d9351d1fd4fe6d,770943bad6215124524e7fb07033dade,8bb91f37630c1c9b184025217986e102,9918488cca410e27796b7280c9287b55,a3a267ffd26c52e432fbcdb507aaa3ec,ae6f0c05cd4efba4787b89d4debb0170,afcd68032113106dc92808e94809328e,d34370970d7f5c0a455ee11bf341d0b5,d7d7548af977a08d3be5fb01cb5b321c,fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">042532a19b7f45f6ee67aed8f1170c74,0c1d5654f0fe7076bd8c610ffaaa7691,16d57ec1208c10c012185f7549ed175c,17aef16db9dfed9d3757b38b1935a22a,29ddc56032e3b62fd927a9b16a2322aa,37cd0027eafcdee1adc7cf101c5bf0ae,3ff65807e582a43140266b502ed00a18,6a10ce94d2c9eff039fa2134bc9c9113,6fb20961afed666a070ef2b240c38f94,727059d0712aec4101d9351d1fd4fe6d,770943bad6215124524e7fb07033dade,8bb91f37630c1c9b184025217986e102,9918488cca410e27796b7280c9287b55,a3a267ffd26c52e432fbcdb507aaa3ec,ae6f0c05cd4efba4787b89d4debb0170,afcd68032113106dc92808e94809328e,d34370970d7f5c0a455ee11bf341d0b5,d7d7548af977a08d3be5fb01cb5b321c,fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">042532a19b7f45f6ee67aed8f1170c74,0c1d5654f0fe7076bd8c610ffaaa7691,16d57ec1208c10c012185f7549ed175c,17aef16db9dfed9d3757b38b1935a22a,29ddc56032e3b62fd927a9b16a2322aa,37cd0027eafcdee1adc7cf101c5bf0ae,3ff65807e582a43140266b502ed00a18,6a10ce94d2c9eff039fa2134bc9c9113,6fb20961afed666a070ef2b240c38f94,727059d0712aec4101d9351d1fd4fe6d,770943bad6215124524e7fb07033dade,8bb91f37630c1c9b184025217986e102,9918488cca410e27796b7280c9287b55,a3a267ffd26c52e432fbcdb507aaa3ec,ae6f0c05cd4efba4787b89d4debb0170,afcd68032113106dc92808e94809328e,d34370970d7f5c0a455ee11bf341d0b5,d7d7548af977a08d3be5fb01cb5b321c,fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">042532a19b7f45f6ee67aed8f1170c74,0c1d5654f0fe7076bd8c610ffaaa7691,16d57ec1208c10c012185f7549ed175c,17aef16db9dfed9d3757b38b1935a22a,29ddc56032e3b62fd927a9b16a2322aa,37cd0027eafcdee1adc7cf101c5bf0ae,3ff65807e582a43140266b502ed00a18,6a10ce94d2c9eff039fa2134bc9c9113,6fb20961afed666a070ef2b240c38f94,727059d0712aec4101d9351d1fd4fe6d,770943bad6215124524e7fb07033dade,8bb91f37630c1c9b184025217986e102,9918488cca410e27796b7280c9287b55,a3a267ffd26c52e432fbcdb507aaa3ec,ae6f0c05cd4efba4787b89d4debb0170,afcd68032113106dc92808e94809328e,d34370970d7f5c0a455ee11bf341d0b5,d7d7548af977a08d3be5fb01cb5b321c,fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located.""The United States is a country where being born in it is considered one of the criteria for being a natural-born citizen."</data>
+      <data key="d2">042532a19b7f45f6ee67aed8f1170c74,0c1d5654f0fe7076bd8c610ffaaa7691,16d57ec1208c10c012185f7549ed175c,17aef16db9dfed9d3757b38b1935a22a,29ddc56032e3b62fd927a9b16a2322aa,37cd0027eafcdee1adc7cf101c5bf0ae,3ff65807e582a43140266b502ed00a18,6a10ce94d2c9eff039fa2134bc9c9113,6fb20961afed666a070ef2b240c38f94,727059d0712aec4101d9351d1fd4fe6d,770943bad6215124524e7fb07033dade,8bb91f37630c1c9b184025217986e102,9918488cca410e27796b7280c9287b55,a3a267ffd26c52e432fbcdb507aaa3ec,ae6f0c05cd4efba4787b89d4debb0170,afcd68032113106dc92808e94809328e,d34370970d7f5c0a455ee11bf341d0b5,d7d7548af977a08d3be5fb01cb5b321c,fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">042532a19b7f45f6ee67aed8f1170c74,0c1d5654f0fe7076bd8c610ffaaa7691,16d57ec1208c10c012185f7549ed175c,17aef16db9dfed9d3757b38b1935a22a,29ddc56032e3b62fd927a9b16a2322aa,37cd0027eafcdee1adc7cf101c5bf0ae,3ff65807e582a43140266b502ed00a18,6a10ce94d2c9eff039fa2134bc9c9113,6fb20961afed666a070ef2b240c38f94,727059d0712aec4101d9351d1fd4fe6d,770943bad6215124524e7fb07033dade,8bb91f37630c1c9b184025217986e102,9918488cca410e27796b7280c9287b55,a3a267ffd26c52e432fbcdb507aaa3ec,ae6f0c05cd4efba4787b89d4debb0170,afcd68032113106dc92808e94809328e,d34370970d7f5c0a455ee11bf341d0b5,d7d7548af977a08d3be5fb01cb5b321c,fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">042532a19b7f45f6ee67aed8f1170c74,0c1d5654f0fe7076bd8c610ffaaa7691,16d57ec1208c10c012185f7549ed175c,17aef16db9dfed9d3757b38b1935a22a,29ddc56032e3b62fd927a9b16a2322aa,37cd0027eafcdee1adc7cf101c5bf0ae,3ff65807e582a43140266b502ed00a18,6a10ce94d2c9eff039fa2134bc9c9113,6fb20961afed666a070ef2b240c38f94,727059d0712aec4101d9351d1fd4fe6d,770943bad6215124524e7fb07033dade,8bb91f37630c1c9b184025217986e102,9918488cca410e27796b7280c9287b55,a3a267ffd26c52e432fbcdb507aaa3ec,ae6f0c05cd4efba4787b89d4debb0170,afcd68032113106dc92808e94809328e,d34370970d7f5c0a455ee11bf341d0b5,d7d7548af977a08d3be5fb01cb5b321c,fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">042532a19b7f45f6ee67aed8f1170c74,0c1d5654f0fe7076bd8c610ffaaa7691,16d57ec1208c10c012185f7549ed175c,17aef16db9dfed9d3757b38b1935a22a,29ddc56032e3b62fd927a9b16a2322aa,37cd0027eafcdee1adc7cf101c5bf0ae,3ff65807e582a43140266b502ed00a18,6a10ce94d2c9eff039fa2134bc9c9113,6fb20961afed666a070ef2b240c38f94,727059d0712aec4101d9351d1fd4fe6d,770943bad6215124524e7fb07033dade,8bb91f37630c1c9b184025217986e102,9918488cca410e27796b7280c9287b55,a3a267ffd26c52e432fbcdb507aaa3ec,ae6f0c05cd4efba4787b89d4debb0170,afcd68032113106dc92808e94809328e,d34370970d7f5c0a455ee11bf341d0b5,d7d7548af977a08d3be5fb01cb5b321c,fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">042532a19b7f45f6ee67aed8f1170c74,0c1d5654f0fe7076bd8c610ffaaa7691,16d57ec1208c10c012185f7549ed175c,17aef16db9dfed9d3757b38b1935a22a,29ddc56032e3b62fd927a9b16a2322aa,37cd0027eafcdee1adc7cf101c5bf0ae,3ff65807e582a43140266b502ed00a18,6a10ce94d2c9eff039fa2134bc9c9113,6fb20961afed666a070ef2b240c38f94,727059d0712aec4101d9351d1fd4fe6d,770943bad6215124524e7fb07033dade,8bb91f37630c1c9b184025217986e102,9918488cca410e27796b7280c9287b55,a3a267ffd26c52e432fbcdb507aaa3ec,ae6f0c05cd4efba4787b89d4debb0170,afcd68032113106dc92808e94809328e,d34370970d7f5c0a455ee11bf341d0b5,d7d7548af977a08d3be5fb01cb5b321c,fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</data>
+      <data key="d2">042532a19b7f45f6ee67aed8f1170c74,0c1d5654f0fe7076bd8c610ffaaa7691,16d57ec1208c10c012185f7549ed175c,17aef16db9dfed9d3757b38b1935a22a,29ddc56032e3b62fd927a9b16a2322aa,37cd0027eafcdee1adc7cf101c5bf0ae,3ff65807e582a43140266b502ed00a18,6a10ce94d2c9eff039fa2134bc9c9113,6fb20961afed666a070ef2b240c38f94,727059d0712aec4101d9351d1fd4fe6d,770943bad6215124524e7fb07033dade,8bb91f37630c1c9b184025217986e102,9918488cca410e27796b7280c9287b55,a3a267ffd26c52e432fbcdb507aaa3ec,ae6f0c05cd4efba4787b89d4debb0170,afcd68032113106dc92808e94809328e,d34370970d7f5c0a455ee11bf341d0b5,d7d7548af977a08d3be5fb01cb5b321c,fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;RV 588&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"RV 588 is one of the surviving settings of the hymn Gloria in excelsis Deo written by Antonio Vivaldi."</data>
+      <data key="d2">727059d0712aec4101d9351d1fd4fe6d</data>
+    </node>
+    <node id="&quot;RV 589&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"RV 589 is a popular and familiar setting of the hymn Gloria in excelsis Deo written by Antonio Vivaldi, probably around 1715."</data>
+      <data key="d2">727059d0712aec4101d9351d1fd4fe6d</data>
+    </node>
+    <node id="&quot;RV 590&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"RV 590 is a lost setting of the hymn Gloria in excelsis Deo mentioned in the Kreuzherren catalogue and attributed to Antonio Vivaldi."</data>
+      <data key="d2">727059d0712aec4101d9351d1fd4fe6d</data>
+    </node>
+    <node id="&quot;KREUZHERREN CATALOGUE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Kreuzherren catalogue is a source that mentions RV 590, a lost work by Antonio Vivaldi."</data>
+      <data key="d2">727059d0712aec4101d9351d1fd4fe6d</data>
+    </node>
+    <node id="&quot;ANTONIO VIVALDI&quot;">
+      <data key="d0" />
+      <data key="d1">
+"Antonio Vivaldi is the composer of Orlando furioso RV 819 and other operas, including Orlando furioso (RV 728) of 1727."</data>
+      <data key="d2">3ff65807e582a43140266b502ed00a18,727059d0712aec4101d9351d1fd4fe6d</data>
+    </node>
+    <node id="&quot;PNEUMONIC PLAGUE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Pneumonic plague is a form of plague with a mortality rate of 90-95% and symptoms including fever, cough, and blood-tinged sputum."</data>
+      <data key="d2">37cd0027eafcdee1adc7cf101c5bf0ae</data>
+    </node>
+    <node id="&quot;SEPTICEMIC PLAGUE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Septicemic plague is the least common form of plague with a mortality rate near 100% and symptoms including high fevers and purple skin patches."</data>
+      <data key="d2">37cd0027eafcdee1adc7cf101c5bf0ae</data>
+    </node>
+    <node id="&quot;MODERN SCIENTISTS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Modern scientists are researchers who have implicated other forms of plague."</data>
+      <data key="d2">37cd0027eafcdee1adc7cf101c5bf0ae</data>
+    </node>
+    <node id="&quot;BUBONIC PLAGUE&quot;">
+      <data key="d0" />
+      <data key="d1">
+"Bubonic plague is a disease caused by the bacterium Yersinia pestis, often transmitted through flea bites, with symptoms that may differ from those of the Black Death."</data>
+      <data key="d2">37cd0027eafcdee1adc7cf101c5bf0ae,6fb20961afed666a070ef2b240c38f94</data>
+    </node>
+    <node id="&quot;FELIX MENDELSSOHN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Felix Mendelssohn is a dedicatee of Franz Schubert's Piano Sonata in A minor, D 784."</data>
+      <data key="d2">8bb91f37630c1c9b184025217986e102</data>
+    </node>
+    <node id="&quot;PIANO SONATA IN A MINOR, D 784&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Piano Sonata in A minor, D 784 is a major composition by Franz Schubert, written in February 1823 and published posthumously in 1839."</data>
+      <data key="d2">8bb91f37630c1c9b184025217986e102</data>
+    </node>
+    <node id="&quot;FRANZ SCHUBERT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8bb91f37630c1c9b184025217986e102</data>
+    </node>
+    <node id="&quot;RUSSIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Russia is a country where the plague was present 25 times between 1350 to 1490."</data>
+      <data key="d2">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </node>
+    <node id="&quot;LONDON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"London is a city that experienced several plague epidemics, reducing its population by 10 to 30% during those years."</data>
+      <data key="d2">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </node>
+    <node id="&quot;AMSTERDAM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Amsterdam is a city where over 10% of the population died in multiple plague outbreaks between 1623 and 1664."</data>
+      <data key="d2">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </node>
+    <node id="&quot;VENICE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Venice is a city that experienced 22 plague outbreaks between 1361 and 1528, with a significant outbreak in 1576-77 that killed 50,000 people."</data>
+      <data key="d2">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </node>
+    <node id="&quot;NORWAY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Norway is a country where over 60% of the population died during the plague outbreak of 1348-50."</data>
+      <data key="d2">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </node>
+    <node id="&quot;OSLO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Oslo is a city that experienced a plague outbreak in 1654, which was the last recorded outbreak."</data>
+      <data key="d2">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </node>
+    <node id="&quot;THE BLACK DEATH&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Black Death is a pandemic that ravaged Europe for three years and continued into Russia."
+</data>
+      <data key="d2">042532a19b7f45f6ee67aed8f1170c74,6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </node>
+    <node id="&quot;THIRTY YEARS' WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Thirty Years' War is a conflict associated with the Italian Plague of 1629-1631."</data>
+      <data key="d2">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </node>
+    <node id="&quot;GREAT PLAGUE OF VIENNA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Great Plague of Vienna is a significant plague outbreak that occurred in 1679."</data>
+      <data key="d2">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </node>
+    <node id="&quot;PARIS&quot;">
+      <data key="d0" />
+      <data key="d1">
+"Paris is a location where the Medical faculty is based, indicating its significance in the development of medical knowledge."</data>
+      <data key="d2">6a10ce94d2c9eff039fa2134bc9c9113,770943bad6215124524e7fb07033dade</data>
+    </node>
+    <node id="&quot;PLAGUE&quot;">
+      <data key="d0" />
+      <data key="d1">
+
+
+</data>
+      <data key="d2">042532a19b7f45f6ee67aed8f1170c74,6a10ce94d2c9eff039fa2134bc9c9113,770943bad6215124524e7fb07033dade,d34370970d7f5c0a455ee11bf341d0b5</data>
+    </node>
+    <node id="&quot;BA&#350;YURT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ba&#351;yurt is the epicentre of the 2010 Elaz&#305;&#287; earthquake, located in Elaz&#305;&#287; Province, Turkey."</data>
+      <data key="d2">29ddc56032e3b62fd927a9b16a2322aa</data>
+    </node>
+    <node id="&quot;TURKEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Turkey is a country where the 2010 Elaz&#305;&#287; earthquake occurred, specifically in its eastern region."</data>
+      <data key="d2">29ddc56032e3b62fd927a9b16a2322aa</data>
+    </node>
+    <node id="&quot;2010 ELAZI&#286; EARTHQUAKE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2010 Elaz&#305;&#287; earthquake was a significant event that occurred on March 8, 2010, resulting in loss of life and injuries."</data>
+      <data key="d2">29ddc56032e3b62fd927a9b16a2322aa</data>
+    </node>
+    <node id="&quot;ELAZI&#286; PROVINCE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">29ddc56032e3b62fd927a9b16a2322aa</data>
+    </node>
+    <node id="&quot;GRAHAM TWIGG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Graham Twigg is a zoologist who produced a major work challenging the bubonic plague theory in 1984."</data>
+      <data key="d2">a3a267ffd26c52e432fbcdb507aaa3ec</data>
+    </node>
+    <node id="&quot;SAMUEL K. COHN, JR.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Samuel K. Cohn, Jr is an author who has written about the Black Death and its identity."</data>
+      <data key="d2">a3a267ffd26c52e432fbcdb507aaa3ec</data>
+    </node>
+    <node id="&quot;DAVID HERLIHY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"David Herlihy is an author who has written about the Black Death and its identity in 1997."</data>
+      <data key="d2">a3a267ffd26c52e432fbcdb507aaa3ec</data>
+    </node>
+    <node id="&quot;SUSAN SCOTT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Susan Scott is a co-author with Christopher Duncan, writing about the Black Death and its identity in 2001."</data>
+      <data key="d2">a3a267ffd26c52e432fbcdb507aaa3ec</data>
+    </node>
+    <node id="&quot;CHRISTOPHER DUNCAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Christopher Duncan is a co-author with Susan Scott, writing about the Black Death and its identity in 2001."</data>
+      <data key="d2">a3a267ffd26c52e432fbcdb507aaa3ec</data>
+    </node>
+    <node id="&quot;BLACK DEATH&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Black Death refers to the pandemic that occurred in the 14th century, whose identity has been challenged by various authors."
+</data>
+      <data key="d2">6fb20961afed666a070ef2b240c38f94,a3a267ffd26c52e432fbcdb507aaa3ec</data>
+    </node>
+    <node id="&quot;J. F. D. SHREWSBURY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a3a267ffd26c52e432fbcdb507aaa3ec</data>
+    </node>
+    <node id="&quot;PLAGUE THEORY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a3a267ffd26c52e432fbcdb507aaa3ec</data>
+    </node>
+    <node id="&quot;SAMUEL K. COHN, JR&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a3a267ffd26c52e432fbcdb507aaa3ec</data>
+    </node>
+    <node id="&quot;ANTON&#205;N KRAFT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Anton&#237;n Kraft is a cellist of Prince Nikolaus's Esterh&#225;zy Orchestra, for whom Joseph Haydn composed Concerto No. 2 in D Major."</data>
+      <data key="d2">0c1d5654f0fe7076bd8c610ffaaa7691</data>
+    </node>
+    <node id="&quot;PRINCE NIKOLAUS'S ESTERH&#193;ZY ORCHESTRA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Prince Nikolaus's Esterh&#225;zy Orchestra is an orchestra that employed Anton&#237;n Kraft as a cellist and commissioned Joseph Haydn to compose Concerto No. 2 in D Major."</data>
+      <data key="d2">0c1d5654f0fe7076bd8c610ffaaa7691</data>
+    </node>
+    <node id="&quot;CONCERTO NO. 2 IN D MAJOR FOR CELLO AND ORCHESTRA, HOB. VIIB/2, OP. 101&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Concerto No. 2 in D Major for cello and orchestra is a musical composition written by Joseph Haydn in 1783."</data>
+      <data key="d2">0c1d5654f0fe7076bd8c610ffaaa7691</data>
+    </node>
+    <node id="&quot;JOSEPH HAYDN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0c1d5654f0fe7076bd8c610ffaaa7691</data>
+    </node>
+    <node id="&quot;K&#214;THEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"K&#246;then is a location where Johann Sebastian Bach composed the Chromatic Fantasia and Fugue in D minor from 1717 to 1723."</data>
+      <data key="d2">16d57ec1208c10c012185f7549ed175c</data>
+    </node>
+    <node id="&quot;CHROMATIC FANTASIA AND FUGUE IN D MINOR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Chromatic Fantasia and Fugue in D minor is a musical composition by Johann Sebastian Bach, regarded as a unique masterpiece during his lifetime."</data>
+      <data key="d2">16d57ec1208c10c012185f7549ed175c</data>
+    </node>
+    <node id="&quot;JOHANN SEBASTIAN BACH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">16d57ec1208c10c012185f7549ed175c</data>
+    </node>
+    <node id="&quot;OFFICE OF STATE OR MUNICIPAL LIAISON SRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Office of State or Municipal Liaison SRE is an affiliated office of the SRE, providing support for passport applications and other services."</data>
+      <data key="d2">fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;MEXICAN CIVIL REGISTRY OFFICE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Mexican civil registry office is responsible for issuing certified copies of birth certificates."</data>
+      <data key="d2">fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;CONSULAR OFFICE ABROAD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A consular office abroad is a diplomatic mission that issues certified copies of birth certificates to Mexican citizens living outside Mexico."</data>
+      <data key="d2">fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;SECRETARY OF THE INTERIOR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Secretary of the Interior is a government official responsible for issuing Certificate of Citizenship Identity."</data>
+      <data key="d2">fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;APPLICANT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The applicant is an individual seeking to obtain an ordinary passport book by following the specified procedures."</data>
+      <data key="d2">fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;SECRETAR&#205;A DE RELACIONES EXTERIORES (SRE)&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;BIRTH CERTIFICATE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;INTERNATIONAL PLANNED PARENTHOOD FEDERATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The International Planned Parenthood Federation is the world's largest non-governmental international family planning organization."</data>
+      <data key="d2">ae6f0c05cd4efba4787b89d4debb0170</data>
+    </node>
+    <node id="&quot;POPULATION COUNCIL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Population Council was founded by John D. Rockefeller III in 1952, playing a significant role in birth control advocacy."</data>
+      <data key="d2">ae6f0c05cd4efba4787b89d4debb0170</data>
+    </node>
+    <node id="&quot;SANGER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sanger helped found the International Committee on Planned Parenthood and played a key role in birth control advocacy."</data>
+      <data key="d2">ae6f0c05cd4efba4787b89d4debb0170</data>
+    </node>
+    <node id="&quot;JOHN D. ROCKEFELLER III&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"John D. Rockefeller III founded the influential Population Council in 1952, contributing to birth control efforts."</data>
+      <data key="d2">ae6f0c05cd4efba4787b89d4debb0170</data>
+    </node>
+    <node id="&quot;1994 INTERNATIONAL CONFERENCE ON POPULATION AND DEVELOPMENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 1994 International Conference on Population and Development addressed birth control and influenced human rights declarations."</data>
+      <data key="d2">ae6f0c05cd4efba4787b89d4debb0170</data>
+    </node>
+    <node id="&quot;1995 FOURTH WORLD CONFERENCE ON WOMEN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 1995 Fourth World Conference on Women addressed birth control and asserted women's rights to control their own bodies."</data>
+      <data key="d2">ae6f0c05cd4efba4787b89d4debb0170</data>
+    </node>
+    <node id="&quot;INTERNATIONAL COMMITTEE ON PLANNED PARENTHOOD&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ae6f0c05cd4efba4787b89d4debb0170</data>
+    </node>
+    <node id="&quot;BIRTH CONTROL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ae6f0c05cd4efba4787b89d4debb0170</data>
+    </node>
+    <node id="&quot;BAIKONUR COSMODROME SITE 81/23&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Baikonur Cosmodrome Site 81/23 is a launch site where Mars 4 was launched from."
+"Baikonur Cosmodrome Site 81/23 is a launch site where Mars 6 was launched from."</data>
+      <data key="d2">9918488cca410e27796b7280c9287b55,d7d7548af977a08d3be5fb01cb5b321c</data>
+    </node>
+    <node id="&quot;LAUNCH OF MARS 4&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Launch of Mars 4 occurred on 21 July 1973 at 19:30:59 UTC."</data>
+      <data key="d2">d7d7548af977a08d3be5fb01cb5b321c</data>
+    </node>
+    <node id="&quot;MARS 4&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d7d7548af977a08d3be5fb01cb5b321c</data>
+    </node>
+    <node id="&quot;ISLAMIC WORLD&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Islamic world refers to the region where the plague was present virtually every year between 1500 and 1850."</data>
+      <data key="d2">042532a19b7f45f6ee67aed8f1170c74</data>
+    </node>
+    <node id="&quot;ALGIERS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Algiers is a city in North Africa that suffered from multiple plague outbreaks, losing thousands of inhabitants."</data>
+      <data key="d2">042532a19b7f45f6ee67aed8f1170c74</data>
+    </node>
+    <node id="&quot;OTTOMAN SOCIETY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ottoman society was significantly impacted by the plague until the second quarter of the 19th century."</data>
+      <data key="d2">042532a19b7f45f6ee67aed8f1170c74</data>
+    </node>
+    <node id="&quot;CONSTANTINOPLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Constantinople is a city that recorded multiple epidemics between 1701 and 1800."</data>
+      <data key="d2">042532a19b7f45f6ee67aed8f1170c74</data>
+    </node>
+    <node id="&quot;BAGHDAD&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Baghdad is a city that suffered severely from plague outbreaks, with significant population losses."</data>
+      <data key="d2">042532a19b7f45f6ee67aed8f1170c74</data>
+    </node>
+    <node id="&quot;MARS 6&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9918488cca410e27796b7280c9287b55</data>
+    </node>
+    <node id="&quot;DOMESDAY BOOK&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Domesday Book is a historical event that marks the last census before 1377, providing important context for understanding population estimates."</data>
+      <data key="d2">d34370970d7f5c0a455ee11bf341d0b5</data>
+    </node>
+    <node id="&quot;RESEARCHERS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Researchers are a group of individuals working to understand the plague, but are hampered by a lack of reliable statistics."</data>
+      <data key="d2">d34370970d7f5c0a455ee11bf341d0b5</data>
+    </node>
+    <node id="&quot;ENGLAND&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d34370970d7f5c0a455ee11bf341d0b5</data>
+    </node>
+    <node id="&quot;GIOVANNI ALBERTO RISTORI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Giovanni Alberto Ristori wrote an 'Orlando furioso' opera that was successfully staged by Vivaldi and his father's 'impresa' in 1713."</data>
+      <data key="d2">3ff65807e582a43140266b502ed00a18</data>
+    </node>
+    <node id="&quot;PETER RYOM&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Peter Ryom is the cataloguer who did not assign a RV number to Orlando furioso RV 819, instead cataloguing it as RV Anh. 84."</data>
+      <data key="d2">3ff65807e582a43140266b502ed00a18</data>
+    </node>
+    <node id="&quot;GRAZIO BRACCIOLI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Grazio Braccioli wrote the libretto for Orlando furioso RV 819."</data>
+      <data key="d2">3ff65807e582a43140266b502ed00a18</data>
+    </node>
+    <node id="&quot;TEATRO SAN ANGELO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Teatro San Angelo is a location in Venice where Orlando furioso RV 819 was performed in 1714."</data>
+      <data key="d2">3ff65807e582a43140266b502ed00a18</data>
+    </node>
+    <node id="&quot;ORLANDO FURIOSO RV 819&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3ff65807e582a43140266b502ed00a18</data>
+    </node>
+    <node id="&quot;SCEPTICS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Sceptics are a group of individuals who question the bubonic plague theory as the cause of the Black Death, citing various inconsistencies and flaws in the evidence."</data>
+      <data key="d2">6fb20961afed666a070ef2b240c38f94</data>
+    </node>
+    <node id="&quot;BUBONIC PLAGUE THEORY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6fb20961afed666a070ef2b240c38f94</data>
+    </node>
+    <node id="&quot;KING OF FRANCE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The King of France received a report from the Medical faculty in Paris, suggesting his role as a recipient of medical information and advice."</data>
+      <data key="d2">770943bad6215124524e7fb07033dade</data>
+    </node>
+    <node id="&quot;MIDDLE AGES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Middle Ages is a time period during which medical knowledge stagnated and the plague occurred, highlighting its importance in understanding the history of medicine."</data>
+      <data key="d2">770943bad6215124524e7fb07033dade</data>
+    </node>
+    <node id="&quot;MEDICAL FACULTY IN PARIS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">770943bad6215124524e7fb07033dade</data>
+    </node>
+    <node id="&quot;CONSTITUTIONAL SCHOLARS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Constitutional scholars are experts who have offered opinions on the meaning of 'natural born Citizen' and have reached a consensus on its interpretation."</data>
+      <data key="d2">afcd68032113106dc92808e94809328e</data>
+    </node>
+    <node id="&quot;PRESIDENTS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Every president to date has been either a citizen at the adoption of the Constitution or was born in the United States, with some having parents not born on U.S. soil."</data>
+      <data key="d2">afcd68032113106dc92808e94809328e</data>
+    </node>
+    <node id="&quot;U.S. CONSTITUTION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">afcd68032113106dc92808e94809328e</data>
+    </node>
+    <edge source="&quot;PROTON-K&quot;" target="&quot;MARS 5&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mars 5 was launched by a Proton-K carrier rocket."</data>
+      <data key="d5">17aef16db9dfed9d3757b38b1935a22a</data>
+    </edge>
+    <edge source="&quot;PROTON-K&quot;" target="&quot;MARS 4&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mars 4 was launched by a Proton-K carrier rocket."</data>
+      <data key="d5">d7d7548af977a08d3be5fb01cb5b321c</data>
+    </edge>
+    <edge source="&quot;PROTON-K&quot;" target="&quot;MARS 6&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mars 6 was launched by Proton-K carrier rocket."</data>
+      <data key="d5">9918488cca410e27796b7280c9287b55</data>
+    </edge>
+    <edge source="&quot;BLOK D&quot;" target="&quot;MARS 5&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Blok D upper stage propelled Mars 5 into heliocentric orbit."</data>
+      <data key="d5">17aef16db9dfed9d3757b38b1935a22a</data>
+    </edge>
+    <edge source="&quot;BLOK D&quot;" target="&quot;MARS 4&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Blok D upper stage propelled Mars 4 into heliocentric orbit."</data>
+      <data key="d5">d7d7548af977a08d3be5fb01cb5b321c</data>
+    </edge>
+    <edge source="&quot;BLOK D&quot;" target="&quot;MARS 6&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mars 6 used Blok D upper stage to propel into heliocentric orbit."</data>
+      <data key="d5">9918488cca410e27796b7280c9287b55</data>
+    </edge>
+    <edge source="&quot;BAIKONUR COSMODROME SITE 81/24&quot;" target="&quot;MARS 5&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mars 5 was launched from Baikonur Cosmodrome Site 81/24."</data>
+      <data key="d5">17aef16db9dfed9d3757b38b1935a22a</data>
+    </edge>
+    <edge source="&quot;MARS&quot;" target="&quot;MARS 4&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mars 4 is bound for Mars."</data>
+      <data key="d5">d7d7548af977a08d3be5fb01cb5b321c</data>
+    </edge>
+    <edge source="&quot;MARS&quot;" target="&quot;MARS 6&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mars 6 is bound for Mars."</data>
+      <data key="d5">9918488cca410e27796b7280c9287b55</data>
+    </edge>
+    <edge source="&quot;EARTH&quot;" target="&quot;MARS 6&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mars 6 performed a course correction near Earth."</data>
+      <data key="d5">9918488cca410e27796b7280c9287b55</data>
+    </edge>
+    <edge source="&quot;LAUNCH OF MARS 5&quot;" target="&quot;MARS 5&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The launch of Mars 5 is a significant event in the mission to explore Mars."</data>
+      <data key="d5">17aef16db9dfed9d3757b38b1935a22a</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."</data>
+      <data key="d5">042532a19b7f45f6ee67aed8f1170c74,0c1d5654f0fe7076bd8c610ffaaa7691,16d57ec1208c10c012185f7549ed175c,17aef16db9dfed9d3757b38b1935a22a,29ddc56032e3b62fd927a9b16a2322aa,37cd0027eafcdee1adc7cf101c5bf0ae,3ff65807e582a43140266b502ed00a18,6a10ce94d2c9eff039fa2134bc9c9113,6fb20961afed666a070ef2b240c38f94,727059d0712aec4101d9351d1fd4fe6d,770943bad6215124524e7fb07033dade,8bb91f37630c1c9b184025217986e102,9918488cca410e27796b7280c9287b55,a3a267ffd26c52e432fbcdb507aaa3ec,ae6f0c05cd4efba4787b89d4debb0170,afcd68032113106dc92808e94809328e,d34370970d7f5c0a455ee11bf341d0b5,d7d7548af977a08d3be5fb01cb5b321c,fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."</data>
+      <data key="d5">042532a19b7f45f6ee67aed8f1170c74,0c1d5654f0fe7076bd8c610ffaaa7691,16d57ec1208c10c012185f7549ed175c,17aef16db9dfed9d3757b38b1935a22a,29ddc56032e3b62fd927a9b16a2322aa,37cd0027eafcdee1adc7cf101c5bf0ae,3ff65807e582a43140266b502ed00a18,6a10ce94d2c9eff039fa2134bc9c9113,6fb20961afed666a070ef2b240c38f94,727059d0712aec4101d9351d1fd4fe6d,770943bad6215124524e7fb07033dade,8bb91f37630c1c9b184025217986e102,9918488cca410e27796b7280c9287b55,a3a267ffd26c52e432fbcdb507aaa3ec,ae6f0c05cd4efba4787b89d4debb0170,afcd68032113106dc92808e94809328e,d34370970d7f5c0a455ee11bf341d0b5,d7d7548af977a08d3be5fb01cb5b321c,fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."</data>
+      <data key="d5">042532a19b7f45f6ee67aed8f1170c74,0c1d5654f0fe7076bd8c610ffaaa7691,16d57ec1208c10c012185f7549ed175c,17aef16db9dfed9d3757b38b1935a22a,29ddc56032e3b62fd927a9b16a2322aa,37cd0027eafcdee1adc7cf101c5bf0ae,3ff65807e582a43140266b502ed00a18,6a10ce94d2c9eff039fa2134bc9c9113,6fb20961afed666a070ef2b240c38f94,727059d0712aec4101d9351d1fd4fe6d,770943bad6215124524e7fb07033dade,8bb91f37630c1c9b184025217986e102,9918488cca410e27796b7280c9287b55,a3a267ffd26c52e432fbcdb507aaa3ec,ae6f0c05cd4efba4787b89d4debb0170,afcd68032113106dc92808e94809328e,d34370970d7f5c0a455ee11bf341d0b5,d7d7548af977a08d3be5fb01cb5b321c,fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."</data>
+      <data key="d5">042532a19b7f45f6ee67aed8f1170c74,0c1d5654f0fe7076bd8c610ffaaa7691,16d57ec1208c10c012185f7549ed175c,17aef16db9dfed9d3757b38b1935a22a,29ddc56032e3b62fd927a9b16a2322aa,37cd0027eafcdee1adc7cf101c5bf0ae,3ff65807e582a43140266b502ed00a18,6a10ce94d2c9eff039fa2134bc9c9113,6fb20961afed666a070ef2b240c38f94,727059d0712aec4101d9351d1fd4fe6d,770943bad6215124524e7fb07033dade,8bb91f37630c1c9b184025217986e102,9918488cca410e27796b7280c9287b55,a3a267ffd26c52e432fbcdb507aaa3ec,ae6f0c05cd4efba4787b89d4debb0170,afcd68032113106dc92808e94809328e,d34370970d7f5c0a455ee11bf341d0b5,d7d7548af977a08d3be5fb01cb5b321c,fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."</data>
+      <data key="d5">042532a19b7f45f6ee67aed8f1170c74,0c1d5654f0fe7076bd8c610ffaaa7691,16d57ec1208c10c012185f7549ed175c,17aef16db9dfed9d3757b38b1935a22a,29ddc56032e3b62fd927a9b16a2322aa,37cd0027eafcdee1adc7cf101c5bf0ae,3ff65807e582a43140266b502ed00a18,6a10ce94d2c9eff039fa2134bc9c9113,6fb20961afed666a070ef2b240c38f94,727059d0712aec4101d9351d1fd4fe6d,770943bad6215124524e7fb07033dade,8bb91f37630c1c9b184025217986e102,9918488cca410e27796b7280c9287b55,a3a267ffd26c52e432fbcdb507aaa3ec,ae6f0c05cd4efba4787b89d4debb0170,afcd68032113106dc92808e94809328e,d34370970d7f5c0a455ee11bf341d0b5,d7d7548af977a08d3be5fb01cb5b321c,fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."</data>
+      <data key="d5">042532a19b7f45f6ee67aed8f1170c74,0c1d5654f0fe7076bd8c610ffaaa7691,16d57ec1208c10c012185f7549ed175c,17aef16db9dfed9d3757b38b1935a22a,29ddc56032e3b62fd927a9b16a2322aa,37cd0027eafcdee1adc7cf101c5bf0ae,3ff65807e582a43140266b502ed00a18,6a10ce94d2c9eff039fa2134bc9c9113,6fb20961afed666a070ef2b240c38f94,727059d0712aec4101d9351d1fd4fe6d,770943bad6215124524e7fb07033dade,8bb91f37630c1c9b184025217986e102,9918488cca410e27796b7280c9287b55,a3a267ffd26c52e432fbcdb507aaa3ec,ae6f0c05cd4efba4787b89d4debb0170,afcd68032113106dc92808e94809328e,d34370970d7f5c0a455ee11bf341d0b5,d7d7548af977a08d3be5fb01cb5b321c,fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;U.S. CONSTITUTION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The U.S. Constitution is a foundational document of the United States, outlining the criteria for citizenship."</data>
+      <data key="d5">afcd68032113106dc92808e94809328e</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">042532a19b7f45f6ee67aed8f1170c74,0c1d5654f0fe7076bd8c610ffaaa7691,16d57ec1208c10c012185f7549ed175c,17aef16db9dfed9d3757b38b1935a22a,29ddc56032e3b62fd927a9b16a2322aa,37cd0027eafcdee1adc7cf101c5bf0ae,3ff65807e582a43140266b502ed00a18,6a10ce94d2c9eff039fa2134bc9c9113,6fb20961afed666a070ef2b240c38f94,727059d0712aec4101d9351d1fd4fe6d,770943bad6215124524e7fb07033dade,8bb91f37630c1c9b184025217986e102,9918488cca410e27796b7280c9287b55,a3a267ffd26c52e432fbcdb507aaa3ec,ae6f0c05cd4efba4787b89d4debb0170,afcd68032113106dc92808e94809328e,d34370970d7f5c0a455ee11bf341d0b5,d7d7548af977a08d3be5fb01cb5b321c,fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."</data>
+      <data key="d5">042532a19b7f45f6ee67aed8f1170c74,0c1d5654f0fe7076bd8c610ffaaa7691,16d57ec1208c10c012185f7549ed175c,17aef16db9dfed9d3757b38b1935a22a,29ddc56032e3b62fd927a9b16a2322aa,37cd0027eafcdee1adc7cf101c5bf0ae,3ff65807e582a43140266b502ed00a18,6a10ce94d2c9eff039fa2134bc9c9113,6fb20961afed666a070ef2b240c38f94,727059d0712aec4101d9351d1fd4fe6d,770943bad6215124524e7fb07033dade,8bb91f37630c1c9b184025217986e102,9918488cca410e27796b7280c9287b55,a3a267ffd26c52e432fbcdb507aaa3ec,ae6f0c05cd4efba4787b89d4debb0170,afcd68032113106dc92808e94809328e,d34370970d7f5c0a455ee11bf341d0b5,d7d7548af977a08d3be5fb01cb5b321c,fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">042532a19b7f45f6ee67aed8f1170c74,0c1d5654f0fe7076bd8c610ffaaa7691,16d57ec1208c10c012185f7549ed175c,17aef16db9dfed9d3757b38b1935a22a,29ddc56032e3b62fd927a9b16a2322aa,37cd0027eafcdee1adc7cf101c5bf0ae,3ff65807e582a43140266b502ed00a18,6a10ce94d2c9eff039fa2134bc9c9113,6fb20961afed666a070ef2b240c38f94,727059d0712aec4101d9351d1fd4fe6d,770943bad6215124524e7fb07033dade,8bb91f37630c1c9b184025217986e102,9918488cca410e27796b7280c9287b55,a3a267ffd26c52e432fbcdb507aaa3ec,ae6f0c05cd4efba4787b89d4debb0170,afcd68032113106dc92808e94809328e,d34370970d7f5c0a455ee11bf341d0b5,d7d7548af977a08d3be5fb01cb5b321c,fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;RV 588&quot;" target="&quot;ANTONIO VIVALDI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Antonio Vivaldi wrote RV 588, one of the surviving settings of the hymn Gloria in excelsis Deo."</data>
+      <data key="d5">727059d0712aec4101d9351d1fd4fe6d</data>
+    </edge>
+    <edge source="&quot;RV 589&quot;" target="&quot;ANTONIO VIVALDI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Antonio Vivaldi wrote RV 589, a popular and familiar setting of the hymn Gloria in excelsis Deo."</data>
+      <data key="d5">727059d0712aec4101d9351d1fd4fe6d</data>
+    </edge>
+    <edge source="&quot;RV 590&quot;" target="&quot;KREUZHERREN CATALOGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Kreuzherren catalogue mentions RV 590, a lost work by Antonio Vivaldi."</data>
+      <data key="d5">727059d0712aec4101d9351d1fd4fe6d</data>
+    </edge>
+    <edge source="&quot;ANTONIO VIVALDI&quot;" target="&quot;ORLANDO FURIOSO RV 819&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Antonio Vivaldi composed Orlando furioso RV 819."</data>
+      <data key="d5">3ff65807e582a43140266b502ed00a18</data>
+    </edge>
+    <edge source="&quot;ANTONIO VIVALDI&quot;" target="&quot;PETER RYOM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Peter Ryom catalogued Antonio Vivaldi's operas, including Orlando furioso RV 819."</data>
+      <data key="d5">3ff65807e582a43140266b502ed00a18</data>
+    </edge>
+    <edge source="&quot;PNEUMONIC PLAGUE&quot;" target="&quot;MODERN SCIENTISTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Modern scientists have researched pneumonic plague, recognizing its high mortality rate and distinct symptoms."</data>
+      <data key="d5">37cd0027eafcdee1adc7cf101c5bf0ae</data>
+    </edge>
+    <edge source="&quot;SEPTICEMIC PLAGUE&quot;" target="&quot;MODERN SCIENTISTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Modern scientists have investigated septicemic plague, noting its rapid progression and high mortality rate."</data>
+      <data key="d5">37cd0027eafcdee1adc7cf101c5bf0ae</data>
+    </edge>
+    <edge source="&quot;MODERN SCIENTISTS&quot;" target="&quot;BUBONIC PLAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Modern scientists have studied the bubonic plague, understanding its mortality rate and symptoms."</data>
+      <data key="d5">37cd0027eafcdee1adc7cf101c5bf0ae</data>
+    </edge>
+    <edge source="&quot;BUBONIC PLAGUE&quot;" target="&quot;BLACK DEATH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Black Death is often attributed to the bubonic plague, but sceptics argue that the symptoms and characteristics of the two may differ."</data>
+      <data key="d5">6fb20961afed666a070ef2b240c38f94</data>
+    </edge>
+    <edge source="&quot;FELIX MENDELSSOHN&quot;" target="&quot;PIANO SONATA IN A MINOR, D 784&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Piano Sonata in A minor, D 784 is dedicated to Felix Mendelssohn."</data>
+      <data key="d5">8bb91f37630c1c9b184025217986e102</data>
+    </edge>
+    <edge source="&quot;PIANO SONATA IN A MINOR, D 784&quot;" target="&quot;FRANZ SCHUBERT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Franz Schubert composed the Piano Sonata in A minor, D 784."</data>
+      <data key="d5">8bb91f37630c1c9b184025217986e102</data>
+    </edge>
+    <edge source="&quot;RUSSIA&quot;" target="&quot;PLAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The plague was present in Russia 25 times between 1350 to 1490."</data>
+      <data key="d5">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </edge>
+    <edge source="&quot;LONDON&quot;" target="&quot;PLAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"London experienced several plague epidemics, reducing its population by 10 to 30% during those years."</data>
+      <data key="d5">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </edge>
+    <edge source="&quot;AMSTERDAM&quot;" target="&quot;PLAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Amsterdam experienced multiple plague outbreaks between 1623 and 1664."</data>
+      <data key="d5">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </edge>
+    <edge source="&quot;VENICE&quot;" target="&quot;PLAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Venice experienced 22 plague outbreaks between 1361 and 1528."</data>
+      <data key="d5">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </edge>
+    <edge source="&quot;NORWAY&quot;" target="&quot;PLAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Over 60% of Norway's population died during the plague outbreak of 1348-50."</data>
+      <data key="d5">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </edge>
+    <edge source="&quot;OSLO&quot;" target="&quot;PLAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Oslo experienced a plague outbreak in 1654."</data>
+      <data key="d5">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </edge>
+    <edge source="&quot;THE BLACK DEATH&quot;" target="&quot;ISLAMIC WORLD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Black Death ravaged much of the Islamic world."</data>
+      <data key="d5">042532a19b7f45f6ee67aed8f1170c74</data>
+    </edge>
+    <edge source="&quot;PARIS&quot;" target="&quot;PLAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Paris experienced frequent outbreaks of the plague during the 16th and 17th centuries."</data>
+      <data key="d5">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </edge>
+    <edge source="&quot;PARIS&quot;" target="&quot;MEDICAL FACULTY IN PARIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Paris is the location where the Medical faculty is based, highlighting their connection."</data>
+      <data key="d5">770943bad6215124524e7fb07033dade</data>
+    </edge>
+    <edge source="&quot;PLAGUE&quot;" target="&quot;ALGIERS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Algiers was affected by multiple plague outbreaks."</data>
+      <data key="d5">042532a19b7f45f6ee67aed8f1170c74</data>
+    </edge>
+    <edge source="&quot;PLAGUE&quot;" target="&quot;OTTOMAN SOCIETY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Plague remained a major event in Ottoman society until the second quarter of the 19th century."</data>
+      <data key="d5">042532a19b7f45f6ee67aed8f1170c74</data>
+    </edge>
+    <edge source="&quot;PLAGUE&quot;" target="&quot;CONSTANTINOPLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Constantinople recorded multiple epidemics between 1701 and 1800."</data>
+      <data key="d5">042532a19b7f45f6ee67aed8f1170c74</data>
+    </edge>
+    <edge source="&quot;PLAGUE&quot;" target="&quot;BAGHDAD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Baghdad suffered severely from plague outbreaks."</data>
+      <data key="d5">042532a19b7f45f6ee67aed8f1170c74</data>
+    </edge>
+    <edge source="&quot;PLAGUE&quot;" target="&quot;ENGLAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The spread of the plague has been studied extensively in England, providing valuable insights into its epidemiology."</data>
+      <data key="d5">d34370970d7f5c0a455ee11bf341d0b5</data>
+    </edge>
+    <edge source="&quot;PLAGUE&quot;" target="&quot;MIDDLE AGES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Middle Ages is a time period during which the plague occurred, indicating a relationship between the two entities."</data>
+      <data key="d5">770943bad6215124524e7fb07033dade</data>
+    </edge>
+    <edge source="&quot;BA&#350;YURT&quot;" target="&quot;2010 ELAZI&#286; EARTHQUAKE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ba&#351;yurt was the epicentre of the 2010 Elaz&#305;&#287; earthquake."</data>
+      <data key="d5">29ddc56032e3b62fd927a9b16a2322aa</data>
+    </edge>
+    <edge source="&quot;TURKEY&quot;" target="&quot;2010 ELAZI&#286; EARTHQUAKE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 2010 Elaz&#305;&#287; earthquake occurred in Turkey, specifically in its eastern region."</data>
+      <data key="d5">29ddc56032e3b62fd927a9b16a2322aa</data>
+    </edge>
+    <edge source="&quot;2010 ELAZI&#286; EARTHQUAKE&quot;" target="&quot;ELAZI&#286; PROVINCE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 2010 Elaz&#305;&#287; earthquake occurred in Elaz&#305;&#287; Province, Turkey."</data>
+      <data key="d5">29ddc56032e3b62fd927a9b16a2322aa</data>
+    </edge>
+    <edge source="&quot;GRAHAM TWIGG&quot;" target="&quot;BLACK DEATH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Graham Twigg's work questioned the identity of the Black Death."</data>
+      <data key="d5">a3a267ffd26c52e432fbcdb507aaa3ec</data>
+    </edge>
+    <edge source="&quot;DAVID HERLIHY&quot;" target="&quot;BLACK DEATH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"David Herlihy has written about the Black Death and its identity in 1997."</data>
+      <data key="d5">a3a267ffd26c52e432fbcdb507aaa3ec</data>
+    </edge>
+    <edge source="&quot;SUSAN SCOTT&quot;" target="&quot;BLACK DEATH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Susan Scott has co-authored a work about the Black Death and its identity with Christopher Duncan."</data>
+      <data key="d5">a3a267ffd26c52e432fbcdb507aaa3ec</data>
+    </edge>
+    <edge source="&quot;CHRISTOPHER DUNCAN&quot;" target="&quot;BLACK DEATH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Christopher Duncan has co-authored a work about the Black Death and its identity with Susan Scott."</data>
+      <data key="d5">a3a267ffd26c52e432fbcdb507aaa3ec</data>
+    </edge>
+    <edge source="&quot;BLACK DEATH&quot;" target="&quot;SAMUEL K. COHN, JR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Samuel K. Cohn, Jr has written about the Black Death and its identity."</data>
+      <data key="d5">a3a267ffd26c52e432fbcdb507aaa3ec</data>
+    </edge>
+    <edge source="&quot;J. F. D. SHREWSBURY&quot;" target="&quot;PLAGUE THEORY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"J. F. D. Shrewsbury's work challenged the plague theory in 1970."</data>
+      <data key="d5">a3a267ffd26c52e432fbcdb507aaa3ec</data>
+    </edge>
+    <edge source="&quot;ANTON&#205;N KRAFT&quot;" target="&quot;PRINCE NIKOLAUS'S ESTERH&#193;ZY ORCHESTRA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Anton&#237;n Kraft is a cellist of Prince Nikolaus's Esterh&#225;zy Orchestra."</data>
+      <data key="d5">0c1d5654f0fe7076bd8c610ffaaa7691</data>
+    </edge>
+    <edge source="&quot;ANTON&#205;N KRAFT&quot;" target="&quot;CONCERTO NO. 2 IN D MAJOR FOR CELLO AND ORCHESTRA, HOB. VIIB/2, OP. 101&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Concerto No. 2 in D Major was composed for Anton&#237;n Kraft."</data>
+      <data key="d5">0c1d5654f0fe7076bd8c610ffaaa7691</data>
+    </edge>
+    <edge source="&quot;PRINCE NIKOLAUS'S ESTERH&#193;ZY ORCHESTRA&quot;" target="&quot;JOSEPH HAYDN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Joseph Haydn composed Concerto No. 2 in D Major for Prince Nikolaus's Esterh&#225;zy Orchestra."</data>
+      <data key="d5">0c1d5654f0fe7076bd8c610ffaaa7691</data>
+    </edge>
+    <edge source="&quot;CONCERTO NO. 2 IN D MAJOR FOR CELLO AND ORCHESTRA, HOB. VIIB/2, OP. 101&quot;" target="&quot;JOSEPH HAYDN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Joseph Haydn composed Concerto No. 2 in D Major for cello and orchestra."</data>
+      <data key="d5">0c1d5654f0fe7076bd8c610ffaaa7691</data>
+    </edge>
+    <edge source="&quot;K&#214;THEN&quot;" target="&quot;JOHANN SEBASTIAN BACH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Johann Sebastian Bach composed the Chromatic Fantasia and Fugue in D minor during his time in K&#246;then."</data>
+      <data key="d5">16d57ec1208c10c012185f7549ed175c</data>
+    </edge>
+    <edge source="&quot;CHROMATIC FANTASIA AND FUGUE IN D MINOR&quot;" target="&quot;JOHANN SEBASTIAN BACH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Johann Sebastian Bach is the composer of the Chromatic Fantasia and Fugue in D minor."</data>
+      <data key="d5">16d57ec1208c10c012185f7549ed175c</data>
+    </edge>
+    <edge source="&quot;OFFICE OF STATE OR MUNICIPAL LIAISON SRE&quot;" target="&quot;APPLICANT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The applicant can obtain the application form for free at any Office of State or Municipal Liaison SRE."</data>
+      <data key="d5">fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;MEXICAN CIVIL REGISTRY OFFICE&quot;" target="&quot;BIRTH CERTIFICATE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Mexican civil registry office issues certified copies of birth certificates, which are required documents for passport applications."</data>
+      <data key="d5">fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;CONSULAR OFFICE ABROAD&quot;" target="&quot;BIRTH CERTIFICATE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"A consular office abroad issues certified copies of birth certificates to Mexican citizens living outside Mexico."</data>
+      <data key="d5">fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;APPLICANT&quot;" target="&quot;SECRETAR&#205;A DE RELACIONES EXTERIORES (SRE)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The applicant must personally attend to any SRE delegation or affiliated office with an appointment."</data>
+      <data key="d5">fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;INTERNATIONAL PLANNED PARENTHOOD FEDERATION&quot;" target="&quot;INTERNATIONAL COMMITTEE ON PLANNED PARENTHOOD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The International Committee on Planned Parenthood evolved into the International Planned Parenthood Federation."</data>
+      <data key="d5">ae6f0c05cd4efba4787b89d4debb0170</data>
+    </edge>
+    <edge source="&quot;POPULATION COUNCIL&quot;" target="&quot;JOHN D. ROCKEFELLER III&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"John D. Rockefeller III founded the Population Council in 1952, contributing to birth control efforts."</data>
+      <data key="d5">ae6f0c05cd4efba4787b89d4debb0170</data>
+    </edge>
+    <edge source="&quot;SANGER&quot;" target="&quot;INTERNATIONAL COMMITTEE ON PLANNED PARENTHOOD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sanger founded the International Committee on Planned Parenthood, which later became the International Planned Parenthood Federation."</data>
+      <data key="d5">ae6f0c05cd4efba4787b89d4debb0170</data>
+    </edge>
+    <edge source="&quot;1994 INTERNATIONAL CONFERENCE ON POPULATION AND DEVELOPMENT&quot;" target="&quot;BIRTH CONTROL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 1994 International Conference on Population and Development addressed birth control, influencing human rights declarations."</data>
+      <data key="d5">ae6f0c05cd4efba4787b89d4debb0170</data>
+    </edge>
+    <edge source="&quot;BAIKONUR COSMODROME SITE 81/23&quot;" target="&quot;LAUNCH OF MARS 4&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Launch of Mars 4 occurred at Baikonur Cosmodrome Site 81/23."</data>
+      <data key="d5">d7d7548af977a08d3be5fb01cb5b321c</data>
+    </edge>
+    <edge source="&quot;BAIKONUR COSMODROME SITE 81/23&quot;" target="&quot;MARS 6&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mars 6 was launched from Baikonur Cosmodrome Site 81/23."</data>
+      <data key="d5">9918488cca410e27796b7280c9287b55</data>
+    </edge>
+    <edge source="&quot;DOMESDAY BOOK&quot;" target="&quot;RESEARCHERS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Domesday Book provides important context for researchers studying the plague, particularly in terms of population estimates."</data>
+      <data key="d5">d34370970d7f5c0a455ee11bf341d0b5</data>
+    </edge>
+    <edge source="&quot;GIOVANNI ALBERTO RISTORI&quot;" target="&quot;ORLANDO FURIOSO RV 819&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Giovanni Alberto Ristori's opera was recomposed by Antonio Vivaldi as Orlando furioso RV 819."</data>
+      <data key="d5">3ff65807e582a43140266b502ed00a18</data>
+    </edge>
+    <edge source="&quot;SCEPTICS&quot;" target="&quot;BUBONIC PLAGUE THEORY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sceptics are critical of the bubonic plague theory as the cause of the Black Death, pointing out various flaws and inconsistencies in the evidence."</data>
+      <data key="d5">6fb20961afed666a070ef2b240c38f94</data>
+    </edge>
+    <edge source="&quot;KING OF FRANCE&quot;" target="&quot;MEDICAL FACULTY IN PARIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Medical faculty in Paris provided a report to the King of France, indicating a relationship between the two entities."</data>
+      <data key="d5">770943bad6215124524e7fb07033dade</data>
+    </edge>
+    <edge source="&quot;CONSTITUTIONAL SCHOLARS&quot;" target="&quot;PRESIDENTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Constitutional scholars have studied and interpreted the U.S. Constitution, which has implications for presidential eligibility."</data>
+      <data key="d5">afcd68032113106dc92808e94809328e</data>
+    </edge>
+  </graph>
+</graphml>

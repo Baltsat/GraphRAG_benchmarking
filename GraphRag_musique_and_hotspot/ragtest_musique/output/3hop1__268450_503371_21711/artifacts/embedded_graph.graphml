@@ -1,0 +1,1036 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;MOUNT EVEREST NEPAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Mount Everest Nepal is a football team that played against Palau Tiger Team in the third place play-off."</data>
+      <data key="d2">ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </node>
+    <node id="&quot;PALAU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Palau is a country that consists of sixteen states, including Ngiwal, and is also home to the Palau Soccer League.</data>
+      <data key="d2">da1f99ba5635a560588fe65f0e1485da,ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </node>
+    <node id="&quot;2006-07&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2006-07 season was when Palau Tiger Team finished fourth in the Palau Soccer League."</data>
+      <data key="d2">ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </node>
+    <node id="&quot;PALAU TIGER TEAM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </node>
+    <node id="&quot;PALAU SOCCER LEAGUE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">041eb4d2a70ae3e4b34f64752b771c72,192800e2f9d44d56f8c140e55929ed9e,23de7bec2f910b87f2c085342e32f811,26065de945d830f1ee3f987ca402b390,3c2a8f047bda15e0642e7324388befdc,41cf761a6c6e13fc9507b565d6eac694,4468616d4a26a01ef154bbe7934d700f,51de87b492c16a5c9c58a9d5dab51dab,531f3ed0ecec2ad737bdbc9b5769e442,61b2d212344e3f3b1b72d623784026a9,671fdb5b43f333c5b30b2fc51136ec90,693298d9a47e346f3a1efd586cabfbee,7371a9e9818e579e599950e2d9c50e96,8b6c9f0a4738a3c2cd6f615d6e5587b7,92793e2ed5e49b30a41c9b6a6815c8ca,a943a75653e815c3e2b2416a453af4d5,b5b6a6aad011ed2fe1ad3f10e2ef82f8,ce9ac9ee1c14569d58e1e73e766516e9,da1f99ba5635a560588fe65f0e1485da,ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">041eb4d2a70ae3e4b34f64752b771c72,192800e2f9d44d56f8c140e55929ed9e,23de7bec2f910b87f2c085342e32f811,26065de945d830f1ee3f987ca402b390,3c2a8f047bda15e0642e7324388befdc,41cf761a6c6e13fc9507b565d6eac694,4468616d4a26a01ef154bbe7934d700f,51de87b492c16a5c9c58a9d5dab51dab,531f3ed0ecec2ad737bdbc9b5769e442,61b2d212344e3f3b1b72d623784026a9,671fdb5b43f333c5b30b2fc51136ec90,693298d9a47e346f3a1efd586cabfbee,7371a9e9818e579e599950e2d9c50e96,8b6c9f0a4738a3c2cd6f615d6e5587b7,92793e2ed5e49b30a41c9b6a6815c8ca,a943a75653e815c3e2b2416a453af4d5,b5b6a6aad011ed2fe1ad3f10e2ef82f8,ce9ac9ee1c14569d58e1e73e766516e9,da1f99ba5635a560588fe65f0e1485da,ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">041eb4d2a70ae3e4b34f64752b771c72,192800e2f9d44d56f8c140e55929ed9e,23de7bec2f910b87f2c085342e32f811,26065de945d830f1ee3f987ca402b390,3c2a8f047bda15e0642e7324388befdc,41cf761a6c6e13fc9507b565d6eac694,4468616d4a26a01ef154bbe7934d700f,51de87b492c16a5c9c58a9d5dab51dab,531f3ed0ecec2ad737bdbc9b5769e442,61b2d212344e3f3b1b72d623784026a9,671fdb5b43f333c5b30b2fc51136ec90,693298d9a47e346f3a1efd586cabfbee,7371a9e9818e579e599950e2d9c50e96,8b6c9f0a4738a3c2cd6f615d6e5587b7,92793e2ed5e49b30a41c9b6a6815c8ca,a943a75653e815c3e2b2416a453af4d5,b5b6a6aad011ed2fe1ad3f10e2ef82f8,ce9ac9ee1c14569d58e1e73e766516e9,da1f99ba5635a560588fe65f0e1485da,ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">041eb4d2a70ae3e4b34f64752b771c72,192800e2f9d44d56f8c140e55929ed9e,23de7bec2f910b87f2c085342e32f811,26065de945d830f1ee3f987ca402b390,3c2a8f047bda15e0642e7324388befdc,41cf761a6c6e13fc9507b565d6eac694,4468616d4a26a01ef154bbe7934d700f,51de87b492c16a5c9c58a9d5dab51dab,531f3ed0ecec2ad737bdbc9b5769e442,61b2d212344e3f3b1b72d623784026a9,671fdb5b43f333c5b30b2fc51136ec90,693298d9a47e346f3a1efd586cabfbee,7371a9e9818e579e599950e2d9c50e96,8b6c9f0a4738a3c2cd6f615d6e5587b7,92793e2ed5e49b30a41c9b6a6815c8ca,a943a75653e815c3e2b2416a453af4d5,b5b6a6aad011ed2fe1ad3f10e2ef82f8,ce9ac9ee1c14569d58e1e73e766516e9,da1f99ba5635a560588fe65f0e1485da,ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">041eb4d2a70ae3e4b34f64752b771c72,192800e2f9d44d56f8c140e55929ed9e,23de7bec2f910b87f2c085342e32f811,26065de945d830f1ee3f987ca402b390,3c2a8f047bda15e0642e7324388befdc,41cf761a6c6e13fc9507b565d6eac694,4468616d4a26a01ef154bbe7934d700f,51de87b492c16a5c9c58a9d5dab51dab,531f3ed0ecec2ad737bdbc9b5769e442,61b2d212344e3f3b1b72d623784026a9,671fdb5b43f333c5b30b2fc51136ec90,693298d9a47e346f3a1efd586cabfbee,7371a9e9818e579e599950e2d9c50e96,8b6c9f0a4738a3c2cd6f615d6e5587b7,92793e2ed5e49b30a41c9b6a6815c8ca,a943a75653e815c3e2b2416a453af4d5,b5b6a6aad011ed2fe1ad3f10e2ef82f8,ce9ac9ee1c14569d58e1e73e766516e9,da1f99ba5635a560588fe65f0e1485da,ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">041eb4d2a70ae3e4b34f64752b771c72,192800e2f9d44d56f8c140e55929ed9e,23de7bec2f910b87f2c085342e32f811,26065de945d830f1ee3f987ca402b390,3c2a8f047bda15e0642e7324388befdc,41cf761a6c6e13fc9507b565d6eac694,4468616d4a26a01ef154bbe7934d700f,51de87b492c16a5c9c58a9d5dab51dab,531f3ed0ecec2ad737bdbc9b5769e442,61b2d212344e3f3b1b72d623784026a9,671fdb5b43f333c5b30b2fc51136ec90,693298d9a47e346f3a1efd586cabfbee,7371a9e9818e579e599950e2d9c50e96,8b6c9f0a4738a3c2cd6f615d6e5587b7,92793e2ed5e49b30a41c9b6a6815c8ca,a943a75653e815c3e2b2416a453af4d5,b5b6a6aad011ed2fe1ad3f10e2ef82f8,ce9ac9ee1c14569d58e1e73e766516e9,da1f99ba5635a560588fe65f0e1485da,ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">041eb4d2a70ae3e4b34f64752b771c72,192800e2f9d44d56f8c140e55929ed9e,23de7bec2f910b87f2c085342e32f811,26065de945d830f1ee3f987ca402b390,3c2a8f047bda15e0642e7324388befdc,41cf761a6c6e13fc9507b565d6eac694,4468616d4a26a01ef154bbe7934d700f,51de87b492c16a5c9c58a9d5dab51dab,531f3ed0ecec2ad737bdbc9b5769e442,61b2d212344e3f3b1b72d623784026a9,671fdb5b43f333c5b30b2fc51136ec90,693298d9a47e346f3a1efd586cabfbee,7371a9e9818e579e599950e2d9c50e96,8b6c9f0a4738a3c2cd6f615d6e5587b7,92793e2ed5e49b30a41c9b6a6815c8ca,a943a75653e815c3e2b2416a453af4d5,b5b6a6aad011ed2fe1ad3f10e2ef82f8,ce9ac9ee1c14569d58e1e73e766516e9,da1f99ba5635a560588fe65f0e1485da,ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Mexico is a country located in North America, sharing an international border with the United States. Specifically, it borders the US near Tucson. Additionally, Mexico is home to the state of Jalisco.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">041eb4d2a70ae3e4b34f64752b771c72,192800e2f9d44d56f8c140e55929ed9e,23de7bec2f910b87f2c085342e32f811,26065de945d830f1ee3f987ca402b390,3c2a8f047bda15e0642e7324388befdc,41cf761a6c6e13fc9507b565d6eac694,4468616d4a26a01ef154bbe7934d700f,51de87b492c16a5c9c58a9d5dab51dab,531f3ed0ecec2ad737bdbc9b5769e442,61b2d212344e3f3b1b72d623784026a9,671fdb5b43f333c5b30b2fc51136ec90,693298d9a47e346f3a1efd586cabfbee,7371a9e9818e579e599950e2d9c50e96,8b6c9f0a4738a3c2cd6f615d6e5587b7,92793e2ed5e49b30a41c9b6a6815c8ca,a943a75653e815c3e2b2416a453af4d5,b5b6a6aad011ed2fe1ad3f10e2ef82f8,ce9ac9ee1c14569d58e1e73e766516e9,da1f99ba5635a560588fe65f0e1485da,ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">041eb4d2a70ae3e4b34f64752b771c72,192800e2f9d44d56f8c140e55929ed9e,23de7bec2f910b87f2c085342e32f811,26065de945d830f1ee3f987ca402b390,3c2a8f047bda15e0642e7324388befdc,41cf761a6c6e13fc9507b565d6eac694,4468616d4a26a01ef154bbe7934d700f,51de87b492c16a5c9c58a9d5dab51dab,531f3ed0ecec2ad737bdbc9b5769e442,61b2d212344e3f3b1b72d623784026a9,671fdb5b43f333c5b30b2fc51136ec90,693298d9a47e346f3a1efd586cabfbee,7371a9e9818e579e599950e2d9c50e96,8b6c9f0a4738a3c2cd6f615d6e5587b7,92793e2ed5e49b30a41c9b6a6815c8ca,a943a75653e815c3e2b2416a453af4d5,b5b6a6aad011ed2fe1ad3f10e2ef82f8,ce9ac9ee1c14569d58e1e73e766516e9,da1f99ba5635a560588fe65f0e1485da,ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">041eb4d2a70ae3e4b34f64752b771c72,192800e2f9d44d56f8c140e55929ed9e,23de7bec2f910b87f2c085342e32f811,26065de945d830f1ee3f987ca402b390,3c2a8f047bda15e0642e7324388befdc,41cf761a6c6e13fc9507b565d6eac694,4468616d4a26a01ef154bbe7934d700f,51de87b492c16a5c9c58a9d5dab51dab,531f3ed0ecec2ad737bdbc9b5769e442,61b2d212344e3f3b1b72d623784026a9,671fdb5b43f333c5b30b2fc51136ec90,693298d9a47e346f3a1efd586cabfbee,7371a9e9818e579e599950e2d9c50e96,8b6c9f0a4738a3c2cd6f615d6e5587b7,92793e2ed5e49b30a41c9b6a6815c8ca,a943a75653e815c3e2b2416a453af4d5,b5b6a6aad011ed2fe1ad3f10e2ef82f8,ce9ac9ee1c14569d58e1e73e766516e9,da1f99ba5635a560588fe65f0e1485da,ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </node>
+    <node id="&quot;PARIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Paris is a city and a geographic location in France, which also serves as an administrative department that has undergone changes in governance since 1860.</data>
+      <data key="d2">693298d9a47e346f3a1efd586cabfbee,ce9ac9ee1c14569d58e1e73e766516e9</data>
+    </node>
+    <node id="&quot;PLACE DU PARVIS DE NOTRE - DAME&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Place du Parvis de Notre - Dame is a square located in front of Notre - Dame's western towers."</data>
+      <data key="d2">ce9ac9ee1c14569d58e1e73e766516e9</data>
+    </node>
+    <node id="&quot;NOTRE - DAME&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Notre - Dame is a cathedral and an organization located on the &#206;le de la Cit&#233; in Paris."</data>
+      <data key="d2">ce9ac9ee1c14569d58e1e73e766516e9</data>
+    </node>
+    <node id="&quot;&#206;LE DE LA CIT&#201;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ce9ac9ee1c14569d58e1e73e766516e9</data>
+    </node>
+    <node id="&quot;RIVI&#200;RE-NOUVELLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Rivi&#232;re-Nouvelle is an unorganized territory where the Zec de la Rivi&#232;re-Nouvelle is located."</data>
+      <data key="d2">3c2a8f047bda15e0642e7324388befdc</data>
+    </node>
+    <node id="&quot;AVIGNON REGIONAL COUNTY MUNICIPALITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Avignon Regional County Municipality is a regional county municipality in Quebec, Canada, where the Zec de la Rivi&#232;re-Nouvelle is situated."</data>
+      <data key="d2">3c2a8f047bda15e0642e7324388befdc</data>
+    </node>
+    <node id="&quot;GASP&#201;SIE-&#206;LES-DE-LA-MADELEINE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Gasp&#233;sie-&#206;les-de-la-Madeleine is an administrative region in Quebec, Canada, where the Avignon Regional County Municipality is located."</data>
+      <data key="d2">3c2a8f047bda15e0642e7324388befdc</data>
+    </node>
+    <node id="&quot;QUEBEC&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Quebec is a province in Canada, situated in a location that encompasses various regions and cities, including Lac-Pythonga, Montreal, where Complexe Maisonneuve is located, and the Gasp&#233;sie-&#206;les-de-la-Madeleine administrative region.</data>
+      <data key="d2">26065de945d830f1ee3f987ca402b390,3c2a8f047bda15e0642e7324388befdc,61b2d212344e3f3b1b72d623784026a9,7371a9e9818e579e599950e2d9c50e96</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Canada is a country where Lac-Pythonga is located, and it has a province called Quebec. Additionally, Canada is home to the city of Montreal, and within Quebec, there is a notable location known as Complexe Maisonneuve.</data>
+      <data key="d2">26065de945d830f1ee3f987ca402b390,3c2a8f047bda15e0642e7324388befdc,61b2d212344e3f3b1b72d623784026a9,7371a9e9818e579e599950e2d9c50e96</data>
+    </node>
+    <node id="&quot;ZEC DE LA RIVI&#200;RE-NOUVELLE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3c2a8f047bda15e0642e7324388befdc</data>
+    </node>
+    <node id="&quot;BELARUS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Belarus is a country where Minsk Region is located."</data>
+      <data key="d2">41cf761a6c6e13fc9507b565d6eac694</data>
+    </node>
+    <node id="&quot;MINSK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Minsk is the administrative center of Minsk Region and a separate administrative territorial entity of Belarus."</data>
+      <data key="d2">41cf761a6c6e13fc9507b565d6eac694</data>
+    </node>
+    <node id="&quot;MINSK REGION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">41cf761a6c6e13fc9507b565d6eac694</data>
+    </node>
+    <node id="&quot;BANQUE NATIONALE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Banque Nationale has a tower named Tour de la Banque Nationale as part of the Complexe Maisonneuve complex."</data>
+      <data key="d2">7371a9e9818e579e599950e2d9c50e96</data>
+    </node>
+    <node id="&quot;MONTREAL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Montreal is a city in Quebec, Canada where the Complexe Maisonneuve office building complex is located."</data>
+      <data key="d2">7371a9e9818e579e599950e2d9c50e96</data>
+    </node>
+    <node id="&quot;VICTORIA SQUARE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Victoria Square is a location in Downtown Montreal facing which Complexe Maisonneuve is situated."</data>
+      <data key="d2">7371a9e9818e579e599950e2d9c50e96</data>
+    </node>
+    <node id="&quot;QUARTIER INTERNATIONAL DISTRICT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Quartier international district is an area in Downtown Montreal where Complexe Maisonneuve is located."</data>
+      <data key="d2">7371a9e9818e579e599950e2d9c50e96</data>
+    </node>
+    <node id="&quot;DOWNTOWN MONTREAL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Downtown Montreal is the area where Complexe Maisonneuve is situated, featuring Victoria Square and the Quartier international district."</data>
+      <data key="d2">7371a9e9818e579e599950e2d9c50e96</data>
+    </node>
+    <node id="&quot;COMPLEXE MAISONNEUVE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7371a9e9818e579e599950e2d9c50e96</data>
+    </node>
+    <node id="&quot;NGERKEAI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ngerkeai is the administrative center of Ngiwal state in Palau."</data>
+      <data key="d2">da1f99ba5635a560588fe65f0e1485da</data>
+    </node>
+    <node id="&quot;NGIWAL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">da1f99ba5635a560588fe65f0e1485da</data>
+    </node>
+    <node id="&quot;ANTONI GAUD&#205;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Antoni Gaud&#237; is an architect who designed the Palau G&#252;ell."</data>
+      <data key="d2">671fdb5b43f333c5b30b2fc51136ec90</data>
+    </node>
+    <node id="&quot;EUSEBI G&#220;ELL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Eusebi G&#252;ell is an industrial tycoon for whom the Palau G&#252;ell was built."</data>
+      <data key="d2">671fdb5b43f333c5b30b2fc51136ec90</data>
+    </node>
+    <node id="&quot;BARCELONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Barcelona is a city located in Catalonia, Spain, where several notable landmarks and historical figures have left their mark. The Palau G&#252;ell, a famous building, is situated in Barcelona. Additionally, the city is home to various buildings designed by renowned architect Josep Puig i Cadafalch. Historically, Martin the Humane ruled as Count of Barcelona, leaving a lasting legacy in the region.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">671fdb5b43f333c5b30b2fc51136ec90,8b6c9f0a4738a3c2cd6f615d6e5587b7,b5b6a6aad011ed2fe1ad3f10e2ef82f8</data>
+    </node>
+    <node id="&quot;CATALONIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Catalonia is an autonomous community in Spain where Barcelona is located."</data>
+      <data key="d2">671fdb5b43f333c5b30b2fc51136ec90</data>
+    </node>
+    <node id="&quot;SPAIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Spain is a country in Europe where several notable locations are situated, including the Palau G&#252;ell, Alcu&#233;scar, and Berdejo.</data>
+      <data key="d2">23de7bec2f910b87f2c085342e32f811,671fdb5b43f333c5b30b2fc51136ec90,a943a75653e815c3e2b2416a453af4d5</data>
+    </node>
+    <node id="&quot;UNESCO WORLD HERITAGE SITE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"UNESCO World Heritage Site is an organization that recognizes and protects cultural heritage sites, including the Works of Antoni Gaud&#237;."</data>
+      <data key="d2">671fdb5b43f333c5b30b2fc51136ec90</data>
+    </node>
+    <node id="&quot;PALAU G&#220;ELL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">671fdb5b43f333c5b30b2fc51136ec90</data>
+    </node>
+    <node id="&quot;JAUME MORERA I GAL&#205;CIA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jaume Morera i Gal&#237;cia is a painter who collaborated with the creation of the Museu d'Art Jaume Morera."</data>
+      <data key="d2">92793e2ed5e49b30a41c9b6a6815c8ca</data>
+    </node>
+    <node id="&quot;DIPUTACI&#211; DE LLEIDA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Diputaci&#243; de Lleida is an organization that created and financially supports the Museu d'Art Jaume Morera."</data>
+      <data key="d2">92793e2ed5e49b30a41c9b6a6815c8ca</data>
+    </node>
+    <node id="&quot;LLEIDA CITY COUNCIL (LA PAERIA)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Lleida City Council (La Paeria) is an organization that created and financially supports the Museu d'Art Jaume Morera."</data>
+      <data key="d2">92793e2ed5e49b30a41c9b6a6815c8ca</data>
+    </node>
+    <node id="&quot;DEPARTMENT OF CULTURE OF THE GENERALITAT OF CATALONIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Department of Culture of the Generalitat of Catalonia provides financial support to the Museu d'Art Jaume Morera."</data>
+      <data key="d2">92793e2ed5e49b30a41c9b6a6815c8ca</data>
+    </node>
+    <node id="&quot;LLEIDA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lleida is a city in Catalonia where the Museu d'Art Jaume Morera is located."</data>
+      <data key="d2">92793e2ed5e49b30a41c9b6a6815c8ca</data>
+    </node>
+    <node id="&quot;MUSEU D'ART JAUME MORERA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">92793e2ed5e49b30a41c9b6a6815c8ca</data>
+    </node>
+    <node id="&quot;TLAJOMULCO DE ZU&#209;IGA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Tlajomulco de Zu&#241;iga is a location in the state of Jalisco, Mexico, north of Santa Cruz de las Flores"</data>
+      <data key="d2">041eb4d2a70ae3e4b34f64752b771c72</data>
+    </node>
+    <node id="&quot;JALISCO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Jalisco is a state in Mexico where Santa Cruz de las Flores and Tlajomulco de Zu&#241;iga are located"</data>
+      <data key="d2">041eb4d2a70ae3e4b34f64752b771c72</data>
+    </node>
+    <node id="&quot;SANTA CRUZ DE LAS FLORES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">041eb4d2a70ae3e4b34f64752b771c72</data>
+    </node>
+    <node id="&quot;NATIONAL CONVENTION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The National Convention was a governing body that convicted Louis XVI and condemned him to death during the French Revolution."</data>
+      <data key="d2">51de87b492c16a5c9c58a9d5dab51dab</data>
+    </node>
+    <node id="&quot;PLACE DE LA R&#201;VOLUTION&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Place de la R&#233;volution, also known as Revolution Square, was the location where Louis XVI was executed by guillotine in 1793."</data>
+      <data key="d2">51de87b492c16a5c9c58a9d5dab51dab</data>
+    </node>
+    <node id="&quot;FRENCH REVOLUTION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The French Revolution was a major event that took place from 1789 to 1799, during which Louis XVI was executed."</data>
+      <data key="d2">51de87b492c16a5c9c58a9d5dab51dab</data>
+    </node>
+    <node id="&quot;LOUIS XVI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">51de87b492c16a5c9c58a9d5dab51dab</data>
+    </node>
+    <node id="&quot;ARAGON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Aragon is a location with a rich history, having been ruled by King Martin the Humane in the past. Additionally, Aragon is also an autonomous community in Spain, where the town of Berdejo is situated.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">23de7bec2f910b87f2c085342e32f811,b5b6a6aad011ed2fe1ad3f10e2ef82f8</data>
+    </node>
+    <node id="&quot;VALENCIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Valencia is a location where Martin the Humane ruled as king."</data>
+      <data key="d2">b5b6a6aad011ed2fe1ad3f10e2ef82f8</data>
+    </node>
+    <node id="&quot;SARDINIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Sardinia is a location where Martin the Humane ruled as king."</data>
+      <data key="d2">b5b6a6aad011ed2fe1ad3f10e2ef82f8</data>
+    </node>
+    <node id="&quot;CORSICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Corsica is a location where Martin the Humane ruled as king."</data>
+      <data key="d2">b5b6a6aad011ed2fe1ad3f10e2ef82f8</data>
+    </node>
+    <node id="&quot;SICILY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Sicily is a location where Martin the Humane ruled as King from 1409."</data>
+      <data key="d2">b5b6a6aad011ed2fe1ad3f10e2ef82f8</data>
+    </node>
+    <node id="&quot;HOUSE OF BARCELONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The House of Barcelona was a ruling dynasty that came to an end with Martin the Humane's failure to secure the accession of his illegitimate grandson, Frederic."</data>
+      <data key="d2">b5b6a6aad011ed2fe1ad3f10e2ef82f8</data>
+    </node>
+    <node id="&quot;FREDERIC, COUNT OF LUNA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Frederic is Martin the Humane's illegitimate grandson who failed to secure the rule of the House of Barcelona."</data>
+      <data key="d2">b5b6a6aad011ed2fe1ad3f10e2ef82f8</data>
+    </node>
+    <node id="&quot;MARTIN THE HUMANE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b5b6a6aad011ed2fe1ad3f10e2ef82f8</data>
+    </node>
+    <node id="&quot;C&#193;CERES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"C&#225;ceres is a province where Alcu&#233;scar is located."</data>
+      <data key="d2">a943a75653e815c3e2b2416a453af4d5</data>
+    </node>
+    <node id="&quot;EXTREMADURA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Extremadura is an autonomous community in Spain where Alcu&#233;scar is located."</data>
+      <data key="d2">a943a75653e815c3e2b2416a453af4d5</data>
+    </node>
+    <node id="&quot;ST. JAMES THE APOSTLE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"St. James the Apostle is a historical figure whose burial place is the destination of the Camino de Santiago pilgrimage trail."</data>
+      <data key="d2">a943a75653e815c3e2b2416a453af4d5</data>
+    </node>
+    <node id="&quot;CAMINO DE SANTIAGO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Camino de Santiago is a pilgrimage trail to the burial place of St. James the Apostle."</data>
+      <data key="d2">a943a75653e815c3e2b2416a453af4d5</data>
+    </node>
+    <node id="&quot;ALCU&#201;SCAR&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a943a75653e815c3e2b2416a453af4d5</data>
+    </node>
+    <node id="&quot;LA TUQUE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"La Tuque is an administrative region of Mauricie, in Quebec, Canada."</data>
+      <data key="d2">26065de945d830f1ee3f987ca402b390</data>
+    </node>
+    <node id="&quot;MAURICIE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mauricie is an administrative region in Quebec, Canada."</data>
+      <data key="d2">26065de945d830f1ee3f987ca402b390</data>
+    </node>
+    <node id="&quot;ZEC DE LA BESSONNE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">26065de945d830f1ee3f987ca402b390</data>
+    </node>
+    <node id="&quot;ZARAGOZA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Zaragoza is a province where Berdejo is located."</data>
+      <data key="d2">23de7bec2f910b87f2c085342e32f811</data>
+    </node>
+    <node id="&quot;INE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"INE (Instituto Nacional de Estad&#237;stica) is the organization responsible for conducting the census in Spain."</data>
+      <data key="d2">23de7bec2f910b87f2c085342e32f811</data>
+    </node>
+    <node id="&quot;BERDEJO&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">23de7bec2f910b87f2c085342e32f811</data>
+    </node>
+    <node id="&quot;OUTAOUAIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Outaouais is a region in Quebec, Canada where Lac-Pythonga is located."</data>
+      <data key="d2">61b2d212344e3f3b1b72d623784026a9</data>
+    </node>
+    <node id="&quot;LA VALL&#201;E-DE-LA-GATINEAU REGIONAL COUNTY MUNICIPALITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"La Vall&#233;e-de-la-Gatineau Regional County Municipality is a regional county municipality in Quebec, Canada that includes Lac-Pythonga."</data>
+      <data key="d2">61b2d212344e3f3b1b72d623784026a9</data>
+    </node>
+    <node id="&quot;LAC-PYTHONGA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">61b2d212344e3f3b1b72d623784026a9</data>
+    </node>
+    <node id="&quot;GUADELOUPE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Guadeloupe is an overseas region and department of France, which Saint Barth&#233;lemy was previously part of."</data>
+      <data key="d2">192800e2f9d44d56f8c140e55929ed9e</data>
+    </node>
+    <node id="&quot;FRANCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+France is a country located in Europe, where the Jardin botanique de Bordeaux can be found. Additionally, it is the country to which several overseas territories belong, including Saint Barth&#233;lemy and Guadeloupe.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">192800e2f9d44d56f8c140e55929ed9e,531f3ed0ecec2ad737bdbc9b5769e442</data>
+    </node>
+    <node id="&quot;THE HOTEL DE VILLE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Hotel de Ville was the town hall, now known as the Hotel de la Collectivit&#233;, which serves as the governing body for Saint Barth&#233;lemy."</data>
+      <data key="d2">192800e2f9d44d56f8c140e55929ed9e</data>
+    </node>
+    <node id="&quot;THE TERRITORIAL COUNCIL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The territorial council is the elected governing body responsible for the administration of Saint Barth&#233;lemy."</data>
+      <data key="d2">192800e2f9d44d56f8c140e55929ed9e</data>
+    </node>
+    <node id="&quot;THE SENATOR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The senator represents Saint Barth&#233;lemy in Paris, serving as a liaison between the island and the French government."</data>
+      <data key="d2">192800e2f9d44d56f8c140e55929ed9e</data>
+    </node>
+    <node id="&quot;SAINT BARTH&#201;LEMY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">192800e2f9d44d56f8c140e55929ed9e</data>
+    </node>
+    <node id="&quot;BOIS DE VINCENNES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bois de Vincennes is a geographic location in Paris that was added in the 20th century."</data>
+      <data key="d2">693298d9a47e346f3a1efd586cabfbee</data>
+    </node>
+    <node id="&quot;PARIS HELIPORT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Paris heliport is a geographic location in Paris that was added in the 20th century."</data>
+      <data key="d2">693298d9a47e346f3a1efd586cabfbee</data>
+    </node>
+    <node id="&quot;SEINE D&#201;PARTEMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Seine d&#233;partement is an administrative entity that governed Paris and its suburbs from 1790 to 1968."</data>
+      <data key="d2">693298d9a47e346f3a1efd586cabfbee</data>
+    </node>
+    <node id="&quot;DISTRICT DE LA R&#201;GION PARISIENNE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"District de la r&#233;gion parisienne, also known as the Paris region, was reorganized into several new departments in 1968."</data>
+      <data key="d2">693298d9a47e346f3a1efd586cabfbee</data>
+    </node>
+    <node id="&quot;&#206;LE-DE-FRANCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"&#206;le-de-France is a geographic region that was previously known as the Paris region and was renamed in 1977."</data>
+      <data key="d2">693298d9a47e346f3a1efd586cabfbee</data>
+    </node>
+    <node id="&quot;M&#201;TROPOLE DU GRAND PARIS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"M&#233;tropole du Grand Paris is an administrative entity that reunited Paris with its suburbs on January 1, 2016."</data>
+      <data key="d2">693298d9a47e346f3a1efd586cabfbee</data>
+    </node>
+    <node id="&quot;JOSEP PUIG I CADAFALCH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Josep Puig i Cadafalch is an architect who designed various buildings in Barcelona, including the Palace of Justice courthouse and the University of Barcelona's Faculty of Medicine."</data>
+      <data key="d2">8b6c9f0a4738a3c2cd6f615d6e5587b7</data>
+    </node>
+    <node id="&quot;PERE FALQU&#201;S&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Pere Falqu&#233;s is an architect who collaborated with Josep Puig i Cadafalch on the church of Sant Andreu del Palomar in Barcelona."</data>
+      <data key="d2">8b6c9f0a4738a3c2cd6f615d6e5587b7</data>
+    </node>
+    <node id="&quot;ENRIC SAGNIER I VILLAVECCHIA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Enric Sagnier i Villavecchia is an architect who collaborated with Josep Puig i Cadafalch on the Palace of Justice courthouse in Barcelona."</data>
+      <data key="d2">8b6c9f0a4738a3c2cd6f615d6e5587b7</data>
+    </node>
+    <node id="&quot;SALVADOR VINYALS I SABAT&#201;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Salvador Vinyals i Sabat&#233; is an architect who collaborated with Josep Puig i Cadafalch on the Modelo prison in Barcelona."</data>
+      <data key="d2">8b6c9f0a4738a3c2cd6f615d6e5587b7</data>
+    </node>
+    <node id="&quot;IGNASI C. BARTROL&#205;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ignasi C. Bartrol&#237; is an architect who designed the Hospital Cl&#237;nic, which was built by Josep Puig i Cadafalch."</data>
+      <data key="d2">8b6c9f0a4738a3c2cd6f615d6e5587b7</data>
+    </node>
+    <node id="&quot;JOSEP DOM&#200;NECH I MANSANA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Josep Dom&#232;nech i Mansana is an architect and the son of Llu&#237;s Dom&#232;nech i Montaner, who finished his father's project, the Church of Our Lady of Carmen and Carmelite convent."</data>
+      <data key="d2">8b6c9f0a4738a3c2cd6f615d6e5587b7</data>
+    </node>
+    <node id="&quot;VILADRAU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Viladrau is a town in Spain where Josep Puig i Cadafalch built the Hotel Bofill."</data>
+      <data key="d2">8b6c9f0a4738a3c2cd6f615d6e5587b7</data>
+    </node>
+    <node id="&quot;REIAL ACAD&#200;MIA DE LES CI&#200;NCIES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Reial Acad&#232;mia de les Ci&#232;ncies is an institution in Barcelona, designed by Josep Puig i Cadafalch."</data>
+      <data key="d2">8b6c9f0a4738a3c2cd6f615d6e5587b7</data>
+    </node>
+    <node id="&quot;DELEGACI&#211;N DEL GOBIERNO ESPA&#209;OL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Delegaci&#243;n del Gobierno Espa&#241;ol is a government delegation in Barcelona, housed in the Palau Montaner building designed by Josep Puig i Cadafalch."</data>
+      <data key="d2">8b6c9f0a4738a3c2cd6f615d6e5587b7</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF BARCELONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"University of Barcelona is an institution where Josep Puig i Cadafalch designed the Faculty of Medicine building."</data>
+      <data key="d2">8b6c9f0a4738a3c2cd6f615d6e5587b7</data>
+    </node>
+    <node id="&quot;MUSEU DE LA CI&#200;NCIA DE BARCELONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Museu de la Ci&#232;ncia de Barcelona, also known as CosmoCaixa Barcelona, is a museum in Barcelona that was originally built as the Amparo de Santa Luc&#237;a / Empar de Santa Ll&#250;cia home for the blind by Josep Puig i Cadafalch."</data>
+      <data key="d2">8b6c9f0a4738a3c2cd6f615d6e5587b7</data>
+    </node>
+    <node id="&quot;LLU&#205;S DOM&#200;NECH I MONTANER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8b6c9f0a4738a3c2cd6f615d6e5587b7</data>
+    </node>
+    <node id="&quot;HOTEL BOFILL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8b6c9f0a4738a3c2cd6f615d6e5587b7</data>
+    </node>
+    <node id="&quot;ROYAL PALACE OF OLITE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Royal palace of Olite is a royal palace built during the 13th and 14th centuries for the kings of Navarre."</data>
+      <data key="d2">4468616d4a26a01ef154bbe7934d700f</data>
+    </node>
+    <node id="&quot;MALBORK CASTLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Malbork Castle is an example of Brick Gothic architecture, built for the master of the Teutonic order."</data>
+      <data key="d2">4468616d4a26a01ef154bbe7934d700f</data>
+    </node>
+    <node id="&quot;DOGE'S PALACE OF VENICE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Doge's Palace of Venice is a partial survival of a former royal residence, built in the 15th century."</data>
+      <data key="d2">4468616d4a26a01ef154bbe7934d700f</data>
+    </node>
+    <node id="&quot;PALAU DE LA GENERALITAT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Palau de la Generalitat is a palace located in Barcelona, built in the 15th century for the kings of Aragon."</data>
+      <data key="d2">4468616d4a26a01ef154bbe7934d700f</data>
+    </node>
+    <node id="&quot;CONCIERGERIE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Conciergerie is a former palace of the kings of France, located in Paris."</data>
+      <data key="d2">4468616d4a26a01ef154bbe7934d700f</data>
+    </node>
+    <node id="&quot;TEUTONIC ORDER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Teutonic order is an organization that commissioned the construction of Malbork Castle."</data>
+      <data key="d2">4468616d4a26a01ef154bbe7934d700f</data>
+    </node>
+    <node id="&quot;KINGS OF NAVARRE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Kings of Navarre were the rulers who commissioned the construction of the Royal palace of Olite and Palais des Papes."</data>
+      <data key="d2">4468616d4a26a01ef154bbe7934d700f</data>
+    </node>
+    <node id="&quot;KINGS OF ARAGON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Kings of Aragon were the rulers who commissioned the construction of the Palau de la Generalitat in Barcelona."</data>
+      <data key="d2">4468616d4a26a01ef154bbe7934d700f</data>
+    </node>
+    <node id="&quot;KINGS OF FRANCE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Kings of France were the rulers who used the Conciergerie as their palace in Paris."</data>
+      <data key="d2">4468616d4a26a01ef154bbe7934d700f</data>
+    </node>
+    <node id="&quot;PALAIS DES PAPES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4468616d4a26a01ef154bbe7934d700f</data>
+    </node>
+    <node id="&quot;AVIGNON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4468616d4a26a01ef154bbe7934d700f</data>
+    </node>
+    <node id="&quot;VENICE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4468616d4a26a01ef154bbe7934d700f</data>
+    </node>
+    <node id="&quot;BORDEAUX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bordeaux is a city in France where the Jardin botanique de Bordeaux is located."</data>
+      <data key="d2">531f3ed0ecec2ad737bdbc9b5769e442</data>
+    </node>
+    <node id="&quot;GIRONDE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Gironde is an administrative division in France where Bordeaux is located."</data>
+      <data key="d2">531f3ed0ecec2ad737bdbc9b5769e442</data>
+    </node>
+    <node id="&quot;AQUITAINE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Aquitaine is a region in France where Gironde is located."</data>
+      <data key="d2">531f3ed0ecec2ad737bdbc9b5769e442</data>
+    </node>
+    <node id="&quot;JARDIN BOTANIQUE DE LA BASTIDE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Jardin botanique de la Bastide is another botanical garden located across the river from the Jardin botanique de Bordeaux."</data>
+      <data key="d2">531f3ed0ecec2ad737bdbc9b5769e442</data>
+    </node>
+    <node id="&quot;JARDIN BOTANIQUE DE BORDEAUX&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">531f3ed0ecec2ad737bdbc9b5769e442</data>
+    </node>
+    <edge source="&quot;MOUNT EVEREST NEPAL&quot;" target="&quot;PALAU TIGER TEAM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Palau Tiger Team played against Mount Everest Nepal in the third place play-off."</data>
+      <data key="d5">ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </edge>
+    <edge source="&quot;PALAU&quot;" target="&quot;NGIWAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ngiwal is a state within the country of Palau."</data>
+      <data key="d5">da1f99ba5635a560588fe65f0e1485da</data>
+    </edge>
+    <edge source="&quot;2006-07&quot;" target="&quot;PALAU TIGER TEAM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 2006-07 season was when Palau Tiger Team finished fourth in the Palau Soccer League."</data>
+      <data key="d5">ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </edge>
+    <edge source="&quot;PALAU TIGER TEAM&quot;" target="&quot;PALAU SOCCER LEAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Palau Tiger Team competed in the Palau Soccer League."</data>
+      <data key="d5">ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">041eb4d2a70ae3e4b34f64752b771c72,192800e2f9d44d56f8c140e55929ed9e,23de7bec2f910b87f2c085342e32f811,26065de945d830f1ee3f987ca402b390,3c2a8f047bda15e0642e7324388befdc,41cf761a6c6e13fc9507b565d6eac694,4468616d4a26a01ef154bbe7934d700f,51de87b492c16a5c9c58a9d5dab51dab,531f3ed0ecec2ad737bdbc9b5769e442,61b2d212344e3f3b1b72d623784026a9,671fdb5b43f333c5b30b2fc51136ec90,693298d9a47e346f3a1efd586cabfbee,7371a9e9818e579e599950e2d9c50e96,8b6c9f0a4738a3c2cd6f615d6e5587b7,92793e2ed5e49b30a41c9b6a6815c8ca,a943a75653e815c3e2b2416a453af4d5,b5b6a6aad011ed2fe1ad3f10e2ef82f8,ce9ac9ee1c14569d58e1e73e766516e9,da1f99ba5635a560588fe65f0e1485da,ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">041eb4d2a70ae3e4b34f64752b771c72,192800e2f9d44d56f8c140e55929ed9e,23de7bec2f910b87f2c085342e32f811,26065de945d830f1ee3f987ca402b390,3c2a8f047bda15e0642e7324388befdc,41cf761a6c6e13fc9507b565d6eac694,4468616d4a26a01ef154bbe7934d700f,51de87b492c16a5c9c58a9d5dab51dab,531f3ed0ecec2ad737bdbc9b5769e442,61b2d212344e3f3b1b72d623784026a9,671fdb5b43f333c5b30b2fc51136ec90,693298d9a47e346f3a1efd586cabfbee,7371a9e9818e579e599950e2d9c50e96,8b6c9f0a4738a3c2cd6f615d6e5587b7,92793e2ed5e49b30a41c9b6a6815c8ca,a943a75653e815c3e2b2416a453af4d5,b5b6a6aad011ed2fe1ad3f10e2ef82f8,ce9ac9ee1c14569d58e1e73e766516e9,da1f99ba5635a560588fe65f0e1485da,ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">041eb4d2a70ae3e4b34f64752b771c72,192800e2f9d44d56f8c140e55929ed9e,23de7bec2f910b87f2c085342e32f811,26065de945d830f1ee3f987ca402b390,3c2a8f047bda15e0642e7324388befdc,41cf761a6c6e13fc9507b565d6eac694,4468616d4a26a01ef154bbe7934d700f,51de87b492c16a5c9c58a9d5dab51dab,531f3ed0ecec2ad737bdbc9b5769e442,61b2d212344e3f3b1b72d623784026a9,671fdb5b43f333c5b30b2fc51136ec90,693298d9a47e346f3a1efd586cabfbee,7371a9e9818e579e599950e2d9c50e96,8b6c9f0a4738a3c2cd6f615d6e5587b7,92793e2ed5e49b30a41c9b6a6815c8ca,a943a75653e815c3e2b2416a453af4d5,b5b6a6aad011ed2fe1ad3f10e2ef82f8,ce9ac9ee1c14569d58e1e73e766516e9,da1f99ba5635a560588fe65f0e1485da,ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">041eb4d2a70ae3e4b34f64752b771c72,192800e2f9d44d56f8c140e55929ed9e,23de7bec2f910b87f2c085342e32f811,26065de945d830f1ee3f987ca402b390,3c2a8f047bda15e0642e7324388befdc,41cf761a6c6e13fc9507b565d6eac694,4468616d4a26a01ef154bbe7934d700f,51de87b492c16a5c9c58a9d5dab51dab,531f3ed0ecec2ad737bdbc9b5769e442,61b2d212344e3f3b1b72d623784026a9,671fdb5b43f333c5b30b2fc51136ec90,693298d9a47e346f3a1efd586cabfbee,7371a9e9818e579e599950e2d9c50e96,8b6c9f0a4738a3c2cd6f615d6e5587b7,92793e2ed5e49b30a41c9b6a6815c8ca,a943a75653e815c3e2b2416a453af4d5,b5b6a6aad011ed2fe1ad3f10e2ef82f8,ce9ac9ee1c14569d58e1e73e766516e9,da1f99ba5635a560588fe65f0e1485da,ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">041eb4d2a70ae3e4b34f64752b771c72,192800e2f9d44d56f8c140e55929ed9e,23de7bec2f910b87f2c085342e32f811,26065de945d830f1ee3f987ca402b390,3c2a8f047bda15e0642e7324388befdc,41cf761a6c6e13fc9507b565d6eac694,4468616d4a26a01ef154bbe7934d700f,51de87b492c16a5c9c58a9d5dab51dab,531f3ed0ecec2ad737bdbc9b5769e442,61b2d212344e3f3b1b72d623784026a9,671fdb5b43f333c5b30b2fc51136ec90,693298d9a47e346f3a1efd586cabfbee,7371a9e9818e579e599950e2d9c50e96,8b6c9f0a4738a3c2cd6f615d6e5587b7,92793e2ed5e49b30a41c9b6a6815c8ca,a943a75653e815c3e2b2416a453af4d5,b5b6a6aad011ed2fe1ad3f10e2ef82f8,ce9ac9ee1c14569d58e1e73e766516e9,da1f99ba5635a560588fe65f0e1485da,ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">041eb4d2a70ae3e4b34f64752b771c72,192800e2f9d44d56f8c140e55929ed9e,23de7bec2f910b87f2c085342e32f811,26065de945d830f1ee3f987ca402b390,3c2a8f047bda15e0642e7324388befdc,41cf761a6c6e13fc9507b565d6eac694,4468616d4a26a01ef154bbe7934d700f,51de87b492c16a5c9c58a9d5dab51dab,531f3ed0ecec2ad737bdbc9b5769e442,61b2d212344e3f3b1b72d623784026a9,671fdb5b43f333c5b30b2fc51136ec90,693298d9a47e346f3a1efd586cabfbee,7371a9e9818e579e599950e2d9c50e96,8b6c9f0a4738a3c2cd6f615d6e5587b7,92793e2ed5e49b30a41c9b6a6815c8ca,a943a75653e815c3e2b2416a453af4d5,b5b6a6aad011ed2fe1ad3f10e2ef82f8,ce9ac9ee1c14569d58e1e73e766516e9,da1f99ba5635a560588fe65f0e1485da,ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">041eb4d2a70ae3e4b34f64752b771c72,192800e2f9d44d56f8c140e55929ed9e,23de7bec2f910b87f2c085342e32f811,26065de945d830f1ee3f987ca402b390,3c2a8f047bda15e0642e7324388befdc,41cf761a6c6e13fc9507b565d6eac694,4468616d4a26a01ef154bbe7934d700f,51de87b492c16a5c9c58a9d5dab51dab,531f3ed0ecec2ad737bdbc9b5769e442,61b2d212344e3f3b1b72d623784026a9,671fdb5b43f333c5b30b2fc51136ec90,693298d9a47e346f3a1efd586cabfbee,7371a9e9818e579e599950e2d9c50e96,8b6c9f0a4738a3c2cd6f615d6e5587b7,92793e2ed5e49b30a41c9b6a6815c8ca,a943a75653e815c3e2b2416a453af4d5,b5b6a6aad011ed2fe1ad3f10e2ef82f8,ce9ac9ee1c14569d58e1e73e766516e9,da1f99ba5635a560588fe65f0e1485da,ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">041eb4d2a70ae3e4b34f64752b771c72,192800e2f9d44d56f8c140e55929ed9e,23de7bec2f910b87f2c085342e32f811,26065de945d830f1ee3f987ca402b390,3c2a8f047bda15e0642e7324388befdc,41cf761a6c6e13fc9507b565d6eac694,4468616d4a26a01ef154bbe7934d700f,51de87b492c16a5c9c58a9d5dab51dab,531f3ed0ecec2ad737bdbc9b5769e442,61b2d212344e3f3b1b72d623784026a9,671fdb5b43f333c5b30b2fc51136ec90,693298d9a47e346f3a1efd586cabfbee,7371a9e9818e579e599950e2d9c50e96,8b6c9f0a4738a3c2cd6f615d6e5587b7,92793e2ed5e49b30a41c9b6a6815c8ca,a943a75653e815c3e2b2416a453af4d5,b5b6a6aad011ed2fe1ad3f10e2ef82f8,ce9ac9ee1c14569d58e1e73e766516e9,da1f99ba5635a560588fe65f0e1485da,ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">041eb4d2a70ae3e4b34f64752b771c72,192800e2f9d44d56f8c140e55929ed9e,23de7bec2f910b87f2c085342e32f811,26065de945d830f1ee3f987ca402b390,3c2a8f047bda15e0642e7324388befdc,41cf761a6c6e13fc9507b565d6eac694,4468616d4a26a01ef154bbe7934d700f,51de87b492c16a5c9c58a9d5dab51dab,531f3ed0ecec2ad737bdbc9b5769e442,61b2d212344e3f3b1b72d623784026a9,671fdb5b43f333c5b30b2fc51136ec90,693298d9a47e346f3a1efd586cabfbee,7371a9e9818e579e599950e2d9c50e96,8b6c9f0a4738a3c2cd6f615d6e5587b7,92793e2ed5e49b30a41c9b6a6815c8ca,a943a75653e815c3e2b2416a453af4d5,b5b6a6aad011ed2fe1ad3f10e2ef82f8,ce9ac9ee1c14569d58e1e73e766516e9,da1f99ba5635a560588fe65f0e1485da,ee5358d5961fff8a52a6e15f84ed44ab</data>
+    </edge>
+    <edge source="&quot;MEXICO&quot;" target="&quot;JALISCO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jalisco is a state in Mexico."</data>
+      <data key="d5">041eb4d2a70ae3e4b34f64752b771c72</data>
+    </edge>
+    <edge source="&quot;PARIS&quot;" target="&quot;&#206;LE DE LA CIT&#201;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#206;le de la Cit&#233; is a part of Paris, being an island within the city."</data>
+      <data key="d5">ce9ac9ee1c14569d58e1e73e766516e9</data>
+    </edge>
+    <edge source="&quot;PARIS&quot;" target="&quot;SEINE D&#201;PARTEMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Seine d&#233;partement governed Paris and its suburbs from 1790 to 1968."</data>
+      <data key="d5">693298d9a47e346f3a1efd586cabfbee</data>
+    </edge>
+    <edge source="&quot;PARIS&quot;" target="&quot;&#206;LE-DE-FRANCE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"&#206;le-de-France is a geographic region that includes Paris."</data>
+      <data key="d5">693298d9a47e346f3a1efd586cabfbee</data>
+    </edge>
+    <edge source="&quot;PARIS&quot;" target="&quot;M&#201;TROPOLE DU GRAND PARIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The M&#233;tropole du Grand Paris reunited Paris with its suburbs on January 1, 2016."</data>
+      <data key="d5">693298d9a47e346f3a1efd586cabfbee</data>
+    </edge>
+    <edge source="&quot;PLACE DU PARVIS DE NOTRE - DAME&quot;" target="&quot;NOTRE - DAME&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Place du Parvis de Notre - Dame is located in front of Notre - Dame's western towers."</data>
+      <data key="d5">ce9ac9ee1c14569d58e1e73e766516e9</data>
+    </edge>
+    <edge source="&quot;RIVI&#200;RE-NOUVELLE&quot;" target="&quot;ZEC DE LA RIVI&#200;RE-NOUVELLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Zec de la Rivi&#232;re-Nouvelle is located in the unorganized territory of Rivi&#232;re-Nouvelle."</data>
+      <data key="d5">3c2a8f047bda15e0642e7324388befdc</data>
+    </edge>
+    <edge source="&quot;AVIGNON REGIONAL COUNTY MUNICIPALITY&quot;" target="&quot;ZEC DE LA RIVI&#200;RE-NOUVELLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Zec de la Rivi&#232;re-Nouvelle is situated in Avignon Regional County Municipality."</data>
+      <data key="d5">3c2a8f047bda15e0642e7324388befdc</data>
+    </edge>
+    <edge source="&quot;AVIGNON REGIONAL COUNTY MUNICIPALITY&quot;" target="&quot;GASP&#201;SIE-&#206;LES-DE-LA-MADELEINE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Avignon Regional County Municipality is located in the Gasp&#233;sie-&#206;les-de-la-Madeleine administrative region."</data>
+      <data key="d5">3c2a8f047bda15e0642e7324388befdc</data>
+    </edge>
+    <edge source="&quot;GASP&#201;SIE-&#206;LES-DE-LA-MADELEINE&quot;" target="&quot;QUEBEC&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Gasp&#233;sie-&#206;les-de-la-Madeleine administrative region is situated in Quebec."</data>
+      <data key="d5">3c2a8f047bda15e0642e7324388befdc</data>
+    </edge>
+    <edge source="&quot;QUEBEC&quot;" target="&quot;CANADA&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Quebec is a province in Canada."</data>
+      <data key="d5">26065de945d830f1ee3f987ca402b390,3c2a8f047bda15e0642e7324388befdc</data>
+    </edge>
+    <edge source="&quot;QUEBEC&quot;" target="&quot;MONTREAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Montreal is a city located in the province of Quebec, Canada."</data>
+      <data key="d5">7371a9e9818e579e599950e2d9c50e96</data>
+    </edge>
+    <edge source="&quot;QUEBEC&quot;" target="&quot;MAURICIE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mauricie is an administrative region in Quebec."</data>
+      <data key="d5">26065de945d830f1ee3f987ca402b390</data>
+    </edge>
+    <edge source="&quot;QUEBEC&quot;" target="&quot;LAC-PYTHONGA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lac-Pythonga is situated in the province of Quebec, Canada."</data>
+      <data key="d5">61b2d212344e3f3b1b72d623784026a9</data>
+    </edge>
+    <edge source="&quot;CANADA&quot;" target="&quot;LAC-PYTHONGA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lac-Pythonga is located in the country of Canada."</data>
+      <data key="d5">61b2d212344e3f3b1b72d623784026a9</data>
+    </edge>
+    <edge source="&quot;BELARUS&quot;" target="&quot;MINSK REGION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Minsk Region is one of the regions of Belarus."</data>
+      <data key="d5">41cf761a6c6e13fc9507b565d6eac694</data>
+    </edge>
+    <edge source="&quot;MINSK&quot;" target="&quot;MINSK REGION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Minsk is the administrative center of Minsk Region."</data>
+      <data key="d5">41cf761a6c6e13fc9507b565d6eac694</data>
+    </edge>
+    <edge source="&quot;BANQUE NATIONALE&quot;" target="&quot;COMPLEXE MAISONNEUVE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tour de la Banque Nationale is part of the Complexe Maisonneuve complex."</data>
+      <data key="d5">7371a9e9818e579e599950e2d9c50e96</data>
+    </edge>
+    <edge source="&quot;MONTREAL&quot;" target="&quot;COMPLEXE MAISONNEUVE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Complexe Maisonneuve is located in Montreal, Quebec, Canada."</data>
+      <data key="d5">7371a9e9818e579e599950e2d9c50e96</data>
+    </edge>
+    <edge source="&quot;NGERKEAI&quot;" target="&quot;NGIWAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ngerkeai is the administrative center of Ngiwal state."</data>
+      <data key="d5">da1f99ba5635a560588fe65f0e1485da</data>
+    </edge>
+    <edge source="&quot;ANTONI GAUD&#205;&quot;" target="&quot;PALAU G&#220;ELL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Palau G&#252;ell was designed by Antoni Gaud&#237;."</data>
+      <data key="d5">671fdb5b43f333c5b30b2fc51136ec90</data>
+    </edge>
+    <edge source="&quot;EUSEBI G&#220;ELL&quot;" target="&quot;PALAU G&#220;ELL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Palau G&#252;ell was built for Eusebi G&#252;ell."</data>
+      <data key="d5">671fdb5b43f333c5b30b2fc51136ec90</data>
+    </edge>
+    <edge source="&quot;BARCELONA&quot;" target="&quot;PALAU G&#220;ELL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Palau G&#252;ell is situated in Barcelona."</data>
+      <data key="d5">671fdb5b43f333c5b30b2fc51136ec90</data>
+    </edge>
+    <edge source="&quot;BARCELONA&quot;" target="&quot;REIAL ACAD&#200;MIA DE LES CI&#200;NCIES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Reial Acad&#232;mia de les Ci&#232;ncies is located in Barcelona."</data>
+      <data key="d5">8b6c9f0a4738a3c2cd6f615d6e5587b7</data>
+    </edge>
+    <edge source="&quot;SPAIN&quot;" target="&quot;ALCU&#201;SCAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alcu&#233;scar is a municipality in Spain."</data>
+      <data key="d5">a943a75653e815c3e2b2416a453af4d5</data>
+    </edge>
+    <edge source="&quot;SPAIN&quot;" target="&quot;BERDEJO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Berdejo is a municipality in Spain."</data>
+      <data key="d5">23de7bec2f910b87f2c085342e32f811</data>
+    </edge>
+    <edge source="&quot;SPAIN&quot;" target="&quot;INE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"INE is responsible for conducting censuses in Spain, including the 2004 census that reported Berdejo's population."</data>
+      <data key="d5">23de7bec2f910b87f2c085342e32f811</data>
+    </edge>
+    <edge source="&quot;UNESCO WORLD HERITAGE SITE&quot;" target="&quot;PALAU G&#220;ELL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Palau G&#252;ell is part of the UNESCO World Heritage Site 'Works of Antoni Gaud&#237;'."</data>
+      <data key="d5">671fdb5b43f333c5b30b2fc51136ec90</data>
+    </edge>
+    <edge source="&quot;DIPUTACI&#211; DE LLEIDA&quot;" target="&quot;MUSEU D'ART JAUME MORERA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Diputaci&#243; de Lleida created and financially supports the Museu d'Art Jaume Morera."</data>
+      <data key="d5">92793e2ed5e49b30a41c9b6a6815c8ca</data>
+    </edge>
+    <edge source="&quot;LLEIDA CITY COUNCIL (LA PAERIA)&quot;" target="&quot;MUSEU D'ART JAUME MORERA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Lleida City Council (La Paeria) created and financially supports the Museu d'Art Jaume Morera."</data>
+      <data key="d5">92793e2ed5e49b30a41c9b6a6815c8ca</data>
+    </edge>
+    <edge source="&quot;DEPARTMENT OF CULTURE OF THE GENERALITAT OF CATALONIA&quot;" target="&quot;MUSEU D'ART JAUME MORERA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Department of Culture of the Generalitat of Catalonia provides financial support to the Museu d'Art Jaume Morera."</data>
+      <data key="d5">92793e2ed5e49b30a41c9b6a6815c8ca</data>
+    </edge>
+    <edge source="&quot;TLAJOMULCO DE ZU&#209;IGA&quot;" target="&quot;SANTA CRUZ DE LAS FLORES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Santa Cruz de las Flores is located south of Tlajomulco de Zu&#241;iga."</data>
+      <data key="d5">041eb4d2a70ae3e4b34f64752b771c72</data>
+    </edge>
+    <edge source="&quot;TLAJOMULCO DE ZU&#209;IGA&quot;" target="&quot;JALISCO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tlajomulco de Zu&#241;iga is located in the state of Jalisco, Mexico."</data>
+      <data key="d5">041eb4d2a70ae3e4b34f64752b771c72</data>
+    </edge>
+    <edge source="&quot;JALISCO&quot;" target="&quot;SANTA CRUZ DE LAS FLORES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Santa Cruz de las Flores is a town in the state of Jalisco, Mexico."</data>
+      <data key="d5">041eb4d2a70ae3e4b34f64752b771c72</data>
+    </edge>
+    <edge source="&quot;NATIONAL CONVENTION&quot;" target="&quot;LOUIS XVI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The National Convention convicted and condemned Louis XVI to death."</data>
+      <data key="d5">51de87b492c16a5c9c58a9d5dab51dab</data>
+    </edge>
+    <edge source="&quot;NATIONAL CONVENTION&quot;" target="&quot;FRENCH REVOLUTION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The National Convention played a key role in the French Revolution, convicting and executing Louis XVI."</data>
+      <data key="d5">51de87b492c16a5c9c58a9d5dab51dab</data>
+    </edge>
+    <edge source="&quot;PLACE DE LA R&#201;VOLUTION&quot;" target="&quot;LOUIS XVI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Louis XVI was executed by guillotine at the Place de la R&#233;volution in 1793."</data>
+      <data key="d5">51de87b492c16a5c9c58a9d5dab51dab</data>
+    </edge>
+    <edge source="&quot;ARAGON&quot;" target="&quot;BERDEJO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Berdejo is located in the autonomous community of Aragon."</data>
+      <data key="d5">23de7bec2f910b87f2c085342e32f811</data>
+    </edge>
+    <edge source="&quot;FREDERIC, COUNT OF LUNA&quot;" target="&quot;MARTIN THE HUMANE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Martin the Humane is the grandfather of Frederic, Count of Luna."</data>
+      <data key="d5">b5b6a6aad011ed2fe1ad3f10e2ef82f8</data>
+    </edge>
+    <edge source="&quot;C&#193;CERES&quot;" target="&quot;ALCU&#201;SCAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alcu&#233;scar is located in the province of C&#225;ceres."</data>
+      <data key="d5">a943a75653e815c3e2b2416a453af4d5</data>
+    </edge>
+    <edge source="&quot;EXTREMADURA&quot;" target="&quot;ALCU&#201;SCAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alcu&#233;scar is located in the autonomous community of Extremadura."</data>
+      <data key="d5">a943a75653e815c3e2b2416a453af4d5</data>
+    </edge>
+    <edge source="&quot;ST. JAMES THE APOSTLE&quot;" target="&quot;CAMINO DE SANTIAGO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Camino de Santiago pilgrimage trail leads to the burial place of St. James the Apostle."</data>
+      <data key="d5">a943a75653e815c3e2b2416a453af4d5</data>
+    </edge>
+    <edge source="&quot;LA TUQUE&quot;" target="&quot;ZEC DE LA BESSONNE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Zec de la Bessonne is located near La Tuque."</data>
+      <data key="d5">26065de945d830f1ee3f987ca402b390</data>
+    </edge>
+    <edge source="&quot;LA TUQUE&quot;" target="&quot;MAURICIE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"La Tuque is an administrative region of Mauricie."</data>
+      <data key="d5">26065de945d830f1ee3f987ca402b390</data>
+    </edge>
+    <edge source="&quot;ZARAGOZA&quot;" target="&quot;BERDEJO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Berdejo is located in the province of Zaragoza."</data>
+      <data key="d5">23de7bec2f910b87f2c085342e32f811</data>
+    </edge>
+    <edge source="&quot;OUTAOUAIS&quot;" target="&quot;LAC-PYTHONGA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lac-Pythonga is located in the Outaouais region of Quebec, Canada."</data>
+      <data key="d5">61b2d212344e3f3b1b72d623784026a9</data>
+    </edge>
+    <edge source="&quot;LA VALL&#201;E-DE-LA-GATINEAU REGIONAL COUNTY MUNICIPALITY&quot;" target="&quot;LAC-PYTHONGA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lac-Pythonga is part of La Vall&#233;e-de-la-Gatineau Regional County Municipality."</data>
+      <data key="d5">61b2d212344e3f3b1b72d623784026a9</data>
+    </edge>
+    <edge source="&quot;GUADELOUPE&quot;" target="&quot;SAINT BARTH&#201;LEMY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Saint Barth&#233;lemy was previously part of Guadeloupe, but gained autonomy through a referendum."</data>
+      <data key="d5">192800e2f9d44d56f8c140e55929ed9e</data>
+    </edge>
+    <edge source="&quot;FRANCE&quot;" target="&quot;SAINT BARTH&#201;LEMY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Saint Barth&#233;lemy is an Overseas Collectivity (COM) of France, with a certain degree of autonomy."</data>
+      <data key="d5">192800e2f9d44d56f8c140e55929ed9e</data>
+    </edge>
+    <edge source="&quot;FRANCE&quot;" target="&quot;AQUITAINE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Aquitaine is a region in France."</data>
+      <data key="d5">531f3ed0ecec2ad737bdbc9b5769e442</data>
+    </edge>
+    <edge source="&quot;THE TERRITORIAL COUNCIL&quot;" target="&quot;SAINT BARTH&#201;LEMY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The territorial council governs and administers Saint Barth&#233;lemy, providing the island with autonomy."</data>
+      <data key="d5">192800e2f9d44d56f8c140e55929ed9e</data>
+    </edge>
+    <edge source="&quot;THE SENATOR&quot;" target="&quot;SAINT BARTH&#201;LEMY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The senator represents Saint Barth&#233;lemy in Paris, serving as a liaison between the island and the French government."</data>
+      <data key="d5">192800e2f9d44d56f8c140e55929ed9e</data>
+    </edge>
+    <edge source="&quot;DISTRICT DE LA R&#201;GION PARISIENNE&quot;" target="&quot;&#206;LE-DE-FRANCE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The District de la r&#233;gion parisienne was renamed &#206;le-de-France in 1977."</data>
+      <data key="d5">693298d9a47e346f3a1efd586cabfbee</data>
+    </edge>
+    <edge source="&quot;JOSEP PUIG I CADAFALCH&quot;" target="&quot;LLU&#205;S DOM&#200;NECH I MONTANER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Llu&#237;s Dom&#232;nech i Montaner collaborated with Josep Puig i Cadafalch on the Palau Montaner building."</data>
+      <data key="d5">8b6c9f0a4738a3c2cd6f615d6e5587b7</data>
+    </edge>
+    <edge source="&quot;JOSEP PUIG I CADAFALCH&quot;" target="&quot;PERE FALQU&#201;S&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Pere Falqu&#233;s collaborated with Josep Puig i Cadafalch on the church of Sant Andreu del Palomar."</data>
+      <data key="d5">8b6c9f0a4738a3c2cd6f615d6e5587b7</data>
+    </edge>
+    <edge source="&quot;JOSEP PUIG I CADAFALCH&quot;" target="&quot;ENRIC SAGNIER I VILLAVECCHIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Enric Sagnier i Villavecchia collaborated with Josep Puig i Cadafalch on the Palace of Justice courthouse."</data>
+      <data key="d5">8b6c9f0a4738a3c2cd6f615d6e5587b7</data>
+    </edge>
+    <edge source="&quot;JOSEP PUIG I CADAFALCH&quot;" target="&quot;IGNASI C. BARTROL&#205;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ignasi C. Bartrol&#237; designed the Hospital Cl&#237;nic, which was built by Josep Puig i Cadafalch."</data>
+      <data key="d5">8b6c9f0a4738a3c2cd6f615d6e5587b7</data>
+    </edge>
+    <edge source="&quot;JOSEP DOM&#200;NECH I MANSANA&quot;" target="&quot;LLU&#205;S DOM&#200;NECH I MONTANER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Josep Dom&#232;nech i Mansana is the son of Llu&#237;s Dom&#232;nech i Montaner and finished his father's project, the Church of Our Lady of Carmen and Carmelite convent."</data>
+      <data key="d5">8b6c9f0a4738a3c2cd6f615d6e5587b7</data>
+    </edge>
+    <edge source="&quot;VILADRAU&quot;" target="&quot;HOTEL BOFILL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Hotel Bofill is located in Viladrau and was built by Josep Puig i Cadafalch."</data>
+      <data key="d5">8b6c9f0a4738a3c2cd6f615d6e5587b7</data>
+    </edge>
+    <edge source="&quot;ROYAL PALACE OF OLITE&quot;" target="&quot;KINGS OF NAVARRE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Royal palace of Olite was built for the Kings of Navarre."</data>
+      <data key="d5">4468616d4a26a01ef154bbe7934d700f</data>
+    </edge>
+    <edge source="&quot;MALBORK CASTLE&quot;" target="&quot;TEUTONIC ORDER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Malbork Castle was built for the Teutonic order."</data>
+      <data key="d5">4468616d4a26a01ef154bbe7934d700f</data>
+    </edge>
+    <edge source="&quot;DOGE'S PALACE OF VENICE&quot;" target="&quot;VENICE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Doge's Palace of Venice is located in Venice."</data>
+      <data key="d5">4468616d4a26a01ef154bbe7934d700f</data>
+    </edge>
+    <edge source="&quot;PALAIS DES PAPES&quot;" target="&quot;AVIGNON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Palais des Papes is located in Avignon."</data>
+      <data key="d5">4468616d4a26a01ef154bbe7934d700f</data>
+    </edge>
+    <edge source="&quot;BORDEAUX&quot;" target="&quot;JARDIN BOTANIQUE DE BORDEAUX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Jardin botanique de Bordeaux is located in Bordeaux."</data>
+      <data key="d5">531f3ed0ecec2ad737bdbc9b5769e442</data>
+    </edge>
+    <edge source="&quot;BORDEAUX&quot;" target="&quot;GIRONDE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bordeaux is located in Gironde."</data>
+      <data key="d5">531f3ed0ecec2ad737bdbc9b5769e442</data>
+    </edge>
+    <edge source="&quot;GIRONDE&quot;" target="&quot;AQUITAINE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gironde is located in Aquitaine."</data>
+      <data key="d5">531f3ed0ecec2ad737bdbc9b5769e442</data>
+    </edge>
+    <edge source="&quot;JARDIN BOTANIQUE DE LA BASTIDE&quot;" target="&quot;JARDIN BOTANIQUE DE BORDEAUX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Jardin botanique de Bordeaux and the Jardin botanique de la Bastide are two botanical gardens located near each other."</data>
+      <data key="d5">531f3ed0ecec2ad737bdbc9b5769e442</data>
+    </edge>
+  </graph>
+</graphml>

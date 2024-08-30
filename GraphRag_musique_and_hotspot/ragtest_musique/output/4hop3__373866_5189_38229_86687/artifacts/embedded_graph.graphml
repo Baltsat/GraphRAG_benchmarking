@@ -1,0 +1,956 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;SUN YAT-SEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sun Yat-sen was the first Provisional President of the Republic of China, inaugurated in Nanjing in 1912."</data>
+      <data key="d2">67d9a0de5e8138078194ff9fcbfbed38</data>
+    </node>
+    <node id="&quot;YUAN SHIKAI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Yuan Shikai had effective control of the Beiyang Army and later became the second Provisional President of the Republic of China."</data>
+      <data key="d2">67d9a0de5e8138078194ff9fcbfbed38</data>
+    </node>
+    <node id="&quot;BEIYANG ARMY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Beiyang Army was the most powerful military force in China at the time, led by Yuan Shikai."</data>
+      <data key="d2">67d9a0de5e8138078194ff9fcbfbed38</data>
+    </node>
+    <node id="&quot;NANJING&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Nanjing is a city where Sun Yat-sen was inaugurated as the first Provisional President of the Republic of China."</data>
+      <data key="d2">67d9a0de5e8138078194ff9fcbfbed38</data>
+    </node>
+    <node id="&quot;BEIJING&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Beijing is a city where Yuan Shikai was sworn in as the second Provisional President of the Republic of China."</data>
+      <data key="d2">67d9a0de5e8138078194ff9fcbfbed38</data>
+    </node>
+    <node id="&quot;REPUBLIC OF CHINA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">67d9a0de5e8138078194ff9fcbfbed38</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">1b1001f4d9c86d2883974454eb7a192e,26311972610563fc64e6d42da801530a,2ef52b856741351c9eebde20282de36a,3af6706bfc27f9caa99d4fb7c2f74224,5f4c7ffd22908dbb3fd40131f9250993,67d9a0de5e8138078194ff9fcbfbed38,6c7fef3433547b06466dc6e1380c9ec4,6eb6a9018cb7fe0300403ba1ae6a9198,75301da0a0144ab841f1f081cdfa684e,7c4729f7ec24d219a0a95ba4127be8fa,862ad125faeade4d355777823bc1ff97,88214b1e0b020047fbde8e31a97fa71b,886e7a6a5558c324e0ce741c2a4b670b,95e6ee0b194f706a28f8ed61ec678833,a3c7a450c8c5863213b5027e4d919aed,bc4988cb1fbe23f56de512062f56df3d,c4f80622a375c0dd31d7e00e830d726b,e00479c557723cea4adc95d22ec39258,ea879d8b268a04b03baee59576094c0b,edcddc27e18fa59c9f11358b2a780abb</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">1b1001f4d9c86d2883974454eb7a192e,26311972610563fc64e6d42da801530a,2ef52b856741351c9eebde20282de36a,3af6706bfc27f9caa99d4fb7c2f74224,5f4c7ffd22908dbb3fd40131f9250993,67d9a0de5e8138078194ff9fcbfbed38,6c7fef3433547b06466dc6e1380c9ec4,6eb6a9018cb7fe0300403ba1ae6a9198,75301da0a0144ab841f1f081cdfa684e,7c4729f7ec24d219a0a95ba4127be8fa,862ad125faeade4d355777823bc1ff97,88214b1e0b020047fbde8e31a97fa71b,886e7a6a5558c324e0ce741c2a4b670b,95e6ee0b194f706a28f8ed61ec678833,a3c7a450c8c5863213b5027e4d919aed,bc4988cb1fbe23f56de512062f56df3d,c4f80622a375c0dd31d7e00e830d726b,e00479c557723cea4adc95d22ec39258,ea879d8b268a04b03baee59576094c0b,edcddc27e18fa59c9f11358b2a780abb</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">1b1001f4d9c86d2883974454eb7a192e,26311972610563fc64e6d42da801530a,2ef52b856741351c9eebde20282de36a,3af6706bfc27f9caa99d4fb7c2f74224,5f4c7ffd22908dbb3fd40131f9250993,67d9a0de5e8138078194ff9fcbfbed38,6c7fef3433547b06466dc6e1380c9ec4,6eb6a9018cb7fe0300403ba1ae6a9198,75301da0a0144ab841f1f081cdfa684e,7c4729f7ec24d219a0a95ba4127be8fa,862ad125faeade4d355777823bc1ff97,88214b1e0b020047fbde8e31a97fa71b,886e7a6a5558c324e0ce741c2a4b670b,95e6ee0b194f706a28f8ed61ec678833,a3c7a450c8c5863213b5027e4d919aed,bc4988cb1fbe23f56de512062f56df3d,c4f80622a375c0dd31d7e00e830d726b,e00479c557723cea4adc95d22ec39258,ea879d8b268a04b03baee59576094c0b,edcddc27e18fa59c9f11358b2a780abb</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">1b1001f4d9c86d2883974454eb7a192e,26311972610563fc64e6d42da801530a,2ef52b856741351c9eebde20282de36a,3af6706bfc27f9caa99d4fb7c2f74224,5f4c7ffd22908dbb3fd40131f9250993,67d9a0de5e8138078194ff9fcbfbed38,6c7fef3433547b06466dc6e1380c9ec4,6eb6a9018cb7fe0300403ba1ae6a9198,75301da0a0144ab841f1f081cdfa684e,7c4729f7ec24d219a0a95ba4127be8fa,862ad125faeade4d355777823bc1ff97,88214b1e0b020047fbde8e31a97fa71b,886e7a6a5558c324e0ce741c2a4b670b,95e6ee0b194f706a28f8ed61ec678833,a3c7a450c8c5863213b5027e4d919aed,bc4988cb1fbe23f56de512062f56df3d,c4f80622a375c0dd31d7e00e830d726b,e00479c557723cea4adc95d22ec39258,ea879d8b268a04b03baee59576094c0b,edcddc27e18fa59c9f11358b2a780abb</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">1b1001f4d9c86d2883974454eb7a192e,26311972610563fc64e6d42da801530a,2ef52b856741351c9eebde20282de36a,3af6706bfc27f9caa99d4fb7c2f74224,5f4c7ffd22908dbb3fd40131f9250993,67d9a0de5e8138078194ff9fcbfbed38,6c7fef3433547b06466dc6e1380c9ec4,6eb6a9018cb7fe0300403ba1ae6a9198,75301da0a0144ab841f1f081cdfa684e,7c4729f7ec24d219a0a95ba4127be8fa,862ad125faeade4d355777823bc1ff97,88214b1e0b020047fbde8e31a97fa71b,886e7a6a5558c324e0ce741c2a4b670b,95e6ee0b194f706a28f8ed61ec678833,a3c7a450c8c5863213b5027e4d919aed,bc4988cb1fbe23f56de512062f56df3d,c4f80622a375c0dd31d7e00e830d726b,e00479c557723cea4adc95d22ec39258,ea879d8b268a04b03baee59576094c0b,edcddc27e18fa59c9f11358b2a780abb</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">1b1001f4d9c86d2883974454eb7a192e,26311972610563fc64e6d42da801530a,2ef52b856741351c9eebde20282de36a,3af6706bfc27f9caa99d4fb7c2f74224,5f4c7ffd22908dbb3fd40131f9250993,67d9a0de5e8138078194ff9fcbfbed38,6c7fef3433547b06466dc6e1380c9ec4,6eb6a9018cb7fe0300403ba1ae6a9198,75301da0a0144ab841f1f081cdfa684e,7c4729f7ec24d219a0a95ba4127be8fa,862ad125faeade4d355777823bc1ff97,88214b1e0b020047fbde8e31a97fa71b,886e7a6a5558c324e0ce741c2a4b670b,95e6ee0b194f706a28f8ed61ec678833,a3c7a450c8c5863213b5027e4d919aed,bc4988cb1fbe23f56de512062f56df3d,c4f80622a375c0dd31d7e00e830d726b,e00479c557723cea4adc95d22ec39258,ea879d8b268a04b03baee59576094c0b,edcddc27e18fa59c9f11358b2a780abb</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">1b1001f4d9c86d2883974454eb7a192e,26311972610563fc64e6d42da801530a,2ef52b856741351c9eebde20282de36a,3af6706bfc27f9caa99d4fb7c2f74224,5f4c7ffd22908dbb3fd40131f9250993,67d9a0de5e8138078194ff9fcbfbed38,6c7fef3433547b06466dc6e1380c9ec4,6eb6a9018cb7fe0300403ba1ae6a9198,75301da0a0144ab841f1f081cdfa684e,7c4729f7ec24d219a0a95ba4127be8fa,862ad125faeade4d355777823bc1ff97,88214b1e0b020047fbde8e31a97fa71b,886e7a6a5558c324e0ce741c2a4b670b,95e6ee0b194f706a28f8ed61ec678833,a3c7a450c8c5863213b5027e4d919aed,bc4988cb1fbe23f56de512062f56df3d,c4f80622a375c0dd31d7e00e830d726b,e00479c557723cea4adc95d22ec39258,ea879d8b268a04b03baee59576094c0b,edcddc27e18fa59c9f11358b2a780abb</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">1b1001f4d9c86d2883974454eb7a192e,26311972610563fc64e6d42da801530a,2ef52b856741351c9eebde20282de36a,3af6706bfc27f9caa99d4fb7c2f74224,5f4c7ffd22908dbb3fd40131f9250993,67d9a0de5e8138078194ff9fcbfbed38,6c7fef3433547b06466dc6e1380c9ec4,6eb6a9018cb7fe0300403ba1ae6a9198,75301da0a0144ab841f1f081cdfa684e,7c4729f7ec24d219a0a95ba4127be8fa,862ad125faeade4d355777823bc1ff97,88214b1e0b020047fbde8e31a97fa71b,886e7a6a5558c324e0ce741c2a4b670b,95e6ee0b194f706a28f8ed61ec678833,a3c7a450c8c5863213b5027e4d919aed,bc4988cb1fbe23f56de512062f56df3d,c4f80622a375c0dd31d7e00e830d726b,e00479c557723cea4adc95d22ec39258,ea879d8b268a04b03baee59576094c0b,edcddc27e18fa59c9f11358b2a780abb</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">1b1001f4d9c86d2883974454eb7a192e,26311972610563fc64e6d42da801530a,2ef52b856741351c9eebde20282de36a,3af6706bfc27f9caa99d4fb7c2f74224,5f4c7ffd22908dbb3fd40131f9250993,67d9a0de5e8138078194ff9fcbfbed38,6c7fef3433547b06466dc6e1380c9ec4,6eb6a9018cb7fe0300403ba1ae6a9198,75301da0a0144ab841f1f081cdfa684e,7c4729f7ec24d219a0a95ba4127be8fa,862ad125faeade4d355777823bc1ff97,88214b1e0b020047fbde8e31a97fa71b,886e7a6a5558c324e0ce741c2a4b670b,95e6ee0b194f706a28f8ed61ec678833,a3c7a450c8c5863213b5027e4d919aed,bc4988cb1fbe23f56de512062f56df3d,c4f80622a375c0dd31d7e00e830d726b,e00479c557723cea4adc95d22ec39258,ea879d8b268a04b03baee59576094c0b,edcddc27e18fa59c9f11358b2a780abb</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1b1001f4d9c86d2883974454eb7a192e,26311972610563fc64e6d42da801530a,2ef52b856741351c9eebde20282de36a,3af6706bfc27f9caa99d4fb7c2f74224,5f4c7ffd22908dbb3fd40131f9250993,67d9a0de5e8138078194ff9fcbfbed38,6c7fef3433547b06466dc6e1380c9ec4,6eb6a9018cb7fe0300403ba1ae6a9198,75301da0a0144ab841f1f081cdfa684e,7c4729f7ec24d219a0a95ba4127be8fa,862ad125faeade4d355777823bc1ff97,88214b1e0b020047fbde8e31a97fa71b,886e7a6a5558c324e0ce741c2a4b670b,95e6ee0b194f706a28f8ed61ec678833,a3c7a450c8c5863213b5027e4d919aed,bc4988cb1fbe23f56de512062f56df3d,c4f80622a375c0dd31d7e00e830d726b,e00479c557723cea4adc95d22ec39258,ea879d8b268a04b03baee59576094c0b,edcddc27e18fa59c9f11358b2a780abb</data>
+    </node>
+    <node id="&quot;WHERE'S EVERYBODY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Where's Everybody is the production company behind Xarabank."</data>
+      <data key="d2">862ad125faeade4d355777823bc1ff97</data>
+    </node>
+    <node id="&quot;PEPPI AZZOPARDI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Peppi Azzopardi is a presenter of Xarabank."</data>
+      <data key="d2">862ad125faeade4d355777823bc1ff97</data>
+    </node>
+    <node id="&quot;MARK LAURENCE ZAMMIT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mark Laurence Zammit is a presenter of Xarabank."</data>
+      <data key="d2">862ad125faeade4d355777823bc1ff97</data>
+    </node>
+    <node id="&quot;TVM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"TVM is the Maltese national television station that airs Xarabank."</data>
+      <data key="d2">862ad125faeade4d355777823bc1ff97</data>
+    </node>
+    <node id="&quot;MALTA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Malta is the country where TVM, the national television station, is located."</data>
+      <data key="d2">862ad125faeade4d355777823bc1ff97</data>
+    </node>
+    <node id="&quot;XARABANK&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">862ad125faeade4d355777823bc1ff97</data>
+    </node>
+    <node id="&quot;SEATO (SOUTHEAST ASIA TREATY ORGANIZATION)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"SEATO is an alliance formed by Eisenhower with several countries, including the UK, France, New Zealand, and Australia, to defend Vietnam against communism."</data>
+      <data key="d2">75301da0a0144ab841f1f081cdfa684e</data>
+    </node>
+    <node id="&quot;FRANCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"France was a key player in the Geneva peace talks and had a significant interest in Vietnam."</data>
+      <data key="d2">75301da0a0144ab841f1f081cdfa684e</data>
+    </node>
+    <node id="&quot;VIETNAM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Vietnam is a country that has undergone political reunification and has adopted several constitutions. Historically, it was divided into northern and southern regions, with the southern region receiving military and economic aid from Eisenhower.</data>
+      <data key="d2">6eb6a9018cb7fe0300403ba1ae6a9198,75301da0a0144ab841f1f081cdfa684e</data>
+    </node>
+    <node id="&quot;U.S.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The U.S. played a significant role in the conflict in Vietnam, with Eisenhower's decisions shaping its involvement."</data>
+      <data key="d2">75301da0a0144ab841f1f081cdfa684e</data>
+    </node>
+    <node id="&quot;GENEVA PEACE TALKS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Geneva peace talks were a series of negotiations between France and the Communists to partition Vietnam, which Eisenhower rejected."</data>
+      <data key="d2">75301da0a0144ab841f1f081cdfa684e</data>
+    </node>
+    <node id="&quot;EISENHOWER&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Eisenhower was a strategic leader who demonstrated his decision-making skills in various situations. During his campaign, he confronted Joseph McCarthy's controversial methods and made promises about Korea and Communism. As President, Eisenhower dispatched the first American soldiers to Vietnam as military advisors to Diem's army in 1955, recognizing the Republic of Vietnam and offering assistance. Additionally, he showcased his strategic thinking by repositioning his armies and capitalizing on improved weather conditions to effectively engage with the Air Force.</data>
+      <data key="d2">26311972610563fc64e6d42da801530a,2ef52b856741351c9eebde20282de36a,75301da0a0144ab841f1f081cdfa684e,95e6ee0b194f706a28f8ed61ec678833</data>
+    </node>
+    <node id="&quot;CHIEF OF STAFF OF THE ARMY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Chief of Staff of the Army is the highest-ranked military officer, serving as principal military adviser and executive agent for the Secretary of the Army."</data>
+      <data key="d2">bc4988cb1fbe23f56de512062f56df3d</data>
+    </node>
+    <node id="&quot;SECRETARY OF DEFENSE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Secretary of Defense has authority over the army and provides direction to the Secretary of the Army."</data>
+      <data key="d2">bc4988cb1fbe23f56de512062f56df3d</data>
+    </node>
+    <node id="&quot;PRESIDENT OF THE UNITED STATES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The President of the United States receives advice from the Joint Chiefs of Staff on operational military matters."</data>
+      <data key="d2">bc4988cb1fbe23f56de512062f56df3d</data>
+    </node>
+    <node id="&quot;JOINT CHIEFS OF STAFF&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Joint Chiefs of Staff is a body composed of service chiefs from each of the four military services, advising the President and Secretary of Defense on operational military matters."</data>
+      <data key="d2">bc4988cb1fbe23f56de512062f56df3d</data>
+    </node>
+    <node id="&quot;DEPARTMENT OF DEFENSE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Department of Defense is a government department that oversees the army and other military services."</data>
+      <data key="d2">bc4988cb1fbe23f56de512062f56df3d</data>
+    </node>
+    <node id="&quot;ARMY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The army is a military service led by the Secretary of the Army and Chief of Staff of the Army."</data>
+      <data key="d2">bc4988cb1fbe23f56de512062f56df3d</data>
+    </node>
+    <node id="&quot;SECRETARY OF THE ARMY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">bc4988cb1fbe23f56de512062f56df3d</data>
+    </node>
+    <node id="&quot;JOSEPH MCCARTHY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Joseph McCarthy is a person known for his controversial methods, which were confronted by Eisenhower."</data>
+      <data key="d2">26311972610563fc64e6d42da801530a</data>
+    </node>
+    <node id="&quot;WISCONSIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Wisconsin is a location where Eisenhower appeared to confront Joseph McCarthy's controversial methods."</data>
+      <data key="d2">26311972610563fc64e6d42da801530a</data>
+    </node>
+    <node id="&quot;KOREA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Korea is a location mentioned in Eisenhower's campaign promise to end the war there."</data>
+      <data key="d2">26311972610563fc64e6d42da801530a</data>
+    </node>
+    <node id="&quot;NIXON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">26311972610563fc64e6d42da801530a</data>
+    </node>
+    <node id="&quot;KOHL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kohl is a key figure in German politics, with Horst Teltschik as his foreign policy advisor."</data>
+      <data key="d2">a3c7a450c8c5863213b5027e4d919aed</data>
+    </node>
+    <node id="&quot;GORBACHEV&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gorbachev is the Soviet leader who made statements about Germany's path, influencing its international alignments."</data>
+      <data key="d2">a3c7a450c8c5863213b5027e4d919aed</data>
+    </node>
+    <node id="&quot;BUSH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bush is an American leader who met with Gorbachev and was amazed by his remarks on Germany's NATO membership."</data>
+      <data key="d2">a3c7a450c8c5863213b5027e4d919aed</data>
+    </node>
+    <node id="&quot;GERMANY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Germany is a country that was reunified and had to decide its international alignments, including NATO and EC membership. Despite this, Germany's potential aggression has been a concern for central and east European countries.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">7c4729f7ec24d219a0a95ba4127be8fa,a3c7a450c8c5863213b5027e4d919aed</data>
+    </node>
+    <node id="&quot;USSR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The USSR is a country that played a significant role in international relations, particularly in its interactions with Germany and the Warsaw Treaty organization. While it did not make great demands on Germany, allowing the latter to choose its own path, the USSR simultaneously dominated the Warsaw Treaty armed forces, with its officials holding key positions in the organization.</data>
+      <data key="d2">3af6706bfc27f9caa99d4fb7c2f74224,7c4729f7ec24d219a0a95ba4127be8fa,a3c7a450c8c5863213b5027e4d919aed</data>
+    </node>
+    <node id="&quot;NATO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"NATO is an international organization that Germany intended to join, with the reunified country inheriting West Germany's seat."</data>
+      <data key="d2">a3c7a450c8c5863213b5027e4d919aed</data>
+    </node>
+    <node id="&quot;EC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The EC is an international organization that Germany intended to join, with the reunified country inheriting West Germany's seat."</data>
+      <data key="d2">a3c7a450c8c5863213b5027e4d919aed</data>
+    </node>
+    <node id="&quot;HORST TELTSCHIK&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a3c7a450c8c5863213b5027e4d919aed</data>
+    </node>
+    <node id="&quot;ECUADOR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ecuador is a country where the Ministry of National Defense is located and operates."</data>
+      <data key="d2">ea879d8b268a04b03baee59576094c0b</data>
+    </node>
+    <node id="&quot;THE MINISTRY OF NATIONAL DEFENSE OF THE REPUBLIC OF ECUADOR&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ea879d8b268a04b03baee59576094c0b</data>
+    </node>
+    <node id="&quot;BRITAIN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Britain is a party in the Tripartite negotiations, opposing the USSR's proposals on indirect aggression."</data>
+      <data key="d2">7c4729f7ec24d219a0a95ba4127be8fa</data>
+    </node>
+    <node id="&quot;FINLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Finland is a country that might be affected by the Soviet Union's proposed language on indirect aggression."</data>
+      <data key="d2">7c4729f7ec24d219a0a95ba4127be8fa</data>
+    </node>
+    <node id="&quot;BALTIC STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Baltic states are countries whose potential political turn towards Germany could be considered an indirect aggression towards the Soviet Union."</data>
+      <data key="d2">7c4729f7ec24d219a0a95ba4127be8fa</data>
+    </node>
+    <node id="&quot;TRIPARTITE NEGOTIATIONS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7c4729f7ec24d219a0a95ba4127be8fa</data>
+    </node>
+    <node id="&quot;CZECHOSLOVAKIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Czechoslovakia was a country that held significant political interest, particularly during the Cold War era. In August 1968, it was invaded by the Warsaw Pact, a military alliance of communist states in Eastern Europe. Additionally, Czechoslovakia was a location of strategic importance, with the British government urging President Eisenhower to take action in the region for political reasons.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">88214b1e0b020047fbde8e31a97fa71b,95e6ee0b194f706a28f8ed61ec678833</data>
+    </node>
+    <node id="&quot;SOCIALIST REPUBLIC OF ROMANIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Socialist Republic of Romania was a member country that did not participate in the Warsaw Pact invasion of Czechoslovakia."</data>
+      <data key="d2">88214b1e0b020047fbde8e31a97fa71b</data>
+    </node>
+    <node id="&quot;PEOPLE'S REPUBLIC OF ALBANIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The People's Republic of Albania was a member country that did not participate in the Warsaw Pact invasion of Czechoslovakia."</data>
+      <data key="d2">88214b1e0b020047fbde8e31a97fa71b</data>
+    </node>
+    <node id="&quot;WARSAW PACT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">88214b1e0b020047fbde8e31a97fa71b</data>
+    </node>
+    <node id="&quot;NGO DINH DIEM&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ngo Dinh Diem was the leader of South Vietnam, receiving support from Gen. J. Lawton Collins to build an army and wage a military campaign against communism."</data>
+      <data key="d2">2ef52b856741351c9eebde20282de36a</data>
+    </node>
+    <node id="&quot;REPUBLIC OF VIETNAM (RVN)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Republic of Vietnam, also known as South Vietnam, was formed in October 1955, with Eisenhower immediately recognizing the new state and offering military, economic, and technical assistance."</data>
+      <data key="d2">2ef52b856741351c9eebde20282de36a</data>
+    </node>
+    <node id="&quot;SOUTH VIETNAM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"South Vietnam, also referred to as 'Free Vietnam', was elevated to sovereign status in 1954, with Gen. J. Lawton Collins as ambassador."</data>
+      <data key="d2">2ef52b856741351c9eebde20282de36a</data>
+    </node>
+    <node id="&quot;GEN. J. LAWTON COLLINS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2ef52b856741351c9eebde20282de36a</data>
+    </node>
+    <node id="&quot;ALLIES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Allies turned back the German counter offensive in early 1945, demonstrating their collective military strength."</data>
+      <data key="d2">95e6ee0b194f706a28f8ed61ec678833</data>
+    </node>
+    <node id="&quot;SOVIETS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Soviets continued to push against German defenses on the eastern front, highlighting their military presence."</data>
+      <data key="d2">95e6ee0b194f706a28f8ed61ec678833</data>
+    </node>
+    <node id="&quot;BRITISH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The British wanted Berlin, but were deterred by Eisenhower's decision, showing their political interests."</data>
+      <data key="d2">95e6ee0b194f706a28f8ed61ec678833</data>
+    </node>
+    <node id="&quot;WASHINGTON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Washington refused to support Churchill's plan, indicating its influence on international politics."</data>
+      <data key="d2">95e6ee0b194f706a28f8ed61ec678833</data>
+    </node>
+    <node id="&quot;CHURCHILL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Churchill wanted Eisenhower's army for political maneuvers against Moscow, revealing his political ambitions."</data>
+      <data key="d2">95e6ee0b194f706a28f8ed61ec678833</data>
+    </node>
+    <node id="&quot;ROOSEVELT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Roosevelt previously agreed upon the division of Germany with Churchill and Stalin, highlighting his role in shaping international agreements."</data>
+      <data key="d2">95e6ee0b194f706a28f8ed61ec678833</data>
+    </node>
+    <node id="&quot;STALIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Stalin was part of the agreement on the division of Germany, demonstrating his influence on global politics."</data>
+      <data key="d2">95e6ee0b194f706a28f8ed61ec678833</data>
+    </node>
+    <node id="&quot;BERLIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Berlin was a key location in the war, with both the British and Soviets vying for control."</data>
+      <data key="d2">95e6ee0b194f706a28f8ed61ec678833</data>
+    </node>
+    <node id="&quot;MOSCOW&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Moscow was a target of Churchill's political maneuvers, highlighting its significance in international politics."</data>
+      <data key="d2">95e6ee0b194f706a28f8ed61ec678833</data>
+    </node>
+    <node id="&quot;BATTLE OF THE BULGE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Battle of the Bulge was a significant military engagement in December 1944, marking a turning point in the war."</data>
+      <data key="d2">95e6ee0b194f706a28f8ed61ec678833</data>
+    </node>
+    <node id="&quot;SURRENDER OF GERMANY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Germans finally surrendered on May 7, 1945, marking the end of World War II."</data>
+      <data key="d2">95e6ee0b194f706a28f8ed61ec678833</data>
+    </node>
+    <node id="&quot;POLITICAL CONSULTATIVE COMMITTEE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Political Consultative Committee is a part of the Warsaw Treaty's organization, responsible for handling political matters."</data>
+      <data key="d2">3af6706bfc27f9caa99d4fb7c2f74224</data>
+    </node>
+    <node id="&quot;COMBINED COMMAND OF PACT ARMED FORCES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Combined Command of Pact Armed Forces is a part of the Warsaw Treaty's organization, controlling multi-national forces with headquarters in Warsaw, Poland."</data>
+      <data key="d2">3af6706bfc27f9caa99d4fb7c2f74224</data>
+    </node>
+    <node id="&quot;UNIFIED ARMED FORCES OF THE WARSAW TREATY ORGANIZATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Unified Armed Forces of the Warsaw Treaty Organization is a collective military force composed of member countries' armed forces."</data>
+      <data key="d2">3af6706bfc27f9caa99d4fb7c2f74224</data>
+    </node>
+    <node id="&quot;WARSAW, POLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Warsaw, Poland is the location of the headquarters of the Combined Command of Pact Armed Forces."</data>
+      <data key="d2">3af6706bfc27f9caa99d4fb7c2f74224</data>
+    </node>
+    <node id="&quot;FIRST DEPUTY MINISTER OF DEFENSE OF THE USSR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The First Deputy Minister of Defense of the USSR is a high-ranking official who also serves as the Supreme Commander of the Unified Armed Forces of the Warsaw Treaty Organization."</data>
+      <data key="d2">3af6706bfc27f9caa99d4fb7c2f74224</data>
+    </node>
+    <node id="&quot;FIRST DEPUTY CHIEF OF THE GENERAL STAFF OF THE ARMED FORCES OF THE USSR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The First Deputy Chief of the General Staff of the Armed Forces of the USSR is a high-ranking official who also serves as the Chief of Combined Staff of the Unified Armed Forces of the Warsaw Treaty Organization."</data>
+      <data key="d2">3af6706bfc27f9caa99d4fb7c2f74224</data>
+    </node>
+    <node id="&quot;WARSAW TREATY'S ORGANIZATION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3af6706bfc27f9caa99d4fb7c2f74224</data>
+    </node>
+    <node id="&quot;INDIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"India is a country that gained independence from British rule and became a republic on 26 January 1950."</data>
+      <data key="d2">5f4c7ffd22908dbb3fd40131f9250993</data>
+    </node>
+    <node id="&quot;CONSTITUENT ASSEMBLY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Constituent Assembly is an organization that drafted and approved the new Constitution of India."</data>
+      <data key="d2">5f4c7ffd22908dbb3fd40131f9250993</data>
+    </node>
+    <node id="&quot;REPUBLIC DAY OF INDIA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Republic Day of India is a national event celebrated on 26 January every year to commemorate India becoming a republic."</data>
+      <data key="d2">5f4c7ffd22908dbb3fd40131f9250993</data>
+    </node>
+    <node id="&quot;CONGRESS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5f4c7ffd22908dbb3fd40131f9250993</data>
+    </node>
+    <node id="&quot;SOCIALIST-REVOLUTIONARY WORKERS' PARTY (POSR)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Socialist-Revolutionary Workers' Party (POSR) is a political party led by Jean Allemane."</data>
+      <data key="d2">886e7a6a5558c324e0ce741c2a4b670b</data>
+    </node>
+    <node id="&quot;FRENCH SECTION OF THE WORKERS' INTERNATIONAL (SFIO)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The French Section of the Workers' International (SFIO) is a unified organization co-founded by Jean Allemane in 1905."</data>
+      <data key="d2">886e7a6a5558c324e0ce741c2a4b670b</data>
+    </node>
+    <node id="&quot;NATIONAL ASSEMBLY OF THE THIRD FRENCH REPUBLIC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The National Assembly of the Third French Republic is a governing body where Jean Allemane served as a deputy."</data>
+      <data key="d2">886e7a6a5558c324e0ce741c2a4b670b</data>
+    </node>
+    <node id="&quot;PARIS COMMUNE OF 1871&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Paris Commune of 1871 was an event in which Jean Allemane participated as a veteran."</data>
+      <data key="d2">886e7a6a5558c324e0ce741c2a4b670b</data>
+    </node>
+    <node id="&quot;SAUVETERRE-DE-COMMINGES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Sauveterre-de-Comminges is the birthplace of Jean Allemane, located in Haute-Garonne."</data>
+      <data key="d2">886e7a6a5558c324e0ce741c2a4b670b</data>
+    </node>
+    <node id="&quot;HERBLAY IN SEINE-ET-OISE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Herblay in Seine-et-Oise is the place where Jean Allemane died in 1935."</data>
+      <data key="d2">886e7a6a5558c324e0ce741c2a4b670b</data>
+    </node>
+    <node id="&quot;JEAN ALLEMANE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">886e7a6a5558c324e0ce741c2a4b670b</data>
+    </node>
+    <node id="&quot;ALBANIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Albania is a country where significant political events and institutions have played a crucial role in its history. During its socialist period, Rita Marko held various political positions, contributing to the country's development. The Assembly of the Republic of Albania, a vital institution, is also located in Albania. Furthermore, the country has a notable history of recognizing outstanding achievements, as evidenced by the awarding of the Hero of Socialist Labour title.</data>
+      <data key="d2">6c7fef3433547b06466dc6e1380c9ec4,c4f80622a375c0dd31d7e00e830d726b,e00479c557723cea4adc95d22ec39258</data>
+    </node>
+    <node id="&quot;PEOPLE'S HERO OF ALBANIA&quot;">
+      <data key="d0">"TITLE"</data>
+      <data key="d1">"People's Hero of Albania is a title awarded for heroic deeds, similar to the Hero of Socialist Labour title but with different criteria."</data>
+      <data key="d2">e00479c557723cea4adc95d22ec39258</data>
+    </node>
+    <node id="&quot;HERO OF SOCIALIST LABOUR&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e00479c557723cea4adc95d22ec39258</data>
+    </node>
+    <node id="&quot;SERB PEOPLE'S PARTY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Serb People's Party is a political organization that formed links with The Party to unify the country's political opposition."</data>
+      <data key="d2">1b1001f4d9c86d2883974454eb7a192e</data>
+    </node>
+    <node id="&quot;SOCIALIST PEOPLE'S PARTY OF MONTENEGRO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Socialist People's Party of Montenegro is a political organization that formed links with The Party to unify the country's political opposition."</data>
+      <data key="d2">1b1001f4d9c86d2883974454eb7a192e</data>
+    </node>
+    <node id="&quot;MONTENEGRO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Montenegro is a geographic location where the Socialist People's Party of Montenegro operates."</data>
+      <data key="d2">1b1001f4d9c86d2883974454eb7a192e</data>
+    </node>
+    <node id="&quot;2006 PARLIAMENTARY ELECTION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2006 parliamentary election was an event in which The Party participated, winning 11 seats."</data>
+      <data key="d2">1b1001f4d9c86d2883974454eb7a192e</data>
+    </node>
+    <node id="&quot;THE PARTY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1b1001f4d9c86d2883974454eb7a192e</data>
+    </node>
+    <node id="&quot;RITA MARKO&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6c7fef3433547b06466dc6e1380c9ec4</data>
+    </node>
+    <node id="&quot;ASSEMBLY OF THE REPUBLIC OF ALBANIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Assembly of the Republic of Albania is a legislative body that Ndri&#231;im Babasi is a part of."</data>
+      <data key="d2">c4f80622a375c0dd31d7e00e830d726b</data>
+    </node>
+    <node id="&quot;DEMOCRATIC PARTY OF ALBANIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Democratic Party of Albania is a political party that Ndri&#231;im Babasi represents in the Assembly of the Republic of Albania."</data>
+      <data key="d2">c4f80622a375c0dd31d7e00e830d726b</data>
+    </node>
+    <node id="&quot;2011 LOCAL ELECTIONS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2011 local elections were an event that led to Ndri&#231;im Babasi joining the Assembly of the Republic of Albania."</data>
+      <data key="d2">c4f80622a375c0dd31d7e00e830d726b</data>
+    </node>
+    <node id="&quot;NDRI&#199;IM BABASI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c4f80622a375c0dd31d7e00e830d726b</data>
+    </node>
+    <node id="&quot;DURR&#203;S&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Durr&#235;s is a city in Albania where Vangjush Dako serves as the mayor."</data>
+      <data key="d2">edcddc27e18fa59c9f11358b2a780abb</data>
+    </node>
+    <node id="&quot;SOCIALIST PARTY OF ALBANIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Socialist Party of Albania is a political party to which Vangjush Dako belongs."</data>
+      <data key="d2">edcddc27e18fa59c9f11358b2a780abb</data>
+    </node>
+    <node id="&quot;FEBRUARY 2007 LOCAL ELECTIONS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The February 2007 local elections were the event that led to Vangjush Dako's election as mayor of Durr&#235;s, Albania."</data>
+      <data key="d2">edcddc27e18fa59c9f11358b2a780abb</data>
+    </node>
+    <node id="&quot;VANGJUSH DAKO&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">edcddc27e18fa59c9f11358b2a780abb</data>
+    </node>
+    <node id="&quot;THIRTEENTH NATIONAL ASSEMBLY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Thirteenth National Assembly is the legislative body that adopted the current constitution of Vietnam on 28 November 2013."</data>
+      <data key="d2">6eb6a9018cb7fe0300403ba1ae6a9198</data>
+    </node>
+    <node id="&quot;CONSTITUTION OF THE SOCIALIST REPUBLIC OF VIETNAM&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Constitution of the Socialist Republic of Vietnam is the current constitution of Vietnam, adopted on 28 November 2013 and took effect on 1 January 2014."</data>
+      <data key="d2">6eb6a9018cb7fe0300403ba1ae6a9198</data>
+    </node>
+    <node id="&quot;THE SOCIALIST REPUBLIC OF VIETNAM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6eb6a9018cb7fe0300403ba1ae6a9198</data>
+    </node>
+    <edge source="&quot;SUN YAT-SEN&quot;" target="&quot;REPUBLIC OF CHINA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sun Yat-sen was the first Provisional President of the Republic of China."</data>
+      <data key="d5">67d9a0de5e8138078194ff9fcbfbed38</data>
+    </edge>
+    <edge source="&quot;SUN YAT-SEN&quot;" target="&quot;NANJING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nanjing is the city where Sun Yat-sen was inaugurated as the first Provisional President."</data>
+      <data key="d5">67d9a0de5e8138078194ff9fcbfbed38</data>
+    </edge>
+    <edge source="&quot;YUAN SHIKAI&quot;" target="&quot;BEIYANG ARMY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Yuan Shikai had effective control of the Beiyang Army."</data>
+      <data key="d5">67d9a0de5e8138078194ff9fcbfbed38</data>
+    </edge>
+    <edge source="&quot;YUAN SHIKAI&quot;" target="&quot;REPUBLIC OF CHINA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Yuan Shikai became the second Provisional President of the Republic of China."</data>
+      <data key="d5">67d9a0de5e8138078194ff9fcbfbed38</data>
+    </edge>
+    <edge source="&quot;YUAN SHIKAI&quot;" target="&quot;BEIJING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Beijing is the city where Yuan Shikai was sworn in as the second Provisional President."</data>
+      <data key="d5">67d9a0de5e8138078194ff9fcbfbed38</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">1b1001f4d9c86d2883974454eb7a192e,26311972610563fc64e6d42da801530a,2ef52b856741351c9eebde20282de36a,3af6706bfc27f9caa99d4fb7c2f74224,5f4c7ffd22908dbb3fd40131f9250993,67d9a0de5e8138078194ff9fcbfbed38,6c7fef3433547b06466dc6e1380c9ec4,6eb6a9018cb7fe0300403ba1ae6a9198,75301da0a0144ab841f1f081cdfa684e,7c4729f7ec24d219a0a95ba4127be8fa,862ad125faeade4d355777823bc1ff97,88214b1e0b020047fbde8e31a97fa71b,886e7a6a5558c324e0ce741c2a4b670b,95e6ee0b194f706a28f8ed61ec678833,a3c7a450c8c5863213b5027e4d919aed,bc4988cb1fbe23f56de512062f56df3d,c4f80622a375c0dd31d7e00e830d726b,e00479c557723cea4adc95d22ec39258,ea879d8b268a04b03baee59576094c0b,edcddc27e18fa59c9f11358b2a780abb</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">1b1001f4d9c86d2883974454eb7a192e,26311972610563fc64e6d42da801530a,2ef52b856741351c9eebde20282de36a,3af6706bfc27f9caa99d4fb7c2f74224,5f4c7ffd22908dbb3fd40131f9250993,67d9a0de5e8138078194ff9fcbfbed38,6c7fef3433547b06466dc6e1380c9ec4,6eb6a9018cb7fe0300403ba1ae6a9198,75301da0a0144ab841f1f081cdfa684e,7c4729f7ec24d219a0a95ba4127be8fa,862ad125faeade4d355777823bc1ff97,88214b1e0b020047fbde8e31a97fa71b,886e7a6a5558c324e0ce741c2a4b670b,95e6ee0b194f706a28f8ed61ec678833,a3c7a450c8c5863213b5027e4d919aed,bc4988cb1fbe23f56de512062f56df3d,c4f80622a375c0dd31d7e00e830d726b,e00479c557723cea4adc95d22ec39258,ea879d8b268a04b03baee59576094c0b,edcddc27e18fa59c9f11358b2a780abb</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">1b1001f4d9c86d2883974454eb7a192e,26311972610563fc64e6d42da801530a,2ef52b856741351c9eebde20282de36a,3af6706bfc27f9caa99d4fb7c2f74224,5f4c7ffd22908dbb3fd40131f9250993,67d9a0de5e8138078194ff9fcbfbed38,6c7fef3433547b06466dc6e1380c9ec4,6eb6a9018cb7fe0300403ba1ae6a9198,75301da0a0144ab841f1f081cdfa684e,7c4729f7ec24d219a0a95ba4127be8fa,862ad125faeade4d355777823bc1ff97,88214b1e0b020047fbde8e31a97fa71b,886e7a6a5558c324e0ce741c2a4b670b,95e6ee0b194f706a28f8ed61ec678833,a3c7a450c8c5863213b5027e4d919aed,bc4988cb1fbe23f56de512062f56df3d,c4f80622a375c0dd31d7e00e830d726b,e00479c557723cea4adc95d22ec39258,ea879d8b268a04b03baee59576094c0b,edcddc27e18fa59c9f11358b2a780abb</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">1b1001f4d9c86d2883974454eb7a192e,26311972610563fc64e6d42da801530a,2ef52b856741351c9eebde20282de36a,3af6706bfc27f9caa99d4fb7c2f74224,5f4c7ffd22908dbb3fd40131f9250993,67d9a0de5e8138078194ff9fcbfbed38,6c7fef3433547b06466dc6e1380c9ec4,6eb6a9018cb7fe0300403ba1ae6a9198,75301da0a0144ab841f1f081cdfa684e,7c4729f7ec24d219a0a95ba4127be8fa,862ad125faeade4d355777823bc1ff97,88214b1e0b020047fbde8e31a97fa71b,886e7a6a5558c324e0ce741c2a4b670b,95e6ee0b194f706a28f8ed61ec678833,a3c7a450c8c5863213b5027e4d919aed,bc4988cb1fbe23f56de512062f56df3d,c4f80622a375c0dd31d7e00e830d726b,e00479c557723cea4adc95d22ec39258,ea879d8b268a04b03baee59576094c0b,edcddc27e18fa59c9f11358b2a780abb</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">1b1001f4d9c86d2883974454eb7a192e,26311972610563fc64e6d42da801530a,2ef52b856741351c9eebde20282de36a,3af6706bfc27f9caa99d4fb7c2f74224,5f4c7ffd22908dbb3fd40131f9250993,67d9a0de5e8138078194ff9fcbfbed38,6c7fef3433547b06466dc6e1380c9ec4,6eb6a9018cb7fe0300403ba1ae6a9198,75301da0a0144ab841f1f081cdfa684e,7c4729f7ec24d219a0a95ba4127be8fa,862ad125faeade4d355777823bc1ff97,88214b1e0b020047fbde8e31a97fa71b,886e7a6a5558c324e0ce741c2a4b670b,95e6ee0b194f706a28f8ed61ec678833,a3c7a450c8c5863213b5027e4d919aed,bc4988cb1fbe23f56de512062f56df3d,c4f80622a375c0dd31d7e00e830d726b,e00479c557723cea4adc95d22ec39258,ea879d8b268a04b03baee59576094c0b,edcddc27e18fa59c9f11358b2a780abb</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">1b1001f4d9c86d2883974454eb7a192e,26311972610563fc64e6d42da801530a,2ef52b856741351c9eebde20282de36a,3af6706bfc27f9caa99d4fb7c2f74224,5f4c7ffd22908dbb3fd40131f9250993,67d9a0de5e8138078194ff9fcbfbed38,6c7fef3433547b06466dc6e1380c9ec4,6eb6a9018cb7fe0300403ba1ae6a9198,75301da0a0144ab841f1f081cdfa684e,7c4729f7ec24d219a0a95ba4127be8fa,862ad125faeade4d355777823bc1ff97,88214b1e0b020047fbde8e31a97fa71b,886e7a6a5558c324e0ce741c2a4b670b,95e6ee0b194f706a28f8ed61ec678833,a3c7a450c8c5863213b5027e4d919aed,bc4988cb1fbe23f56de512062f56df3d,c4f80622a375c0dd31d7e00e830d726b,e00479c557723cea4adc95d22ec39258,ea879d8b268a04b03baee59576094c0b,edcddc27e18fa59c9f11358b2a780abb</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">1b1001f4d9c86d2883974454eb7a192e,26311972610563fc64e6d42da801530a,2ef52b856741351c9eebde20282de36a,3af6706bfc27f9caa99d4fb7c2f74224,5f4c7ffd22908dbb3fd40131f9250993,67d9a0de5e8138078194ff9fcbfbed38,6c7fef3433547b06466dc6e1380c9ec4,6eb6a9018cb7fe0300403ba1ae6a9198,75301da0a0144ab841f1f081cdfa684e,7c4729f7ec24d219a0a95ba4127be8fa,862ad125faeade4d355777823bc1ff97,88214b1e0b020047fbde8e31a97fa71b,886e7a6a5558c324e0ce741c2a4b670b,95e6ee0b194f706a28f8ed61ec678833,a3c7a450c8c5863213b5027e4d919aed,bc4988cb1fbe23f56de512062f56df3d,c4f80622a375c0dd31d7e00e830d726b,e00479c557723cea4adc95d22ec39258,ea879d8b268a04b03baee59576094c0b,edcddc27e18fa59c9f11358b2a780abb</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">1b1001f4d9c86d2883974454eb7a192e,26311972610563fc64e6d42da801530a,2ef52b856741351c9eebde20282de36a,3af6706bfc27f9caa99d4fb7c2f74224,5f4c7ffd22908dbb3fd40131f9250993,67d9a0de5e8138078194ff9fcbfbed38,6c7fef3433547b06466dc6e1380c9ec4,6eb6a9018cb7fe0300403ba1ae6a9198,75301da0a0144ab841f1f081cdfa684e,7c4729f7ec24d219a0a95ba4127be8fa,862ad125faeade4d355777823bc1ff97,88214b1e0b020047fbde8e31a97fa71b,886e7a6a5558c324e0ce741c2a4b670b,95e6ee0b194f706a28f8ed61ec678833,a3c7a450c8c5863213b5027e4d919aed,bc4988cb1fbe23f56de512062f56df3d,c4f80622a375c0dd31d7e00e830d726b,e00479c557723cea4adc95d22ec39258,ea879d8b268a04b03baee59576094c0b,edcddc27e18fa59c9f11358b2a780abb</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">1b1001f4d9c86d2883974454eb7a192e,26311972610563fc64e6d42da801530a,2ef52b856741351c9eebde20282de36a,3af6706bfc27f9caa99d4fb7c2f74224,5f4c7ffd22908dbb3fd40131f9250993,67d9a0de5e8138078194ff9fcbfbed38,6c7fef3433547b06466dc6e1380c9ec4,6eb6a9018cb7fe0300403ba1ae6a9198,75301da0a0144ab841f1f081cdfa684e,7c4729f7ec24d219a0a95ba4127be8fa,862ad125faeade4d355777823bc1ff97,88214b1e0b020047fbde8e31a97fa71b,886e7a6a5558c324e0ce741c2a4b670b,95e6ee0b194f706a28f8ed61ec678833,a3c7a450c8c5863213b5027e4d919aed,bc4988cb1fbe23f56de512062f56df3d,c4f80622a375c0dd31d7e00e830d726b,e00479c557723cea4adc95d22ec39258,ea879d8b268a04b03baee59576094c0b,edcddc27e18fa59c9f11358b2a780abb</data>
+    </edge>
+    <edge source="&quot;WHERE'S EVERYBODY&quot;" target="&quot;XARABANK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Xarabank is produced by Where's Everybody."</data>
+      <data key="d5">862ad125faeade4d355777823bc1ff97</data>
+    </edge>
+    <edge source="&quot;PEPPI AZZOPARDI&quot;" target="&quot;XARABANK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Peppi Azzopardi presents Xarabank."</data>
+      <data key="d5">862ad125faeade4d355777823bc1ff97</data>
+    </edge>
+    <edge source="&quot;MARK LAURENCE ZAMMIT&quot;" target="&quot;XARABANK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mark Laurence Zammit presents Xarabank."</data>
+      <data key="d5">862ad125faeade4d355777823bc1ff97</data>
+    </edge>
+    <edge source="&quot;TVM&quot;" target="&quot;XARABANK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"TVM airs Xarabank."</data>
+      <data key="d5">862ad125faeade4d355777823bc1ff97</data>
+    </edge>
+    <edge source="&quot;TVM&quot;" target="&quot;MALTA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"TVM is located in Malta."</data>
+      <data key="d5">862ad125faeade4d355777823bc1ff97</data>
+    </edge>
+    <edge source="&quot;SEATO (SOUTHEAST ASIA TREATY ORGANIZATION)&quot;" target="&quot;EISENHOWER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Eisenhower formed SEATO as an alliance to defend Vietnam against communism."</data>
+      <data key="d5">75301da0a0144ab841f1f081cdfa684e</data>
+    </edge>
+    <edge source="&quot;FRANCE&quot;" target="&quot;VIETNAM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"France had a significant interest in Vietnam and participated in the Geneva peace talks."</data>
+      <data key="d5">75301da0a0144ab841f1f081cdfa684e</data>
+    </edge>
+    <edge source="&quot;VIETNAM&quot;" target="&quot;CONSTITUTION OF THE SOCIALIST REPUBLIC OF VIETNAM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Constitution of the Socialist Republic of Vietnam is the current constitution of Vietnam, adopted in 2013 and took effect in 2014."</data>
+      <data key="d5">6eb6a9018cb7fe0300403ba1ae6a9198</data>
+    </edge>
+    <edge source="&quot;VIETNAM&quot;" target="&quot;THE SOCIALIST REPUBLIC OF VIETNAM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Socialist Republic of Vietnam is another name for Vietnam, a country that has undergone political reunification and has adopted several constitutions."</data>
+      <data key="d5">6eb6a9018cb7fe0300403ba1ae6a9198</data>
+    </edge>
+    <edge source="&quot;U.S.&quot;" target="&quot;EISENHOWER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Eisenhower's decisions, including the formation of SEATO and provision of aid to southern Vietnam, shaped US policy towards Vietnam."</data>
+      <data key="d5">75301da0a0144ab841f1f081cdfa684e</data>
+    </edge>
+    <edge source="&quot;GENEVA PEACE TALKS&quot;" target="&quot;EISENHOWER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Eisenhower rejected the agreement reached at the Geneva peace talks, opting instead to provide aid to southern Vietnam."</data>
+      <data key="d5">75301da0a0144ab841f1f081cdfa684e</data>
+    </edge>
+    <edge source="&quot;EISENHOWER&quot;" target="&quot;NIXON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nixon and Eisenhower were two candidates who were alienated due to controversies during their campaigns."</data>
+      <data key="d5">26311972610563fc64e6d42da801530a</data>
+    </edge>
+    <edge source="&quot;EISENHOWER&quot;" target="&quot;JOSEPH MCCARTHY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Eisenhower confronted Joseph McCarthy's controversial methods in a Wisconsin appearance."</data>
+      <data key="d5">26311972610563fc64e6d42da801530a</data>
+    </edge>
+    <edge source="&quot;EISENHOWER&quot;" target="&quot;KOREA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Eisenhower promised to go to Korea and end the war there during his campaign."</data>
+      <data key="d5">26311972610563fc64e6d42da801530a</data>
+    </edge>
+    <edge source="&quot;EISENHOWER&quot;" target="&quot;REPUBLIC OF VIETNAM (RVN)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Eisenhower recognized the Republic of Vietnam and offered military, economic, and technical assistance."</data>
+      <data key="d5">2ef52b856741351c9eebde20282de36a</data>
+    </edge>
+    <edge source="&quot;EISENHOWER&quot;" target="&quot;ALLIES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Eisenhower led the Allies to turn back the German counter offensive in early 1945."</data>
+      <data key="d5">95e6ee0b194f706a28f8ed61ec678833</data>
+    </edge>
+    <edge source="&quot;EISENHOWER&quot;" target="&quot;WASHINGTON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Washington refused to support Churchill's plan, influencing Eisenhower's decisions."</data>
+      <data key="d5">95e6ee0b194f706a28f8ed61ec678833</data>
+    </edge>
+    <edge source="&quot;CHIEF OF STAFF OF THE ARMY&quot;" target="&quot;SECRETARY OF THE ARMY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Chief of Staff of the Army serves as principal military adviser and executive agent for the Secretary of the Army."</data>
+      <data key="d5">bc4988cb1fbe23f56de512062f56df3d</data>
+    </edge>
+    <edge source="&quot;SECRETARY OF DEFENSE&quot;" target="&quot;ARMY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Secretary of Defense has authority over the army and provides direction to the Secretary of the Army."</data>
+      <data key="d5">bc4988cb1fbe23f56de512062f56df3d</data>
+    </edge>
+    <edge source="&quot;PRESIDENT OF THE UNITED STATES&quot;" target="&quot;JOINT CHIEFS OF STAFF&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The President of the United States receives advice from the Joint Chiefs of Staff on operational military matters."</data>
+      <data key="d5">bc4988cb1fbe23f56de512062f56df3d</data>
+    </edge>
+    <edge source="&quot;DEPARTMENT OF DEFENSE&quot;" target="&quot;ARMY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Department of Defense oversees the army and other military services."</data>
+      <data key="d5">bc4988cb1fbe23f56de512062f56df3d</data>
+    </edge>
+    <edge source="&quot;ARMY&quot;" target="&quot;SECRETARY OF THE ARMY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Secretary of the Army has statutory authority to conduct all affairs of the army."</data>
+      <data key="d5">bc4988cb1fbe23f56de512062f56df3d</data>
+    </edge>
+    <edge source="&quot;KOHL&quot;" target="&quot;HORST TELTSCHIK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Horst Teltschik is Kohl's foreign policy advisor, indicating a close working relationship."</data>
+      <data key="d5">a3c7a450c8c5863213b5027e4d919aed</data>
+    </edge>
+    <edge source="&quot;GORBACHEV&quot;" target="&quot;GERMANY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gorbachev's statements influenced Germany's path and international alignments."</data>
+      <data key="d5">a3c7a450c8c5863213b5027e4d919aed</data>
+    </edge>
+    <edge source="&quot;GORBACHEV&quot;" target="&quot;BUSH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bush met with Gorbachev to discuss Germany's NATO membership, showing a diplomatic relationship."</data>
+      <data key="d5">a3c7a450c8c5863213b5027e4d919aed</data>
+    </edge>
+    <edge source="&quot;GERMANY&quot;" target="&quot;TRIPARTITE NEGOTIATIONS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The potential aggression of Germany is a key concern in the Tripartite negotiations."</data>
+      <data key="d5">7c4729f7ec24d219a0a95ba4127be8fa</data>
+    </edge>
+    <edge source="&quot;USSR&quot;" target="&quot;BRITAIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Britain opposes the USSR's proposals on indirect aggression, fearing it could justify Soviet intervention in Finland and the Baltic states."</data>
+      <data key="d5">7c4729f7ec24d219a0a95ba4127be8fa</data>
+    </edge>
+    <edge source="&quot;USSR&quot;" target="&quot;BALTIC STATES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The USSR is concerned about the potential political turn of the Baltic states towards Germany, which could be considered an indirect aggression."</data>
+      <data key="d5">7c4729f7ec24d219a0a95ba4127be8fa</data>
+    </edge>
+    <edge source="&quot;USSR&quot;" target="&quot;UNIFIED ARMED FORCES OF THE WARSAW TREATY ORGANIZATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The USSR dominates the Unified Armed Forces of the Warsaw Treaty Organization."</data>
+      <data key="d5">3af6706bfc27f9caa99d4fb7c2f74224</data>
+    </edge>
+    <edge source="&quot;ECUADOR&quot;" target="&quot;THE MINISTRY OF NATIONAL DEFENSE OF THE REPUBLIC OF ECUADOR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Ministry of National Defense is located in and responsible for defending Ecuador."</data>
+      <data key="d5">ea879d8b268a04b03baee59576094c0b</data>
+    </edge>
+    <edge source="&quot;CZECHOSLOVAKIA&quot;" target="&quot;WARSAW PACT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Warsaw Pact invaded Czechoslovakia in August 1968."</data>
+      <data key="d5">88214b1e0b020047fbde8e31a97fa71b</data>
+    </edge>
+    <edge source="&quot;SOCIALIST REPUBLIC OF ROMANIA&quot;" target="&quot;WARSAW PACT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Socialist Republic of Romania did not participate in the Warsaw Pact invasion of Czechoslovakia."</data>
+      <data key="d5">88214b1e0b020047fbde8e31a97fa71b</data>
+    </edge>
+    <edge source="&quot;PEOPLE'S REPUBLIC OF ALBANIA&quot;" target="&quot;WARSAW PACT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The People's Republic of Albania did not participate in the Warsaw Pact invasion of Czechoslovakia."</data>
+      <data key="d5">88214b1e0b020047fbde8e31a97fa71b</data>
+    </edge>
+    <edge source="&quot;NGO DINH DIEM&quot;" target="&quot;GEN. J. LAWTON COLLINS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gen. J. Lawton Collins supported Ngo Dinh Diem in subverting communism and building an army."</data>
+      <data key="d5">2ef52b856741351c9eebde20282de36a</data>
+    </edge>
+    <edge source="&quot;SOUTH VIETNAM&quot;" target="&quot;GEN. J. LAWTON COLLINS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gen. J. Lawton Collins was ambassador to South Vietnam, elevating it to sovereign status."</data>
+      <data key="d5">2ef52b856741351c9eebde20282de36a</data>
+    </edge>
+    <edge source="&quot;BRITISH&quot;" target="&quot;CHURCHILL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Churchill was the leader of the British, who wanted Berlin and had political ambitions."</data>
+      <data key="d5">95e6ee0b194f706a28f8ed61ec678833</data>
+    </edge>
+    <edge source="&quot;ROOSEVELT&quot;" target="&quot;STALIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Roosevelt and Stalin previously agreed upon the division of Germany, highlighting their diplomatic relationship."</data>
+      <data key="d5">95e6ee0b194f706a28f8ed61ec678833</data>
+    </edge>
+    <edge source="&quot;POLITICAL CONSULTATIVE COMMITTEE&quot;" target="&quot;WARSAW TREATY'S ORGANIZATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Political Consultative Committee is a part of the Warsaw Treaty's organization."</data>
+      <data key="d5">3af6706bfc27f9caa99d4fb7c2f74224</data>
+    </edge>
+    <edge source="&quot;COMBINED COMMAND OF PACT ARMED FORCES&quot;" target="&quot;WARSAW TREATY'S ORGANIZATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Combined Command of Pact Armed Forces is a part of the Warsaw Treaty's organization."</data>
+      <data key="d5">3af6706bfc27f9caa99d4fb7c2f74224</data>
+    </edge>
+    <edge source="&quot;COMBINED COMMAND OF PACT ARMED FORCES&quot;" target="&quot;WARSAW, POLAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The headquarters of the Combined Command of Pact Armed Forces is located in Warsaw, Poland."</data>
+      <data key="d5">3af6706bfc27f9caa99d4fb7c2f74224</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;CONGRESS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Congress observed Independence Day of India, showing its connection to the country's independence movement."</data>
+      <data key="d5">5f4c7ffd22908dbb3fd40131f9250993</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;CONSTITUENT ASSEMBLY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Constituent Assembly drafted and approved the Constitution of India, playing a key role in shaping the country's governance."</data>
+      <data key="d5">5f4c7ffd22908dbb3fd40131f9250993</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;REPUBLIC DAY OF INDIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Republic Day of India is a national event that commemorates India becoming a republic on 26 January 1950."</data>
+      <data key="d5">5f4c7ffd22908dbb3fd40131f9250993</data>
+    </edge>
+    <edge source="&quot;SOCIALIST-REVOLUTIONARY WORKERS' PARTY (POSR)&quot;" target="&quot;JEAN ALLEMANE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jean Allemane was the leader of the Socialist-Revolutionary Workers' Party (POSR)."</data>
+      <data key="d5">886e7a6a5558c324e0ce741c2a4b670b</data>
+    </edge>
+    <edge source="&quot;FRENCH SECTION OF THE WORKERS' INTERNATIONAL (SFIO)&quot;" target="&quot;JEAN ALLEMANE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jean Allemane co-founded the French Section of the Workers' International (SFIO) in 1905."</data>
+      <data key="d5">886e7a6a5558c324e0ce741c2a4b670b</data>
+    </edge>
+    <edge source="&quot;NATIONAL ASSEMBLY OF THE THIRD FRENCH REPUBLIC&quot;" target="&quot;JEAN ALLEMANE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jean Allemane served as a deputy in the National Assembly of the Third French Republic."</data>
+      <data key="d5">886e7a6a5558c324e0ce741c2a4b670b</data>
+    </edge>
+    <edge source="&quot;PARIS COMMUNE OF 1871&quot;" target="&quot;JEAN ALLEMANE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jean Allemane was a veteran of the Paris Commune of 1871."</data>
+      <data key="d5">886e7a6a5558c324e0ce741c2a4b670b</data>
+    </edge>
+    <edge source="&quot;ALBANIA&quot;" target="&quot;HERO OF SOCIALIST LABOUR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Hero of Socialist Labour title was awarded in Albania for exceptional achievements in national economy and culture."</data>
+      <data key="d5">e00479c557723cea4adc95d22ec39258</data>
+    </edge>
+    <edge source="&quot;ALBANIA&quot;" target="&quot;PEOPLE'S HERO OF ALBANIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The People's Hero of Albania title is also awarded in Albania, but for heroic deeds rather than economic or cultural achievements."</data>
+      <data key="d5">e00479c557723cea4adc95d22ec39258</data>
+    </edge>
+    <edge source="&quot;ALBANIA&quot;" target="&quot;RITA MARKO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Rita Marko served in various political positions in Albania during its socialist period."</data>
+      <data key="d5">6c7fef3433547b06466dc6e1380c9ec4</data>
+    </edge>
+    <edge source="&quot;ALBANIA&quot;" target="&quot;ASSEMBLY OF THE REPUBLIC OF ALBANIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Assembly of the Republic of Albania is located in Albania."</data>
+      <data key="d5">c4f80622a375c0dd31d7e00e830d726b</data>
+    </edge>
+    <edge source="&quot;SERB PEOPLE'S PARTY&quot;" target="&quot;THE PARTY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Party formed links with the Serb People's Party to unify the country's political opposition."</data>
+      <data key="d5">1b1001f4d9c86d2883974454eb7a192e</data>
+    </edge>
+    <edge source="&quot;SOCIALIST PEOPLE'S PARTY OF MONTENEGRO&quot;" target="&quot;THE PARTY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Party formed links with the Socialist People's Party of Montenegro to unify the country's political opposition."</data>
+      <data key="d5">1b1001f4d9c86d2883974454eb7a192e</data>
+    </edge>
+    <edge source="&quot;SOCIALIST PEOPLE'S PARTY OF MONTENEGRO&quot;" target="&quot;MONTENEGRO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Socialist People's Party of Montenegro operates in Montenegro."</data>
+      <data key="d5">1b1001f4d9c86d2883974454eb7a192e</data>
+    </edge>
+    <edge source="&quot;2006 PARLIAMENTARY ELECTION&quot;" target="&quot;THE PARTY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Party participated in the 2006 parliamentary election, winning 11 seats."</data>
+      <data key="d5">1b1001f4d9c86d2883974454eb7a192e</data>
+    </edge>
+    <edge source="&quot;ASSEMBLY OF THE REPUBLIC OF ALBANIA&quot;" target="&quot;NDRI&#199;IM BABASI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ndri&#231;im Babasi is a member of the Assembly of the Republic of Albania."</data>
+      <data key="d5">c4f80622a375c0dd31d7e00e830d726b</data>
+    </edge>
+    <edge source="&quot;DEMOCRATIC PARTY OF ALBANIA&quot;" target="&quot;NDRI&#199;IM BABASI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ndri&#231;im Babasi represents the Democratic Party of Albania in the Assembly of the Republic of Albania."</data>
+      <data key="d5">c4f80622a375c0dd31d7e00e830d726b</data>
+    </edge>
+    <edge source="&quot;2011 LOCAL ELECTIONS&quot;" target="&quot;NDRI&#199;IM BABASI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ndri&#231;im Babasi joined the Assembly of the Republic of Albania following the 2011 local elections."</data>
+      <data key="d5">c4f80622a375c0dd31d7e00e830d726b</data>
+    </edge>
+    <edge source="&quot;DURR&#203;S&quot;" target="&quot;VANGJUSH DAKO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Vangjush Dako is the mayor of Durr&#235;s, Albania."</data>
+      <data key="d5">edcddc27e18fa59c9f11358b2a780abb</data>
+    </edge>
+    <edge source="&quot;SOCIALIST PARTY OF ALBANIA&quot;" target="&quot;VANGJUSH DAKO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Vangjush Dako is a member of the Socialist Party of Albania."</data>
+      <data key="d5">edcddc27e18fa59c9f11358b2a780abb</data>
+    </edge>
+    <edge source="&quot;FEBRUARY 2007 LOCAL ELECTIONS&quot;" target="&quot;VANGJUSH DAKO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The February 2007 local elections led to Vangjush Dako's election as mayor of Durr&#235;s, Albania."</data>
+      <data key="d5">edcddc27e18fa59c9f11358b2a780abb</data>
+    </edge>
+    <edge source="&quot;THIRTEENTH NATIONAL ASSEMBLY&quot;" target="&quot;CONSTITUTION OF THE SOCIALIST REPUBLIC OF VIETNAM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Thirteenth National Assembly adopted the Constitution of the Socialist Republic of Vietnam on 28 November 2013."</data>
+      <data key="d5">6eb6a9018cb7fe0300403ba1ae6a9198</data>
+    </edge>
+  </graph>
+</graphml>

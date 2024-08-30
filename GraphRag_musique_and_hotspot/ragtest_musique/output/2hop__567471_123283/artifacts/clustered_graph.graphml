@@ -1,0 +1,622 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="level" attr.type="long" />
+  <key id="d6" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d5" for="node" attr.name="id" attr.type="string" />
+  <key id="d4" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d3" for="node" attr.name="degree" attr.type="long" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;TERRY V. OHIO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Terry v. Ohio is a 1968 court case that led to an important ruling on the use of stop-and-frisk by police officers."</data>
+      <data key="d2">2892aa2e8c46e4c2a80ab3d1e8e299e1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;SIBRON V. NEW YORK&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Sibron v. New York is a court case that, along with Terry v. Ohio and Peters v. New York, contributed to the Supreme Court's decision on frisks in 1968."</data>
+      <data key="d2">2892aa2e8c46e4c2a80ab3d1e8e299e1</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;PETERS V. NEW YORK&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Peters v. New York is a court case that, along with Terry v. Ohio and Sibron v. New York, contributed to the Supreme Court's decision on frisks in 1968."</data>
+      <data key="d2">2892aa2e8c46e4c2a80ab3d1e8e299e1</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;UNITED STATES SUPREME COURT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2892aa2e8c46e4c2a80ab3d1e8e299e1</data>
+      <data key="d3">3</data>
+      <data key="d4">3</data>
+      <data key="d5">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">190a4094d8de9832b4b0e449f0772a9c,2892aa2e8c46e4c2a80ab3d1e8e299e1,4e79e99eb46262cbd984b64884e2f3fe,5709d0ad76f78bfd5a5e1ba7315b21ea,6119163f9ea5b5d4d0d7f901490f66c0,86eab08afaada471cea5a4909ff110b2</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">4</data>
+      <data key="d5">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">190a4094d8de9832b4b0e449f0772a9c,2892aa2e8c46e4c2a80ab3d1e8e299e1,4e79e99eb46262cbd984b64884e2f3fe,5709d0ad76f78bfd5a5e1ba7315b21ea,6119163f9ea5b5d4d0d7f901490f66c0,86eab08afaada471cea5a4909ff110b2</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">5</data>
+      <data key="d5">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">190a4094d8de9832b4b0e449f0772a9c,2892aa2e8c46e4c2a80ab3d1e8e299e1,4e79e99eb46262cbd984b64884e2f3fe,5709d0ad76f78bfd5a5e1ba7315b21ea,6119163f9ea5b5d4d0d7f901490f66c0,86eab08afaada471cea5a4909ff110b2</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">4</data>
+      <data key="d4">6</data>
+      <data key="d5">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">190a4094d8de9832b4b0e449f0772a9c,2892aa2e8c46e4c2a80ab3d1e8e299e1,4e79e99eb46262cbd984b64884e2f3fe,5709d0ad76f78bfd5a5e1ba7315b21ea,6119163f9ea5b5d4d0d7f901490f66c0,86eab08afaada471cea5a4909ff110b2</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">7</data>
+      <data key="d5">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country where Tucson, Pima County, and Arizona are located. It is also a country where John D. Craig showed the public the beauties and dangers of Earth's underwater worlds through film and television. Additionally, the United States is the country where the film Dangerous Years was produced.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">190a4094d8de9832b4b0e449f0772a9c,2892aa2e8c46e4c2a80ab3d1e8e299e1,4e79e99eb46262cbd984b64884e2f3fe,5709d0ad76f78bfd5a5e1ba7315b21ea,6119163f9ea5b5d4d0d7f901490f66c0,86eab08afaada471cea5a4909ff110b2</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">8</data>
+      <data key="d5">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">190a4094d8de9832b4b0e449f0772a9c,2892aa2e8c46e4c2a80ab3d1e8e299e1,4e79e99eb46262cbd984b64884e2f3fe,5709d0ad76f78bfd5a5e1ba7315b21ea,6119163f9ea5b5d4d0d7f901490f66c0,86eab08afaada471cea5a4909ff110b2</data>
+      <data key="d6">3</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">9</data>
+      <data key="d5">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">190a4094d8de9832b4b0e449f0772a9c,2892aa2e8c46e4c2a80ab3d1e8e299e1,4e79e99eb46262cbd984b64884e2f3fe,5709d0ad76f78bfd5a5e1ba7315b21ea,6119163f9ea5b5d4d0d7f901490f66c0,86eab08afaada471cea5a4909ff110b2</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">10</data>
+      <data key="d5">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">190a4094d8de9832b4b0e449f0772a9c,2892aa2e8c46e4c2a80ab3d1e8e299e1,4e79e99eb46262cbd984b64884e2f3fe,5709d0ad76f78bfd5a5e1ba7315b21ea,6119163f9ea5b5d4d0d7f901490f66c0,86eab08afaada471cea5a4909ff110b2</data>
+      <data key="d6">3</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">11</data>
+      <data key="d5">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">190a4094d8de9832b4b0e449f0772a9c,2892aa2e8c46e4c2a80ab3d1e8e299e1,4e79e99eb46262cbd984b64884e2f3fe,5709d0ad76f78bfd5a5e1ba7315b21ea,6119163f9ea5b5d4d0d7f901490f66c0,86eab08afaada471cea5a4909ff110b2</data>
+      <data key="d3">0</data>
+      <data key="d4">12</data>
+      <data key="d5">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">190a4094d8de9832b4b0e449f0772a9c,2892aa2e8c46e4c2a80ab3d1e8e299e1,4e79e99eb46262cbd984b64884e2f3fe,5709d0ad76f78bfd5a5e1ba7315b21ea,6119163f9ea5b5d4d0d7f901490f66c0,86eab08afaada471cea5a4909ff110b2</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">5</data>
+      <data key="d4">13</data>
+      <data key="d5">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;JACK RYAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jack Ryan is a character in a movie/TV series, portrayed by John Krasinski and previously by Harrison Ford."</data>
+      <data key="d2">4e79e99eb46262cbd984b64884e2f3fe</data>
+      <data key="d3">3</data>
+      <data key="d4">14</data>
+      <data key="d5">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;CENTRAL INTELLIGENCE AGENCY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Central Intelligence Agency is an organization where Jack Ryan works as an analyst."</data>
+      <data key="d2">4e79e99eb46262cbd984b64884e2f3fe</data>
+      <data key="d3">1</data>
+      <data key="d4">15</data>
+      <data key="d5">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;DANIEL SACKHEIM&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Daniel Sackheim is a director and executive producer who comments on the character of Jack Ryan."</data>
+      <data key="d2">4e79e99eb46262cbd984b64884e2f3fe</data>
+      <data key="d3">1</data>
+      <data key="d4">16</data>
+      <data key="d5">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;HARRISON FORD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Harrison Ford is an actor who previously portrayed Jack Ryan in Patriot Games and Clear and Present Danger."</data>
+      <data key="d2">4e79e99eb46262cbd984b64884e2f3fe</data>
+      <data key="d3">0</data>
+      <data key="d4">17</data>
+      <data key="d5">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;JOHN KRASINSKI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4e79e99eb46262cbd984b64884e2f3fe</data>
+      <data key="d3">1</data>
+      <data key="d4">18</data>
+      <data key="d5">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;EUROPE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Europe is a continent where John D. Craig filmed aerial combat during World War II."</data>
+      <data key="d2">86eab08afaada471cea5a4909ff110b2</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">19</data>
+      <data key="d5">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;WORLD WAR II&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"World War II was a global conflict during which John D. Craig filmed aerial combat over Europe."</data>
+      <data key="d2">86eab08afaada471cea5a4909ff110b2</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">20</data>
+      <data key="d5">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;JOHN D. CRAIG&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">86eab08afaada471cea5a4909ff110b2</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">3</data>
+      <data key="d4">21</data>
+      <data key="d5">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;MICROSOFT HOME&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Microsoft Home is an organization that developed and published Microsoft Dangerous Creatures."</data>
+      <data key="d2">190a4094d8de9832b4b0e449f0772a9c</data>
+      <data key="d3">1</data>
+      <data key="d4">22</data>
+      <data key="d5">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;WINDOWS 3.1&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Windows 3.1 is an operating system on which Microsoft Dangerous Creatures was designed to run."</data>
+      <data key="d2">190a4094d8de9832b4b0e449f0772a9c</data>
+      <data key="d3">1</data>
+      <data key="d4">23</data>
+      <data key="d5">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;ENCARTA&quot;">
+      <data key="d0">"PROGRAMME"</data>
+      <data key="d1">"Encarta is a programme that was included in the 'Microsoft Home bundle pack' along with Microsoft Dangerous Creatures."</data>
+      <data key="d2">190a4094d8de9832b4b0e449f0772a9c</data>
+      <data key="d3">1</data>
+      <data key="d4">24</data>
+      <data key="d5">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;WORKS MULTIMEDIA&quot;">
+      <data key="d0">"PROGRAMME"</data>
+      <data key="d1">"Works Multimedia is a programme that was included in the 'Microsoft Home bundle pack' along with Microsoft Dangerous Creatures."</data>
+      <data key="d2">190a4094d8de9832b4b0e449f0772a9c</data>
+      <data key="d3">1</data>
+      <data key="d4">25</data>
+      <data key="d5">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;MONEY&quot;">
+      <data key="d0">"PROGRAMME"</data>
+      <data key="d1">"Money is a programme that was included in the 'Microsoft Home bundle pack' along with Microsoft Dangerous Creatures."</data>
+      <data key="d2">190a4094d8de9832b4b0e449f0772a9c</data>
+      <data key="d3">1</data>
+      <data key="d4">26</data>
+      <data key="d5">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;ARCADE &amp; BEST OF WINDOWS ENTERTAINMENT PACK&quot;">
+      <data key="d0">"PROGRAMME"</data>
+      <data key="d1">"Arcade &amp; Best of Windows Entertainment Pack is a programme that was included in the 'Microsoft Home bundle pack' along with Microsoft Dangerous Creatures."</data>
+      <data key="d2">190a4094d8de9832b4b0e449f0772a9c</data>
+      <data key="d3">1</data>
+      <data key="d4">27</data>
+      <data key="d5">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;MICROSOFT DANGEROUS CREATURES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">190a4094d8de9832b4b0e449f0772a9c</data>
+      <data key="d3">2</data>
+      <data key="d4">28</data>
+      <data key="d5">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;MICROSOFT HOME BUNDLE PACK&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">190a4094d8de9832b4b0e449f0772a9c</data>
+      <data key="d3">4</data>
+      <data key="d4">29</data>
+      <data key="d5">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;SOL M. WURTZEL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sol M. Wurtzel is the producer of the film Dangerous Years."</data>
+      <data key="d2">5709d0ad76f78bfd5a5e1ba7315b21ea</data>
+      <data key="d3">1</data>
+      <data key="d4">30</data>
+      <data key="d5">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;ARTHUR PIERSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Arthur Pierson is the director of the film Dangerous Years."</data>
+      <data key="d2">5709d0ad76f78bfd5a5e1ba7315b21ea</data>
+      <data key="d3">1</data>
+      <data key="d4">31</data>
+      <data key="d5">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&quot;BILLY HALOP&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Billy Halop is an actor starring in the film Dangerous Years."</data>
+      <data key="d2">5709d0ad76f78bfd5a5e1ba7315b21ea</data>
+      <data key="d3">1</data>
+      <data key="d4">32</data>
+      <data key="d5">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&quot;ANN E. TODD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ann E. Todd is an actress starring in the film Dangerous Years."</data>
+      <data key="d2">5709d0ad76f78bfd5a5e1ba7315b21ea</data>
+      <data key="d3">1</data>
+      <data key="d4">33</data>
+      <data key="d5">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&quot;MARILYN MONROE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Marilyn Monroe makes her first on-screen appearance as Evie the waitress in the restaurant scene of the film Dangerous Years."</data>
+      <data key="d2">5709d0ad76f78bfd5a5e1ba7315b21ea</data>
+      <data key="d3">1</data>
+      <data key="d4">34</data>
+      <data key="d5">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&quot;DANGEROUS YEARS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5709d0ad76f78bfd5a5e1ba7315b21ea</data>
+      <data key="d3">5</data>
+      <data key="d4">35</data>
+      <data key="d5">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&quot;LUCIUS HENDERSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lucius Henderson is the director of On Dangerous Ground."</data>
+      <data key="d2">6119163f9ea5b5d4d0d7f901490f66c0</data>
+      <data key="d3">1</data>
+      <data key="d4">36</data>
+      <data key="d5">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&quot;WILLIAM GARWOOD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"William Garwood stars in On Dangerous Ground."</data>
+      <data key="d2">6119163f9ea5b5d4d0d7f901490f66c0</data>
+      <data key="d3">1</data>
+      <data key="d4">37</data>
+      <data key="d5">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&quot;VIOLET MERSEREAU&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Violet Mersereau co-stars with William Garwood in On Dangerous Ground."</data>
+      <data key="d2">6119163f9ea5b5d4d0d7f901490f66c0</data>
+      <data key="d3">1</data>
+      <data key="d4">38</data>
+      <data key="d5">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&quot;ON DANGEROUS GROUND&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6119163f9ea5b5d4d0d7f901490f66c0</data>
+      <data key="d3">3</data>
+      <data key="d4">39</data>
+      <data key="d5">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <edge source="&quot;TERRY V. OHIO&quot;" target="&quot;UNITED STATES SUPREME COURT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The United States Supreme Court made an important ruling in the case of Terry v. Ohio."</data>
+      <data key="d10">2892aa2e8c46e4c2a80ab3d1e8e299e1</data>
+      <data key="d11">3ce7c210a21b4deebad7cc9308148d86</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SIBRON V. NEW YORK&quot;" target="&quot;UNITED STATES SUPREME COURT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The United States Supreme Court considered Sibron v. New York, along with other cases, in its decision on frisks."</data>
+      <data key="d10">2892aa2e8c46e4c2a80ab3d1e8e299e1</data>
+      <data key="d11">d64ed762ea924caa95c8d06f072a9a96</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PETERS V. NEW YORK&quot;" target="&quot;UNITED STATES SUPREME COURT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The United States Supreme Court considered Peters v. New York, along with other cases, in its decision on frisks."</data>
+      <data key="d10">2892aa2e8c46e4c2a80ab3d1e8e299e1</data>
+      <data key="d11">adf4ee3fbe9b4d0381044838c4f889c8</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">6.0</data>
+      <data key="d9">"Tucson is the county seat of Pima County."</data>
+      <data key="d10">190a4094d8de9832b4b0e449f0772a9c,2892aa2e8c46e4c2a80ab3d1e8e299e1,4e79e99eb46262cbd984b64884e2f3fe,5709d0ad76f78bfd5a5e1ba7315b21ea,6119163f9ea5b5d4d0d7f901490f66c0,86eab08afaada471cea5a4909ff110b2</data>
+      <data key="d11">32ee140946e5461f9275db664dc541a5</data>
+      <data key="d12">3</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d8">6.0</data>
+      <data key="d9">"Pima County is a county in Arizona."</data>
+      <data key="d10">190a4094d8de9832b4b0e449f0772a9c,2892aa2e8c46e4c2a80ab3d1e8e299e1,4e79e99eb46262cbd984b64884e2f3fe,5709d0ad76f78bfd5a5e1ba7315b21ea,6119163f9ea5b5d4d0d7f901490f66c0,86eab08afaada471cea5a4909ff110b2</data>
+      <data key="d11">c160b9cb27d6408ba6ab20214a2f3f81</data>
+      <data key="d12">4</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">6.0</data>
+      <data key="d9">"The University of Arizona is located in Tucson."</data>
+      <data key="d10">190a4094d8de9832b4b0e449f0772a9c,2892aa2e8c46e4c2a80ab3d1e8e299e1,4e79e99eb46262cbd984b64884e2f3fe,5709d0ad76f78bfd5a5e1ba7315b21ea,6119163f9ea5b5d4d0d7f901490f66c0,86eab08afaada471cea5a4909ff110b2</data>
+      <data key="d11">23527cd679ff4d5a988d52e7cd056078</data>
+      <data key="d12">5</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d8">6.0</data>
+      <data key="d9">"Arizona is a state in the United States."</data>
+      <data key="d10">190a4094d8de9832b4b0e449f0772a9c,2892aa2e8c46e4c2a80ab3d1e8e299e1,4e79e99eb46262cbd984b64884e2f3fe,5709d0ad76f78bfd5a5e1ba7315b21ea,6119163f9ea5b5d4d0d7f901490f66c0,86eab08afaada471cea5a4909ff110b2</data>
+      <data key="d11">f1c6eed066f24cbdb376b910fce29ed4</data>
+      <data key="d12">6</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">6.0</data>
+      <data key="d9">"Tucson is a city in Arizona."</data>
+      <data key="d10">190a4094d8de9832b4b0e449f0772a9c,2892aa2e8c46e4c2a80ab3d1e8e299e1,4e79e99eb46262cbd984b64884e2f3fe,5709d0ad76f78bfd5a5e1ba7315b21ea,6119163f9ea5b5d4d0d7f901490f66c0,86eab08afaada471cea5a4909ff110b2</data>
+      <data key="d11">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+      <data key="d12">7</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d8">6.0</data>
+      <data key="d9">"Phoenix is a city in Arizona."</data>
+      <data key="d10">190a4094d8de9832b4b0e449f0772a9c,2892aa2e8c46e4c2a80ab3d1e8e299e1,4e79e99eb46262cbd984b64884e2f3fe,5709d0ad76f78bfd5a5e1ba7315b21ea,6119163f9ea5b5d4d0d7f901490f66c0,86eab08afaada471cea5a4909ff110b2</data>
+      <data key="d11">147c038aef3e4422acbbc5f7938c4ab8</data>
+      <data key="d12">8</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;JOHN D. CRAIG&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"John D. Craig showed the United States public the beauties and dangers of Earth's underwater worlds through film and television."</data>
+      <data key="d10">86eab08afaada471cea5a4909ff110b2</data>
+      <data key="d11">b7702b90c7f24190b864e8c6e64612a5</data>
+      <data key="d12">9</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">6.0</data>
+      <data key="d9">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d10">190a4094d8de9832b4b0e449f0772a9c,2892aa2e8c46e4c2a80ab3d1e8e299e1,4e79e99eb46262cbd984b64884e2f3fe,5709d0ad76f78bfd5a5e1ba7315b21ea,6119163f9ea5b5d4d0d7f901490f66c0,86eab08afaada471cea5a4909ff110b2</data>
+      <data key="d11">de6fa24480894518ab3cbcb66f739266</data>
+      <data key="d12">10</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d8">6.0</data>
+      <data key="d9">"Mexico shares an international border with the United States."</data>
+      <data key="d10">190a4094d8de9832b4b0e449f0772a9c,2892aa2e8c46e4c2a80ab3d1e8e299e1,4e79e99eb46262cbd984b64884e2f3fe,5709d0ad76f78bfd5a5e1ba7315b21ea,6119163f9ea5b5d4d0d7f901490f66c0,86eab08afaada471cea5a4909ff110b2</data>
+      <data key="d11">6fae5ee1a831468aa585a1ea09095998</data>
+      <data key="d12">11</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">6.0</data>
+      <data key="d9">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d10">190a4094d8de9832b4b0e449f0772a9c,2892aa2e8c46e4c2a80ab3d1e8e299e1,4e79e99eb46262cbd984b64884e2f3fe,5709d0ad76f78bfd5a5e1ba7315b21ea,6119163f9ea5b5d4d0d7f901490f66c0,86eab08afaada471cea5a4909ff110b2</data>
+      <data key="d11">ef32c4b208d041cc856f6837915dc1b0</data>
+      <data key="d12">12</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JACK RYAN&quot;" target="&quot;JOHN KRASINSKI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"John Krasinski plays the role of Jack Ryan."</data>
+      <data key="d10">4e79e99eb46262cbd984b64884e2f3fe</data>
+      <data key="d11">07b2425216bd4f0aa4e079827cb48ef5</data>
+      <data key="d12">13</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JACK RYAN&quot;" target="&quot;CENTRAL INTELLIGENCE AGENCY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jack Ryan works as an analyst at the Central Intelligence Agency."</data>
+      <data key="d10">4e79e99eb46262cbd984b64884e2f3fe</data>
+      <data key="d11">2670deebfa3f4d69bb82c28ab250a209</data>
+      <data key="d12">14</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JACK RYAN&quot;" target="&quot;DANIEL SACKHEIM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Daniel Sackheim is involved in the production of a movie/TV series featuring Jack Ryan."</data>
+      <data key="d10">4e79e99eb46262cbd984b64884e2f3fe</data>
+      <data key="d11">404309e89a5241d6bff42c05a45df206</data>
+      <data key="d12">15</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;EUROPE&quot;" target="&quot;JOHN D. CRAIG&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"John D. Craig filmed aerial combat over Europe during World War II."</data>
+      <data key="d10">86eab08afaada471cea5a4909ff110b2</data>
+      <data key="d11">b785a9025069417f94950ad231bb1441</data>
+      <data key="d12">16</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WORLD WAR II&quot;" target="&quot;JOHN D. CRAIG&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"John D. Craig was involved in filming aerial combat during World War II."</data>
+      <data key="d10">86eab08afaada471cea5a4909ff110b2</data>
+      <data key="d11">3b6cd96a27304614850709aba1c9598b</data>
+      <data key="d12">17</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MICROSOFT HOME&quot;" target="&quot;MICROSOFT DANGEROUS CREATURES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Microsoft Home developed and published Microsoft Dangerous Creatures."</data>
+      <data key="d10">190a4094d8de9832b4b0e449f0772a9c</data>
+      <data key="d11">d54956b79dd147f894b67a8b97dcbef0</data>
+      <data key="d12">18</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WINDOWS 3.1&quot;" target="&quot;MICROSOFT DANGEROUS CREATURES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Microsoft Dangerous Creatures was designed to run on Windows 3.1."</data>
+      <data key="d10">190a4094d8de9832b4b0e449f0772a9c</data>
+      <data key="d11">958beecdb5bb4060948415ffd75d2b03</data>
+      <data key="d12">19</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ENCARTA&quot;" target="&quot;MICROSOFT HOME BUNDLE PACK&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Encarta is part of the 'Microsoft Home bundle pack' along with Microsoft Dangerous Creatures."</data>
+      <data key="d10">190a4094d8de9832b4b0e449f0772a9c</data>
+      <data key="d11">b999ed77e19e4f85b7f1ae79af5c002a</data>
+      <data key="d12">20</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WORKS MULTIMEDIA&quot;" target="&quot;MICROSOFT HOME BUNDLE PACK&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Works Multimedia is part of the 'Microsoft Home bundle pack' along with Microsoft Dangerous Creatures."</data>
+      <data key="d10">190a4094d8de9832b4b0e449f0772a9c</data>
+      <data key="d11">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+      <data key="d12">21</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MONEY&quot;" target="&quot;MICROSOFT HOME BUNDLE PACK&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Money is part of the 'Microsoft Home bundle pack' along with Microsoft Dangerous Creatures."</data>
+      <data key="d10">190a4094d8de9832b4b0e449f0772a9c</data>
+      <data key="d11">4f3c97517f794ebfb49c4c6315f9cf23</data>
+      <data key="d12">22</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARCADE &amp; BEST OF WINDOWS ENTERTAINMENT PACK&quot;" target="&quot;MICROSOFT HOME BUNDLE PACK&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Arcade &amp; Best of Windows Entertainment Pack is part of the 'Microsoft Home bundle pack' along with Microsoft Dangerous Creatures."</data>
+      <data key="d10">190a4094d8de9832b4b0e449f0772a9c</data>
+      <data key="d11">1745a2485a9443bab76587ad650e9be0</data>
+      <data key="d12">23</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SOL M. WURTZEL&quot;" target="&quot;DANGEROUS YEARS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Sol M. Wurtzel is the producer of the film Dangerous Years."</data>
+      <data key="d10">5709d0ad76f78bfd5a5e1ba7315b21ea</data>
+      <data key="d11">32e6ccab20d94029811127dbbe424c64</data>
+      <data key="d12">24</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARTHUR PIERSON&quot;" target="&quot;DANGEROUS YEARS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Arthur Pierson is the director of the film Dangerous Years."</data>
+      <data key="d10">5709d0ad76f78bfd5a5e1ba7315b21ea</data>
+      <data key="d11">94a964c6992945ebb3833dfdfdc8d655</data>
+      <data key="d12">25</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BILLY HALOP&quot;" target="&quot;DANGEROUS YEARS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Billy Halop stars in the film Dangerous Years."</data>
+      <data key="d10">5709d0ad76f78bfd5a5e1ba7315b21ea</data>
+      <data key="d11">1eb829d0ace042089f0746f78729696c</data>
+      <data key="d12">26</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ANN E. TODD&quot;" target="&quot;DANGEROUS YEARS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ann E. Todd stars in the film Dangerous Years."</data>
+      <data key="d10">5709d0ad76f78bfd5a5e1ba7315b21ea</data>
+      <data key="d11">015e7b58d1a14b44beab3bbc9f912c18</data>
+      <data key="d12">27</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MARILYN MONROE&quot;" target="&quot;DANGEROUS YEARS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Marilyn Monroe makes her first on-screen appearance in the film Dangerous Years."</data>
+      <data key="d10">5709d0ad76f78bfd5a5e1ba7315b21ea</data>
+      <data key="d11">26f88ab3e2e04c33a459ad6270ade565</data>
+      <data key="d12">28</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LUCIUS HENDERSON&quot;" target="&quot;ON DANGEROUS GROUND&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lucius Henderson directed On Dangerous Ground."</data>
+      <data key="d10">6119163f9ea5b5d4d0d7f901490f66c0</data>
+      <data key="d11">babe97e1d9784cffa1c85abc1e588126</data>
+      <data key="d12">29</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WILLIAM GARWOOD&quot;" target="&quot;ON DANGEROUS GROUND&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"William Garwood stars in On Dangerous Ground."</data>
+      <data key="d10">6119163f9ea5b5d4d0d7f901490f66c0</data>
+      <data key="d11">1033a18c45aa4584b2aef6ab96890351</data>
+      <data key="d12">30</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VIOLET MERSEREAU&quot;" target="&quot;ON DANGEROUS GROUND&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Violet Mersereau co-stars in On Dangerous Ground."</data>
+      <data key="d10">6119163f9ea5b5d4d0d7f901490f66c0</data>
+      <data key="d11">c9b8ce91fc2945b4907fe35519339cac</data>
+      <data key="d12">31</data>
+      <data key="d13">0</data>
+    </edge>
+  </graph>
+</graphml>

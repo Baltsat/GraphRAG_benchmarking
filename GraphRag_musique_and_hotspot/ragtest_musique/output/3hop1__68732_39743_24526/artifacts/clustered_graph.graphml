@@ -1,0 +1,1616 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="level" attr.type="long" />
+  <key id="d6" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d5" for="node" attr.name="id" attr.type="string" />
+  <key id="d4" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d3" for="node" attr.name="degree" attr.type="long" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;JULY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"July is a month with an average temperature of 78.1 &#176;F (25.6 &#176;C), frequently experiencing heat waves and high humidity."</data>
+      <data key="d2">a1ad92b679f1a363606c11cbb0d136be</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;NOVEMBER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"November marks the beginning of the freezing temperature window, lasting until April 2."</data>
+      <data key="d2">a1ad92b679f1a363606c11cbb0d136be</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;APRIL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"April marks the end of the freezing temperature window, which begins on November 6."</data>
+      <data key="d2">a1ad92b679f1a363606c11cbb0d136be</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;FEBRUARY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"February is the driest month, with an average of 2.64 inches (67 mm) of precipitation."</data>
+      <data key="d2">a1ad92b679f1a363606c11cbb0d136be</data>
+      <data key="d3">1</data>
+      <data key="d4">3</data>
+      <data key="d5">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;JANUARY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a1ad92b679f1a363606c11cbb0d136be</data>
+      <data key="d3">1</data>
+      <data key="d4">4</data>
+      <data key="d5">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;WINTER&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Winter is a season marked by cold temperatures and is characterized by different conditions depending on the location. In Bucharest, winter is known for its cold temperatures, snow, and windy conditions. On average, winter temperatures range from 35.5&#176;F (2&#176;C) in Atlantic City to 40.6&#176;F (4.8&#176;C) in other areas. Overall, winter is a cool and wet season.</data>
+      <data key="d2">1ab0ff2e9c30096f520b764da934134c,6f95f2ea7574e9177fb95efbb75c80f4,a1ad92b679f1a363606c11cbb0d136be,cbfc93f42dc6d1d24d5452dc998bafa7</data>
+      <data key="d3">4</data>
+      <data key="d4">5</data>
+      <data key="d5">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;SUMMER&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+"Summer is characterized by warm weather, with varying conditions depending on the location. In Atlantic City, summer is marked by warm and humid weather with a daily average of 75.6 &#176;F (24.2 &#176;C). Meanwhile, in Bucharest, summer brings warm to hot temperatures, accompanied by humidity and occasional heavy storms."
+
+Let me know if you have any further requests!</data>
+      <data key="d2">1ab0ff2e9c30096f520b764da934134c,6f95f2ea7574e9177fb95efbb75c80f4,a1ad92b679f1a363606c11cbb0d136be</data>
+      <data key="d3">3</data>
+      <data key="d4">6</data>
+      <data key="d5">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;FREEZING TEMPERATURE WINDOW&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a1ad92b679f1a363606c11cbb0d136be</data>
+      <data key="d3">2</data>
+      <data key="d4">7</data>
+      <data key="d5">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;DRIEST MONTH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a1ad92b679f1a363606c11cbb0d136be</data>
+      <data key="d3">1</data>
+      <data key="d4">8</data>
+      <data key="d5">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">1ab0ff2e9c30096f520b764da934134c,29d6536b143372c987b1e91275481e93,2b22569824331ed94a0c22f02bd4bfc7,2d481cf0793c7f1eb6ff22c649a701bb,2e28a12f50c3d9f565f433f4a07b8e57,3e213a4248ad3e1674dc29405fe21d83,4c75ded19e8d31646bd56f967db0467d,506ab9451bb2ef58e7c6ddf913ce3991,5c7a75234aca5a046c1afff77a9259ca,6f1a4241bf3cc3cec40226519fbc0076,6f95f2ea7574e9177fb95efbb75c80f4,7cf6fe3ed52a84a0202e6dccf350e7fa,91eefff449da38307695f3c8018095a5,9d450f28b299e2c9540e3d85da4f501b,a1ad92b679f1a363606c11cbb0d136be,b935cdbdb9a19c599d0cb577e10bd32e,b979bf8f0fcbdc1f150f3194997ebef9,bb4f9f1167b0e3ff3115bfce9df668e2,cbfc93f42dc6d1d24d5452dc998bafa7,cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">9</data>
+      <data key="d5">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">1ab0ff2e9c30096f520b764da934134c,29d6536b143372c987b1e91275481e93,2b22569824331ed94a0c22f02bd4bfc7,2d481cf0793c7f1eb6ff22c649a701bb,2e28a12f50c3d9f565f433f4a07b8e57,3e213a4248ad3e1674dc29405fe21d83,4c75ded19e8d31646bd56f967db0467d,506ab9451bb2ef58e7c6ddf913ce3991,5c7a75234aca5a046c1afff77a9259ca,6f1a4241bf3cc3cec40226519fbc0076,6f95f2ea7574e9177fb95efbb75c80f4,7cf6fe3ed52a84a0202e6dccf350e7fa,91eefff449da38307695f3c8018095a5,9d450f28b299e2c9540e3d85da4f501b,a1ad92b679f1a363606c11cbb0d136be,b935cdbdb9a19c599d0cb577e10bd32e,b979bf8f0fcbdc1f150f3194997ebef9,bb4f9f1167b0e3ff3115bfce9df668e2,cbfc93f42dc6d1d24d5452dc998bafa7,cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">10</data>
+      <data key="d5">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">1ab0ff2e9c30096f520b764da934134c,29d6536b143372c987b1e91275481e93,2b22569824331ed94a0c22f02bd4bfc7,2d481cf0793c7f1eb6ff22c649a701bb,2e28a12f50c3d9f565f433f4a07b8e57,3e213a4248ad3e1674dc29405fe21d83,4c75ded19e8d31646bd56f967db0467d,506ab9451bb2ef58e7c6ddf913ce3991,5c7a75234aca5a046c1afff77a9259ca,6f1a4241bf3cc3cec40226519fbc0076,6f95f2ea7574e9177fb95efbb75c80f4,7cf6fe3ed52a84a0202e6dccf350e7fa,91eefff449da38307695f3c8018095a5,9d450f28b299e2c9540e3d85da4f501b,a1ad92b679f1a363606c11cbb0d136be,b935cdbdb9a19c599d0cb577e10bd32e,b979bf8f0fcbdc1f150f3194997ebef9,bb4f9f1167b0e3ff3115bfce9df668e2,cbfc93f42dc6d1d24d5452dc998bafa7,cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">4</data>
+      <data key="d4">11</data>
+      <data key="d5">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">1ab0ff2e9c30096f520b764da934134c,29d6536b143372c987b1e91275481e93,2b22569824331ed94a0c22f02bd4bfc7,2d481cf0793c7f1eb6ff22c649a701bb,2e28a12f50c3d9f565f433f4a07b8e57,3e213a4248ad3e1674dc29405fe21d83,4c75ded19e8d31646bd56f967db0467d,506ab9451bb2ef58e7c6ddf913ce3991,5c7a75234aca5a046c1afff77a9259ca,6f1a4241bf3cc3cec40226519fbc0076,6f95f2ea7574e9177fb95efbb75c80f4,7cf6fe3ed52a84a0202e6dccf350e7fa,91eefff449da38307695f3c8018095a5,9d450f28b299e2c9540e3d85da4f501b,a1ad92b679f1a363606c11cbb0d136be,b935cdbdb9a19c599d0cb577e10bd32e,b979bf8f0fcbdc1f150f3194997ebef9,bb4f9f1167b0e3ff3115bfce9df668e2,cbfc93f42dc6d1d24d5452dc998bafa7,cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">3</data>
+      <data key="d4">12</data>
+      <data key="d5">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country where Pennsylvania, Fredericksburg, Bethel Township, and Lebanon County are located, as well as Tucson, Pima County, and Arizona. Additionally, it is home to Phoenix and Miami, with varying climate conditions across different regions.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">1ab0ff2e9c30096f520b764da934134c,29d6536b143372c987b1e91275481e93,2b22569824331ed94a0c22f02bd4bfc7,2d481cf0793c7f1eb6ff22c649a701bb,2e28a12f50c3d9f565f433f4a07b8e57,3e213a4248ad3e1674dc29405fe21d83,4c75ded19e8d31646bd56f967db0467d,506ab9451bb2ef58e7c6ddf913ce3991,5c7a75234aca5a046c1afff77a9259ca,6f1a4241bf3cc3cec40226519fbc0076,6f95f2ea7574e9177fb95efbb75c80f4,7cf6fe3ed52a84a0202e6dccf350e7fa,91eefff449da38307695f3c8018095a5,9d450f28b299e2c9540e3d85da4f501b,a1ad92b679f1a363606c11cbb0d136be,b935cdbdb9a19c599d0cb577e10bd32e,b979bf8f0fcbdc1f150f3194997ebef9,bb4f9f1167b0e3ff3115bfce9df668e2,cbfc93f42dc6d1d24d5452dc998bafa7,cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">4</data>
+      <data key="d4">13</data>
+      <data key="d5">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">1ab0ff2e9c30096f520b764da934134c,29d6536b143372c987b1e91275481e93,2b22569824331ed94a0c22f02bd4bfc7,2d481cf0793c7f1eb6ff22c649a701bb,2e28a12f50c3d9f565f433f4a07b8e57,3e213a4248ad3e1674dc29405fe21d83,4c75ded19e8d31646bd56f967db0467d,506ab9451bb2ef58e7c6ddf913ce3991,5c7a75234aca5a046c1afff77a9259ca,6f1a4241bf3cc3cec40226519fbc0076,6f95f2ea7574e9177fb95efbb75c80f4,7cf6fe3ed52a84a0202e6dccf350e7fa,91eefff449da38307695f3c8018095a5,9d450f28b299e2c9540e3d85da4f501b,a1ad92b679f1a363606c11cbb0d136be,b935cdbdb9a19c599d0cb577e10bd32e,b979bf8f0fcbdc1f150f3194997ebef9,bb4f9f1167b0e3ff3115bfce9df668e2,cbfc93f42dc6d1d24d5452dc998bafa7,cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d6">3</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">14</data>
+      <data key="d5">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">1ab0ff2e9c30096f520b764da934134c,29d6536b143372c987b1e91275481e93,2b22569824331ed94a0c22f02bd4bfc7,2d481cf0793c7f1eb6ff22c649a701bb,2e28a12f50c3d9f565f433f4a07b8e57,3e213a4248ad3e1674dc29405fe21d83,4c75ded19e8d31646bd56f967db0467d,506ab9451bb2ef58e7c6ddf913ce3991,5c7a75234aca5a046c1afff77a9259ca,6f1a4241bf3cc3cec40226519fbc0076,6f95f2ea7574e9177fb95efbb75c80f4,7cf6fe3ed52a84a0202e6dccf350e7fa,91eefff449da38307695f3c8018095a5,9d450f28b299e2c9540e3d85da4f501b,a1ad92b679f1a363606c11cbb0d136be,b935cdbdb9a19c599d0cb577e10bd32e,b979bf8f0fcbdc1f150f3194997ebef9,bb4f9f1167b0e3ff3115bfce9df668e2,cbfc93f42dc6d1d24d5452dc998bafa7,cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">15</data>
+      <data key="d5">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">1ab0ff2e9c30096f520b764da934134c,29d6536b143372c987b1e91275481e93,2b22569824331ed94a0c22f02bd4bfc7,2d481cf0793c7f1eb6ff22c649a701bb,2e28a12f50c3d9f565f433f4a07b8e57,3e213a4248ad3e1674dc29405fe21d83,4c75ded19e8d31646bd56f967db0467d,506ab9451bb2ef58e7c6ddf913ce3991,5c7a75234aca5a046c1afff77a9259ca,6f1a4241bf3cc3cec40226519fbc0076,6f95f2ea7574e9177fb95efbb75c80f4,7cf6fe3ed52a84a0202e6dccf350e7fa,91eefff449da38307695f3c8018095a5,9d450f28b299e2c9540e3d85da4f501b,a1ad92b679f1a363606c11cbb0d136be,b935cdbdb9a19c599d0cb577e10bd32e,b979bf8f0fcbdc1f150f3194997ebef9,bb4f9f1167b0e3ff3115bfce9df668e2,cbfc93f42dc6d1d24d5452dc998bafa7,cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d6">3</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">16</data>
+      <data key="d5">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">1ab0ff2e9c30096f520b764da934134c,29d6536b143372c987b1e91275481e93,2b22569824331ed94a0c22f02bd4bfc7,2d481cf0793c7f1eb6ff22c649a701bb,2e28a12f50c3d9f565f433f4a07b8e57,3e213a4248ad3e1674dc29405fe21d83,4c75ded19e8d31646bd56f967db0467d,506ab9451bb2ef58e7c6ddf913ce3991,5c7a75234aca5a046c1afff77a9259ca,6f1a4241bf3cc3cec40226519fbc0076,6f95f2ea7574e9177fb95efbb75c80f4,7cf6fe3ed52a84a0202e6dccf350e7fa,91eefff449da38307695f3c8018095a5,9d450f28b299e2c9540e3d85da4f501b,a1ad92b679f1a363606c11cbb0d136be,b935cdbdb9a19c599d0cb577e10bd32e,b979bf8f0fcbdc1f150f3194997ebef9,bb4f9f1167b0e3ff3115bfce9df668e2,cbfc93f42dc6d1d24d5452dc998bafa7,cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d3">0</data>
+      <data key="d4">17</data>
+      <data key="d5">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1ab0ff2e9c30096f520b764da934134c,29d6536b143372c987b1e91275481e93,2b22569824331ed94a0c22f02bd4bfc7,2d481cf0793c7f1eb6ff22c649a701bb,2e28a12f50c3d9f565f433f4a07b8e57,3e213a4248ad3e1674dc29405fe21d83,4c75ded19e8d31646bd56f967db0467d,506ab9451bb2ef58e7c6ddf913ce3991,5c7a75234aca5a046c1afff77a9259ca,6f1a4241bf3cc3cec40226519fbc0076,6f95f2ea7574e9177fb95efbb75c80f4,7cf6fe3ed52a84a0202e6dccf350e7fa,91eefff449da38307695f3c8018095a5,9d450f28b299e2c9540e3d85da4f501b,a1ad92b679f1a363606c11cbb0d136be,b935cdbdb9a19c599d0cb577e10bd32e,b979bf8f0fcbdc1f150f3194997ebef9,bb4f9f1167b0e3ff3115bfce9df668e2,cbfc93f42dc6d1d24d5452dc998bafa7,cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">5</data>
+      <data key="d4">18</data>
+      <data key="d5">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;EAST LOS ANGELES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"East Los Angeles is an area that averages the warmest winter high temperatures in the western U.S."</data>
+      <data key="d2">6f1a4241bf3cc3cec40226519fbc0076</data>
+      <data key="d3">1</data>
+      <data key="d4">19</data>
+      <data key="d5">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;GATEWAY CITIES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Gateway Cities are a region that averages the warmest winter high temperatures in the western U.S."</data>
+      <data key="d2">6f1a4241bf3cc3cec40226519fbc0076</data>
+      <data key="d3">0</data>
+      <data key="d4">20</data>
+      <data key="d5">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;SAN GABRIEL VALLEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"San Gabriel Valley is an area that averages the warmest winter high temperatures in the western U.S."</data>
+      <data key="d2">6f1a4241bf3cc3cec40226519fbc0076</data>
+      <data key="d3">1</data>
+      <data key="d4">21</data>
+      <data key="d5">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;SANTA MONICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Santa Monica is a city that averages the warmest winter low temperatures in the western U.S."</data>
+      <data key="d2">6f1a4241bf3cc3cec40226519fbc0076</data>
+      <data key="d3">1</data>
+      <data key="d4">22</data>
+      <data key="d5">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;PALM SPRINGS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Palm Springs is a city in the Coachella Valley with specific average temperature ranges during the cooler weather period."</data>
+      <data key="d2">6f1a4241bf3cc3cec40226519fbc0076</data>
+      <data key="d3">1</data>
+      <data key="d4">23</data>
+      <data key="d5">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;COACHELLA VALLEY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6f1a4241bf3cc3cec40226519fbc0076</data>
+      <data key="d3">2</data>
+      <data key="d4">24</data>
+      <data key="d5">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;UNITED STATES CENSUS BUREAU&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The United States Census Bureau is an organization that provides data on the city's area and demographics."</data>
+      <data key="d2">3e213a4248ad3e1674dc29405fe21d83</data>
+      <data key="d3">1</data>
+      <data key="d4">25</data>
+      <data key="d5">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;PIEDMONT REGION&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Piedmont region is a geographic area characterized by relatively low, rolling hills, located between the Tidewater region and the Blue Ridge Mountains."</data>
+      <data key="d2">3e213a4248ad3e1674dc29405fe21d83</data>
+      <data key="d3">1</data>
+      <data key="d4">26</data>
+      <data key="d5">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;JAMES RIVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The James River is a significant body of water in the region, located at the highest navigable point."</data>
+      <data key="d2">3e213a4248ad3e1674dc29405fe21d83</data>
+      <data key="d3">0</data>
+      <data key="d4">27</data>
+      <data key="d5">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;APPOMATTOX RIVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Appomattox River is another significant body of water in the region."</data>
+      <data key="d2">3e213a4248ad3e1674dc29405fe21d83</data>
+      <data key="d3">0</data>
+      <data key="d4">28</data>
+      <data key="d5">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;CHICKAHOMINY RIVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Chickahominy River is a significant body of water in the region."</data>
+      <data key="d2">3e213a4248ad3e1674dc29405fe21d83</data>
+      <data key="d3">0</data>
+      <data key="d4">29</data>
+      <data key="d5">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;RICHMOND&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3e213a4248ad3e1674dc29405fe21d83</data>
+      <data key="d3">2</data>
+      <data key="d4">30</data>
+      <data key="d5">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;SITE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5c7a75234aca5a046c1afff77a9259ca</data>
+      <data key="d3">3</data>
+      <data key="d4">31</data>
+      <data key="d5">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&quot;1971-2000&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5c7a75234aca5a046c1afff77a9259ca</data>
+      <data key="d3">1</data>
+      <data key="d4">32</data>
+      <data key="d5">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&quot;JUNE 1976&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5c7a75234aca5a046c1afff77a9259ca</data>
+      <data key="d3">1</data>
+      <data key="d4">33</data>
+      <data key="d5">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&quot;JANUARY 1979&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5c7a75234aca5a046c1afff77a9259ca</data>
+      <data key="d3">1</data>
+      <data key="d4">34</data>
+      <data key="d5">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&quot;APPALACHIANS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Appalachians provide partial shielding from colder air, keeping the city warmer in winter."</data>
+      <data key="d2">9d450f28b299e2c9540e3d85da4f501b</data>
+      <data key="d3">1</data>
+      <data key="d4">35</data>
+      <data key="d5">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&quot;PITTSBURGH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pittsburgh is an inland North American city at a similar latitude to the subject city."</data>
+      <data key="d2">9d450f28b299e2c9540e3d85da4f501b</data>
+      <data key="d3">0</data>
+      <data key="d4">36</data>
+      <data key="d5">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&quot;CINCINNATI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Cincinnati is an inland North American city at a similar latitude to the subject city."</data>
+      <data key="d2">9d450f28b299e2c9540e3d85da4f501b</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&quot;INDIANAPOLIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Indianapolis is an inland North American city at a similar latitude to the subject city."</data>
+      <data key="d2">9d450f28b299e2c9540e3d85da4f501b</data>
+      <data key="d3">0</data>
+      <data key="d4">38</data>
+      <data key="d5">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&quot;ATLANTIC OCEAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9d450f28b299e2c9540e3d85da4f501b</data>
+      <data key="d3">1</data>
+      <data key="d4">39</data>
+      <data key="d5">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <node id="&quot;CITY CLIMATE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9d450f28b299e2c9540e3d85da4f501b</data>
+      <data key="d3">2</data>
+      <data key="d4">40</data>
+      <data key="d5">3ce7c210a21b4deebad7cc9308148d86</data>
+    </node>
+    <node id="&quot;CHARLOTTE AREA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Charlotte area receives around 3&#8211;5 in of snowfall annually, making it a region with moderate snowfall."</data>
+      <data key="d2">2b22569824331ed94a0c22f02bd4bfc7</data>
+      <data key="d3">1</data>
+      <data key="d4">41</data>
+      <data key="d5">d64ed762ea924caa95c8d06f072a9a96</data>
+    </node>
+    <node id="&quot;VIRGINIA BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Virginia border is a geographic location that marks the northern boundary of the Piedmont region."</data>
+      <data key="d2">2b22569824331ed94a0c22f02bd4bfc7</data>
+      <data key="d3">1</data>
+      <data key="d4">42</data>
+      <data key="d5">adf4ee3fbe9b4d0381044838c4f889c8</data>
+    </node>
+    <node id="&quot;PIEDMONT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2b22569824331ed94a0c22f02bd4bfc7</data>
+      <data key="d3">2</data>
+      <data key="d4">43</data>
+      <data key="d5">32ee140946e5461f9275db664dc541a5</data>
+    </node>
+    <node id="&quot;SONORAN DESERT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Sonoran Desert is a region where Phoenix is located, characterized by long hot summers and mild winters."</data>
+      <data key="d2">2d481cf0793c7f1eb6ff22c649a701bb</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">44</data>
+      <data key="d5">c160b9cb27d6408ba6ab20214a2f3f81</data>
+    </node>
+    <node id="&quot;MIAMI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Miami is a city in the contiguous United States with the highest average annual temperature, compared to Phoenix."</data>
+      <data key="d2">2d481cf0793c7f1eb6ff22c649a701bb</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">45</data>
+      <data key="d5">23527cd679ff4d5a988d52e7cd056078</data>
+    </node>
+    <node id="&quot;MOUNT MEAGER MASSIF&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mount Meager massif is a volcanic region in Canada."</data>
+      <data key="d2">2e28a12f50c3d9f565f433f4a07b8e57</data>
+      <data key="d3">1</data>
+      <data key="d4">46</data>
+      <data key="d5">f1c6eed066f24cbdb376b910fce29ed4</data>
+    </node>
+    <node id="&quot;MOUNT GARIBALDI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mount Garibaldi is a volcanic region in Canada."</data>
+      <data key="d2">2e28a12f50c3d9f565f433f4a07b8e57</data>
+      <data key="d3">1</data>
+      <data key="d4">47</data>
+      <data key="d5">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+    </node>
+    <node id="&quot;MOUNT CAYLEY MASSIF&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mount Cayley massif is a volcanic region in Canada."</data>
+      <data key="d2">2e28a12f50c3d9f565f433f4a07b8e57</data>
+      <data key="d3">1</data>
+      <data key="d4">48</data>
+      <data key="d5">147c038aef3e4422acbbc5f7938c4ab8</data>
+    </node>
+    <node id="&quot;MOUNT EDZIZA VOLCANIC COMPLEX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mount Edziza volcanic complex is a volcanic region in Canada."</data>
+      <data key="d2">2e28a12f50c3d9f565f433f4a07b8e57</data>
+      <data key="d3">1</data>
+      <data key="d4">49</data>
+      <data key="d5">b7702b90c7f24190b864e8c6e64612a5</data>
+    </node>
+    <node id="&quot;TSEAX CONE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Tseax Cone is a volcano that erupted in 1775, causing one of Canada's worst natural disasters."</data>
+      <data key="d2">2e28a12f50c3d9f565f433f4a07b8e57</data>
+      <data key="d3">1</data>
+      <data key="d4">50</data>
+      <data key="d5">de6fa24480894518ab3cbcb66f739266</data>
+    </node>
+    <node id="&quot;NISGA'A PEOPLE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Nisga'a people are an indigenous group affected by the volcanic eruption of Tseax Cone in 1775."</data>
+      <data key="d2">2e28a12f50c3d9f565f433f4a07b8e57</data>
+      <data key="d3">2</data>
+      <data key="d4">51</data>
+      <data key="d5">6fae5ee1a831468aa585a1ea09095998</data>
+    </node>
+    <node id="&quot;NASS RIVER VALLEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Nass River valley is a region in northern British Columbia where the Nisga'a people lived."</data>
+      <data key="d2">2e28a12f50c3d9f565f433f4a07b8e57</data>
+      <data key="d3">1</data>
+      <data key="d4">52</data>
+      <data key="d5">ef32c4b208d041cc856f6837915dc1b0</data>
+    </node>
+    <node id="&quot;BRITISH COLUMBIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"British Columbia is a province in Canada with a temperate climate and volcanic regions."</data>
+      <data key="d2">2e28a12f50c3d9f565f433f4a07b8e57</data>
+      <data key="d3">1</data>
+      <data key="d4">53</data>
+      <data key="d5">07b2425216bd4f0aa4e079827cb48ef5</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2e28a12f50c3d9f565f433f4a07b8e57</data>
+      <data key="d3">5</data>
+      <data key="d4">54</data>
+      <data key="d5">2670deebfa3f4d69bb82c28ab250a209</data>
+    </node>
+    <node id="&quot;GENERAL ROBERT E. LEE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"General Robert E. Lee led the Confederate Army of Northern Virginia in the Battle of Dinwiddie Court House."</data>
+      <data key="d2">29d6536b143372c987b1e91275481e93</data>
+      <data key="d3">1</data>
+      <data key="d4">55</data>
+      <data key="d5">404309e89a5241d6bff42c05a45df206</data>
+    </node>
+    <node id="&quot;LIEUTENANT GENERAL ULYSSES S. GRANT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lieutenant General Ulysses S. Grant commanded the Union Army (Army of the Potomac, Army of the Shenandoah and Army of the James) during the Battle of Dinwiddie Court House."</data>
+      <data key="d2">29d6536b143372c987b1e91275481e93</data>
+      <data key="d3">1</data>
+      <data key="d4">56</data>
+      <data key="d5">b785a9025069417f94950ad231bb1441</data>
+    </node>
+    <node id="&quot;CONFEDERATE ARMY OF NORTHERN VIRGINIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Confederate Army of Northern Virginia was led by General Robert E. Lee and fought in the Battle of Dinwiddie Court House."</data>
+      <data key="d2">29d6536b143372c987b1e91275481e93</data>
+      <data key="d3">1</data>
+      <data key="d4">57</data>
+      <data key="d5">3b6cd96a27304614850709aba1c9598b</data>
+    </node>
+    <node id="&quot;UNION ARMY (ARMY OF THE POTOMAC, ARMY OF THE SHENANDOAH AND ARMY OF THE JAMES)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Union Army (Army of the Potomac, Army of the Shenandoah and Army of the James) was commanded by Lieutenant General Ulysses S. Grant during the Battle of Dinwiddie Court House."</data>
+      <data key="d2">29d6536b143372c987b1e91275481e93</data>
+      <data key="d3">1</data>
+      <data key="d4">58</data>
+      <data key="d5">d54956b79dd147f894b67a8b97dcbef0</data>
+    </node>
+    <node id="&quot;PETERSBURG, VIRGINIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Petersburg, Virginia was a location where the Confederate defensive lines were extended during the Appomattox Campaign."</data>
+      <data key="d2">29d6536b143372c987b1e91275481e93</data>
+      <data key="d3">1</data>
+      <data key="d4">59</data>
+      <data key="d5">958beecdb5bb4060948415ffd75d2b03</data>
+    </node>
+    <node id="&quot;RICHMOND, VIRGINIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Richmond, Virginia was a location where the Confederate defensive lines were extended during the Appomattox Campaign."</data>
+      <data key="d2">29d6536b143372c987b1e91275481e93</data>
+      <data key="d3">1</data>
+      <data key="d4">60</data>
+      <data key="d5">b999ed77e19e4f85b7f1ae79af5c002a</data>
+    </node>
+    <node id="&quot;BATTLE OF DINWIDDIE COURT HOUSE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">29d6536b143372c987b1e91275481e93</data>
+      <data key="d3">1</data>
+      <data key="d4">61</data>
+      <data key="d5">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+    </node>
+    <node id="&quot;AMERICAN CIVIL WAR&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">29d6536b143372c987b1e91275481e93</data>
+      <data key="d3">1</data>
+      <data key="d4">62</data>
+      <data key="d5">4f3c97517f794ebfb49c4c6315f9cf23</data>
+    </node>
+    <node id="&quot;ROBERT E. LEE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Robert E. Lee was a commander of the Confederate States Army during the Battle of Fredericksburg, leading to a Confederate victory."</data>
+      <data key="d2">7cf6fe3ed52a84a0202e6dccf350e7fa</data>
+      <data key="d3">1</data>
+      <data key="d4">63</data>
+      <data key="d5">1745a2485a9443bab76587ad650e9be0</data>
+    </node>
+    <node id="&quot;THOMAS J. JACKSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Thomas J. Jackson was a leader in the Confederate States Army during the Battle of Fredericksburg."</data>
+      <data key="d2">7cf6fe3ed52a84a0202e6dccf350e7fa</data>
+      <data key="d3">1</data>
+      <data key="d4">64</data>
+      <data key="d5">32e6ccab20d94029811127dbbe424c64</data>
+    </node>
+    <node id="&quot;ARMY OF THE POTOMAC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Army of the Potomac was a Union army that fought in the Battle of Fredericksburg."</data>
+      <data key="d2">7cf6fe3ed52a84a0202e6dccf350e7fa</data>
+      <data key="d3">1</data>
+      <data key="d4">65</data>
+      <data key="d5">94a964c6992945ebb3833dfdfdc8d655</data>
+    </node>
+    <node id="&quot;ARMY OF NORTHERN VIRGINIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Army of Northern Virginia was a Confederate army that fought in the Battle of Fredericksburg and emerged victorious."</data>
+      <data key="d2">7cf6fe3ed52a84a0202e6dccf350e7fa</data>
+      <data key="d3">2</data>
+      <data key="d4">66</data>
+      <data key="d5">1eb829d0ace042089f0746f78729696c</data>
+    </node>
+    <node id="&quot;UNITED STATES (UNION)&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States, also referred to as the Union, was one of the main belligerents in the American Civil War, including the Battle of Fredericksburg."</data>
+      <data key="d2">7cf6fe3ed52a84a0202e6dccf350e7fa</data>
+      <data key="d3">1</data>
+      <data key="d4">67</data>
+      <data key="d5">015e7b58d1a14b44beab3bbc9f912c18</data>
+    </node>
+    <node id="&quot;CONFEDERATE STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Confederate States were a group of states that seceded from the United States and formed their own government, fighting against the Union in the American Civil War, including the Battle of Fredericksburg."</data>
+      <data key="d2">7cf6fe3ed52a84a0202e6dccf350e7fa</data>
+      <data key="d3">1</data>
+      <data key="d4">68</data>
+      <data key="d5">26f88ab3e2e04c33a459ad6270ade565</data>
+    </node>
+    <node id="&quot;FREDERICKSBURG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Fredericksburg was a location where the Battle of Fredericksburg took place during the American Civil War.</data>
+      <data key="d2">4c75ded19e8d31646bd56f967db0467d,7cf6fe3ed52a84a0202e6dccf350e7fa</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">69</data>
+      <data key="d5">babe97e1d9784cffa1c85abc1e588126</data>
+    </node>
+    <node id="&quot;SPOTSYLVANIA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Spotsylvania County was a location where the Battle of Fredericksburg took place during the American Civil War."</data>
+      <data key="d2">7cf6fe3ed52a84a0202e6dccf350e7fa</data>
+      <data key="d3">0</data>
+      <data key="d4">70</data>
+      <data key="d5">1033a18c45aa4584b2aef6ab96890351</data>
+    </node>
+    <node id="&quot;BATTLE OF FREDERICKSBURG&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Battle of Fredericksburg was a battle fought during the American Civil War, resulting in a Confederate victory."</data>
+      <data key="d2">7cf6fe3ed52a84a0202e6dccf350e7fa</data>
+      <data key="d3">2</data>
+      <data key="d4">71</data>
+      <data key="d5">c9b8ce91fc2945b4907fe35519339cac</data>
+    </node>
+    <node id="&quot;AMBROSE E. BURNSIDE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7cf6fe3ed52a84a0202e6dccf350e7fa</data>
+      <data key="d3">1</data>
+      <data key="d4">72</data>
+      <data key="d5">fa3c4204421c48609e52c8de2da4c654</data>
+    </node>
+    <node id="&quot;ATLANTIC CITY INT'L.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Atlantic City Int'l. is an airport located near Atlantic City, experiencing higher temperatures than the coast during summer."</data>
+      <data key="d2">6f95f2ea7574e9177fb95efbb75c80f4</data>
+      <data key="d3">1</data>
+      <data key="d4">73</data>
+      <data key="d5">53af055f068244d0ac861b2e89376495</data>
+    </node>
+    <node id="&quot;ATLANTIC CITY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6f95f2ea7574e9177fb95efbb75c80f4</data>
+      <data key="d3">5</data>
+      <data key="d4">74</data>
+      <data key="d5">c03ab3ce8cb74ad2a03b94723bfab3c7</data>
+    </node>
+    <node id="&quot;SPRING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Spring is characterized by rain, particularly during its early stages. In specific locations such as Atlantic City, springs tend to be erratic but generally mild, accompanied by low humidity.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">6f95f2ea7574e9177fb95efbb75c80f4,cbfc93f42dc6d1d24d5452dc998bafa7</data>
+      <data key="d3">2</data>
+      <data key="d4">75</data>
+      <data key="d5">ed6d2eee9d7b4f5db466b1f6404d31cc</data>
+    </node>
+    <node id="&quot;AUTUMN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Autumn's weather in Atlantic City is characterized as being erratic, yet generally mild, accompanied by low humidity.</data>
+      <data key="d2">6f95f2ea7574e9177fb95efbb75c80f4,cbfc93f42dc6d1d24d5452dc998bafa7</data>
+      <data key="d3">2</data>
+      <data key="d4">76</data>
+      <data key="d5">fc01e9baa80e417c9206f941bb279407</data>
+    </node>
+    <node id="&quot;ALASKA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Alaska is a larger geographic entity that encompasses Southeast Alaska, with varying climates across its regions."</data>
+      <data key="d2">bb4f9f1167b0e3ff3115bfce9df668e2</data>
+      <data key="d3">0</data>
+      <data key="d4">77</data>
+      <data key="d5">56d0e5ebe79e4814bd1463cf6ca21394</data>
+    </node>
+    <node id="&quot;JUNEAU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Juneau is a location within Southeast Alaska, characterized by high precipitation and mild winter temperatures."</data>
+      <data key="d2">bb4f9f1167b0e3ff3115bfce9df668e2</data>
+      <data key="d3">0</data>
+      <data key="d4">78</data>
+      <data key="d5">7c49f2710e8b4d3b8dc9310834406ea5</data>
+    </node>
+    <node id="&quot;KETCHIKAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ketchikan is a location within Southeast Alaska, known for receiving high amounts of precipitation throughout the year."</data>
+      <data key="d2">bb4f9f1167b0e3ff3115bfce9df668e2</data>
+      <data key="d3">0</data>
+      <data key="d4">79</data>
+      <data key="d5">c6d1e4f56c2843e89cf0b91c10bb6de2</data>
+    </node>
+    <node id="&quot;MOUNT MITCHELL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mount Mitchell is a specific location within the Appalachian Mountains, known for receiving heavy snowfall, including over 60 inches in the Blizzard of 1993."</data>
+      <data key="d2">b979bf8f0fcbdc1f150f3194997ebef9</data>
+      <data key="d3">2</data>
+      <data key="d4">80</data>
+      <data key="d5">0adb2d9941f34ef7b2f7743cc6225844</data>
+    </node>
+    <node id="&quot;APPALACHIAN MOUNTAINS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b979bf8f0fcbdc1f150f3194997ebef9</data>
+      <data key="d3">1</data>
+      <data key="d4">81</data>
+      <data key="d5">6b02373137fd438ba96af28f735cdbdb</data>
+    </node>
+    <node id="&quot;BLIZZARD OF 1993&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b979bf8f0fcbdc1f150f3194997ebef9</data>
+      <data key="d3">1</data>
+      <data key="d4">82</data>
+      <data key="d5">36a4fcd8efc144e6b8af9a1c7ab8b2ce</data>
+    </node>
+    <node id="&quot;BETHEL TOWNSHIP&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bethel Township is a location in Lebanon County, Pennsylvania, where Fredericksburg is situated."</data>
+      <data key="d2">4c75ded19e8d31646bd56f967db0467d</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">83</data>
+      <data key="d5">fbeef791d19b413a9c93c6608286ab63</data>
+    </node>
+    <node id="&quot;LEBANON COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lebanon County is a county in Pennsylvania, United States, where Fredericksburg and Bethel Township are located."</data>
+      <data key="d2">4c75ded19e8d31646bd56f967db0467d</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">84</data>
+      <data key="d5">d2b629c0396f4180a03e16ddf3818589</data>
+    </node>
+    <node id="&quot;PENNSYLVANIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pennsylvania is a state in the United States where Fredericksburg, Bethel Township, and Lebanon County are situated."</data>
+      <data key="d2">4c75ded19e8d31646bd56f967db0467d</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">85</data>
+      <data key="d5">6102fc6619ed422ebc42588bfa97355d</data>
+    </node>
+    <node id="&quot;CLAYTON MARK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Clayton Mark was a prominent steel magnate born in Fredericksburg in 1858, who founded the planned worker community of Marktown."</data>
+      <data key="d2">4c75ded19e8d31646bd56f967db0467d</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">86</data>
+      <data key="d5">8d141c0b80f74b79a05eed7fe161fe49</data>
+    </node>
+    <node id="&quot;MARKTOWN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Marktown is a planned worker community founded by Clayton Mark."</data>
+      <data key="d2">4c75ded19e8d31646bd56f967db0467d</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">87</data>
+      <data key="d5">e22d1d1cd8d14f12b81828d940f40d70</data>
+    </node>
+    <node id="&quot;VICTORIAN ALPS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Victorian Alps are a mountain range in northeast Victoria, characterized by cold temperatures and part of the Great Dividing Range."</data>
+      <data key="d2">b935cdbdb9a19c599d0cb577e10bd32e</data>
+      <data key="d3">2</data>
+      <data key="d4">88</data>
+      <data key="d5">9ab48505fb1b487babd0d1f6d3a3f980</data>
+    </node>
+    <node id="&quot;GREAT DIVIDING RANGE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Great Dividing Range is a mountain system that extends east-west through the centre of Victoria, including the Victorian Alps."</data>
+      <data key="d2">b935cdbdb9a19c599d0cb577e10bd32e</data>
+      <data key="d3">1</data>
+      <data key="d4">89</data>
+      <data key="d5">148fffeb994541b2b4b6dcefda7001a8</data>
+    </node>
+    <node id="&quot;OMEO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Omeo is a location in Victoria where a record low temperature was recorded on 13 June 1965."</data>
+      <data key="d2">b935cdbdb9a19c599d0cb577e10bd32e</data>
+      <data key="d3">0</data>
+      <data key="d4">90</data>
+      <data key="d5">89c08e793298442686292454a1abff31</data>
+    </node>
+    <node id="&quot;FALLS CREEK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Falls Creek is a location in Victoria where a record low temperature was recorded on 3 July 1970."</data>
+      <data key="d2">b935cdbdb9a19c599d0cb577e10bd32e</data>
+      <data key="d3">0</data>
+      <data key="d4">91</data>
+      <data key="d5">0467928aa65e4a4fba62bdb1467e3a54</data>
+    </node>
+    <node id="&quot;VICTORIA&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Victoria is a state characterized by varying temperature ranges, including warm regions like Mallee and Wimmera, and cooler mountain elevations.</data>
+      <data key="d2">506ab9451bb2ef58e7c6ddf913ce3991,b935cdbdb9a19c599d0cb577e10bd32e</data>
+      <data key="d3">4</data>
+      <data key="d4">92</data>
+      <data key="d5">43c3390303c6476cb65f584e37c3e81c</data>
+    </node>
+    <node id="&quot;DECEMBER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"December is the coolest month, averaging 40.6 &#176;F (4.8 &#176;C)."</data>
+      <data key="d2">cbfc93f42dc6d1d24d5452dc998bafa7</data>
+      <data key="d3">1</data>
+      <data key="d4">93</data>
+      <data key="d5">fa14b16c17e3417dba5a4b473ea5b18d</data>
+    </node>
+    <node id="&quot;AUGUST&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"August is the warmest month, averaging 66.1 &#176;F (18.9 &#176;C)."</data>
+      <data key="d2">cbfc93f42dc6d1d24d5452dc998bafa7</data>
+      <data key="d3">1</data>
+      <data key="d4">94</data>
+      <data key="d5">7cc3356d38de4328a51a5cbcb187dac3</data>
+    </node>
+    <node id="&quot;RAIN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">cbfc93f42dc6d1d24d5452dc998bafa7</data>
+      <data key="d3">2</data>
+      <data key="d4">95</data>
+      <data key="d5">bef16fb5fd7344cca5e295b13ef3e0cd</data>
+    </node>
+    <node id="&quot;COOL TEMPERATURE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">cbfc93f42dc6d1d24d5452dc998bafa7</data>
+      <data key="d3">1</data>
+      <data key="d4">96</data>
+      <data key="d5">bb9e01bc171d4326a29afda59ece8d17</data>
+    </node>
+    <node id="&quot;FREEZING TEMPERATURE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">cbfc93f42dc6d1d24d5452dc998bafa7</data>
+      <data key="d3">1</data>
+      <data key="d4">97</data>
+      <data key="d5">3c063eea52e94164b70c99431ea30bae</data>
+    </node>
+    <node id="&quot;HIGH TEMPERATURE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">cbfc93f42dc6d1d24d5452dc998bafa7</data>
+      <data key="d3">1</data>
+      <data key="d4">98</data>
+      <data key="d5">252cc8452bfc4c2aa58cab68d8b61879</data>
+    </node>
+    <node id="&quot;WIMMERA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Wimmera is a region in Victoria characterized by high temperatures during summer and winter."</data>
+      <data key="d2">506ab9451bb2ef58e7c6ddf913ce3991</data>
+      <data key="d3">1</data>
+      <data key="d4">99</data>
+      <data key="d5">7e2c84548fb94ee395ba8588d8f2a006</data>
+    </node>
+    <node id="&quot;MELBOURNE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Melbourne is a city in Victoria used as a reference point for comparing temperatures with inland areas."</data>
+      <data key="d2">506ab9451bb2ef58e7c6ddf913ce3991</data>
+      <data key="d3">0</data>
+      <data key="d4">100</data>
+      <data key="d5">f034618dde7948beb6dab30176d0fc87</data>
+    </node>
+    <node id="&quot;HOPETOUN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hopetoun is a location in Victoria where the highest maximum temperature since World War II was recorded."</data>
+      <data key="d2">506ab9451bb2ef58e7c6ddf913ce3991</data>
+      <data key="d3">1</data>
+      <data key="d4">101</data>
+      <data key="d5">5c41f96be13e49dba649454297834546</data>
+    </node>
+    <node id="&quot;MALLEE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">506ab9451bb2ef58e7c6ddf913ce3991</data>
+      <data key="d3">1</data>
+      <data key="d4">102</data>
+      <data key="d5">7ea4afbf8a264f29af29950ce98105ba</data>
+    </node>
+    <node id="&quot;ROMANIAN PLAIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Romanian Plain is a geographic region where Bucharest is situated, influencing its climate and weather patterns."</data>
+      <data key="d2">1ab0ff2e9c30096f520b764da934134c</data>
+      <data key="d3">1</data>
+      <data key="d4">103</data>
+      <data key="d5">91ff849d12b24574b0691dbddf44968b</data>
+    </node>
+    <node id="&quot;BUCHAREST&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1ab0ff2e9c30096f520b764da934134c</data>
+      <data key="d3">3</data>
+      <data key="d4">104</data>
+      <data key="d5">d73c1f2fb3094d8dace42ad2a76e9a52</data>
+    </node>
+    <node id="&quot;35TH INTERNATIONAL DIVISION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The 35th International Division was a military unit that suffered heavily in the Battle of Teruel due to aerial bombardment and shortages of supplies."</data>
+      <data key="d2">91eefff449da38307695f3c8018095a5</data>
+      <data key="d3">1</data>
+      <data key="d4">105</data>
+      <data key="d5">cdc8901e668749889bd49bebdc4ff1f6</data>
+    </node>
+    <node id="&quot;XIV INTERNATIONAL BRIGADE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The XIV International Brigade fought in the Battle of Ebro, the last Republican offensive of the war."</data>
+      <data key="d2">91eefff449da38307695f3c8018095a5</data>
+      <data key="d3">1</data>
+      <data key="d4">106</data>
+      <data key="d5">36084a9fab53433493f079e97e68bf65</data>
+    </node>
+    <node id="&quot;BATTLE OF TERUEL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Battle of Teruel was a military conflict that took place in January 1938 during the Spanish Civil War."</data>
+      <data key="d2">91eefff449da38307695f3c8018095a5</data>
+      <data key="d3">2</data>
+      <data key="d4">107</data>
+      <data key="d5">eebcc7ec8e3e4df7aea83659bbdc2199</data>
+    </node>
+    <node id="&quot;BATTLE OF EBRO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Battle of Ebro was a military conflict that took place in July 1938, and was the last Republican offensive of the war."</data>
+      <data key="d2">91eefff449da38307695f3c8018095a5</data>
+      <data key="d3">1</data>
+      <data key="d4">108</data>
+      <data key="d5">ceadf262ef834e9ab146b20650912cae</data>
+    </node>
+    <node id="&quot;TERUEL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Teruel is a location where the Battle of Teruel took place in January 1938."</data>
+      <data key="d2">91eefff449da38307695f3c8018095a5</data>
+      <data key="d3">0</data>
+      <data key="d4">109</data>
+      <data key="d5">7f65feab75424b53b24470d305ba331a</data>
+    </node>
+    <node id="&quot;EBRO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ebro is a location where the Battle of Ebro took place in July 1938."</data>
+      <data key="d2">91eefff449da38307695f3c8018095a5</data>
+      <data key="d3">0</data>
+      <data key="d4">110</data>
+      <data key="d5">fd9cb733b28d420cb5cef01e545a132c</data>
+    </node>
+    <node id="&quot;THE INTERNATIONAL BRIGADES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">91eefff449da38307695f3c8018095a5</data>
+      <data key="d3">1</data>
+      <data key="d4">111</data>
+      <data key="d5">0fbcca3f17c649a08aea64b5a7d9ef36</data>
+    </node>
+    <node id="&quot;INDIAN MONSOON&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Indian monsoon is a weather phenomenon that exerts some influence on eastern Tibet."</data>
+      <data key="d2">cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d3">1</data>
+      <data key="d4">112</data>
+      <data key="d5">482027a59f32484c9c44fd700615c1b6</data>
+    </node>
+    <node id="&quot;TIBET&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d3">3</data>
+      <data key="d4">113</data>
+      <data key="d5">de837ff3d626451282ff6ac77a82216d</data>
+    </node>
+    <node id="&quot;WESTERN PASSES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d3">1</data>
+      <data key="d4">114</data>
+      <data key="d5">460295fed3ae4cd39f9f274cec9c2506</data>
+    </node>
+    <node id="&quot;NORTHERN TIBET&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d3">1</data>
+      <data key="d4">115</data>
+      <data key="d5">553b285bba60460ab1ed8341ae61282b</data>
+    </node>
+    <edge source="&quot;JULY&quot;" target="&quot;SUMMER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"July is a part of summer, marked by heat waves and high humidity."</data>
+      <data key="d10">a1ad92b679f1a363606c11cbb0d136be</data>
+      <data key="d11">cec95bf17e7e4c939b56c9c6f402a29f</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NOVEMBER&quot;" target="&quot;FREEZING TEMPERATURE WINDOW&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"November marks the beginning of the freezing temperature window."</data>
+      <data key="d10">a1ad92b679f1a363606c11cbb0d136be</data>
+      <data key="d11">599164aead034bc19446efacc77554d2</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;APRIL&quot;" target="&quot;FREEZING TEMPERATURE WINDOW&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"April marks the end of the freezing temperature window."</data>
+      <data key="d10">a1ad92b679f1a363606c11cbb0d136be</data>
+      <data key="d11">bbf148ae4d48422f8fdef754cfa2b9e4</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FEBRUARY&quot;" target="&quot;DRIEST MONTH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"February is the driest month, with minimal precipitation."</data>
+      <data key="d10">a1ad92b679f1a363606c11cbb0d136be</data>
+      <data key="d11">de61b2670999433f807a6a1dc2b81e43</data>
+      <data key="d12">3</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JANUARY&quot;" target="&quot;WINTER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"January is a part of winter, characterized by cold temperatures and thaws."</data>
+      <data key="d10">a1ad92b679f1a363606c11cbb0d136be</data>
+      <data key="d11">3e95dacfe57b4d57b5da4310ef2e157f</data>
+      <data key="d12">4</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WINTER&quot;" target="&quot;ATLANTIC CITY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Atlantic City experiences cool winters."</data>
+      <data key="d10">6f95f2ea7574e9177fb95efbb75c80f4</data>
+      <data key="d11">1f1545308e9347af91fd03b94aadc21f</data>
+      <data key="d12">5</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WINTER&quot;" target="&quot;COOL TEMPERATURE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Winters are cool and wet with temperatures averaging 40.6 &#176;F (4.8 &#176;C)."</data>
+      <data key="d10">cbfc93f42dc6d1d24d5452dc998bafa7</data>
+      <data key="d11">6ea81acaf232485e94fff638e03336e1</data>
+      <data key="d12">6</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WINTER&quot;" target="&quot;BUCHAREST&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Bucharest experiences winter with cold temperatures, snow, and wind."</data>
+      <data key="d10">1ab0ff2e9c30096f520b764da934134c</data>
+      <data key="d11">d136b08d586d488f9e4188b524c85a29</data>
+      <data key="d12">7</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SUMMER&quot;" target="&quot;ATLANTIC CITY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Atlantic City experiences warm and humid summers."</data>
+      <data key="d10">6f95f2ea7574e9177fb95efbb75c80f4</data>
+      <data key="d11">cccfa151fedc4b218a8d96adc7dceabe</data>
+      <data key="d12">8</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SUMMER&quot;" target="&quot;BUCHAREST&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Bucharest experiences summer with warm to hot temperatures and humidity."</data>
+      <data key="d10">1ab0ff2e9c30096f520b764da934134c</data>
+      <data key="d11">ce54725672a74ebcabe6127577dacb2b</data>
+      <data key="d12">9</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is the county seat of Pima County."</data>
+      <data key="d10">1ab0ff2e9c30096f520b764da934134c,29d6536b143372c987b1e91275481e93,2b22569824331ed94a0c22f02bd4bfc7,2d481cf0793c7f1eb6ff22c649a701bb,2e28a12f50c3d9f565f433f4a07b8e57,3e213a4248ad3e1674dc29405fe21d83,4c75ded19e8d31646bd56f967db0467d,506ab9451bb2ef58e7c6ddf913ce3991,5c7a75234aca5a046c1afff77a9259ca,6f1a4241bf3cc3cec40226519fbc0076,6f95f2ea7574e9177fb95efbb75c80f4,7cf6fe3ed52a84a0202e6dccf350e7fa,91eefff449da38307695f3c8018095a5,9d450f28b299e2c9540e3d85da4f501b,a1ad92b679f1a363606c11cbb0d136be,b935cdbdb9a19c599d0cb577e10bd32e,b979bf8f0fcbdc1f150f3194997ebef9,bb4f9f1167b0e3ff3115bfce9df668e2,cbfc93f42dc6d1d24d5452dc998bafa7,cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d11">ea2b28ca1a974ffab4517811dc1d1e5c</data>
+      <data key="d12">10</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Pima County is a county in Arizona."</data>
+      <data key="d10">1ab0ff2e9c30096f520b764da934134c,29d6536b143372c987b1e91275481e93,2b22569824331ed94a0c22f02bd4bfc7,2d481cf0793c7f1eb6ff22c649a701bb,2e28a12f50c3d9f565f433f4a07b8e57,3e213a4248ad3e1674dc29405fe21d83,4c75ded19e8d31646bd56f967db0467d,506ab9451bb2ef58e7c6ddf913ce3991,5c7a75234aca5a046c1afff77a9259ca,6f1a4241bf3cc3cec40226519fbc0076,6f95f2ea7574e9177fb95efbb75c80f4,7cf6fe3ed52a84a0202e6dccf350e7fa,91eefff449da38307695f3c8018095a5,9d450f28b299e2c9540e3d85da4f501b,a1ad92b679f1a363606c11cbb0d136be,b935cdbdb9a19c599d0cb577e10bd32e,b979bf8f0fcbdc1f150f3194997ebef9,bb4f9f1167b0e3ff3115bfce9df668e2,cbfc93f42dc6d1d24d5452dc998bafa7,cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d11">aff21f1da1654e7babdcf3fb0e4a75fc</data>
+      <data key="d12">11</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The University of Arizona is located in Tucson."</data>
+      <data key="d10">1ab0ff2e9c30096f520b764da934134c,29d6536b143372c987b1e91275481e93,2b22569824331ed94a0c22f02bd4bfc7,2d481cf0793c7f1eb6ff22c649a701bb,2e28a12f50c3d9f565f433f4a07b8e57,3e213a4248ad3e1674dc29405fe21d83,4c75ded19e8d31646bd56f967db0467d,506ab9451bb2ef58e7c6ddf913ce3991,5c7a75234aca5a046c1afff77a9259ca,6f1a4241bf3cc3cec40226519fbc0076,6f95f2ea7574e9177fb95efbb75c80f4,7cf6fe3ed52a84a0202e6dccf350e7fa,91eefff449da38307695f3c8018095a5,9d450f28b299e2c9540e3d85da4f501b,a1ad92b679f1a363606c11cbb0d136be,b935cdbdb9a19c599d0cb577e10bd32e,b979bf8f0fcbdc1f150f3194997ebef9,bb4f9f1167b0e3ff3115bfce9df668e2,cbfc93f42dc6d1d24d5452dc998bafa7,cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d11">dc2cc9016e3f49dbac7232f05cce794d</data>
+      <data key="d12">12</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Arizona is a state in the United States."</data>
+      <data key="d10">1ab0ff2e9c30096f520b764da934134c,29d6536b143372c987b1e91275481e93,2b22569824331ed94a0c22f02bd4bfc7,2d481cf0793c7f1eb6ff22c649a701bb,2e28a12f50c3d9f565f433f4a07b8e57,3e213a4248ad3e1674dc29405fe21d83,4c75ded19e8d31646bd56f967db0467d,506ab9451bb2ef58e7c6ddf913ce3991,5c7a75234aca5a046c1afff77a9259ca,6f1a4241bf3cc3cec40226519fbc0076,6f95f2ea7574e9177fb95efbb75c80f4,7cf6fe3ed52a84a0202e6dccf350e7fa,91eefff449da38307695f3c8018095a5,9d450f28b299e2c9540e3d85da4f501b,a1ad92b679f1a363606c11cbb0d136be,b935cdbdb9a19c599d0cb577e10bd32e,b979bf8f0fcbdc1f150f3194997ebef9,bb4f9f1167b0e3ff3115bfce9df668e2,cbfc93f42dc6d1d24d5452dc998bafa7,cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d11">6ea0cef05f694dcea455478f40674e45</data>
+      <data key="d12">13</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is a city in Arizona."</data>
+      <data key="d10">1ab0ff2e9c30096f520b764da934134c,29d6536b143372c987b1e91275481e93,2b22569824331ed94a0c22f02bd4bfc7,2d481cf0793c7f1eb6ff22c649a701bb,2e28a12f50c3d9f565f433f4a07b8e57,3e213a4248ad3e1674dc29405fe21d83,4c75ded19e8d31646bd56f967db0467d,506ab9451bb2ef58e7c6ddf913ce3991,5c7a75234aca5a046c1afff77a9259ca,6f1a4241bf3cc3cec40226519fbc0076,6f95f2ea7574e9177fb95efbb75c80f4,7cf6fe3ed52a84a0202e6dccf350e7fa,91eefff449da38307695f3c8018095a5,9d450f28b299e2c9540e3d85da4f501b,a1ad92b679f1a363606c11cbb0d136be,b935cdbdb9a19c599d0cb577e10bd32e,b979bf8f0fcbdc1f150f3194997ebef9,bb4f9f1167b0e3ff3115bfce9df668e2,cbfc93f42dc6d1d24d5452dc998bafa7,cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d11">7ab5d53a872f4dfc98f3d386879f3c75</data>
+      <data key="d12">14</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Phoenix is a city in Arizona."</data>
+      <data key="d10">1ab0ff2e9c30096f520b764da934134c,29d6536b143372c987b1e91275481e93,2b22569824331ed94a0c22f02bd4bfc7,2d481cf0793c7f1eb6ff22c649a701bb,2e28a12f50c3d9f565f433f4a07b8e57,3e213a4248ad3e1674dc29405fe21d83,4c75ded19e8d31646bd56f967db0467d,506ab9451bb2ef58e7c6ddf913ce3991,5c7a75234aca5a046c1afff77a9259ca,6f1a4241bf3cc3cec40226519fbc0076,6f95f2ea7574e9177fb95efbb75c80f4,7cf6fe3ed52a84a0202e6dccf350e7fa,91eefff449da38307695f3c8018095a5,9d450f28b299e2c9540e3d85da4f501b,a1ad92b679f1a363606c11cbb0d136be,b935cdbdb9a19c599d0cb577e10bd32e,b979bf8f0fcbdc1f150f3194997ebef9,bb4f9f1167b0e3ff3115bfce9df668e2,cbfc93f42dc6d1d24d5452dc998bafa7,cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d11">af1d0fec22114a3398b8016f5225f9ed</data>
+      <data key="d12">15</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PHOENIX&quot;" target="&quot;SONORAN DESERT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Phoenix is located within the Sonoran Desert region."</data>
+      <data key="d10">2d481cf0793c7f1eb6ff22c649a701bb</data>
+      <data key="d11">b07a7f088364459098cd8511ff27a4c8</data>
+      <data key="d12">16</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PHOENIX&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Phoenix is a city in the United States, known for its extreme heat during summer."</data>
+      <data key="d10">2d481cf0793c7f1eb6ff22c649a701bb</data>
+      <data key="d11">8870cf2b5df64d2cab5820f67e29b9f1</data>
+      <data key="d12">17</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;MIAMI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Miami is a city in the contiguous United States with the highest average annual temperature."</data>
+      <data key="d10">2d481cf0793c7f1eb6ff22c649a701bb</data>
+      <data key="d11">cd130938a2844050be991af70baf5ee0</data>
+      <data key="d12">18</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;PENNSYLVANIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Pennsylvania is one of the states in the United States."</data>
+      <data key="d10">4c75ded19e8d31646bd56f967db0467d</data>
+      <data key="d11">43544b99c3b04b059546198a0ae6366d</data>
+      <data key="d12">19</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d10">1ab0ff2e9c30096f520b764da934134c,29d6536b143372c987b1e91275481e93,2b22569824331ed94a0c22f02bd4bfc7,2d481cf0793c7f1eb6ff22c649a701bb,2e28a12f50c3d9f565f433f4a07b8e57,3e213a4248ad3e1674dc29405fe21d83,4c75ded19e8d31646bd56f967db0467d,506ab9451bb2ef58e7c6ddf913ce3991,5c7a75234aca5a046c1afff77a9259ca,6f1a4241bf3cc3cec40226519fbc0076,6f95f2ea7574e9177fb95efbb75c80f4,7cf6fe3ed52a84a0202e6dccf350e7fa,91eefff449da38307695f3c8018095a5,9d450f28b299e2c9540e3d85da4f501b,a1ad92b679f1a363606c11cbb0d136be,b935cdbdb9a19c599d0cb577e10bd32e,b979bf8f0fcbdc1f150f3194997ebef9,bb4f9f1167b0e3ff3115bfce9df668e2,cbfc93f42dc6d1d24d5452dc998bafa7,cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d11">a671bf7fea2f4514b6e96ba99127fafd</data>
+      <data key="d12">20</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Mexico shares an international border with the United States."</data>
+      <data key="d10">1ab0ff2e9c30096f520b764da934134c,29d6536b143372c987b1e91275481e93,2b22569824331ed94a0c22f02bd4bfc7,2d481cf0793c7f1eb6ff22c649a701bb,2e28a12f50c3d9f565f433f4a07b8e57,3e213a4248ad3e1674dc29405fe21d83,4c75ded19e8d31646bd56f967db0467d,506ab9451bb2ef58e7c6ddf913ce3991,5c7a75234aca5a046c1afff77a9259ca,6f1a4241bf3cc3cec40226519fbc0076,6f95f2ea7574e9177fb95efbb75c80f4,7cf6fe3ed52a84a0202e6dccf350e7fa,91eefff449da38307695f3c8018095a5,9d450f28b299e2c9540e3d85da4f501b,a1ad92b679f1a363606c11cbb0d136be,b935cdbdb9a19c599d0cb577e10bd32e,b979bf8f0fcbdc1f150f3194997ebef9,bb4f9f1167b0e3ff3115bfce9df668e2,cbfc93f42dc6d1d24d5452dc998bafa7,cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d11">525f41ea20274a05af4e52b625b473f3</data>
+      <data key="d12">21</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d10">1ab0ff2e9c30096f520b764da934134c,29d6536b143372c987b1e91275481e93,2b22569824331ed94a0c22f02bd4bfc7,2d481cf0793c7f1eb6ff22c649a701bb,2e28a12f50c3d9f565f433f4a07b8e57,3e213a4248ad3e1674dc29405fe21d83,4c75ded19e8d31646bd56f967db0467d,506ab9451bb2ef58e7c6ddf913ce3991,5c7a75234aca5a046c1afff77a9259ca,6f1a4241bf3cc3cec40226519fbc0076,6f95f2ea7574e9177fb95efbb75c80f4,7cf6fe3ed52a84a0202e6dccf350e7fa,91eefff449da38307695f3c8018095a5,9d450f28b299e2c9540e3d85da4f501b,a1ad92b679f1a363606c11cbb0d136be,b935cdbdb9a19c599d0cb577e10bd32e,b979bf8f0fcbdc1f150f3194997ebef9,bb4f9f1167b0e3ff3115bfce9df668e2,cbfc93f42dc6d1d24d5452dc998bafa7,cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d11">071a416efbec4f0886c19ac68f6d43cb</data>
+      <data key="d12">22</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;EAST LOS ANGELES&quot;" target="&quot;SAN GABRIEL VALLEY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"East Los Angeles and San Gabriel Valley are neighboring regions that share similar winter temperature averages."</data>
+      <data key="d10">6f1a4241bf3cc3cec40226519fbc0076</data>
+      <data key="d11">6d8473ef3b1042bf87178a611e3dbcc6</data>
+      <data key="d12">23</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SANTA MONICA&quot;" target="&quot;COACHELLA VALLEY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Santa Monica and Coachella Valley are both known for their warm winter temperatures, with Santa Monica having the warmest winter lows."</data>
+      <data key="d10">6f1a4241bf3cc3cec40226519fbc0076</data>
+      <data key="d11">30c9641543c24773938bd8ec57ea98ab</data>
+      <data key="d12">24</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PALM SPRINGS&quot;" target="&quot;COACHELLA VALLEY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Palm Springs is a city located within the Coachella Valley region."</data>
+      <data key="d10">6f1a4241bf3cc3cec40226519fbc0076</data>
+      <data key="d11">18b839da898e4026b81727d759d95c6a</data>
+      <data key="d12">25</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES CENSUS BUREAU&quot;" target="&quot;RICHMOND&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The United States Census Bureau provides data on Richmond's area and demographics."</data>
+      <data key="d10">3e213a4248ad3e1674dc29405fe21d83</data>
+      <data key="d11">eeef6ae5c464400c8755900b4f1ac37a</data>
+      <data key="d12">26</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIEDMONT REGION&quot;" target="&quot;RICHMOND&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Richmond is located in the Piedmont region of Virginia."</data>
+      <data key="d10">3e213a4248ad3e1674dc29405fe21d83</data>
+      <data key="d11">422433aa45804c7ebb973b2fafce5da6</data>
+      <data key="d12">27</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SITE&quot;" target="&quot;1971-2000&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The site's temperature records are used to calculate average temperatures for the period from 1971 to 2000."</data>
+      <data key="d10">5c7a75234aca5a046c1afff77a9259ca</data>
+      <data key="d11">86505bca739d4bccaaa1a8e0f3baffdc</data>
+      <data key="d12">28</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SITE&quot;" target="&quot;JUNE 1976&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The site recorded a temperature of 31.6 &#176;C (89 &#176;F) in June 1976, which is a record high."</data>
+      <data key="d10">5c7a75234aca5a046c1afff77a9259ca</data>
+      <data key="d11">1af9faf341e14a5bbf4ddc9080e8dc0b</data>
+      <data key="d12">29</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SITE&quot;" target="&quot;JANUARY 1979&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The site recorded a temperature of &#8722;8.8 &#176;C (16 &#176;F) in January 1979, which is a record low."</data>
+      <data key="d10">5c7a75234aca5a046c1afff77a9259ca</data>
+      <data key="d11">353d91abc68648639d65a549e59b5cf3</data>
+      <data key="d12">30</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;APPALACHIANS&quot;" target="&quot;CITY CLIMATE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Appalachians provide partial shielding from colder air, keeping the city warmer in winter."</data>
+      <data key="d10">9d450f28b299e2c9540e3d85da4f501b</data>
+      <data key="d11">7ce637e4f35b42e3a9f8272cab69cd22</data>
+      <data key="d12">31</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ATLANTIC OCEAN&quot;" target="&quot;CITY CLIMATE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Atlantic Ocean has a moderating effect on the city's climate."</data>
+      <data key="d10">9d450f28b299e2c9540e3d85da4f501b</data>
+      <data key="d11">4d999d7744b04a998475f8f8531589f0</data>
+      <data key="d12">32</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE AREA&quot;" target="&quot;PIEDMONT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Charlotte area is part of the Piedmont region, sharing similar climate characteristics."</data>
+      <data key="d10">2b22569824331ed94a0c22f02bd4bfc7</data>
+      <data key="d11">9a6f414210e14841a5b0e661aedc898d</data>
+      <data key="d12">33</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VIRGINIA BORDER&quot;" target="&quot;PIEDMONT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Virginia border marks the northern boundary of the Piedmont region, influencing its climate and geography."</data>
+      <data key="d10">2b22569824331ed94a0c22f02bd4bfc7</data>
+      <data key="d11">db541b7260974db8bac94e953009f60e</data>
+      <data key="d12">34</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MOUNT MEAGER MASSIF&quot;" target="&quot;CANADA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Mount Meager massif is located in Canada."</data>
+      <data key="d10">2e28a12f50c3d9f565f433f4a07b8e57</data>
+      <data key="d11">f2ff8044718648e18acef16dd9a65436</data>
+      <data key="d12">35</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MOUNT GARIBALDI&quot;" target="&quot;CANADA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Mount Garibaldi is located in Canada."</data>
+      <data key="d10">2e28a12f50c3d9f565f433f4a07b8e57</data>
+      <data key="d11">00d785e7d76b47ec81b508e768d40584</data>
+      <data key="d12">36</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MOUNT CAYLEY MASSIF&quot;" target="&quot;CANADA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Mount Cayley massif is located in Canada."</data>
+      <data key="d10">2e28a12f50c3d9f565f433f4a07b8e57</data>
+      <data key="d11">87915637da3e474c9349bd0ae604bd95</data>
+      <data key="d12">37</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MOUNT EDZIZA VOLCANIC COMPLEX&quot;" target="&quot;CANADA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Mount Edziza volcanic complex is located in Canada."</data>
+      <data key="d10">2e28a12f50c3d9f565f433f4a07b8e57</data>
+      <data key="d11">8f1eba29f39e411188200bf0d14628ec</data>
+      <data key="d12">38</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TSEAX CONE&quot;" target="&quot;NISGA'A PEOPLE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Tseax Cone eruption affected the Nisga'a people."</data>
+      <data key="d10">2e28a12f50c3d9f565f433f4a07b8e57</data>
+      <data key="d11">7282c73622b8408e97289d959faff483</data>
+      <data key="d12">39</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NISGA'A PEOPLE&quot;" target="&quot;NASS RIVER VALLEY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Nisga'a people lived in the Nass River valley."</data>
+      <data key="d10">2e28a12f50c3d9f565f433f4a07b8e57</data>
+      <data key="d11">3deb220d31f74103aa44870a36a63220</data>
+      <data key="d12">40</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BRITISH COLUMBIA&quot;" target="&quot;CANADA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"British Columbia is a province of Canada."</data>
+      <data key="d10">2e28a12f50c3d9f565f433f4a07b8e57</data>
+      <data key="d11">af7a1584dd15492cb9a4940e285f57fc</data>
+      <data key="d12">41</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GENERAL ROBERT E. LEE&quot;" target="&quot;CONFEDERATE ARMY OF NORTHERN VIRGINIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"General Robert E. Lee led the Confederate Army of Northern Virginia in the Battle of Dinwiddie Court House."</data>
+      <data key="d10">29d6536b143372c987b1e91275481e93</data>
+      <data key="d11">6e8d9029ce4e4ea182367173ab2c7bbf</data>
+      <data key="d12">42</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LIEUTENANT GENERAL ULYSSES S. GRANT&quot;" target="&quot;UNION ARMY (ARMY OF THE POTOMAC, ARMY OF THE SHENANDOAH AND ARMY OF THE JAMES)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lieutenant General Ulysses S. Grant commanded the Union Army during the Battle of Dinwiddie Court House."</data>
+      <data key="d10">29d6536b143372c987b1e91275481e93</data>
+      <data key="d11">cbf232211e7d4eb6abdbe182f71c2cf0</data>
+      <data key="d12">43</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PETERSBURG, VIRGINIA&quot;" target="&quot;RICHMOND, VIRGINIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Both Petersburg and Richmond were locations where the Confederate defensive lines were extended during the Appomattox Campaign."</data>
+      <data key="d10">29d6536b143372c987b1e91275481e93</data>
+      <data key="d11">bb0cff774a4440b289cc6f3b929fe13c</data>
+      <data key="d12">44</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BATTLE OF DINWIDDIE COURT HOUSE&quot;" target="&quot;AMERICAN CIVIL WAR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Battle of Dinwiddie Court House was fought during the American Civil War."</data>
+      <data key="d10">29d6536b143372c987b1e91275481e93</data>
+      <data key="d11">ce55841ebfdd47008bab8c258f10372e</data>
+      <data key="d12">45</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ROBERT E. LEE&quot;" target="&quot;ARMY OF NORTHERN VIRGINIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Robert E. Lee was the commander of the Army of Northern Virginia during the Battle of Fredericksburg, leading to a Confederate victory."</data>
+      <data key="d10">7cf6fe3ed52a84a0202e6dccf350e7fa</data>
+      <data key="d11">6090e736374d45fd84f0e4610a314f8f</data>
+      <data key="d12">46</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;THOMAS J. JACKSON&quot;" target="&quot;ARMY OF NORTHERN VIRGINIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Thomas J. Jackson was a leader in the Army of Northern Virginia during the Battle of Fredericksburg."</data>
+      <data key="d10">7cf6fe3ed52a84a0202e6dccf350e7fa</data>
+      <data key="d11">0e8d921ccd8d4a8594b65b7fd19f7120</data>
+      <data key="d12">47</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARMY OF THE POTOMAC&quot;" target="&quot;AMBROSE E. BURNSIDE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ambrose E. Burnside was the commander of the Army of the Potomac during the Battle of Fredericksburg."</data>
+      <data key="d10">7cf6fe3ed52a84a0202e6dccf350e7fa</data>
+      <data key="d11">59c726a8792d443e84ab052cb7942b4a</data>
+      <data key="d12">48</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES (UNION)&quot;" target="&quot;BATTLE OF FREDERICKSBURG&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The United States, also referred to as the Union, was one of the main belligerents in the Battle of Fredericksburg."</data>
+      <data key="d10">7cf6fe3ed52a84a0202e6dccf350e7fa</data>
+      <data key="d11">4f2c665decf242b0bfcaf7350b0e02ed</data>
+      <data key="d12">49</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CONFEDERATE STATES&quot;" target="&quot;BATTLE OF FREDERICKSBURG&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Confederate States were a group of states that seceded from the United States and formed their own government, fighting against the Union in the Battle of Fredericksburg."</data>
+      <data key="d10">7cf6fe3ed52a84a0202e6dccf350e7fa</data>
+      <data key="d11">66cdf168f36d4a57a505028c97dc06e0</data>
+      <data key="d12">50</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FREDERICKSBURG&quot;" target="&quot;BETHEL TOWNSHIP&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Fredericksburg is located in Bethel Township."</data>
+      <data key="d10">4c75ded19e8d31646bd56f967db0467d</data>
+      <data key="d11">38f51478f41f48db9bee570859b6f43e</data>
+      <data key="d12">51</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FREDERICKSBURG&quot;" target="&quot;CLAYTON MARK&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Clayton Mark was born in Fredericksburg."</data>
+      <data key="d10">4c75ded19e8d31646bd56f967db0467d</data>
+      <data key="d11">896d2a51e8de47de85ba8ced108c3d53</data>
+      <data key="d12">52</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ATLANTIC CITY INT'L.&quot;" target="&quot;ATLANTIC CITY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Atlantic City Int'l. is located near Atlantic City and experiences different temperature patterns."</data>
+      <data key="d10">6f95f2ea7574e9177fb95efbb75c80f4</data>
+      <data key="d11">14555b518e954637b83aa762dc03164e</data>
+      <data key="d12">53</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ATLANTIC CITY&quot;" target="&quot;SPRING&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Atlantic City experiences erratic springs."</data>
+      <data key="d10">6f95f2ea7574e9177fb95efbb75c80f4</data>
+      <data key="d11">b1f6164116d44fe8b8f135d7f65b9e58</data>
+      <data key="d12">54</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ATLANTIC CITY&quot;" target="&quot;AUTUMN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Atlantic City experiences erratic autumns."</data>
+      <data key="d10">6f95f2ea7574e9177fb95efbb75c80f4</data>
+      <data key="d11">c8b2408617804483b620e1a6691ac90d</data>
+      <data key="d12">55</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SPRING&quot;" target="&quot;RAIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Early spring is characterized by rain."</data>
+      <data key="d10">cbfc93f42dc6d1d24d5452dc998bafa7</data>
+      <data key="d11">a5e0d1644eb547ba9a5c3211aac4631a</data>
+      <data key="d12">56</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AUTUMN&quot;" target="&quot;RAIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Autumn is frequently characterized by rain."</data>
+      <data key="d10">cbfc93f42dc6d1d24d5452dc998bafa7</data>
+      <data key="d11">5a28b94bc63b44edb30c54748fd14f15</data>
+      <data key="d12">57</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MOUNT MITCHELL&quot;" target="&quot;APPALACHIAN MOUNTAINS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Mount Mitchell is a part of the Appalachian Mountains, sharing similar climate characteristics."</data>
+      <data key="d10">b979bf8f0fcbdc1f150f3194997ebef9</data>
+      <data key="d11">f97011b2a99d44648e18d517e1eae15c</data>
+      <data key="d12">58</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MOUNT MITCHELL&quot;" target="&quot;BLIZZARD OF 1993&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Blizzard of 1993 had a significant impact on Mount Mitchell, bringing over 60 inches of snowfall."</data>
+      <data key="d10">b979bf8f0fcbdc1f150f3194997ebef9</data>
+      <data key="d11">35489ca6a63b47d6a8913cf333818bc1</data>
+      <data key="d12">59</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BETHEL TOWNSHIP&quot;" target="&quot;LEBANON COUNTY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Bethel Township is a part of Lebanon County."</data>
+      <data key="d10">4c75ded19e8d31646bd56f967db0467d</data>
+      <data key="d11">5d3344f45e654d2c808481672f2f08dd</data>
+      <data key="d12">60</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LEBANON COUNTY&quot;" target="&quot;PENNSYLVANIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lebanon County is located in the state of Pennsylvania."</data>
+      <data key="d10">4c75ded19e8d31646bd56f967db0467d</data>
+      <data key="d11">6fb57f83baec45c9b30490ee991f433f</data>
+      <data key="d12">61</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CLAYTON MARK&quot;" target="&quot;MARKTOWN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Clayton Mark founded the planned worker community of Marktown."</data>
+      <data key="d10">4c75ded19e8d31646bd56f967db0467d</data>
+      <data key="d11">68762e6f0d1c41cd857c6b964a8e76c3</data>
+      <data key="d12">62</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VICTORIAN ALPS&quot;" target="&quot;VICTORIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Victorian Alps are part of the geographic region of Victoria."</data>
+      <data key="d10">b935cdbdb9a19c599d0cb577e10bd32e</data>
+      <data key="d11">70634e10a5e845aa8c6a32fe7e8eb2b2</data>
+      <data key="d12">63</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VICTORIAN ALPS&quot;" target="&quot;GREAT DIVIDING RANGE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Victorian Alps are part of the Great Dividing Range mountain system."</data>
+      <data key="d10">b935cdbdb9a19c599d0cb577e10bd32e</data>
+      <data key="d11">04085f7cf46544b79597fc49286ff84d</data>
+      <data key="d12">64</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VICTORIA&quot;" target="&quot;WIMMERA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Wimmera is a region within the state of Victoria."</data>
+      <data key="d10">506ab9451bb2ef58e7c6ddf913ce3991</data>
+      <data key="d11">d203efdbfb2f4b2a899abfb31cf72e82</data>
+      <data key="d12">65</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VICTORIA&quot;" target="&quot;MALLEE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Mallee is a region within the state of Victoria."</data>
+      <data key="d10">506ab9451bb2ef58e7c6ddf913ce3991</data>
+      <data key="d11">6731a665561840c2898ce8c9788e4c88</data>
+      <data key="d12">66</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VICTORIA&quot;" target="&quot;HOPETOUN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hopetoun is a location within the state of Victoria."</data>
+      <data key="d10">506ab9451bb2ef58e7c6ddf913ce3991</data>
+      <data key="d11">4026806fa92f4e849a59a7f5c9a45c79</data>
+      <data key="d12">67</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DECEMBER&quot;" target="&quot;FREEZING TEMPERATURE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"December has 28 annual days with lows that reach the freezing mark."</data>
+      <data key="d10">cbfc93f42dc6d1d24d5452dc998bafa7</data>
+      <data key="d11">68e0c60d2e8845d89d9d0ad397833648</data>
+      <data key="d12">68</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AUGUST&quot;" target="&quot;HIGH TEMPERATURE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"August has temperatures reaching 90 &#176;F (32 &#176;C) on 3.1 days per year."</data>
+      <data key="d10">cbfc93f42dc6d1d24d5452dc998bafa7</data>
+      <data key="d11">101572f552b54e529fe7765c05168981</data>
+      <data key="d12">69</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ROMANIAN PLAIN&quot;" target="&quot;BUCHAREST&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Bucharest is located on the Romanian Plain, which affects its climate and weather conditions."</data>
+      <data key="d10">1ab0ff2e9c30096f520b764da934134c</data>
+      <data key="d11">60c58026b2764b40adffca6eaa31d6d9</data>
+      <data key="d12">70</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;35TH INTERNATIONAL DIVISION&quot;" target="&quot;BATTLE OF TERUEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The 35th International Division suffered heavily in the Battle of Teruel."</data>
+      <data key="d10">91eefff449da38307695f3c8018095a5</data>
+      <data key="d11">ad1595a78935472999444c9330e7730e</data>
+      <data key="d12">71</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;XIV INTERNATIONAL BRIGADE&quot;" target="&quot;BATTLE OF EBRO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The XIV International Brigade fought in the Battle of Ebro."</data>
+      <data key="d10">91eefff449da38307695f3c8018095a5</data>
+      <data key="d11">735d19aea0744b2295556841c5c4c3fd</data>
+      <data key="d12">72</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BATTLE OF TERUEL&quot;" target="&quot;THE INTERNATIONAL BRIGADES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The International Brigades saw combat in the Battle of Teruel."</data>
+      <data key="d10">91eefff449da38307695f3c8018095a5</data>
+      <data key="d11">c725babdb14a485582f8fbdf95429030</data>
+      <data key="d12">73</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;INDIAN MONSOON&quot;" target="&quot;TIBET&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Tibet is affected by the Indian monsoon, which influences its climate."</data>
+      <data key="d10">cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d11">a0047221896d418d849847d422fa4bb8</data>
+      <data key="d12">74</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TIBET&quot;" target="&quot;WESTERN PASSES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The western passes are a part of Tibet and receive small amounts of fresh snow each year."</data>
+      <data key="d10">cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d11">98fc2ee593184c5a839454db4eec7013</data>
+      <data key="d12">75</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TIBET&quot;" target="&quot;NORTHERN TIBET&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Northern Tibet is a region within Tibet that experiences high temperatures in the summer and intense cold in the winter."</data>
+      <data key="d10">cd4cb698b780c4206c323008f21b06fc</data>
+      <data key="d11">80020a1da63042459e00266b2a605452</data>
+      <data key="d12">76</data>
+      <data key="d13">0</data>
+    </edge>
+  </graph>
+</graphml>

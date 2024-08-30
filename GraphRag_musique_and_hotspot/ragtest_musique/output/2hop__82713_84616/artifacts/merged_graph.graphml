@@ -1,0 +1,1500 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;THE AVENGERS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Avengers is a 1960s TV series that Dame Enid Diana Elizabeth Rigg was part of, playing the role of Emma Peel."</data>
+      <data key="d2">abc98b397395cbde22d0806afe02dee6</data>
+    </node>
+    <node id="&quot;GAME OF THRONES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Game of Thrones is a TV series that Dame Enid Diana Elizabeth Rigg was part of, playing the role of Olenna Tyrell."</data>
+      <data key="d2">abc98b397395cbde22d0806afe02dee6</data>
+    </node>
+    <node id="&quot;MEDEA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Medea is a play in which Dame Enid Diana Elizabeth Rigg played the title role, winning the 1994 Tony Award for Best Actress in a Play."</data>
+      <data key="d2">abc98b397395cbde22d0806afe02dee6</data>
+    </node>
+    <node id="&quot;LONDON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"London is a location where Dame Enid Diana Elizabeth Rigg performed in theatre, including playing the title role in Medea."</data>
+      <data key="d2">abc98b397395cbde22d0806afe02dee6</data>
+    </node>
+    <node id="&quot;NEW YORK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New York is a location where Dame Enid Diana Elizabeth Rigg performed in theatre, including playing the title role in Medea."
+"New York is a state in the United States where Florence Eldridge was born."</data>
+      <data key="d2">458cfe4f56e7d2fd7f652a294c336024,abc98b397395cbde22d0806afe02dee6</data>
+    </node>
+    <node id="&quot;DAME ENID DIANA ELIZABETH RIGG&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">abc98b397395cbde22d0806afe02dee6</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">0bca16aeb9d8862f75f2d8199e2b9936,1dbb6a78193ab8a725a708a15c6455c2,3c59198429f5d89a9c4ba577ae4f84b3,458cfe4f56e7d2fd7f652a294c336024,4f495e69760de6f66c872d35f698c217,5be98a6f093865e41ffee2d4459f53bb,5cea2ac409bea32d43dcc12e5e8852f2,7472511979d6b1858526803f42af31c0,763bd2b0942cee6506a3d16174db0c5d,775de905c3013bf7d7be0e6da9ee4dad,7f5888acc4b9b39e2a734c0cd175cc72,8e0b6d069325c565dbf288b10ce54961,9948f6dfe4ec40a1e13ec6d7a6414c2f,9bc45299c151134356b9f2e638fe1914,abc98b397395cbde22d0806afe02dee6,b21bf028825ce3ee92ed965b0d4f9002,c32edeaa08be73ecff41a7ede703ae86,d1b1cac2183a0cb8be89c2af21a1b436,ee49e5a34fa8628ec0ef2edcea716849,f1a77883848117d8187a288e9f7423cf</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">0bca16aeb9d8862f75f2d8199e2b9936,1dbb6a78193ab8a725a708a15c6455c2,3c59198429f5d89a9c4ba577ae4f84b3,458cfe4f56e7d2fd7f652a294c336024,4f495e69760de6f66c872d35f698c217,5be98a6f093865e41ffee2d4459f53bb,5cea2ac409bea32d43dcc12e5e8852f2,7472511979d6b1858526803f42af31c0,763bd2b0942cee6506a3d16174db0c5d,775de905c3013bf7d7be0e6da9ee4dad,7f5888acc4b9b39e2a734c0cd175cc72,8e0b6d069325c565dbf288b10ce54961,9948f6dfe4ec40a1e13ec6d7a6414c2f,9bc45299c151134356b9f2e638fe1914,abc98b397395cbde22d0806afe02dee6,b21bf028825ce3ee92ed965b0d4f9002,c32edeaa08be73ecff41a7ede703ae86,d1b1cac2183a0cb8be89c2af21a1b436,ee49e5a34fa8628ec0ef2edcea716849,f1a77883848117d8187a288e9f7423cf</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">0bca16aeb9d8862f75f2d8199e2b9936,1dbb6a78193ab8a725a708a15c6455c2,3c59198429f5d89a9c4ba577ae4f84b3,458cfe4f56e7d2fd7f652a294c336024,4f495e69760de6f66c872d35f698c217,5be98a6f093865e41ffee2d4459f53bb,5cea2ac409bea32d43dcc12e5e8852f2,7472511979d6b1858526803f42af31c0,763bd2b0942cee6506a3d16174db0c5d,775de905c3013bf7d7be0e6da9ee4dad,7f5888acc4b9b39e2a734c0cd175cc72,8e0b6d069325c565dbf288b10ce54961,9948f6dfe4ec40a1e13ec6d7a6414c2f,9bc45299c151134356b9f2e638fe1914,abc98b397395cbde22d0806afe02dee6,b21bf028825ce3ee92ed965b0d4f9002,c32edeaa08be73ecff41a7ede703ae86,d1b1cac2183a0cb8be89c2af21a1b436,ee49e5a34fa8628ec0ef2edcea716849,f1a77883848117d8187a288e9f7423cf</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">0bca16aeb9d8862f75f2d8199e2b9936,1dbb6a78193ab8a725a708a15c6455c2,3c59198429f5d89a9c4ba577ae4f84b3,458cfe4f56e7d2fd7f652a294c336024,4f495e69760de6f66c872d35f698c217,5be98a6f093865e41ffee2d4459f53bb,5cea2ac409bea32d43dcc12e5e8852f2,7472511979d6b1858526803f42af31c0,763bd2b0942cee6506a3d16174db0c5d,775de905c3013bf7d7be0e6da9ee4dad,7f5888acc4b9b39e2a734c0cd175cc72,8e0b6d069325c565dbf288b10ce54961,9948f6dfe4ec40a1e13ec6d7a6414c2f,9bc45299c151134356b9f2e638fe1914,abc98b397395cbde22d0806afe02dee6,b21bf028825ce3ee92ed965b0d4f9002,c32edeaa08be73ecff41a7ede703ae86,d1b1cac2183a0cb8be89c2af21a1b436,ee49e5a34fa8628ec0ef2edcea716849,f1a77883848117d8187a288e9f7423cf</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">0bca16aeb9d8862f75f2d8199e2b9936,1dbb6a78193ab8a725a708a15c6455c2,3c59198429f5d89a9c4ba577ae4f84b3,458cfe4f56e7d2fd7f652a294c336024,4f495e69760de6f66c872d35f698c217,5be98a6f093865e41ffee2d4459f53bb,5cea2ac409bea32d43dcc12e5e8852f2,7472511979d6b1858526803f42af31c0,763bd2b0942cee6506a3d16174db0c5d,775de905c3013bf7d7be0e6da9ee4dad,7f5888acc4b9b39e2a734c0cd175cc72,8e0b6d069325c565dbf288b10ce54961,9948f6dfe4ec40a1e13ec6d7a6414c2f,9bc45299c151134356b9f2e638fe1914,abc98b397395cbde22d0806afe02dee6,b21bf028825ce3ee92ed965b0d4f9002,c32edeaa08be73ecff41a7ede703ae86,d1b1cac2183a0cb8be89c2af21a1b436,ee49e5a34fa8628ec0ef2edcea716849,f1a77883848117d8187a288e9f7423cf</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">0bca16aeb9d8862f75f2d8199e2b9936,1dbb6a78193ab8a725a708a15c6455c2,3c59198429f5d89a9c4ba577ae4f84b3,458cfe4f56e7d2fd7f652a294c336024,4f495e69760de6f66c872d35f698c217,5be98a6f093865e41ffee2d4459f53bb,5cea2ac409bea32d43dcc12e5e8852f2,7472511979d6b1858526803f42af31c0,763bd2b0942cee6506a3d16174db0c5d,775de905c3013bf7d7be0e6da9ee4dad,7f5888acc4b9b39e2a734c0cd175cc72,8e0b6d069325c565dbf288b10ce54961,9948f6dfe4ec40a1e13ec6d7a6414c2f,9bc45299c151134356b9f2e638fe1914,abc98b397395cbde22d0806afe02dee6,b21bf028825ce3ee92ed965b0d4f9002,c32edeaa08be73ecff41a7ede703ae86,d1b1cac2183a0cb8be89c2af21a1b436,ee49e5a34fa8628ec0ef2edcea716849,f1a77883848117d8187a288e9f7423cf</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">0bca16aeb9d8862f75f2d8199e2b9936,1dbb6a78193ab8a725a708a15c6455c2,3c59198429f5d89a9c4ba577ae4f84b3,458cfe4f56e7d2fd7f652a294c336024,4f495e69760de6f66c872d35f698c217,5be98a6f093865e41ffee2d4459f53bb,5cea2ac409bea32d43dcc12e5e8852f2,7472511979d6b1858526803f42af31c0,763bd2b0942cee6506a3d16174db0c5d,775de905c3013bf7d7be0e6da9ee4dad,7f5888acc4b9b39e2a734c0cd175cc72,8e0b6d069325c565dbf288b10ce54961,9948f6dfe4ec40a1e13ec6d7a6414c2f,9bc45299c151134356b9f2e638fe1914,abc98b397395cbde22d0806afe02dee6,b21bf028825ce3ee92ed965b0d4f9002,c32edeaa08be73ecff41a7ede703ae86,d1b1cac2183a0cb8be89c2af21a1b436,ee49e5a34fa8628ec0ef2edcea716849,f1a77883848117d8187a288e9f7423cf</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">0bca16aeb9d8862f75f2d8199e2b9936,1dbb6a78193ab8a725a708a15c6455c2,3c59198429f5d89a9c4ba577ae4f84b3,458cfe4f56e7d2fd7f652a294c336024,4f495e69760de6f66c872d35f698c217,5be98a6f093865e41ffee2d4459f53bb,5cea2ac409bea32d43dcc12e5e8852f2,7472511979d6b1858526803f42af31c0,763bd2b0942cee6506a3d16174db0c5d,775de905c3013bf7d7be0e6da9ee4dad,7f5888acc4b9b39e2a734c0cd175cc72,8e0b6d069325c565dbf288b10ce54961,9948f6dfe4ec40a1e13ec6d7a6414c2f,9bc45299c151134356b9f2e638fe1914,abc98b397395cbde22d0806afe02dee6,b21bf028825ce3ee92ed965b0d4f9002,c32edeaa08be73ecff41a7ede703ae86,d1b1cac2183a0cb8be89c2af21a1b436,ee49e5a34fa8628ec0ef2edcea716849,f1a77883848117d8187a288e9f7423cf</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">0bca16aeb9d8862f75f2d8199e2b9936,1dbb6a78193ab8a725a708a15c6455c2,3c59198429f5d89a9c4ba577ae4f84b3,458cfe4f56e7d2fd7f652a294c336024,4f495e69760de6f66c872d35f698c217,5be98a6f093865e41ffee2d4459f53bb,5cea2ac409bea32d43dcc12e5e8852f2,7472511979d6b1858526803f42af31c0,763bd2b0942cee6506a3d16174db0c5d,775de905c3013bf7d7be0e6da9ee4dad,7f5888acc4b9b39e2a734c0cd175cc72,8e0b6d069325c565dbf288b10ce54961,9948f6dfe4ec40a1e13ec6d7a6414c2f,9bc45299c151134356b9f2e638fe1914,abc98b397395cbde22d0806afe02dee6,b21bf028825ce3ee92ed965b0d4f9002,c32edeaa08be73ecff41a7ede703ae86,d1b1cac2183a0cb8be89c2af21a1b436,ee49e5a34fa8628ec0ef2edcea716849,f1a77883848117d8187a288e9f7423cf</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</data>
+      <data key="d2">0bca16aeb9d8862f75f2d8199e2b9936,1dbb6a78193ab8a725a708a15c6455c2,3c59198429f5d89a9c4ba577ae4f84b3,458cfe4f56e7d2fd7f652a294c336024,4f495e69760de6f66c872d35f698c217,5be98a6f093865e41ffee2d4459f53bb,5cea2ac409bea32d43dcc12e5e8852f2,7472511979d6b1858526803f42af31c0,763bd2b0942cee6506a3d16174db0c5d,775de905c3013bf7d7be0e6da9ee4dad,7f5888acc4b9b39e2a734c0cd175cc72,8e0b6d069325c565dbf288b10ce54961,9948f6dfe4ec40a1e13ec6d7a6414c2f,9bc45299c151134356b9f2e638fe1914,abc98b397395cbde22d0806afe02dee6,b21bf028825ce3ee92ed965b0d4f9002,c32edeaa08be73ecff41a7ede703ae86,d1b1cac2183a0cb8be89c2af21a1b436,ee49e5a34fa8628ec0ef2edcea716849,f1a77883848117d8187a288e9f7423cf</data>
+    </node>
+    <node id="&quot;GEORGE BERNARD SHAW&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"George Bernard Shaw is the author of Pygmalion, which My Fair Lady is based on."
+"George Bernard Shaw is the author of Pygmalion, which My Fair Lady is based on."</data>
+      <data key="d2">9948f6dfe4ec40a1e13ec6d7a6414c2f,c32edeaa08be73ecff41a7ede703ae86</data>
+    </node>
+    <node id="&quot;ALAN JAY LERNER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alan Jay Lerner wrote the book and lyrics for My Fair Lady."
+"Alan Jay Lerner wrote the book and lyrics for My Fair Lady."</data>
+      <data key="d2">9948f6dfe4ec40a1e13ec6d7a6414c2f,c32edeaa08be73ecff41a7ede703ae86</data>
+    </node>
+    <node id="&quot;FREDERICK LOEWE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Frederick Loewe composed the music for My Fair Lady."
+"Frederick Loewe composed the music for My Fair Lady."</data>
+      <data key="d2">9948f6dfe4ec40a1e13ec6d7a6414c2f,c32edeaa08be73ecff41a7ede703ae86</data>
+    </node>
+    <node id="&quot;ELIZA DOOLITTLE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Eliza Doolittle is a Cockney flower girl who takes speech lessons from professor Henry Higgins in My Fair Lady."
+"Eliza Doolittle is a Cockney flower girl who takes speech lessons from professor Henry Higgins in My Fair Lady."</data>
+      <data key="d2">9948f6dfe4ec40a1e13ec6d7a6414c2f,c32edeaa08be73ecff41a7ede703ae86</data>
+    </node>
+    <node id="&quot;HENRY HIGGINS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Henry Higgins is a phoneticist and professor who gives speech lessons to Eliza Doolittle in My Fair Lady."
+"Henry Higgins is a phoneticist and professor who gives speech lessons to Eliza Doolittle in My Fair Lady."</data>
+      <data key="d2">9948f6dfe4ec40a1e13ec6d7a6414c2f,c32edeaa08be73ecff41a7ede703ae86</data>
+    </node>
+    <node id="&quot;REX HARRISON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Rex Harrison starred in the original Broadway production of My Fair Lady."
+"Rex Harrison is an actor who stars as Henry Higgins in the film."
+"Rex Harrison starred in the original Broadway and London shows of My Fair Lady."</data>
+      <data key="d2">3c59198429f5d89a9c4ba577ae4f84b3,9948f6dfe4ec40a1e13ec6d7a6414c2f,c32edeaa08be73ecff41a7ede703ae86</data>
+    </node>
+    <node id="&quot;JULIE ANDREWS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Julie Andrews starred in the original London production of My Fair Lady."
+"Julie Andrews starred in the original Broadway and London shows of My Fair Lady."</data>
+      <data key="d2">9948f6dfe4ec40a1e13ec6d7a6414c2f,c32edeaa08be73ecff41a7ede703ae86</data>
+    </node>
+    <node id="&quot;MY FAIR LADY&quot;">
+      <data key="d0" />
+      <data key="d1">
+"My Fair Lady is a film where Marni Nixon dubbed the singing voice of the leading actress."
+</data>
+      <data key="d2">9948f6dfe4ec40a1e13ec6d7a6414c2f,b21bf028825ce3ee92ed965b0d4f9002,c32edeaa08be73ecff41a7ede703ae86</data>
+    </node>
+    <node id="&quot;KEITH MUSTO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Keith Musto is a person who participated in the 1964 Olympics, sailing with Tony Morgan."</data>
+      <data key="d2">ee49e5a34fa8628ec0ef2edcea716849</data>
+    </node>
+    <node id="&quot;ROCHFORD, ESSEX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Rochford, Essex is a location where Tony Morgan was born."</data>
+      <data key="d2">ee49e5a34fa8628ec0ef2edcea716849</data>
+    </node>
+    <node id="&quot;1964 OLYMPICS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 1964 Olympics is an event where Tony Morgan and Keith Musto participated in sailing competition."</data>
+      <data key="d2">ee49e5a34fa8628ec0ef2edcea716849</data>
+    </node>
+    <node id="&quot;TONY MORGAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ee49e5a34fa8628ec0ef2edcea716849</data>
+    </node>
+    <node id="&quot;ROSEMARY HARRIS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Rosemary Harris is an English actress and the mother of Jennifer Anne Ehle."</data>
+      <data key="d2">7f5888acc4b9b39e2a734c0cd175cc72</data>
+    </node>
+    <node id="&quot;JOHN EHLE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"John Ehle is an American author and the father of Jennifer Anne Ehle."</data>
+      <data key="d2">7f5888acc4b9b39e2a734c0cd175cc72</data>
+    </node>
+    <node id="&quot;BAFTA TV AWARD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The BAFTA TV Award is a prestigious award that recognizes excellence in television, which Jennifer Anne Ehle won for her role as Elizabeth Bennet."</data>
+      <data key="d2">7f5888acc4b9b39e2a734c0cd175cc72</data>
+    </node>
+    <node id="&quot;TONY AWARD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Tony Award is a renowned award that honors outstanding performances in theater, which Jennifer Anne Ehle won twice for her work on Broadway."
+"The Tony Award is an award that Audrey Hepburn won for Best Performance by a Leading Actress in a Play in Ondine, and also received a Special Tony Award in 1968."
+"The Tony Award is an award won by Ezio Pinza in 1950 and Paulo Szot in 2008 for their roles in the Broadway production."</data>
+      <data key="d2">7472511979d6b1858526803f42af31c0,763bd2b0942cee6506a3d16174db0c5d,7f5888acc4b9b39e2a734c0cd175cc72</data>
+    </node>
+    <node id="&quot;JENNIFER ANNE EHLE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7f5888acc4b9b39e2a734c0cd175cc72</data>
+    </node>
+    <node id="&quot;ACADEMY AWARD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Academy Award is a prestigious award that Audrey Hepburn won or was nominated for multiple times during her career."
+"The Academy Award is a prestigious award ceremony that recognizes excellence in filmmaking."</data>
+      <data key="d2">5cea2ac409bea32d43dcc12e5e8852f2,7472511979d6b1858526803f42af31c0</data>
+    </node>
+    <node id="&quot;ROMAN HOLIDAY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Roman Holiday is a motion picture for which Audrey Hepburn won the 1954 Academy Award for Best Actress."</data>
+      <data key="d2">7472511979d6b1858526803f42af31c0</data>
+    </node>
+    <node id="&quot;JEAN HERSHOLT HUMANITARIAN AWARD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Jean Hersholt Humanitarian Award is an award that Audrey Hepburn received posthumously in 1993 for her humanitarian work."</data>
+      <data key="d2">7472511979d6b1858526803f42af31c0</data>
+    </node>
+    <node id="&quot;BAFTA AWARDS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The BAFTA Awards are a set of awards that Audrey Hepburn won or was nominated for multiple times, including three wins for Best British Actress in a Leading Role."</data>
+      <data key="d2">7472511979d6b1858526803f42af31c0</data>
+    </node>
+    <node id="&quot;GOLDEN GLOBE AWARD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Golden Globe Award is an award that Audrey Hepburn received nominations for and won twice during her career."</data>
+      <data key="d2">7472511979d6b1858526803f42af31c0</data>
+    </node>
+    <node id="&quot;CECIL B. DEMILLE AWARD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Cecil B. DeMille Award is an award that Audrey Hepburn received in 1990."</data>
+      <data key="d2">7472511979d6b1858526803f42af31c0</data>
+    </node>
+    <node id="&quot;AUDREY HEPBURN&quot;">
+      <data key="d0" />
+      <data key="d1">
+</data>
+      <data key="d2">3c59198429f5d89a9c4ba577ae4f84b3,7472511979d6b1858526803f42af31c0</data>
+    </node>
+    <node id="&quot;LADY OLIVIER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lady Olivier is an alias of Vivien Leigh, used after 1947."</data>
+      <data key="d2">9bc45299c151134356b9f2e638fe1914</data>
+    </node>
+    <node id="&quot;ACADEMY AWARDS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Academy Awards are a prestigious award ceremony where Vivien Leigh won two awards for Best Actress."
+"The Academy Awards are a prestigious award ceremony where the film won eight awards, including Best Picture, Best Actor, and Best Director."</data>
+      <data key="d2">3c59198429f5d89a9c4ba577ae4f84b3,9bc45299c151134356b9f2e638fe1914</data>
+    </node>
+    <node id="&quot;GONE WITH THE WIND&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Gone with the Wind is a film where Vivien Leigh played the iconic role of Scarlett O'Hara and won an Academy Award."</data>
+      <data key="d2">9bc45299c151134356b9f2e638fe1914</data>
+    </node>
+    <node id="&quot;A STREETCAR NAMED DESIRE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"A Streetcar Named Desire is a film and stage play where Vivien Leigh played the role of Blanche DuBois and won an Academy Award."</data>
+      <data key="d2">9bc45299c151134356b9f2e638fe1914</data>
+    </node>
+    <node id="&quot;TOVARICH&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Tovarich is a Broadway musical where Vivien Leigh won a Tony Award for her work."</data>
+      <data key="d2">9bc45299c151134356b9f2e638fe1914</data>
+    </node>
+    <node id="&quot;LONDON'S WEST END&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"London's West End is a location in London where Vivien Leigh performed on stage in 1949."</data>
+      <data key="d2">9bc45299c151134356b9f2e638fe1914</data>
+    </node>
+    <node id="&quot;VIVIEN LEIGH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9bc45299c151134356b9f2e638fe1914</data>
+    </node>
+    <node id="&quot;NORMA VALVERDE&quot;">
+      <data key="d0">"ROLE"</data>
+      <data key="d1">"Norma Valverde is a character played by Keala Joan Settle in the Broadway musical Hands on a Hardbody."</data>
+      <data key="d2">d1b1cac2183a0cb8be89c2af21a1b436</data>
+    </node>
+    <node id="&quot;LETTIE LUTZ&quot;">
+      <data key="d0">"ROLE"</data>
+      <data key="d1">"Lettie Lutz is a bearded lady character portrayed by Keala Joan Settle in the musical film The Greatest Showman."</data>
+      <data key="d2">d1b1cac2183a0cb8be89c2af21a1b436</data>
+    </node>
+    <node id="&quot;HANDS ON A HARDBODY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Hands on a Hardbody is a Broadway musical that ran in 2013, featuring Keala Joan Settle as Norma Valverde."</data>
+      <data key="d2">d1b1cac2183a0cb8be89c2af21a1b436</data>
+    </node>
+    <node id="&quot;THE GREATEST SHOWMAN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Greatest Showman is a musical film released in 2017, starring Keala Joan Settle as Lettie Lutz."</data>
+      <data key="d2">d1b1cac2183a0cb8be89c2af21a1b436</data>
+    </node>
+    <node id="&quot;KEALA JOAN SETTLE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d1b1cac2183a0cb8be89c2af21a1b436</data>
+    </node>
+    <node id="&quot;BROOKLYN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Brooklyn is a location in New York where Florence Eldridge was born."</data>
+      <data key="d2">458cfe4f56e7d2fd7f652a294c336024</data>
+    </node>
+    <node id="&quot;LONG BEACH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Long Beach is a location in California where Florence Eldridge died."</data>
+      <data key="d2">458cfe4f56e7d2fd7f652a294c336024</data>
+    </node>
+    <node id="&quot;CALIFORNIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"California is a state in the United States where Florence Eldridge died."
+"California is the location where the events described in the text took place."</data>
+      <data key="d2">0bca16aeb9d8862f75f2d8199e2b9936,458cfe4f56e7d2fd7f652a294c336024</data>
+    </node>
+    <node id="&quot;TONY AWARD FOR BEST LEAD ACTRESS IN PLAY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Tony Award for Best Lead Actress in Play is an award that Florence Eldridge was nominated for in 1957."</data>
+      <data key="d2">458cfe4f56e7d2fd7f652a294c336024</data>
+    </node>
+    <node id="&quot;FLORENCE ELDRIDGE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">458cfe4f56e7d2fd7f652a294c336024</data>
+    </node>
+    <node id="&quot;STANLEY HOLLOWAY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Stanley Holloway is an actor who plays a supporting role in the film."</data>
+      <data key="d2">3c59198429f5d89a9c4ba577ae4f84b3</data>
+    </node>
+    <node id="&quot;GLADYS COOPER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gladys Cooper is an actress who plays a supporting role in the film."</data>
+      <data key="d2">3c59198429f5d89a9c4ba577ae4f84b3</data>
+    </node>
+    <node id="&quot;WILFRID HYDE-WHITE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Wilfrid Hyde-White is an actor who plays a supporting role in the film."</data>
+      <data key="d2">3c59198429f5d89a9c4ba577ae4f84b3</data>
+    </node>
+    <node id="&quot;AMERICAN FILM INSTITUTE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The American Film Institute is an organization that named the film as one of the greatest American films of all time."</data>
+      <data key="d2">3c59198429f5d89a9c4ba577ae4f84b3</data>
+    </node>
+    <node id="&quot;SCOTT SANDERS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Scott Sanders is a producer who announced the production of a show on Broadway."</data>
+      <data key="d2">8e0b6d069325c565dbf288b10ce54961</data>
+    </node>
+    <node id="&quot;ROY FURMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Roy Furman is a producer who announced the production of a show on Broadway."</data>
+      <data key="d2">8e0b6d069325c565dbf288b10ce54961</data>
+    </node>
+    <node id="&quot;OPRAH WINFREY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Oprah Winfrey is a producer who announced the production of a show on Broadway."</data>
+      <data key="d2">8e0b6d069325c565dbf288b10ce54961</data>
+    </node>
+    <node id="&quot;JENNIFER HUDSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jennifer Hudson made her Broadway debut in the role of Shug."</data>
+      <data key="d2">8e0b6d069325c565dbf288b10ce54961</data>
+    </node>
+    <node id="&quot;DANIELLE BROOKS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Danielle Brooks played the role of Sofia."</data>
+      <data key="d2">8e0b6d069325c565dbf288b10ce54961</data>
+    </node>
+    <node id="&quot;CYNTHIA ERIVO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Cynthia Erivo reprised her role as Celie and won the 2016 Tony Award for Best Actress in a Musical."</data>
+      <data key="d2">8e0b6d069325c565dbf288b10ce54961</data>
+    </node>
+    <node id="&quot;KYLE JEAN-BAPTISTE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kyle Jean-Baptiste was slated to be part of the production but died in August 2015."</data>
+      <data key="d2">8e0b6d069325c565dbf288b10ce54961</data>
+    </node>
+    <node id="&quot;BERNARD B. JACOBS THEATRE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Bernard B. Jacobs Theatre is a location where the show officially opened on December 10, 2015."</data>
+      <data key="d2">8e0b6d069325c565dbf288b10ce54961</data>
+    </node>
+    <node id="&quot;BROADWAY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Broadway is a location where the Menier Chocolate Factory production was mounted."</data>
+      <data key="d2">8e0b6d069325c565dbf288b10ce54961</data>
+    </node>
+    <node id="&quot;MENIER CHOCOLATE FACTORY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8e0b6d069325c565dbf288b10ce54961</data>
+    </node>
+    <node id="&quot;STRICKLAND FOR STATE SENATE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Strickland for State Senate is a candidate-controlled committee associated with Tony Strickland."</data>
+      <data key="d2">0bca16aeb9d8862f75f2d8199e2b9936</data>
+    </node>
+    <node id="&quot;CALIFORNIA FAIR POLITICAL PRACTICES COMMISSION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The California Fair Political Practices Commission is an organization that handed down a decision regarding Tony Strickland and his committee."</data>
+      <data key="d2">0bca16aeb9d8862f75f2d8199e2b9936</data>
+    </node>
+    <node id="&quot;CALIFORNIA STATE SENATE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The California State Senate is a legislative body that Tony Strickland is a member of."</data>
+      <data key="d2">0bca16aeb9d8862f75f2d8199e2b9936</data>
+    </node>
+    <node id="&quot;DECISION BY CALIFORNIA FAIR POLITICAL PRACTICES COMMISSION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The decision by the California Fair Political Practices Commission is an event that resulted in a fine being levied against Tony Strickland and his committee."</data>
+      <data key="d2">0bca16aeb9d8862f75f2d8199e2b9936</data>
+    </node>
+    <node id="&quot;TONY STRICKLAND&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0bca16aeb9d8862f75f2d8199e2b9936</data>
+    </node>
+    <node id="&quot;PHILIP QUAST&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Philip Quast is an actor who won an Olivier Award for Best Actor for his role as Emile in the 2001 London revival of the show."</data>
+      <data key="d2">763bd2b0942cee6506a3d16174db0c5d</data>
+    </node>
+    <node id="&quot;PAULO SZOT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Paulo Szot is an international opera singer who won a Tony Award for his portrayal in the 2008 New York revival."</data>
+      <data key="d2">763bd2b0942cee6506a3d16174db0c5d</data>
+    </node>
+    <node id="&quot;METROPOLITAN OPERA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Metropolitan Opera is an organization associated with Ezio Pinza, a former bass."</data>
+      <data key="d2">763bd2b0942cee6506a3d16174db0c5d</data>
+    </node>
+    <node id="&quot;OLIVIER AWARD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Olivier Award is an award won by Philip Quast in 2001 for his role as Emile in the London revival."</data>
+      <data key="d2">763bd2b0942cee6506a3d16174db0c5d</data>
+    </node>
+    <node id="&quot;EZIO PINZA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">763bd2b0942cee6506a3d16174db0c5d</data>
+    </node>
+    <node id="&quot;ROME&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Rome is a city in Italy where Luna was born."</data>
+      <data key="d2">5be98a6f093865e41ffee2d4459f53bb</data>
+    </node>
+    <node id="&quot;ITALY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Italy is a country in Europe where Luna was born and started her professional golf career."
+"Italy is a country where Michela Belmonte lived and worked as an actress during the Fascist era."</data>
+      <data key="d2">1dbb6a78193ab8a725a708a15c6455c2,5be98a6f093865e41ffee2d4459f53bb</data>
+    </node>
+    <node id="&quot;TENERIFE LADIES OPEN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Tenerife Ladies Open is a golf tournament on the Ladies European Tour that Luna won in 2004."</data>
+      <data key="d2">5be98a6f093865e41ffee2d4459f53bb</data>
+    </node>
+    <node id="&quot;LADIES EUROPEAN TOUR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ladies European Tour is a professional golf tour where Luna competes and won her first event in 2004."</data>
+      <data key="d2">5be98a6f093865e41ffee2d4459f53bb</data>
+    </node>
+    <node id="&quot;LUNA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5be98a6f093865e41ffee2d4459f53bb</data>
+    </node>
+    <node id="&quot;THE KING AND I&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The King and I is a film where Marni Nixon dubbed the singing voice of the leading actress."</data>
+      <data key="d2">b21bf028825ce3ee92ed965b0d4f9002</data>
+    </node>
+    <node id="&quot;WEST SIDE STORY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"West Side Story is a film where Marni Nixon dubbed the singing voice of the leading actress."</data>
+      <data key="d2">b21bf028825ce3ee92ed965b0d4f9002</data>
+    </node>
+    <node id="&quot;MARNI NIXON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b21bf028825ce3ee92ed965b0d4f9002</data>
+    </node>
+    <node id="&quot;EMILY GILMORE&quot;">
+      <data key="d0">"ROLE"</data>
+      <data key="d1">"Emily Gilmore is a character played by Carole Kelly Bishop in the series Gilmore Girls."</data>
+      <data key="d2">775de905c3013bf7d7be0e6da9ee4dad</data>
+    </node>
+    <node id="&quot;MARJORIE HOUSEMAN&quot;">
+      <data key="d0">"ROLE"</data>
+      <data key="d1">"Marjorie Houseman is a character played by Carole Kelly Bishop in the film Dirty Dancing."</data>
+      <data key="d2">775de905c3013bf7d7be0e6da9ee4dad</data>
+    </node>
+    <node id="&quot;SHEILA&quot;">
+      <data key="d0">"ROLE"</data>
+      <data key="d1">"Sheila is a character created by Carole Kelly Bishop in A Chorus Line, for which she won a Tony Award."</data>
+      <data key="d2">775de905c3013bf7d7be0e6da9ee4dad</data>
+    </node>
+    <node id="&quot;FANNY FLOWERS&quot;">
+      <data key="d0">"ROLE"</data>
+      <data key="d1">"Fanny Flowers is a character played by Carole Kelly Bishop in the ABC Family series Bunheads."</data>
+      <data key="d2">775de905c3013bf7d7be0e6da9ee4dad</data>
+    </node>
+    <node id="&quot;GILMORE GIRLS&quot;">
+      <data key="d0">"SERIES"</data>
+      <data key="d1">"Gilmore Girls is a TV series featuring Carole Kelly Bishop as Emily Gilmore."</data>
+      <data key="d2">775de905c3013bf7d7be0e6da9ee4dad</data>
+    </node>
+    <node id="&quot;DIRTY DANCING&quot;">
+      <data key="d0">"FILM"</data>
+      <data key="d1">"Dirty Dancing is a film featuring Carole Kelly Bishop as Marjorie Houseman."</data>
+      <data key="d2">775de905c3013bf7d7be0e6da9ee4dad</data>
+    </node>
+    <node id="&quot;A CHORUS LINE&quot;">
+      <data key="d0">"MUSICAL"</data>
+      <data key="d1">"A Chorus Line is a musical in which Carole Kelly Bishop created the role of Sheila and won a Tony Award."</data>
+      <data key="d2">775de905c3013bf7d7be0e6da9ee4dad</data>
+    </node>
+    <node id="&quot;BUNHEADS&quot;">
+      <data key="d0">"SERIES"</data>
+      <data key="d1">"Bunheads is an ABC Family series featuring Carole Kelly Bishop as Fanny Flowers."</data>
+      <data key="d2">775de905c3013bf7d7be0e6da9ee4dad</data>
+    </node>
+    <node id="&quot;CAROLE KELLY BISHOP&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">775de905c3013bf7d7be0e6da9ee4dad</data>
+    </node>
+    <node id="&quot;METRO PICTURES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Metro Pictures is a production and distribution company involved in the creation of Old Lady 31."</data>
+      <data key="d2">f1a77883848117d8187a288e9f7423cf</data>
+    </node>
+    <node id="&quot;JOHN INCE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"John Ince is the director of Old Lady 31."</data>
+      <data key="d2">f1a77883848117d8187a288e9f7423cf</data>
+    </node>
+    <node id="&quot;LOUISE FORSSLUND&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Louise Forsslund is the author of a novel that was adapted into a play and later turned into the film Old Lady 31."</data>
+      <data key="d2">f1a77883848117d8187a288e9f7423cf</data>
+    </node>
+    <node id="&quot;RACHEL CROTHERS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Rachel Crothers is the playwright who adapted Louise Forsslund's novel into a stage play."</data>
+      <data key="d2">f1a77883848117d8187a288e9f7423cf</data>
+    </node>
+    <node id="&quot;EMMA DUNN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Emma Dunn is an actress who starred in Old Lady 31, reprising her role from the 1916 stage production."</data>
+      <data key="d2">f1a77883848117d8187a288e9f7423cf</data>
+    </node>
+    <node id="&quot;OLD LADY 31&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f1a77883848117d8187a288e9f7423cf</data>
+    </node>
+    <node id="&quot;TERESA WRIGHT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Teresa Wright is an actress who was nominated for Best Actress and won Best Supporting Actress in 1942."</data>
+      <data key="d2">5cea2ac409bea32d43dcc12e5e8852f2</data>
+    </node>
+    <node id="&quot;BARRY FITZGERALD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Barry Fitzgerald is an actor who was nominated for Best Actor and won Best Supporting Actor in 1944."</data>
+      <data key="d2">5cea2ac409bea32d43dcc12e5e8852f2</data>
+    </node>
+    <node id="&quot;JESSICA LANGE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jessica Lange is an actress who was nominated for Best Actress and won Best Supporting Actress in 1982."</data>
+      <data key="d2">5cea2ac409bea32d43dcc12e5e8852f2</data>
+    </node>
+    <node id="&quot;SIGOURNEY WEAVER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sigourney Weaver is an actress who was nominated for Best Actress and Best Supporting Actress in 1988."</data>
+      <data key="d2">5cea2ac409bea32d43dcc12e5e8852f2</data>
+    </node>
+    <node id="&quot;AL PACINO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Al Pacino is an actor who won Best Actor and was nominated for Best Supporting Actor in 1992."</data>
+      <data key="d2">5cea2ac409bea32d43dcc12e5e8852f2</data>
+    </node>
+    <node id="&quot;HOLLY HUNTER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Holly Hunter is an actress who won Best Actress and was nominated for Best Supporting Actress in 1993."</data>
+      <data key="d2">5cea2ac409bea32d43dcc12e5e8852f2</data>
+    </node>
+    <node id="&quot;EMMA THOMPSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Emma Thompson is an actress who was nominated for Best Actress and Best Supporting Actress in 1993."</data>
+      <data key="d2">5cea2ac409bea32d43dcc12e5e8852f2</data>
+    </node>
+    <node id="&quot;JULIANNE MOORE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Julianne Moore is an actress who was nominated for Best Actress and Best Supporting Actress in 2002."</data>
+      <data key="d2">5cea2ac409bea32d43dcc12e5e8852f2</data>
+    </node>
+    <node id="&quot;JAMIE FOXX&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jamie Foxx is an actor who won Best Actor and was nominated for Best Supporting Actor in 2005."</data>
+      <data key="d2">5cea2ac409bea32d43dcc12e5e8852f2</data>
+    </node>
+    <node id="&quot;CATE BLANCHETT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Cate Blanchett is an actress who was nominated for Best Actress and Best Supporting Actress in 2007."</data>
+      <data key="d2">5cea2ac409bea32d43dcc12e5e8852f2</data>
+    </node>
+    <node id="&quot;FAY BAINTER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5cea2ac409bea32d43dcc12e5e8852f2</data>
+    </node>
+    <node id="&quot;MARIA DENIS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Maria Denis was an Italian actress and the older sister of Michela Belmonte."</data>
+      <data key="d2">1dbb6a78193ab8a725a708a15c6455c2</data>
+    </node>
+    <node id="&quot;ROBERTO ROSSELLINI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Roberto Rossellini was an Italian film director who worked with Michela Belmonte on the film 'A Pilot Returns'."</data>
+      <data key="d2">1dbb6a78193ab8a725a708a15c6455c2</data>
+    </node>
+    <node id="&quot;BENITO MUSSOLINI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Benito Mussolini was the leader of the Fascist regime in Italy, which was overthrown in 1943."</data>
+      <data key="d2">1dbb6a78193ab8a725a708a15c6455c2</data>
+    </node>
+    <node id="&quot;THE OVERTHROW OF BENITO MUSSOLINI'S REGIME&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The overthrow of Benito Mussolini's regime in 1943 marked the end of the Fascist era in Italy."</data>
+      <data key="d2">1dbb6a78193ab8a725a708a15c6455c2</data>
+    </node>
+    <node id="&quot;MICHELA BELMONTE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1dbb6a78193ab8a725a708a15c6455c2</data>
+    </node>
+    <node id="&quot;THAT FACE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"That Face is a Broadway theatre production that Cristin Milioti has worked in."</data>
+      <data key="d2">4f495e69760de6f66c872d35f698c217</data>
+    </node>
+    <node id="&quot;ONCE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Once is a Tony Award-winning musical that Cristin Milioti has worked in."</data>
+      <data key="d2">4f495e69760de6f66c872d35f698c217</data>
+    </node>
+    <node id="&quot;HOW I MET YOUR MOTHER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"How I Met Your Mother is a sitcom that Cristin Milioti played the titular Mother in from 2013 to 2014."</data>
+      <data key="d2">4f495e69760de6f66c872d35f698c217</data>
+    </node>
+    <node id="&quot;THE WOLF OF WALL STREET&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Wolf of Wall Street is a 2013 film that Cristin Milioti played Teresa Petrillo Belfort in."</data>
+      <data key="d2">4f495e69760de6f66c872d35f698c217</data>
+    </node>
+    <node id="&quot;FARGO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Fargo is a TV series that Cristin Milioti played Betsy Solverson in the second season of."</data>
+      <data key="d2">4f495e69760de6f66c872d35f698c217</data>
+    </node>
+    <node id="&quot;CRISTIN MILIOTI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4f495e69760de6f66c872d35f698c217</data>
+    </node>
+    <edge source="&quot;THE AVENGERS&quot;" target="&quot;DAME ENID DIANA ELIZABETH RIGG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dame Enid Diana Elizabeth Rigg played the role of Emma Peel in The Avengers."</data>
+      <data key="d5">abc98b397395cbde22d0806afe02dee6</data>
+    </edge>
+    <edge source="&quot;GAME OF THRONES&quot;" target="&quot;DAME ENID DIANA ELIZABETH RIGG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dame Enid Diana Elizabeth Rigg played the role of Olenna Tyrell in Game of Thrones."</data>
+      <data key="d5">abc98b397395cbde22d0806afe02dee6</data>
+    </edge>
+    <edge source="&quot;MEDEA&quot;" target="&quot;DAME ENID DIANA ELIZABETH RIGG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dame Enid Diana Elizabeth Rigg won the 1994 Tony Award for Best Actress in a Play for her performance in Medea."</data>
+      <data key="d5">abc98b397395cbde22d0806afe02dee6</data>
+    </edge>
+    <edge source="&quot;MEDEA&quot;" target="&quot;LONDON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Medea was performed in London, where Dame Enid Diana Elizabeth Rigg played the title role."</data>
+      <data key="d5">abc98b397395cbde22d0806afe02dee6</data>
+    </edge>
+    <edge source="&quot;NEW YORK&quot;" target="&quot;FLORENCE ELDRIDGE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Florence Eldridge was born in New York."</data>
+      <data key="d5">458cfe4f56e7d2fd7f652a294c336024</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."</data>
+      <data key="d5">0bca16aeb9d8862f75f2d8199e2b9936,1dbb6a78193ab8a725a708a15c6455c2,3c59198429f5d89a9c4ba577ae4f84b3,458cfe4f56e7d2fd7f652a294c336024,4f495e69760de6f66c872d35f698c217,5be98a6f093865e41ffee2d4459f53bb,5cea2ac409bea32d43dcc12e5e8852f2,7472511979d6b1858526803f42af31c0,763bd2b0942cee6506a3d16174db0c5d,775de905c3013bf7d7be0e6da9ee4dad,7f5888acc4b9b39e2a734c0cd175cc72,8e0b6d069325c565dbf288b10ce54961,9948f6dfe4ec40a1e13ec6d7a6414c2f,9bc45299c151134356b9f2e638fe1914,abc98b397395cbde22d0806afe02dee6,b21bf028825ce3ee92ed965b0d4f9002,c32edeaa08be73ecff41a7ede703ae86,d1b1cac2183a0cb8be89c2af21a1b436,ee49e5a34fa8628ec0ef2edcea716849,f1a77883848117d8187a288e9f7423cf</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."</data>
+      <data key="d5">0bca16aeb9d8862f75f2d8199e2b9936,1dbb6a78193ab8a725a708a15c6455c2,3c59198429f5d89a9c4ba577ae4f84b3,458cfe4f56e7d2fd7f652a294c336024,4f495e69760de6f66c872d35f698c217,5be98a6f093865e41ffee2d4459f53bb,5cea2ac409bea32d43dcc12e5e8852f2,7472511979d6b1858526803f42af31c0,763bd2b0942cee6506a3d16174db0c5d,775de905c3013bf7d7be0e6da9ee4dad,7f5888acc4b9b39e2a734c0cd175cc72,8e0b6d069325c565dbf288b10ce54961,9948f6dfe4ec40a1e13ec6d7a6414c2f,9bc45299c151134356b9f2e638fe1914,abc98b397395cbde22d0806afe02dee6,b21bf028825ce3ee92ed965b0d4f9002,c32edeaa08be73ecff41a7ede703ae86,d1b1cac2183a0cb8be89c2af21a1b436,ee49e5a34fa8628ec0ef2edcea716849,f1a77883848117d8187a288e9f7423cf</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."</data>
+      <data key="d5">0bca16aeb9d8862f75f2d8199e2b9936,1dbb6a78193ab8a725a708a15c6455c2,3c59198429f5d89a9c4ba577ae4f84b3,458cfe4f56e7d2fd7f652a294c336024,4f495e69760de6f66c872d35f698c217,5be98a6f093865e41ffee2d4459f53bb,5cea2ac409bea32d43dcc12e5e8852f2,7472511979d6b1858526803f42af31c0,763bd2b0942cee6506a3d16174db0c5d,775de905c3013bf7d7be0e6da9ee4dad,7f5888acc4b9b39e2a734c0cd175cc72,8e0b6d069325c565dbf288b10ce54961,9948f6dfe4ec40a1e13ec6d7a6414c2f,9bc45299c151134356b9f2e638fe1914,abc98b397395cbde22d0806afe02dee6,b21bf028825ce3ee92ed965b0d4f9002,c32edeaa08be73ecff41a7ede703ae86,d1b1cac2183a0cb8be89c2af21a1b436,ee49e5a34fa8628ec0ef2edcea716849,f1a77883848117d8187a288e9f7423cf</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."</data>
+      <data key="d5">0bca16aeb9d8862f75f2d8199e2b9936,1dbb6a78193ab8a725a708a15c6455c2,3c59198429f5d89a9c4ba577ae4f84b3,458cfe4f56e7d2fd7f652a294c336024,4f495e69760de6f66c872d35f698c217,5be98a6f093865e41ffee2d4459f53bb,5cea2ac409bea32d43dcc12e5e8852f2,7472511979d6b1858526803f42af31c0,763bd2b0942cee6506a3d16174db0c5d,775de905c3013bf7d7be0e6da9ee4dad,7f5888acc4b9b39e2a734c0cd175cc72,8e0b6d069325c565dbf288b10ce54961,9948f6dfe4ec40a1e13ec6d7a6414c2f,9bc45299c151134356b9f2e638fe1914,abc98b397395cbde22d0806afe02dee6,b21bf028825ce3ee92ed965b0d4f9002,c32edeaa08be73ecff41a7ede703ae86,d1b1cac2183a0cb8be89c2af21a1b436,ee49e5a34fa8628ec0ef2edcea716849,f1a77883848117d8187a288e9f7423cf</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."</data>
+      <data key="d5">0bca16aeb9d8862f75f2d8199e2b9936,1dbb6a78193ab8a725a708a15c6455c2,3c59198429f5d89a9c4ba577ae4f84b3,458cfe4f56e7d2fd7f652a294c336024,4f495e69760de6f66c872d35f698c217,5be98a6f093865e41ffee2d4459f53bb,5cea2ac409bea32d43dcc12e5e8852f2,7472511979d6b1858526803f42af31c0,763bd2b0942cee6506a3d16174db0c5d,775de905c3013bf7d7be0e6da9ee4dad,7f5888acc4b9b39e2a734c0cd175cc72,8e0b6d069325c565dbf288b10ce54961,9948f6dfe4ec40a1e13ec6d7a6414c2f,9bc45299c151134356b9f2e638fe1914,abc98b397395cbde22d0806afe02dee6,b21bf028825ce3ee92ed965b0d4f9002,c32edeaa08be73ecff41a7ede703ae86,d1b1cac2183a0cb8be89c2af21a1b436,ee49e5a34fa8628ec0ef2edcea716849,f1a77883848117d8187a288e9f7423cf</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."</data>
+      <data key="d5">0bca16aeb9d8862f75f2d8199e2b9936,1dbb6a78193ab8a725a708a15c6455c2,3c59198429f5d89a9c4ba577ae4f84b3,458cfe4f56e7d2fd7f652a294c336024,4f495e69760de6f66c872d35f698c217,5be98a6f093865e41ffee2d4459f53bb,5cea2ac409bea32d43dcc12e5e8852f2,7472511979d6b1858526803f42af31c0,763bd2b0942cee6506a3d16174db0c5d,775de905c3013bf7d7be0e6da9ee4dad,7f5888acc4b9b39e2a734c0cd175cc72,8e0b6d069325c565dbf288b10ce54961,9948f6dfe4ec40a1e13ec6d7a6414c2f,9bc45299c151134356b9f2e638fe1914,abc98b397395cbde22d0806afe02dee6,b21bf028825ce3ee92ed965b0d4f9002,c32edeaa08be73ecff41a7ede703ae86,d1b1cac2183a0cb8be89c2af21a1b436,ee49e5a34fa8628ec0ef2edcea716849,f1a77883848117d8187a288e9f7423cf</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">0bca16aeb9d8862f75f2d8199e2b9936,1dbb6a78193ab8a725a708a15c6455c2,3c59198429f5d89a9c4ba577ae4f84b3,458cfe4f56e7d2fd7f652a294c336024,4f495e69760de6f66c872d35f698c217,5be98a6f093865e41ffee2d4459f53bb,5cea2ac409bea32d43dcc12e5e8852f2,7472511979d6b1858526803f42af31c0,763bd2b0942cee6506a3d16174db0c5d,775de905c3013bf7d7be0e6da9ee4dad,7f5888acc4b9b39e2a734c0cd175cc72,8e0b6d069325c565dbf288b10ce54961,9948f6dfe4ec40a1e13ec6d7a6414c2f,9bc45299c151134356b9f2e638fe1914,abc98b397395cbde22d0806afe02dee6,b21bf028825ce3ee92ed965b0d4f9002,c32edeaa08be73ecff41a7ede703ae86,d1b1cac2183a0cb8be89c2af21a1b436,ee49e5a34fa8628ec0ef2edcea716849,f1a77883848117d8187a288e9f7423cf</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."</data>
+      <data key="d5">0bca16aeb9d8862f75f2d8199e2b9936,1dbb6a78193ab8a725a708a15c6455c2,3c59198429f5d89a9c4ba577ae4f84b3,458cfe4f56e7d2fd7f652a294c336024,4f495e69760de6f66c872d35f698c217,5be98a6f093865e41ffee2d4459f53bb,5cea2ac409bea32d43dcc12e5e8852f2,7472511979d6b1858526803f42af31c0,763bd2b0942cee6506a3d16174db0c5d,775de905c3013bf7d7be0e6da9ee4dad,7f5888acc4b9b39e2a734c0cd175cc72,8e0b6d069325c565dbf288b10ce54961,9948f6dfe4ec40a1e13ec6d7a6414c2f,9bc45299c151134356b9f2e638fe1914,abc98b397395cbde22d0806afe02dee6,b21bf028825ce3ee92ed965b0d4f9002,c32edeaa08be73ecff41a7ede703ae86,d1b1cac2183a0cb8be89c2af21a1b436,ee49e5a34fa8628ec0ef2edcea716849,f1a77883848117d8187a288e9f7423cf</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">0bca16aeb9d8862f75f2d8199e2b9936,1dbb6a78193ab8a725a708a15c6455c2,3c59198429f5d89a9c4ba577ae4f84b3,458cfe4f56e7d2fd7f652a294c336024,4f495e69760de6f66c872d35f698c217,5be98a6f093865e41ffee2d4459f53bb,5cea2ac409bea32d43dcc12e5e8852f2,7472511979d6b1858526803f42af31c0,763bd2b0942cee6506a3d16174db0c5d,775de905c3013bf7d7be0e6da9ee4dad,7f5888acc4b9b39e2a734c0cd175cc72,8e0b6d069325c565dbf288b10ce54961,9948f6dfe4ec40a1e13ec6d7a6414c2f,9bc45299c151134356b9f2e638fe1914,abc98b397395cbde22d0806afe02dee6,b21bf028825ce3ee92ed965b0d4f9002,c32edeaa08be73ecff41a7ede703ae86,d1b1cac2183a0cb8be89c2af21a1b436,ee49e5a34fa8628ec0ef2edcea716849,f1a77883848117d8187a288e9f7423cf</data>
+    </edge>
+    <edge source="&quot;GEORGE BERNARD SHAW&quot;" target="&quot;MY FAIR LADY&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"My Fair Lady is based on George Bernard Shaw's Pygmalion."
+"My Fair Lady is based on George Bernard Shaw's Pygmalion."</data>
+      <data key="d5">9948f6dfe4ec40a1e13ec6d7a6414c2f,c32edeaa08be73ecff41a7ede703ae86</data>
+    </edge>
+    <edge source="&quot;ALAN JAY LERNER&quot;" target="&quot;MY FAIR LADY&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Alan Jay Lerner wrote the book and lyrics for My Fair Lady."
+"Alan Jay Lerner wrote the book and lyrics for My Fair Lady."</data>
+      <data key="d5">9948f6dfe4ec40a1e13ec6d7a6414c2f,c32edeaa08be73ecff41a7ede703ae86</data>
+    </edge>
+    <edge source="&quot;FREDERICK LOEWE&quot;" target="&quot;MY FAIR LADY&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Frederick Loewe composed the music for My Fair Lady."
+"Frederick Loewe composed the music for My Fair Lady."</data>
+      <data key="d5">9948f6dfe4ec40a1e13ec6d7a6414c2f,c32edeaa08be73ecff41a7ede703ae86</data>
+    </edge>
+    <edge source="&quot;ELIZA DOOLITTLE&quot;" target="&quot;HENRY HIGGINS&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Eliza Doolittle takes speech lessons from professor Henry Higgins in My Fair Lady."
+"Eliza Doolittle takes speech lessons from professor Henry Higgins in My Fair Lady."</data>
+      <data key="d5">9948f6dfe4ec40a1e13ec6d7a6414c2f,c32edeaa08be73ecff41a7ede703ae86</data>
+    </edge>
+    <edge source="&quot;REX HARRISON&quot;" target="&quot;MY FAIR LADY&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Rex Harrison starred in the original Broadway production of My Fair Lady."
+"Rex Harrison starred in the original Broadway and London shows of My Fair Lady."</data>
+      <data key="d5">9948f6dfe4ec40a1e13ec6d7a6414c2f,c32edeaa08be73ecff41a7ede703ae86</data>
+    </edge>
+    <edge source="&quot;REX HARRISON&quot;" target="&quot;AUDREY HEPBURN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Audrey Hepburn and Rex Harrison star together in the film as Eliza Doolittle and Henry Higgins."</data>
+      <data key="d5">3c59198429f5d89a9c4ba577ae4f84b3</data>
+    </edge>
+    <edge source="&quot;JULIE ANDREWS&quot;" target="&quot;MY FAIR LADY&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Julie Andrews starred in the original London production of My Fair Lady."
+"Julie Andrews starred in the original Broadway and London shows of My Fair Lady."</data>
+      <data key="d5">9948f6dfe4ec40a1e13ec6d7a6414c2f,c32edeaa08be73ecff41a7ede703ae86</data>
+    </edge>
+    <edge source="&quot;MY FAIR LADY&quot;" target="&quot;MARNI NIXON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marni Nixon dubbed the singing voice of the leading actress in My Fair Lady."</data>
+      <data key="d5">b21bf028825ce3ee92ed965b0d4f9002</data>
+    </edge>
+    <edge source="&quot;KEITH MUSTO&quot;" target="&quot;TONY MORGAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tony Morgan sailed with Keith Musto in the Flying Dutchman Lady C at the 1964 Olympics."</data>
+      <data key="d5">ee49e5a34fa8628ec0ef2edcea716849</data>
+    </edge>
+    <edge source="&quot;ROCHFORD, ESSEX&quot;" target="&quot;TONY MORGAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tony Morgan was born in Rochford, Essex."</data>
+      <data key="d5">ee49e5a34fa8628ec0ef2edcea716849</data>
+    </edge>
+    <edge source="&quot;1964 OLYMPICS&quot;" target="&quot;TONY MORGAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tony Morgan participated in the 1964 Olympics, winning a silver medal."</data>
+      <data key="d5">ee49e5a34fa8628ec0ef2edcea716849</data>
+    </edge>
+    <edge source="&quot;ROSEMARY HARRIS&quot;" target="&quot;JENNIFER ANNE EHLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jennifer Anne Ehle is the daughter of Rosemary Harris."</data>
+      <data key="d5">7f5888acc4b9b39e2a734c0cd175cc72</data>
+    </edge>
+    <edge source="&quot;JOHN EHLE&quot;" target="&quot;JENNIFER ANNE EHLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jennifer Anne Ehle is the daughter of John Ehle."</data>
+      <data key="d5">7f5888acc4b9b39e2a734c0cd175cc72</data>
+    </edge>
+    <edge source="&quot;BAFTA TV AWARD&quot;" target="&quot;JENNIFER ANNE EHLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jennifer Anne Ehle won the BAFTA TV Award for Best Actress for her role as Elizabeth Bennet."</data>
+      <data key="d5">7f5888acc4b9b39e2a734c0cd175cc72</data>
+    </edge>
+    <edge source="&quot;TONY AWARD&quot;" target="&quot;AUDREY HEPBURN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Audrey Hepburn won a Tony Award for Best Performance by a Leading Actress in a Play and also received a Special Tony Award."</data>
+      <data key="d5">7472511979d6b1858526803f42af31c0</data>
+    </edge>
+    <edge source="&quot;TONY AWARD&quot;" target="&quot;PAULO SZOT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Paulo Szot won a Tony Award for his portrayal in the 2008 New York revival."</data>
+      <data key="d5">763bd2b0942cee6506a3d16174db0c5d</data>
+    </edge>
+    <edge source="&quot;TONY AWARD&quot;" target="&quot;EZIO PINZA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ezio Pinza won the Tony Award for Best Actor in 1950."</data>
+      <data key="d5">763bd2b0942cee6506a3d16174db0c5d</data>
+    </edge>
+    <edge source="&quot;ACADEMY AWARD&quot;" target="&quot;AUDREY HEPBURN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Audrey Hepburn was nominated for or won multiple Academy Awards during her career."</data>
+      <data key="d5">7472511979d6b1858526803f42af31c0</data>
+    </edge>
+    <edge source="&quot;ACADEMY AWARD&quot;" target="&quot;TERESA WRIGHT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Teresa Wright won the Academy Award for Best Supporting Actress in 1942."</data>
+      <data key="d5">5cea2ac409bea32d43dcc12e5e8852f2</data>
+    </edge>
+    <edge source="&quot;ACADEMY AWARD&quot;" target="&quot;BARRY FITZGERALD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Barry Fitzgerald won the Academy Award for Best Supporting Actor in 1944."</data>
+      <data key="d5">5cea2ac409bea32d43dcc12e5e8852f2</data>
+    </edge>
+    <edge source="&quot;ACADEMY AWARD&quot;" target="&quot;JESSICA LANGE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jessica Lange won the Academy Award for Best Supporting Actress in 1982."</data>
+      <data key="d5">5cea2ac409bea32d43dcc12e5e8852f2</data>
+    </edge>
+    <edge source="&quot;ACADEMY AWARD&quot;" target="&quot;SIGOURNEY WEAVER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sigourney Weaver was nominated for two Academy Awards in 1988."</data>
+      <data key="d5">5cea2ac409bea32d43dcc12e5e8852f2</data>
+    </edge>
+    <edge source="&quot;ACADEMY AWARD&quot;" target="&quot;AL PACINO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Al Pacino won the Academy Award for Best Actor and was nominated for Best Supporting Actor in 1992."</data>
+      <data key="d5">5cea2ac409bea32d43dcc12e5e8852f2</data>
+    </edge>
+    <edge source="&quot;ACADEMY AWARD&quot;" target="&quot;HOLLY HUNTER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Holly Hunter won the Academy Award for Best Actress and was nominated for Best Supporting Actress in 1993."</data>
+      <data key="d5">5cea2ac409bea32d43dcc12e5e8852f2</data>
+    </edge>
+    <edge source="&quot;ACADEMY AWARD&quot;" target="&quot;EMMA THOMPSON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Emma Thompson was nominated for two Academy Awards in 1993."</data>
+      <data key="d5">5cea2ac409bea32d43dcc12e5e8852f2</data>
+    </edge>
+    <edge source="&quot;ACADEMY AWARD&quot;" target="&quot;JULIANNE MOORE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Julianne Moore was nominated for two Academy Awards in 2002."</data>
+      <data key="d5">5cea2ac409bea32d43dcc12e5e8852f2</data>
+    </edge>
+    <edge source="&quot;ACADEMY AWARD&quot;" target="&quot;JAMIE FOXX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jamie Foxx won the Academy Award for Best Actor and was nominated for Best Supporting Actor in 2005."</data>
+      <data key="d5">5cea2ac409bea32d43dcc12e5e8852f2</data>
+    </edge>
+    <edge source="&quot;ACADEMY AWARD&quot;" target="&quot;CATE BLANCHETT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cate Blanchett was nominated for two Academy Awards in 2007."</data>
+      <data key="d5">5cea2ac409bea32d43dcc12e5e8852f2</data>
+    </edge>
+    <edge source="&quot;ACADEMY AWARD&quot;" target="&quot;FAY BAINTER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Fay Bainter won the Academy Award for Best Supporting Actress in 1938."</data>
+      <data key="d5">5cea2ac409bea32d43dcc12e5e8852f2</data>
+    </edge>
+    <edge source="&quot;ROMAN HOLIDAY&quot;" target="&quot;AUDREY HEPBURN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Audrey Hepburn starred in the motion picture Roman Holiday, for which she won an Academy Award."</data>
+      <data key="d5">7472511979d6b1858526803f42af31c0</data>
+    </edge>
+    <edge source="&quot;JEAN HERSHOLT HUMANITARIAN AWARD&quot;" target="&quot;AUDREY HEPBURN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Audrey Hepburn received the Jean Hersholt Humanitarian Award posthumously in 1993."</data>
+      <data key="d5">7472511979d6b1858526803f42af31c0</data>
+    </edge>
+    <edge source="&quot;BAFTA AWARDS&quot;" target="&quot;AUDREY HEPBURN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Audrey Hepburn won or was nominated for multiple BAFTA Awards during her career."</data>
+      <data key="d5">7472511979d6b1858526803f42af31c0</data>
+    </edge>
+    <edge source="&quot;GOLDEN GLOBE AWARD&quot;" target="&quot;AUDREY HEPBURN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Audrey Hepburn received nominations for and won multiple Golden Globe Awards during her career."</data>
+      <data key="d5">7472511979d6b1858526803f42af31c0</data>
+    </edge>
+    <edge source="&quot;CECIL B. DEMILLE AWARD&quot;" target="&quot;AUDREY HEPBURN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Audrey Hepburn received the Cecil B. DeMille Award in 1990."</data>
+      <data key="d5">7472511979d6b1858526803f42af31c0</data>
+    </edge>
+    <edge source="&quot;AUDREY HEPBURN&quot;" target="&quot;ACADEMY AWARDS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Audrey Hepburn was part of the film that won eight Academy Awards."</data>
+      <data key="d5">3c59198429f5d89a9c4ba577ae4f84b3</data>
+    </edge>
+    <edge source="&quot;ACADEMY AWARDS&quot;" target="&quot;VIVIEN LEIGH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Vivien Leigh won two Academy Awards for Best Actress."</data>
+      <data key="d5">9bc45299c151134356b9f2e638fe1914</data>
+    </edge>
+    <edge source="&quot;ACADEMY AWARDS&quot;" target="&quot;AMERICAN FILM INSTITUTE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The American Film Institute recognized the film's achievement at the Academy Awards."</data>
+      <data key="d5">3c59198429f5d89a9c4ba577ae4f84b3</data>
+    </edge>
+    <edge source="&quot;GONE WITH THE WIND&quot;" target="&quot;VIVIEN LEIGH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Vivien Leigh played the iconic role of Scarlett O'Hara in Gone with the Wind."</data>
+      <data key="d5">9bc45299c151134356b9f2e638fe1914</data>
+    </edge>
+    <edge source="&quot;A STREETCAR NAMED DESIRE&quot;" target="&quot;VIVIEN LEIGH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Vivien Leigh played the role of Blanche DuBois in A Streetcar Named Desire."</data>
+      <data key="d5">9bc45299c151134356b9f2e638fe1914</data>
+    </edge>
+    <edge source="&quot;TOVARICH&quot;" target="&quot;VIVIEN LEIGH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Vivien Leigh won a Tony Award for her work in Tovarich."</data>
+      <data key="d5">9bc45299c151134356b9f2e638fe1914</data>
+    </edge>
+    <edge source="&quot;NORMA VALVERDE&quot;" target="&quot;KEALA JOAN SETTLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Keala Joan Settle originated the role of Norma Valverde in Hands on a Hardbody."</data>
+      <data key="d5">d1b1cac2183a0cb8be89c2af21a1b436</data>
+    </edge>
+    <edge source="&quot;LETTIE LUTZ&quot;" target="&quot;KEALA JOAN SETTLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Keala Joan Settle portrayed Lettie Lutz in The Greatest Showman."</data>
+      <data key="d5">d1b1cac2183a0cb8be89c2af21a1b436</data>
+    </edge>
+    <edge source="&quot;HANDS ON A HARDBODY&quot;" target="&quot;KEALA JOAN SETTLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Keala Joan Settle was involved in the Broadway musical Hands on a Hardbody."</data>
+      <data key="d5">d1b1cac2183a0cb8be89c2af21a1b436</data>
+    </edge>
+    <edge source="&quot;THE GREATEST SHOWMAN&quot;" target="&quot;KEALA JOAN SETTLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Keala Joan Settle starred in The Greatest Showman, singing the award-winning song 'This Is Me'."</data>
+      <data key="d5">d1b1cac2183a0cb8be89c2af21a1b436</data>
+    </edge>
+    <edge source="&quot;BROOKLYN&quot;" target="&quot;FLORENCE ELDRIDGE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Florence Eldridge was born in Brooklyn."</data>
+      <data key="d5">458cfe4f56e7d2fd7f652a294c336024</data>
+    </edge>
+    <edge source="&quot;LONG BEACH&quot;" target="&quot;FLORENCE ELDRIDGE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Florence Eldridge died in Long Beach."</data>
+      <data key="d5">458cfe4f56e7d2fd7f652a294c336024</data>
+    </edge>
+    <edge source="&quot;CALIFORNIA&quot;" target="&quot;FLORENCE ELDRIDGE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Florence Eldridge died in California."</data>
+      <data key="d5">458cfe4f56e7d2fd7f652a294c336024</data>
+    </edge>
+    <edge source="&quot;TONY AWARD FOR BEST LEAD ACTRESS IN PLAY&quot;" target="&quot;FLORENCE ELDRIDGE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Florence Eldridge was nominated for the Tony Award for Best Lead Actress in Play."</data>
+      <data key="d5">458cfe4f56e7d2fd7f652a294c336024</data>
+    </edge>
+    <edge source="&quot;SCOTT SANDERS&quot;" target="&quot;MENIER CHOCOLATE FACTORY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Scott Sanders is a producer of the Menier Chocolate Factory production."</data>
+      <data key="d5">8e0b6d069325c565dbf288b10ce54961</data>
+    </edge>
+    <edge source="&quot;JENNIFER HUDSON&quot;" target="&quot;BROADWAY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jennifer Hudson made her Broadway debut."</data>
+      <data key="d5">8e0b6d069325c565dbf288b10ce54961</data>
+    </edge>
+    <edge source="&quot;CYNTHIA ERIVO&quot;" target="&quot;BERNARD B. JACOBS THEATRE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cynthia Erivo performed at the Bernard B. Jacobs Theatre, winning the 2016 Tony Award for Best Actress in a Musical."</data>
+      <data key="d5">8e0b6d069325c565dbf288b10ce54961</data>
+    </edge>
+    <edge source="&quot;STRICKLAND FOR STATE SENATE&quot;" target="&quot;TONY STRICKLAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tony Strickland has a candidate-controlled committee called Strickland for State Senate."</data>
+      <data key="d5">0bca16aeb9d8862f75f2d8199e2b9936</data>
+    </edge>
+    <edge source="&quot;CALIFORNIA FAIR POLITICAL PRACTICES COMMISSION&quot;" target="&quot;DECISION BY CALIFORNIA FAIR POLITICAL PRACTICES COMMISSION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The California Fair Political Practices Commission handed down the decision."</data>
+      <data key="d5">0bca16aeb9d8862f75f2d8199e2b9936</data>
+    </edge>
+    <edge source="&quot;CALIFORNIA STATE SENATE&quot;" target="&quot;TONY STRICKLAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tony Strickland is a member of the California State Senate."</data>
+      <data key="d5">0bca16aeb9d8862f75f2d8199e2b9936</data>
+    </edge>
+    <edge source="&quot;DECISION BY CALIFORNIA FAIR POLITICAL PRACTICES COMMISSION&quot;" target="&quot;TONY STRICKLAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tony Strickland was affected by the decision made by the California Fair Political Practices Commission."</data>
+      <data key="d5">0bca16aeb9d8862f75f2d8199e2b9936</data>
+    </edge>
+    <edge source="&quot;PHILIP QUAST&quot;" target="&quot;OLIVIER AWARD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Philip Quast won an Olivier Award for Best Actor in 2001."</data>
+      <data key="d5">763bd2b0942cee6506a3d16174db0c5d</data>
+    </edge>
+    <edge source="&quot;METROPOLITAN OPERA&quot;" target="&quot;EZIO PINZA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ezio Pinza was a former bass at the Metropolitan Opera."</data>
+      <data key="d5">763bd2b0942cee6506a3d16174db0c5d</data>
+    </edge>
+    <edge source="&quot;ROME&quot;" target="&quot;LUNA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Luna was born in Rome, Italy."</data>
+      <data key="d5">5be98a6f093865e41ffee2d4459f53bb</data>
+    </edge>
+    <edge source="&quot;ITALY&quot;" target="&quot;LUNA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Luna is from Italy and started her professional golf career there."</data>
+      <data key="d5">5be98a6f093865e41ffee2d4459f53bb</data>
+    </edge>
+    <edge source="&quot;ITALY&quot;" target="&quot;MICHELA BELMONTE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Michela Belmonte lived and worked in Italy during the Fascist era."</data>
+      <data key="d5">1dbb6a78193ab8a725a708a15c6455c2</data>
+    </edge>
+    <edge source="&quot;TENERIFE LADIES OPEN&quot;" target="&quot;LUNA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Luna won the Tenerife Ladies Open in 2004, her first event on the Ladies European Tour."</data>
+      <data key="d5">5be98a6f093865e41ffee2d4459f53bb</data>
+    </edge>
+    <edge source="&quot;LADIES EUROPEAN TOUR&quot;" target="&quot;LUNA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Luna competes on the Ladies European Tour and has won events there."</data>
+      <data key="d5">5be98a6f093865e41ffee2d4459f53bb</data>
+    </edge>
+    <edge source="&quot;THE KING AND I&quot;" target="&quot;MARNI NIXON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marni Nixon dubbed the singing voice of the leading actress in The King and I."</data>
+      <data key="d5">b21bf028825ce3ee92ed965b0d4f9002</data>
+    </edge>
+    <edge source="&quot;WEST SIDE STORY&quot;" target="&quot;MARNI NIXON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marni Nixon dubbed the singing voice of the leading actress in West Side Story."</data>
+      <data key="d5">b21bf028825ce3ee92ed965b0d4f9002</data>
+    </edge>
+    <edge source="&quot;EMILY GILMORE&quot;" target="&quot;CAROLE KELLY BISHOP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Carole Kelly Bishop plays the role of Emily Gilmore in Gilmore Girls."</data>
+      <data key="d5">775de905c3013bf7d7be0e6da9ee4dad</data>
+    </edge>
+    <edge source="&quot;MARJORIE HOUSEMAN&quot;" target="&quot;CAROLE KELLY BISHOP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Carole Kelly Bishop plays the role of Marjorie Houseman in Dirty Dancing."</data>
+      <data key="d5">775de905c3013bf7d7be0e6da9ee4dad</data>
+    </edge>
+    <edge source="&quot;SHEILA&quot;" target="&quot;CAROLE KELLY BISHOP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Carole Kelly Bishop created and played the role of Sheila in A Chorus Line."</data>
+      <data key="d5">775de905c3013bf7d7be0e6da9ee4dad</data>
+    </edge>
+    <edge source="&quot;FANNY FLOWERS&quot;" target="&quot;CAROLE KELLY BISHOP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Carole Kelly Bishop plays the role of Fanny Flowers in Bunheads."</data>
+      <data key="d5">775de905c3013bf7d7be0e6da9ee4dad</data>
+    </edge>
+    <edge source="&quot;METRO PICTURES&quot;" target="&quot;OLD LADY 31&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Old Lady 31 was produced and distributed by Metro Pictures."</data>
+      <data key="d5">f1a77883848117d8187a288e9f7423cf</data>
+    </edge>
+    <edge source="&quot;JOHN INCE&quot;" target="&quot;OLD LADY 31&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"John Ince directed Old Lady 31."</data>
+      <data key="d5">f1a77883848117d8187a288e9f7423cf</data>
+    </edge>
+    <edge source="&quot;LOUISE FORSSLUND&quot;" target="&quot;OLD LADY 31&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Old Lady 31 is based on a novel by Louise Forsslund."</data>
+      <data key="d5">f1a77883848117d8187a288e9f7423cf</data>
+    </edge>
+    <edge source="&quot;RACHEL CROTHERS&quot;" target="&quot;OLD LADY 31&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Rachel Crothers adapted the novel into a play, which was later turned into Old Lady 31."</data>
+      <data key="d5">f1a77883848117d8187a288e9f7423cf</data>
+    </edge>
+    <edge source="&quot;EMMA DUNN&quot;" target="&quot;OLD LADY 31&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Emma Dunn starred in Old Lady 31, reprising her role from the stage production."</data>
+      <data key="d5">f1a77883848117d8187a288e9f7423cf</data>
+    </edge>
+    <edge source="&quot;MARIA DENIS&quot;" target="&quot;MICHELA BELMONTE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Michela Belmonte was the younger sister of Maria Denis."</data>
+      <data key="d5">1dbb6a78193ab8a725a708a15c6455c2</data>
+    </edge>
+    <edge source="&quot;ROBERTO ROSSELLINI&quot;" target="&quot;MICHELA BELMONTE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Michela Belmonte worked with Roberto Rossellini on the film 'A Pilot Returns'."&gt;</data>
+      <data key="d5">1dbb6a78193ab8a725a708a15c6455c2</data>
+    </edge>
+    <edge source="&quot;BENITO MUSSOLINI&quot;" target="&quot;THE OVERTHROW OF BENITO MUSSOLINI'S REGIME&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Benito Mussolini's regime was overthrown in 1943."</data>
+      <data key="d5">1dbb6a78193ab8a725a708a15c6455c2</data>
+    </edge>
+    <edge source="&quot;THAT FACE&quot;" target="&quot;CRISTIN MILIOTI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cristin Milioti has worked in the Broadway theatre production That Face."</data>
+      <data key="d5">4f495e69760de6f66c872d35f698c217</data>
+    </edge>
+    <edge source="&quot;ONCE&quot;" target="&quot;CRISTIN MILIOTI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cristin Milioti has worked in the Tony Award-winning musical Once."</data>
+      <data key="d5">4f495e69760de6f66c872d35f698c217</data>
+    </edge>
+    <edge source="&quot;HOW I MET YOUR MOTHER&quot;" target="&quot;CRISTIN MILIOTI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cristin Milioti played the titular Mother in the sitcom How I Met Your Mother from 2013 to 2014."</data>
+      <data key="d5">4f495e69760de6f66c872d35f698c217</data>
+    </edge>
+    <edge source="&quot;THE WOLF OF WALL STREET&quot;" target="&quot;CRISTIN MILIOTI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cristin Milioti played Teresa Petrillo Belfort in the 2013 film The Wolf of Wall Street."</data>
+      <data key="d5">4f495e69760de6f66c872d35f698c217</data>
+    </edge>
+    <edge source="&quot;FARGO&quot;" target="&quot;CRISTIN MILIOTI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cristin Milioti played Betsy Solverson in the second season of Fargo."</data>
+      <data key="d5">4f495e69760de6f66c872d35f698c217</data>
+    </edge>
+  </graph>
+</graphml>

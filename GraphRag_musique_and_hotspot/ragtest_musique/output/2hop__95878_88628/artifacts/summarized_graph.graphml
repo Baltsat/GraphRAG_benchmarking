@@ -1,0 +1,1147 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;GOLLUM&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Gollum is a computer-generated character played by Andrew Clement Serkis in The Lord of the Rings film trilogy."</data>
+      <data key="d2">7a5faf300ae642a54454cef536d65ba9</data>
+    </node>
+    <node id="&quot;KING KONG&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"King Kong is a computer-generated character played by Andrew Clement Serkis in the 2005 film."</data>
+      <data key="d2">7a5faf300ae642a54454cef536d65ba9</data>
+    </node>
+    <node id="&quot;CAESAR&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Caesar is a computer-generated character played by Andrew Clement Serkis in the Planet of the Apes reboot series."</data>
+      <data key="d2">7a5faf300ae642a54454cef536d65ba9</data>
+    </node>
+    <node id="&quot;CAPTAIN HADDOCK / SIR FRANCIS HADDOCK&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Captain Haddock / Sir Francis Haddock are computer-generated characters played by Andrew Clement Serkis in The Adventures of Tintin."</data>
+      <data key="d2">7a5faf300ae642a54454cef536d65ba9</data>
+    </node>
+    <node id="&quot;SUPREME LEADER SNOKE&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Supreme Leader Snoke is a computer-generated character played by Andrew Clement Serkis in the Star Wars sequel trilogy films."</data>
+      <data key="d2">7a5faf300ae642a54454cef536d65ba9</data>
+    </node>
+    <node id="&quot;BALOO&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Baloo is a character played by Andrew Clement Serkis in his self-directed film, Mowgli."</data>
+      <data key="d2">7a5faf300ae642a54454cef536d65ba9</data>
+    </node>
+    <node id="&quot;ANDREW CLEMENT SERKIS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7a5faf300ae642a54454cef536d65ba9</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">01251d4201a05986338d19c8d7292916,021617d0d8e41113e78f26206d53fc83,06cb261637f1426286ad3996f9581f4b,0df0db276810838bb79216bb9bdf2468,1bae09d35bd945e1a4ec99fd60458bc8,26eafba360d79f31a2e4bb9a9d5afe14,37f4457e5f8601f7078107a61d95cebb,3cf03a446b263eb47f9bb1925e62ad53,49bfc478ca3393e09d70cceb54830eca,5e961a93641835436fad73d61620d170,61f28afbef3259f8979b86e433283da8,7a5faf300ae642a54454cef536d65ba9,7b61066a335e5c0c947423d35f2d48b0,80bad5afd9746ac448d070af8a9d9618,839e2c36eed0e17674cf22ef85bb2431,869940e7248f38af980e0af675b62f92,8c1efc62981d74c2ba9a2a9ef6d73656,97c5d30a8056321f115bd9afc2aec58c,c01644fc3f8d5bdc3d5d5717a051568d,defe5e297d03d7b99348f0ce44a9f506</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">01251d4201a05986338d19c8d7292916,021617d0d8e41113e78f26206d53fc83,06cb261637f1426286ad3996f9581f4b,0df0db276810838bb79216bb9bdf2468,1bae09d35bd945e1a4ec99fd60458bc8,26eafba360d79f31a2e4bb9a9d5afe14,37f4457e5f8601f7078107a61d95cebb,3cf03a446b263eb47f9bb1925e62ad53,49bfc478ca3393e09d70cceb54830eca,5e961a93641835436fad73d61620d170,61f28afbef3259f8979b86e433283da8,7a5faf300ae642a54454cef536d65ba9,7b61066a335e5c0c947423d35f2d48b0,80bad5afd9746ac448d070af8a9d9618,839e2c36eed0e17674cf22ef85bb2431,869940e7248f38af980e0af675b62f92,8c1efc62981d74c2ba9a2a9ef6d73656,97c5d30a8056321f115bd9afc2aec58c,c01644fc3f8d5bdc3d5d5717a051568d,defe5e297d03d7b99348f0ce44a9f506</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">01251d4201a05986338d19c8d7292916,021617d0d8e41113e78f26206d53fc83,06cb261637f1426286ad3996f9581f4b,0df0db276810838bb79216bb9bdf2468,1bae09d35bd945e1a4ec99fd60458bc8,26eafba360d79f31a2e4bb9a9d5afe14,37f4457e5f8601f7078107a61d95cebb,3cf03a446b263eb47f9bb1925e62ad53,49bfc478ca3393e09d70cceb54830eca,5e961a93641835436fad73d61620d170,61f28afbef3259f8979b86e433283da8,7a5faf300ae642a54454cef536d65ba9,7b61066a335e5c0c947423d35f2d48b0,80bad5afd9746ac448d070af8a9d9618,839e2c36eed0e17674cf22ef85bb2431,869940e7248f38af980e0af675b62f92,8c1efc62981d74c2ba9a2a9ef6d73656,97c5d30a8056321f115bd9afc2aec58c,c01644fc3f8d5bdc3d5d5717a051568d,defe5e297d03d7b99348f0ce44a9f506</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">01251d4201a05986338d19c8d7292916,021617d0d8e41113e78f26206d53fc83,06cb261637f1426286ad3996f9581f4b,0df0db276810838bb79216bb9bdf2468,1bae09d35bd945e1a4ec99fd60458bc8,26eafba360d79f31a2e4bb9a9d5afe14,37f4457e5f8601f7078107a61d95cebb,3cf03a446b263eb47f9bb1925e62ad53,49bfc478ca3393e09d70cceb54830eca,5e961a93641835436fad73d61620d170,61f28afbef3259f8979b86e433283da8,7a5faf300ae642a54454cef536d65ba9,7b61066a335e5c0c947423d35f2d48b0,80bad5afd9746ac448d070af8a9d9618,839e2c36eed0e17674cf22ef85bb2431,869940e7248f38af980e0af675b62f92,8c1efc62981d74c2ba9a2a9ef6d73656,97c5d30a8056321f115bd9afc2aec58c,c01644fc3f8d5bdc3d5d5717a051568d,defe5e297d03d7b99348f0ce44a9f506</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">01251d4201a05986338d19c8d7292916,021617d0d8e41113e78f26206d53fc83,06cb261637f1426286ad3996f9581f4b,0df0db276810838bb79216bb9bdf2468,1bae09d35bd945e1a4ec99fd60458bc8,26eafba360d79f31a2e4bb9a9d5afe14,37f4457e5f8601f7078107a61d95cebb,3cf03a446b263eb47f9bb1925e62ad53,49bfc478ca3393e09d70cceb54830eca,5e961a93641835436fad73d61620d170,61f28afbef3259f8979b86e433283da8,7a5faf300ae642a54454cef536d65ba9,7b61066a335e5c0c947423d35f2d48b0,80bad5afd9746ac448d070af8a9d9618,839e2c36eed0e17674cf22ef85bb2431,869940e7248f38af980e0af675b62f92,8c1efc62981d74c2ba9a2a9ef6d73656,97c5d30a8056321f115bd9afc2aec58c,c01644fc3f8d5bdc3d5d5717a051568d,defe5e297d03d7b99348f0ce44a9f506</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">01251d4201a05986338d19c8d7292916,021617d0d8e41113e78f26206d53fc83,06cb261637f1426286ad3996f9581f4b,0df0db276810838bb79216bb9bdf2468,1bae09d35bd945e1a4ec99fd60458bc8,26eafba360d79f31a2e4bb9a9d5afe14,37f4457e5f8601f7078107a61d95cebb,3cf03a446b263eb47f9bb1925e62ad53,49bfc478ca3393e09d70cceb54830eca,5e961a93641835436fad73d61620d170,61f28afbef3259f8979b86e433283da8,7a5faf300ae642a54454cef536d65ba9,7b61066a335e5c0c947423d35f2d48b0,80bad5afd9746ac448d070af8a9d9618,839e2c36eed0e17674cf22ef85bb2431,869940e7248f38af980e0af675b62f92,8c1efc62981d74c2ba9a2a9ef6d73656,97c5d30a8056321f115bd9afc2aec58c,c01644fc3f8d5bdc3d5d5717a051568d,defe5e297d03d7b99348f0ce44a9f506</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">01251d4201a05986338d19c8d7292916,021617d0d8e41113e78f26206d53fc83,06cb261637f1426286ad3996f9581f4b,0df0db276810838bb79216bb9bdf2468,1bae09d35bd945e1a4ec99fd60458bc8,26eafba360d79f31a2e4bb9a9d5afe14,37f4457e5f8601f7078107a61d95cebb,3cf03a446b263eb47f9bb1925e62ad53,49bfc478ca3393e09d70cceb54830eca,5e961a93641835436fad73d61620d170,61f28afbef3259f8979b86e433283da8,7a5faf300ae642a54454cef536d65ba9,7b61066a335e5c0c947423d35f2d48b0,80bad5afd9746ac448d070af8a9d9618,839e2c36eed0e17674cf22ef85bb2431,869940e7248f38af980e0af675b62f92,8c1efc62981d74c2ba9a2a9ef6d73656,97c5d30a8056321f115bd9afc2aec58c,c01644fc3f8d5bdc3d5d5717a051568d,defe5e297d03d7b99348f0ce44a9f506</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">01251d4201a05986338d19c8d7292916,021617d0d8e41113e78f26206d53fc83,06cb261637f1426286ad3996f9581f4b,0df0db276810838bb79216bb9bdf2468,1bae09d35bd945e1a4ec99fd60458bc8,26eafba360d79f31a2e4bb9a9d5afe14,37f4457e5f8601f7078107a61d95cebb,3cf03a446b263eb47f9bb1925e62ad53,49bfc478ca3393e09d70cceb54830eca,5e961a93641835436fad73d61620d170,61f28afbef3259f8979b86e433283da8,7a5faf300ae642a54454cef536d65ba9,7b61066a335e5c0c947423d35f2d48b0,80bad5afd9746ac448d070af8a9d9618,839e2c36eed0e17674cf22ef85bb2431,869940e7248f38af980e0af675b62f92,8c1efc62981d74c2ba9a2a9ef6d73656,97c5d30a8056321f115bd9afc2aec58c,c01644fc3f8d5bdc3d5d5717a051568d,defe5e297d03d7b99348f0ce44a9f506</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">01251d4201a05986338d19c8d7292916,021617d0d8e41113e78f26206d53fc83,06cb261637f1426286ad3996f9581f4b,0df0db276810838bb79216bb9bdf2468,1bae09d35bd945e1a4ec99fd60458bc8,26eafba360d79f31a2e4bb9a9d5afe14,37f4457e5f8601f7078107a61d95cebb,3cf03a446b263eb47f9bb1925e62ad53,49bfc478ca3393e09d70cceb54830eca,5e961a93641835436fad73d61620d170,61f28afbef3259f8979b86e433283da8,7a5faf300ae642a54454cef536d65ba9,7b61066a335e5c0c947423d35f2d48b0,80bad5afd9746ac448d070af8a9d9618,839e2c36eed0e17674cf22ef85bb2431,869940e7248f38af980e0af675b62f92,8c1efc62981d74c2ba9a2a9ef6d73656,97c5d30a8056321f115bd9afc2aec58c,c01644fc3f8d5bdc3d5d5717a051568d,defe5e297d03d7b99348f0ce44a9f506</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">01251d4201a05986338d19c8d7292916,021617d0d8e41113e78f26206d53fc83,06cb261637f1426286ad3996f9581f4b,0df0db276810838bb79216bb9bdf2468,1bae09d35bd945e1a4ec99fd60458bc8,26eafba360d79f31a2e4bb9a9d5afe14,37f4457e5f8601f7078107a61d95cebb,3cf03a446b263eb47f9bb1925e62ad53,49bfc478ca3393e09d70cceb54830eca,5e961a93641835436fad73d61620d170,61f28afbef3259f8979b86e433283da8,7a5faf300ae642a54454cef536d65ba9,7b61066a335e5c0c947423d35f2d48b0,80bad5afd9746ac448d070af8a9d9618,839e2c36eed0e17674cf22ef85bb2431,869940e7248f38af980e0af675b62f92,8c1efc62981d74c2ba9a2a9ef6d73656,97c5d30a8056321f115bd9afc2aec58c,c01644fc3f8d5bdc3d5d5717a051568d,defe5e297d03d7b99348f0ce44a9f506</data>
+    </node>
+    <node id="&quot;GEOFFREY SAX&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Geoffrey Sax is the director of Frankie &amp; Alice."</data>
+      <data key="d2">26eafba360d79f31a2e4bb9a9d5afe14</data>
+    </node>
+    <node id="&quot;HALLE BERRY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Halle Berry is an actress starring in Frankie &amp; Alice."</data>
+      <data key="d2">26eafba360d79f31a2e4bb9a9d5afe14</data>
+    </node>
+    <node id="&quot;VANCOUVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Vancouver is a city in British Columbia where filming and reshoots took place, specifically during the week of October 13, 2014.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">0df0db276810838bb79216bb9bdf2468,26eafba360d79f31a2e4bb9a9d5afe14</data>
+    </node>
+    <node id="&quot;BRITISH COLUMBIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"British Columbia is a province in Canada where filming took place."</data>
+      <data key="d2">26eafba360d79f31a2e4bb9a9d5afe14</data>
+    </node>
+    <node id="&quot;DECEMBER 10, 2010&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"December 10, 2010, is the date of the film's limited release."</data>
+      <data key="d2">26eafba360d79f31a2e4bb9a9d5afe14</data>
+    </node>
+    <node id="&quot;FRANKIE &amp; ALICE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">26eafba360d79f31a2e4bb9a9d5afe14</data>
+    </node>
+    <node id="&quot;DORNAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dornan is an actor involved in the film's production, participating in reshoots."</data>
+      <data key="d2">0df0db276810838bb79216bb9bdf2468</data>
+    </node>
+    <node id="&quot;JOHNSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Johnson is an actor involved in the film's production, participating in reshoots."</data>
+      <data key="d2">0df0db276810838bb79216bb9bdf2468</data>
+    </node>
+    <node id="&quot;THE ADVENTURES OF MAX AND BANKS.&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Adventures of Max and Banks. is a working title for the film."</data>
+      <data key="d2">0df0db276810838bb79216bb9bdf2468</data>
+    </node>
+    <node id="&quot;NORTH SHORE STUDIOS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0df0db276810838bb79216bb9bdf2468</data>
+    </node>
+    <node id="&quot;CHARLES PORTIS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary:
+
+Charles Portis is the author of the 1968 novel "True Grit".</data>
+      <data key="d2">06cb261637f1426286ad3996f9581f4b,5e961a93641835436fad73d61620d170</data>
+    </node>
+    <node id="&quot;MARGUERITE ROBERTS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Marguerite Roberts wrote the screenplay for the film adaptation of 'True Grit'."</data>
+      <data key="d2">5e961a93641835436fad73d61620d170</data>
+    </node>
+    <node id="&quot;HENRY HATHAWAY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Henry Hathaway directed the 1969 film adaptation of 'True Grit'."</data>
+      <data key="d2">5e961a93641835436fad73d61620d170</data>
+    </node>
+    <node id="&quot;KIM DARBY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kim Darby played the role of Mattie Ross in the 1969 film adaptation of 'True Grit'."</data>
+      <data key="d2">5e961a93641835436fad73d61620d170</data>
+    </node>
+    <node id="&quot;JOHN WAYNE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+John Wayne was an actor who starred in Adventure's End and played notable roles as U.S. Marshals in two films. In the 1969 film adaptation of 'True Grit', he portrayed U.S. Marshal Rooster Cogburn, earning him an Academy Award for his performance. He reprised this role in the 1975 film Rooster Cogburn, again playing U.S. Marshal Reuben J. 'Rooster' Cogburn.</data>
+      <data key="d2">1bae09d35bd945e1a4ec99fd60458bc8,5e961a93641835436fad73d61620d170,869940e7248f38af980e0af675b62f92</data>
+    </node>
+    <node id="&quot;ROOSTER COGBURN&quot;">
+      <data key="d0">"FILM"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Rooster Cogburn is a 1975 sequel to the film "True Grit", starring John Wayne reprising his role as U.S. Marshal Rooster Cogburn.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">5e961a93641835436fad73d61620d170,869940e7248f38af980e0af675b62f92</data>
+    </node>
+    <node id="&quot;TRUE GRIT&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+"TRUE GRIT" is a movie that was nominated for Best Picture and had grossed $137.9 million.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">06cb261637f1426286ad3996f9581f4b,5e961a93641835436fad73d61620d170,c01644fc3f8d5bdc3d5d5717a051568d</data>
+    </node>
+    <node id="&quot;GENERAL TUFTO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"General Tufto is a character played by Charles J. Richman in the film 'Becky Sharp' (1935)."</data>
+      <data key="d2">01251d4201a05986338d19c8d7292916</data>
+    </node>
+    <node id="&quot;JUDGE THATCHER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Judge Thatcher is a character played by Charles J. Richman in the film 'The Adventures of Tom Sawyer' (1938)."</data>
+      <data key="d2">01251d4201a05986338d19c8d7292916</data>
+    </node>
+    <node id="&quot;HOLLYWOOD&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hollywood is a location where Charles J. Richman worked as an actor, playing supporting roles."</data>
+      <data key="d2">01251d4201a05986338d19c8d7292916</data>
+    </node>
+    <node id="&quot;CHARLES J. RICHMAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">01251d4201a05986338d19c8d7292916</data>
+    </node>
+    <node id="&quot;BECKY SHARP&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">01251d4201a05986338d19c8d7292916</data>
+    </node>
+    <node id="&quot;THE ADVENTURES OF TOM SAWYER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">01251d4201a05986338d19c8d7292916</data>
+    </node>
+    <node id="&quot;UNIVERSAL PICTURES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Universal Pictures is an American film studio that produced Adventure's End."</data>
+      <data key="d2">1bae09d35bd945e1a4ec99fd60458bc8</data>
+    </node>
+    <node id="&quot;ARTHUR LUBIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Arthur Lubin is the director of Adventure's End."</data>
+      <data key="d2">1bae09d35bd945e1a4ec99fd60458bc8</data>
+    </node>
+    <node id="&quot;DIANA GIBSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Diana Gibson is an actress who starred in Adventure's End."</data>
+      <data key="d2">1bae09d35bd945e1a4ec99fd60458bc8</data>
+    </node>
+    <node id="&quot;ADVENTURE'S END&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1bae09d35bd945e1a4ec99fd60458bc8</data>
+    </node>
+    <node id="&quot;TSAR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Tsar is a historical figure mentioned as the ruler during the time period of the film Prisoner of the Volga."</data>
+      <data key="d2">61f28afbef3259f8979b86e433283da8</data>
+    </node>
+    <node id="&quot;SIBERIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Siberia is a geographic location where John Derek's character is sentenced in the film Prisoner of the Volga."</data>
+      <data key="d2">61f28afbef3259f8979b86e433283da8</data>
+    </node>
+    <node id="&quot;PRISONER OF THE VOLGA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Prisoner of the Volga is a 1959 adventure film starring John Derek, set in the time of the Tsar."</data>
+      <data key="d2">61f28afbef3259f8979b86e433283da8</data>
+    </node>
+    <node id="&quot;JOHN DEREK&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">61f28afbef3259f8979b86e433283da8</data>
+    </node>
+    <node id="&quot;COEN BROTHERS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Coen brothers are directors, writers, producers, and editors of True Grit."</data>
+      <data key="d2">06cb261637f1426286ad3996f9581f4b</data>
+    </node>
+    <node id="&quot;STEVEN SPIELBERG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Steven Spielberg is an executive producer of True Grit."</data>
+      <data key="d2">06cb261637f1426286ad3996f9581f4b</data>
+    </node>
+    <node id="&quot;HAILEE STEINFELD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hailee Steinfeld stars as Mattie Ross in True Grit."</data>
+      <data key="d2">06cb261637f1426286ad3996f9581f4b</data>
+    </node>
+    <node id="&quot;JEFF BRIDGES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jeff Bridges stars as Deputy U.S. Marshal Reuben J. 'Rooster' Cogburn in True Grit."</data>
+      <data key="d2">06cb261637f1426286ad3996f9581f4b</data>
+    </node>
+    <node id="&quot;MATT DAMON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Matt Damon is an actor in True Grit."</data>
+      <data key="d2">06cb261637f1426286ad3996f9581f4b</data>
+    </node>
+    <node id="&quot;JOSH BROLIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Josh Brolin is an actor in True Grit."</data>
+      <data key="d2">06cb261637f1426286ad3996f9581f4b</data>
+    </node>
+    <node id="&quot;BARRY PEPPER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Barry Pepper is an actor in True Grit."</data>
+      <data key="d2">06cb261637f1426286ad3996f9581f4b</data>
+    </node>
+    <node id="&quot;HANS SCHWEIKART&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hans Schweikart is the director of the 1939 German drama film Liberated Hands or Freed Hands."</data>
+      <data key="d2">8c1efc62981d74c2ba9a2a9ef6d73656</data>
+    </node>
+    <node id="&quot;BRIGITTE HORNEY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Brigitte Horney is an actress who stars in the 1939 German drama film Liberated Hands or Freed Hands, playing a sculptor who discovers her true vocation."</data>
+      <data key="d2">8c1efc62981d74c2ba9a2a9ef6d73656</data>
+    </node>
+    <node id="&quot;OLGA TSCHECHOWA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Olga Tschechowa is an actress who stars in the 1939 German drama film Liberated Hands or Freed Hands."</data>
+      <data key="d2">8c1efc62981d74c2ba9a2a9ef6d73656</data>
+    </node>
+    <node id="&quot;EWALD BALSER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ewald Balser is an actor who stars in the 1939 German drama film Liberated Hands or Freed Hands."</data>
+      <data key="d2">8c1efc62981d74c2ba9a2a9ef6d73656</data>
+    </node>
+    <node id="&quot;8TH VENICE INTERNATIONAL FILM FESTIVAL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 8th Venice International Film Festival is a film festival where Liberated Hands or Freed Hands was screened."</data>
+      <data key="d2">8c1efc62981d74c2ba9a2a9ef6d73656</data>
+    </node>
+    <node id="&quot;GERMANY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Germany is the country of origin for the 1939 drama film Liberated Hands, also known as Freed Hands, and it is also where the film Marie's Soldier was produced.</data>
+      <data key="d2">37f4457e5f8601f7078107a61d95cebb,8c1efc62981d74c2ba9a2a9ef6d73656</data>
+    </node>
+    <node id="&quot;LIBERATED HANDS OR FREED HANDS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8c1efc62981d74c2ba9a2a9ef6d73656</data>
+    </node>
+    <node id="&quot;ERICH SCH&#214;NFELDER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Erich Sch&#246;nfelder is the director of Marie's Soldier."</data>
+      <data key="d2">37f4457e5f8601f7078107a61d95cebb</data>
+    </node>
+    <node id="&quot;XENIA DESNI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Xenia Desni is an actress starring in Marie's Soldier."</data>
+      <data key="d2">37f4457e5f8601f7078107a61d95cebb</data>
+    </node>
+    <node id="&quot;HARRY LIEDTKE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Harry Liedtke is an actor starring in Marie's Soldier."</data>
+      <data key="d2">37f4457e5f8601f7078107a61d95cebb</data>
+    </node>
+    <node id="&quot;GRIT HAID&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Grit Haid is an actress starring in Marie's Soldier."</data>
+      <data key="d2">37f4457e5f8601f7078107a61d95cebb</data>
+    </node>
+    <node id="&quot;KURT RICHTER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kurt Richter is the art director of Marie's Soldier."</data>
+      <data key="d2">37f4457e5f8601f7078107a61d95cebb</data>
+    </node>
+    <node id="&quot;MARIE'S SOLDIER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">37f4457e5f8601f7078107a61d95cebb</data>
+    </node>
+    <node id="&quot;CRAWFORDS AUSTRALIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Crawfords Australia is the production company behind the TV movie I Live with Me Dad."</data>
+      <data key="d2">021617d0d8e41113e78f26206d53fc83</data>
+    </node>
+    <node id="&quot;SID (HEHIR)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sid (Hehir) is the father of Crispy and the main character in the TV movie I Live with Me Dad."</data>
+      <data key="d2">021617d0d8e41113e78f26206d53fc83</data>
+    </node>
+    <node id="&quot;CRISPY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Crispy is a six-year-old boy who lives with his destitute father Sid in the TV movie I Live with Me Dad."</data>
+      <data key="d2">021617d0d8e41113e78f26206d53fc83</data>
+    </node>
+    <node id="&quot;I LIVE WITH ME DAD&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">021617d0d8e41113e78f26206d53fc83</data>
+    </node>
+    <node id="&quot;GEORGE PEPPARD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"George Peppard is an actor who played the role of Colonel John ``Hannibal ''Smith in The A-Team."</data>
+      <data key="d2">839e2c36eed0e17674cf22ef85bb2431</data>
+    </node>
+    <node id="&quot;JAMES COBURN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"James Coburn was an actor who was originally considered to play the part of Hannibal in The A-Team."</data>
+      <data key="d2">839e2c36eed0e17674cf22ef85bb2431</data>
+    </node>
+    <node id="&quot;THE A-TEAM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The A-Team is a 1980s action-adventure television series featuring Colonel John ``Hannibal ''Smith as one of its protagonists."</data>
+      <data key="d2">839e2c36eed0e17674cf22ef85bb2431</data>
+    </node>
+    <node id="&quot;COLONEL JOHN ``HANNIBAL ''SMITH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">839e2c36eed0e17674cf22ef85bb2431</data>
+    </node>
+    <node id="&quot;JOHN G. BLYSTONE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"John G. Blystone was the director of the 1925 American silent historical adventure film Dick Turpin."</data>
+      <data key="d2">97c5d30a8056321f115bd9afc2aec58c</data>
+    </node>
+    <node id="&quot;TOM MIX&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Tom Mix was an American western hero who starred in the 1925 film Dick Turpin, playing the role of Dick Turpin."</data>
+      <data key="d2">97c5d30a8056321f115bd9afc2aec58c</data>
+    </node>
+    <node id="&quot;CAROLE LOMBARD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Carole Lombard was a young actress who appeared in several scenes of the 1925 film Dick Turpin, although most of her scenes were cut from the final version."</data>
+      <data key="d2">97c5d30a8056321f115bd9afc2aec58c</data>
+    </node>
+    <node id="&quot;FOX FILM CORPORATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Fox Film Corporation was the production company and distributor of the 1925 film Dick Turpin."</data>
+      <data key="d2">97c5d30a8056321f115bd9afc2aec58c</data>
+    </node>
+    <node id="&quot;KATHARINE HEPBURN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Katharine Hepburn stars alongside John Wayne in the 1975 film Rooster Cogburn."</data>
+      <data key="d2">869940e7248f38af980e0af675b62f92</data>
+    </node>
+    <node id="&quot;STUART MILLAR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Stuart Millar is the director of the 1975 American Western adventure film Rooster Cogburn."</data>
+      <data key="d2">869940e7248f38af980e0af675b62f92</data>
+    </node>
+    <node id="&quot;MARTHA HYER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Martha Hyer wrote the screenplay for the 1975 film Rooster Cogburn, based on the character created by Charles McColl Portis."</data>
+      <data key="d2">869940e7248f38af980e0af675b62f92</data>
+    </node>
+    <node id="&quot;CHARLES MCCOLL PORTIS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Charles McColl Portis is the author of the 1968 western novel 'True Grit', which inspired the character Rooster Cogburn."</data>
+      <data key="d2">869940e7248f38af980e0af675b62f92</data>
+    </node>
+    <node id="&quot;ROOSTER COGBURN (FILM)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Rooster Cogburn is a 1975 American Western adventure film directed by Stuart Millar and starring John Wayne and Katharine Hepburn."</data>
+      <data key="d2">869940e7248f38af980e0af675b62f92</data>
+    </node>
+    <node id="&quot;TRUE GRIT (NOVEL)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"True Grit is a 1968 western novel written by Charles McColl Portis, which inspired the character Rooster Cogburn."</data>
+      <data key="d2">869940e7248f38af980e0af675b62f92</data>
+    </node>
+    <node id="&quot;MICK TRAVIS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mick Travis is the main character in Anderson's trilogy of films, portrayed by Malcolm McDowell, who has had various adventures throughout his life."</data>
+      <data key="d2">80bad5afd9746ac448d070af8a9d9618</data>
+    </node>
+    <node id="&quot;DAVID SHERWIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"David Sherwin is the writer of Anderson's trilogy of films, including Britannia Hospital."</data>
+      <data key="d2">80bad5afd9746ac448d070af8a9d9618</data>
+    </node>
+    <node id="&quot;MALCOLM MCDOWELL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Malcolm McDowell is an actor who portrays Mick Travis in Anderson's trilogy of films."</data>
+      <data key="d2">80bad5afd9746ac448d070af8a9d9618</data>
+    </node>
+    <node id="&quot;PROFESSOR MILLAR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Professor Millar is a character in Britannia Hospital, played by Graham Crowden, who has a history with Mick Travis."</data>
+      <data key="d2">80bad5afd9746ac448d070af8a9d9618</data>
+    </node>
+    <node id="&quot;GRAHAM CROWDEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Graham Crowden is an actor who plays Professor Millar in Britannia Hospital."</data>
+      <data key="d2">80bad5afd9746ac448d070af8a9d9618</data>
+    </node>
+    <node id="&quot;BRITANNIA HOSPITAL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">80bad5afd9746ac448d070af8a9d9618</data>
+    </node>
+    <node id="&quot;REALMFORGE STUDIOS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Realmforge Studios is a German game studio that developed Ceville."</data>
+      <data key="d2">3cf03a446b263eb47f9bb1925e62ad53</data>
+    </node>
+    <node id="&quot;KALYPSO MEDIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Kalypso Media is the publisher of Ceville."</data>
+      <data key="d2">3cf03a446b263eb47f9bb1925e62ad53</data>
+    </node>
+    <node id="&quot;LUCASARTS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"LucasArts is a game series developer, known for Monkey Island."</data>
+      <data key="d2">3cf03a446b263eb47f9bb1925e62ad53</data>
+    </node>
+    <node id="&quot;SIERRA ONLINE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Sierra Online is a game series developer, known for King's Quest."</data>
+      <data key="d2">3cf03a446b263eb47f9bb1925e62ad53</data>
+    </node>
+    <node id="&quot;MONKEY ISLAND&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Monkey Island is a game series that influenced the graphical point-and-click adventure tradition of gameplay."</data>
+      <data key="d2">3cf03a446b263eb47f9bb1925e62ad53</data>
+    </node>
+    <node id="&quot;KING'S QUEST&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"King's Quest is a game series that influenced the graphical point-and-click adventure tradition of gameplay."</data>
+      <data key="d2">3cf03a446b263eb47f9bb1925e62ad53</data>
+    </node>
+    <node id="&quot;CEVILLE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3cf03a446b263eb47f9bb1925e62ad53</data>
+    </node>
+    <node id="&quot;JESS SMITH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jess Smith is an actor who plays The Sun Baby in the original series."</data>
+      <data key="d2">49bfc478ca3393e09d70cceb54830eca</data>
+    </node>
+    <node id="&quot;TELETUBBIES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Teletubbies is a group or team that receives a wake-up call from The Sun Baby."</data>
+      <data key="d2">49bfc478ca3393e09d70cceb54830eca</data>
+    </node>
+    <node id="&quot;THE SUN BABY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">49bfc478ca3393e09d70cceb54830eca</data>
+    </node>
+    <node id="&quot;INCEPTION&quot;">
+      <data key="d0">"MOVIE"</data>
+      <data key="d1">"Inception is a movie that was nominated for Best Picture and had grossed $292.5 million."</data>
+      <data key="d2">c01644fc3f8d5bdc3d5d5717a051568d</data>
+    </node>
+    <node id="&quot;THE SOCIAL NETWORK&quot;">
+      <data key="d0">"MOVIE"</data>
+      <data key="d1">"The Social Network is a movie that was nominated for Best Picture and had grossed $95.4 million."</data>
+      <data key="d2">c01644fc3f8d5bdc3d5d5717a051568d</data>
+    </node>
+    <node id="&quot;BLACK SWAN&quot;">
+      <data key="d0">"MOVIE"</data>
+      <data key="d1">"Black Swan is a movie that was nominated for Best Picture and had grossed $83.2 million."</data>
+      <data key="d2">c01644fc3f8d5bdc3d5d5717a051568d</data>
+    </node>
+    <node id="&quot;THE FIGHTER&quot;">
+      <data key="d0">"MOVIE"</data>
+      <data key="d1">"The Fighter is a movie that was nominated for Best Picture and had grossed $72.6 million."</data>
+      <data key="d2">c01644fc3f8d5bdc3d5d5717a051568d</data>
+    </node>
+    <node id="&quot;THE KING'S SPEECH&quot;">
+      <data key="d0">"MOVIE"</data>
+      <data key="d1">"The King's Speech is a movie that was nominated for Best Picture and had grossed $57.3 million."</data>
+      <data key="d2">c01644fc3f8d5bdc3d5d5717a051568d</data>
+    </node>
+    <node id="&quot;THE KIDS ARE ALL RIGHT&quot;">
+      <data key="d0">"MOVIE"</data>
+      <data key="d1">"The Kids Are All Right is a movie that was nominated for Best Picture and had grossed $20.8 million."</data>
+      <data key="d2">c01644fc3f8d5bdc3d5d5717a051568d</data>
+    </node>
+    <node id="&quot;127 HOURS&quot;">
+      <data key="d0">"MOVIE"</data>
+      <data key="d1">"127 Hours is a movie that was nominated for Best Picture and had grossed $11.2 million."</data>
+      <data key="d2">c01644fc3f8d5bdc3d5d5717a051568d</data>
+    </node>
+    <node id="&quot;WINTER'S BONE&quot;">
+      <data key="d0">"MOVIE"</data>
+      <data key="d1">"Winter's Bone is a movie that was nominated for Best Picture and had grossed $6.2 million."</data>
+      <data key="d2">c01644fc3f8d5bdc3d5d5717a051568d</data>
+    </node>
+    <node id="&quot;ALICE IN WONDERLAND&quot;">
+      <data key="d0">"MOVIE"</data>
+      <data key="d1">"Alice in Wonderland is a movie that earned nominations."</data>
+      <data key="d2">c01644fc3f8d5bdc3d5d5717a051568d</data>
+    </node>
+    <node id="&quot;IRON MAN 2&quot;">
+      <data key="d0">"MOVIE"</data>
+      <data key="d1">"Iron Man 2 is a movie that earned nominations."</data>
+      <data key="d2">c01644fc3f8d5bdc3d5d5717a051568d</data>
+    </node>
+    <node id="&quot;HARRY POTTER AND THE DEATHLY HALLOWS &#8212; PART 1&quot;">
+      <data key="d0">"MOVIE"</data>
+      <data key="d1">"Harry Potter and the Deathly Hallows &#8212; Part 1 is a movie that earned nominations."</data>
+      <data key="d2">c01644fc3f8d5bdc3d5d5717a051568d</data>
+    </node>
+    <node id="&quot;HOW TO TRAIN YOUR DRAGON&quot;">
+      <data key="d0">"MOVIE"</data>
+      <data key="d1">"How to Train Your Dragon is a movie that was nominated for directing, acting, screenwriting, Best Picture or Animated Feature."</data>
+      <data key="d2">c01644fc3f8d5bdc3d5d5717a051568d</data>
+    </node>
+    <node id="&quot;TANGLED&quot;">
+      <data key="d0">"MOVIE"</data>
+      <data key="d1">"Tangled is a movie that earned nominations."</data>
+      <data key="d2">c01644fc3f8d5bdc3d5d5717a051568d</data>
+    </node>
+    <node id="&quot;TRON: LEGACY&quot;">
+      <data key="d0">"MOVIE"</data>
+      <data key="d1">"Tron: Legacy is a movie that earned nominations."</data>
+      <data key="d2">c01644fc3f8d5bdc3d5d5717a051568d</data>
+    </node>
+    <node id="&quot;SALT&quot;">
+      <data key="d0">"MOVIE"</data>
+      <data key="d1">"Salt is a movie that earned nominations."</data>
+      <data key="d2">c01644fc3f8d5bdc3d5d5717a051568d</data>
+    </node>
+    <node id="&quot;UNSTOPPABLE&quot;">
+      <data key="d0">"MOVIE"</data>
+      <data key="d1">"Unstoppable is a movie that earned nominations."</data>
+      <data key="d2">c01644fc3f8d5bdc3d5d5717a051568d</data>
+    </node>
+    <node id="&quot;THE TOWN&quot;">
+      <data key="d0">"MOVIE"</data>
+      <data key="d1">"The Town is a movie that was nominated for directing, acting, screenwriting, Best Picture or Animated Feature."</data>
+      <data key="d2">c01644fc3f8d5bdc3d5d5717a051568d</data>
+    </node>
+    <node id="&quot;TOY STORY 3&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c01644fc3f8d5bdc3d5d5717a051568d</data>
+    </node>
+    <node id="&quot;BEST PICTURE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c01644fc3f8d5bdc3d5d5717a051568d</data>
+    </node>
+    <node id="&quot;THE MUSIC MAN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Music Man is a musical play written by Meredith Willson, which premiered in 1957 and was adapted into a movie in 1962."</data>
+      <data key="d2">defe5e297d03d7b99348f0ce44a9f506</data>
+    </node>
+    <node id="&quot;MARIAN PAROO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Marian Paroo is a character in The Music Man, played by Barbara Cook on Broadway and Shirley Jones in the film."</data>
+      <data key="d2">defe5e297d03d7b99348f0ce44a9f506</data>
+    </node>
+    <node id="&quot;HAROLD HILL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Harold Hill is a character in The Music Man, portrayed by Robert Preston in the film."</data>
+      <data key="d2">defe5e297d03d7b99348f0ce44a9f506</data>
+    </node>
+    <node id="&quot;BARBARA COOK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Barbara Cook played Marian Paroo on Broadway in The Music Man."</data>
+      <data key="d2">defe5e297d03d7b99348f0ce44a9f506</data>
+    </node>
+    <node id="&quot;SHIRLEY JONES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Shirley Jones played Marian Paroo in the 1962 film adaptation of The Music Man."</data>
+      <data key="d2">defe5e297d03d7b99348f0ce44a9f506</data>
+    </node>
+    <node id="&quot;ROBERT PRESTON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Robert Preston portrayed Harold Hill in the 1962 film adaptation of The Music Man."</data>
+      <data key="d2">defe5e297d03d7b99348f0ce44a9f506</data>
+    </node>
+    <node id="&quot;MEREDITH WILLSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">defe5e297d03d7b99348f0ce44a9f506</data>
+    </node>
+    <node id="&quot;HOMI WADIA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Homi Wadia is the director of the film Jungle Ka Jawahar (Hero of the Forest)."</data>
+      <data key="d2">7b61066a335e5c0c947423d35f2d48b0</data>
+    </node>
+    <node id="&quot;BASANT PICTURES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Basant Pictures is the production company behind the film Jungle Ka Jawahar (Hero of the Forest)."</data>
+      <data key="d2">7b61066a335e5c0c947423d35f2d48b0</data>
+    </node>
+    <node id="&quot;FEARLESS NADIA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Fearless Nadia is an actress who played lead action roles in the 1950s and continued to act till 1968."</data>
+      <data key="d2">7b61066a335e5c0c947423d35f2d48b0</data>
+    </node>
+    <node id="&quot;JOHN CAWAS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"John Cawas is an actor who starred in the film Jungle Ka Jawahar (Hero of the Forest)."</data>
+      <data key="d2">7b61066a335e5c0c947423d35f2d48b0</data>
+    </node>
+    <node id="&quot;LEELA KUMARI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Leela Kumari is an actress who starred in the film Jungle Ka Jawahar (Hero of the Forest)."</data>
+      <data key="d2">7b61066a335e5c0c947423d35f2d48b0</data>
+    </node>
+    <node id="&quot;SHYAM SUNDER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Shyam Sunder is an actor who starred in the film Jungle Ka Jawahar (Hero of the Forest)."</data>
+      <data key="d2">7b61066a335e5c0c947423d35f2d48b0</data>
+    </node>
+    <node id="&quot;SHAPOOR AGA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Shapoor Aga is an actor who starred in the film Jungle Ka Jawahar (Hero of the Forest)."</data>
+      <data key="d2">7b61066a335e5c0c947423d35f2d48b0</data>
+    </node>
+    <node id="&quot;JUNGLE KA JAWAHAR (HERO OF THE FOREST)&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7b61066a335e5c0c947423d35f2d48b0</data>
+    </node>
+    <edge source="&quot;GOLLUM&quot;" target="&quot;ANDREW CLEMENT SERKIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Andrew Clement Serkis plays the role of Gollum in The Lord of the Rings film trilogy."</data>
+      <data key="d5">7a5faf300ae642a54454cef536d65ba9</data>
+    </edge>
+    <edge source="&quot;KING KONG&quot;" target="&quot;ANDREW CLEMENT SERKIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Andrew Clement Serkis plays the role of King Kong in the 2005 film."</data>
+      <data key="d5">7a5faf300ae642a54454cef536d65ba9</data>
+    </edge>
+    <edge source="&quot;CAESAR&quot;" target="&quot;ANDREW CLEMENT SERKIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Andrew Clement Serkis plays the role of Caesar in the Planet of the Apes reboot series."</data>
+      <data key="d5">7a5faf300ae642a54454cef536d65ba9</data>
+    </edge>
+    <edge source="&quot;CAPTAIN HADDOCK / SIR FRANCIS HADDOCK&quot;" target="&quot;ANDREW CLEMENT SERKIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Andrew Clement Serkis plays the roles of Captain Haddock / Sir Francis Haddock in The Adventures of Tintin."</data>
+      <data key="d5">7a5faf300ae642a54454cef536d65ba9</data>
+    </edge>
+    <edge source="&quot;SUPREME LEADER SNOKE&quot;" target="&quot;ANDREW CLEMENT SERKIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Andrew Clement Serkis plays the role of Supreme Leader Snoke in the Star Wars sequel trilogy films."</data>
+      <data key="d5">7a5faf300ae642a54454cef536d65ba9</data>
+    </edge>
+    <edge source="&quot;BALOO&quot;" target="&quot;ANDREW CLEMENT SERKIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Andrew Clement Serkis plays the role of Baloo in his self-directed film, Mowgli."</data>
+      <data key="d5">7a5faf300ae642a54454cef536d65ba9</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">01251d4201a05986338d19c8d7292916,021617d0d8e41113e78f26206d53fc83,06cb261637f1426286ad3996f9581f4b,0df0db276810838bb79216bb9bdf2468,1bae09d35bd945e1a4ec99fd60458bc8,26eafba360d79f31a2e4bb9a9d5afe14,37f4457e5f8601f7078107a61d95cebb,3cf03a446b263eb47f9bb1925e62ad53,49bfc478ca3393e09d70cceb54830eca,5e961a93641835436fad73d61620d170,61f28afbef3259f8979b86e433283da8,7a5faf300ae642a54454cef536d65ba9,7b61066a335e5c0c947423d35f2d48b0,80bad5afd9746ac448d070af8a9d9618,839e2c36eed0e17674cf22ef85bb2431,869940e7248f38af980e0af675b62f92,8c1efc62981d74c2ba9a2a9ef6d73656,97c5d30a8056321f115bd9afc2aec58c,c01644fc3f8d5bdc3d5d5717a051568d,defe5e297d03d7b99348f0ce44a9f506</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">01251d4201a05986338d19c8d7292916,021617d0d8e41113e78f26206d53fc83,06cb261637f1426286ad3996f9581f4b,0df0db276810838bb79216bb9bdf2468,1bae09d35bd945e1a4ec99fd60458bc8,26eafba360d79f31a2e4bb9a9d5afe14,37f4457e5f8601f7078107a61d95cebb,3cf03a446b263eb47f9bb1925e62ad53,49bfc478ca3393e09d70cceb54830eca,5e961a93641835436fad73d61620d170,61f28afbef3259f8979b86e433283da8,7a5faf300ae642a54454cef536d65ba9,7b61066a335e5c0c947423d35f2d48b0,80bad5afd9746ac448d070af8a9d9618,839e2c36eed0e17674cf22ef85bb2431,869940e7248f38af980e0af675b62f92,8c1efc62981d74c2ba9a2a9ef6d73656,97c5d30a8056321f115bd9afc2aec58c,c01644fc3f8d5bdc3d5d5717a051568d,defe5e297d03d7b99348f0ce44a9f506</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">01251d4201a05986338d19c8d7292916,021617d0d8e41113e78f26206d53fc83,06cb261637f1426286ad3996f9581f4b,0df0db276810838bb79216bb9bdf2468,1bae09d35bd945e1a4ec99fd60458bc8,26eafba360d79f31a2e4bb9a9d5afe14,37f4457e5f8601f7078107a61d95cebb,3cf03a446b263eb47f9bb1925e62ad53,49bfc478ca3393e09d70cceb54830eca,5e961a93641835436fad73d61620d170,61f28afbef3259f8979b86e433283da8,7a5faf300ae642a54454cef536d65ba9,7b61066a335e5c0c947423d35f2d48b0,80bad5afd9746ac448d070af8a9d9618,839e2c36eed0e17674cf22ef85bb2431,869940e7248f38af980e0af675b62f92,8c1efc62981d74c2ba9a2a9ef6d73656,97c5d30a8056321f115bd9afc2aec58c,c01644fc3f8d5bdc3d5d5717a051568d,defe5e297d03d7b99348f0ce44a9f506</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">01251d4201a05986338d19c8d7292916,021617d0d8e41113e78f26206d53fc83,06cb261637f1426286ad3996f9581f4b,0df0db276810838bb79216bb9bdf2468,1bae09d35bd945e1a4ec99fd60458bc8,26eafba360d79f31a2e4bb9a9d5afe14,37f4457e5f8601f7078107a61d95cebb,3cf03a446b263eb47f9bb1925e62ad53,49bfc478ca3393e09d70cceb54830eca,5e961a93641835436fad73d61620d170,61f28afbef3259f8979b86e433283da8,7a5faf300ae642a54454cef536d65ba9,7b61066a335e5c0c947423d35f2d48b0,80bad5afd9746ac448d070af8a9d9618,839e2c36eed0e17674cf22ef85bb2431,869940e7248f38af980e0af675b62f92,8c1efc62981d74c2ba9a2a9ef6d73656,97c5d30a8056321f115bd9afc2aec58c,c01644fc3f8d5bdc3d5d5717a051568d,defe5e297d03d7b99348f0ce44a9f506</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">01251d4201a05986338d19c8d7292916,021617d0d8e41113e78f26206d53fc83,06cb261637f1426286ad3996f9581f4b,0df0db276810838bb79216bb9bdf2468,1bae09d35bd945e1a4ec99fd60458bc8,26eafba360d79f31a2e4bb9a9d5afe14,37f4457e5f8601f7078107a61d95cebb,3cf03a446b263eb47f9bb1925e62ad53,49bfc478ca3393e09d70cceb54830eca,5e961a93641835436fad73d61620d170,61f28afbef3259f8979b86e433283da8,7a5faf300ae642a54454cef536d65ba9,7b61066a335e5c0c947423d35f2d48b0,80bad5afd9746ac448d070af8a9d9618,839e2c36eed0e17674cf22ef85bb2431,869940e7248f38af980e0af675b62f92,8c1efc62981d74c2ba9a2a9ef6d73656,97c5d30a8056321f115bd9afc2aec58c,c01644fc3f8d5bdc3d5d5717a051568d,defe5e297d03d7b99348f0ce44a9f506</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">01251d4201a05986338d19c8d7292916,021617d0d8e41113e78f26206d53fc83,06cb261637f1426286ad3996f9581f4b,0df0db276810838bb79216bb9bdf2468,1bae09d35bd945e1a4ec99fd60458bc8,26eafba360d79f31a2e4bb9a9d5afe14,37f4457e5f8601f7078107a61d95cebb,3cf03a446b263eb47f9bb1925e62ad53,49bfc478ca3393e09d70cceb54830eca,5e961a93641835436fad73d61620d170,61f28afbef3259f8979b86e433283da8,7a5faf300ae642a54454cef536d65ba9,7b61066a335e5c0c947423d35f2d48b0,80bad5afd9746ac448d070af8a9d9618,839e2c36eed0e17674cf22ef85bb2431,869940e7248f38af980e0af675b62f92,8c1efc62981d74c2ba9a2a9ef6d73656,97c5d30a8056321f115bd9afc2aec58c,c01644fc3f8d5bdc3d5d5717a051568d,defe5e297d03d7b99348f0ce44a9f506</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">01251d4201a05986338d19c8d7292916,021617d0d8e41113e78f26206d53fc83,06cb261637f1426286ad3996f9581f4b,0df0db276810838bb79216bb9bdf2468,1bae09d35bd945e1a4ec99fd60458bc8,26eafba360d79f31a2e4bb9a9d5afe14,37f4457e5f8601f7078107a61d95cebb,3cf03a446b263eb47f9bb1925e62ad53,49bfc478ca3393e09d70cceb54830eca,5e961a93641835436fad73d61620d170,61f28afbef3259f8979b86e433283da8,7a5faf300ae642a54454cef536d65ba9,7b61066a335e5c0c947423d35f2d48b0,80bad5afd9746ac448d070af8a9d9618,839e2c36eed0e17674cf22ef85bb2431,869940e7248f38af980e0af675b62f92,8c1efc62981d74c2ba9a2a9ef6d73656,97c5d30a8056321f115bd9afc2aec58c,c01644fc3f8d5bdc3d5d5717a051568d,defe5e297d03d7b99348f0ce44a9f506</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">01251d4201a05986338d19c8d7292916,021617d0d8e41113e78f26206d53fc83,06cb261637f1426286ad3996f9581f4b,0df0db276810838bb79216bb9bdf2468,1bae09d35bd945e1a4ec99fd60458bc8,26eafba360d79f31a2e4bb9a9d5afe14,37f4457e5f8601f7078107a61d95cebb,3cf03a446b263eb47f9bb1925e62ad53,49bfc478ca3393e09d70cceb54830eca,5e961a93641835436fad73d61620d170,61f28afbef3259f8979b86e433283da8,7a5faf300ae642a54454cef536d65ba9,7b61066a335e5c0c947423d35f2d48b0,80bad5afd9746ac448d070af8a9d9618,839e2c36eed0e17674cf22ef85bb2431,869940e7248f38af980e0af675b62f92,8c1efc62981d74c2ba9a2a9ef6d73656,97c5d30a8056321f115bd9afc2aec58c,c01644fc3f8d5bdc3d5d5717a051568d,defe5e297d03d7b99348f0ce44a9f506</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">01251d4201a05986338d19c8d7292916,021617d0d8e41113e78f26206d53fc83,06cb261637f1426286ad3996f9581f4b,0df0db276810838bb79216bb9bdf2468,1bae09d35bd945e1a4ec99fd60458bc8,26eafba360d79f31a2e4bb9a9d5afe14,37f4457e5f8601f7078107a61d95cebb,3cf03a446b263eb47f9bb1925e62ad53,49bfc478ca3393e09d70cceb54830eca,5e961a93641835436fad73d61620d170,61f28afbef3259f8979b86e433283da8,7a5faf300ae642a54454cef536d65ba9,7b61066a335e5c0c947423d35f2d48b0,80bad5afd9746ac448d070af8a9d9618,839e2c36eed0e17674cf22ef85bb2431,869940e7248f38af980e0af675b62f92,8c1efc62981d74c2ba9a2a9ef6d73656,97c5d30a8056321f115bd9afc2aec58c,c01644fc3f8d5bdc3d5d5717a051568d,defe5e297d03d7b99348f0ce44a9f506</data>
+    </edge>
+    <edge source="&quot;GEOFFREY SAX&quot;" target="&quot;FRANKIE &amp; ALICE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Geoffrey Sax directed Frankie &amp; Alice."</data>
+      <data key="d5">26eafba360d79f31a2e4bb9a9d5afe14</data>
+    </edge>
+    <edge source="&quot;HALLE BERRY&quot;" target="&quot;FRANKIE &amp; ALICE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Halle Berry starred in Frankie &amp; Alice."</data>
+      <data key="d5">26eafba360d79f31a2e4bb9a9d5afe14</data>
+    </edge>
+    <edge source="&quot;VANCOUVER&quot;" target="&quot;FRANKIE &amp; ALICE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Filming of Frankie &amp; Alice took place in Vancouver."</data>
+      <data key="d5">26eafba360d79f31a2e4bb9a9d5afe14</data>
+    </edge>
+    <edge source="&quot;VANCOUVER&quot;" target="&quot;DORNAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Reshoots involving Dornan took place in Vancouver during the week of October 13, 2014."</data>
+      <data key="d5">0df0db276810838bb79216bb9bdf2468</data>
+    </edge>
+    <edge source="&quot;VANCOUVER&quot;" target="&quot;JOHNSON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Reshoots involving Johnson took place in Vancouver during the week of October 13, 2014."</data>
+      <data key="d5">0df0db276810838bb79216bb9bdf2468</data>
+    </edge>
+    <edge source="&quot;BRITISH COLUMBIA&quot;" target="&quot;FRANKIE &amp; ALICE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Filming of Frankie &amp; Alice took place in British Columbia."</data>
+      <data key="d5">26eafba360d79f31a2e4bb9a9d5afe14</data>
+    </edge>
+    <edge source="&quot;THE ADVENTURES OF MAX AND BANKS.&quot;" target="&quot;NORTH SHORE STUDIOS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The film was shot at North Shore Studios under the working title The Adventures of Max and Banks."</data>
+      <data key="d5">0df0db276810838bb79216bb9bdf2468</data>
+    </edge>
+    <edge source="&quot;CHARLES PORTIS&quot;" target="&quot;TRUE GRIT&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Here is a comprehensive summary of the data:
+
+Charles Portis, the author, wrote the novel "True Grit", which was later adapted into a film of the same name.</data>
+      <data key="d5">06cb261637f1426286ad3996f9581f4b,5e961a93641835436fad73d61620d170</data>
+    </edge>
+    <edge source="&quot;MARGUERITE ROBERTS&quot;" target="&quot;TRUE GRIT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marguerite Roberts wrote the screenplay for the film adaptation of 'True Grit'."&gt;</data>
+      <data key="d5">5e961a93641835436fad73d61620d170</data>
+    </edge>
+    <edge source="&quot;HENRY HATHAWAY&quot;" target="&quot;TRUE GRIT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Henry Hathaway directed the 1969 film adaptation of 'True Grit'."&gt;</data>
+      <data key="d5">5e961a93641835436fad73d61620d170</data>
+    </edge>
+    <edge source="&quot;JOHN WAYNE&quot;" target="&quot;ROOSTER COGBURN&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Here is a comprehensive summary of the data:
+
+John Wayne plays the role of U.S. Marshal Reuben J. "Rooster" Cogburn, reprising his role in the 1975 film Rooster Cogburn and its sequel.</data>
+      <data key="d5">5e961a93641835436fad73d61620d170,869940e7248f38af980e0af675b62f92</data>
+    </edge>
+    <edge source="&quot;JOHN WAYNE&quot;" target="&quot;ADVENTURE'S END&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"John Wayne starred in Adventure's End."</data>
+      <data key="d5">1bae09d35bd945e1a4ec99fd60458bc8</data>
+    </edge>
+    <edge source="&quot;TRUE GRIT&quot;" target="&quot;COEN BROTHERS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Coen brothers directed, wrote, produced, and edited True Grit."</data>
+      <data key="d5">06cb261637f1426286ad3996f9581f4b</data>
+    </edge>
+    <edge source="&quot;TRUE GRIT&quot;" target="&quot;STEVEN SPIELBERG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Steven Spielberg is an executive producer of True Grit."</data>
+      <data key="d5">06cb261637f1426286ad3996f9581f4b</data>
+    </edge>
+    <edge source="&quot;TRUE GRIT&quot;" target="&quot;HAILEE STEINFELD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hailee Steinfeld stars in True Grit as Mattie Ross."</data>
+      <data key="d5">06cb261637f1426286ad3996f9581f4b</data>
+    </edge>
+    <edge source="&quot;TRUE GRIT&quot;" target="&quot;JEFF BRIDGES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jeff Bridges stars in True Grit as Deputy U.S. Marshal Reuben J. 'Rooster' Cogburn."</data>
+      <data key="d5">06cb261637f1426286ad3996f9581f4b</data>
+    </edge>
+    <edge source="&quot;TRUE GRIT&quot;" target="&quot;MATT DAMON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Matt Damon is an actor in True Grit."</data>
+      <data key="d5">06cb261637f1426286ad3996f9581f4b</data>
+    </edge>
+    <edge source="&quot;TRUE GRIT&quot;" target="&quot;JOSH BROLIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Josh Brolin is an actor in True Grit."</data>
+      <data key="d5">06cb261637f1426286ad3996f9581f4b</data>
+    </edge>
+    <edge source="&quot;TRUE GRIT&quot;" target="&quot;BARRY PEPPER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Barry Pepper is an actor in True Grit."</data>
+      <data key="d5">06cb261637f1426286ad3996f9581f4b</data>
+    </edge>
+    <edge source="&quot;TRUE GRIT&quot;" target="&quot;BEST PICTURE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"True Grit was nominated for Best Picture."</data>
+      <data key="d5">c01644fc3f8d5bdc3d5d5717a051568d</data>
+    </edge>
+    <edge source="&quot;GENERAL TUFTO&quot;" target="&quot;CHARLES J. RICHMAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Charles J. Richman played the role of General Tufto in the film 'Becky Sharp' (1935)."</data>
+      <data key="d5">01251d4201a05986338d19c8d7292916</data>
+    </edge>
+    <edge source="&quot;JUDGE THATCHER&quot;" target="&quot;CHARLES J. RICHMAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Charles J. Richman played the role of Judge Thatcher in the film 'The Adventures of Tom Sawyer' (1938)."</data>
+      <data key="d5">01251d4201a05986338d19c8d7292916</data>
+    </edge>
+    <edge source="&quot;HOLLYWOOD&quot;" target="&quot;CHARLES J. RICHMAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Charles J. Richman worked as an actor in Hollywood, playing supporting roles."</data>
+      <data key="d5">01251d4201a05986338d19c8d7292916</data>
+    </edge>
+    <edge source="&quot;HOLLYWOOD&quot;" target="&quot;BECKY SHARP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The film 'Becky Sharp' (1935) was produced in Hollywood."</data>
+      <data key="d5">01251d4201a05986338d19c8d7292916</data>
+    </edge>
+    <edge source="&quot;HOLLYWOOD&quot;" target="&quot;THE ADVENTURES OF TOM SAWYER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The film 'The Adventures of Tom Sawyer' (1938) was produced in Hollywood."</data>
+      <data key="d5">01251d4201a05986338d19c8d7292916</data>
+    </edge>
+    <edge source="&quot;UNIVERSAL PICTURES&quot;" target="&quot;ADVENTURE'S END&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Adventure's End was produced by Universal Pictures."</data>
+      <data key="d5">1bae09d35bd945e1a4ec99fd60458bc8</data>
+    </edge>
+    <edge source="&quot;ARTHUR LUBIN&quot;" target="&quot;ADVENTURE'S END&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Arthur Lubin directed Adventure's End."</data>
+      <data key="d5">1bae09d35bd945e1a4ec99fd60458bc8</data>
+    </edge>
+    <edge source="&quot;DIANA GIBSON&quot;" target="&quot;ADVENTURE'S END&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Diana Gibson starred in Adventure's End."</data>
+      <data key="d5">1bae09d35bd945e1a4ec99fd60458bc8</data>
+    </edge>
+    <edge source="&quot;TSAR&quot;" target="&quot;PRISONER OF THE VOLGA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The film Prisoner of the Volga is set during the time period of the Tsar."</data>
+      <data key="d5">61f28afbef3259f8979b86e433283da8</data>
+    </edge>
+    <edge source="&quot;SIBERIA&quot;" target="&quot;PRISONER OF THE VOLGA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"John Derek's character is sentenced to Siberia in the film Prisoner of the Volga."</data>
+      <data key="d5">61f28afbef3259f8979b86e433283da8</data>
+    </edge>
+    <edge source="&quot;PRISONER OF THE VOLGA&quot;" target="&quot;JOHN DEREK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"John Derek stars in the film Prisoner of the Volga."</data>
+      <data key="d5">61f28afbef3259f8979b86e433283da8</data>
+    </edge>
+    <edge source="&quot;HANS SCHWEIKART&quot;" target="&quot;LIBERATED HANDS OR FREED HANDS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hans Schweikart directed the 1939 German drama film Liberated Hands or Freed Hands."</data>
+      <data key="d5">8c1efc62981d74c2ba9a2a9ef6d73656</data>
+    </edge>
+    <edge source="&quot;BRIGITTE HORNEY&quot;" target="&quot;LIBERATED HANDS OR FREED HANDS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Brigitte Horney stars in the 1939 German drama film Liberated Hands or Freed Hands."</data>
+      <data key="d5">8c1efc62981d74c2ba9a2a9ef6d73656</data>
+    </edge>
+    <edge source="&quot;OLGA TSCHECHOWA&quot;" target="&quot;LIBERATED HANDS OR FREED HANDS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Olga Tschechowa stars in the 1939 German drama film Liberated Hands or Freed Hands."</data>
+      <data key="d5">8c1efc62981d74c2ba9a2a9ef6d73656</data>
+    </edge>
+    <edge source="&quot;EWALD BALSER&quot;" target="&quot;LIBERATED HANDS OR FREED HANDS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ewald Balser stars in the 1939 German drama film Liberated Hands or Freed Hands."</data>
+      <data key="d5">8c1efc62981d74c2ba9a2a9ef6d73656</data>
+    </edge>
+    <edge source="&quot;8TH VENICE INTERNATIONAL FILM FESTIVAL&quot;" target="&quot;LIBERATED HANDS OR FREED HANDS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 1939 German drama film Liberated Hands or Freed Hands was screened at the 8th Venice International Film Festival."</data>
+      <data key="d5">8c1efc62981d74c2ba9a2a9ef6d73656</data>
+    </edge>
+    <edge source="&quot;GERMANY&quot;" target="&quot;LIBERATED HANDS OR FREED HANDS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Liberated Hands or Freed Hands is a 1939 German drama film."</data>
+      <data key="d5">8c1efc62981d74c2ba9a2a9ef6d73656</data>
+    </edge>
+    <edge source="&quot;ERICH SCH&#214;NFELDER&quot;" target="&quot;MARIE'S SOLDIER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Erich Sch&#246;nfelder directed Marie's Soldier."</data>
+      <data key="d5">37f4457e5f8601f7078107a61d95cebb</data>
+    </edge>
+    <edge source="&quot;XENIA DESNI&quot;" target="&quot;MARIE'S SOLDIER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Xenia Desni starred in Marie's Soldier."</data>
+      <data key="d5">37f4457e5f8601f7078107a61d95cebb</data>
+    </edge>
+    <edge source="&quot;HARRY LIEDTKE&quot;" target="&quot;MARIE'S SOLDIER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Harry Liedtke starred in Marie's Soldier."</data>
+      <data key="d5">37f4457e5f8601f7078107a61d95cebb</data>
+    </edge>
+    <edge source="&quot;GRIT HAID&quot;" target="&quot;MARIE'S SOLDIER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Grit Haid starred in Marie's Soldier."</data>
+      <data key="d5">37f4457e5f8601f7078107a61d95cebb</data>
+    </edge>
+    <edge source="&quot;KURT RICHTER&quot;" target="&quot;MARIE'S SOLDIER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Kurt Richter was the art director of Marie's Soldier."</data>
+      <data key="d5">37f4457e5f8601f7078107a61d95cebb</data>
+    </edge>
+    <edge source="&quot;CRAWFORDS AUSTRALIA&quot;" target="&quot;I LIVE WITH ME DAD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"I Live with Me Dad was produced by Crawfords Australia."</data>
+      <data key="d5">021617d0d8e41113e78f26206d53fc83</data>
+    </edge>
+    <edge source="&quot;SID (HEHIR)&quot;" target="&quot;CRISPY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sid (Hehir) is the father of Crispy in the TV movie I Live with Me Dad."</data>
+      <data key="d5">021617d0d8e41113e78f26206d53fc83</data>
+    </edge>
+    <edge source="&quot;SID (HEHIR)&quot;" target="&quot;I LIVE WITH ME DAD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The TV movie I Live with Me Dad tells the story of Sid (Hehir) and his son Crispy."</data>
+      <data key="d5">021617d0d8e41113e78f26206d53fc83</data>
+    </edge>
+    <edge source="&quot;GEORGE PEPPARD&quot;" target="&quot;COLONEL JOHN ``HANNIBAL ''SMITH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"George Peppard played the role of Colonel John ``Hannibal ''Smith in The A-Team."</data>
+      <data key="d5">839e2c36eed0e17674cf22ef85bb2431</data>
+    </edge>
+    <edge source="&quot;JAMES COBURN&quot;" target="&quot;THE A-TEAM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"James Coburn was originally considered to play the part of Hannibal in The A-Team."</data>
+      <data key="d5">839e2c36eed0e17674cf22ef85bb2431</data>
+    </edge>
+    <edge source="&quot;THE A-TEAM&quot;" target="&quot;COLONEL JOHN ``HANNIBAL ''SMITH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Colonel John ``Hannibal ''Smith is a protagonist of The A-Team."</data>
+      <data key="d5">839e2c36eed0e17674cf22ef85bb2431</data>
+    </edge>
+    <edge source="&quot;JOHN G. BLYSTONE&quot;" target="&quot;FOX FILM CORPORATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"John G. Blystone directed the 1925 film Dick Turpin, which was produced and distributed by Fox Film Corporation."</data>
+      <data key="d5">97c5d30a8056321f115bd9afc2aec58c</data>
+    </edge>
+    <edge source="&quot;TOM MIX&quot;" target="&quot;FOX FILM CORPORATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tom Mix starred in the 1925 film Dick Turpin, which was produced and distributed by Fox Film Corporation."</data>
+      <data key="d5">97c5d30a8056321f115bd9afc2aec58c</data>
+    </edge>
+    <edge source="&quot;STUART MILLAR&quot;" target="&quot;ROOSTER COGBURN (FILM)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Stuart Millar directed the 1975 American Western adventure film Rooster Cogburn."</data>
+      <data key="d5">869940e7248f38af980e0af675b62f92</data>
+    </edge>
+    <edge source="&quot;ROOSTER COGBURN (FILM)&quot;" target="&quot;TRUE GRIT (NOVEL)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 1975 film Rooster Cogburn is a sequel to the 1969 film True Grit, based on the character created by Charles McColl Portis."</data>
+      <data key="d5">869940e7248f38af980e0af675b62f92</data>
+    </edge>
+    <edge source="&quot;MICK TRAVIS&quot;" target="&quot;BRITANNIA HOSPITAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mick Travis is a muckraking reporter investigating the activities of Britannia Hospital."</data>
+      <data key="d5">80bad5afd9746ac448d070af8a9d9618</data>
+    </edge>
+    <edge source="&quot;MICK TRAVIS&quot;" target="&quot;MALCOLM MCDOWELL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Malcolm McDowell portrays Mick Travis in Anderson's trilogy of films."</data>
+      <data key="d5">80bad5afd9746ac448d070af8a9d9618</data>
+    </edge>
+    <edge source="&quot;DAVID SHERWIN&quot;" target="&quot;BRITANNIA HOSPITAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"David Sherwin wrote the screenplay for Britannia Hospital."</data>
+      <data key="d5">80bad5afd9746ac448d070af8a9d9618</data>
+    </edge>
+    <edge source="&quot;PROFESSOR MILLAR&quot;" target="&quot;BRITANNIA HOSPITAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Professor Millar is a character involved in the strange activities at Britannia Hospital."</data>
+      <data key="d5">80bad5afd9746ac448d070af8a9d9618</data>
+    </edge>
+    <edge source="&quot;REALMFORGE STUDIOS&quot;" target="&quot;CEVILLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Realmforge Studios developed Ceville."</data>
+      <data key="d5">3cf03a446b263eb47f9bb1925e62ad53</data>
+    </edge>
+    <edge source="&quot;KALYPSO MEDIA&quot;" target="&quot;CEVILLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Kalypso Media published Ceville."</data>
+      <data key="d5">3cf03a446b263eb47f9bb1925e62ad53</data>
+    </edge>
+    <edge source="&quot;LUCASARTS&quot;" target="&quot;MONKEY ISLAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"LucasArts developed the Monkey Island game series."</data>
+      <data key="d5">3cf03a446b263eb47f9bb1925e62ad53</data>
+    </edge>
+    <edge source="&quot;SIERRA ONLINE&quot;" target="&quot;KING'S QUEST&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sierra Online developed the King's Quest game series."</data>
+      <data key="d5">3cf03a446b263eb47f9bb1925e62ad53</data>
+    </edge>
+    <edge source="&quot;JESS SMITH&quot;" target="&quot;THE SUN BABY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jess Smith plays the role of The Sun Baby in the original series."</data>
+      <data key="d5">49bfc478ca3393e09d70cceb54830eca</data>
+    </edge>
+    <edge source="&quot;TELETUBBIES&quot;" target="&quot;THE SUN BABY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Sun Baby acts as a wake-up call for the Teletubbies."</data>
+      <data key="d5">49bfc478ca3393e09d70cceb54830eca</data>
+    </edge>
+    <edge source="&quot;INCEPTION&quot;" target="&quot;BEST PICTURE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Inception was nominated for Best Picture."</data>
+      <data key="d5">c01644fc3f8d5bdc3d5d5717a051568d</data>
+    </edge>
+    <edge source="&quot;TOY STORY 3&quot;" target="&quot;BEST PICTURE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Toy Story 3 was nominated for Best Picture."</data>
+      <data key="d5">c01644fc3f8d5bdc3d5d5717a051568d</data>
+    </edge>
+    <edge source="&quot;THE MUSIC MAN&quot;" target="&quot;MEREDITH WILLSON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Meredith Willson wrote The Music Man, a musical play that premiered in 1957."</data>
+      <data key="d5">defe5e297d03d7b99348f0ce44a9f506</data>
+    </edge>
+    <edge source="&quot;MARIAN PAROO&quot;" target="&quot;HAROLD HILL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marian Paroo sings 'Till There Was You' to Harold Hill toward the end of Act Two in The Music Man."</data>
+      <data key="d5">defe5e297d03d7b99348f0ce44a9f506</data>
+    </edge>
+    <edge source="&quot;MARIAN PAROO&quot;" target="&quot;BARBARA COOK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Barbara Cook played Marian Paroo on Broadway in The Music Man."</data>
+      <data key="d5">defe5e297d03d7b99348f0ce44a9f506</data>
+    </edge>
+    <edge source="&quot;MARIAN PAROO&quot;" target="&quot;SHIRLEY JONES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Shirley Jones played Marian Paroo in the 1962 film adaptation of The Music Man."</data>
+      <data key="d5">defe5e297d03d7b99348f0ce44a9f506</data>
+    </edge>
+    <edge source="&quot;HAROLD HILL&quot;" target="&quot;ROBERT PRESTON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Robert Preston portrayed Harold Hill in the 1962 film adaptation of The Music Man."</data>
+      <data key="d5">defe5e297d03d7b99348f0ce44a9f506</data>
+    </edge>
+    <edge source="&quot;HOMI WADIA&quot;" target="&quot;JUNGLE KA JAWAHAR (HERO OF THE FOREST)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Homi Wadia directed the film Jungle Ka Jawahar (Hero of the Forest)."</data>
+      <data key="d5">7b61066a335e5c0c947423d35f2d48b0</data>
+    </edge>
+    <edge source="&quot;BASANT PICTURES&quot;" target="&quot;JUNGLE KA JAWAHAR (HERO OF THE FOREST)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Basant Pictures produced the film Jungle Ka Jawahar (Hero of the Forest)."</data>
+      <data key="d5">7b61066a335e5c0c947423d35f2d48b0</data>
+    </edge>
+    <edge source="&quot;FEARLESS NADIA&quot;" target="&quot;JUNGLE KA JAWAHAR (HERO OF THE FOREST)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Fearless Nadia starred in the film Jungle Ka Jawahar (Hero of the Forest)."</data>
+      <data key="d5">7b61066a335e5c0c947423d35f2d48b0</data>
+    </edge>
+  </graph>
+</graphml>

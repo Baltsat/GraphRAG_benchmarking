@@ -1,0 +1,1358 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="id" attr.type="string" />
+  <key id="d6" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d5" for="node" attr.name="degree" attr.type="long" />
+  <key id="d4" for="node" attr.name="level" attr.type="long" />
+  <key id="d3" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;SPAIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Spain is a country located in Europe, where Humanes de Madrid is situated. It is also the homeland of Paco Godia, a notable figure. Furthermore, Spain is renowned for being the base of two prominent football teams, Barcelona and Real Madrid, which compete against each other in the highly anticipated El Cl&#225;sico match.</data>
+      <data key="d2">30c286f59b78fcc8be9f5306dc492cee,5fcab61ce631d5b6220e214d644d3399,998622965439dfdc730b38e8696b323e,ac947aecbfe3da5fe3ffc957a933d3e8,ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">5</data>
+      <data key="d6">0</data>
+      <data key="d7">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;MADRID METROPOLITAN AREA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Madrid Metropolitan Area is a region in Spain where Humanes de Madrid is situated."</data>
+      <data key="d2">ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">1</data>
+      <data key="d7">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;COMMUNITY OF MADRID&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Community of Madrid is an administrative division in Spain that includes Humanes de Madrid."</data>
+      <data key="d2">ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">2</data>
+      <data key="d7">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;HUMANES DE MADRID&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">3</data>
+      <data key="d7">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">051118aaaff136d7ea45d104e42560d7,2138b3276c637e8cac0dce4ce11346c7,2fac000d44f821957fb7860993bec753,30c286f59b78fcc8be9f5306dc492cee,30cf51b88cb830ba306062ec90b35fd5,30dd236747ce98213a97cf05fb7c40d4,333f31ee013f38da5a349aa3ee3c13bd,493640a5eb164ea3e1e56064ecbc9545,4f18c406d00dc4a622cb956f8df74d85,5fcab61ce631d5b6220e214d644d3399,6801a29f6d9ed4dd5ebb453c5785c565,6f005d56aaf45297065e0732c1079683,70cb7ea786813ec9ca244ed67b8adf6c,7e8cbc111094b2e53f79476960199419,998622965439dfdc730b38e8696b323e,9e08615f3558f287e6a0c20dca462242,a03cdc3d3050323ed8bce2d2bad589c0,a0a5c4f79fcfd157dc8262c1246fb12c,ac947aecbfe3da5fe3ffc957a933d3e8,ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d5">2</data>
+      <data key="d6">4</data>
+      <data key="d7">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">051118aaaff136d7ea45d104e42560d7,2138b3276c637e8cac0dce4ce11346c7,2fac000d44f821957fb7860993bec753,30c286f59b78fcc8be9f5306dc492cee,30cf51b88cb830ba306062ec90b35fd5,30dd236747ce98213a97cf05fb7c40d4,333f31ee013f38da5a349aa3ee3c13bd,493640a5eb164ea3e1e56064ecbc9545,4f18c406d00dc4a622cb956f8df74d85,5fcab61ce631d5b6220e214d644d3399,6801a29f6d9ed4dd5ebb453c5785c565,6f005d56aaf45297065e0732c1079683,70cb7ea786813ec9ca244ed67b8adf6c,7e8cbc111094b2e53f79476960199419,998622965439dfdc730b38e8696b323e,9e08615f3558f287e6a0c20dca462242,a03cdc3d3050323ed8bce2d2bad589c0,a0a5c4f79fcfd157dc8262c1246fb12c,ac947aecbfe3da5fe3ffc957a933d3e8,ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d5">1</data>
+      <data key="d6">5</data>
+      <data key="d7">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">051118aaaff136d7ea45d104e42560d7,2138b3276c637e8cac0dce4ce11346c7,2fac000d44f821957fb7860993bec753,30c286f59b78fcc8be9f5306dc492cee,30cf51b88cb830ba306062ec90b35fd5,30dd236747ce98213a97cf05fb7c40d4,333f31ee013f38da5a349aa3ee3c13bd,493640a5eb164ea3e1e56064ecbc9545,4f18c406d00dc4a622cb956f8df74d85,5fcab61ce631d5b6220e214d644d3399,6801a29f6d9ed4dd5ebb453c5785c565,6f005d56aaf45297065e0732c1079683,70cb7ea786813ec9ca244ed67b8adf6c,7e8cbc111094b2e53f79476960199419,998622965439dfdc730b38e8696b323e,9e08615f3558f287e6a0c20dca462242,a03cdc3d3050323ed8bce2d2bad589c0,a0a5c4f79fcfd157dc8262c1246fb12c,ac947aecbfe3da5fe3ffc957a933d3e8,ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d5">4</data>
+      <data key="d6">6</data>
+      <data key="d7">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">051118aaaff136d7ea45d104e42560d7,2138b3276c637e8cac0dce4ce11346c7,2fac000d44f821957fb7860993bec753,30c286f59b78fcc8be9f5306dc492cee,30cf51b88cb830ba306062ec90b35fd5,30dd236747ce98213a97cf05fb7c40d4,333f31ee013f38da5a349aa3ee3c13bd,493640a5eb164ea3e1e56064ecbc9545,4f18c406d00dc4a622cb956f8df74d85,5fcab61ce631d5b6220e214d644d3399,6801a29f6d9ed4dd5ebb453c5785c565,6f005d56aaf45297065e0732c1079683,70cb7ea786813ec9ca244ed67b8adf6c,7e8cbc111094b2e53f79476960199419,998622965439dfdc730b38e8696b323e,9e08615f3558f287e6a0c20dca462242,a03cdc3d3050323ed8bce2d2bad589c0,a0a5c4f79fcfd157dc8262c1246fb12c,ac947aecbfe3da5fe3ffc957a933d3e8,ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d5">1</data>
+      <data key="d6">7</data>
+      <data key="d7">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">051118aaaff136d7ea45d104e42560d7,2138b3276c637e8cac0dce4ce11346c7,2fac000d44f821957fb7860993bec753,30c286f59b78fcc8be9f5306dc492cee,30cf51b88cb830ba306062ec90b35fd5,30dd236747ce98213a97cf05fb7c40d4,333f31ee013f38da5a349aa3ee3c13bd,493640a5eb164ea3e1e56064ecbc9545,4f18c406d00dc4a622cb956f8df74d85,5fcab61ce631d5b6220e214d644d3399,6801a29f6d9ed4dd5ebb453c5785c565,6f005d56aaf45297065e0732c1079683,70cb7ea786813ec9ca244ed67b8adf6c,7e8cbc111094b2e53f79476960199419,998622965439dfdc730b38e8696b323e,9e08615f3558f287e6a0c20dca462242,a03cdc3d3050323ed8bce2d2bad589c0,a0a5c4f79fcfd157dc8262c1246fb12c,ac947aecbfe3da5fe3ffc957a933d3e8,ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d5">1</data>
+      <data key="d6">8</data>
+      <data key="d7">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">051118aaaff136d7ea45d104e42560d7,2138b3276c637e8cac0dce4ce11346c7,2fac000d44f821957fb7860993bec753,30c286f59b78fcc8be9f5306dc492cee,30cf51b88cb830ba306062ec90b35fd5,30dd236747ce98213a97cf05fb7c40d4,333f31ee013f38da5a349aa3ee3c13bd,493640a5eb164ea3e1e56064ecbc9545,4f18c406d00dc4a622cb956f8df74d85,5fcab61ce631d5b6220e214d644d3399,6801a29f6d9ed4dd5ebb453c5785c565,6f005d56aaf45297065e0732c1079683,70cb7ea786813ec9ca244ed67b8adf6c,7e8cbc111094b2e53f79476960199419,998622965439dfdc730b38e8696b323e,9e08615f3558f287e6a0c20dca462242,a03cdc3d3050323ed8bce2d2bad589c0,a0a5c4f79fcfd157dc8262c1246fb12c,ac947aecbfe3da5fe3ffc957a933d3e8,ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d5">2</data>
+      <data key="d6">9</data>
+      <data key="d7">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">051118aaaff136d7ea45d104e42560d7,2138b3276c637e8cac0dce4ce11346c7,2fac000d44f821957fb7860993bec753,30c286f59b78fcc8be9f5306dc492cee,30cf51b88cb830ba306062ec90b35fd5,30dd236747ce98213a97cf05fb7c40d4,333f31ee013f38da5a349aa3ee3c13bd,493640a5eb164ea3e1e56064ecbc9545,4f18c406d00dc4a622cb956f8df74d85,5fcab61ce631d5b6220e214d644d3399,6801a29f6d9ed4dd5ebb453c5785c565,6f005d56aaf45297065e0732c1079683,70cb7ea786813ec9ca244ed67b8adf6c,7e8cbc111094b2e53f79476960199419,998622965439dfdc730b38e8696b323e,9e08615f3558f287e6a0c20dca462242,a03cdc3d3050323ed8bce2d2bad589c0,a0a5c4f79fcfd157dc8262c1246fb12c,ac947aecbfe3da5fe3ffc957a933d3e8,ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d5">1</data>
+      <data key="d6">10</data>
+      <data key="d7">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">051118aaaff136d7ea45d104e42560d7,2138b3276c637e8cac0dce4ce11346c7,2fac000d44f821957fb7860993bec753,30c286f59b78fcc8be9f5306dc492cee,30cf51b88cb830ba306062ec90b35fd5,30dd236747ce98213a97cf05fb7c40d4,333f31ee013f38da5a349aa3ee3c13bd,493640a5eb164ea3e1e56064ecbc9545,4f18c406d00dc4a622cb956f8df74d85,5fcab61ce631d5b6220e214d644d3399,6801a29f6d9ed4dd5ebb453c5785c565,6f005d56aaf45297065e0732c1079683,70cb7ea786813ec9ca244ed67b8adf6c,7e8cbc111094b2e53f79476960199419,998622965439dfdc730b38e8696b323e,9e08615f3558f287e6a0c20dca462242,a03cdc3d3050323ed8bce2d2bad589c0,a0a5c4f79fcfd157dc8262c1246fb12c,ac947aecbfe3da5fe3ffc957a933d3e8,ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d5">1</data>
+      <data key="d6">11</data>
+      <data key="d7">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">051118aaaff136d7ea45d104e42560d7,2138b3276c637e8cac0dce4ce11346c7,2fac000d44f821957fb7860993bec753,30c286f59b78fcc8be9f5306dc492cee,30cf51b88cb830ba306062ec90b35fd5,30dd236747ce98213a97cf05fb7c40d4,333f31ee013f38da5a349aa3ee3c13bd,493640a5eb164ea3e1e56064ecbc9545,4f18c406d00dc4a622cb956f8df74d85,5fcab61ce631d5b6220e214d644d3399,6801a29f6d9ed4dd5ebb453c5785c565,6f005d56aaf45297065e0732c1079683,70cb7ea786813ec9ca244ed67b8adf6c,7e8cbc111094b2e53f79476960199419,998622965439dfdc730b38e8696b323e,9e08615f3558f287e6a0c20dca462242,a03cdc3d3050323ed8bce2d2bad589c0,a0a5c4f79fcfd157dc8262c1246fb12c,ac947aecbfe3da5fe3ffc957a933d3e8,ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d5">0</data>
+      <data key="d6">12</data>
+      <data key="d7">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">051118aaaff136d7ea45d104e42560d7,2138b3276c637e8cac0dce4ce11346c7,2fac000d44f821957fb7860993bec753,30c286f59b78fcc8be9f5306dc492cee,30cf51b88cb830ba306062ec90b35fd5,30dd236747ce98213a97cf05fb7c40d4,333f31ee013f38da5a349aa3ee3c13bd,493640a5eb164ea3e1e56064ecbc9545,4f18c406d00dc4a622cb956f8df74d85,5fcab61ce631d5b6220e214d644d3399,6801a29f6d9ed4dd5ebb453c5785c565,6f005d56aaf45297065e0732c1079683,70cb7ea786813ec9ca244ed67b8adf6c,7e8cbc111094b2e53f79476960199419,998622965439dfdc730b38e8696b323e,9e08615f3558f287e6a0c20dca462242,a03cdc3d3050323ed8bce2d2bad589c0,a0a5c4f79fcfd157dc8262c1246fb12c,ac947aecbfe3da5fe3ffc957a933d3e8,ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d5">5</data>
+      <data key="d6">13</data>
+      <data key="d7">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;JOS&#201; MOURINHO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jos&#233; Mourinho is a former coach of Real Madrid who appealed for Zidane's involvement with the team."</data>
+      <data key="d2">7e8cbc111094b2e53f79476960199419</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">14</data>
+      <data key="d7">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;REAL MADRID&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Real Madrid is a dominant football club based in Spain, specifically representing Castile and its city. The team participates in La Liga, where it has won a record 33 titles. Real Madrid has employed Zinedine Zidane in various capacities, including special adviser and assistant coach. As a rival of FC Barcelona, the team engages in intense El Cl&#225;sico matches against its opponent.</data>
+      <data key="d2">30c286f59b78fcc8be9f5306dc492cee,30cf51b88cb830ba306062ec90b35fd5,333f31ee013f38da5a349aa3ee3c13bd,493640a5eb164ea3e1e56064ecbc9545,4f18c406d00dc4a622cb956f8df74d85,6f005d56aaf45297065e0732c1079683,70cb7ea786813ec9ca244ed67b8adf6c,7e8cbc111094b2e53f79476960199419,a03cdc3d3050323ed8bce2d2bad589c0,a0a5c4f79fcfd157dc8262c1246fb12c,ac947aecbfe3da5fe3ffc957a933d3e8</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">13</data>
+      <data key="d6">15</data>
+      <data key="d7">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;CHAMPIONS LEAGUE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Champions League is an event where Real Madrid participates, and Zidane was expected to be involved in as part of his role."</data>
+      <data key="d2">7e8cbc111094b2e53f79476960199419</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">16</data>
+      <data key="d7">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;ZIDANE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7e8cbc111094b2e53f79476960199419</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">17</data>
+      <data key="d7">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;CATALONIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Catalonia is a region in Spain, represented by Barcelona football team."</data>
+      <data key="d2">6f005d56aaf45297065e0732c1079683</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">18</data>
+      <data key="d7">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;CASTILE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Castile is a region in Spain, represented by Real Madrid football team."</data>
+      <data key="d2">6f005d56aaf45297065e0732c1079683</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">19</data>
+      <data key="d7">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;EL CL&#193;SICO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+"El Cl&#225;sico" is the game between Barcelona and Real Madrid, reflecting political and cultural tensions between Catalans and Castilians.</data>
+      <data key="d2">30c286f59b78fcc8be9f5306dc492cee,6f005d56aaf45297065e0732c1079683,ac947aecbfe3da5fe3ffc957a933d3e8</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">20</data>
+      <data key="d7">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;BARCELONA&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Barcelona is a Spanish football club that participates in La Liga and leads in total matches against Real Madrid. The team is based in Spain and participates in El Cl&#225;sico matches against Real Madrid, with their home stadium being Camp Nou. Barcelona has won four Cup Winners' Cup titles and shares records in Super Cup and Intercontinental Cup wins. Additionally, they are a prominent team in La Liga, having won the title 25 times. The city of Barcelona is also a geographic location associated with FC Barcelona and is known as the hometown of Paco Godia.
+
+Note: I resolved the contradiction between "having won the title 24 times" and "having won the title 25 times" by choosing the higher number, assuming it to be the more accurate information.</data>
+      <data key="d2">30c286f59b78fcc8be9f5306dc492cee,30cf51b88cb830ba306062ec90b35fd5,333f31ee013f38da5a349aa3ee3c13bd,4f18c406d00dc4a622cb956f8df74d85,6f005d56aaf45297065e0732c1079683,70cb7ea786813ec9ca244ed67b8adf6c,998622965439dfdc730b38e8696b323e,a03cdc3d3050323ed8bce2d2bad589c0,a0a5c4f79fcfd157dc8262c1246fb12c,ac947aecbfe3da5fe3ffc957a933d3e8</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">10</data>
+      <data key="d6">21</data>
+      <data key="d7">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;MANOLO SANCH&#205;S&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Manolo Sanch&#237;s is a football player who has made the most appearances in El Cl&#225;sico matches."</data>
+      <data key="d2">30c286f59b78fcc8be9f5306dc492cee,ac947aecbfe3da5fe3ffc957a933d3e8</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">22</data>
+      <data key="d7">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;LIONEL MESSI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Lionel Messi is a football player who is the top scorer in El Cl&#225;sico matches.</data>
+      <data key="d2">30c286f59b78fcc8be9f5306dc492cee,333f31ee013f38da5a349aa3ee3c13bd,ac947aecbfe3da5fe3ffc957a933d3e8</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">23</data>
+      <data key="d7">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;CHARLES P&#201;LISSIER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Charles P&#233;lissier shared the lead with Raffaele di Paco after stage 5 of the 1931 Tour de France."</data>
+      <data key="d2">6801a29f6d9ed4dd5ebb453c5785c565</data>
+      <data key="d5">1</data>
+      <data key="d6">24</data>
+      <data key="d7">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;TOUR DE FRANCE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Tour de France is a road racing cycling event where Raffaele di Paco won several stages and wore the yellow jersey."</data>
+      <data key="d2">6801a29f6d9ed4dd5ebb453c5785c565</data>
+      <data key="d5">1</data>
+      <data key="d6">25</data>
+      <data key="d7">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;FAUGLIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Fauglia is a location in Tuscany, Italy, where Raffaele di Paco was born and died."</data>
+      <data key="d2">6801a29f6d9ed4dd5ebb453c5785c565</data>
+      <data key="d5">1</data>
+      <data key="d6">26</data>
+      <data key="d7">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;TUSCANY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Tuscany is a region in Italy where Fauglia is located."</data>
+      <data key="d2">6801a29f6d9ed4dd5ebb453c5785c565</data>
+      <data key="d5">0</data>
+      <data key="d6">27</data>
+      <data key="d7">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;RAFFAELE DI PACO&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6801a29f6d9ed4dd5ebb453c5785c565</data>
+      <data key="d5">3</data>
+      <data key="d6">28</data>
+      <data key="d7">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;MANCHESTER UNITED&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Manchester United is a football club that participated in the 2017 UEFA Super Cup Match."</data>
+      <data key="d2">493640a5eb164ea3e1e56064ecbc9545</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">29</data>
+      <data key="d7">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;ISCO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Isco is a player of Real Madrid who was awarded Man of the Match in the 2017 UEFA Super Cup Match."</data>
+      <data key="d2">493640a5eb164ea3e1e56064ecbc9545</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">30</data>
+      <data key="d7">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;GIANLUCA ROCCHI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gianluca Rocchi is an Italian referee who officiated the 2017 UEFA Super Cup Match."</data>
+      <data key="d2">493640a5eb164ea3e1e56064ecbc9545</data>
+      <data key="d5">1</data>
+      <data key="d6">31</data>
+      <data key="d7">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&quot;PHILIP II ARENA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Philip II Arena is a stadium located in Skopje, where the 2017 UEFA Super Cup Match was held."</data>
+      <data key="d2">493640a5eb164ea3e1e56064ecbc9545</data>
+      <data key="d5">1</data>
+      <data key="d6">32</data>
+      <data key="d7">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&quot;SKOPJE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Skopje is a city where the Philip II Arena is located and hosted the 2017 UEFA Super Cup Match."</data>
+      <data key="d2">493640a5eb164ea3e1e56064ecbc9545</data>
+      <data key="d5">1</data>
+      <data key="d6">33</data>
+      <data key="d7">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&quot;ITALY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Italy is the country of origin of referee Gianluca Rocchi."</data>
+      <data key="d2">493640a5eb164ea3e1e56064ecbc9545</data>
+      <data key="d5">1</data>
+      <data key="d6">34</data>
+      <data key="d7">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&quot;2017 UEFA SUPER CUP MATCH&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2017 UEFA Super Cup Match was a football match played between Real Madrid and Manchester United on August 8, 2017."</data>
+      <data key="d2">493640a5eb164ea3e1e56064ecbc9545</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">35</data>
+      <data key="d7">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&quot;WILLIAM CORNWALLIS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"William Cornwallis assumed command of the blockade of Brest during the Napoleonic Wars."</data>
+      <data key="d2">051118aaaff136d7ea45d104e42560d7</data>
+      <data key="d5">2</data>
+      <data key="d6">36</data>
+      <data key="d7">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&quot;MARTINIQUE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Martinique was one of the locations where Nugent served in the naval brigade during the French Revolutionary Wars."</data>
+      <data key="d2">051118aaaff136d7ea45d104e42560d7</data>
+      <data key="d5">0</data>
+      <data key="d6">37</data>
+      <data key="d7">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&quot;SAINT LUCIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Saint Lucia was one of the locations where Nugent served in the naval brigade during the French Revolutionary Wars."</data>
+      <data key="d2">051118aaaff136d7ea45d104e42560d7</data>
+      <data key="d5">0</data>
+      <data key="d6">38</data>
+      <data key="d7">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&quot;GUADALOUPE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Guadaloupe was one of the locations where Nugent served in the naval brigade during the French Revolutionary Wars."</data>
+      <data key="d2">051118aaaff136d7ea45d104e42560d7</data>
+      <data key="d5">0</data>
+      <data key="d6">39</data>
+      <data key="d7">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <node id="&quot;BREST&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Brest was the location of the blockade commanded by William Cornwallis during the Napoleonic Wars."</data>
+      <data key="d2">051118aaaff136d7ea45d104e42560d7</data>
+      <data key="d5">0</data>
+      <data key="d6">40</data>
+      <data key="d7">3ce7c210a21b4deebad7cc9308148d86</data>
+    </node>
+    <node id="&quot;FRENCH REVOLUTIONARY WARS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The French Revolutionary Wars were a series of conflicts where Nugent served in the naval brigade."</data>
+      <data key="d2">051118aaaff136d7ea45d104e42560d7</data>
+      <data key="d5">1</data>
+      <data key="d6">41</data>
+      <data key="d7">d64ed762ea924caa95c8d06f072a9a96</data>
+    </node>
+    <node id="&quot;NAPOLEONIC WARS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Napoleonic Wars were a series of conflicts where William Cornwallis assumed command of the blockade of Brest."</data>
+      <data key="d2">051118aaaff136d7ea45d104e42560d7</data>
+      <data key="d5">1</data>
+      <data key="d6">42</data>
+      <data key="d7">adf4ee3fbe9b4d0381044838c4f889c8</data>
+    </node>
+    <node id="&quot;NUGENT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">051118aaaff136d7ea45d104e42560d7</data>
+      <data key="d5">2</data>
+      <data key="d6">43</data>
+      <data key="d7">32ee140946e5461f9275db664dc541a5</data>
+    </node>
+    <node id="&quot;REAL JARD&#205;N BOT&#193;NICO DE MADRID&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Real Jard&#237;n Bot&#225;nico de Madrid is the Royal Botanical Garden of Madrid where Elena Paunero Ruiz worked for many years."</data>
+      <data key="d2">30dd236747ce98213a97cf05fb7c40d4</data>
+      <data key="d5">2</data>
+      <data key="d6">44</data>
+      <data key="d7">c160b9cb27d6408ba6ab20214a2f3f81</data>
+    </node>
+    <node id="&quot;MADRID&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Madrid is a location in Spain that is home to several notable institutions, including the Real Jard&#237;n Bot&#225;nico de Madrid and the renowned football club, Real Madrid Club de F&#250;tbol.</data>
+      <data key="d2">2fac000d44f821957fb7860993bec753,30dd236747ce98213a97cf05fb7c40d4</data>
+      <data key="d5">2</data>
+      <data key="d6">45</data>
+      <data key="d7">23527cd679ff4d5a988d52e7cd056078</data>
+    </node>
+    <node id="&quot;ELENA PAUNERO RUIZ&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">30dd236747ce98213a97cf05fb7c40d4</data>
+      <data key="d5">1</data>
+      <data key="d6">46</data>
+      <data key="d7">f1c6eed066f24cbdb376b910fce29ed4</data>
+    </node>
+    <node id="&quot;ATHLETIC BILBAO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Athletic Bilbao is a football club that participates in La Liga, a prestigious league in which it has consistently maintained its position, along with Real Madrid and Barcelona, without ever being relegated. Throughout its history, the team has claimed several titles in La Liga's early years, solidifying its reputation as a formidable competitor in Spanish football.</data>
+      <data key="d2">30cf51b88cb830ba306062ec90b35fd5,333f31ee013f38da5a349aa3ee3c13bd,70cb7ea786813ec9ca244ed67b8adf6c,a03cdc3d3050323ed8bce2d2bad589c0</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">47</data>
+      <data key="d7">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+    </node>
+    <node id="&quot;REAL SOCIEDAD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Real Sociedad is a team that has won the league twice, primarily in the 1980s."</data>
+      <data key="d2">30cf51b88cb830ba306062ec90b35fd5,70cb7ea786813ec9ca244ed67b8adf6c</data>
+      <data key="d5">0</data>
+      <data key="d6">48</data>
+      <data key="d7">147c038aef3e4422acbbc5f7938c4ab8</data>
+    </node>
+    <node id="&quot;ATL&#201;TICO MADRID&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Atl&#233;tico Madrid is a football club that participates in La Liga, having evolved into a strong team that forms a trio alongside Real Madrid and Barcelona.</data>
+      <data key="d2">30cf51b88cb830ba306062ec90b35fd5,333f31ee013f38da5a349aa3ee3c13bd,70cb7ea786813ec9ca244ed67b8adf6c</data>
+      <data key="d5">1</data>
+      <data key="d6">49</data>
+      <data key="d7">b7702b90c7f24190b864e8c6e64612a5</data>
+    </node>
+    <node id="&quot;VALENCIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Valencia is a team that has won the league title in La Liga."</data>
+      <data key="d2">30cf51b88cb830ba306062ec90b35fd5,70cb7ea786813ec9ca244ed67b8adf6c</data>
+      <data key="d5">0</data>
+      <data key="d6">50</data>
+      <data key="d7">de6fa24480894518ab3cbcb66f739266</data>
+    </node>
+    <node id="&quot;DEPORTIVO DE LA CORU&#209;A&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Deportivo de La Coru&#241;a is a team that has won the league title in La Liga."</data>
+      <data key="d2">30cf51b88cb830ba306062ec90b35fd5,70cb7ea786813ec9ca244ed67b8adf6c</data>
+      <data key="d5">0</data>
+      <data key="d6">51</data>
+      <data key="d7">6fae5ee1a831468aa585a1ea09095998</data>
+    </node>
+    <node id="&quot;LA LIGA&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+La Liga is the top division of Spanish football, where players compete to score goals in a competition featuring prominent teams such as Real Madrid, Barcelona, and Athletic Bilbao.</data>
+      <data key="d2">30cf51b88cb830ba306062ec90b35fd5,333f31ee013f38da5a349aa3ee3c13bd,70cb7ea786813ec9ca244ed67b8adf6c,a03cdc3d3050323ed8bce2d2bad589c0</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">52</data>
+      <data key="d7">ef32c4b208d041cc856f6837915dc1b0</data>
+    </node>
+    <node id="&quot;FORMULA ONE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Formula One is a racing event where Paco Godia participated."</data>
+      <data key="d2">998622965439dfdc730b38e8696b323e</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">53</data>
+      <data key="d7">07b2425216bd4f0aa4e079827cb48ef5</data>
+    </node>
+    <node id="&quot;PACO GODIA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">998622965439dfdc730b38e8696b323e</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">54</data>
+      <data key="d7">2670deebfa3f4d69bb82c28ab250a209</data>
+    </node>
+    <node id="&quot;TELMO ZARRA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Telmo Zarra was Athletic Bilbao's player who held the record as La Liga's all-time top scorer until 2014."</data>
+      <data key="d2">333f31ee013f38da5a349aa3ee3c13bd</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">55</data>
+      <data key="d7">404309e89a5241d6bff42c05a45df206</data>
+    </node>
+    <node id="&quot;ALFREDO DI ST&#201;FANO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alfredo Di St&#233;fano is a Real Madrid player who finished as top scorer in five seasons."</data>
+      <data key="d2">333f31ee013f38da5a349aa3ee3c13bd</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">56</data>
+      <data key="d7">b785a9025069417f94950ad231bb1441</data>
+    </node>
+    <node id="&quot;QUINI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Quini is a Sporting de Gij&#243;n and Barcelona player who finished as top scorer in five seasons."</data>
+      <data key="d2">333f31ee013f38da5a349aa3ee3c13bd</data>
+      <data key="d5">1</data>
+      <data key="d6">57</data>
+      <data key="d7">3b6cd96a27304614850709aba1c9598b</data>
+    </node>
+    <node id="&quot;HUGO S&#193;NCHEZ&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hugo S&#225;nchez is an Atl&#233;tico Madrid and Real Madrid player who finished as top scorer in five seasons."</data>
+      <data key="d2">333f31ee013f38da5a349aa3ee3c13bd</data>
+      <data key="d5">1</data>
+      <data key="d6">58</data>
+      <data key="d7">d54956b79dd147f894b67a8b97dcbef0</data>
+    </node>
+    <node id="&quot;SPORTING DE GIJ&#211;N&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Sporting de Gij&#243;n is a football club that participates in La Liga."</data>
+      <data key="d2">333f31ee013f38da5a349aa3ee3c13bd</data>
+      <data key="d5">1</data>
+      <data key="d6">59</data>
+      <data key="d7">958beecdb5bb4060948415ffd75d2b03</data>
+    </node>
+    <node id="&quot;BRITISH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The British constructed the King's Road and introduced new crops, leading to economic prosperity in northeastern Florida."</data>
+      <data key="d2">5fcab61ce631d5b6220e214d644d3399</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">60</data>
+      <data key="d7">b999ed77e19e4f85b7f1ae79af5c002a</data>
+    </node>
+    <node id="&quot;ANDREW JACKSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Andrew Jackson is a figure after whom the town of Jacksonville was named."</data>
+      <data key="d2">5fcab61ce631d5b6220e214d644d3399</data>
+      <data key="d5">1</data>
+      <data key="d6">61</data>
+      <data key="d7">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+    </node>
+    <node id="&quot;ISAIAH D. HART&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Isaiah D. Hart led residents in writing a charter for a town government, which was approved by the Florida Legislative Council."</data>
+      <data key="d2">5fcab61ce631d5b6220e214d644d3399</data>
+      <data key="d5">1</data>
+      <data key="d6">62</data>
+      <data key="d7">4f3c97517f794ebfb49c4c6315f9cf23</data>
+    </node>
+    <node id="&quot;FLORIDA TERRITORY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Florida Territory is a region that changed hands between Spain and Britain before being ceded to the United States in 1821."</data>
+      <data key="d2">5fcab61ce631d5b6220e214d644d3399</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">63</data>
+      <data key="d7">1745a2485a9443bab76587ad650e9be0</data>
+    </node>
+    <node id="&quot;JACKSONVILLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Jacksonville is a town founded by American settlers on the north side of the Cow Ford, named after Andrew Jackson."</data>
+      <data key="d2">5fcab61ce631d5b6220e214d644d3399</data>
+      <data key="d5">2</data>
+      <data key="d6">64</data>
+      <data key="d7">32e6ccab20d94029811127dbbe424c64</data>
+    </node>
+    <node id="&quot;COW FORD&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Cow Ford is a narrow point on the St. Johns River where cattle were brought across, also known as Wacca Pilatka to the Seminole."</data>
+      <data key="d2">5fcab61ce631d5b6220e214d644d3399</data>
+      <data key="d5">0</data>
+      <data key="d6">65</data>
+      <data key="d7">94a964c6992945ebb3833dfdfdc8d655</data>
+    </node>
+    <node id="&quot;ST. AUGUSTINE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"St. Augustine is a location connected to Georgia by the King's Road constructed by the British."</data>
+      <data key="d2">5fcab61ce631d5b6220e214d644d3399</data>
+      <data key="d5">0</data>
+      <data key="d6">66</data>
+      <data key="d7">1eb829d0ace042089f0746f78729696c</data>
+    </node>
+    <node id="&quot;GEORGIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Georgia is a region connected to St. Augustine by the King's Road constructed by the British."</data>
+      <data key="d2">5fcab61ce631d5b6220e214d644d3399</data>
+      <data key="d5">0</data>
+      <data key="d6">67</data>
+      <data key="d7">015e7b58d1a14b44beab3bbc9f912c18</data>
+    </node>
+    <node id="&quot;MILAN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Milan is a football club that has won 17 titles, and shares records in Super Cup and Intercontinental Cup wins."</data>
+      <data key="d2">a0a5c4f79fcfd157dc8262c1246fb12c</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">68</data>
+      <data key="d7">26f88ab3e2e04c33a459ad6270ade565</data>
+    </node>
+    <node id="&quot;SEVILLA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Sevilla is a Spanish football club that holds the record for the most UEFA Cup / UEFA Europa League titles, with five wins."</data>
+      <data key="d2">a0a5c4f79fcfd157dc8262c1246fb12c</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">69</data>
+      <data key="d7">babe97e1d9784cffa1c85abc1e588126</data>
+    </node>
+    <node id="&quot;HAMBURG&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Hamburg is a German football club that holds the record for the most UEFA Intertoto Cup titles, with two wins."</data>
+      <data key="d2">a0a5c4f79fcfd157dc8262c1246fb12c</data>
+      <data key="d5">1</data>
+      <data key="d6">70</data>
+      <data key="d7">1033a18c45aa4584b2aef6ab96890351</data>
+    </node>
+    <node id="&quot;SCHALKE 04&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Schalke 04 is a German football club that holds the record for the most UEFA Intertoto Cup titles, with two wins."</data>
+      <data key="d2">a0a5c4f79fcfd157dc8262c1246fb12c</data>
+      <data key="d5">1</data>
+      <data key="d6">71</data>
+      <data key="d7">c9b8ce91fc2945b4907fe35519339cac</data>
+    </node>
+    <node id="&quot;STUTTGART&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Stuttgart is a German football club that holds the record for the most UEFA Intertoto Cup titles, with two wins."</data>
+      <data key="d2">a0a5c4f79fcfd157dc8262c1246fb12c</data>
+      <data key="d5">0</data>
+      <data key="d6">72</data>
+      <data key="d7">fa3c4204421c48609e52c8de2da4c654</data>
+    </node>
+    <node id="&quot;VILLARREAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Villarreal is a Spanish football club that holds the record for the most UEFA Intertoto Cup titles, with two wins."</data>
+      <data key="d2">a0a5c4f79fcfd157dc8262c1246fb12c</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">73</data>
+      <data key="d7">53af055f068244d0ac861b2e89376495</data>
+    </node>
+    <node id="&quot;THE PERSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The person is a footballer who played for both FC Barcelona and Real Madrid."</data>
+      <data key="d2">4f18c406d00dc4a622cb956f8df74d85</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">74</data>
+      <data key="d7">c03ab3ce8cb74ad2a03b94723bfab3c7</data>
+    </node>
+    <node id="&quot;FC BARCELONA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4f18c406d00dc4a622cb956f8df74d85</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">75</data>
+      <data key="d7">ed6d2eee9d7b4f5db466b1f6404d31cc</data>
+    </node>
+    <node id="&quot;MINNESOTA VIKINGS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Minnesota Vikings are a National Football League team that Charles Leo Goodrum played for."</data>
+      <data key="d2">2138b3276c637e8cac0dce4ce11346c7</data>
+      <data key="d5">1</data>
+      <data key="d6">76</data>
+      <data key="d7">fc01e9baa80e417c9206f941bb279407</data>
+    </node>
+    <node id="&quot;FLORIDA A&amp;M UNIVERSITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Florida A&amp;M University is an educational institution that Charles Leo Goodrum attended."</data>
+      <data key="d2">2138b3276c637e8cac0dce4ce11346c7</data>
+      <data key="d5">1</data>
+      <data key="d6">77</data>
+      <data key="d7">56d0e5ebe79e4814bd1463cf6ca21394</data>
+    </node>
+    <node id="&quot;MIAMI, FLORIDA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Miami, Florida is a location where Charles Leo Goodrum was born."</data>
+      <data key="d2">2138b3276c637e8cac0dce4ce11346c7</data>
+      <data key="d5">1</data>
+      <data key="d6">78</data>
+      <data key="d7">7c49f2710e8b4d3b8dc9310834406ea5</data>
+    </node>
+    <node id="&quot;CHARLES LEO GOODRUM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2138b3276c637e8cac0dce4ce11346c7</data>
+      <data key="d5">3</data>
+      <data key="d6">79</data>
+      <data key="d7">c6d1e4f56c2843e89cf0b91c10bb6de2</data>
+    </node>
+    <node id="&quot;EDMUND HUSSERL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Edmund Husserl is a philosopher who had a disciple named Moritz Geiger."</data>
+      <data key="d2">9e08615f3558f287e6a0c20dca462242</data>
+      <data key="d5">1</data>
+      <data key="d6">80</data>
+      <data key="d7">0adb2d9941f34ef7b2f7743cc6225844</data>
+    </node>
+    <node id="&quot;MUNICH PHENOMENOLOGICAL SCHOOL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Munich phenomenological school is an academic group that Moritz Geiger was a part of, focusing on phenomenology."</data>
+      <data key="d2">9e08615f3558f287e6a0c20dca462242</data>
+      <data key="d5">1</data>
+      <data key="d6">81</data>
+      <data key="d7">6b02373137fd438ba96af28f735cdbdb</data>
+    </node>
+    <node id="&quot;FRANKFURT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Frankfurt is the birthplace of Moritz Geiger."</data>
+      <data key="d2">9e08615f3558f287e6a0c20dca462242</data>
+      <data key="d5">1</data>
+      <data key="d6">82</data>
+      <data key="d7">36a4fcd8efc144e6b8af9a1c7ab8b2ce</data>
+    </node>
+    <node id="&quot;SEAL HARBOR, MAINE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Seal Harbor, Maine is the place where Moritz Geiger died."</data>
+      <data key="d2">9e08615f3558f287e6a0c20dca462242</data>
+      <data key="d5">1</data>
+      <data key="d6">83</data>
+      <data key="d7">fbeef791d19b413a9c93c6608286ab63</data>
+    </node>
+    <node id="&quot;MORITZ GEIGER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9e08615f3558f287e6a0c20dca462242</data>
+      <data key="d5">4</data>
+      <data key="d6">84</data>
+      <data key="d7">d2b629c0396f4180a03e16ddf3818589</data>
+    </node>
+    <node id="&quot;REAL MADRID CLUB DE F&#218;TBOL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2fac000d44f821957fb7860993bec753</data>
+      <data key="d5">1</data>
+      <data key="d6">85</data>
+      <data key="d7">6102fc6619ed422ebc42588bfa97355d</data>
+    </node>
+    <edge source="&quot;SPAIN&quot;" target="&quot;HUMANES DE MADRID&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Humanes de Madrid is located in Spain."</data>
+      <data key="d10">ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d11">8d141c0b80f74b79a05eed7fe161fe49</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SPAIN&quot;" target="&quot;PACO GODIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Paco Godia was from Spain."</data>
+      <data key="d10">998622965439dfdc730b38e8696b323e</data>
+      <data key="d11">e22d1d1cd8d14f12b81828d940f40d70</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SPAIN&quot;" target="&quot;FLORIDA TERRITORY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Spain ceded control of the Florida Territory to the British in 1763 and later regained it in 1783."</data>
+      <data key="d10">5fcab61ce631d5b6220e214d644d3399</data>
+      <data key="d11">9ab48505fb1b487babd0d1f6d3a3f980</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SPAIN&quot;" target="&quot;BARCELONA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Barcelona is based in Spain."</data>
+      <data key="d10">ac947aecbfe3da5fe3ffc957a933d3e8</data>
+      <data key="d11">148fffeb994541b2b4b6dcefda7001a8</data>
+      <data key="d12">3</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SPAIN&quot;" target="&quot;REAL MADRID&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Real Madrid is based in Spain."</data>
+      <data key="d10">ac947aecbfe3da5fe3ffc957a933d3e8</data>
+      <data key="d11">89c08e793298442686292454a1abff31</data>
+      <data key="d12">4</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MADRID METROPOLITAN AREA&quot;" target="&quot;HUMANES DE MADRID&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Humanes de Madrid is situated in the Madrid Metropolitan Area."</data>
+      <data key="d10">ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d11">0467928aa65e4a4fba62bdb1467e3a54</data>
+      <data key="d12">5</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;COMMUNITY OF MADRID&quot;" target="&quot;HUMANES DE MADRID&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Humanes de Madrid is part of the Community of Madrid."</data>
+      <data key="d10">ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d11">43c3390303c6476cb65f584e37c3e81c</data>
+      <data key="d12">6</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is the county seat of Pima County."</data>
+      <data key="d10">051118aaaff136d7ea45d104e42560d7,2138b3276c637e8cac0dce4ce11346c7,2fac000d44f821957fb7860993bec753,30c286f59b78fcc8be9f5306dc492cee,30cf51b88cb830ba306062ec90b35fd5,30dd236747ce98213a97cf05fb7c40d4,333f31ee013f38da5a349aa3ee3c13bd,493640a5eb164ea3e1e56064ecbc9545,4f18c406d00dc4a622cb956f8df74d85,5fcab61ce631d5b6220e214d644d3399,6801a29f6d9ed4dd5ebb453c5785c565,6f005d56aaf45297065e0732c1079683,70cb7ea786813ec9ca244ed67b8adf6c,7e8cbc111094b2e53f79476960199419,998622965439dfdc730b38e8696b323e,9e08615f3558f287e6a0c20dca462242,a03cdc3d3050323ed8bce2d2bad589c0,a0a5c4f79fcfd157dc8262c1246fb12c,ac947aecbfe3da5fe3ffc957a933d3e8,ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d11">fa14b16c17e3417dba5a4b473ea5b18d</data>
+      <data key="d12">7</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Pima County is a county in Arizona."</data>
+      <data key="d10">051118aaaff136d7ea45d104e42560d7,2138b3276c637e8cac0dce4ce11346c7,2fac000d44f821957fb7860993bec753,30c286f59b78fcc8be9f5306dc492cee,30cf51b88cb830ba306062ec90b35fd5,30dd236747ce98213a97cf05fb7c40d4,333f31ee013f38da5a349aa3ee3c13bd,493640a5eb164ea3e1e56064ecbc9545,4f18c406d00dc4a622cb956f8df74d85,5fcab61ce631d5b6220e214d644d3399,6801a29f6d9ed4dd5ebb453c5785c565,6f005d56aaf45297065e0732c1079683,70cb7ea786813ec9ca244ed67b8adf6c,7e8cbc111094b2e53f79476960199419,998622965439dfdc730b38e8696b323e,9e08615f3558f287e6a0c20dca462242,a03cdc3d3050323ed8bce2d2bad589c0,a0a5c4f79fcfd157dc8262c1246fb12c,ac947aecbfe3da5fe3ffc957a933d3e8,ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d11">7cc3356d38de4328a51a5cbcb187dac3</data>
+      <data key="d12">8</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The University of Arizona is located in Tucson."</data>
+      <data key="d10">051118aaaff136d7ea45d104e42560d7,2138b3276c637e8cac0dce4ce11346c7,2fac000d44f821957fb7860993bec753,30c286f59b78fcc8be9f5306dc492cee,30cf51b88cb830ba306062ec90b35fd5,30dd236747ce98213a97cf05fb7c40d4,333f31ee013f38da5a349aa3ee3c13bd,493640a5eb164ea3e1e56064ecbc9545,4f18c406d00dc4a622cb956f8df74d85,5fcab61ce631d5b6220e214d644d3399,6801a29f6d9ed4dd5ebb453c5785c565,6f005d56aaf45297065e0732c1079683,70cb7ea786813ec9ca244ed67b8adf6c,7e8cbc111094b2e53f79476960199419,998622965439dfdc730b38e8696b323e,9e08615f3558f287e6a0c20dca462242,a03cdc3d3050323ed8bce2d2bad589c0,a0a5c4f79fcfd157dc8262c1246fb12c,ac947aecbfe3da5fe3ffc957a933d3e8,ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d11">bef16fb5fd7344cca5e295b13ef3e0cd</data>
+      <data key="d12">9</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Arizona is a state in the United States."</data>
+      <data key="d10">051118aaaff136d7ea45d104e42560d7,2138b3276c637e8cac0dce4ce11346c7,2fac000d44f821957fb7860993bec753,30c286f59b78fcc8be9f5306dc492cee,30cf51b88cb830ba306062ec90b35fd5,30dd236747ce98213a97cf05fb7c40d4,333f31ee013f38da5a349aa3ee3c13bd,493640a5eb164ea3e1e56064ecbc9545,4f18c406d00dc4a622cb956f8df74d85,5fcab61ce631d5b6220e214d644d3399,6801a29f6d9ed4dd5ebb453c5785c565,6f005d56aaf45297065e0732c1079683,70cb7ea786813ec9ca244ed67b8adf6c,7e8cbc111094b2e53f79476960199419,998622965439dfdc730b38e8696b323e,9e08615f3558f287e6a0c20dca462242,a03cdc3d3050323ed8bce2d2bad589c0,a0a5c4f79fcfd157dc8262c1246fb12c,ac947aecbfe3da5fe3ffc957a933d3e8,ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d11">bb9e01bc171d4326a29afda59ece8d17</data>
+      <data key="d12">10</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is a city in Arizona."</data>
+      <data key="d10">051118aaaff136d7ea45d104e42560d7,2138b3276c637e8cac0dce4ce11346c7,2fac000d44f821957fb7860993bec753,30c286f59b78fcc8be9f5306dc492cee,30cf51b88cb830ba306062ec90b35fd5,30dd236747ce98213a97cf05fb7c40d4,333f31ee013f38da5a349aa3ee3c13bd,493640a5eb164ea3e1e56064ecbc9545,4f18c406d00dc4a622cb956f8df74d85,5fcab61ce631d5b6220e214d644d3399,6801a29f6d9ed4dd5ebb453c5785c565,6f005d56aaf45297065e0732c1079683,70cb7ea786813ec9ca244ed67b8adf6c,7e8cbc111094b2e53f79476960199419,998622965439dfdc730b38e8696b323e,9e08615f3558f287e6a0c20dca462242,a03cdc3d3050323ed8bce2d2bad589c0,a0a5c4f79fcfd157dc8262c1246fb12c,ac947aecbfe3da5fe3ffc957a933d3e8,ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d11">3c063eea52e94164b70c99431ea30bae</data>
+      <data key="d12">11</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Phoenix is a city in Arizona."</data>
+      <data key="d10">051118aaaff136d7ea45d104e42560d7,2138b3276c637e8cac0dce4ce11346c7,2fac000d44f821957fb7860993bec753,30c286f59b78fcc8be9f5306dc492cee,30cf51b88cb830ba306062ec90b35fd5,30dd236747ce98213a97cf05fb7c40d4,333f31ee013f38da5a349aa3ee3c13bd,493640a5eb164ea3e1e56064ecbc9545,4f18c406d00dc4a622cb956f8df74d85,5fcab61ce631d5b6220e214d644d3399,6801a29f6d9ed4dd5ebb453c5785c565,6f005d56aaf45297065e0732c1079683,70cb7ea786813ec9ca244ed67b8adf6c,7e8cbc111094b2e53f79476960199419,998622965439dfdc730b38e8696b323e,9e08615f3558f287e6a0c20dca462242,a03cdc3d3050323ed8bce2d2bad589c0,a0a5c4f79fcfd157dc8262c1246fb12c,ac947aecbfe3da5fe3ffc957a933d3e8,ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d11">252cc8452bfc4c2aa58cab68d8b61879</data>
+      <data key="d12">12</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d10">051118aaaff136d7ea45d104e42560d7,2138b3276c637e8cac0dce4ce11346c7,2fac000d44f821957fb7860993bec753,30c286f59b78fcc8be9f5306dc492cee,30cf51b88cb830ba306062ec90b35fd5,30dd236747ce98213a97cf05fb7c40d4,333f31ee013f38da5a349aa3ee3c13bd,493640a5eb164ea3e1e56064ecbc9545,4f18c406d00dc4a622cb956f8df74d85,5fcab61ce631d5b6220e214d644d3399,6801a29f6d9ed4dd5ebb453c5785c565,6f005d56aaf45297065e0732c1079683,70cb7ea786813ec9ca244ed67b8adf6c,7e8cbc111094b2e53f79476960199419,998622965439dfdc730b38e8696b323e,9e08615f3558f287e6a0c20dca462242,a03cdc3d3050323ed8bce2d2bad589c0,a0a5c4f79fcfd157dc8262c1246fb12c,ac947aecbfe3da5fe3ffc957a933d3e8,ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d11">7e2c84548fb94ee395ba8588d8f2a006</data>
+      <data key="d12">13</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Mexico shares an international border with the United States."</data>
+      <data key="d10">051118aaaff136d7ea45d104e42560d7,2138b3276c637e8cac0dce4ce11346c7,2fac000d44f821957fb7860993bec753,30c286f59b78fcc8be9f5306dc492cee,30cf51b88cb830ba306062ec90b35fd5,30dd236747ce98213a97cf05fb7c40d4,333f31ee013f38da5a349aa3ee3c13bd,493640a5eb164ea3e1e56064ecbc9545,4f18c406d00dc4a622cb956f8df74d85,5fcab61ce631d5b6220e214d644d3399,6801a29f6d9ed4dd5ebb453c5785c565,6f005d56aaf45297065e0732c1079683,70cb7ea786813ec9ca244ed67b8adf6c,7e8cbc111094b2e53f79476960199419,998622965439dfdc730b38e8696b323e,9e08615f3558f287e6a0c20dca462242,a03cdc3d3050323ed8bce2d2bad589c0,a0a5c4f79fcfd157dc8262c1246fb12c,ac947aecbfe3da5fe3ffc957a933d3e8,ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d11">f034618dde7948beb6dab30176d0fc87</data>
+      <data key="d12">14</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d10">051118aaaff136d7ea45d104e42560d7,2138b3276c637e8cac0dce4ce11346c7,2fac000d44f821957fb7860993bec753,30c286f59b78fcc8be9f5306dc492cee,30cf51b88cb830ba306062ec90b35fd5,30dd236747ce98213a97cf05fb7c40d4,333f31ee013f38da5a349aa3ee3c13bd,493640a5eb164ea3e1e56064ecbc9545,4f18c406d00dc4a622cb956f8df74d85,5fcab61ce631d5b6220e214d644d3399,6801a29f6d9ed4dd5ebb453c5785c565,6f005d56aaf45297065e0732c1079683,70cb7ea786813ec9ca244ed67b8adf6c,7e8cbc111094b2e53f79476960199419,998622965439dfdc730b38e8696b323e,9e08615f3558f287e6a0c20dca462242,a03cdc3d3050323ed8bce2d2bad589c0,a0a5c4f79fcfd157dc8262c1246fb12c,ac947aecbfe3da5fe3ffc957a933d3e8,ce98ef57ff87d94eca60074f3d42a96b</data>
+      <data key="d11">5c41f96be13e49dba649454297834546</data>
+      <data key="d12">15</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JOS&#201; MOURINHO&quot;" target="&quot;REAL MADRID&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jos&#233; Mourinho was a coach of Real Madrid when he appealed for Zidane's involvement with the team."</data>
+      <data key="d10">7e8cbc111094b2e53f79476960199419</data>
+      <data key="d11">7ea4afbf8a264f29af29950ce98105ba</data>
+      <data key="d12">16</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;REAL MADRID&quot;" target="&quot;ZIDANE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Zidane has held various roles within Real Madrid, including special adviser and assistant coach."</data>
+      <data key="d10">7e8cbc111094b2e53f79476960199419</data>
+      <data key="d11">91ff849d12b24574b0691dbddf44968b</data>
+      <data key="d12">17</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;REAL MADRID&quot;" target="&quot;CASTILE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Real Madrid represents Castile in La Liga."</data>
+      <data key="d10">6f005d56aaf45297065e0732c1079683</data>
+      <data key="d11">d73c1f2fb3094d8dace42ad2a76e9a52</data>
+      <data key="d12">18</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;REAL MADRID&quot;" target="&quot;EL CL&#193;SICO&quot;">
+      <data key="d8">2.0</data>
+      <data key="d9">Here is the comprehensive summary:
+
+Real Madrid, a prominent football club, participates in El Cl&#225;sico, a highly anticipated match against their arch-rivals Barcelona. This intense and iconic game brings together two of the most successful and beloved teams in the sport, with Real Madrid being one of the two participating teams in this thrilling encounter.</data>
+      <data key="d10">6f005d56aaf45297065e0732c1079683,ac947aecbfe3da5fe3ffc957a933d3e8</data>
+      <data key="d11">cdc8901e668749889bd49bebdc4ff1f6</data>
+      <data key="d12">19</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;REAL MADRID&quot;" target="&quot;BARCELONA&quot;">
+      <data key="d8">2.0</data>
+      <data key="d9">Here is a comprehensive summary of the data:
+
+Real Madrid and Barcelona are rival teams that participate in El Cl&#225;sico, a highly competitive match between them. In their head-to-head results, Real Madrid leads Barcelona in competitive matches.
+
+Let me know if you need any further assistance!</data>
+      <data key="d10">30c286f59b78fcc8be9f5306dc492cee,a03cdc3d3050323ed8bce2d2bad589c0</data>
+      <data key="d11">36084a9fab53433493f079e97e68bf65</data>
+      <data key="d12">20</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;REAL MADRID&quot;" target="&quot;ISCO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Isco is a player of Real Madrid."</data>
+      <data key="d10">493640a5eb164ea3e1e56064ecbc9545</data>
+      <data key="d11">eebcc7ec8e3e4df7aea83659bbdc2199</data>
+      <data key="d12">21</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;REAL MADRID&quot;" target="&quot;2017 UEFA SUPER CUP MATCH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Real Madrid participated in the 2017 UEFA Super Cup Match."</data>
+      <data key="d10">493640a5eb164ea3e1e56064ecbc9545</data>
+      <data key="d11">ceadf262ef834e9ab146b20650912cae</data>
+      <data key="d12">22</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;REAL MADRID&quot;" target="&quot;LA LIGA&quot;">
+      <data key="d8">3.0</data>
+      <data key="d9">Here is the comprehensive summary:
+
+Real Madrid is a club that competes in La Liga and has never been relegated. As a dominant team in La Liga, they have won the title a record 33 times.
+
+Let me know if you need anything else!</data>
+      <data key="d10">30cf51b88cb830ba306062ec90b35fd5,70cb7ea786813ec9ca244ed67b8adf6c,a03cdc3d3050323ed8bce2d2bad589c0</data>
+      <data key="d11">7f65feab75424b53b24470d305ba331a</data>
+      <data key="d12">23</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;REAL MADRID&quot;" target="&quot;ALFREDO DI ST&#201;FANO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Alfredo Di St&#233;fano played for Real Madrid and finished as top scorer in five seasons."</data>
+      <data key="d10">333f31ee013f38da5a349aa3ee3c13bd</data>
+      <data key="d11">fd9cb733b28d420cb5cef01e545a132c</data>
+      <data key="d12">24</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;REAL MADRID&quot;" target="&quot;MILAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Real Madrid and Milan are rival football clubs that hold records in various UEFA competitions."</data>
+      <data key="d10">a0a5c4f79fcfd157dc8262c1246fb12c</data>
+      <data key="d11">0fbcca3f17c649a08aea64b5a7d9ef36</data>
+      <data key="d12">25</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;REAL MADRID&quot;" target="&quot;VILLARREAL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Villarreal is a Spanish football club that has achieved success in the UEFA Intertoto Cup, similar to Real Madrid."</data>
+      <data key="d10">a0a5c4f79fcfd157dc8262c1246fb12c</data>
+      <data key="d11">482027a59f32484c9c44fd700615c1b6</data>
+      <data key="d12">26</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;REAL MADRID&quot;" target="&quot;THE PERSON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The person played for Real Madrid."</data>
+      <data key="d10">4f18c406d00dc4a622cb956f8df74d85</data>
+      <data key="d11">de837ff3d626451282ff6ac77a82216d</data>
+      <data key="d12">27</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CHAMPIONS LEAGUE&quot;" target="&quot;ZIDANE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Zidane was expected to participate in Champions League events as part of his role at Real Madrid."</data>
+      <data key="d10">7e8cbc111094b2e53f79476960199419</data>
+      <data key="d11">460295fed3ae4cd39f9f274cec9c2506</data>
+      <data key="d12">28</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CATALONIA&quot;" target="&quot;BARCELONA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Barcelona represents Catalonia in La Liga."</data>
+      <data key="d10">6f005d56aaf45297065e0732c1079683</data>
+      <data key="d11">553b285bba60460ab1ed8341ae61282b</data>
+      <data key="d12">29</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;EL CL&#193;SICO&quot;" target="&quot;BARCELONA&quot;">
+      <data key="d8">2.0</data>
+      <data key="d9">Here is the comprehensive summary:
+
+EL CL&#193;SICO, also known as the match between BARCELONA and Real Madrid, is a highly anticipated game that features BARCELONA as one of the participating teams.</data>
+      <data key="d10">6f005d56aaf45297065e0732c1079683,ac947aecbfe3da5fe3ffc957a933d3e8</data>
+      <data key="d11">cec95bf17e7e4c939b56c9c6f402a29f</data>
+      <data key="d12">30</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;EL CL&#193;SICO&quot;" target="&quot;MANOLO SANCH&#205;S&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Manolo Sanch&#237;s has made the most appearances in El Cl&#225;sico matches."</data>
+      <data key="d10">30c286f59b78fcc8be9f5306dc492cee</data>
+      <data key="d11">599164aead034bc19446efacc77554d2</data>
+      <data key="d12">31</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;EL CL&#193;SICO&quot;" target="&quot;LIONEL MESSI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lionel Messi is the top scorer in El Cl&#225;sico matches."</data>
+      <data key="d10">30c286f59b78fcc8be9f5306dc492cee</data>
+      <data key="d11">bbf148ae4d48422f8fdef754cfa2b9e4</data>
+      <data key="d12">32</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BARCELONA&quot;" target="&quot;LA LIGA&quot;">
+      <data key="d8">3.0</data>
+      <data key="d9">Here is the comprehensive summary:
+
+Barcelona is a club that competes in La Liga and has never been relegated. As a prominent team in La Liga, Barcelona has won the title 25 times.
+
+Note: I resolved the contradiction between the two descriptions stating different numbers of titles won (24 vs 25) by choosing the higher number, assuming it to be the more accurate information.</data>
+      <data key="d10">30cf51b88cb830ba306062ec90b35fd5,70cb7ea786813ec9ca244ed67b8adf6c,a03cdc3d3050323ed8bce2d2bad589c0</data>
+      <data key="d11">de61b2670999433f807a6a1dc2b81e43</data>
+      <data key="d12">33</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BARCELONA&quot;" target="&quot;PACO GODIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Paco Godia was from Barcelona."</data>
+      <data key="d10">998622965439dfdc730b38e8696b323e</data>
+      <data key="d11">3e95dacfe57b4d57b5da4310ef2e157f</data>
+      <data key="d12">34</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BARCELONA&quot;" target="&quot;SEVILLA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Sevilla and Barcelona are Spanish football clubs that have achieved success in different UEFA competitions."</data>
+      <data key="d10">a0a5c4f79fcfd157dc8262c1246fb12c</data>
+      <data key="d11">1f1545308e9347af91fd03b94aadc21f</data>
+      <data key="d12">35</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BARCELONA&quot;" target="&quot;THE PERSON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The person has an attachment to Barcelona."</data>
+      <data key="d10">4f18c406d00dc4a622cb956f8df74d85</data>
+      <data key="d11">6ea81acaf232485e94fff638e03336e1</data>
+      <data key="d12">36</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BARCELONA&quot;" target="&quot;MANOLO SANCH&#205;S&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Manolo Sanch&#237;s has played for Barcelona in El Cl&#225;sico matches."</data>
+      <data key="d10">ac947aecbfe3da5fe3ffc957a933d3e8</data>
+      <data key="d11">d136b08d586d488f9e4188b524c85a29</data>
+      <data key="d12">37</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BARCELONA&quot;" target="&quot;LIONEL MESSI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lionel Messi plays for Barcelona and is the top scorer in El Cl&#225;sico matches."</data>
+      <data key="d10">ac947aecbfe3da5fe3ffc957a933d3e8</data>
+      <data key="d11">cccfa151fedc4b218a8d96adc7dceabe</data>
+      <data key="d12">38</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LIONEL MESSI&quot;" target="&quot;LA LIGA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lionel Messi holds the record for most goals scored in La Liga."</data>
+      <data key="d10">333f31ee013f38da5a349aa3ee3c13bd</data>
+      <data key="d11">ce54725672a74ebcabe6127577dacb2b</data>
+      <data key="d12">39</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CHARLES P&#201;LISSIER&quot;" target="&quot;RAFFAELE DI PACO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Raffaele di Paco shared the lead with Charles P&#233;lissier after stage 5 of the 1931 Tour de France."</data>
+      <data key="d10">6801a29f6d9ed4dd5ebb453c5785c565</data>
+      <data key="d11">ea2b28ca1a974ffab4517811dc1d1e5c</data>
+      <data key="d12">40</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TOUR DE FRANCE&quot;" target="&quot;RAFFAELE DI PACO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Raffaele di Paco participated in and won several stages of the Tour de France."</data>
+      <data key="d10">6801a29f6d9ed4dd5ebb453c5785c565</data>
+      <data key="d11">aff21f1da1654e7babdcf3fb0e4a75fc</data>
+      <data key="d12">41</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FAUGLIA&quot;" target="&quot;RAFFAELE DI PACO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Raffaele di Paco was born and died in Fauglia, Tuscany."</data>
+      <data key="d10">6801a29f6d9ed4dd5ebb453c5785c565</data>
+      <data key="d11">dc2cc9016e3f49dbac7232f05cce794d</data>
+      <data key="d12">42</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MANCHESTER UNITED&quot;" target="&quot;2017 UEFA SUPER CUP MATCH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Manchester United participated in the 2017 UEFA Super Cup Match."</data>
+      <data key="d10">493640a5eb164ea3e1e56064ecbc9545</data>
+      <data key="d11">6ea0cef05f694dcea455478f40674e45</data>
+      <data key="d12">43</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GIANLUCA ROCCHI&quot;" target="&quot;ITALY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Gianluca Rocchi is from Italy."</data>
+      <data key="d10">493640a5eb164ea3e1e56064ecbc9545</data>
+      <data key="d11">7ab5d53a872f4dfc98f3d386879f3c75</data>
+      <data key="d12">44</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PHILIP II ARENA&quot;" target="&quot;SKOPJE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Philip II Arena is located in Skopje."</data>
+      <data key="d10">493640a5eb164ea3e1e56064ecbc9545</data>
+      <data key="d11">af1d0fec22114a3398b8016f5225f9ed</data>
+      <data key="d12">45</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WILLIAM CORNWALLIS&quot;" target="&quot;NUGENT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Nugent served as Captain of the Fleet under William Cornwallis during the Napoleonic Wars."</data>
+      <data key="d10">051118aaaff136d7ea45d104e42560d7</data>
+      <data key="d11">b07a7f088364459098cd8511ff27a4c8</data>
+      <data key="d12">46</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WILLIAM CORNWALLIS&quot;" target="&quot;NAPOLEONIC WARS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"William Cornwallis assumed command of the blockade of Brest during the Napoleonic Wars."</data>
+      <data key="d10">051118aaaff136d7ea45d104e42560d7</data>
+      <data key="d11">8870cf2b5df64d2cab5820f67e29b9f1</data>
+      <data key="d12">47</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FRENCH REVOLUTIONARY WARS&quot;" target="&quot;NUGENT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Nugent served in the naval brigade during the French Revolutionary Wars."</data>
+      <data key="d10">051118aaaff136d7ea45d104e42560d7</data>
+      <data key="d11">cd130938a2844050be991af70baf5ee0</data>
+      <data key="d12">48</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;REAL JARD&#205;N BOT&#193;NICO DE MADRID&quot;" target="&quot;ELENA PAUNERO RUIZ&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Elena Paunero Ruiz worked at the Real Jard&#237;n Bot&#225;nico de Madrid for many years."</data>
+      <data key="d10">30dd236747ce98213a97cf05fb7c40d4</data>
+      <data key="d11">43544b99c3b04b059546198a0ae6366d</data>
+      <data key="d12">49</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;REAL JARD&#205;N BOT&#193;NICO DE MADRID&quot;" target="&quot;MADRID&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Real Jard&#237;n Bot&#225;nico de Madrid is located in Madrid, Spain."</data>
+      <data key="d10">30dd236747ce98213a97cf05fb7c40d4</data>
+      <data key="d11">a671bf7fea2f4514b6e96ba99127fafd</data>
+      <data key="d12">50</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MADRID&quot;" target="&quot;REAL MADRID CLUB DE F&#218;TBOL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Real Madrid Club de F&#250;tbol is based in Madrid."</data>
+      <data key="d10">2fac000d44f821957fb7860993bec753</data>
+      <data key="d11">525f41ea20274a05af4e52b625b473f3</data>
+      <data key="d12">51</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ATHLETIC BILBAO&quot;" target="&quot;LA LIGA&quot;">
+      <data key="d8">3.0</data>
+      <data key="d9">Here is the comprehensive summary:
+
+Athletic Bilbao, a prominent football club, has achieved significant success in La Liga, claiming several titles in the league's early years. Additionally, the team has consistently demonstrated its strength by competing in La Liga without ever experiencing relegation.
+
+Let me know if you need any further assistance!</data>
+      <data key="d10">30cf51b88cb830ba306062ec90b35fd5,70cb7ea786813ec9ca244ed67b8adf6c,a03cdc3d3050323ed8bce2d2bad589c0</data>
+      <data key="d11">071a416efbec4f0886c19ac68f6d43cb</data>
+      <data key="d12">52</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ATHLETIC BILBAO&quot;" target="&quot;TELMO ZARRA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Telmo Zarra played for Athletic Bilbao and held the record as La Liga's all-time top scorer until 2014."</data>
+      <data key="d10">333f31ee013f38da5a349aa3ee3c13bd</data>
+      <data key="d11">6d8473ef3b1042bf87178a611e3dbcc6</data>
+      <data key="d12">53</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ATL&#201;TICO MADRID&quot;" target="&quot;HUGO S&#193;NCHEZ&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hugo S&#225;nchez played for Atl&#233;tico Madrid and Real Madrid, finishing as top scorer in five seasons."</data>
+      <data key="d10">333f31ee013f38da5a349aa3ee3c13bd</data>
+      <data key="d11">30c9641543c24773938bd8ec57ea98ab</data>
+      <data key="d12">54</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FORMULA ONE&quot;" target="&quot;PACO GODIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Paco Godia participated in Formula One races."</data>
+      <data key="d10">998622965439dfdc730b38e8696b323e</data>
+      <data key="d11">18b839da898e4026b81727d759d95c6a</data>
+      <data key="d12">55</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;QUINI&quot;" target="&quot;SPORTING DE GIJ&#211;N&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Quini played for Sporting de Gij&#243;n and Barcelona, finishing as top scorer in five seasons."</data>
+      <data key="d10">333f31ee013f38da5a349aa3ee3c13bd</data>
+      <data key="d11">eeef6ae5c464400c8755900b4f1ac37a</data>
+      <data key="d12">56</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BRITISH&quot;" target="&quot;FLORIDA TERRITORY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The British controlled the Florida Territory from 1763 to 1783, introducing new crops and infrastructure."</data>
+      <data key="d10">5fcab61ce631d5b6220e214d644d3399</data>
+      <data key="d11">422433aa45804c7ebb973b2fafce5da6</data>
+      <data key="d12">57</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ANDREW JACKSON&quot;" target="&quot;JACKSONVILLE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The town of Jacksonville was named after Andrew Jackson."</data>
+      <data key="d10">5fcab61ce631d5b6220e214d644d3399</data>
+      <data key="d11">86505bca739d4bccaaa1a8e0f3baffdc</data>
+      <data key="d12">58</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ISAIAH D. HART&quot;" target="&quot;JACKSONVILLE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Isaiah D. Hart led the effort to establish a town government in Jacksonville."</data>
+      <data key="d10">5fcab61ce631d5b6220e214d644d3399</data>
+      <data key="d11">1af9faf341e14a5bbf4ddc9080e8dc0b</data>
+      <data key="d12">59</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HAMBURG&quot;" target="&quot;SCHALKE 04&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hamburg, Schalke 04, and Stuttgart are German football clubs that hold the record for the most UEFA Intertoto Cup titles."</data>
+      <data key="d10">a0a5c4f79fcfd157dc8262c1246fb12c</data>
+      <data key="d11">353d91abc68648639d65a549e59b5cf3</data>
+      <data key="d12">60</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;THE PERSON&quot;" target="&quot;FC BARCELONA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The person played for FC Barcelona."</data>
+      <data key="d10">4f18c406d00dc4a622cb956f8df74d85</data>
+      <data key="d11">7ce637e4f35b42e3a9f8272cab69cd22</data>
+      <data key="d12">61</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MINNESOTA VIKINGS&quot;" target="&quot;CHARLES LEO GOODRUM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Charles Leo Goodrum played for the Minnesota Vikings."</data>
+      <data key="d10">2138b3276c637e8cac0dce4ce11346c7</data>
+      <data key="d11">4d999d7744b04a998475f8f8531589f0</data>
+      <data key="d12">62</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FLORIDA A&amp;M UNIVERSITY&quot;" target="&quot;CHARLES LEO GOODRUM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Charles Leo Goodrum attended Florida A&amp;M University."</data>
+      <data key="d10">2138b3276c637e8cac0dce4ce11346c7</data>
+      <data key="d11">9a6f414210e14841a5b0e661aedc898d</data>
+      <data key="d12">63</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MIAMI, FLORIDA&quot;" target="&quot;CHARLES LEO GOODRUM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Charles Leo Goodrum was born in Miami, Florida."</data>
+      <data key="d10">2138b3276c637e8cac0dce4ce11346c7</data>
+      <data key="d11">db541b7260974db8bac94e953009f60e</data>
+      <data key="d12">64</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;EDMUND HUSSERL&quot;" target="&quot;MORITZ GEIGER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Moritz Geiger was a disciple of Edmund Husserl."</data>
+      <data key="d10">9e08615f3558f287e6a0c20dca462242</data>
+      <data key="d11">f2ff8044718648e18acef16dd9a65436</data>
+      <data key="d12">65</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MUNICH PHENOMENOLOGICAL SCHOOL&quot;" target="&quot;MORITZ GEIGER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Moritz Geiger was a member of the Munich phenomenological school."</data>
+      <data key="d10">9e08615f3558f287e6a0c20dca462242</data>
+      <data key="d11">00d785e7d76b47ec81b508e768d40584</data>
+      <data key="d12">66</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FRANKFURT&quot;" target="&quot;MORITZ GEIGER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Moritz Geiger was born in Frankfurt."</data>
+      <data key="d10">9e08615f3558f287e6a0c20dca462242</data>
+      <data key="d11">87915637da3e474c9349bd0ae604bd95</data>
+      <data key="d12">67</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SEAL HARBOR, MAINE&quot;" target="&quot;MORITZ GEIGER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Moritz Geiger died in Seal Harbor, Maine."</data>
+      <data key="d10">9e08615f3558f287e6a0c20dca462242</data>
+      <data key="d11">8f1eba29f39e411188200bf0d14628ec</data>
+      <data key="d12">68</data>
+      <data key="d13">0</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,962 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;FRENCH HIGH COMMAND&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The French high command is the organization that planned a seaborne invasion of northern Germany with Napoleon III."</data>
+      <data key="d2">34fa6967b452db24ee6d6394f8ec7d2b</data>
+    </node>
+    <node id="&quot;DENMARK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Denmark is a country expected to join the war with its 50,000-strong army and the Royal Danish Navy."</data>
+      <data key="d2">34fa6967b452db24ee6d6394f8ec7d2b</data>
+    </node>
+    <node id="&quot;PRUSSIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Prussia is a region in northern Germany that had built defences around its big North German ports."</data>
+      <data key="d2">34fa6967b452db24ee6d6394f8ec7d2b</data>
+    </node>
+    <node id="&quot;FRENCH NAVY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The French Navy lacked the heavy guns to engage the coastal defences of Prussia."</data>
+      <data key="d2">34fa6967b452db24ee6d6394f8ec7d2b</data>
+    </node>
+    <node id="&quot;NAPOLEON III&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">34fa6967b452db24ee6d6394f8ec7d2b</data>
+    </node>
+    <node id="&quot;WAR&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">34fa6967b452db24ee6d6394f8ec7d2b</data>
+    </node>
+    <node id="&quot;DEFENCES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">34fa6967b452db24ee6d6394f8ec7d2b</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">0b515a24d0c9d411e648cb8368c47c54,16751d63bcb9e57ae6b0bf17c163e928,212075cfe540ecd930178202ce883b22,34fa6967b452db24ee6d6394f8ec7d2b,36108b6d91f4c66d11639bd22e0e58ca,3fb7c58492a4de7e81505da6bf2cd612,43de1aa0c63a23497363a69e6a8e361d,44f10353865b50ef641249c3b2f702f7,56a949289814e4352b371f259ce65cb3,6cc7f2705e63d6f4c046423343e141fc,76cade21857ce475994d360c95d28bd3,7fe97e208de4d616be9331af9be782f9,8adb516f29d482e9eb05f978e8a12a35,b8afad18ed103f6cb42566bf217bf5bf,be66b9e5618b682cd31d9586f5903059,c3694c45c058cfcb035b5c0c76402bb7,c4dd079d212ae2ea3d77ee361030612d,c69ec3af459ee20c9817a7e9650e4381,c704174dbf91d65f7686b927e6675e53,de4257f56501c06c87b5168294998751</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">0b515a24d0c9d411e648cb8368c47c54,16751d63bcb9e57ae6b0bf17c163e928,212075cfe540ecd930178202ce883b22,34fa6967b452db24ee6d6394f8ec7d2b,36108b6d91f4c66d11639bd22e0e58ca,3fb7c58492a4de7e81505da6bf2cd612,43de1aa0c63a23497363a69e6a8e361d,44f10353865b50ef641249c3b2f702f7,56a949289814e4352b371f259ce65cb3,6cc7f2705e63d6f4c046423343e141fc,76cade21857ce475994d360c95d28bd3,7fe97e208de4d616be9331af9be782f9,8adb516f29d482e9eb05f978e8a12a35,b8afad18ed103f6cb42566bf217bf5bf,be66b9e5618b682cd31d9586f5903059,c3694c45c058cfcb035b5c0c76402bb7,c4dd079d212ae2ea3d77ee361030612d,c69ec3af459ee20c9817a7e9650e4381,c704174dbf91d65f7686b927e6675e53,de4257f56501c06c87b5168294998751</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">0b515a24d0c9d411e648cb8368c47c54,16751d63bcb9e57ae6b0bf17c163e928,212075cfe540ecd930178202ce883b22,34fa6967b452db24ee6d6394f8ec7d2b,36108b6d91f4c66d11639bd22e0e58ca,3fb7c58492a4de7e81505da6bf2cd612,43de1aa0c63a23497363a69e6a8e361d,44f10353865b50ef641249c3b2f702f7,56a949289814e4352b371f259ce65cb3,6cc7f2705e63d6f4c046423343e141fc,76cade21857ce475994d360c95d28bd3,7fe97e208de4d616be9331af9be782f9,8adb516f29d482e9eb05f978e8a12a35,b8afad18ed103f6cb42566bf217bf5bf,be66b9e5618b682cd31d9586f5903059,c3694c45c058cfcb035b5c0c76402bb7,c4dd079d212ae2ea3d77ee361030612d,c69ec3af459ee20c9817a7e9650e4381,c704174dbf91d65f7686b927e6675e53,de4257f56501c06c87b5168294998751</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">0b515a24d0c9d411e648cb8368c47c54,16751d63bcb9e57ae6b0bf17c163e928,212075cfe540ecd930178202ce883b22,34fa6967b452db24ee6d6394f8ec7d2b,36108b6d91f4c66d11639bd22e0e58ca,3fb7c58492a4de7e81505da6bf2cd612,43de1aa0c63a23497363a69e6a8e361d,44f10353865b50ef641249c3b2f702f7,56a949289814e4352b371f259ce65cb3,6cc7f2705e63d6f4c046423343e141fc,76cade21857ce475994d360c95d28bd3,7fe97e208de4d616be9331af9be782f9,8adb516f29d482e9eb05f978e8a12a35,b8afad18ed103f6cb42566bf217bf5bf,be66b9e5618b682cd31d9586f5903059,c3694c45c058cfcb035b5c0c76402bb7,c4dd079d212ae2ea3d77ee361030612d,c69ec3af459ee20c9817a7e9650e4381,c704174dbf91d65f7686b927e6675e53,de4257f56501c06c87b5168294998751</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">0b515a24d0c9d411e648cb8368c47c54,16751d63bcb9e57ae6b0bf17c163e928,212075cfe540ecd930178202ce883b22,34fa6967b452db24ee6d6394f8ec7d2b,36108b6d91f4c66d11639bd22e0e58ca,3fb7c58492a4de7e81505da6bf2cd612,43de1aa0c63a23497363a69e6a8e361d,44f10353865b50ef641249c3b2f702f7,56a949289814e4352b371f259ce65cb3,6cc7f2705e63d6f4c046423343e141fc,76cade21857ce475994d360c95d28bd3,7fe97e208de4d616be9331af9be782f9,8adb516f29d482e9eb05f978e8a12a35,b8afad18ed103f6cb42566bf217bf5bf,be66b9e5618b682cd31d9586f5903059,c3694c45c058cfcb035b5c0c76402bb7,c4dd079d212ae2ea3d77ee361030612d,c69ec3af459ee20c9817a7e9650e4381,c704174dbf91d65f7686b927e6675e53,de4257f56501c06c87b5168294998751</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">0b515a24d0c9d411e648cb8368c47c54,16751d63bcb9e57ae6b0bf17c163e928,212075cfe540ecd930178202ce883b22,34fa6967b452db24ee6d6394f8ec7d2b,36108b6d91f4c66d11639bd22e0e58ca,3fb7c58492a4de7e81505da6bf2cd612,43de1aa0c63a23497363a69e6a8e361d,44f10353865b50ef641249c3b2f702f7,56a949289814e4352b371f259ce65cb3,6cc7f2705e63d6f4c046423343e141fc,76cade21857ce475994d360c95d28bd3,7fe97e208de4d616be9331af9be782f9,8adb516f29d482e9eb05f978e8a12a35,b8afad18ed103f6cb42566bf217bf5bf,be66b9e5618b682cd31d9586f5903059,c3694c45c058cfcb035b5c0c76402bb7,c4dd079d212ae2ea3d77ee361030612d,c69ec3af459ee20c9817a7e9650e4381,c704174dbf91d65f7686b927e6675e53,de4257f56501c06c87b5168294998751</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">0b515a24d0c9d411e648cb8368c47c54,16751d63bcb9e57ae6b0bf17c163e928,212075cfe540ecd930178202ce883b22,34fa6967b452db24ee6d6394f8ec7d2b,36108b6d91f4c66d11639bd22e0e58ca,3fb7c58492a4de7e81505da6bf2cd612,43de1aa0c63a23497363a69e6a8e361d,44f10353865b50ef641249c3b2f702f7,56a949289814e4352b371f259ce65cb3,6cc7f2705e63d6f4c046423343e141fc,76cade21857ce475994d360c95d28bd3,7fe97e208de4d616be9331af9be782f9,8adb516f29d482e9eb05f978e8a12a35,b8afad18ed103f6cb42566bf217bf5bf,be66b9e5618b682cd31d9586f5903059,c3694c45c058cfcb035b5c0c76402bb7,c4dd079d212ae2ea3d77ee361030612d,c69ec3af459ee20c9817a7e9650e4381,c704174dbf91d65f7686b927e6675e53,de4257f56501c06c87b5168294998751</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">0b515a24d0c9d411e648cb8368c47c54,16751d63bcb9e57ae6b0bf17c163e928,212075cfe540ecd930178202ce883b22,34fa6967b452db24ee6d6394f8ec7d2b,36108b6d91f4c66d11639bd22e0e58ca,3fb7c58492a4de7e81505da6bf2cd612,43de1aa0c63a23497363a69e6a8e361d,44f10353865b50ef641249c3b2f702f7,56a949289814e4352b371f259ce65cb3,6cc7f2705e63d6f4c046423343e141fc,76cade21857ce475994d360c95d28bd3,7fe97e208de4d616be9331af9be782f9,8adb516f29d482e9eb05f978e8a12a35,b8afad18ed103f6cb42566bf217bf5bf,be66b9e5618b682cd31d9586f5903059,c3694c45c058cfcb035b5c0c76402bb7,c4dd079d212ae2ea3d77ee361030612d,c69ec3af459ee20c9817a7e9650e4381,c704174dbf91d65f7686b927e6675e53,de4257f56501c06c87b5168294998751</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">0b515a24d0c9d411e648cb8368c47c54,16751d63bcb9e57ae6b0bf17c163e928,212075cfe540ecd930178202ce883b22,34fa6967b452db24ee6d6394f8ec7d2b,36108b6d91f4c66d11639bd22e0e58ca,3fb7c58492a4de7e81505da6bf2cd612,43de1aa0c63a23497363a69e6a8e361d,44f10353865b50ef641249c3b2f702f7,56a949289814e4352b371f259ce65cb3,6cc7f2705e63d6f4c046423343e141fc,76cade21857ce475994d360c95d28bd3,7fe97e208de4d616be9331af9be782f9,8adb516f29d482e9eb05f978e8a12a35,b8afad18ed103f6cb42566bf217bf5bf,be66b9e5618b682cd31d9586f5903059,c3694c45c058cfcb035b5c0c76402bb7,c4dd079d212ae2ea3d77ee361030612d,c69ec3af459ee20c9817a7e9650e4381,c704174dbf91d65f7686b927e6675e53,de4257f56501c06c87b5168294998751</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0b515a24d0c9d411e648cb8368c47c54,16751d63bcb9e57ae6b0bf17c163e928,212075cfe540ecd930178202ce883b22,34fa6967b452db24ee6d6394f8ec7d2b,36108b6d91f4c66d11639bd22e0e58ca,3fb7c58492a4de7e81505da6bf2cd612,43de1aa0c63a23497363a69e6a8e361d,44f10353865b50ef641249c3b2f702f7,56a949289814e4352b371f259ce65cb3,6cc7f2705e63d6f4c046423343e141fc,76cade21857ce475994d360c95d28bd3,7fe97e208de4d616be9331af9be782f9,8adb516f29d482e9eb05f978e8a12a35,b8afad18ed103f6cb42566bf217bf5bf,be66b9e5618b682cd31d9586f5903059,c3694c45c058cfcb035b5c0c76402bb7,c4dd079d212ae2ea3d77ee361030612d,c69ec3af459ee20c9817a7e9650e4381,c704174dbf91d65f7686b927e6675e53,de4257f56501c06c87b5168294998751</data>
+    </node>
+    <node id="&quot;RAFAEL ADVANCED DEFENSE SYSTEMS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Rafael Advanced Defense Systems is an Israeli defense contractor that has developed two notable air defense systems: Iron Beam and Iron Dome.</data>
+      <data key="d2">3fb7c58492a4de7e81505da6bf2cd612,6cc7f2705e63d6f4c046423343e141fc</data>
+    </node>
+    <node id="&quot;ISRAEL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Israel is a country that has developed an integrated air defense system, which consists of multiple elements, including Iron Beam as its fifth component. This system is designed to protect populated areas within Israel's geographic location, where the Iron Dome air defense system is also intended to provide additional protection.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">3fb7c58492a4de7e81505da6bf2cd612,6cc7f2705e63d6f4c046423343e141fc</data>
+    </node>
+    <node id="&quot;SINGAPORE AIR SHOW&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Singapore Air Show is where the Iron Beam air defense system was unveiled on February 11, 2014."</data>
+      <data key="d2">6cc7f2705e63d6f4c046423343e141fc</data>
+    </node>
+    <node id="&quot;IRON BEAM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6cc7f2705e63d6f4c046423343e141fc</data>
+    </node>
+    <node id="&quot;FRENCH NATIONAL CONVENTION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The French National Convention adopted The Marseillaise as the Republic's anthem in 1795."</data>
+      <data key="d2">0b515a24d0c9d411e648cb8368c47c54</data>
+    </node>
+    <node id="&quot;MARSEILLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Marseille is a city where volunteers marched to Paris, singing The Marseillaise."</data>
+      <data key="d2">0b515a24d0c9d411e648cb8368c47c54</data>
+    </node>
+    <node id="&quot;PARIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Paris is the capital city where volunteers from Marseille marched and sang The Marseillaise."</data>
+      <data key="d2">0b515a24d0c9d411e648cb8368c47c54</data>
+    </node>
+    <node id="&quot;THE MARSEILLAISE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0b515a24d0c9d411e648cb8368c47c54</data>
+    </node>
+    <node id="&quot;REVOLUTION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0b515a24d0c9d411e648cb8368c47c54</data>
+    </node>
+    <node id="&quot;JAMES MCHENRY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"James McHenry was a person who recommended the establishment of the Department of the Navy in 1798."</data>
+      <data key="d2">c704174dbf91d65f7686b927e6675e53</data>
+    </node>
+    <node id="&quot;UNITED STATES NAVY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The United States Navy is an organization that falls under the Department of the Navy, along with the Marine Corps and Coast Guard."</data>
+      <data key="d2">c704174dbf91d65f7686b927e6675e53</data>
+    </node>
+    <node id="&quot;UNITED STATES MARINE CORPS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The United States Marine Corps is an organization that falls under the Department of the Navy, established in 1834."</data>
+      <data key="d2">c704174dbf91d65f7686b927e6675e53</data>
+    </node>
+    <node id="&quot;UNITED STATES COAST GUARD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The United States Coast Guard is an organization that falls under the Department of the Navy during times of war, but remains an independent service branch."</data>
+      <data key="d2">c704174dbf91d65f7686b927e6675e53</data>
+    </node>
+    <node id="&quot;PRESIDENT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The President has the authority to activate National Guard soldiers, giving them dual status as state soldiers and reserve of the U.S. Army. Additionally, the President has authority over the Department of the Navy and can direct the Coast Guard to operate within the Navy.
+
+Let me know if you need anything else!</data>
+      <data key="d2">b8afad18ed103f6cb42566bf217bf5bf,c704174dbf91d65f7686b927e6675e53</data>
+    </node>
+    <node id="&quot;SECRETARY OF THE NAVY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Secretary of the Navy is a person who was a member of the President's cabinet until 1949, responsible for the Department of the Navy."</data>
+      <data key="d2">c704174dbf91d65f7686b927e6675e53</data>
+    </node>
+    <node id="&quot;DEPARTMENT OF DEFENSE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Department of Defense is an organization established in 1947, which includes the Department of the Navy, Army, and Air Force as Military Departments."</data>
+      <data key="d2">c704174dbf91d65f7686b927e6675e53</data>
+    </node>
+    <node id="&quot;SECRETARY OF DEFENSE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Secretary of Defense is a person who has authority over the Department of the Navy and other Military Departments within the Department of Defense."</data>
+      <data key="d2">c704174dbf91d65f7686b927e6675e53</data>
+    </node>
+    <node id="&quot;UNITED STATES DEPARTMENT OF THE NAVY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c704174dbf91d65f7686b927e6675e53</data>
+    </node>
+    <node id="&quot;UNITED NATIONS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The United Nations approved the use of force to help South Koreans, demonstrating its role in international conflict resolution."</data>
+      <data key="d2">8adb516f29d482e9eb05f978e8a12a35</data>
+    </node>
+    <node id="&quot;YUGOSLAVIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Yugoslavia was a country that existed from 1943 to 1992 and later as the Federal Republic of Yugoslavia from 1992 to 2003. Its national anthem mentioned "Slavs", reflecting its cultural identity. During its existence, Yugoslavia held significant geopolitical importance, being considered a vital location for the defense of Italy and Greece. Additionally, it was seen as a potential target by the Soviet Union due to the Tito-Stalin Split, which led to concerns about a potential invasion. This concern was shared by Josip Broz Tito, who played a key role in Yugoslavia's history.</data>
+      <data key="d2">44f10353865b50ef641249c3b2f702f7,8adb516f29d482e9eb05f978e8a12a35,c69ec3af459ee20c9817a7e9650e4381</data>
+    </node>
+    <node id="&quot;TRUMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Truman believed that unchecked aggression would lead to a chain reaction of Communist expansion, showing his commitment to containing communism."</data>
+      <data key="d2">8adb516f29d482e9eb05f978e8a12a35</data>
+    </node>
+    <node id="&quot;NORTH KOREA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"North Korea was involved in an invasion of South Korea, prompting international intervention."</data>
+      <data key="d2">8adb516f29d482e9eb05f978e8a12a35</data>
+    </node>
+    <node id="&quot;SOUTH KOREA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"South Korea received military aid from the US and the UN to counter the North Korean invasion."</data>
+      <data key="d2">8adb516f29d482e9eb05f978e8a12a35</data>
+    </node>
+    <node id="&quot;TRUMAN ADMINISTRATION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8adb516f29d482e9eb05f978e8a12a35</data>
+    </node>
+    <node id="&quot;SOVIET UNION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8adb516f29d482e9eb05f978e8a12a35</data>
+    </node>
+    <node id="&quot;R.E. APPLEMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"R.E. Appleman is an author who reported on the ROK forces' low combat readiness in his book 'South to the Naktong, North to the Yalu'."</data>
+      <data key="d2">c3694c45c058cfcb035b5c0c76402bb7</data>
+    </node>
+    <node id="&quot;U.S. MILITARY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The U.S. military had denied requests for tanks from the ROK Army and had large garrisons and air forces in Japan."</data>
+      <data key="d2">c3694c45c058cfcb035b5c0c76402bb7</data>
+    </node>
+    <node id="&quot;KOREA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Korea is a geographic location where the invasion took place."</data>
+      <data key="d2">c3694c45c058cfcb035b5c0c76402bb7</data>
+    </node>
+    <node id="&quot;JAPAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Japan is a geographic location where there were large U.S. garrisons and air forces."</data>
+      <data key="d2">c3694c45c058cfcb035b5c0c76402bb7</data>
+    </node>
+    <node id="&quot;ROK ARMY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c3694c45c058cfcb035b5c0c76402bb7</data>
+    </node>
+    <node id="&quot;INVASION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c3694c45c058cfcb035b5c0c76402bb7</data>
+    </node>
+    <node id="&quot;CZECHOSLOVAKIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Czechoslovakia, a geographic location, has a complex history marked by significant events. It was invaded by the Soviets, which led to Tito's offer of help to Alexander Dub&#269;ek and subsequently resulted in the removal of generals Ivan Go&#353;njak and Rade Hamovi&#263;. Additionally, Czechoslovakia is also notable as the native country of Ivo Werner.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">44f10353865b50ef641249c3b2f702f7,de4257f56501c06c87b5168294998751</data>
+    </node>
+    <node id="&quot;WEST GERMANY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"West Germany is a country where Ivo Werner immigrated to in 1982 and obtained citizenship in 1984."</data>
+      <data key="d2">de4257f56501c06c87b5168294998751</data>
+    </node>
+    <node id="&quot;IVO WERNER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">de4257f56501c06c87b5168294998751</data>
+    </node>
+    <node id="&quot;CAPTAIN JOHN H. MILLER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Captain John H. Miller is the leader of the 2nd Ranger Battalion during the Normandy Invasion, tasked with penetrating German defenses."</data>
+      <data key="d2">36108b6d91f4c66d11639bd22e0e58ca,76cade21857ce475994d360c95d28bd3</data>
+    </node>
+    <node id="&quot;RYAN, S.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Ryan, S. is a deceased American soldier whose body lies on Omaha Beach, serving as a poignant reminder of the human cost of war, particularly during the Normandy Invasion.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">36108b6d91f4c66d11639bd22e0e58ca,76cade21857ce475994d360c95d28bd3</data>
+    </node>
+    <node id="&quot;2ND RANGER BATTALION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The 2nd Ranger Battalion is a military unit involved in the Normandy Invasion, led by Captain John H. Miller."</data>
+      <data key="d2">36108b6d91f4c66d11639bd22e0e58ca,76cade21857ce475994d360c95d28bd3</data>
+    </node>
+    <node id="&quot;NORMANDY INVASION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Normandy Invasion is a historical event that took place on June 6, 1944, where American soldiers landed on Omaha Beach, facing heavy losses and intense fire from German defenses. On this day, they suffered significant casualties as they attempted to establish a foothold in Nazi-occupied France.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">36108b6d91f4c66d11639bd22e0e58ca,76cade21857ce475994d360c95d28bd3</data>
+    </node>
+    <node id="&quot;ELDERLY VETERAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">36108b6d91f4c66d11639bd22e0e58ca,76cade21857ce475994d360c95d28bd3</data>
+    </node>
+    <node id="&quot;NORMANDY AMERICAN CEMETERY AND MEMORIAL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">36108b6d91f4c66d11639bd22e0e58ca,76cade21857ce475994d360c95d28bd3</data>
+    </node>
+    <node id="&quot;ALEXANDER DUB&#268;EK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alexander Dub&#269;ek was the Czechoslovak leader who received an offer from Tito to fly to Prague for help in facing down the Soviets."</data>
+      <data key="d2">44f10353865b50ef641249c3b2f702f7</data>
+    </node>
+    <node id="&quot;IVAN GO&#352;NJAK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ivan Go&#353;njak was a general removed by Tito due to the unpreparedness of the Yugoslav army to respond to a similar invasion of Yugoslavia."</data>
+      <data key="d2">44f10353865b50ef641249c3b2f702f7</data>
+    </node>
+    <node id="&quot;RADE HAMOVI&#262;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Rade Hamovi&#263; was a general removed by Tito due to the unpreparedness of the Yugoslav army to respond to a similar invasion of Yugoslavia."</data>
+      <data key="d2">44f10353865b50ef641249c3b2f702f7</data>
+    </node>
+    <node id="&quot;INVASION OF CZECHOSLOVAKIA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Invasion of Czechoslovakia was an event that prompted Tito's actions, including offering help to Alexander Dub&#269;ek and removing generals Ivan Go&#353;njak and Rade Hamovi&#263;."</data>
+      <data key="d2">44f10353865b50ef641249c3b2f702f7</data>
+    </node>
+    <node id="&quot;TITO&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">44f10353865b50ef641249c3b2f702f7</data>
+    </node>
+    <node id="&quot;IRVING BURGIE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Irving Burgie is the writer of the national anthem of Barbados, 'In Plenty and In Time of Need'."</data>
+      <data key="d2">56a949289814e4352b371f259ce65cb3</data>
+    </node>
+    <node id="&quot;C. VAN ROLAND EDWARDS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"C. Van Roland Edwards is the composer of the national anthem of Barbados, 'In Plenty and In Time of Need'."</data>
+      <data key="d2">56a949289814e4352b371f259ce65cb3</data>
+    </node>
+    <node id="&quot;WEST INDIES FEDERATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The West Indies Federation was a former political entity that existed from 1958 to 1962, comprising several Caribbean nations including Barbados. During its existence, it received a submission from Patrick S. Castagne for a possible national anthem.</data>
+      <data key="d2">43de1aa0c63a23497363a69e6a8e361d,56a949289814e4352b371f259ce65cb3</data>
+    </node>
+    <node id="&quot;TRINIDAD AND TOBAGO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Trinidad and Tobago is a country with a rich history, particularly when it comes to its national anthem. The national anthem, "Forged from the Love of Liberty", was originally intended for Barbados but is now proudly used by Trinidad and Tobago. Interestingly, this iconic anthem was composed by Patrick S. Castagne in 1962, making it an integral part of the country's identity.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">43de1aa0c63a23497363a69e6a8e361d,56a949289814e4352b371f259ce65cb3</data>
+    </node>
+    <node id="&quot;BARBADOS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">56a949289814e4352b371f259ce65cb3</data>
+    </node>
+    <node id="&quot;FEDERAL REPUBLIC OF YUGOSLAVIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Federal Republic of Yugoslavia was a country that existed from 1992 to 2003, with 'Slavs' mentioned in its national anthem."</data>
+      <data key="d2">c69ec3af459ee20c9817a7e9650e4381</data>
+    </node>
+    <node id="&quot;SERBIA AND MONTENEGRO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Serbia and Montenegro was a country that existed from 2003 to 2006, with 'Slavs' mentioned in its national anthem."</data>
+      <data key="d2">c69ec3af459ee20c9817a7e9650e4381</data>
+    </node>
+    <node id="&quot;SLAVS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Slavs refers to a geographic region or ethnic group, mentioned in the national anthems of several countries."</data>
+      <data key="d2">c69ec3af459ee20c9817a7e9650e4381</data>
+    </node>
+    <node id="&quot;SLOVAK REPUBLIC&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c69ec3af459ee20c9817a7e9650e4381</data>
+    </node>
+    <node id="&quot;ARMY RESERVE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Army Reserve is one of the divisions of the army."</data>
+      <data key="d2">b8afad18ed103f6cb42566bf217bf5bf</data>
+    </node>
+    <node id="&quot;ARMY NATIONAL GUARD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Army National Guard is one of the divisions of the army, with dual status as state soldiers and reserve of the U.S. Army."</data>
+      <data key="d2">b8afad18ed103f6cb42566bf217bf5bf</data>
+    </node>
+    <node id="&quot;AIR DEFENSE ARTILLERY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Air Defense Artillery is a major branch of the army."</data>
+      <data key="d2">b8afad18ed103f6cb42566bf217bf5bf</data>
+    </node>
+    <node id="&quot;INFANTRY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Infantry is a major branch of the army."</data>
+      <data key="d2">b8afad18ed103f6cb42566bf217bf5bf</data>
+    </node>
+    <node id="&quot;AVIATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Aviation is a major branch of the army."</data>
+      <data key="d2">b8afad18ed103f6cb42566bf217bf5bf</data>
+    </node>
+    <node id="&quot;SIGNAL CORPS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Signal Corps is a major branch of the army."</data>
+      <data key="d2">b8afad18ed103f6cb42566bf217bf5bf</data>
+    </node>
+    <node id="&quot;CORPS OF ENGINEERS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Corps of Engineers is a major branch of the army."</data>
+      <data key="d2">b8afad18ed103f6cb42566bf217bf5bf</data>
+    </node>
+    <node id="&quot;ARMOR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Armor is a major branch of the army."</data>
+      <data key="d2">b8afad18ed103f6cb42566bf217bf5bf</data>
+    </node>
+    <node id="&quot;GOVERNOR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The governor of a state or territory has authority over National Guardsmen in their jurisdiction."</data>
+      <data key="d2">b8afad18ed103f6cb42566bf217bf5bf</data>
+    </node>
+    <node id="&quot;RABINDRANATH TAGORE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Rabindranath Tagore is a poet who composed the national anthem of India, Jana Gana Mana, in Bengali."</data>
+      <data key="d2">7fe97e208de4d616be9331af9be782f9</data>
+    </node>
+    <node id="&quot;JANA GANA MANA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Jana Gana Mana is the national anthem of India, composed by Rabindranath Tagore."</data>
+      <data key="d2">7fe97e208de4d616be9331af9be782f9</data>
+    </node>
+    <node id="&quot;INDIA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7fe97e208de4d616be9331af9be782f9</data>
+    </node>
+    <node id="&quot;ISRAEL AEROSPACE INDUSTRIES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Israel Aerospace Industries is an organization that developed the Iron Dome air defense system."</data>
+      <data key="d2">3fb7c58492a4de7e81505da6bf2cd612</data>
+    </node>
+    <node id="&quot;IRON DOME&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3fb7c58492a4de7e81505da6bf2cd612</data>
+    </node>
+    <node id="&quot;TRINIDAD AND TOBAGO COMMISSION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Trinidad and Tobago Commission is an organization where Patrick S. Castagne was employed in London."</data>
+      <data key="d2">43de1aa0c63a23497363a69e6a8e361d</data>
+    </node>
+    <node id="&quot;LONDON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"London is the location where Patrick S. Castagne was employed at the Trinidad and Tobago Commission."</data>
+      <data key="d2">43de1aa0c63a23497363a69e6a8e361d</data>
+    </node>
+    <node id="&quot;PATRICK S. CASTAGNE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">43de1aa0c63a23497363a69e6a8e361d</data>
+    </node>
+    <node id="&quot;PAKISTAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Pakistan is a country where the Urdu language is spoken and holds significant cultural importance. Additionally, Pakistan is notable for being the country where its national anthem was first played on its national radio on August 14, 1947.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">212075cfe540ecd930178202ce883b22,c4dd079d212ae2ea3d77ee361030612d</data>
+    </node>
+    <node id="&quot;JAGANNATH AZAD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jagannath Azad is claimed to be the composer of Tarana - e-Pakistan at the request of Mohammad Ali Jinnah."</data>
+      <data key="d2">c4dd079d212ae2ea3d77ee361030612d</data>
+    </node>
+    <node id="&quot;MOHAMMAD ALI JINNAH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mohammad Ali Jinnah requested Jagannath Azad to compose Tarana - e-Pakistan, which was played on Pakistan's national radio on 14 August 1947."</data>
+      <data key="d2">c4dd079d212ae2ea3d77ee361030612d</data>
+    </node>
+    <node id="&quot;QAUMI TARANA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Qaumi Tarana is the officially adopted national anthem of Pakistan in 1950."</data>
+      <data key="d2">c4dd079d212ae2ea3d77ee361030612d</data>
+    </node>
+    <node id="&quot;TARANA - E-PAKISTAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c4dd079d212ae2ea3d77ee361030612d</data>
+    </node>
+    <node id="&quot;NIKOLAOS MANTZAROS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Nikolaos Mantzaros is a musician who set the music for the 'Hymn to Liberty', the national anthem of Greece and Cyprus."</data>
+      <data key="d2">be66b9e5618b682cd31d9586f5903059</data>
+    </node>
+    <node id="&quot;GREECE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Greece is a country that adopted the 'Hymn to Liberty' as its national anthem in 1865."</data>
+      <data key="d2">be66b9e5618b682cd31d9586f5903059</data>
+    </node>
+    <node id="&quot;CYPRUS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Cyprus is a country that adopted the 'Hymn to Liberty' as its national anthem in 1966, along with Greece."</data>
+      <data key="d2">be66b9e5618b682cd31d9586f5903059</data>
+    </node>
+    <node id="&quot;REPUBLIC OF CYPRUS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Republic of Cyprus is a government entity that officially adopted the 'Hymn to Liberty' as its national anthem in 1966."</data>
+      <data key="d2">be66b9e5618b682cd31d9586f5903059</data>
+    </node>
+    <node id="&quot;DIONYSIOS SOLOMOS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">be66b9e5618b682cd31d9586f5903059</data>
+    </node>
+    <node id="&quot;HYMN TO LIBERTY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">be66b9e5618b682cd31d9586f5903059</data>
+    </node>
+    <node id="&quot;THE ANTHEM&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Anthem refers to a national song with Urdu lyrics written by Hafeez Jullundhri in 1952, having commonality with Persian language."</data>
+      <data key="d2">212075cfe540ecd930178202ce883b22</data>
+    </node>
+    <node id="&quot;HAFEEZ JULLUNDHRI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">212075cfe540ecd930178202ce883b22</data>
+    </node>
+    <node id="&quot;GEORGIA DEPARTMENT OF DEFENSE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Georgia Department of Defense is a government agency that oversees the Georgia State Defense Force."</data>
+      <data key="d2">16751d63bcb9e57ae6b0bf17c163e928</data>
+    </node>
+    <node id="&quot;GOVERNOR OF GEORGIA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Governor of Georgia is a government official who provides direction to the Georgia State Defense Force."</data>
+      <data key="d2">16751d63bcb9e57ae6b0bf17c163e928</data>
+    </node>
+    <node id="&quot;ADJUTANT GENERAL OF GEORGIA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Adjutant General of Georgia is a government official who provides direction to the Georgia State Defense Force."</data>
+      <data key="d2">16751d63bcb9e57ae6b0bf17c163e928</data>
+    </node>
+    <node id="&quot;GEORGIA ARMY NATIONAL GUARD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Georgia Army National Guard is a military organization that works alongside the Georgia State Defense Force."</data>
+      <data key="d2">16751d63bcb9e57ae6b0bf17c163e928</data>
+    </node>
+    <node id="&quot;GEORGIA AIR NATIONAL GUARD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Georgia Air National Guard is a military organization that works alongside the Georgia State Defense Force."</data>
+      <data key="d2">16751d63bcb9e57ae6b0bf17c163e928</data>
+    </node>
+    <node id="&quot;GEORGIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Georgia is a state in the United States where the Georgia State Defense Force operates."</data>
+      <data key="d2">16751d63bcb9e57ae6b0bf17c163e928</data>
+    </node>
+    <node id="&quot;GEORGIA STATE DEFENSE FORCE (GSDF, GASDF, OR SDF)&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">16751d63bcb9e57ae6b0bf17c163e928</data>
+    </node>
+    <edge source="&quot;FRENCH HIGH COMMAND&quot;" target="&quot;NAPOLEON III&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Napoleon III worked with the French high command to plan a seaborne invasion of northern Germany."</data>
+      <data key="d5">34fa6967b452db24ee6d6394f8ec7d2b</data>
+    </edge>
+    <edge source="&quot;DENMARK&quot;" target="&quot;WAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Denmark was expected to join the war with its army and navy."</data>
+      <data key="d5">34fa6967b452db24ee6d6394f8ec7d2b</data>
+    </edge>
+    <edge source="&quot;PRUSSIA&quot;" target="&quot;DEFENCES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Prussia had built defences around its big North German ports, including coastal artillery batteries."</data>
+      <data key="d5">34fa6967b452db24ee6d6394f8ec7d2b</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">0b515a24d0c9d411e648cb8368c47c54,16751d63bcb9e57ae6b0bf17c163e928,212075cfe540ecd930178202ce883b22,34fa6967b452db24ee6d6394f8ec7d2b,36108b6d91f4c66d11639bd22e0e58ca,3fb7c58492a4de7e81505da6bf2cd612,43de1aa0c63a23497363a69e6a8e361d,44f10353865b50ef641249c3b2f702f7,56a949289814e4352b371f259ce65cb3,6cc7f2705e63d6f4c046423343e141fc,76cade21857ce475994d360c95d28bd3,7fe97e208de4d616be9331af9be782f9,8adb516f29d482e9eb05f978e8a12a35,b8afad18ed103f6cb42566bf217bf5bf,be66b9e5618b682cd31d9586f5903059,c3694c45c058cfcb035b5c0c76402bb7,c4dd079d212ae2ea3d77ee361030612d,c69ec3af459ee20c9817a7e9650e4381,c704174dbf91d65f7686b927e6675e53,de4257f56501c06c87b5168294998751</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">0b515a24d0c9d411e648cb8368c47c54,16751d63bcb9e57ae6b0bf17c163e928,212075cfe540ecd930178202ce883b22,34fa6967b452db24ee6d6394f8ec7d2b,36108b6d91f4c66d11639bd22e0e58ca,3fb7c58492a4de7e81505da6bf2cd612,43de1aa0c63a23497363a69e6a8e361d,44f10353865b50ef641249c3b2f702f7,56a949289814e4352b371f259ce65cb3,6cc7f2705e63d6f4c046423343e141fc,76cade21857ce475994d360c95d28bd3,7fe97e208de4d616be9331af9be782f9,8adb516f29d482e9eb05f978e8a12a35,b8afad18ed103f6cb42566bf217bf5bf,be66b9e5618b682cd31d9586f5903059,c3694c45c058cfcb035b5c0c76402bb7,c4dd079d212ae2ea3d77ee361030612d,c69ec3af459ee20c9817a7e9650e4381,c704174dbf91d65f7686b927e6675e53,de4257f56501c06c87b5168294998751</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">0b515a24d0c9d411e648cb8368c47c54,16751d63bcb9e57ae6b0bf17c163e928,212075cfe540ecd930178202ce883b22,34fa6967b452db24ee6d6394f8ec7d2b,36108b6d91f4c66d11639bd22e0e58ca,3fb7c58492a4de7e81505da6bf2cd612,43de1aa0c63a23497363a69e6a8e361d,44f10353865b50ef641249c3b2f702f7,56a949289814e4352b371f259ce65cb3,6cc7f2705e63d6f4c046423343e141fc,76cade21857ce475994d360c95d28bd3,7fe97e208de4d616be9331af9be782f9,8adb516f29d482e9eb05f978e8a12a35,b8afad18ed103f6cb42566bf217bf5bf,be66b9e5618b682cd31d9586f5903059,c3694c45c058cfcb035b5c0c76402bb7,c4dd079d212ae2ea3d77ee361030612d,c69ec3af459ee20c9817a7e9650e4381,c704174dbf91d65f7686b927e6675e53,de4257f56501c06c87b5168294998751</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">0b515a24d0c9d411e648cb8368c47c54,16751d63bcb9e57ae6b0bf17c163e928,212075cfe540ecd930178202ce883b22,34fa6967b452db24ee6d6394f8ec7d2b,36108b6d91f4c66d11639bd22e0e58ca,3fb7c58492a4de7e81505da6bf2cd612,43de1aa0c63a23497363a69e6a8e361d,44f10353865b50ef641249c3b2f702f7,56a949289814e4352b371f259ce65cb3,6cc7f2705e63d6f4c046423343e141fc,76cade21857ce475994d360c95d28bd3,7fe97e208de4d616be9331af9be782f9,8adb516f29d482e9eb05f978e8a12a35,b8afad18ed103f6cb42566bf217bf5bf,be66b9e5618b682cd31d9586f5903059,c3694c45c058cfcb035b5c0c76402bb7,c4dd079d212ae2ea3d77ee361030612d,c69ec3af459ee20c9817a7e9650e4381,c704174dbf91d65f7686b927e6675e53,de4257f56501c06c87b5168294998751</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">0b515a24d0c9d411e648cb8368c47c54,16751d63bcb9e57ae6b0bf17c163e928,212075cfe540ecd930178202ce883b22,34fa6967b452db24ee6d6394f8ec7d2b,36108b6d91f4c66d11639bd22e0e58ca,3fb7c58492a4de7e81505da6bf2cd612,43de1aa0c63a23497363a69e6a8e361d,44f10353865b50ef641249c3b2f702f7,56a949289814e4352b371f259ce65cb3,6cc7f2705e63d6f4c046423343e141fc,76cade21857ce475994d360c95d28bd3,7fe97e208de4d616be9331af9be782f9,8adb516f29d482e9eb05f978e8a12a35,b8afad18ed103f6cb42566bf217bf5bf,be66b9e5618b682cd31d9586f5903059,c3694c45c058cfcb035b5c0c76402bb7,c4dd079d212ae2ea3d77ee361030612d,c69ec3af459ee20c9817a7e9650e4381,c704174dbf91d65f7686b927e6675e53,de4257f56501c06c87b5168294998751</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">0b515a24d0c9d411e648cb8368c47c54,16751d63bcb9e57ae6b0bf17c163e928,212075cfe540ecd930178202ce883b22,34fa6967b452db24ee6d6394f8ec7d2b,36108b6d91f4c66d11639bd22e0e58ca,3fb7c58492a4de7e81505da6bf2cd612,43de1aa0c63a23497363a69e6a8e361d,44f10353865b50ef641249c3b2f702f7,56a949289814e4352b371f259ce65cb3,6cc7f2705e63d6f4c046423343e141fc,76cade21857ce475994d360c95d28bd3,7fe97e208de4d616be9331af9be782f9,8adb516f29d482e9eb05f978e8a12a35,b8afad18ed103f6cb42566bf217bf5bf,be66b9e5618b682cd31d9586f5903059,c3694c45c058cfcb035b5c0c76402bb7,c4dd079d212ae2ea3d77ee361030612d,c69ec3af459ee20c9817a7e9650e4381,c704174dbf91d65f7686b927e6675e53,de4257f56501c06c87b5168294998751</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">0b515a24d0c9d411e648cb8368c47c54,16751d63bcb9e57ae6b0bf17c163e928,212075cfe540ecd930178202ce883b22,34fa6967b452db24ee6d6394f8ec7d2b,36108b6d91f4c66d11639bd22e0e58ca,3fb7c58492a4de7e81505da6bf2cd612,43de1aa0c63a23497363a69e6a8e361d,44f10353865b50ef641249c3b2f702f7,56a949289814e4352b371f259ce65cb3,6cc7f2705e63d6f4c046423343e141fc,76cade21857ce475994d360c95d28bd3,7fe97e208de4d616be9331af9be782f9,8adb516f29d482e9eb05f978e8a12a35,b8afad18ed103f6cb42566bf217bf5bf,be66b9e5618b682cd31d9586f5903059,c3694c45c058cfcb035b5c0c76402bb7,c4dd079d212ae2ea3d77ee361030612d,c69ec3af459ee20c9817a7e9650e4381,c704174dbf91d65f7686b927e6675e53,de4257f56501c06c87b5168294998751</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">0b515a24d0c9d411e648cb8368c47c54,16751d63bcb9e57ae6b0bf17c163e928,212075cfe540ecd930178202ce883b22,34fa6967b452db24ee6d6394f8ec7d2b,36108b6d91f4c66d11639bd22e0e58ca,3fb7c58492a4de7e81505da6bf2cd612,43de1aa0c63a23497363a69e6a8e361d,44f10353865b50ef641249c3b2f702f7,56a949289814e4352b371f259ce65cb3,6cc7f2705e63d6f4c046423343e141fc,76cade21857ce475994d360c95d28bd3,7fe97e208de4d616be9331af9be782f9,8adb516f29d482e9eb05f978e8a12a35,b8afad18ed103f6cb42566bf217bf5bf,be66b9e5618b682cd31d9586f5903059,c3694c45c058cfcb035b5c0c76402bb7,c4dd079d212ae2ea3d77ee361030612d,c69ec3af459ee20c9817a7e9650e4381,c704174dbf91d65f7686b927e6675e53,de4257f56501c06c87b5168294998751</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">0b515a24d0c9d411e648cb8368c47c54,16751d63bcb9e57ae6b0bf17c163e928,212075cfe540ecd930178202ce883b22,34fa6967b452db24ee6d6394f8ec7d2b,36108b6d91f4c66d11639bd22e0e58ca,3fb7c58492a4de7e81505da6bf2cd612,43de1aa0c63a23497363a69e6a8e361d,44f10353865b50ef641249c3b2f702f7,56a949289814e4352b371f259ce65cb3,6cc7f2705e63d6f4c046423343e141fc,76cade21857ce475994d360c95d28bd3,7fe97e208de4d616be9331af9be782f9,8adb516f29d482e9eb05f978e8a12a35,b8afad18ed103f6cb42566bf217bf5bf,be66b9e5618b682cd31d9586f5903059,c3694c45c058cfcb035b5c0c76402bb7,c4dd079d212ae2ea3d77ee361030612d,c69ec3af459ee20c9817a7e9650e4381,c704174dbf91d65f7686b927e6675e53,de4257f56501c06c87b5168294998751</data>
+    </edge>
+    <edge source="&quot;RAFAEL ADVANCED DEFENSE SYSTEMS&quot;" target="&quot;IRON BEAM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Rafael Advanced Defense Systems is developing the Iron Beam air defense system."</data>
+      <data key="d5">6cc7f2705e63d6f4c046423343e141fc</data>
+    </edge>
+    <edge source="&quot;RAFAEL ADVANCED DEFENSE SYSTEMS&quot;" target="&quot;IRON DOME&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Iron Dome was developed by Rafael Advanced Defense Systems."</data>
+      <data key="d5">3fb7c58492a4de7e81505da6bf2cd612</data>
+    </edge>
+    <edge source="&quot;ISRAEL&quot;" target="&quot;IRON BEAM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Iron Beam is part of Israel's integrated air defense system."</data>
+      <data key="d5">6cc7f2705e63d6f4c046423343e141fc</data>
+    </edge>
+    <edge source="&quot;ISRAEL&quot;" target="&quot;IRON DOME&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Iron Dome is intended to protect populated areas in Israel."</data>
+      <data key="d5">3fb7c58492a4de7e81505da6bf2cd612</data>
+    </edge>
+    <edge source="&quot;SINGAPORE AIR SHOW&quot;" target="&quot;IRON BEAM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Iron Beam air defense system was unveiled at the Singapore Air Show."</data>
+      <data key="d5">6cc7f2705e63d6f4c046423343e141fc</data>
+    </edge>
+    <edge source="&quot;FRENCH NATIONAL CONVENTION&quot;" target="&quot;THE MARSEILLAISE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The French National Convention adopted The Marseillaise as the Republic's anthem."</data>
+      <data key="d5">0b515a24d0c9d411e648cb8368c47c54</data>
+    </edge>
+    <edge source="&quot;MARSEILLE&quot;" target="&quot;PARIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Volunteers from Marseille marched to Paris, singing The Marseillaise."</data>
+      <data key="d5">0b515a24d0c9d411e648cb8368c47c54</data>
+    </edge>
+    <edge source="&quot;THE MARSEILLAISE&quot;" target="&quot;REVOLUTION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Marseillaise is a song of revolution and has been incorporated into many pieces of classical and popular music."</data>
+      <data key="d5">0b515a24d0c9d411e648cb8368c47c54</data>
+    </edge>
+    <edge source="&quot;JAMES MCHENRY&quot;" target="&quot;UNITED STATES DEPARTMENT OF THE NAVY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The United States Department of the Navy was established based on James McHenry's recommendation."</data>
+      <data key="d5">c704174dbf91d65f7686b927e6675e53</data>
+    </edge>
+    <edge source="&quot;UNITED STATES NAVY&quot;" target="&quot;UNITED STATES DEPARTMENT OF THE NAVY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The United States Department of the Navy provides a government structure to the United States Navy."</data>
+      <data key="d5">c704174dbf91d65f7686b927e6675e53</data>
+    </edge>
+    <edge source="&quot;UNITED STATES MARINE CORPS&quot;" target="&quot;UNITED STATES DEPARTMENT OF THE NAVY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The United States Department of the Navy provides a government structure to the United States Marine Corps."</data>
+      <data key="d5">c704174dbf91d65f7686b927e6675e53</data>
+    </edge>
+    <edge source="&quot;UNITED STATES COAST GUARD&quot;" target="&quot;UNITED STATES DEPARTMENT OF THE NAVY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The United States Department of the Navy has authority over the United States Coast Guard during times of war."</data>
+      <data key="d5">c704174dbf91d65f7686b927e6675e53</data>
+    </edge>
+    <edge source="&quot;PRESIDENT&quot;" target="&quot;UNITED STATES DEPARTMENT OF THE NAVY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The President has authority over the United States Department of the Navy."</data>
+      <data key="d5">c704174dbf91d65f7686b927e6675e53</data>
+    </edge>
+    <edge source="&quot;PRESIDENT&quot;" target="&quot;ARMY NATIONAL GUARD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The President has authority over the Army National Guard when activated."</data>
+      <data key="d5">b8afad18ed103f6cb42566bf217bf5bf</data>
+    </edge>
+    <edge source="&quot;SECRETARY OF THE NAVY&quot;" target="&quot;UNITED STATES DEPARTMENT OF THE NAVY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Secretary of the Navy is responsible for the United States Department of the Navy."</data>
+      <data key="d5">c704174dbf91d65f7686b927e6675e53</data>
+    </edge>
+    <edge source="&quot;DEPARTMENT OF DEFENSE&quot;" target="&quot;UNITED STATES DEPARTMENT OF THE NAVY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The United States Department of the Navy is a Military Department within the Department of Defense."</data>
+      <data key="d5">c704174dbf91d65f7686b927e6675e53</data>
+    </edge>
+    <edge source="&quot;SECRETARY OF DEFENSE&quot;" target="&quot;UNITED STATES DEPARTMENT OF THE NAVY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Secretary of Defense has authority over the United States Department of the Navy."</data>
+      <data key="d5">c704174dbf91d65f7686b927e6675e53</data>
+    </edge>
+    <edge source="&quot;UNITED NATIONS&quot;" target="&quot;TRUMAN ADMINISTRATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Truman administration worked with the United Nations to approve the use of force in Korea, demonstrating international cooperation."</data>
+      <data key="d5">8adb516f29d482e9eb05f978e8a12a35</data>
+    </edge>
+    <edge source="&quot;UNITED NATIONS&quot;" target="&quot;SOUTH KOREA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The United Nations approved the use of force to help South Koreans defend against North Korean aggression."</data>
+      <data key="d5">8adb516f29d482e9eb05f978e8a12a35</data>
+    </edge>
+    <edge source="&quot;YUGOSLAVIA&quot;" target="&quot;SOVIET UNION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Yugoslavia was considered a potential target for Soviet aggression due to the Tito-Stalin Split."</data>
+      <data key="d5">8adb516f29d482e9eb05f978e8a12a35</data>
+    </edge>
+    <edge source="&quot;YUGOSLAVIA&quot;" target="&quot;INVASION OF CZECHOSLOVAKIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Invasion of Czechoslovakia prompted Tito's concerns about a potential invasion of Yugoslavia."</data>
+      <data key="d5">44f10353865b50ef641249c3b2f702f7</data>
+    </edge>
+    <edge source="&quot;YUGOSLAVIA&quot;" target="&quot;SLAVS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Yugoslavia's national anthem mentions 'Slavs', indicating a connection to this geographic region or ethnic group."</data>
+      <data key="d5">c69ec3af459ee20c9817a7e9650e4381</data>
+    </edge>
+    <edge source="&quot;TRUMAN&quot;" target="&quot;NORTH KOREA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Truman's administration responded to North Korea's invasion of South Korea with military force, showing a strong stance against communist expansion."</data>
+      <data key="d5">8adb516f29d482e9eb05f978e8a12a35</data>
+    </edge>
+    <edge source="&quot;R.E. APPLEMAN&quot;" target="&quot;ROK ARMY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"R.E. Appleman reported on the ROK Army's low combat readiness."</data>
+      <data key="d5">c3694c45c058cfcb035b5c0c76402bb7</data>
+    </edge>
+    <edge source="&quot;U.S. MILITARY&quot;" target="&quot;ROK ARMY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The ROK Army had requested tanks from the U.S. military, but were denied."</data>
+      <data key="d5">c3694c45c058cfcb035b5c0c76402bb7</data>
+    </edge>
+    <edge source="&quot;ROK ARMY&quot;" target="&quot;INVASION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The ROK Army was attacked during the Invasion on 25 June 1950."</data>
+      <data key="d5">c3694c45c058cfcb035b5c0c76402bb7</data>
+    </edge>
+    <edge source="&quot;CZECHOSLOVAKIA&quot;" target="&quot;IVO WERNER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ivo Werner was originally from Czechoslovakia."</data>
+      <data key="d5">de4257f56501c06c87b5168294998751</data>
+    </edge>
+    <edge source="&quot;WEST GERMANY&quot;" target="&quot;IVO WERNER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ivo Werner immigrated to West Germany in 1982 and obtained citizenship in 1984."</data>
+      <data key="d5">de4257f56501c06c87b5168294998751</data>
+    </edge>
+    <edge source="&quot;CAPTAIN JOHN H. MILLER&quot;" target="&quot;2ND RANGER BATTALION&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Captain John H. Miller leads the 2nd Ranger Battalion during the Normandy Invasion."</data>
+      <data key="d5">36108b6d91f4c66d11639bd22e0e58ca,76cade21857ce475994d360c95d28bd3</data>
+    </edge>
+    <edge source="&quot;RYAN, S.&quot;" target="&quot;NORMANDY INVASION&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Here is the comprehensive summary:
+
+S. Ryan was a casualty of the Normandy Invasion, specifically found dead on Omaha Beach, which serves as a poignant reminder of the human cost of war.
+
+Let me know if you need any further assistance!</data>
+      <data key="d5">36108b6d91f4c66d11639bd22e0e58ca,76cade21857ce475994d360c95d28bd3</data>
+    </edge>
+    <edge source="&quot;ELDERLY VETERAN&quot;" target="&quot;NORMANDY AMERICAN CEMETERY AND MEMORIAL&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Here is the comprehensive summary:
+
+The elderly veteran visits the Normandy American Cemetery and Memorial with his family, a significant act that highlights the cemetery's importance as a place of remembrance.
+
+Let me know if you need any further assistance!</data>
+      <data key="d5">36108b6d91f4c66d11639bd22e0e58ca,76cade21857ce475994d360c95d28bd3</data>
+    </edge>
+    <edge source="&quot;ALEXANDER DUB&#268;EK&quot;" target="&quot;TITO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tito offered help to Alexander Dub&#269;ek in facing down the Soviets."</data>
+      <data key="d5">44f10353865b50ef641249c3b2f702f7</data>
+    </edge>
+    <edge source="&quot;IVAN GO&#352;NJAK&quot;" target="&quot;TITO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tito removed Ivan Go&#353;njak due to the unpreparedness of the Yugoslav army."</data>
+      <data key="d5">44f10353865b50ef641249c3b2f702f7</data>
+    </edge>
+    <edge source="&quot;RADE HAMOVI&#262;&quot;" target="&quot;TITO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tito removed Rade Hamovi&#263; due to the unpreparedness of the Yugoslav army."</data>
+      <data key="d5">44f10353865b50ef641249c3b2f702f7</data>
+    </edge>
+    <edge source="&quot;IRVING BURGIE&quot;" target="&quot;BARBADOS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Irving Burgie wrote the national anthem of Barbados."</data>
+      <data key="d5">56a949289814e4352b371f259ce65cb3</data>
+    </edge>
+    <edge source="&quot;C. VAN ROLAND EDWARDS&quot;" target="&quot;BARBADOS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"C. Van Roland Edwards composed the national anthem of Barbados."</data>
+      <data key="d5">56a949289814e4352b371f259ce65cb3</data>
+    </edge>
+    <edge source="&quot;WEST INDIES FEDERATION&quot;" target="&quot;BARBADOS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Barbados was part of the West Indies Federation from 1958 to 1962."</data>
+      <data key="d5">56a949289814e4352b371f259ce65cb3</data>
+    </edge>
+    <edge source="&quot;WEST INDIES FEDERATION&quot;" target="&quot;PATRICK S. CASTAGNE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patrick S. Castagne submitted a composition to the West Indies Federation as a possible national anthem."</data>
+      <data key="d5">43de1aa0c63a23497363a69e6a8e361d</data>
+    </edge>
+    <edge source="&quot;TRINIDAD AND TOBAGO&quot;" target="&quot;PATRICK S. CASTAGNE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patrick S. Castagne composed the national anthem of Trinidad and Tobago."</data>
+      <data key="d5">43de1aa0c63a23497363a69e6a8e361d</data>
+    </edge>
+    <edge source="&quot;FEDERAL REPUBLIC OF YUGOSLAVIA&quot;" target="&quot;SLAVS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Federal Republic of Yugoslavia's national anthem mentions 'Slavs', indicating a connection to this geographic region or ethnic group."</data>
+      <data key="d5">c69ec3af459ee20c9817a7e9650e4381</data>
+    </edge>
+    <edge source="&quot;SERBIA AND MONTENEGRO&quot;" target="&quot;SLAVS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Serbia and Montenegro's national anthem mentions 'Slavs', indicating a connection to this geographic region or ethnic group."</data>
+      <data key="d5">c69ec3af459ee20c9817a7e9650e4381</data>
+    </edge>
+    <edge source="&quot;SLAVS&quot;" target="&quot;SLOVAK REPUBLIC&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Slovak Republic's national anthem mentions 'Slavs', indicating a connection to this geographic region or ethnic group."</data>
+      <data key="d5">c69ec3af459ee20c9817a7e9650e4381</data>
+    </edge>
+    <edge source="&quot;ARMY NATIONAL GUARD&quot;" target="&quot;GOVERNOR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The governor of a state or territory has authority over the Army National Guard in their jurisdiction."</data>
+      <data key="d5">b8afad18ed103f6cb42566bf217bf5bf</data>
+    </edge>
+    <edge source="&quot;RABINDRANATH TAGORE&quot;" target="&quot;JANA GANA MANA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Rabindranath Tagore composed Jana Gana Mana, the national anthem of India."</data>
+      <data key="d5">7fe97e208de4d616be9331af9be782f9</data>
+    </edge>
+    <edge source="&quot;JANA GANA MANA&quot;" target="&quot;INDIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jana Gana Mana is the national anthem of India."</data>
+      <data key="d5">7fe97e208de4d616be9331af9be782f9</data>
+    </edge>
+    <edge source="&quot;ISRAEL AEROSPACE INDUSTRIES&quot;" target="&quot;IRON DOME&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Iron Dome was developed by Israel Aerospace Industries."</data>
+      <data key="d5">3fb7c58492a4de7e81505da6bf2cd612</data>
+    </edge>
+    <edge source="&quot;TRINIDAD AND TOBAGO COMMISSION&quot;" target="&quot;PATRICK S. CASTAGNE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patrick S. Castagne was employed at the Trinidad and Tobago Commission."</data>
+      <data key="d5">43de1aa0c63a23497363a69e6a8e361d</data>
+    </edge>
+    <edge source="&quot;TRINIDAD AND TOBAGO COMMISSION&quot;" target="&quot;LONDON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Trinidad and Tobago Commission is located in London."</data>
+      <data key="d5">43de1aa0c63a23497363a69e6a8e361d</data>
+    </edge>
+    <edge source="&quot;PAKISTAN&quot;" target="&quot;TARANA - E-PAKISTAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tarana - e-Pakistan was played on Pakistan's national radio on 14 August 1947."</data>
+      <data key="d5">c4dd079d212ae2ea3d77ee361030612d</data>
+    </edge>
+    <edge source="&quot;PAKISTAN&quot;" target="&quot;QAUMI TARANA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Qaumi Tarana is the officially adopted national anthem of Pakistan."</data>
+      <data key="d5">c4dd079d212ae2ea3d77ee361030612d</data>
+    </edge>
+    <edge source="&quot;PAKISTAN&quot;" target="&quot;HAFEEZ JULLUNDHRI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hafeez Jullundhri is a Pakistani poet who contributed to the country's cultural heritage."</data>
+      <data key="d5">212075cfe540ecd930178202ce883b22</data>
+    </edge>
+    <edge source="&quot;JAGANNATH AZAD&quot;" target="&quot;MOHAMMAD ALI JINNAH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jagannath Azad composed Tarana - e-Pakistan at the request of Mohammad Ali Jinnah."</data>
+      <data key="d5">c4dd079d212ae2ea3d77ee361030612d</data>
+    </edge>
+    <edge source="&quot;NIKOLAOS MANTZAROS&quot;" target="&quot;HYMN TO LIBERTY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nikolaos Mantzaros set the music for the 'Hymn to Liberty', making it a complete national anthem."</data>
+      <data key="d5">be66b9e5618b682cd31d9586f5903059</data>
+    </edge>
+    <edge source="&quot;GREECE&quot;" target="&quot;HYMN TO LIBERTY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Greece adopted the 'Hymn to Liberty' as its national anthem in 1865, symbolizing national pride and identity."</data>
+      <data key="d5">be66b9e5618b682cd31d9586f5903059</data>
+    </edge>
+    <edge source="&quot;CYPRUS&quot;" target="&quot;HYMN TO LIBERTY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cyprus adopted the 'Hymn to Liberty' as its national anthem in 1966, sharing a cultural heritage with Greece."</data>
+      <data key="d5">be66b9e5618b682cd31d9586f5903059</data>
+    </edge>
+    <edge source="&quot;DIONYSIOS SOLOMOS&quot;" target="&quot;HYMN TO LIBERTY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dionysios Solomos wrote the poem 'Hymn to Liberty', which became the national anthem of Greece and Cyprus."</data>
+      <data key="d5">be66b9e5618b682cd31d9586f5903059</data>
+    </edge>
+    <edge source="&quot;THE ANTHEM&quot;" target="&quot;HAFEEZ JULLUNDHRI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hafeez Jullundhri wrote the Urdu lyrics of The Anthem in 1952."</data>
+      <data key="d5">212075cfe540ecd930178202ce883b22</data>
+    </edge>
+    <edge source="&quot;GEORGIA DEPARTMENT OF DEFENSE&quot;" target="&quot;GEORGIA STATE DEFENSE FORCE (GSDF, GASDF, OR SDF)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Georgia State Defense Force is a component of the Georgia Department of Defense."</data>
+      <data key="d5">16751d63bcb9e57ae6b0bf17c163e928</data>
+    </edge>
+    <edge source="&quot;GOVERNOR OF GEORGIA&quot;" target="&quot;GEORGIA STATE DEFENSE FORCE (GSDF, GASDF, OR SDF)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Governor of Georgia provides direction to the Georgia State Defense Force."</data>
+      <data key="d5">16751d63bcb9e57ae6b0bf17c163e928</data>
+    </edge>
+    <edge source="&quot;ADJUTANT GENERAL OF GEORGIA&quot;" target="&quot;GEORGIA STATE DEFENSE FORCE (GSDF, GASDF, OR SDF)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Adjutant General of Georgia provides direction to the Georgia State Defense Force."</data>
+      <data key="d5">16751d63bcb9e57ae6b0bf17c163e928</data>
+    </edge>
+    <edge source="&quot;GEORGIA ARMY NATIONAL GUARD&quot;" target="&quot;GEORGIA STATE DEFENSE FORCE (GSDF, GASDF, OR SDF)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Georgia State Defense Force serves alongside the Georgia Army National Guard."</data>
+      <data key="d5">16751d63bcb9e57ae6b0bf17c163e928</data>
+    </edge>
+    <edge source="&quot;GEORGIA AIR NATIONAL GUARD&quot;" target="&quot;GEORGIA STATE DEFENSE FORCE (GSDF, GASDF, OR SDF)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Georgia State Defense Force serves alongside the Georgia Air National Guard."</data>
+      <data key="d5">16751d63bcb9e57ae6b0bf17c163e928</data>
+    </edge>
+  </graph>
+</graphml>

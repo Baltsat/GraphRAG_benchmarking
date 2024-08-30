@@ -1,0 +1,990 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;NISSAN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Nissan, formerly known as Datsun, is a Japanese automaker that produces vehicles such as the Nissan Fuga, Infiniti M, Nissan Rogue, and Nissan X-Trail. The company also designed the Jonga vehicle. In addition to its own brand, Nissan owns the luxury division Infiniti and has a technical center in Atsugi, Japan. As an automobile manufacturer, Nissan will offer similar systems in its vehicles. Throughout its history, the company has introduced larger cars with added amenities, establishing itself as a prominent player in the automotive industry.</data>
+      <data key="d2">70e6da02a0535e2983fda3c6e05e9faf,85f7d670f95d4a03df9fcde0989d2f24,b208cc10a57278fd0083d4cd03e29869,b30ec37294faafc4e1be3eca2d32b5e3,b5324fe5c87c90dc3fa63e27cc140dfa,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;INDIAN ARMY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Indian Army uses the Jonga vehicle."</data>
+      <data key="d2">85f7d670f95d4a03df9fcde0989d2f24</data>
+    </node>
+    <node id="&quot;JABALPUR ORDNANCE AND GUNCARRIAGE ASSEMBLY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Jabalpur Ordnance aNd Guncarriage Assembly is an organization that assembled the Jonga vehicle."</data>
+      <data key="d2">85f7d670f95d4a03df9fcde0989d2f24</data>
+    </node>
+    <node id="&quot;JABALPUR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Jabalpur is a location where the Jonga vehicle was assembled."</data>
+      <data key="d2">85f7d670f95d4a03df9fcde0989d2f24</data>
+    </node>
+    <node id="&quot;THE JONGA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">85f7d670f95d4a03df9fcde0989d2f24</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">01ce4b65c435b78e09363afd018c2f6b,01f9eaeef6822bbd440643c5928d6080,04f737d9ba84a7cae2aa04bee5cf3e8e,05ef6e0c8b39beb4783792c1e554b4c2,0860656dac02df6e56c9f134e2001217,20d7994ac7f210c0c64199bc260aa9ad,21dbf2c81ed8e598513366790364feab,36a7dc8af762c4ce5c5ada60b5ee4dbf,4a880a684ecca3d304e4ac7de886b249,5e2eb65c2c1f3a804a42151a3c3c6479,630d4632ccbc9b8e9fdd6775f449ff63,70e6da02a0535e2983fda3c6e05e9faf,85f7d670f95d4a03df9fcde0989d2f24,87a3a759f7c7eecd9ddca44fb05ddc05,8ace6068f3631c630e9ba1c2f4486fc8,985a798f89f46aeda316a019efbbfc6d,b208cc10a57278fd0083d4cd03e29869,b30ec37294faafc4e1be3eca2d32b5e3,b5324fe5c87c90dc3fa63e27cc140dfa,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">01ce4b65c435b78e09363afd018c2f6b,01f9eaeef6822bbd440643c5928d6080,04f737d9ba84a7cae2aa04bee5cf3e8e,05ef6e0c8b39beb4783792c1e554b4c2,0860656dac02df6e56c9f134e2001217,20d7994ac7f210c0c64199bc260aa9ad,21dbf2c81ed8e598513366790364feab,36a7dc8af762c4ce5c5ada60b5ee4dbf,4a880a684ecca3d304e4ac7de886b249,5e2eb65c2c1f3a804a42151a3c3c6479,630d4632ccbc9b8e9fdd6775f449ff63,70e6da02a0535e2983fda3c6e05e9faf,85f7d670f95d4a03df9fcde0989d2f24,87a3a759f7c7eecd9ddca44fb05ddc05,8ace6068f3631c630e9ba1c2f4486fc8,985a798f89f46aeda316a019efbbfc6d,b208cc10a57278fd0083d4cd03e29869,b30ec37294faafc4e1be3eca2d32b5e3,b5324fe5c87c90dc3fa63e27cc140dfa,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">01ce4b65c435b78e09363afd018c2f6b,01f9eaeef6822bbd440643c5928d6080,04f737d9ba84a7cae2aa04bee5cf3e8e,05ef6e0c8b39beb4783792c1e554b4c2,0860656dac02df6e56c9f134e2001217,20d7994ac7f210c0c64199bc260aa9ad,21dbf2c81ed8e598513366790364feab,36a7dc8af762c4ce5c5ada60b5ee4dbf,4a880a684ecca3d304e4ac7de886b249,5e2eb65c2c1f3a804a42151a3c3c6479,630d4632ccbc9b8e9fdd6775f449ff63,70e6da02a0535e2983fda3c6e05e9faf,85f7d670f95d4a03df9fcde0989d2f24,87a3a759f7c7eecd9ddca44fb05ddc05,8ace6068f3631c630e9ba1c2f4486fc8,985a798f89f46aeda316a019efbbfc6d,b208cc10a57278fd0083d4cd03e29869,b30ec37294faafc4e1be3eca2d32b5e3,b5324fe5c87c90dc3fa63e27cc140dfa,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">01ce4b65c435b78e09363afd018c2f6b,01f9eaeef6822bbd440643c5928d6080,04f737d9ba84a7cae2aa04bee5cf3e8e,05ef6e0c8b39beb4783792c1e554b4c2,0860656dac02df6e56c9f134e2001217,20d7994ac7f210c0c64199bc260aa9ad,21dbf2c81ed8e598513366790364feab,36a7dc8af762c4ce5c5ada60b5ee4dbf,4a880a684ecca3d304e4ac7de886b249,5e2eb65c2c1f3a804a42151a3c3c6479,630d4632ccbc9b8e9fdd6775f449ff63,70e6da02a0535e2983fda3c6e05e9faf,85f7d670f95d4a03df9fcde0989d2f24,87a3a759f7c7eecd9ddca44fb05ddc05,8ace6068f3631c630e9ba1c2f4486fc8,985a798f89f46aeda316a019efbbfc6d,b208cc10a57278fd0083d4cd03e29869,b30ec37294faafc4e1be3eca2d32b5e3,b5324fe5c87c90dc3fa63e27cc140dfa,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country where Tucson, Pima County, and Arizona are located. Additionally, it is a market where the Nissan Rogue is sold and has been Nissan's best-selling vehicle. Furthermore, the United States is also home to the production and assembly of the Acura RDX.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">01ce4b65c435b78e09363afd018c2f6b,01f9eaeef6822bbd440643c5928d6080,04f737d9ba84a7cae2aa04bee5cf3e8e,05ef6e0c8b39beb4783792c1e554b4c2,0860656dac02df6e56c9f134e2001217,20d7994ac7f210c0c64199bc260aa9ad,21dbf2c81ed8e598513366790364feab,36a7dc8af762c4ce5c5ada60b5ee4dbf,4a880a684ecca3d304e4ac7de886b249,5e2eb65c2c1f3a804a42151a3c3c6479,630d4632ccbc9b8e9fdd6775f449ff63,70e6da02a0535e2983fda3c6e05e9faf,85f7d670f95d4a03df9fcde0989d2f24,87a3a759f7c7eecd9ddca44fb05ddc05,8ace6068f3631c630e9ba1c2f4486fc8,985a798f89f46aeda316a019efbbfc6d,b208cc10a57278fd0083d4cd03e29869,b30ec37294faafc4e1be3eca2d32b5e3,b5324fe5c87c90dc3fa63e27cc140dfa,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">01ce4b65c435b78e09363afd018c2f6b,01f9eaeef6822bbd440643c5928d6080,04f737d9ba84a7cae2aa04bee5cf3e8e,05ef6e0c8b39beb4783792c1e554b4c2,0860656dac02df6e56c9f134e2001217,20d7994ac7f210c0c64199bc260aa9ad,21dbf2c81ed8e598513366790364feab,36a7dc8af762c4ce5c5ada60b5ee4dbf,4a880a684ecca3d304e4ac7de886b249,5e2eb65c2c1f3a804a42151a3c3c6479,630d4632ccbc9b8e9fdd6775f449ff63,70e6da02a0535e2983fda3c6e05e9faf,85f7d670f95d4a03df9fcde0989d2f24,87a3a759f7c7eecd9ddca44fb05ddc05,8ace6068f3631c630e9ba1c2f4486fc8,985a798f89f46aeda316a019efbbfc6d,b208cc10a57278fd0083d4cd03e29869,b30ec37294faafc4e1be3eca2d32b5e3,b5324fe5c87c90dc3fa63e27cc140dfa,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">01ce4b65c435b78e09363afd018c2f6b,01f9eaeef6822bbd440643c5928d6080,04f737d9ba84a7cae2aa04bee5cf3e8e,05ef6e0c8b39beb4783792c1e554b4c2,0860656dac02df6e56c9f134e2001217,20d7994ac7f210c0c64199bc260aa9ad,21dbf2c81ed8e598513366790364feab,36a7dc8af762c4ce5c5ada60b5ee4dbf,4a880a684ecca3d304e4ac7de886b249,5e2eb65c2c1f3a804a42151a3c3c6479,630d4632ccbc9b8e9fdd6775f449ff63,70e6da02a0535e2983fda3c6e05e9faf,85f7d670f95d4a03df9fcde0989d2f24,87a3a759f7c7eecd9ddca44fb05ddc05,8ace6068f3631c630e9ba1c2f4486fc8,985a798f89f46aeda316a019efbbfc6d,b208cc10a57278fd0083d4cd03e29869,b30ec37294faafc4e1be3eca2d32b5e3,b5324fe5c87c90dc3fa63e27cc140dfa,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">01ce4b65c435b78e09363afd018c2f6b,01f9eaeef6822bbd440643c5928d6080,04f737d9ba84a7cae2aa04bee5cf3e8e,05ef6e0c8b39beb4783792c1e554b4c2,0860656dac02df6e56c9f134e2001217,20d7994ac7f210c0c64199bc260aa9ad,21dbf2c81ed8e598513366790364feab,36a7dc8af762c4ce5c5ada60b5ee4dbf,4a880a684ecca3d304e4ac7de886b249,5e2eb65c2c1f3a804a42151a3c3c6479,630d4632ccbc9b8e9fdd6775f449ff63,70e6da02a0535e2983fda3c6e05e9faf,85f7d670f95d4a03df9fcde0989d2f24,87a3a759f7c7eecd9ddca44fb05ddc05,8ace6068f3631c630e9ba1c2f4486fc8,985a798f89f46aeda316a019efbbfc6d,b208cc10a57278fd0083d4cd03e29869,b30ec37294faafc4e1be3eca2d32b5e3,b5324fe5c87c90dc3fa63e27cc140dfa,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">01ce4b65c435b78e09363afd018c2f6b,01f9eaeef6822bbd440643c5928d6080,04f737d9ba84a7cae2aa04bee5cf3e8e,05ef6e0c8b39beb4783792c1e554b4c2,0860656dac02df6e56c9f134e2001217,20d7994ac7f210c0c64199bc260aa9ad,21dbf2c81ed8e598513366790364feab,36a7dc8af762c4ce5c5ada60b5ee4dbf,4a880a684ecca3d304e4ac7de886b249,5e2eb65c2c1f3a804a42151a3c3c6479,630d4632ccbc9b8e9fdd6775f449ff63,70e6da02a0535e2983fda3c6e05e9faf,85f7d670f95d4a03df9fcde0989d2f24,87a3a759f7c7eecd9ddca44fb05ddc05,8ace6068f3631c630e9ba1c2f4486fc8,985a798f89f46aeda316a019efbbfc6d,b208cc10a57278fd0083d4cd03e29869,b30ec37294faafc4e1be3eca2d32b5e3,b5324fe5c87c90dc3fa63e27cc140dfa,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">01ce4b65c435b78e09363afd018c2f6b,01f9eaeef6822bbd440643c5928d6080,04f737d9ba84a7cae2aa04bee5cf3e8e,05ef6e0c8b39beb4783792c1e554b4c2,0860656dac02df6e56c9f134e2001217,20d7994ac7f210c0c64199bc260aa9ad,21dbf2c81ed8e598513366790364feab,36a7dc8af762c4ce5c5ada60b5ee4dbf,4a880a684ecca3d304e4ac7de886b249,5e2eb65c2c1f3a804a42151a3c3c6479,630d4632ccbc9b8e9fdd6775f449ff63,70e6da02a0535e2983fda3c6e05e9faf,85f7d670f95d4a03df9fcde0989d2f24,87a3a759f7c7eecd9ddca44fb05ddc05,8ace6068f3631c630e9ba1c2f4486fc8,985a798f89f46aeda316a019efbbfc6d,b208cc10a57278fd0083d4cd03e29869,b30ec37294faafc4e1be3eca2d32b5e3,b5324fe5c87c90dc3fa63e27cc140dfa,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;NISSAN TECHNICAL CENTER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Nissan Technical Center is a research and development facility located in Atsugi, Japan, where the Infiniti Kuraza was designed."</data>
+      <data key="d2">b5324fe5c87c90dc3fa63e27cc140dfa</data>
+    </node>
+    <node id="&quot;INFINITI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Infiniti is the luxury division of Nissan, established to distinguish itself from its mass-market brand. As a luxury automobile manufacturer, Infiniti offers high-end vehicles, including the Infiniti M. Additionally, the company has been involved in designing concept cars, such as the Kuraza, and plans to offer advanced systems similar to those found in other luxury vehicles.</data>
+      <data key="d2">b208cc10a57278fd0083d4cd03e29869,b30ec37294faafc4e1be3eca2d32b5e3,b5324fe5c87c90dc3fa63e27cc140dfa,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;KOJII NAGANO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kojii Nagano is the product design director who headed the design of the Infiniti Kuraza at the Nissan Technical Center."</data>
+      <data key="d2">b5324fe5c87c90dc3fa63e27cc140dfa</data>
+    </node>
+    <node id="&quot;ATSUGI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Atsugi is a location in Japan where the Nissan Technical Center is situated."</data>
+      <data key="d2">b5324fe5c87c90dc3fa63e27cc140dfa</data>
+    </node>
+    <node id="&quot;DETROIT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Detroit is a city in the United States where the Infiniti Kuraza made its world debut at the 2005 North American International Auto Show."</data>
+      <data key="d2">b5324fe5c87c90dc3fa63e27cc140dfa</data>
+    </node>
+    <node id="&quot;INFINITI KURAZA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b5324fe5c87c90dc3fa63e27cc140dfa</data>
+    </node>
+    <node id="&quot;NISSAN LEOPARD J FERIE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Nissan Leopard J Ferie is a luxury car model sold in Japan, equivalent to the Infiniti J30."</data>
+      <data key="d2">5e2eb65c2c1f3a804a42151a3c3c6479</data>
+    </node>
+    <node id="&quot;JERRY HIRSHBERG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jerry Hirshberg is the chief designer of the Infiniti J30 and president of Nissan Design International (NDI)."</data>
+      <data key="d2">5e2eb65c2c1f3a804a42151a3c3c6479</data>
+    </node>
+    <node id="&quot;DOUG WILSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Doug Wilson is the exterior designer of the Infiniti J30, responsible for its rounded styling."</data>
+      <data key="d2">5e2eb65c2c1f3a804a42151a3c3c6479</data>
+    </node>
+    <node id="&quot;NISSAN DESIGN INTERNATIONAL (NDI)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Nissan Design International (NDI) is a design company responsible for designing the Infiniti J30."</data>
+      <data key="d2">5e2eb65c2c1f3a804a42151a3c3c6479</data>
+    </node>
+    <node id="&quot;LEXUS GS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Lexus GS is a luxury car model that competes with the Infiniti J30 in the market."</data>
+      <data key="d2">5e2eb65c2c1f3a804a42151a3c3c6479</data>
+    </node>
+    <node id="&quot;ACURA LEGEND&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Acura Legend is a luxury car model that was produced until it was replaced by the first-generation Acura RL in 1996. It competes with the Infiniti J30 in the market, offering a high-end driving experience to its owners.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">21dbf2c81ed8e598513366790364feab,5e2eb65c2c1f3a804a42151a3c3c6479,630d4632ccbc9b8e9fdd6775f449ff63</data>
+    </node>
+    <node id="&quot;INFINITI G20&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Infiniti G20 is a smaller luxury car model produced by Infiniti, positioned below the J30."</data>
+      <data key="d2">5e2eb65c2c1f3a804a42151a3c3c6479</data>
+    </node>
+    <node id="&quot;INFINITI Q45&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Infiniti Q45 is a larger luxury car model produced by Infiniti, positioned above the J30."</data>
+      <data key="d2">5e2eb65c2c1f3a804a42151a3c3c6479</data>
+    </node>
+    <node id="&quot;INFINITI J30&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5e2eb65c2c1f3a804a42151a3c3c6479</data>
+    </node>
+    <node id="&quot;NISSAN CIMA&quot;">
+      <data key="d0">"VEHICLE"</data>
+      <data key="d1">"The Nissan Cima was a vehicle that was discontinued in August 2010."</data>
+      <data key="d2">b208cc10a57278fd0083d4cd03e29869</data>
+    </node>
+    <node id="&quot;NISSAN PRESIDENT&quot;">
+      <data key="d0">"VEHICLE"</data>
+      <data key="d1">"The Nissan President was a vehicle that was discontinued in August 2010."</data>
+      <data key="d2">b208cc10a57278fd0083d4cd03e29869</data>
+    </node>
+    <node id="&quot;INFINITI M&quot;">
+      <data key="d0">"VEHICLE"</data>
+      <data key="d1">"The Infiniti M is a luxury sedan sold in North America and Europe, also known as the Q70 from 2014."</data>
+      <data key="d2">b208cc10a57278fd0083d4cd03e29869</data>
+    </node>
+    <node id="&quot;NISSAN FUGA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b208cc10a57278fd0083d4cd03e29869</data>
+    </node>
+    <node id="&quot;HONDA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Honda is a Japanese automaker that was affected by the 1981 voluntary export restraints, which led to the establishment of its first US assembly plant. The company has a luxury division called Acura, for which it manufactures various vehicles such as the Acura RLX, Honda Legend, and Acura EL at its Alliston, Ontario plant. As an automobile manufacturer, Honda is responsible for developing models like the Acura ZDX and will offer similar systems in the future. Additionally, Honda serves as the parent company of Acura, overseeing the development and production of its luxury vehicles.</data>
+      <data key="d2">05ef6e0c8b39beb4783792c1e554b4c2,4a880a684ecca3d304e4ac7de886b249,630d4632ccbc9b8e9fdd6775f449ff63,87a3a759f7c7eecd9ddca44fb05ddc05,b30ec37294faafc4e1be3eca2d32b5e3,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;U.S.&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S. is one of the countries where the Acura Legend was sold."</data>
+      <data key="d2">630d4632ccbc9b8e9fdd6775f449ff63</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Canada is one of the countries where the Acura Legend was sold."</data>
+      <data key="d2">630d4632ccbc9b8e9fdd6775f449ff63</data>
+    </node>
+    <node id="&quot;CHINA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Parts of China were among the regions where the Acura Legend was sold."</data>
+      <data key="d2">630d4632ccbc9b8e9fdd6775f449ff63</data>
+    </node>
+    <node id="&quot;ACURA 3.5RL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Acura 3.5RL is a renamed version of the Acura Legend, introduced in 1996."</data>
+      <data key="d2">630d4632ccbc9b8e9fdd6775f449ff63</data>
+    </node>
+    <node id="&quot;ACURA&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Acura is a division of Honda that serves as the luxury division of the company, established to distinguish itself from its mass-market brand. As such, Acura sells luxury vehicles, including the Acura RLX, and is also an automobile manufacturer that offers similar systems.</data>
+      <data key="d2">630d4632ccbc9b8e9fdd6775f449ff63,87a3a759f7c7eecd9ddca44fb05ddc05,b30ec37294faafc4e1be3eca2d32b5e3,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;APPLE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Apple is a technology company that announced the availability of similar systems for other vehicle brands."</data>
+      <data key="d2">b30ec37294faafc4e1be3eca2d32b5e3</data>
+    </node>
+    <node id="&quot;MERCEDES-BENZ&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Mercedes-Benz is an automobile manufacturer that will offer similar systems."</data>
+      <data key="d2">b30ec37294faafc4e1be3eca2d32b5e3</data>
+    </node>
+    <node id="&quot;VOLVO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Volvo is an automobile manufacturer that will offer similar systems."</data>
+      <data key="d2">b30ec37294faafc4e1be3eca2d32b5e3</data>
+    </node>
+    <node id="&quot;TOYOTA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Toyota is an automobile manufacturer that has been involved in various collaborations and expansions. The company is related to Hino Motors, with whom they share a model, the Toyota Dyna. Additionally, Toyota offers similar systems as part of its manufacturing capabilities. In response to tariffs, Toyota began building plants in the US, further expanding its operations.
+
+Let me know if you need any adjustments!</data>
+      <data key="d2">01ce4b65c435b78e09363afd018c2f6b,04f737d9ba84a7cae2aa04bee5cf3e8e,b30ec37294faafc4e1be3eca2d32b5e3,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;ALFA ROMEO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Alfa Romeo is an automobile manufacturer that will offer similar systems."</data>
+      <data key="d2">b30ec37294faafc4e1be3eca2d32b5e3</data>
+    </node>
+    <node id="&quot;FERRARI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ferrari is an automobile manufacturer that will offer similar systems."</data>
+      <data key="d2">b30ec37294faafc4e1be3eca2d32b5e3</data>
+    </node>
+    <node id="&quot;AUDI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Audi is an automobile manufacturer that will offer similar systems."</data>
+      <data key="d2">b30ec37294faafc4e1be3eca2d32b5e3</data>
+    </node>
+    <node id="&quot;RENAULT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Renault is an automobile manufacturer that will offer similar systems."</data>
+      <data key="d2">b30ec37294faafc4e1be3eca2d32b5e3</data>
+    </node>
+    <node id="&quot;VOLKSWAGEN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Volkswagen is an automobile manufacturer that will offer similar systems."</data>
+      <data key="d2">b30ec37294faafc4e1be3eca2d32b5e3</data>
+    </node>
+    <node id="&quot;SCION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Scion offers standard iPod connectivity on all their cars."</data>
+      <data key="d2">b30ec37294faafc4e1be3eca2d32b5e3</data>
+    </node>
+    <node id="&quot;BMW&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b30ec37294faafc4e1be3eca2d32b5e3</data>
+    </node>
+    <node id="&quot;HONDA LEGEND&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Honda Legend is a car model that has been rebadged as Acura RL for the North American market. In its Japanese domestic market (JDM) version, it is equivalent to the Acura RLX, but only offered with the SH-AWD powertrain.</data>
+      <data key="d2">21dbf2c81ed8e598513366790364feab,87a3a759f7c7eecd9ddca44fb05ddc05</data>
+    </node>
+    <node id="&quot;NORTH AMERICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"North America is a geographic region where the Acura RL and Honda Legend car models have been introduced and sold."</data>
+      <data key="d2">21dbf2c81ed8e598513366790364feab</data>
+    </node>
+    <node id="&quot;ACURA RL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">21dbf2c81ed8e598513366790364feab</data>
+    </node>
+    <node id="&quot;EAST LIBERTY AUTO PLANT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"East Liberty Auto Plant is a location in Ohio, United States where the Acura RDX is assembled."</data>
+      <data key="d2">01f9eaeef6822bbd440643c5928d6080</data>
+    </node>
+    <node id="&quot;OHIO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ohio is a state in the United States where the East Liberty Auto Plant is located."</data>
+      <data key="d2">01f9eaeef6822bbd440643c5928d6080</data>
+    </node>
+    <node id="&quot;ACURA RDX&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">01f9eaeef6822bbd440643c5928d6080</data>
+    </node>
+    <node id="&quot;KEISUKE OTSUKI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Keisuke Otsuki is the designer of the Nissan Rogue."</data>
+      <data key="d2">8ace6068f3631c630e9ba1c2f4486fc8</data>
+    </node>
+    <node id="&quot;SMYRNA, TENNESSEE, UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Smyrna, Tennessee, United States is the location where the Nissan Rogue is assembled."</data>
+      <data key="d2">8ace6068f3631c630e9ba1c2f4486fc8</data>
+    </node>
+    <node id="&quot;NISSAN USA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Nissan USA is the organization responsible for assembling the Nissan Rogue in Smyrna, Tennessee, United States."</data>
+      <data key="d2">8ace6068f3631c630e9ba1c2f4486fc8</data>
+    </node>
+    <node id="&quot;NISSAN CMF PLATFORM&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Nissan CMF platform is the platform used by the Nissan Rogue."</data>
+      <data key="d2">8ace6068f3631c630e9ba1c2f4486fc8</data>
+    </node>
+    <node id="&quot;NISSAN ROGUE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">70e6da02a0535e2983fda3c6e05e9faf,8ace6068f3631c630e9ba1c2f4486fc8</data>
+    </node>
+    <node id="&quot;GENERAL MOTORS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"General Motors is an automobile company that owns the Janesville Assembly Plant."</data>
+      <data key="d2">36a7dc8af762c4ce5c5ada60b5ee4dbf</data>
+    </node>
+    <node id="&quot;JANESVILLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Janesville is a city in Wisconsin where the Janesville Assembly Plant is located."</data>
+      <data key="d2">36a7dc8af762c4ce5c5ada60b5ee4dbf</data>
+    </node>
+    <node id="&quot;WISCONSIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Wisconsin is a state in the United States where Janesville is located."</data>
+      <data key="d2">36a7dc8af762c4ce5c5ada60b5ee4dbf</data>
+    </node>
+    <node id="&quot;2008&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"2008 is the year when the Janesville Assembly Plant was largely idled."</data>
+      <data key="d2">36a7dc8af762c4ce5c5ada60b5ee4dbf</data>
+    </node>
+    <node id="&quot;2009&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"2009 is the year when the Janesville Assembly Plant ceased all remaining production."</data>
+      <data key="d2">36a7dc8af762c4ce5c5ada60b5ee4dbf</data>
+    </node>
+    <node id="&quot;2018&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"2018 is the year when the demolition of the plant began."</data>
+      <data key="d2">36a7dc8af762c4ce5c5ada60b5ee4dbf</data>
+    </node>
+    <node id="&quot;JANESVILLE ASSEMBLY PLANT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">36a7dc8af762c4ce5c5ada60b5ee4dbf</data>
+    </node>
+    <node id="&quot;FORD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ford is a company that owned the Norfolk Assembly manufacturing plant."</data>
+      <data key="d2">0860656dac02df6e56c9f134e2001217</data>
+    </node>
+    <node id="&quot;ELIZABETH RIVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Elizabeth River is a location near downtown Norfolk, Virginia where the Norfolk Assembly plant was situated."</data>
+      <data key="d2">0860656dac02df6e56c9f134e2001217</data>
+    </node>
+    <node id="&quot;NORFOLK, VIRGINIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Norfolk, Virginia is a city where the Norfolk Assembly plant was located."</data>
+      <data key="d2">0860656dac02df6e56c9f134e2001217</data>
+    </node>
+    <node id="&quot;2007&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"2007 is the year when the Norfolk Assembly plant closed."</data>
+      <data key="d2">0860656dac02df6e56c9f134e2001217</data>
+    </node>
+    <node id="&quot;NORFOLK ASSEMBLY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0860656dac02df6e56c9f134e2001217</data>
+    </node>
+    <node id="&quot;BECU&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"BECU is Boeing's credit union for employees, based in the Seattle area and open to all Washington residents."</data>
+      <data key="d2">20d7994ac7f210c0c64199bc260aa9ad</data>
+    </node>
+    <node id="&quot;SEATTLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Seattle is a location that was previously the corporate headquarters of Boeing and still hosts its production facilities."</data>
+      <data key="d2">20d7994ac7f210c0c64199bc260aa9ad</data>
+    </node>
+    <node id="&quot;CHICAGO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Chicago is the current location of Boeing's corporate headquarters, moved from Seattle in 2001."</data>
+      <data key="d2">20d7994ac7f210c0c64199bc260aa9ad</data>
+    </node>
+    <node id="&quot;WASHINGTON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Washington is a state where BECU is open to all residents."</data>
+      <data key="d2">20d7994ac7f210c0c64199bc260aa9ad</data>
+    </node>
+    <node id="&quot;BOEING&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">20d7994ac7f210c0c64199bc260aa9ad</data>
+    </node>
+    <node id="&quot;LEXUS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Lexus is the luxury division of Toyota, established to distinguish itself from its mass-market brand."</data>
+      <data key="d2">e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;NISSAN MOTOR CO.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Nissan Motor Co. is an organization that began building plants in the US in response to the tariff."</data>
+      <data key="d2">04f737d9ba84a7cae2aa04bee5cf3e8e</data>
+    </node>
+    <node id="&quot;HONDA MOTOR CO.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Honda Motor Co. is an organization that began building plants in the US in response to the tariff."</data>
+      <data key="d2">04f737d9ba84a7cae2aa04bee5cf3e8e</data>
+    </node>
+    <node id="&quot;US&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">04f737d9ba84a7cae2aa04bee5cf3e8e</data>
+    </node>
+    <node id="&quot;CHICKEN TAX OF 1964&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">04f737d9ba84a7cae2aa04bee5cf3e8e</data>
+    </node>
+    <node id="&quot;NISSAN X-TRAIL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Nissan X-Trail is a vehicle model, which is the international version of the Nissan Rogue."</data>
+      <data key="d2">70e6da02a0535e2983fda3c6e05e9faf</data>
+    </node>
+    <node id="&quot;OCTOBER 2007&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"October 2007 is the month when the Nissan Rogue made its debut for the 2008 model year."</data>
+      <data key="d2">70e6da02a0535e2983fda3c6e05e9faf</data>
+    </node>
+    <node id="&quot;ACURA RLX&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">87a3a759f7c7eecd9ddca44fb05ddc05</data>
+    </node>
+    <node id="&quot;ACURA MSX&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Acura MSX was the original name scheduled for the vehicle that became the Acura ZDX."</data>
+      <data key="d2">4a880a684ecca3d304e4ac7de886b249</data>
+    </node>
+    <node id="&quot;NEW YORK INTERNATIONAL AUTO SHOW&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The New York International Auto Show is an event where the Acura ZDX debuted on April 8, 2009."</data>
+      <data key="d2">4a880a684ecca3d304e4ac7de886b249</data>
+    </node>
+    <node id="&quot;ACURA'S SOUTHERN CALIFORNIA DESIGN STUDIO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Acura's southern California design studio in Torrance is a location where the Acura ZDX was completely designed."</data>
+      <data key="d2">4a880a684ecca3d304e4ac7de886b249</data>
+    </node>
+    <node id="&quot;ACURA ZDX&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4a880a684ecca3d304e4ac7de886b249</data>
+    </node>
+    <node id="&quot;DAIHATSU&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Daihatsu is a company that had its Delta series badge-engineered as the Ranger 2 and Ranger 3 by Hino Motors."</data>
+      <data key="d2">01ce4b65c435b78e09363afd018c2f6b</data>
+    </node>
+    <node id="&quot;HINO DUTRO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Hino Dutro is a light commercial truck model manufactured by Hino Motors, available in different chassis types for various purposes."</data>
+      <data key="d2">01ce4b65c435b78e09363afd018c2f6b</data>
+    </node>
+    <node id="&quot;HINO MOTORS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">01ce4b65c435b78e09363afd018c2f6b</data>
+    </node>
+    <node id="&quot;PORT ELIZABETH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Port Elizabeth is a location where Ford South Africa was based, now part of the Eastern Cape province."</data>
+      <data key="d2">985a798f89f46aeda316a019efbbfc6d</data>
+    </node>
+    <node id="&quot;EASTERN CAPE PROVINCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Eastern Cape province is a region where Port Elizabeth is located."</data>
+      <data key="d2">985a798f89f46aeda316a019efbbfc6d</data>
+    </node>
+    <node id="&quot;STRUANDALE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Struandale is a location where Ford South Africa had an engine plant and an assembly plant."</data>
+      <data key="d2">985a798f89f46aeda316a019efbbfc6d</data>
+    </node>
+    <node id="&quot;NEAVE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Neave is a location where Ford South Africa had an older assembly plant."</data>
+      <data key="d2">985a798f89f46aeda316a019efbbfc6d</data>
+    </node>
+    <node id="&quot;SAMCOR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Samcor is a company formed after the merger with Sigma, operating the engine plant and Silverton Assembly Plant in Pretoria."</data>
+      <data key="d2">985a798f89f46aeda316a019efbbfc6d</data>
+    </node>
+    <node id="&quot;SIGMA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Sigma is a company that merged with Ford South Africa to form Samcor."</data>
+      <data key="d2">985a798f89f46aeda316a019efbbfc6d</data>
+    </node>
+    <node id="&quot;DELTA MOTOR CORPORATION (GENERAL MOTORS)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Delta Motor Corporation (General Motors) is a company that acquired the Struandale assembly plant from Ford South Africa."</data>
+      <data key="d2">985a798f89f46aeda316a019efbbfc6d</data>
+    </node>
+    <node id="&quot;FORD SOUTH AFRICA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">985a798f89f46aeda316a019efbbfc6d</data>
+    </node>
+    <node id="&quot;ALLISTON, ONTARIO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Alliston, Ontario is a location where Honda's plant is situated and the Acura EL was built."</data>
+      <data key="d2">05ef6e0c8b39beb4783792c1e554b4c2</data>
+    </node>
+    <node id="&quot;HONDA CIVIC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Honda Civic is a car model that the Acura EL is badge-engineered from."</data>
+      <data key="d2">05ef6e0c8b39beb4783792c1e554b4c2</data>
+    </node>
+    <node id="&quot;ACURA EL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">05ef6e0c8b39beb4783792c1e554b4c2</data>
+    </node>
+    <edge source="&quot;NISSAN&quot;" target="&quot;THE JONGA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Jonga was designed by Nissan."</data>
+      <data key="d5">85f7d670f95d4a03df9fcde0989d2f24</data>
+    </edge>
+    <edge source="&quot;NISSAN&quot;" target="&quot;INFINITI&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Here is a comprehensive summary of the data:
+
+Nissan, a prominent automaker, established Infiniti as its luxury division, and subsequently owns the Infiniti brand.
+
+Let me know if you need any further assistance!</data>
+      <data key="d5">b5324fe5c87c90dc3fa63e27cc140dfa,e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;NISSAN&quot;" target="&quot;NISSAN CIMA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Nissan Cima was a vehicle produced by Nissan that was discontinued in August 2010."</data>
+      <data key="d5">b208cc10a57278fd0083d4cd03e29869</data>
+    </edge>
+    <edge source="&quot;NISSAN&quot;" target="&quot;NISSAN FUGA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Nissan Fuga is a vehicle produced by Nissan."</data>
+      <data key="d5">b208cc10a57278fd0083d4cd03e29869</data>
+    </edge>
+    <edge source="&quot;NISSAN&quot;" target="&quot;APPLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Apple announced that similar systems would be available for Nissan and other vehicle brands."</data>
+      <data key="d5">b30ec37294faafc4e1be3eca2d32b5e3</data>
+    </edge>
+    <edge source="&quot;NISSAN&quot;" target="&quot;NISSAN X-TRAIL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Nissan X-Trail is also produced by Nissan."</data>
+      <data key="d5">70e6da02a0535e2983fda3c6e05e9faf</data>
+    </edge>
+    <edge source="&quot;NISSAN&quot;" target="&quot;NISSAN ROGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Nissan Rogue is produced by Nissan."</data>
+      <data key="d5">70e6da02a0535e2983fda3c6e05e9faf</data>
+    </edge>
+    <edge source="&quot;INDIAN ARMY&quot;" target="&quot;THE JONGA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Indian Army uses the Jonga vehicle."</data>
+      <data key="d5">85f7d670f95d4a03df9fcde0989d2f24</data>
+    </edge>
+    <edge source="&quot;JABALPUR ORDNANCE AND GUNCARRIAGE ASSEMBLY&quot;" target="&quot;JABALPUR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jabalpur Ordnance aNd Guncarriage Assembly is located in Jabalpur."</data>
+      <data key="d5">85f7d670f95d4a03df9fcde0989d2f24</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">01ce4b65c435b78e09363afd018c2f6b,01f9eaeef6822bbd440643c5928d6080,04f737d9ba84a7cae2aa04bee5cf3e8e,05ef6e0c8b39beb4783792c1e554b4c2,0860656dac02df6e56c9f134e2001217,20d7994ac7f210c0c64199bc260aa9ad,21dbf2c81ed8e598513366790364feab,36a7dc8af762c4ce5c5ada60b5ee4dbf,4a880a684ecca3d304e4ac7de886b249,5e2eb65c2c1f3a804a42151a3c3c6479,630d4632ccbc9b8e9fdd6775f449ff63,70e6da02a0535e2983fda3c6e05e9faf,85f7d670f95d4a03df9fcde0989d2f24,87a3a759f7c7eecd9ddca44fb05ddc05,8ace6068f3631c630e9ba1c2f4486fc8,985a798f89f46aeda316a019efbbfc6d,b208cc10a57278fd0083d4cd03e29869,b30ec37294faafc4e1be3eca2d32b5e3,b5324fe5c87c90dc3fa63e27cc140dfa,e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">01ce4b65c435b78e09363afd018c2f6b,01f9eaeef6822bbd440643c5928d6080,04f737d9ba84a7cae2aa04bee5cf3e8e,05ef6e0c8b39beb4783792c1e554b4c2,0860656dac02df6e56c9f134e2001217,20d7994ac7f210c0c64199bc260aa9ad,21dbf2c81ed8e598513366790364feab,36a7dc8af762c4ce5c5ada60b5ee4dbf,4a880a684ecca3d304e4ac7de886b249,5e2eb65c2c1f3a804a42151a3c3c6479,630d4632ccbc9b8e9fdd6775f449ff63,70e6da02a0535e2983fda3c6e05e9faf,85f7d670f95d4a03df9fcde0989d2f24,87a3a759f7c7eecd9ddca44fb05ddc05,8ace6068f3631c630e9ba1c2f4486fc8,985a798f89f46aeda316a019efbbfc6d,b208cc10a57278fd0083d4cd03e29869,b30ec37294faafc4e1be3eca2d32b5e3,b5324fe5c87c90dc3fa63e27cc140dfa,e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">01ce4b65c435b78e09363afd018c2f6b,01f9eaeef6822bbd440643c5928d6080,04f737d9ba84a7cae2aa04bee5cf3e8e,05ef6e0c8b39beb4783792c1e554b4c2,0860656dac02df6e56c9f134e2001217,20d7994ac7f210c0c64199bc260aa9ad,21dbf2c81ed8e598513366790364feab,36a7dc8af762c4ce5c5ada60b5ee4dbf,4a880a684ecca3d304e4ac7de886b249,5e2eb65c2c1f3a804a42151a3c3c6479,630d4632ccbc9b8e9fdd6775f449ff63,70e6da02a0535e2983fda3c6e05e9faf,85f7d670f95d4a03df9fcde0989d2f24,87a3a759f7c7eecd9ddca44fb05ddc05,8ace6068f3631c630e9ba1c2f4486fc8,985a798f89f46aeda316a019efbbfc6d,b208cc10a57278fd0083d4cd03e29869,b30ec37294faafc4e1be3eca2d32b5e3,b5324fe5c87c90dc3fa63e27cc140dfa,e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">01ce4b65c435b78e09363afd018c2f6b,01f9eaeef6822bbd440643c5928d6080,04f737d9ba84a7cae2aa04bee5cf3e8e,05ef6e0c8b39beb4783792c1e554b4c2,0860656dac02df6e56c9f134e2001217,20d7994ac7f210c0c64199bc260aa9ad,21dbf2c81ed8e598513366790364feab,36a7dc8af762c4ce5c5ada60b5ee4dbf,4a880a684ecca3d304e4ac7de886b249,5e2eb65c2c1f3a804a42151a3c3c6479,630d4632ccbc9b8e9fdd6775f449ff63,70e6da02a0535e2983fda3c6e05e9faf,85f7d670f95d4a03df9fcde0989d2f24,87a3a759f7c7eecd9ddca44fb05ddc05,8ace6068f3631c630e9ba1c2f4486fc8,985a798f89f46aeda316a019efbbfc6d,b208cc10a57278fd0083d4cd03e29869,b30ec37294faafc4e1be3eca2d32b5e3,b5324fe5c87c90dc3fa63e27cc140dfa,e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">01ce4b65c435b78e09363afd018c2f6b,01f9eaeef6822bbd440643c5928d6080,04f737d9ba84a7cae2aa04bee5cf3e8e,05ef6e0c8b39beb4783792c1e554b4c2,0860656dac02df6e56c9f134e2001217,20d7994ac7f210c0c64199bc260aa9ad,21dbf2c81ed8e598513366790364feab,36a7dc8af762c4ce5c5ada60b5ee4dbf,4a880a684ecca3d304e4ac7de886b249,5e2eb65c2c1f3a804a42151a3c3c6479,630d4632ccbc9b8e9fdd6775f449ff63,70e6da02a0535e2983fda3c6e05e9faf,85f7d670f95d4a03df9fcde0989d2f24,87a3a759f7c7eecd9ddca44fb05ddc05,8ace6068f3631c630e9ba1c2f4486fc8,985a798f89f46aeda316a019efbbfc6d,b208cc10a57278fd0083d4cd03e29869,b30ec37294faafc4e1be3eca2d32b5e3,b5324fe5c87c90dc3fa63e27cc140dfa,e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">01ce4b65c435b78e09363afd018c2f6b,01f9eaeef6822bbd440643c5928d6080,04f737d9ba84a7cae2aa04bee5cf3e8e,05ef6e0c8b39beb4783792c1e554b4c2,0860656dac02df6e56c9f134e2001217,20d7994ac7f210c0c64199bc260aa9ad,21dbf2c81ed8e598513366790364feab,36a7dc8af762c4ce5c5ada60b5ee4dbf,4a880a684ecca3d304e4ac7de886b249,5e2eb65c2c1f3a804a42151a3c3c6479,630d4632ccbc9b8e9fdd6775f449ff63,70e6da02a0535e2983fda3c6e05e9faf,85f7d670f95d4a03df9fcde0989d2f24,87a3a759f7c7eecd9ddca44fb05ddc05,8ace6068f3631c630e9ba1c2f4486fc8,985a798f89f46aeda316a019efbbfc6d,b208cc10a57278fd0083d4cd03e29869,b30ec37294faafc4e1be3eca2d32b5e3,b5324fe5c87c90dc3fa63e27cc140dfa,e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;ACURA RDX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura RDX is produced and assembled in the United States."</data>
+      <data key="d5">01f9eaeef6822bbd440643c5928d6080</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;NISSAN ROGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Nissan Rogue is sold in the United States and is currently Nissan's best-selling vehicle there."</data>
+      <data key="d5">70e6da02a0535e2983fda3c6e05e9faf</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">01ce4b65c435b78e09363afd018c2f6b,01f9eaeef6822bbd440643c5928d6080,04f737d9ba84a7cae2aa04bee5cf3e8e,05ef6e0c8b39beb4783792c1e554b4c2,0860656dac02df6e56c9f134e2001217,20d7994ac7f210c0c64199bc260aa9ad,21dbf2c81ed8e598513366790364feab,36a7dc8af762c4ce5c5ada60b5ee4dbf,4a880a684ecca3d304e4ac7de886b249,5e2eb65c2c1f3a804a42151a3c3c6479,630d4632ccbc9b8e9fdd6775f449ff63,70e6da02a0535e2983fda3c6e05e9faf,85f7d670f95d4a03df9fcde0989d2f24,87a3a759f7c7eecd9ddca44fb05ddc05,8ace6068f3631c630e9ba1c2f4486fc8,985a798f89f46aeda316a019efbbfc6d,b208cc10a57278fd0083d4cd03e29869,b30ec37294faafc4e1be3eca2d32b5e3,b5324fe5c87c90dc3fa63e27cc140dfa,e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">01ce4b65c435b78e09363afd018c2f6b,01f9eaeef6822bbd440643c5928d6080,04f737d9ba84a7cae2aa04bee5cf3e8e,05ef6e0c8b39beb4783792c1e554b4c2,0860656dac02df6e56c9f134e2001217,20d7994ac7f210c0c64199bc260aa9ad,21dbf2c81ed8e598513366790364feab,36a7dc8af762c4ce5c5ada60b5ee4dbf,4a880a684ecca3d304e4ac7de886b249,5e2eb65c2c1f3a804a42151a3c3c6479,630d4632ccbc9b8e9fdd6775f449ff63,70e6da02a0535e2983fda3c6e05e9faf,85f7d670f95d4a03df9fcde0989d2f24,87a3a759f7c7eecd9ddca44fb05ddc05,8ace6068f3631c630e9ba1c2f4486fc8,985a798f89f46aeda316a019efbbfc6d,b208cc10a57278fd0083d4cd03e29869,b30ec37294faafc4e1be3eca2d32b5e3,b5324fe5c87c90dc3fa63e27cc140dfa,e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">01ce4b65c435b78e09363afd018c2f6b,01f9eaeef6822bbd440643c5928d6080,04f737d9ba84a7cae2aa04bee5cf3e8e,05ef6e0c8b39beb4783792c1e554b4c2,0860656dac02df6e56c9f134e2001217,20d7994ac7f210c0c64199bc260aa9ad,21dbf2c81ed8e598513366790364feab,36a7dc8af762c4ce5c5ada60b5ee4dbf,4a880a684ecca3d304e4ac7de886b249,5e2eb65c2c1f3a804a42151a3c3c6479,630d4632ccbc9b8e9fdd6775f449ff63,70e6da02a0535e2983fda3c6e05e9faf,85f7d670f95d4a03df9fcde0989d2f24,87a3a759f7c7eecd9ddca44fb05ddc05,8ace6068f3631c630e9ba1c2f4486fc8,985a798f89f46aeda316a019efbbfc6d,b208cc10a57278fd0083d4cd03e29869,b30ec37294faafc4e1be3eca2d32b5e3,b5324fe5c87c90dc3fa63e27cc140dfa,e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;NISSAN TECHNICAL CENTER&quot;" target="&quot;INFINITI KURAZA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Infiniti Kuraza was designed at the Nissan Technical Center."</data>
+      <data key="d5">b5324fe5c87c90dc3fa63e27cc140dfa</data>
+    </edge>
+    <edge source="&quot;NISSAN TECHNICAL CENTER&quot;" target="&quot;ATSUGI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Nissan Technical Center is located in Atsugi, Japan."</data>
+      <data key="d5">b5324fe5c87c90dc3fa63e27cc140dfa</data>
+    </edge>
+    <edge source="&quot;INFINITI&quot;" target="&quot;INFINITI M&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Infiniti M is a luxury sedan sold by Infiniti, the luxury division of Nissan."</data>
+      <data key="d5">b208cc10a57278fd0083d4cd03e29869</data>
+    </edge>
+    <edge source="&quot;INFINITI&quot;" target="&quot;APPLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Apple announced that similar systems would be available for Infiniti and other vehicle brands."</data>
+      <data key="d5">b30ec37294faafc4e1be3eca2d32b5e3</data>
+    </edge>
+    <edge source="&quot;KOJII NAGANO&quot;" target="&quot;INFINITI KURAZA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Kojii Nagano headed the design of the Infiniti Kuraza."</data>
+      <data key="d5">b5324fe5c87c90dc3fa63e27cc140dfa</data>
+    </edge>
+    <edge source="&quot;DETROIT&quot;" target="&quot;INFINITI KURAZA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Infiniti Kuraza made its world debut in Detroit at the 2005 North American International Auto Show."</data>
+      <data key="d5">b5324fe5c87c90dc3fa63e27cc140dfa</data>
+    </edge>
+    <edge source="&quot;JERRY HIRSHBERG&quot;" target="&quot;NISSAN DESIGN INTERNATIONAL (NDI)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jerry Hirshberg is the president of Nissan Design International (NDI)."</data>
+      <data key="d5">5e2eb65c2c1f3a804a42151a3c3c6479</data>
+    </edge>
+    <edge source="&quot;DOUG WILSON&quot;" target="&quot;INFINITI J30&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Doug Wilson is the exterior designer of the Infiniti J30."</data>
+      <data key="d5">5e2eb65c2c1f3a804a42151a3c3c6479</data>
+    </edge>
+    <edge source="&quot;LEXUS GS&quot;" target="&quot;INFINITI J30&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Infiniti J30 competes with the Lexus GS in the luxury car market."</data>
+      <data key="d5">5e2eb65c2c1f3a804a42151a3c3c6479</data>
+    </edge>
+    <edge source="&quot;ACURA LEGEND&quot;" target="&quot;U.S.&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura Legend was sold in the U.S. market."</data>
+      <data key="d5">630d4632ccbc9b8e9fdd6775f449ff63</data>
+    </edge>
+    <edge source="&quot;ACURA LEGEND&quot;" target="&quot;CANADA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura Legend was sold in Canada."</data>
+      <data key="d5">630d4632ccbc9b8e9fdd6775f449ff63</data>
+    </edge>
+    <edge source="&quot;ACURA LEGEND&quot;" target="&quot;CHINA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura Legend was sold in parts of China."</data>
+      <data key="d5">630d4632ccbc9b8e9fdd6775f449ff63</data>
+    </edge>
+    <edge source="&quot;ACURA LEGEND&quot;" target="&quot;ACURA RL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura Legend was replaced by the first-generation Acura RL in 1996, marking a transition in car models."</data>
+      <data key="d5">21dbf2c81ed8e598513366790364feab</data>
+    </edge>
+    <edge source="&quot;HONDA&quot;" target="&quot;ACURA&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Here is the comprehensive summary:
+
+Honda and Acura are two entities that are closely related. Acura is a luxury brand under Honda, with Honda establishing Acura as its luxury division. Additionally, Honda manufactures vehicles for Acura, including the Acura Legend.
+
+Let me know if you need any further assistance!</data>
+      <data key="d5">630d4632ccbc9b8e9fdd6775f449ff63,e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;HONDA&quot;" target="&quot;APPLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Apple announced that similar systems would be available for Honda and other vehicle brands."</data>
+      <data key="d5">b30ec37294faafc4e1be3eca2d32b5e3</data>
+    </edge>
+    <edge source="&quot;HONDA&quot;" target="&quot;ACURA RLX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura RLX is manufactured by Honda."</data>
+      <data key="d5">87a3a759f7c7eecd9ddca44fb05ddc05</data>
+    </edge>
+    <edge source="&quot;HONDA&quot;" target="&quot;ACURA ZDX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura ZDX is developed by Honda for its upmarket brand Acura."</data>
+      <data key="d5">4a880a684ecca3d304e4ac7de886b249</data>
+    </edge>
+    <edge source="&quot;HONDA&quot;" target="&quot;ACURA EL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura EL is built by Honda at its Alliston, Ontario plant."</data>
+      <data key="d5">05ef6e0c8b39beb4783792c1e554b4c2</data>
+    </edge>
+    <edge source="&quot;ACURA&quot;" target="&quot;APPLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Apple announced that similar systems would be available for Acura and other vehicle brands."</data>
+      <data key="d5">b30ec37294faafc4e1be3eca2d32b5e3</data>
+    </edge>
+    <edge source="&quot;ACURA&quot;" target="&quot;ACURA RLX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura RLX is sold under the Acura division of Honda."</data>
+      <data key="d5">87a3a759f7c7eecd9ddca44fb05ddc05</data>
+    </edge>
+    <edge source="&quot;APPLE&quot;" target="&quot;BMW&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"BMW released the first iPod automobile interface, which was announced by Apple to be available for other vehicle brands."</data>
+      <data key="d5">b30ec37294faafc4e1be3eca2d32b5e3</data>
+    </edge>
+    <edge source="&quot;APPLE&quot;" target="&quot;MERCEDES-BENZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Apple announced that similar systems would be available for Mercedes-Benz and other vehicle brands."</data>
+      <data key="d5">b30ec37294faafc4e1be3eca2d32b5e3</data>
+    </edge>
+    <edge source="&quot;APPLE&quot;" target="&quot;VOLVO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Apple announced that similar systems would be available for Volvo and other vehicle brands."</data>
+      <data key="d5">b30ec37294faafc4e1be3eca2d32b5e3</data>
+    </edge>
+    <edge source="&quot;APPLE&quot;" target="&quot;TOYOTA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Apple announced that similar systems would be available for Toyota and other vehicle brands."</data>
+      <data key="d5">b30ec37294faafc4e1be3eca2d32b5e3</data>
+    </edge>
+    <edge source="&quot;APPLE&quot;" target="&quot;ALFA ROMEO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Apple announced that similar systems would be available for Alfa Romeo and other vehicle brands."</data>
+      <data key="d5">b30ec37294faafc4e1be3eca2d32b5e3</data>
+    </edge>
+    <edge source="&quot;APPLE&quot;" target="&quot;FERRARI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Apple announced that similar systems would be available for Ferrari and other vehicle brands."</data>
+      <data key="d5">b30ec37294faafc4e1be3eca2d32b5e3</data>
+    </edge>
+    <edge source="&quot;APPLE&quot;" target="&quot;AUDI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Apple announced that similar systems would be available for Audi and other vehicle brands."</data>
+      <data key="d5">b30ec37294faafc4e1be3eca2d32b5e3</data>
+    </edge>
+    <edge source="&quot;APPLE&quot;" target="&quot;RENAULT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Apple announced that similar systems would be available for Renault and other vehicle brands."</data>
+      <data key="d5">b30ec37294faafc4e1be3eca2d32b5e3</data>
+    </edge>
+    <edge source="&quot;APPLE&quot;" target="&quot;VOLKSWAGEN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Apple announced that similar systems would be available for Volkswagen and other vehicle brands."</data>
+      <data key="d5">b30ec37294faafc4e1be3eca2d32b5e3</data>
+    </edge>
+    <edge source="&quot;APPLE&quot;" target="&quot;SCION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Scion offers standard iPod connectivity on all their cars, which was made possible by Apple's technology."</data>
+      <data key="d5">b30ec37294faafc4e1be3eca2d32b5e3</data>
+    </edge>
+    <edge source="&quot;TOYOTA&quot;" target="&quot;LEXUS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Toyota established Lexus as its luxury division."</data>
+      <data key="d5">e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;TOYOTA&quot;" target="&quot;US&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Toyota began building plants in the US in response to the tariff imposed by the US."</data>
+      <data key="d5">04f737d9ba84a7cae2aa04bee5cf3e8e</data>
+    </edge>
+    <edge source="&quot;TOYOTA&quot;" target="&quot;HINO MOTORS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hino Motors and Toyota share a model, the Toyota Dyna, which is similar to the Hino Dutro."</data>
+      <data key="d5">01ce4b65c435b78e09363afd018c2f6b</data>
+    </edge>
+    <edge source="&quot;HONDA LEGEND&quot;" target="&quot;ACURA RL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura RL is a rebadged version of the Honda Legend, sharing its design and features."</data>
+      <data key="d5">21dbf2c81ed8e598513366790364feab</data>
+    </edge>
+    <edge source="&quot;HONDA LEGEND&quot;" target="&quot;ACURA RLX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Honda Legend is a JDM version of the Acura RLX."</data>
+      <data key="d5">87a3a759f7c7eecd9ddca44fb05ddc05</data>
+    </edge>
+    <edge source="&quot;NORTH AMERICA&quot;" target="&quot;ACURA RL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura RL has been introduced and sold in the North American market, with multiple generations and updates."</data>
+      <data key="d5">21dbf2c81ed8e598513366790364feab</data>
+    </edge>
+    <edge source="&quot;EAST LIBERTY AUTO PLANT&quot;" target="&quot;ACURA RDX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura RDX is assembled at the East Liberty Auto Plant."</data>
+      <data key="d5">01f9eaeef6822bbd440643c5928d6080</data>
+    </edge>
+    <edge source="&quot;EAST LIBERTY AUTO PLANT&quot;" target="&quot;OHIO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The East Liberty Auto Plant is located in Ohio."</data>
+      <data key="d5">01f9eaeef6822bbd440643c5928d6080</data>
+    </edge>
+    <edge source="&quot;KEISUKE OTSUKI&quot;" target="&quot;NISSAN ROGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Keisuke Otsuki designed the Nissan Rogue."</data>
+      <data key="d5">8ace6068f3631c630e9ba1c2f4486fc8</data>
+    </edge>
+    <edge source="&quot;SMYRNA, TENNESSEE, UNITED STATES&quot;" target="&quot;NISSAN USA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Smyrna, Tennessee, United States is where Nissan USA assembles the Nissan Rogue."</data>
+      <data key="d5">8ace6068f3631c630e9ba1c2f4486fc8</data>
+    </edge>
+    <edge source="&quot;NISSAN CMF PLATFORM&quot;" target="&quot;NISSAN ROGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Nissan Rogue uses the Nissan CMF platform."</data>
+      <data key="d5">8ace6068f3631c630e9ba1c2f4486fc8</data>
+    </edge>
+    <edge source="&quot;GENERAL MOTORS&quot;" target="&quot;JANESVILLE ASSEMBLY PLANT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Janesville Assembly Plant is owned by General Motors."</data>
+      <data key="d5">36a7dc8af762c4ce5c5ada60b5ee4dbf</data>
+    </edge>
+    <edge source="&quot;GENERAL MOTORS&quot;" target="&quot;2008&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"General Motors idled the Janesville Assembly Plant in 2008."</data>
+      <data key="d5">36a7dc8af762c4ce5c5ada60b5ee4dbf</data>
+    </edge>
+    <edge source="&quot;GENERAL MOTORS&quot;" target="&quot;2009&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"General Motors ceased all remaining production at the Janesville Assembly Plant in 2009."</data>
+      <data key="d5">36a7dc8af762c4ce5c5ada60b5ee4dbf</data>
+    </edge>
+    <edge source="&quot;JANESVILLE&quot;" target="&quot;JANESVILLE ASSEMBLY PLANT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Janesville Assembly Plant is located in Janesville, Wisconsin."</data>
+      <data key="d5">36a7dc8af762c4ce5c5ada60b5ee4dbf</data>
+    </edge>
+    <edge source="&quot;2018&quot;" target="&quot;JANESVILLE ASSEMBLY PLANT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The demolition of the Janesville Assembly Plant began in 2018."</data>
+      <data key="d5">36a7dc8af762c4ce5c5ada60b5ee4dbf</data>
+    </edge>
+    <edge source="&quot;FORD&quot;" target="&quot;NORFOLK ASSEMBLY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Norfolk Assembly plant was owned by Ford."</data>
+      <data key="d5">0860656dac02df6e56c9f134e2001217</data>
+    </edge>
+    <edge source="&quot;FORD&quot;" target="&quot;2007&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ford closed the Norfolk Assembly plant in 2007."</data>
+      <data key="d5">0860656dac02df6e56c9f134e2001217</data>
+    </edge>
+    <edge source="&quot;ELIZABETH RIVER&quot;" target="&quot;NORFOLK ASSEMBLY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Norfolk Assembly plant was located near the Elizabeth River."</data>
+      <data key="d5">0860656dac02df6e56c9f134e2001217</data>
+    </edge>
+    <edge source="&quot;NORFOLK, VIRGINIA&quot;" target="&quot;NORFOLK ASSEMBLY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Norfolk Assembly plant was situated in Norfolk, Virginia."</data>
+      <data key="d5">0860656dac02df6e56c9f134e2001217</data>
+    </edge>
+    <edge source="&quot;BECU&quot;" target="&quot;SEATTLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"BECU is based in the Seattle area and serves Boeing employees and Washington residents."</data>
+      <data key="d5">20d7994ac7f210c0c64199bc260aa9ad</data>
+    </edge>
+    <edge source="&quot;SEATTLE&quot;" target="&quot;BOEING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Boeing had its headquarters in Seattle until 2001 and still has production facilities there."</data>
+      <data key="d5">20d7994ac7f210c0c64199bc260aa9ad</data>
+    </edge>
+    <edge source="&quot;CHICAGO&quot;" target="&quot;BOEING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Boeing's corporate headquarters were moved from Seattle to Chicago in 2001."</data>
+      <data key="d5">20d7994ac7f210c0c64199bc260aa9ad</data>
+    </edge>
+    <edge source="&quot;NISSAN MOTOR CO.&quot;" target="&quot;US&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nissan Motor Co. began building plants in the US in response to the tariff imposed by the US."</data>
+      <data key="d5">04f737d9ba84a7cae2aa04bee5cf3e8e</data>
+    </edge>
+    <edge source="&quot;HONDA MOTOR CO.&quot;" target="&quot;US&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Honda Motor Co. began building plants in the US in response to the tariff imposed by the US."</data>
+      <data key="d5">04f737d9ba84a7cae2aa04bee5cf3e8e</data>
+    </edge>
+    <edge source="&quot;US&quot;" target="&quot;CHICKEN TAX OF 1964&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The US imposed the chicken tax of 1964, which affected the importation of vehicles."</data>
+      <data key="d5">04f737d9ba84a7cae2aa04bee5cf3e8e</data>
+    </edge>
+    <edge source="&quot;NEW YORK INTERNATIONAL AUTO SHOW&quot;" target="&quot;ACURA ZDX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura ZDX debuted at the 2009 New York International Auto Show."</data>
+      <data key="d5">4a880a684ecca3d304e4ac7de886b249</data>
+    </edge>
+    <edge source="&quot;ACURA'S SOUTHERN CALIFORNIA DESIGN STUDIO&quot;" target="&quot;ACURA ZDX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura ZDX was completely designed at Acura's southern California design studio in Torrance."</data>
+      <data key="d5">4a880a684ecca3d304e4ac7de886b249</data>
+    </edge>
+    <edge source="&quot;DAIHATSU&quot;" target="&quot;HINO MOTORS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hino Motors badge-engineered Daihatsu's Delta series as the Ranger 2 and Ranger 3."</data>
+      <data key="d5">01ce4b65c435b78e09363afd018c2f6b</data>
+    </edge>
+    <edge source="&quot;PORT ELIZABETH&quot;" target="&quot;FORD SOUTH AFRICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ford South Africa was based in Port Elizabeth."</data>
+      <data key="d5">985a798f89f46aeda316a019efbbfc6d</data>
+    </edge>
+    <edge source="&quot;STRUANDALE&quot;" target="&quot;FORD SOUTH AFRICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ford South Africa had an engine plant and an assembly plant in Struandale."</data>
+      <data key="d5">985a798f89f46aeda316a019efbbfc6d</data>
+    </edge>
+    <edge source="&quot;SAMCOR&quot;" target="&quot;FORD SOUTH AFRICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ford South Africa merged with Sigma to form Samcor, transferring vehicle production to Samcor's Silverton Assembly Plant."</data>
+      <data key="d5">985a798f89f46aeda316a019efbbfc6d</data>
+    </edge>
+    <edge source="&quot;SAMCOR&quot;" target="&quot;DELTA MOTOR CORPORATION (GENERAL MOTORS)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Struandale assembly plant was sold from Samcor to Delta Motor Corporation (General Motors)."</data>
+      <data key="d5">985a798f89f46aeda316a019efbbfc6d</data>
+    </edge>
+    <edge source="&quot;ALLISTON, ONTARIO&quot;" target="&quot;ACURA EL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura EL was built at Honda's plant in Alliston, Ontario."</data>
+      <data key="d5">05ef6e0c8b39beb4783792c1e554b4c2</data>
+    </edge>
+    <edge source="&quot;HONDA CIVIC&quot;" target="&quot;ACURA EL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura EL is a badge-engineered version of the Honda Civic."</data>
+      <data key="d5">05ef6e0c8b39beb4783792c1e554b4c2</data>
+    </edge>
+  </graph>
+</graphml>

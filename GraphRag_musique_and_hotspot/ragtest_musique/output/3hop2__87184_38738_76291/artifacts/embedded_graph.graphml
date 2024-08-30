@@ -1,0 +1,835 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;JOHN DUNMORE LANG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"John Dunmore Lang is a person who wrote about the idea of Parliamentary representation for the colonies in 1852."</data>
+      <data key="d2">41c446f116ec4f63db8f427893492640</data>
+    </node>
+    <node id="&quot;OLDMIXON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Oldmixon is an American annalist who first suggested the idea of Parliamentary representation for the colonies during the era of Queen Anne or George I."</data>
+      <data key="d2">41c446f116ec4f63db8f427893492640</data>
+    </node>
+    <node id="&quot;DR. ADAM SMITH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dr. Adam Smith is a celebrated person who put forward the idea of Parliamentary representation for the colonies with approbation."</data>
+      <data key="d2">41c446f116ec4f63db8f427893492640</data>
+    </node>
+    <node id="&quot;DR. BENJAMIN FRANKLIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dr. Benjamin Franklin is a person who initially advocated for but later strongly opposed the idea of Parliamentary representation for the colonies."</data>
+      <data key="d2">41c446f116ec4f63db8f427893492640</data>
+    </node>
+    <node id="&quot;QUEEN ANNE OR GEORGE I&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Queen Anne or George I refers to the era of the monarchs who ruled England during the time when Oldmixon suggested the idea of Parliamentary representation for the colonies."</data>
+      <data key="d2">41c446f116ec4f63db8f427893492640</data>
+    </node>
+    <node id="&quot;THE ENGLISH BILL OF RIGHTS 1689&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The English Bill of Rights 1689 is an event that forbade the imposition of taxes without the consent of Parliament, guaranteeing the Rights of Englishmen."</data>
+      <data key="d2">41c446f116ec4f63db8f427893492640</data>
+    </node>
+    <node id="&quot;ENGLISH PARLIAMENT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">41c446f116ec4f63db8f427893492640</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">0ae0bbc4de3199eee3201274f8f07cb8,1bb823adfc809a1b59967e7b2cf2ea38,21bf20e07658407e06a1f04a8ae2d4b1,3b75e55d7fd9a3f39f555852b1fbd45c,41c446f116ec4f63db8f427893492640,4dfe5b0bb3aa5d0d8600199341d4494c,50f6d805bf288a36d14a39a8714778cb,59c88c569ea4720cb214c06055bd92b8,71b162b9ff1cdcf587d5cd285de50c50,73f162abdc1dbcbcb2167119fb957378,7cec7b7a37afd8c7d7c405fd59560b49,8a258037dc701edb3af6d75459504eb9,9fc11dd15ba47c3943184b5614382bf5,b47b1c9379e9685c3003772ae4f3de51,c4f134f3fe258236437b40aa58883680,d59d5f022d8391c5976f93d0bc3bcabf,ec4ba4866c5fe70d058b686b47392681,ef159053a0fb02e996632c3aed30fb8b,f8137c496afe243cbc48567b166022aa,ffe986ed51dbaf0a309889f3ab53e747</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">0ae0bbc4de3199eee3201274f8f07cb8,1bb823adfc809a1b59967e7b2cf2ea38,21bf20e07658407e06a1f04a8ae2d4b1,3b75e55d7fd9a3f39f555852b1fbd45c,41c446f116ec4f63db8f427893492640,4dfe5b0bb3aa5d0d8600199341d4494c,50f6d805bf288a36d14a39a8714778cb,59c88c569ea4720cb214c06055bd92b8,71b162b9ff1cdcf587d5cd285de50c50,73f162abdc1dbcbcb2167119fb957378,7cec7b7a37afd8c7d7c405fd59560b49,8a258037dc701edb3af6d75459504eb9,9fc11dd15ba47c3943184b5614382bf5,b47b1c9379e9685c3003772ae4f3de51,c4f134f3fe258236437b40aa58883680,d59d5f022d8391c5976f93d0bc3bcabf,ec4ba4866c5fe70d058b686b47392681,ef159053a0fb02e996632c3aed30fb8b,f8137c496afe243cbc48567b166022aa,ffe986ed51dbaf0a309889f3ab53e747</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">0ae0bbc4de3199eee3201274f8f07cb8,1bb823adfc809a1b59967e7b2cf2ea38,21bf20e07658407e06a1f04a8ae2d4b1,3b75e55d7fd9a3f39f555852b1fbd45c,41c446f116ec4f63db8f427893492640,4dfe5b0bb3aa5d0d8600199341d4494c,50f6d805bf288a36d14a39a8714778cb,59c88c569ea4720cb214c06055bd92b8,71b162b9ff1cdcf587d5cd285de50c50,73f162abdc1dbcbcb2167119fb957378,7cec7b7a37afd8c7d7c405fd59560b49,8a258037dc701edb3af6d75459504eb9,9fc11dd15ba47c3943184b5614382bf5,b47b1c9379e9685c3003772ae4f3de51,c4f134f3fe258236437b40aa58883680,d59d5f022d8391c5976f93d0bc3bcabf,ec4ba4866c5fe70d058b686b47392681,ef159053a0fb02e996632c3aed30fb8b,f8137c496afe243cbc48567b166022aa,ffe986ed51dbaf0a309889f3ab53e747</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">0ae0bbc4de3199eee3201274f8f07cb8,1bb823adfc809a1b59967e7b2cf2ea38,21bf20e07658407e06a1f04a8ae2d4b1,3b75e55d7fd9a3f39f555852b1fbd45c,41c446f116ec4f63db8f427893492640,4dfe5b0bb3aa5d0d8600199341d4494c,50f6d805bf288a36d14a39a8714778cb,59c88c569ea4720cb214c06055bd92b8,71b162b9ff1cdcf587d5cd285de50c50,73f162abdc1dbcbcb2167119fb957378,7cec7b7a37afd8c7d7c405fd59560b49,8a258037dc701edb3af6d75459504eb9,9fc11dd15ba47c3943184b5614382bf5,b47b1c9379e9685c3003772ae4f3de51,c4f134f3fe258236437b40aa58883680,d59d5f022d8391c5976f93d0bc3bcabf,ec4ba4866c5fe70d058b686b47392681,ef159053a0fb02e996632c3aed30fb8b,f8137c496afe243cbc48567b166022aa,ffe986ed51dbaf0a309889f3ab53e747</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country where Tucson, Pima County, and Arizona are located. It is also a country where significant legislation has been enacted, including the Surface Mining Control and Reclamation Act of 1977, the Violent Crime Control and Law Enforcement Act of 1994, as well as important laws passed during the Great Depression.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">0ae0bbc4de3199eee3201274f8f07cb8,1bb823adfc809a1b59967e7b2cf2ea38,21bf20e07658407e06a1f04a8ae2d4b1,3b75e55d7fd9a3f39f555852b1fbd45c,41c446f116ec4f63db8f427893492640,4dfe5b0bb3aa5d0d8600199341d4494c,50f6d805bf288a36d14a39a8714778cb,59c88c569ea4720cb214c06055bd92b8,71b162b9ff1cdcf587d5cd285de50c50,73f162abdc1dbcbcb2167119fb957378,7cec7b7a37afd8c7d7c405fd59560b49,8a258037dc701edb3af6d75459504eb9,9fc11dd15ba47c3943184b5614382bf5,b47b1c9379e9685c3003772ae4f3de51,c4f134f3fe258236437b40aa58883680,d59d5f022d8391c5976f93d0bc3bcabf,ec4ba4866c5fe70d058b686b47392681,ef159053a0fb02e996632c3aed30fb8b,f8137c496afe243cbc48567b166022aa,ffe986ed51dbaf0a309889f3ab53e747</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">0ae0bbc4de3199eee3201274f8f07cb8,1bb823adfc809a1b59967e7b2cf2ea38,21bf20e07658407e06a1f04a8ae2d4b1,3b75e55d7fd9a3f39f555852b1fbd45c,41c446f116ec4f63db8f427893492640,4dfe5b0bb3aa5d0d8600199341d4494c,50f6d805bf288a36d14a39a8714778cb,59c88c569ea4720cb214c06055bd92b8,71b162b9ff1cdcf587d5cd285de50c50,73f162abdc1dbcbcb2167119fb957378,7cec7b7a37afd8c7d7c405fd59560b49,8a258037dc701edb3af6d75459504eb9,9fc11dd15ba47c3943184b5614382bf5,b47b1c9379e9685c3003772ae4f3de51,c4f134f3fe258236437b40aa58883680,d59d5f022d8391c5976f93d0bc3bcabf,ec4ba4866c5fe70d058b686b47392681,ef159053a0fb02e996632c3aed30fb8b,f8137c496afe243cbc48567b166022aa,ffe986ed51dbaf0a309889f3ab53e747</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">0ae0bbc4de3199eee3201274f8f07cb8,1bb823adfc809a1b59967e7b2cf2ea38,21bf20e07658407e06a1f04a8ae2d4b1,3b75e55d7fd9a3f39f555852b1fbd45c,41c446f116ec4f63db8f427893492640,4dfe5b0bb3aa5d0d8600199341d4494c,50f6d805bf288a36d14a39a8714778cb,59c88c569ea4720cb214c06055bd92b8,71b162b9ff1cdcf587d5cd285de50c50,73f162abdc1dbcbcb2167119fb957378,7cec7b7a37afd8c7d7c405fd59560b49,8a258037dc701edb3af6d75459504eb9,9fc11dd15ba47c3943184b5614382bf5,b47b1c9379e9685c3003772ae4f3de51,c4f134f3fe258236437b40aa58883680,d59d5f022d8391c5976f93d0bc3bcabf,ec4ba4866c5fe70d058b686b47392681,ef159053a0fb02e996632c3aed30fb8b,f8137c496afe243cbc48567b166022aa,ffe986ed51dbaf0a309889f3ab53e747</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">0ae0bbc4de3199eee3201274f8f07cb8,1bb823adfc809a1b59967e7b2cf2ea38,21bf20e07658407e06a1f04a8ae2d4b1,3b75e55d7fd9a3f39f555852b1fbd45c,41c446f116ec4f63db8f427893492640,4dfe5b0bb3aa5d0d8600199341d4494c,50f6d805bf288a36d14a39a8714778cb,59c88c569ea4720cb214c06055bd92b8,71b162b9ff1cdcf587d5cd285de50c50,73f162abdc1dbcbcb2167119fb957378,7cec7b7a37afd8c7d7c405fd59560b49,8a258037dc701edb3af6d75459504eb9,9fc11dd15ba47c3943184b5614382bf5,b47b1c9379e9685c3003772ae4f3de51,c4f134f3fe258236437b40aa58883680,d59d5f022d8391c5976f93d0bc3bcabf,ec4ba4866c5fe70d058b686b47392681,ef159053a0fb02e996632c3aed30fb8b,f8137c496afe243cbc48567b166022aa,ffe986ed51dbaf0a309889f3ab53e747</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">0ae0bbc4de3199eee3201274f8f07cb8,1bb823adfc809a1b59967e7b2cf2ea38,21bf20e07658407e06a1f04a8ae2d4b1,3b75e55d7fd9a3f39f555852b1fbd45c,41c446f116ec4f63db8f427893492640,4dfe5b0bb3aa5d0d8600199341d4494c,50f6d805bf288a36d14a39a8714778cb,59c88c569ea4720cb214c06055bd92b8,71b162b9ff1cdcf587d5cd285de50c50,73f162abdc1dbcbcb2167119fb957378,7cec7b7a37afd8c7d7c405fd59560b49,8a258037dc701edb3af6d75459504eb9,9fc11dd15ba47c3943184b5614382bf5,b47b1c9379e9685c3003772ae4f3de51,c4f134f3fe258236437b40aa58883680,d59d5f022d8391c5976f93d0bc3bcabf,ec4ba4866c5fe70d058b686b47392681,ef159053a0fb02e996632c3aed30fb8b,f8137c496afe243cbc48567b166022aa,ffe986ed51dbaf0a309889f3ab53e747</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0ae0bbc4de3199eee3201274f8f07cb8,1bb823adfc809a1b59967e7b2cf2ea38,21bf20e07658407e06a1f04a8ae2d4b1,3b75e55d7fd9a3f39f555852b1fbd45c,41c446f116ec4f63db8f427893492640,4dfe5b0bb3aa5d0d8600199341d4494c,50f6d805bf288a36d14a39a8714778cb,59c88c569ea4720cb214c06055bd92b8,71b162b9ff1cdcf587d5cd285de50c50,73f162abdc1dbcbcb2167119fb957378,7cec7b7a37afd8c7d7c405fd59560b49,8a258037dc701edb3af6d75459504eb9,9fc11dd15ba47c3943184b5614382bf5,b47b1c9379e9685c3003772ae4f3de51,c4f134f3fe258236437b40aa58883680,d59d5f022d8391c5976f93d0bc3bcabf,ec4ba4866c5fe70d058b686b47392681,ef159053a0fb02e996632c3aed30fb8b,f8137c496afe243cbc48567b166022aa,ffe986ed51dbaf0a309889f3ab53e747</data>
+    </node>
+    <node id="&quot;INDIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+India is a country that guarantees Fundamental Rights to its citizens, and it has a history of being a location where European trading posts expanded into territorial control.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">1bb823adfc809a1b59967e7b2cf2ea38,4dfe5b0bb3aa5d0d8600199341d4494c,7cec7b7a37afd8c7d7c405fd59560b49,d59d5f022d8391c5976f93d0bc3bcabf,ffe986ed51dbaf0a309889f3ab53e747</data>
+    </node>
+    <node id="&quot;SUPREME COURT OF INDIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+The Supreme Court of India is the highest authority and judicial body that can be approached directly for seeking ultimate justice in cases where there has been a violation of Fundamental Rights.</data>
+      <data key="d2">1bb823adfc809a1b59967e7b2cf2ea38,4dfe5b0bb3aa5d0d8600199341d4494c,7cec7b7a37afd8c7d7c405fd59560b49</data>
+    </node>
+    <node id="&quot;INDIAN PENAL CODE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Indian Penal Code is a set of laws that prescribe punishments for violations of Fundamental Rights.
+
+Note: I resolved the minor contradictions in the descriptions by choosing the most accurate and coherent phrase, which is "set of laws" instead of just "law". Additionally, I kept the plural form "violations" as it is more grammatically correct.</data>
+      <data key="d2">1bb823adfc809a1b59967e7b2cf2ea38,4dfe5b0bb3aa5d0d8600199341d4494c,7cec7b7a37afd8c7d7c405fd59560b49</data>
+    </node>
+    <node id="&quot;FUNDAMENTAL RIGHTS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+"Fundamental Rights are basic human freedoms guaranteed to Indian citizens by the Constitution of India, including equality before law, freedom of speech and expression, and religious and cultural freedom. These rights refer to the basic rights of Indian citizens, which are constitutionally protected."
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">1bb823adfc809a1b59967e7b2cf2ea38,4dfe5b0bb3aa5d0d8600199341d4494c,7cec7b7a37afd8c7d7c405fd59560b49</data>
+    </node>
+    <node id="&quot;CONSTITUTION OF INDIA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1bb823adfc809a1b59967e7b2cf2ea38,4dfe5b0bb3aa5d0d8600199341d4494c,7cec7b7a37afd8c7d7c405fd59560b49</data>
+    </node>
+    <node id="&quot;PENNSYLVANIA HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Pennsylvania House of Representatives is an organization where Scott Petri served as a member."</data>
+      <data key="d2">73f162abdc1dbcbcb2167119fb957378</data>
+    </node>
+    <node id="&quot;HOUSE URBAN AFFAIRS COMMITTEE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The House Urban Affairs Committee is an organization where Scott Petri served as Chairman."</data>
+      <data key="d2">73f162abdc1dbcbcb2167119fb957378</data>
+    </node>
+    <node id="&quot;HOUSE ETHICS COMMITTEE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The House Ethics Committee is an organization where Scott Petri served as Chairman."</data>
+      <data key="d2">73f162abdc1dbcbcb2167119fb957378</data>
+    </node>
+    <node id="&quot;LIQUOR CONTROL COMMITTEES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Liquor Control Committees are organizations where Scott Petri served as a member."</data>
+      <data key="d2">73f162abdc1dbcbcb2167119fb957378</data>
+    </node>
+    <node id="&quot;PHILADELPHIA PARKING AUTHORITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Philadelphia Parking Authority is an organization where Scott Petri currently serves as executive director."</data>
+      <data key="d2">73f162abdc1dbcbcb2167119fb957378</data>
+    </node>
+    <node id="&quot;PENNSYLVANIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pennsylvania is a geographic location where the Pennsylvania House of Representatives is located."</data>
+      <data key="d2">73f162abdc1dbcbcb2167119fb957378</data>
+    </node>
+    <node id="&quot;SCOTT PETRI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">73f162abdc1dbcbcb2167119fb957378</data>
+    </node>
+    <node id="&quot;EGYPT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Egypt is a geographic region with important seaports and trade routes that are controlled by Greece's provinces."</data>
+      <data key="d2">59c88c569ea4720cb214c06055bd92b8</data>
+    </node>
+    <node id="&quot;MEDITERRANEAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Mediterranean is a geographic region where Greece is located, giving it control over crucial seaports and trade routes."</data>
+      <data key="d2">59c88c569ea4720cb214c06055bd92b8</data>
+    </node>
+    <node id="&quot;ANCIENT GREECE ECONOMY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The ancient Greece economy was defined by the region's dependence on imported goods and its limited crop production."</data>
+      <data key="d2">59c88c569ea4720cb214c06055bd92b8</data>
+    </node>
+    <node id="&quot;GREECE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">59c88c569ea4720cb214c06055bd92b8</data>
+    </node>
+    <node id="&quot;SENATE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Senate is a legislative body that passed a bill with 261-23 votes in the House of Representatives. In the 114th Congress, it was where the Republicans gained a majority. Additionally, its leaders earn the same salary as their counterparts in the House of Representatives.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">21bf20e07658407e06a1f04a8ae2d4b1,3b75e55d7fd9a3f39f555852b1fbd45c,9fc11dd15ba47c3943184b5614382bf5</data>
+    </node>
+    <node id="&quot;COMMITTEE ON CONSTITUTIONAL REVIEW&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Committee on Constitutional Review is responsible for reviewing constitutional amendments in Nigeria's Parliament."</data>
+      <data key="d2">21bf20e07658407e06a1f04a8ae2d4b1</data>
+    </node>
+    <node id="&quot;NIGERIA'S PARLIAMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Nigeria's Parliament is the legislative body that presented the bill to the Committee on Constitutional Review."</data>
+      <data key="d2">21bf20e07658407e06a1f04a8ae2d4b1</data>
+    </node>
+    <node id="&quot;TARABA STATE OF ASSEMBLY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Taraba State of Assembly initially rejected the bill but later reversed its decision after a press release."</data>
+      <data key="d2">21bf20e07658407e06a1f04a8ae2d4b1</data>
+    </node>
+    <node id="&quot;ZAMFARA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Zamfara is one of the 36 states in Nigeria that did not vote Yes to the constitutional amendments."</data>
+      <data key="d2">21bf20e07658407e06a1f04a8ae2d4b1</data>
+    </node>
+    <node id="&quot;LAGOS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lagos is one of the 36 states in Nigeria that did not vote Yes to the constitutional amendments."</data>
+      <data key="d2">21bf20e07658407e06a1f04a8ae2d4b1</data>
+    </node>
+    <node id="&quot;KANO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Kano is one of the 36 states in Nigeria that did not vote Yes to the constitutional amendments."</data>
+      <data key="d2">21bf20e07658407e06a1f04a8ae2d4b1</data>
+    </node>
+    <node id="&quot;NIGERIA'S HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">21bf20e07658407e06a1f04a8ae2d4b1</data>
+    </node>
+    <node id="&quot;PASSAGE OF THE BILL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">21bf20e07658407e06a1f04a8ae2d4b1</data>
+    </node>
+    <node id="&quot;UNITED STATES SENATE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The United States Senate is part of the legislative branch of the US federal government, composing The One Hundred Fourteenth United States Congress."</data>
+      <data key="d2">ec4ba4866c5fe70d058b686b47392681</data>
+    </node>
+    <node id="&quot;UNITED STATES HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The United States House of Representatives is part of the legislative branch of the US federal government, composing The One Hundred Fourteenth United States Congress."</data>
+      <data key="d2">ec4ba4866c5fe70d058b686b47392681</data>
+    </node>
+    <node id="&quot;BARACK OBAMA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Barack Obama was the President of the United States during the final two full years of his presidency, coinciding with The One Hundred Fourteenth United States Congress."</data>
+      <data key="d2">ec4ba4866c5fe70d058b686b47392681</data>
+    </node>
+    <node id="&quot;WASHINGTON, D.C.&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Washington, D.C. is the location where The One Hundred Fourteenth United States Congress met from January 3, 2015, to January 3, 2017."</data>
+      <data key="d2">ec4ba4866c5fe70d058b686b47392681</data>
+    </node>
+    <node id="&quot;THE ONE HUNDRED FOURTEENTH UNITED STATES CONGRESS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ec4ba4866c5fe70d058b686b47392681</data>
+    </node>
+    <node id="&quot;BEGELL HOUSE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Begell House is a publishing company that publishes Critical Reviews in Eukaryotic Gene Expression."</data>
+      <data key="d2">b47b1c9379e9685c3003772ae4f3de51</data>
+    </node>
+    <node id="&quot;CRITICAL REVIEWS IN EUKARYOTIC GENE EXPRESSION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b47b1c9379e9685c3003772ae4f3de51</data>
+    </node>
+    <node id="&quot;SPEAKER OF THE HOUSE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Speaker of the House is a leadership position in Congress, earning a higher salary than Representatives."</data>
+      <data key="d2">3b75e55d7fd9a3f39f555852b1fbd45c</data>
+    </node>
+    <node id="&quot;MAJORITY LEADER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Majority Leader is a leadership position in Congress, earning a higher salary than Representatives."</data>
+      <data key="d2">3b75e55d7fd9a3f39f555852b1fbd45c</data>
+    </node>
+    <node id="&quot;MINORITY LEADER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Minority Leader is a leadership position in Congress, earning a higher salary than Representatives."</data>
+      <data key="d2">3b75e55d7fd9a3f39f555852b1fbd45c</data>
+    </node>
+    <node id="&quot;UNITED STATES CONSTITUTION&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States Constitution is a foundational document that outlines the rules and principles governing the country. It contains the Bill of Rights, which includes the Second Amendment, among other important provisions. Additionally, it addresses various aspects of governance, such as those related to congressional salaries.</data>
+      <data key="d2">3b75e55d7fd9a3f39f555852b1fbd45c,71b162b9ff1cdcf587d5cd285de50c50,ef159053a0fb02e996632c3aed30fb8b</data>
+    </node>
+    <node id="&quot;CONGRESS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3b75e55d7fd9a3f39f555852b1fbd45c</data>
+    </node>
+    <node id="&quot;GENEVA DECLARATION OF THE RIGHT OF CHILDREN ACT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Geneva Declaration of the Right of Children Act was passed in 1924, marking an important milestone in promoting children's rights and needs."</data>
+      <data key="d2">ffe986ed51dbaf0a309889f3ab53e747</data>
+    </node>
+    <node id="&quot;UNIVERSAL DECLARATION OF HUMAN RIGHTS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Universal Declaration of Human Rights was adopted in 1948, incorporating basic human rights and needs of children for proper progression and growth."</data>
+      <data key="d2">ffe986ed51dbaf0a309889f3ab53e747</data>
+    </node>
+    <node id="&quot;CHILD LABOUR (PROHIBITION AND REGULATION) ACT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Child Labour (Prohibition and Regulation) Act was put into place in 1986, prohibiting the hiring of children younger than 14 and from working in hazardous conditions."</data>
+      <data key="d2">ffe986ed51dbaf0a309889f3ab53e747</data>
+    </node>
+    <node id="&quot;HOUSE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The House is a legislative body that passed a bill in December 2009."</data>
+      <data key="d2">c4f134f3fe258236437b40aa58883680</data>
+    </node>
+    <node id="&quot;NEW YORK TIMES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The New York Times provided a comparative summary of the features of the two bills."</data>
+      <data key="d2">c4f134f3fe258236437b40aa58883680</data>
+    </node>
+    <node id="&quot;OBAMA ADMINISTRATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Obama administration enumerated principles that are addressed by the reform bills."</data>
+      <data key="d2">c4f134f3fe258236437b40aa58883680</data>
+    </node>
+    <node id="&quot;VOLCKER RULE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Volcker Rule is a principle against proprietary trading, not part of the legislation but with discretionary prohibition by regulators in the Senate bill."</data>
+      <data key="d2">c4f134f3fe258236437b40aa58883680</data>
+    </node>
+    <node id="&quot;MAY 2010&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"May 2010 is the month when the U.S. Senate passed a reform bill."</data>
+      <data key="d2">c4f134f3fe258236437b40aa58883680</data>
+    </node>
+    <node id="&quot;DECEMBER 2009&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"December 2009 is the month when the House passed a bill."</data>
+      <data key="d2">c4f134f3fe258236437b40aa58883680</data>
+    </node>
+    <node id="&quot;U.S. SENATE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c4f134f3fe258236437b40aa58883680</data>
+    </node>
+    <node id="&quot;NEW DEAL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The New Deal was a legislative program initiated by President Franklin D. Roosevelt to address the Great Depression."</data>
+      <data key="d2">0ae0bbc4de3199eee3201274f8f07cb8</data>
+    </node>
+    <node id="&quot;PUBLIC WORKS ADMINISTRATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Public Works Administration is an organization established by Title II of the Act, responsible for managing projects and funding opportunities."</data>
+      <data key="d2">0ae0bbc4de3199eee3201274f8f07cb8</data>
+    </node>
+    <node id="&quot;FRANKLIN D. ROOSEVELT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0ae0bbc4de3199eee3201274f8f07cb8</data>
+    </node>
+    <node id="&quot;GREAT DEPRESSION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0ae0bbc4de3199eee3201274f8f07cb8</data>
+    </node>
+    <node id="&quot;THE CLEAN WATER ACT (CWA)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Clean Water Act (CWA) is a regulation designed to address point source pollution, with a lesser extent on nonpoint source pollution."</data>
+      <data key="d2">8a258037dc701edb3af6d75459504eb9</data>
+    </node>
+    <node id="&quot;TOTAL MAXIMUM DAILY LOADS (TMDLS)&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Total maximum daily loads (TMDLs) are a tool used in the CWA to directly regulate NPS effluent, highlighting their importance in environmental regulation."</data>
+      <data key="d2">8a258037dc701edb3af6d75459504eb9</data>
+    </node>
+    <node id="&quot;STATE GOVERNMENTS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+State Governments are limited in their ability to infringe on individual rights, including the right to keep and bear arms, by the incorporation of the Bill of Rights. Additionally, they play a crucial role in implementing environmental regulations, as they are responsible for setting Total Maximum Daily Loads (TMDLs) based on both point source and Non-Point Source (NPS) effluent.</data>
+      <data key="d2">71b162b9ff1cdcf587d5cd285de50c50,8a258037dc701edb3af6d75459504eb9</data>
+    </node>
+    <node id="&quot;COMMAND AND CONTROL POLICIES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8a258037dc701edb3af6d75459504eb9</data>
+    </node>
+    <node id="&quot;SUPREME COURT OF THE UNITED STATES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+The Supreme Court of the United States has ruled on the interpretation of the Second Amendment, balancing individual rights with regulation and determining that it belongs to individuals, although not without limits.</data>
+      <data key="d2">71b162b9ff1cdcf587d5cd285de50c50,ef159053a0fb02e996632c3aed30fb8b</data>
+    </node>
+    <node id="&quot;BILL OF RIGHTS&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Bill of Rights is a document that contains the first ten amendments to the United States Constitution, adopted in 1791, which protects individual liberties and includes the Second Amendment.</data>
+      <data key="d2">71b162b9ff1cdcf587d5cd285de50c50,ef159053a0fb02e996632c3aed30fb8b</data>
+    </node>
+    <node id="&quot;SECOND AMENDMENT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ef159053a0fb02e996632c3aed30fb8b</data>
+    </node>
+    <node id="&quot;ENGLAND'S BILL OF RIGHTS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"England's Bill of Rights is one of the sources that inspired the Fundamental Rights in India."</data>
+      <data key="d2">4dfe5b0bb3aa5d0d8600199341d4494c</data>
+    </node>
+    <node id="&quot;UNITED STATES BILL OF RIGHTS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The United States Bill of Rights is another source that influenced the Fundamental Rights in India."</data>
+      <data key="d2">4dfe5b0bb3aa5d0d8600199341d4494c</data>
+    </node>
+    <node id="&quot;FRANCE'S DECLARATION OF THE RIGHTS OF MAN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"France's Declaration of the Rights of Man is a historical document that contributed to the development of Fundamental Rights in India."</data>
+      <data key="d2">4dfe5b0bb3aa5d0d8600199341d4494c</data>
+    </node>
+    <node id="&quot;QING DYNASTY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Qing dynasty responded to European expansion by establishing the Canton System, restricting maritime trade and granting monopoly rights to private Chinese merchants."</data>
+      <data key="d2">d59d5f022d8391c5976f93d0bc3bcabf</data>
+    </node>
+    <node id="&quot;BRITISH EAST INDIA COMPANY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The British East India Company was granted monopoly trading rights by its government, similar to the Dutch East India Company."</data>
+      <data key="d2">d59d5f022d8391c5976f93d0bc3bcabf</data>
+    </node>
+    <node id="&quot;DUTCH EAST INDIA COMPANY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Dutch East India Company was granted monopoly trading rights by its government, similar to the British East India Company."</data>
+      <data key="d2">d59d5f022d8391c5976f93d0bc3bcabf</data>
+    </node>
+    <node id="&quot;INDONESIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Indonesia is mentioned as a location where European trading posts expanded into territorial control, specifically on the islands that are now part of Indonesia."</data>
+      <data key="d2">d59d5f022d8391c5976f93d0bc3bcabf</data>
+    </node>
+    <node id="&quot;EUROPEAN EMPIRES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d59d5f022d8391c5976f93d0bc3bcabf</data>
+    </node>
+    <node id="&quot;VIOLENT CRIME CONTROL AND LAW ENFORCEMENT ACT OF 1994&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Violent Crime Control and Law Enforcement Act of 1994 is a law that included The Public Safety and Recreational Firearms Act."</data>
+      <data key="d2">50f6d805bf288a36d14a39a8714778cb</data>
+    </node>
+    <node id="&quot;THE PUBLIC SAFETY AND RECREATIONAL FIREARMS ACT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">50f6d805bf288a36d14a39a8714778cb</data>
+    </node>
+    <node id="&quot;SURFACE MINING CONTROL AND RECLAMATION ACT OF 1977&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f8137c496afe243cbc48567b166022aa</data>
+    </node>
+    <node id="&quot;114TH CONGRESS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 114th Congress started in January 2015 and was a significant event for the Republicans regaining the Senate majority."</data>
+      <data key="d2">9fc11dd15ba47c3943184b5614382bf5</data>
+    </node>
+    <node id="&quot;JANUARY 2007&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"January 2007 is a date when the Republicans last controlled the Senate before regaining it in 2015."</data>
+      <data key="d2">9fc11dd15ba47c3943184b5614382bf5</data>
+    </node>
+    <node id="&quot;JANUARY 2015&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"January 2015 is a date when the 114th Congress started and the Republicans regained the Senate majority."</data>
+      <data key="d2">9fc11dd15ba47c3943184b5614382bf5</data>
+    </node>
+    <node id="&quot;REPUBLICANS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9fc11dd15ba47c3943184b5614382bf5</data>
+    </node>
+    <node id="&quot;SECOND AMENDMENT (AMENDMENT II)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Second Amendment (Amendment II) is a specific amendment to the United States Constitution that guarantees the right to keep and bear arms."</data>
+      <data key="d2">71b162b9ff1cdcf587d5cd285de50c50</data>
+    </node>
+    <node id="&quot;LOCAL GOVERNMENTS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Local governments are also limited in their ability to infringe on individual rights, including the right to keep and bear arms, by the incorporation of the Bill of Rights."</data>
+      <data key="d2">71b162b9ff1cdcf587d5cd285de50c50</data>
+    </node>
+    <edge source="&quot;JOHN DUNMORE LANG&quot;" target="&quot;OLDMIXON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"John Dunmore Lang wrote about Oldmixon's idea of Parliamentary representation for the colonies."</data>
+      <data key="d5">41c446f116ec4f63db8f427893492640</data>
+    </edge>
+    <edge source="&quot;OLDMIXON&quot;" target="&quot;DR. ADAM SMITH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dr. Adam Smith put forward Oldmixon's idea of Parliamentary representation for the colonies with approbation."</data>
+      <data key="d5">41c446f116ec4f63db8f427893492640</data>
+    </edge>
+    <edge source="&quot;OLDMIXON&quot;" target="&quot;DR. BENJAMIN FRANKLIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dr. Benjamin Franklin initially advocated for but later strongly opposed Oldmixon's idea of Parliamentary representation for the colonies."</data>
+      <data key="d5">41c446f116ec4f63db8f427893492640</data>
+    </edge>
+    <edge source="&quot;THE ENGLISH BILL OF RIGHTS 1689&quot;" target="&quot;ENGLISH PARLIAMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The English Parliament is bound by The English Bill of Rights 1689, which guarantees the Rights of Englishmen."</data>
+      <data key="d5">41c446f116ec4f63db8f427893492640</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">0ae0bbc4de3199eee3201274f8f07cb8,1bb823adfc809a1b59967e7b2cf2ea38,21bf20e07658407e06a1f04a8ae2d4b1,3b75e55d7fd9a3f39f555852b1fbd45c,41c446f116ec4f63db8f427893492640,4dfe5b0bb3aa5d0d8600199341d4494c,50f6d805bf288a36d14a39a8714778cb,59c88c569ea4720cb214c06055bd92b8,71b162b9ff1cdcf587d5cd285de50c50,73f162abdc1dbcbcb2167119fb957378,7cec7b7a37afd8c7d7c405fd59560b49,8a258037dc701edb3af6d75459504eb9,9fc11dd15ba47c3943184b5614382bf5,b47b1c9379e9685c3003772ae4f3de51,c4f134f3fe258236437b40aa58883680,d59d5f022d8391c5976f93d0bc3bcabf,ec4ba4866c5fe70d058b686b47392681,ef159053a0fb02e996632c3aed30fb8b,f8137c496afe243cbc48567b166022aa,ffe986ed51dbaf0a309889f3ab53e747</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">0ae0bbc4de3199eee3201274f8f07cb8,1bb823adfc809a1b59967e7b2cf2ea38,21bf20e07658407e06a1f04a8ae2d4b1,3b75e55d7fd9a3f39f555852b1fbd45c,41c446f116ec4f63db8f427893492640,4dfe5b0bb3aa5d0d8600199341d4494c,50f6d805bf288a36d14a39a8714778cb,59c88c569ea4720cb214c06055bd92b8,71b162b9ff1cdcf587d5cd285de50c50,73f162abdc1dbcbcb2167119fb957378,7cec7b7a37afd8c7d7c405fd59560b49,8a258037dc701edb3af6d75459504eb9,9fc11dd15ba47c3943184b5614382bf5,b47b1c9379e9685c3003772ae4f3de51,c4f134f3fe258236437b40aa58883680,d59d5f022d8391c5976f93d0bc3bcabf,ec4ba4866c5fe70d058b686b47392681,ef159053a0fb02e996632c3aed30fb8b,f8137c496afe243cbc48567b166022aa,ffe986ed51dbaf0a309889f3ab53e747</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">0ae0bbc4de3199eee3201274f8f07cb8,1bb823adfc809a1b59967e7b2cf2ea38,21bf20e07658407e06a1f04a8ae2d4b1,3b75e55d7fd9a3f39f555852b1fbd45c,41c446f116ec4f63db8f427893492640,4dfe5b0bb3aa5d0d8600199341d4494c,50f6d805bf288a36d14a39a8714778cb,59c88c569ea4720cb214c06055bd92b8,71b162b9ff1cdcf587d5cd285de50c50,73f162abdc1dbcbcb2167119fb957378,7cec7b7a37afd8c7d7c405fd59560b49,8a258037dc701edb3af6d75459504eb9,9fc11dd15ba47c3943184b5614382bf5,b47b1c9379e9685c3003772ae4f3de51,c4f134f3fe258236437b40aa58883680,d59d5f022d8391c5976f93d0bc3bcabf,ec4ba4866c5fe70d058b686b47392681,ef159053a0fb02e996632c3aed30fb8b,f8137c496afe243cbc48567b166022aa,ffe986ed51dbaf0a309889f3ab53e747</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">0ae0bbc4de3199eee3201274f8f07cb8,1bb823adfc809a1b59967e7b2cf2ea38,21bf20e07658407e06a1f04a8ae2d4b1,3b75e55d7fd9a3f39f555852b1fbd45c,41c446f116ec4f63db8f427893492640,4dfe5b0bb3aa5d0d8600199341d4494c,50f6d805bf288a36d14a39a8714778cb,59c88c569ea4720cb214c06055bd92b8,71b162b9ff1cdcf587d5cd285de50c50,73f162abdc1dbcbcb2167119fb957378,7cec7b7a37afd8c7d7c405fd59560b49,8a258037dc701edb3af6d75459504eb9,9fc11dd15ba47c3943184b5614382bf5,b47b1c9379e9685c3003772ae4f3de51,c4f134f3fe258236437b40aa58883680,d59d5f022d8391c5976f93d0bc3bcabf,ec4ba4866c5fe70d058b686b47392681,ef159053a0fb02e996632c3aed30fb8b,f8137c496afe243cbc48567b166022aa,ffe986ed51dbaf0a309889f3ab53e747</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">0ae0bbc4de3199eee3201274f8f07cb8,1bb823adfc809a1b59967e7b2cf2ea38,21bf20e07658407e06a1f04a8ae2d4b1,3b75e55d7fd9a3f39f555852b1fbd45c,41c446f116ec4f63db8f427893492640,4dfe5b0bb3aa5d0d8600199341d4494c,50f6d805bf288a36d14a39a8714778cb,59c88c569ea4720cb214c06055bd92b8,71b162b9ff1cdcf587d5cd285de50c50,73f162abdc1dbcbcb2167119fb957378,7cec7b7a37afd8c7d7c405fd59560b49,8a258037dc701edb3af6d75459504eb9,9fc11dd15ba47c3943184b5614382bf5,b47b1c9379e9685c3003772ae4f3de51,c4f134f3fe258236437b40aa58883680,d59d5f022d8391c5976f93d0bc3bcabf,ec4ba4866c5fe70d058b686b47392681,ef159053a0fb02e996632c3aed30fb8b,f8137c496afe243cbc48567b166022aa,ffe986ed51dbaf0a309889f3ab53e747</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">0ae0bbc4de3199eee3201274f8f07cb8,1bb823adfc809a1b59967e7b2cf2ea38,21bf20e07658407e06a1f04a8ae2d4b1,3b75e55d7fd9a3f39f555852b1fbd45c,41c446f116ec4f63db8f427893492640,4dfe5b0bb3aa5d0d8600199341d4494c,50f6d805bf288a36d14a39a8714778cb,59c88c569ea4720cb214c06055bd92b8,71b162b9ff1cdcf587d5cd285de50c50,73f162abdc1dbcbcb2167119fb957378,7cec7b7a37afd8c7d7c405fd59560b49,8a258037dc701edb3af6d75459504eb9,9fc11dd15ba47c3943184b5614382bf5,b47b1c9379e9685c3003772ae4f3de51,c4f134f3fe258236437b40aa58883680,d59d5f022d8391c5976f93d0bc3bcabf,ec4ba4866c5fe70d058b686b47392681,ef159053a0fb02e996632c3aed30fb8b,f8137c496afe243cbc48567b166022aa,ffe986ed51dbaf0a309889f3ab53e747</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;GREAT DEPRESSION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The United States was affected by the Great Depression, leading to the enactment of the legislation."</data>
+      <data key="d5">0ae0bbc4de3199eee3201274f8f07cb8</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;VIOLENT CRIME CONTROL AND LAW ENFORCEMENT ACT OF 1994&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Violent Crime Control and Law Enforcement Act of 1994 was enacted in the United States."</data>
+      <data key="d5">50f6d805bf288a36d14a39a8714778cb</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;SURFACE MINING CONTROL AND RECLAMATION ACT OF 1977&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Surface Mining Control and Reclamation Act of 1977 is a federal law that regulates coal mining in the United States."</data>
+      <data key="d5">f8137c496afe243cbc48567b166022aa</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">0ae0bbc4de3199eee3201274f8f07cb8,1bb823adfc809a1b59967e7b2cf2ea38,21bf20e07658407e06a1f04a8ae2d4b1,3b75e55d7fd9a3f39f555852b1fbd45c,41c446f116ec4f63db8f427893492640,4dfe5b0bb3aa5d0d8600199341d4494c,50f6d805bf288a36d14a39a8714778cb,59c88c569ea4720cb214c06055bd92b8,71b162b9ff1cdcf587d5cd285de50c50,73f162abdc1dbcbcb2167119fb957378,7cec7b7a37afd8c7d7c405fd59560b49,8a258037dc701edb3af6d75459504eb9,9fc11dd15ba47c3943184b5614382bf5,b47b1c9379e9685c3003772ae4f3de51,c4f134f3fe258236437b40aa58883680,d59d5f022d8391c5976f93d0bc3bcabf,ec4ba4866c5fe70d058b686b47392681,ef159053a0fb02e996632c3aed30fb8b,f8137c496afe243cbc48567b166022aa,ffe986ed51dbaf0a309889f3ab53e747</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">0ae0bbc4de3199eee3201274f8f07cb8,1bb823adfc809a1b59967e7b2cf2ea38,21bf20e07658407e06a1f04a8ae2d4b1,3b75e55d7fd9a3f39f555852b1fbd45c,41c446f116ec4f63db8f427893492640,4dfe5b0bb3aa5d0d8600199341d4494c,50f6d805bf288a36d14a39a8714778cb,59c88c569ea4720cb214c06055bd92b8,71b162b9ff1cdcf587d5cd285de50c50,73f162abdc1dbcbcb2167119fb957378,7cec7b7a37afd8c7d7c405fd59560b49,8a258037dc701edb3af6d75459504eb9,9fc11dd15ba47c3943184b5614382bf5,b47b1c9379e9685c3003772ae4f3de51,c4f134f3fe258236437b40aa58883680,d59d5f022d8391c5976f93d0bc3bcabf,ec4ba4866c5fe70d058b686b47392681,ef159053a0fb02e996632c3aed30fb8b,f8137c496afe243cbc48567b166022aa,ffe986ed51dbaf0a309889f3ab53e747</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">0ae0bbc4de3199eee3201274f8f07cb8,1bb823adfc809a1b59967e7b2cf2ea38,21bf20e07658407e06a1f04a8ae2d4b1,3b75e55d7fd9a3f39f555852b1fbd45c,41c446f116ec4f63db8f427893492640,4dfe5b0bb3aa5d0d8600199341d4494c,50f6d805bf288a36d14a39a8714778cb,59c88c569ea4720cb214c06055bd92b8,71b162b9ff1cdcf587d5cd285de50c50,73f162abdc1dbcbcb2167119fb957378,7cec7b7a37afd8c7d7c405fd59560b49,8a258037dc701edb3af6d75459504eb9,9fc11dd15ba47c3943184b5614382bf5,b47b1c9379e9685c3003772ae4f3de51,c4f134f3fe258236437b40aa58883680,d59d5f022d8391c5976f93d0bc3bcabf,ec4ba4866c5fe70d058b686b47392681,ef159053a0fb02e996632c3aed30fb8b,f8137c496afe243cbc48567b166022aa,ffe986ed51dbaf0a309889f3ab53e747</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;FUNDAMENTAL RIGHTS&quot;">
+      <data key="d3">3.0</data>
+      <data key="d4">Here is the comprehensive summary:
+
+"India, a country, guarantees Fundamental Rights to all its citizens as enshrined in the Constitution of India, ensuring they can exercise and enjoy these rights."</data>
+      <data key="d5">1bb823adfc809a1b59967e7b2cf2ea38,4dfe5b0bb3aa5d0d8600199341d4494c,7cec7b7a37afd8c7d7c405fd59560b49</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;GENEVA DECLARATION OF THE RIGHT OF CHILDREN ACT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"India was influenced by the Geneva Declaration of the Right of Children Act, leading to changes in its workforce."</data>
+      <data key="d5">ffe986ed51dbaf0a309889f3ab53e747</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;UNIVERSAL DECLARATION OF HUMAN RIGHTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"India was also influenced by the Universal Declaration of Human Rights, which incorporated basic human rights and needs of children."</data>
+      <data key="d5">ffe986ed51dbaf0a309889f3ab53e747</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;EUROPEAN EMPIRES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"European trading posts expanded into territorial control in India."</data>
+      <data key="d5">d59d5f022d8391c5976f93d0bc3bcabf</data>
+    </edge>
+    <edge source="&quot;SUPREME COURT OF INDIA&quot;" target="&quot;FUNDAMENTAL RIGHTS&quot;">
+      <data key="d3">3.0</data>
+      <data key="d4">"The Supreme Court of India is responsible for upholding and protecting the Fundamental Rights of Indian citizens."</data>
+      <data key="d5">1bb823adfc809a1b59967e7b2cf2ea38,4dfe5b0bb3aa5d0d8600199341d4494c,7cec7b7a37afd8c7d7c405fd59560b49</data>
+    </edge>
+    <edge source="&quot;INDIAN PENAL CODE&quot;" target="&quot;FUNDAMENTAL RIGHTS&quot;">
+      <data key="d3">3.0</data>
+      <data key="d4">Here is a comprehensive summary of the data:
+
+The Indian Penal Code and Fundamental Rights are closely related, as the Indian Penal Code prescribes punishments for violations of Fundamental Rights. In other words, any violation of Fundamental Rights is punishable under the Indian Penal Code.
+
+Let me know if you need anything else!</data>
+      <data key="d5">1bb823adfc809a1b59967e7b2cf2ea38,4dfe5b0bb3aa5d0d8600199341d4494c,7cec7b7a37afd8c7d7c405fd59560b49</data>
+    </edge>
+    <edge source="&quot;FUNDAMENTAL RIGHTS&quot;" target="&quot;CONSTITUTION OF INDIA&quot;">
+      <data key="d3">3.0</data>
+      <data key="d4">Here is a comprehensive summary of the data:
+
+The Constitution of India guarantees and defines the Fundamental Rights of Indian citizens, which are contained within it. These rights are an essential part of the Constitution and are ensured to all Indian citizens.
+
+Let me know if you need any further assistance!</data>
+      <data key="d5">1bb823adfc809a1b59967e7b2cf2ea38,4dfe5b0bb3aa5d0d8600199341d4494c,7cec7b7a37afd8c7d7c405fd59560b49</data>
+    </edge>
+    <edge source="&quot;PENNSYLVANIA HOUSE OF REPRESENTATIVES&quot;" target="&quot;SCOTT PETRI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Scott Petri was a member of the Pennsylvania House of Representatives."</data>
+      <data key="d5">73f162abdc1dbcbcb2167119fb957378</data>
+    </edge>
+    <edge source="&quot;HOUSE URBAN AFFAIRS COMMITTEE&quot;" target="&quot;SCOTT PETRI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Scott Petri served as Chairman of the House Urban Affairs Committee."</data>
+      <data key="d5">73f162abdc1dbcbcb2167119fb957378</data>
+    </edge>
+    <edge source="&quot;HOUSE ETHICS COMMITTEE&quot;" target="&quot;SCOTT PETRI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Scott Petri served as Chairman of the House Ethics Committee."</data>
+      <data key="d5">73f162abdc1dbcbcb2167119fb957378</data>
+    </edge>
+    <edge source="&quot;LIQUOR CONTROL COMMITTEES&quot;" target="&quot;SCOTT PETRI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Scott Petri served as a member of the Liquor Control Committees."</data>
+      <data key="d5">73f162abdc1dbcbcb2167119fb957378</data>
+    </edge>
+    <edge source="&quot;PHILADELPHIA PARKING AUTHORITY&quot;" target="&quot;SCOTT PETRI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Scott Petri currently serves as executive director of the Philadelphia Parking Authority."</data>
+      <data key="d5">73f162abdc1dbcbcb2167119fb957378</data>
+    </edge>
+    <edge source="&quot;EGYPT&quot;" target="&quot;GREECE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Greece's provinces control some of Egypt's most crucial seaports and trade routes."</data>
+      <data key="d5">59c88c569ea4720cb214c06055bd92b8</data>
+    </edge>
+    <edge source="&quot;MEDITERRANEAN&quot;" target="&quot;GREECE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Greece's location in the Mediterranean gives it control over crucial seaports and trade routes."</data>
+      <data key="d5">59c88c569ea4720cb214c06055bd92b8</data>
+    </edge>
+    <edge source="&quot;ANCIENT GREECE ECONOMY&quot;" target="&quot;GREECE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The ancient Greece economy was defined by the region's dependence on imported goods and its limited crop production, which was influenced by Greece's geography."</data>
+      <data key="d5">59c88c569ea4720cb214c06055bd92b8</data>
+    </edge>
+    <edge source="&quot;SENATE&quot;" target="&quot;NIGERIA'S HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Both legislative bodies passed the bill, with Nigeria's House of Representatives passing it first."</data>
+      <data key="d5">21bf20e07658407e06a1f04a8ae2d4b1</data>
+    </edge>
+    <edge source="&quot;SENATE&quot;" target="&quot;REPUBLICANS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Republicans gained a majority of the Senate in the 114th Congress."</data>
+      <data key="d5">9fc11dd15ba47c3943184b5614382bf5</data>
+    </edge>
+    <edge source="&quot;COMMITTEE ON CONSTITUTIONAL REVIEW&quot;" target="&quot;NIGERIA'S PARLIAMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Committee on Constitutional Review is responsible for reviewing constitutional amendments in Nigeria's Parliament."</data>
+      <data key="d5">21bf20e07658407e06a1f04a8ae2d4b1</data>
+    </edge>
+    <edge source="&quot;TARABA STATE OF ASSEMBLY&quot;" target="&quot;PASSAGE OF THE BILL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Taraba State of Assembly initially rejected the bill but later reversed its decision, contributing to the passage of the bill."</data>
+      <data key="d5">21bf20e07658407e06a1f04a8ae2d4b1</data>
+    </edge>
+    <edge source="&quot;UNITED STATES SENATE&quot;" target="&quot;THE ONE HUNDRED FOURTEENTH UNITED STATES CONGRESS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The United States Senate is part of The One Hundred Fourteenth United States Congress."</data>
+      <data key="d5">ec4ba4866c5fe70d058b686b47392681</data>
+    </edge>
+    <edge source="&quot;UNITED STATES HOUSE OF REPRESENTATIVES&quot;" target="&quot;THE ONE HUNDRED FOURTEENTH UNITED STATES CONGRESS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The United States House of Representatives is part of The One Hundred Fourteenth United States Congress."</data>
+      <data key="d5">ec4ba4866c5fe70d058b686b47392681</data>
+    </edge>
+    <edge source="&quot;BARACK OBAMA&quot;" target="&quot;THE ONE HUNDRED FOURTEENTH UNITED STATES CONGRESS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The One Hundred Fourteenth United States Congress coincided with Barack Obama's presidency."</data>
+      <data key="d5">ec4ba4866c5fe70d058b686b47392681</data>
+    </edge>
+    <edge source="&quot;WASHINGTON, D.C.&quot;" target="&quot;THE ONE HUNDRED FOURTEENTH UNITED STATES CONGRESS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The One Hundred Fourteenth United States Congress met in Washington, D.C."</data>
+      <data key="d5">ec4ba4866c5fe70d058b686b47392681</data>
+    </edge>
+    <edge source="&quot;BEGELL HOUSE&quot;" target="&quot;CRITICAL REVIEWS IN EUKARYOTIC GENE EXPRESSION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Critical Reviews in Eukaryotic Gene Expression is published by Begell House."</data>
+      <data key="d5">b47b1c9379e9685c3003772ae4f3de51</data>
+    </edge>
+    <edge source="&quot;SPEAKER OF THE HOUSE&quot;" target="&quot;CONGRESS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Speaker of the House is a member of Congress and holds a leadership position."</data>
+      <data key="d5">3b75e55d7fd9a3f39f555852b1fbd45c</data>
+    </edge>
+    <edge source="&quot;MAJORITY LEADER&quot;" target="&quot;CONGRESS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Majority Leader is a member of Congress and holds a leadership position."</data>
+      <data key="d5">3b75e55d7fd9a3f39f555852b1fbd45c</data>
+    </edge>
+    <edge source="&quot;MINORITY LEADER&quot;" target="&quot;CONGRESS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Minority Leader is a member of Congress and holds a leadership position."</data>
+      <data key="d5">3b75e55d7fd9a3f39f555852b1fbd45c</data>
+    </edge>
+    <edge source="&quot;UNITED STATES CONSTITUTION&quot;" target="&quot;CONGRESS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The United States Constitution outlines rules governing congressional salaries, which are set by Congress."</data>
+      <data key="d5">3b75e55d7fd9a3f39f555852b1fbd45c</data>
+    </edge>
+    <edge source="&quot;UNITED STATES CONSTITUTION&quot;" target="&quot;SECOND AMENDMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Second Amendment is part of the United States Constitution."</data>
+      <data key="d5">ef159053a0fb02e996632c3aed30fb8b</data>
+    </edge>
+    <edge source="&quot;UNITED STATES CONSTITUTION&quot;" target="&quot;BILL OF RIGHTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Bill of Rights is part of the United States Constitution."</data>
+      <data key="d5">ef159053a0fb02e996632c3aed30fb8b</data>
+    </edge>
+    <edge source="&quot;UNITED STATES CONSTITUTION&quot;" target="&quot;SECOND AMENDMENT (AMENDMENT II)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Second Amendment is part of the United States Constitution, specifically one of the first ten amendments contained in the Bill of Rights."</data>
+      <data key="d5">71b162b9ff1cdcf587d5cd285de50c50</data>
+    </edge>
+    <edge source="&quot;UNITED STATES CONSTITUTION&quot;" target="&quot;STATE GOVERNMENTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"State governments are bound by the limitations set forth in the United States Constitution, including the Second Amendment."</data>
+      <data key="d5">71b162b9ff1cdcf587d5cd285de50c50</data>
+    </edge>
+    <edge source="&quot;GENEVA DECLARATION OF THE RIGHT OF CHILDREN ACT&quot;" target="&quot;CHILD LABOUR (PROHIBITION AND REGULATION) ACT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Geneva Declaration of the Right of Children Act paved the way for the Child Labour (Prohibition and Regulation) Act, which prohibited child labor in hazardous conditions."</data>
+      <data key="d5">ffe986ed51dbaf0a309889f3ab53e747</data>
+    </edge>
+    <edge source="&quot;HOUSE&quot;" target="&quot;U.S. SENATE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The U.S. Senate and House are both legislative bodies that passed reform bills, which must now be reconciled."</data>
+      <data key="d5">c4f134f3fe258236437b40aa58883680</data>
+    </edge>
+    <edge source="&quot;NEW YORK TIMES&quot;" target="&quot;U.S. SENATE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The New York Times provided a summary of the features of the U.S. Senate's bill."</data>
+      <data key="d5">c4f134f3fe258236437b40aa58883680</data>
+    </edge>
+    <edge source="&quot;OBAMA ADMINISTRATION&quot;" target="&quot;VOLCKER RULE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Obama administration enumerated principles, including the Volcker Rule, which is addressed by the reform bills."</data>
+      <data key="d5">c4f134f3fe258236437b40aa58883680</data>
+    </edge>
+    <edge source="&quot;NEW DEAL&quot;" target="&quot;FRANKLIN D. ROOSEVELT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Franklin D. Roosevelt initiated the New Deal program, which included the legislation."</data>
+      <data key="d5">0ae0bbc4de3199eee3201274f8f07cb8</data>
+    </edge>
+    <edge source="&quot;NEW DEAL&quot;" target="&quot;PUBLIC WORKS ADMINISTRATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Public Works Administration is a part of the New Deal program, established by Title II of the Act."</data>
+      <data key="d5">0ae0bbc4de3199eee3201274f8f07cb8</data>
+    </edge>
+    <edge source="&quot;THE CLEAN WATER ACT (CWA)&quot;" target="&quot;COMMAND AND CONTROL POLICIES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Command and control policies are a key component of the CWA, regulating point source pollution."</data>
+      <data key="d5">8a258037dc701edb3af6d75459504eb9</data>
+    </edge>
+    <edge source="&quot;THE CLEAN WATER ACT (CWA)&quot;" target="&quot;TOTAL MAXIMUM DAILY LOADS (TMDLS)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The CWA utilizes TMDLs as a tool to regulate NPS effluent, highlighting their connection."</data>
+      <data key="d5">8a258037dc701edb3af6d75459504eb9</data>
+    </edge>
+    <edge source="&quot;THE CLEAN WATER ACT (CWA)&quot;" target="&quot;STATE GOVERNMENTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"State governments are responsible for implementing the CWA by setting TMDLs, indicating their role in environmental regulation."</data>
+      <data key="d5">8a258037dc701edb3af6d75459504eb9</data>
+    </edge>
+    <edge source="&quot;SUPREME COURT OF THE UNITED STATES&quot;" target="&quot;SECOND AMENDMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Supreme Court of the United States has ruled on the interpretation of the Second Amendment."</data>
+      <data key="d5">ef159053a0fb02e996632c3aed30fb8b</data>
+    </edge>
+    <edge source="&quot;SUPREME COURT OF THE UNITED STATES&quot;" target="&quot;BILL OF RIGHTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Supreme Court has ruled on the interpretation of the Bill of Rights, including the Second Amendment."</data>
+      <data key="d5">71b162b9ff1cdcf587d5cd285de50c50</data>
+    </edge>
+    <edge source="&quot;QING DYNASTY&quot;" target="&quot;EUROPEAN EMPIRES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Qing dynasty responded to the expansion of European empires across the world."</data>
+      <data key="d5">d59d5f022d8391c5976f93d0bc3bcabf</data>
+    </edge>
+    <edge source="&quot;BRITISH EAST INDIA COMPANY&quot;" target="&quot;DUTCH EAST INDIA COMPANY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Both companies were granted similar monopoly trading rights by their governments."</data>
+      <data key="d5">d59d5f022d8391c5976f93d0bc3bcabf</data>
+    </edge>
+    <edge source="&quot;INDONESIA&quot;" target="&quot;EUROPEAN EMPIRES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"European trading posts expanded into territorial control on the islands that are now part of Indonesia."</data>
+      <data key="d5">d59d5f022d8391c5976f93d0bc3bcabf</data>
+    </edge>
+    <edge source="&quot;VIOLENT CRIME CONTROL AND LAW ENFORCEMENT ACT OF 1994&quot;" target="&quot;THE PUBLIC SAFETY AND RECREATIONAL FIREARMS ACT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Public Safety and Recreational Firearms Act was part of the Violent Crime Control and Law Enforcement Act of 1994."</data>
+      <data key="d5">50f6d805bf288a36d14a39a8714778cb</data>
+    </edge>
+    <edge source="&quot;114TH CONGRESS&quot;" target="&quot;JANUARY 2015&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 114th Congress started in January 2015."</data>
+      <data key="d5">9fc11dd15ba47c3943184b5614382bf5</data>
+    </edge>
+    <edge source="&quot;JANUARY 2007&quot;" target="&quot;REPUBLICANS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Republicans last controlled the Senate before regaining it in 2015, with a gap since January 2007."</data>
+      <data key="d5">9fc11dd15ba47c3943184b5614382bf5</data>
+    </edge>
+  </graph>
+</graphml>

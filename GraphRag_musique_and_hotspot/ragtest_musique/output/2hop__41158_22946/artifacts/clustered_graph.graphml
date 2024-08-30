@@ -1,0 +1,1654 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="level" attr.type="long" />
+  <key id="d6" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d5" for="node" attr.name="id" attr.type="string" />
+  <key id="d4" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d3" for="node" attr.name="degree" attr.type="long" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;JOHNS HOPKINS UNIVERSITY MEN'S LACROSSE TEAM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Johns Hopkins University Men's Lacrosse team is a collegiate athletic team led by Head Coach Dave Pietramala."</data>
+      <data key="d2">fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;U.S. LACROSSE HALL OF FAME&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The U.S. Lacrosse Hall of Fame is an institution that recognizes outstanding contributions to the sport of lacrosse, with Dave Pietramala being a member."</data>
+      <data key="d2">fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;HICKSVILLE, NEW YORK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hicksville, New York is the birthplace of Dave Pietramala."</data>
+      <data key="d2">fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;ST. MARY'S HIGH SCHOOL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"St. Mary's High School is an educational institution attended by Dave Pietramala."</data>
+      <data key="d2">fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d3">1</data>
+      <data key="d4">3</data>
+      <data key="d5">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;DAVE PIETRAMALA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d3">4</data>
+      <data key="d4">4</data>
+      <data key="d5">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">01516962a9aa70301fcc1d13fb424d6d,0bf6808689d45cea92e75573c84fd640,0feb8372da9c25e152802ff3f078f4d1,16e277180231b48f3d324f7ccf4c48b3,1a26cc2cdf8a351907669aa3bf5595ed,1ded37768244326d5c3e56c11d2cdcea,1f35642afc664c53c4a16c60a16013d0,21d8f0fd51a5abddd216e983c44d6319,2618e3c3cc7650cd4f39864a9d9a09e0,4202adaddb2ad65406250ecfc19a2ad7,5c63d5d509277f20e2dd5db9802e1acf,668e6feb8e56e1a1efadd22f0556afad,71cea4797f70cd4e090186b8bc259e2e,7e3b9ee2b3adc667a373bdbe702763f1,87fdea4c5234dd8270796c6182778c15,9411a3b299fc246c30d59063e3cffac7,b58c8c2d7541abc7025699c355a27f39,c186583cfc53a709eb4ab7ecc7acf576,f1f7007aecb9e06f66e4fd6c9ecd19f2,fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">5</data>
+      <data key="d5">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">01516962a9aa70301fcc1d13fb424d6d,0bf6808689d45cea92e75573c84fd640,0feb8372da9c25e152802ff3f078f4d1,16e277180231b48f3d324f7ccf4c48b3,1a26cc2cdf8a351907669aa3bf5595ed,1ded37768244326d5c3e56c11d2cdcea,1f35642afc664c53c4a16c60a16013d0,21d8f0fd51a5abddd216e983c44d6319,2618e3c3cc7650cd4f39864a9d9a09e0,4202adaddb2ad65406250ecfc19a2ad7,5c63d5d509277f20e2dd5db9802e1acf,668e6feb8e56e1a1efadd22f0556afad,71cea4797f70cd4e090186b8bc259e2e,7e3b9ee2b3adc667a373bdbe702763f1,87fdea4c5234dd8270796c6182778c15,9411a3b299fc246c30d59063e3cffac7,b58c8c2d7541abc7025699c355a27f39,c186583cfc53a709eb4ab7ecc7acf576,f1f7007aecb9e06f66e4fd6c9ecd19f2,fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">6</data>
+      <data key="d5">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">01516962a9aa70301fcc1d13fb424d6d,0bf6808689d45cea92e75573c84fd640,0feb8372da9c25e152802ff3f078f4d1,16e277180231b48f3d324f7ccf4c48b3,1a26cc2cdf8a351907669aa3bf5595ed,1ded37768244326d5c3e56c11d2cdcea,1f35642afc664c53c4a16c60a16013d0,21d8f0fd51a5abddd216e983c44d6319,2618e3c3cc7650cd4f39864a9d9a09e0,4202adaddb2ad65406250ecfc19a2ad7,5c63d5d509277f20e2dd5db9802e1acf,668e6feb8e56e1a1efadd22f0556afad,71cea4797f70cd4e090186b8bc259e2e,7e3b9ee2b3adc667a373bdbe702763f1,87fdea4c5234dd8270796c6182778c15,9411a3b299fc246c30d59063e3cffac7,b58c8c2d7541abc7025699c355a27f39,c186583cfc53a709eb4ab7ecc7acf576,f1f7007aecb9e06f66e4fd6c9ecd19f2,fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">4</data>
+      <data key="d4">7</data>
+      <data key="d5">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">01516962a9aa70301fcc1d13fb424d6d,0bf6808689d45cea92e75573c84fd640,0feb8372da9c25e152802ff3f078f4d1,16e277180231b48f3d324f7ccf4c48b3,1a26cc2cdf8a351907669aa3bf5595ed,1ded37768244326d5c3e56c11d2cdcea,1f35642afc664c53c4a16c60a16013d0,21d8f0fd51a5abddd216e983c44d6319,2618e3c3cc7650cd4f39864a9d9a09e0,4202adaddb2ad65406250ecfc19a2ad7,5c63d5d509277f20e2dd5db9802e1acf,668e6feb8e56e1a1efadd22f0556afad,71cea4797f70cd4e090186b8bc259e2e,7e3b9ee2b3adc667a373bdbe702763f1,87fdea4c5234dd8270796c6182778c15,9411a3b299fc246c30d59063e3cffac7,b58c8c2d7541abc7025699c355a27f39,c186583cfc53a709eb4ab7ecc7acf576,f1f7007aecb9e06f66e4fd6c9ecd19f2,fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">8</data>
+      <data key="d5">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country where "bless you" or, less commonly, "Gesundheit" are used as verbal responses to sneezing. Additionally, it is a country where Tucson, Pima County, and Arizona are located. Furthermore, the Enoch Arden law is applicable in this country.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">01516962a9aa70301fcc1d13fb424d6d,0bf6808689d45cea92e75573c84fd640,0feb8372da9c25e152802ff3f078f4d1,16e277180231b48f3d324f7ccf4c48b3,1a26cc2cdf8a351907669aa3bf5595ed,1ded37768244326d5c3e56c11d2cdcea,1f35642afc664c53c4a16c60a16013d0,21d8f0fd51a5abddd216e983c44d6319,2618e3c3cc7650cd4f39864a9d9a09e0,4202adaddb2ad65406250ecfc19a2ad7,5c63d5d509277f20e2dd5db9802e1acf,668e6feb8e56e1a1efadd22f0556afad,71cea4797f70cd4e090186b8bc259e2e,7e3b9ee2b3adc667a373bdbe702763f1,87fdea4c5234dd8270796c6182778c15,9411a3b299fc246c30d59063e3cffac7,b58c8c2d7541abc7025699c355a27f39,c186583cfc53a709eb4ab7ecc7acf576,f1f7007aecb9e06f66e4fd6c9ecd19f2,fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">3</data>
+      <data key="d4">9</data>
+      <data key="d5">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">01516962a9aa70301fcc1d13fb424d6d,0bf6808689d45cea92e75573c84fd640,0feb8372da9c25e152802ff3f078f4d1,16e277180231b48f3d324f7ccf4c48b3,1a26cc2cdf8a351907669aa3bf5595ed,1ded37768244326d5c3e56c11d2cdcea,1f35642afc664c53c4a16c60a16013d0,21d8f0fd51a5abddd216e983c44d6319,2618e3c3cc7650cd4f39864a9d9a09e0,4202adaddb2ad65406250ecfc19a2ad7,5c63d5d509277f20e2dd5db9802e1acf,668e6feb8e56e1a1efadd22f0556afad,71cea4797f70cd4e090186b8bc259e2e,7e3b9ee2b3adc667a373bdbe702763f1,87fdea4c5234dd8270796c6182778c15,9411a3b299fc246c30d59063e3cffac7,b58c8c2d7541abc7025699c355a27f39,c186583cfc53a709eb4ab7ecc7acf576,f1f7007aecb9e06f66e4fd6c9ecd19f2,fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d6">3</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">10</data>
+      <data key="d5">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">01516962a9aa70301fcc1d13fb424d6d,0bf6808689d45cea92e75573c84fd640,0feb8372da9c25e152802ff3f078f4d1,16e277180231b48f3d324f7ccf4c48b3,1a26cc2cdf8a351907669aa3bf5595ed,1ded37768244326d5c3e56c11d2cdcea,1f35642afc664c53c4a16c60a16013d0,21d8f0fd51a5abddd216e983c44d6319,2618e3c3cc7650cd4f39864a9d9a09e0,4202adaddb2ad65406250ecfc19a2ad7,5c63d5d509277f20e2dd5db9802e1acf,668e6feb8e56e1a1efadd22f0556afad,71cea4797f70cd4e090186b8bc259e2e,7e3b9ee2b3adc667a373bdbe702763f1,87fdea4c5234dd8270796c6182778c15,9411a3b299fc246c30d59063e3cffac7,b58c8c2d7541abc7025699c355a27f39,c186583cfc53a709eb4ab7ecc7acf576,f1f7007aecb9e06f66e4fd6c9ecd19f2,fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">11</data>
+      <data key="d5">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">01516962a9aa70301fcc1d13fb424d6d,0bf6808689d45cea92e75573c84fd640,0feb8372da9c25e152802ff3f078f4d1,16e277180231b48f3d324f7ccf4c48b3,1a26cc2cdf8a351907669aa3bf5595ed,1ded37768244326d5c3e56c11d2cdcea,1f35642afc664c53c4a16c60a16013d0,21d8f0fd51a5abddd216e983c44d6319,2618e3c3cc7650cd4f39864a9d9a09e0,4202adaddb2ad65406250ecfc19a2ad7,5c63d5d509277f20e2dd5db9802e1acf,668e6feb8e56e1a1efadd22f0556afad,71cea4797f70cd4e090186b8bc259e2e,7e3b9ee2b3adc667a373bdbe702763f1,87fdea4c5234dd8270796c6182778c15,9411a3b299fc246c30d59063e3cffac7,b58c8c2d7541abc7025699c355a27f39,c186583cfc53a709eb4ab7ecc7acf576,f1f7007aecb9e06f66e4fd6c9ecd19f2,fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d6">3</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">12</data>
+      <data key="d5">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">01516962a9aa70301fcc1d13fb424d6d,0bf6808689d45cea92e75573c84fd640,0feb8372da9c25e152802ff3f078f4d1,16e277180231b48f3d324f7ccf4c48b3,1a26cc2cdf8a351907669aa3bf5595ed,1ded37768244326d5c3e56c11d2cdcea,1f35642afc664c53c4a16c60a16013d0,21d8f0fd51a5abddd216e983c44d6319,2618e3c3cc7650cd4f39864a9d9a09e0,4202adaddb2ad65406250ecfc19a2ad7,5c63d5d509277f20e2dd5db9802e1acf,668e6feb8e56e1a1efadd22f0556afad,71cea4797f70cd4e090186b8bc259e2e,7e3b9ee2b3adc667a373bdbe702763f1,87fdea4c5234dd8270796c6182778c15,9411a3b299fc246c30d59063e3cffac7,b58c8c2d7541abc7025699c355a27f39,c186583cfc53a709eb4ab7ecc7acf576,f1f7007aecb9e06f66e4fd6c9ecd19f2,fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d3">0</data>
+      <data key="d4">13</data>
+      <data key="d5">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">01516962a9aa70301fcc1d13fb424d6d,0bf6808689d45cea92e75573c84fd640,0feb8372da9c25e152802ff3f078f4d1,16e277180231b48f3d324f7ccf4c48b3,1a26cc2cdf8a351907669aa3bf5595ed,1ded37768244326d5c3e56c11d2cdcea,1f35642afc664c53c4a16c60a16013d0,21d8f0fd51a5abddd216e983c44d6319,2618e3c3cc7650cd4f39864a9d9a09e0,4202adaddb2ad65406250ecfc19a2ad7,5c63d5d509277f20e2dd5db9802e1acf,668e6feb8e56e1a1efadd22f0556afad,71cea4797f70cd4e090186b8bc259e2e,7e3b9ee2b3adc667a373bdbe702763f1,87fdea4c5234dd8270796c6182778c15,9411a3b299fc246c30d59063e3cffac7,b58c8c2d7541abc7025699c355a27f39,c186583cfc53a709eb4ab7ecc7acf576,f1f7007aecb9e06f66e4fd6c9ecd19f2,fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">5</data>
+      <data key="d4">14</data>
+      <data key="d5">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Canada is a country where 'bless you' or, less commonly, 'Gesundheit' are used as verbal responses to sneezing."</data>
+      <data key="d2">9411a3b299fc246c30d59063e3cffac7</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">15</data>
+      <data key="d5">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;GERMAN-SPEAKING COUNTRIES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"German-speaking countries refer to nations where German is the primary language spoken and 'Gesundheit' is used as a response to sneezing."</data>
+      <data key="d2">9411a3b299fc246c30d59063e3cffac7</data>
+      <data key="d3">1</data>
+      <data key="d4">16</data>
+      <data key="d5">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;BLESS YOU&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"'Bless you' is a common verbal response to another person's sneeze in English-speaking countries."</data>
+      <data key="d2">9411a3b299fc246c30d59063e3cffac7</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">3</data>
+      <data key="d4">17</data>
+      <data key="d5">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;ENGLISH-SPEAKING COUNTRIES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9411a3b299fc246c30d59063e3cffac7</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">18</data>
+      <data key="d5">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;GESUNDHEIT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9411a3b299fc246c30d59063e3cffac7</data>
+      <data key="d3">1</data>
+      <data key="d4">19</data>
+      <data key="d5">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;IBN S&#298;N&#256;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ibn S&#299;n&#257; was a leading writer in the field of medicine, considered one of the greatest thinkers and medical scholars in history."</data>
+      <data key="d2">5c63d5d509277f20e2dd5db9802e1acf</data>
+      <data key="d3">4</data>
+      <data key="d4">20</data>
+      <data key="d5">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;RHAZES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Rhazes is an important compiler of early Muslim medicine, mentioned alongside Ibn S&#299;n&#257;."</data>
+      <data key="d2">5c63d5d509277f20e2dd5db9802e1acf</data>
+      <data key="d3">0</data>
+      <data key="d4">21</data>
+      <data key="d5">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;ABULCASIS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Abulcasis is an important compiler of early Muslim medicine, mentioned alongside Ibn S&#299;n&#257;."</data>
+      <data key="d2">5c63d5d509277f20e2dd5db9802e1acf</data>
+      <data key="d3">0</data>
+      <data key="d4">22</data>
+      <data key="d5">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;IBN AL-NAFIS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ibn al-Nafis is an important compiler of early Muslim medicine, mentioned alongside Ibn S&#299;n&#257;."</data>
+      <data key="d2">5c63d5d509277f20e2dd5db9802e1acf</data>
+      <data key="d3">0</data>
+      <data key="d4">23</data>
+      <data key="d5">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;AL-IBADI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"al-Ibadi is an important compiler of early Muslim medicine, mentioned alongside Ibn S&#299;n&#257;."</data>
+      <data key="d2">5c63d5d509277f20e2dd5db9802e1acf</data>
+      <data key="d3">0</data>
+      <data key="d4">24</data>
+      <data key="d5">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;GALEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Galen was a physician whose views on medical matters were compared to Aristotle's by Ibn S&#299;n&#257;."</data>
+      <data key="d2">5c63d5d509277f20e2dd5db9802e1acf</data>
+      <data key="d3">1</data>
+      <data key="d4">25</data>
+      <data key="d5">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;ARISTOTLE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Aristotle was a philosopher whose views on medical matters were preferred by Ibn S&#299;n&#257; over Galen's."</data>
+      <data key="d2">5c63d5d509277f20e2dd5db9802e1acf</data>
+      <data key="d3">1</data>
+      <data key="d4">26</data>
+      <data key="d5">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;HIPPOCRATES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hippocrates was a physician who, alongside Galen and Ibn S&#299;n&#257;, was considered an acknowledged authority in medieval Europe."</data>
+      <data key="d2">5c63d5d509277f20e2dd5db9802e1acf</data>
+      <data key="d3">0</data>
+      <data key="d4">27</data>
+      <data key="d5">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;THE CANON OF MEDICINE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Canon of Medicine is a medical text written by Ibn S&#299;n&#257; that significantly increased his importance in medieval Europe."</data>
+      <data key="d2">5c63d5d509277f20e2dd5db9802e1acf</data>
+      <data key="d3">1</data>
+      <data key="d4">28</data>
+      <data key="d5">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;GEORGE SARTON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5c63d5d509277f20e2dd5db9802e1acf</data>
+      <data key="d3">1</data>
+      <data key="d4">29</data>
+      <data key="d5">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;ENOCH ARDEN LAW&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b58c8c2d7541abc7025699c355a27f39</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">30</data>
+      <data key="d5">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;WOLAK PEAK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Wolak Peak is a geographic feature located in the Asgard Range of Victoria Land, Antarctica."</data>
+      <data key="d2">4202adaddb2ad65406250ecfc19a2ad7</data>
+      <data key="d3">0</data>
+      <data key="d4">31</data>
+      <data key="d5">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&quot;UTGARD PEAK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Utgard Peak is a geographic feature located in the Asgard Range of Victoria Land, Antarctica."</data>
+      <data key="d2">4202adaddb2ad65406250ecfc19a2ad7</data>
+      <data key="d3">0</data>
+      <data key="d4">32</data>
+      <data key="d5">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&quot;SAINT PAULS MOUNTAIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Saint Pauls Mountain stands at the head of Jotunheim Valley in the Asgard Range of Victoria Land, Antarctica."</data>
+      <data key="d2">4202adaddb2ad65406250ecfc19a2ad7</data>
+      <data key="d3">0</data>
+      <data key="d4">33</data>
+      <data key="d5">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&quot;G.G.C. CLARIDGE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"G.G.C. Claridge is a soil scientist with the DSIR, New Zealand, who proposed the name for Jotunheim Valley."</data>
+      <data key="d2">4202adaddb2ad65406250ecfc19a2ad7</data>
+      <data key="d3">2</data>
+      <data key="d4">34</data>
+      <data key="d5">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&quot;NEW ZEALAND ANTARCTIC PLACE-NAMES COMMITTEE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The New Zealand Antarctic Place-Names Committee named Jotunheim Valley in 1982."</data>
+      <data key="d2">4202adaddb2ad65406250ecfc19a2ad7</data>
+      <data key="d3">1</data>
+      <data key="d4">35</data>
+      <data key="d5">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&quot;DSIR, NEW ZEALAND&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"DSIR, New Zealand is an organization that employs G.G.C. Claridge, a soil scientist who proposed the name for Jotunheim Valley."</data>
+      <data key="d2">4202adaddb2ad65406250ecfc19a2ad7</data>
+      <data key="d3">1</data>
+      <data key="d4">36</data>
+      <data key="d5">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&quot;JOTUNHEIM VALLEY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4202adaddb2ad65406250ecfc19a2ad7</data>
+      <data key="d3">1</data>
+      <data key="d4">37</data>
+      <data key="d5">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&quot;ASGARD RANGE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4202adaddb2ad65406250ecfc19a2ad7</data>
+      <data key="d3">1</data>
+      <data key="d4">38</data>
+      <data key="d5">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&quot;GEORGIA TECH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Georgia Tech is an educational institution where Reginald DesRoches works as a professor."</data>
+      <data key="d2">71cea4797f70cd4e090186b8bc259e2e</data>
+      <data key="d3">1</data>
+      <data key="d4">39</data>
+      <data key="d5">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <node id="&quot;CHINA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+China is a country that has a significant history of geological events, including experiencing the devastating 1976 Tangshan earthquake. In response to this disaster, China later developed an adequate seismic design code to mitigate the impact of future earthquakes. Additionally, China is also a region where notable scientific contributions have been made, such as Shen Kuo's hypothesis on land formation based on fossil observations in a geological stratum, demonstrating the country's rich history of scientific inquiry and discovery.</data>
+      <data key="d2">2618e3c3cc7650cd4f39864a9d9a09e0,71cea4797f70cd4e090186b8bc259e2e</data>
+      <data key="d3">1</data>
+      <data key="d4">40</data>
+      <data key="d5">3ce7c210a21b4deebad7cc9308148d86</data>
+    </node>
+    <node id="&quot;TANGSHAN EARTHQUAKE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 1976 Tangshan earthquake was a devastating event that led China to create an adequate seismic design code."</data>
+      <data key="d2">71cea4797f70cd4e090186b8bc259e2e</data>
+      <data key="d3">2</data>
+      <data key="d4">41</data>
+      <data key="d5">d64ed762ea924caa95c8d06f072a9a96</data>
+    </node>
+    <node id="&quot;REGINALD DESROCHES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">71cea4797f70cd4e090186b8bc259e2e</data>
+      <data key="d3">2</data>
+      <data key="d4">42</data>
+      <data key="d5">adf4ee3fbe9b4d0381044838c4f889c8</data>
+    </node>
+    <node id="&quot;HARIDWAR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Haridwar is a holy city in the Uttarakhand state of India where the Chandi Devi Temple is situated."</data>
+      <data key="d2">01516962a9aa70301fcc1d13fb424d6d</data>
+      <data key="d3">1</data>
+      <data key="d4">43</data>
+      <data key="d5">32ee140946e5461f9275db664dc541a5</data>
+    </node>
+    <node id="&quot;UTTARAKHAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Uttarakhand is a state in India where Haridwar and the Chandi Devi Temple are located."</data>
+      <data key="d2">01516962a9aa70301fcc1d13fb424d6d</data>
+      <data key="d3">0</data>
+      <data key="d4">44</data>
+      <data key="d5">c160b9cb27d6408ba6ab20214a2f3f81</data>
+    </node>
+    <node id="&quot;INDIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+India is a country where the Uttarakhand state and Haridwar city are located, with the Chandi Devi Temple situated within. Additionally, India's geology has been studied by Abu al-Rayhan al-Biruni, who hypothesized that it was once a sea.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">01516962a9aa70301fcc1d13fb424d6d,2618e3c3cc7650cd4f39864a9d9a09e0</data>
+      <data key="d3">0</data>
+      <data key="d4">45</data>
+      <data key="d5">23527cd679ff4d5a988d52e7cd056078</data>
+    </node>
+    <node id="&quot;SUCHAT SINGH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Suchat Singh was the King of Kashmir who built the Chandi Devi Temple in 1929."</data>
+      <data key="d2">01516962a9aa70301fcc1d13fb424d6d</data>
+      <data key="d3">1</data>
+      <data key="d4">46</data>
+      <data key="d5">f1c6eed066f24cbdb376b910fce29ed4</data>
+    </node>
+    <node id="&quot;ADI SHANKARACHARYA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Adi Shankaracharya was a great priest of Hindu religion who installed the main murti of Chandi Devi at the temple in the 8th century."</data>
+      <data key="d2">01516962a9aa70301fcc1d13fb424d6d</data>
+      <data key="d3">1</data>
+      <data key="d4">47</data>
+      <data key="d5">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+    </node>
+    <node id="&quot;CHANDI DEVI TEMPLE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">01516962a9aa70301fcc1d13fb424d6d</data>
+      <data key="d3">3</data>
+      <data key="d4">48</data>
+      <data key="d5">147c038aef3e4422acbbc5f7938c4ab8</data>
+    </node>
+    <node id="&quot;ALEXANDER MCCAULEY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alexander McCauley was a settler who arrived on the mountain in 1774 and has it named after him."</data>
+      <data key="d2">87fdea4c5234dd8270796c6182778c15</data>
+      <data key="d3">1</data>
+      <data key="d4">49</data>
+      <data key="d5">b7702b90c7f24190b864e8c6e64612a5</data>
+    </node>
+    <node id="&quot;COLUMBIA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Columbia County is a location in Pennsylvania where McCauley Mountain is situated."</data>
+      <data key="d2">87fdea4c5234dd8270796c6182778c15</data>
+      <data key="d3">1</data>
+      <data key="d4">50</data>
+      <data key="d5">de6fa24480894518ab3cbcb66f739266</data>
+    </node>
+    <node id="&quot;PENNSYLVANIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pennsylvania is a state in the United States where McCauley Mountain is located."</data>
+      <data key="d2">87fdea4c5234dd8270796c6182778c15</data>
+      <data key="d3">0</data>
+      <data key="d4">51</data>
+      <data key="d5">6fae5ee1a831468aa585a1ea09095998</data>
+    </node>
+    <node id="&quot;MAUCH CHUNK FORMATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Mauch Chunk Formation is a geological event that formed rock formations on and near McCauley Mountain."</data>
+      <data key="d2">87fdea4c5234dd8270796c6182778c15</data>
+      <data key="d3">1</data>
+      <data key="d4">52</data>
+      <data key="d5">ef32c4b208d041cc856f6837915dc1b0</data>
+    </node>
+    <node id="&quot;POTTSVILLE FORMATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Pottsville Formation is a geological event that formed rock formations on and near McCauley Mountain."</data>
+      <data key="d2">87fdea4c5234dd8270796c6182778c15</data>
+      <data key="d3">0</data>
+      <data key="d4">53</data>
+      <data key="d5">07b2425216bd4f0aa4e079827cb48ef5</data>
+    </node>
+    <node id="&quot;MCCAULEY MOUNTAIN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">87fdea4c5234dd8270796c6182778c15</data>
+      <data key="d3">3</data>
+      <data key="d4">54</data>
+      <data key="d5">2670deebfa3f4d69bb82c28ab250a209</data>
+    </node>
+    <node id="&quot;GENG QINGGUO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Geng Qingguo is a former researcher at the China Seismological Bureau who claimed to have sent a report warning about a possible earthquake in Sichuan."</data>
+      <data key="d2">21d8f0fd51a5abddd216e983c44d6319</data>
+      <data key="d3">2</data>
+      <data key="d4">55</data>
+      <data key="d5">404309e89a5241d6bff42c05a45df206</data>
+    </node>
+    <node id="&quot;CHINA SEISMOLOGICAL BUREAU&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The China Seismological Bureau is an organization that received a report from Geng Qingguo warning about a possible earthquake in Sichuan."</data>
+      <data key="d2">21d8f0fd51a5abddd216e983c44d6319</data>
+      <data key="d3">2</data>
+      <data key="d4">56</data>
+      <data key="d5">b785a9025069417f94950ad231bb1441</data>
+    </node>
+    <node id="&quot;STATE SEISMOLOGICAL BUREAU&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The State Seismological Bureau is an organization that received a confidential written report from Geng Qingguo."</data>
+      <data key="d2">21d8f0fd51a5abddd216e983c44d6319</data>
+      <data key="d3">1</data>
+      <data key="d4">57</data>
+      <data key="d5">3b6cd96a27304614850709aba1c9598b</data>
+    </node>
+    <node id="&quot;NGAWA PREFECTURE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ngawa Prefecture is a region in Sichuan where a significant earthquake was predicted to occur around May 8, 2008."</data>
+      <data key="d2">21d8f0fd51a5abddd216e983c44d6319</data>
+      <data key="d3">0</data>
+      <data key="d4">58</data>
+      <data key="d5">d54956b79dd147f894b67a8b97dcbef0</data>
+    </node>
+    <node id="&quot;SICHUAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Sichuan is a province in China where a significant earthquake was predicted to occur around May 8, 2008."</data>
+      <data key="d2">21d8f0fd51a5abddd216e983c44d6319</data>
+      <data key="d3">0</data>
+      <data key="d4">59</data>
+      <data key="d5">958beecdb5bb4060948415ffd75d2b03</data>
+    </node>
+    <node id="&quot;ZHOU ENLAI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Zhou Enlai is a Premier who reportedly took an interest in Geng Qingguo's work on drought-earthquake correlation theory."</data>
+      <data key="d2">21d8f0fd51a5abddd216e983c44d6319</data>
+      <data key="d3">0</data>
+      <data key="d4">60</data>
+      <data key="d5">b999ed77e19e4f85b7f1ae79af5c002a</data>
+    </node>
+    <node id="&quot;YAZHOU ZHOUKAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">21d8f0fd51a5abddd216e983c44d6319</data>
+      <data key="d3">1</data>
+      <data key="d4">61</data>
+      <data key="d5">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+    </node>
+    <node id="&quot;AOL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"AOL was involved in conducting the competition for 'The Greatest American' series."</data>
+      <data key="d2">7e3b9ee2b3adc667a373bdbe702763f1</data>
+      <data key="d3">1</data>
+      <data key="d4">62</data>
+      <data key="d5">4f3c97517f794ebfb49c4c6315f9cf23</data>
+    </node>
+    <node id="&quot;DISCOVERY CHANNEL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Discovery Channel was a partner in conducting the competition for 'The Greatest American' series."</data>
+      <data key="d2">7e3b9ee2b3adc667a373bdbe702763f1</data>
+      <data key="d3">1</data>
+      <data key="d4">63</data>
+      <data key="d5">1745a2485a9443bab76587ad650e9be0</data>
+    </node>
+    <node id="&quot;BBC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The BBC reported on the competition for 'The Greatest American' series."</data>
+      <data key="d2">7e3b9ee2b3adc667a373bdbe702763f1</data>
+      <data key="d3">1</data>
+      <data key="d4">64</data>
+      <data key="d5">32e6ccab20d94029811127dbbe424c64</data>
+    </node>
+    <node id="&quot;THE GREATEST AMERICAN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Greatest American was a four-part television series that aired in 2005, featuring biographies and lists of influential persons in U.S. history."</data>
+      <data key="d2">7e3b9ee2b3adc667a373bdbe702763f1</data>
+      <data key="d3">4</data>
+      <data key="d4">65</data>
+      <data key="d5">94a964c6992945ebb3833dfdfdc8d655</data>
+    </node>
+    <node id="&quot;MATT LAUER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7e3b9ee2b3adc667a373bdbe702763f1</data>
+      <data key="d3">1</data>
+      <data key="d4">66</data>
+      <data key="d5">1eb829d0ace042089f0746f78729696c</data>
+    </node>
+    <node id="&quot;JESUS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jesus is a person who was crucified at Calvary, a significant event in Christian history."</data>
+      <data key="d2">16e277180231b48f3d324f7ccf4c48b3</data>
+      <data key="d3">1</data>
+      <data key="d4">67</data>
+      <data key="d5">015e7b58d1a14b44beab3bbc9f912c18</data>
+    </node>
+    <node id="&quot;VULGATE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Vulgate is an organization responsible for translating the Bible, specifically providing the Latin translation of 'place of a skull' as calvaria."</data>
+      <data key="d2">16e277180231b48f3d324f7ccf4c48b3</data>
+      <data key="d3">1</data>
+      <data key="d4">68</data>
+      <data key="d5">26f88ab3e2e04c33a459ad6270ade565</data>
+    </node>
+    <node id="&quot;G&#219;LGALT&#194;&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"G&#251;lgalt&#226; is the Aramaic name for the place where Jesus was crucified, later translated to Calvary."</data>
+      <data key="d2">16e277180231b48f3d324f7ccf4c48b3</data>
+      <data key="d3">2</data>
+      <data key="d4">69</data>
+      <data key="d5">babe97e1d9784cffa1c85abc1e588126</data>
+    </node>
+    <node id="&quot;CALVARY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">16e277180231b48f3d324f7ccf4c48b3</data>
+      <data key="d3">2</data>
+      <data key="d4">70</data>
+      <data key="d5">1033a18c45aa4584b2aef6ab96890351</data>
+    </node>
+    <node id="&quot;ABU AL-RAYHAN AL-BIRUNI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Abu al-Rayhan al-Biruni was one of the earliest Persian geologists, who wrote about the geology of India and hypothesized that it was once a sea."</data>
+      <data key="d2">2618e3c3cc7650cd4f39864a9d9a09e0</data>
+      <data key="d3">1</data>
+      <data key="d4">71</data>
+      <data key="d5">c9b8ce91fc2945b4907fe35519339cac</data>
+    </node>
+    <node id="&quot;IBN SINA (AVICENNA)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ibn Sina (Avicenna) was a Persian scholar who proposed detailed explanations for geological phenomena such as mountain formation, earthquakes, and others."</data>
+      <data key="d2">2618e3c3cc7650cd4f39864a9d9a09e0</data>
+      <data key="d3">1</data>
+      <data key="d4">72</data>
+      <data key="d5">fa3c4204421c48609e52c8de2da4c654</data>
+    </node>
+    <node id="&quot;SHEN KUO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Shen Kuo was a Chinese polymath who formulated a hypothesis on land formation based on fossil observations in a geological stratum."</data>
+      <data key="d2">2618e3c3cc7650cd4f39864a9d9a09e0</data>
+      <data key="d3">1</data>
+      <data key="d4">73</data>
+      <data key="d5">53af055f068244d0ac861b2e89376495</data>
+    </node>
+    <node id="&quot;PERSIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Persia is a region where the science of geology originated, according to some modern scholars."</data>
+      <data key="d2">2618e3c3cc7650cd4f39864a9d9a09e0</data>
+      <data key="d3">0</data>
+      <data key="d4">74</data>
+      <data key="d5">c03ab3ce8cb74ad2a03b94723bfab3c7</data>
+    </node>
+    <node id="&quot;FIELDING H. GARRISON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2618e3c3cc7650cd4f39864a9d9a09e0</data>
+      <data key="d3">1</data>
+      <data key="d4">75</data>
+      <data key="d5">ed6d2eee9d7b4f5db466b1f6404d31cc</data>
+    </node>
+    <node id="&quot;GEOLOGY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2618e3c3cc7650cd4f39864a9d9a09e0</data>
+      <data key="d3">1</data>
+      <data key="d4">76</data>
+      <data key="d5">fc01e9baa80e417c9206f941bb279407</data>
+    </node>
+    <node id="&quot;GEOLOGY OF INDIA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2618e3c3cc7650cd4f39864a9d9a09e0</data>
+      <data key="d3">1</data>
+      <data key="d4">77</data>
+      <data key="d5">56d0e5ebe79e4814bd1463cf6ca21394</data>
+    </node>
+    <node id="&quot;MODERN GEOLOGY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2618e3c3cc7650cd4f39864a9d9a09e0</data>
+      <data key="d3">1</data>
+      <data key="d4">78</data>
+      <data key="d5">7c49f2710e8b4d3b8dc9310834406ea5</data>
+    </node>
+    <node id="&quot;LAND FORMATION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2618e3c3cc7650cd4f39864a9d9a09e0</data>
+      <data key="d3">1</data>
+      <data key="d4">79</data>
+      <data key="d5">c6d1e4f56c2843e89cf0b91c10bb6de2</data>
+    </node>
+    <node id="&quot;SOLAR SYSTEM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Solar System is a planetary system that formed from nebulous material according to the nebular hypothesis."</data>
+      <data key="d2">c186583cfc53a709eb4ab7ecc7acf576</data>
+      <data key="d3">1</data>
+      <data key="d4">80</data>
+      <data key="d5">0adb2d9941f34ef7b2f7743cc6225844</data>
+    </node>
+    <node id="&quot;UNIVERSAL NATURAL HISTORY AND THEORY OF THE HEAVENS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Universal Natural History and Theory of the Heavens is a publication by Immanuel Kant in 1755, presenting his theory on the formation of the Solar System."</data>
+      <data key="d2">c186583cfc53a709eb4ab7ecc7acf576</data>
+      <data key="d3">1</data>
+      <data key="d4">81</data>
+      <data key="d5">6b02373137fd438ba96af28f735cdbdb</data>
+    </node>
+    <node id="&quot;NEBULAR HYPOTHESIS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The Nebular Hypothesis is a widely accepted model explaining the formation and evolution of planetary systems, including the Solar System."</data>
+      <data key="d2">c186583cfc53a709eb4ab7ecc7acf576</data>
+      <data key="d3">2</data>
+      <data key="d4">82</data>
+      <data key="d5">36a4fcd8efc144e6b8af9a1c7ab8b2ce</data>
+    </node>
+    <node id="&quot;SOLAR NEBULAR DISK MODEL (SNDM)&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The Solar Nebular Disk Model (SNDM) is a modern variant of the nebular hypothesis, offering explanations for properties of the Solar System."</data>
+      <data key="d2">c186583cfc53a709eb4ab7ecc7acf576</data>
+      <data key="d3">0</data>
+      <data key="d4">83</data>
+      <data key="d5">fbeef791d19b413a9c93c6608286ab63</data>
+    </node>
+    <node id="&quot;IMMANUEL KANT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c186583cfc53a709eb4ab7ecc7acf576</data>
+      <data key="d3">2</data>
+      <data key="d4">84</data>
+      <data key="d5">d2b629c0396f4180a03e16ddf3818589</data>
+    </node>
+    <node id="&quot;RAYMOND L. ELLIOTT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Raymond L. Elliott was a geologist with the United States Geological Survey Thiel Mountains party that surveyed the Thiel Mountains in 1960&#8211;61."</data>
+      <data key="d2">0feb8372da9c25e152802ff3f078f4d1</data>
+      <data key="d3">2</data>
+      <data key="d4">85</data>
+      <data key="d5">6102fc6619ed422ebc42588bfa97355d</data>
+    </node>
+    <node id="&quot;UNITED STATES GEOLOGICAL SURVEY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The United States Geological Survey is an organization that conducted a survey of the Thiel Mountains in 1960&#8211;61."</data>
+      <data key="d2">0feb8372da9c25e152802ff3f078f4d1</data>
+      <data key="d3">1</data>
+      <data key="d4">86</data>
+      <data key="d5">8d141c0b80f74b79a05eed7fe161fe49</data>
+    </node>
+    <node id="&quot;THIEL MOUNTAINS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Thiel Mountains are a mountain range in Antarctica where Elliott Nunatak is located."</data>
+      <data key="d2">0feb8372da9c25e152802ff3f078f4d1</data>
+      <data key="d3">1</data>
+      <data key="d4">87</data>
+      <data key="d5">e22d1d1cd8d14f12b81828d940f40d70</data>
+    </node>
+    <node id="&quot;ANTARCTICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Antarctica is a continent where the Thiel Mountains and Elliott Nunatak are located."</data>
+      <data key="d2">0feb8372da9c25e152802ff3f078f4d1</data>
+      <data key="d3">0</data>
+      <data key="d4">88</data>
+      <data key="d5">9ab48505fb1b487babd0d1f6d3a3f980</data>
+    </node>
+    <node id="&quot;BERMEL ESCARPMENT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Bermel Escarpment is a geographical feature in Antarctica where Elliott Nunatak is located."</data>
+      <data key="d2">0feb8372da9c25e152802ff3f078f4d1</data>
+      <data key="d3">0</data>
+      <data key="d4">89</data>
+      <data key="d5">148fffeb994541b2b4b6dcefda7001a8</data>
+    </node>
+    <node id="&quot;PETER BERMEL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Peter Bermel was a co-leader of the United States Geological Survey Thiel Mountains party that surveyed the Thiel Mountains in 1960&#8211;61."</data>
+      <data key="d2">0feb8372da9c25e152802ff3f078f4d1</data>
+      <data key="d3">1</data>
+      <data key="d4">90</data>
+      <data key="d5">89c08e793298442686292454a1abff31</data>
+    </node>
+    <node id="&quot;ARTHUR FORD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Arthur Ford was a co-leader of the United States Geological Survey Thiel Mountains party that surveyed the Thiel Mountains in 1960&#8211;61."</data>
+      <data key="d2">0feb8372da9c25e152802ff3f078f4d1</data>
+      <data key="d3">1</data>
+      <data key="d4">91</data>
+      <data key="d5">0467928aa65e4a4fba62bdb1467e3a54</data>
+    </node>
+    <node id="&quot;ELLIOTT NUNATAK&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0feb8372da9c25e152802ff3f078f4d1</data>
+      <data key="d3">2</data>
+      <data key="d4">92</data>
+      <data key="d5">43c3390303c6476cb65f584e37c3e81c</data>
+    </node>
+    <node id="&quot;BRITAIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Britain is mentioned as Cecilia Helena Payne-Gaposchkin's country of origin."</data>
+      <data key="d2">f1f7007aecb9e06f66e4fd6c9ecd19f2</data>
+      <data key="d3">1</data>
+      <data key="d4">93</data>
+      <data key="d5">fa14b16c17e3417dba5a4b473ea5b18d</data>
+    </node>
+    <node id="&quot;AMERICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"America is mentioned as Cecilia Helena Payne-Gaposchkin's adopted country."</data>
+      <data key="d2">f1f7007aecb9e06f66e4fd6c9ecd19f2</data>
+      <data key="d3">1</data>
+      <data key="d4">94</data>
+      <data key="d5">7cc3356d38de4328a51a5cbcb187dac3</data>
+    </node>
+    <node id="&quot;CECILIA HELENA PAYNE-GAPOSCHKIN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f1f7007aecb9e06f66e4fd6c9ecd19f2</data>
+      <data key="d3">2</data>
+      <data key="d4">95</data>
+      <data key="d5">bef16fb5fd7344cca5e295b13ef3e0cd</data>
+    </node>
+    <node id="&quot;RCA RECORDS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"RCA Records is a record label that released Ronnie Milsap's greatest hits collection."</data>
+      <data key="d2">1a26cc2cdf8a351907669aa3bf5595ed</data>
+      <data key="d3">1</data>
+      <data key="d4">96</data>
+      <data key="d5">bb9e01bc171d4326a29afda59ece8d17</data>
+    </node>
+    <node id="&quot;SMOKY MOUNTAIN RAIN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Smoky Mountain Rain is the only single from Ronnie Milsap's greatest hits collection, which reached Number One on two charts."</data>
+      <data key="d2">1a26cc2cdf8a351907669aa3bf5595ed</data>
+      <data key="d3">1</data>
+      <data key="d4">97</data>
+      <data key="d5">3c063eea52e94164b70c99431ea30bae</data>
+    </node>
+    <node id="&quot;BILLBOARD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Billboard is a publication that tracks music charts, including the Hot Country Singles and Easy Listening charts."</data>
+      <data key="d2">1a26cc2cdf8a351907669aa3bf5595ed</data>
+      <data key="d3">1</data>
+      <data key="d4">98</data>
+      <data key="d5">252cc8452bfc4c2aa58cab68d8b61879</data>
+    </node>
+    <node id="&quot;RIAA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"RIAA (Recording Industry Association of America) is an organization that certifies album sales, in this case, awarding 2&#215; Platinum certification to Ronnie Milsap's greatest hits collection."</data>
+      <data key="d2">1a26cc2cdf8a351907669aa3bf5595ed</data>
+      <data key="d3">1</data>
+      <data key="d4">99</data>
+      <data key="d5">7e2c84548fb94ee395ba8588d8f2a006</data>
+    </node>
+    <node id="&quot;RONNIE MILSAP&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1a26cc2cdf8a351907669aa3bf5595ed</data>
+      <data key="d3">2</data>
+      <data key="d4">100</data>
+      <data key="d5">f034618dde7948beb6dab30176d0fc87</data>
+    </node>
+    <node id="&quot;ROALD BAKKE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Master Sergeant Roald Bakke was a person who died in the collapse of Texas Tower 4 and has a mountain named after him."</data>
+      <data key="d2">1ded37768244326d5c3e56c11d2cdcea</data>
+      <data key="d3">1</data>
+      <data key="d4">101</data>
+      <data key="d5">5c41f96be13e49dba649454297834546</data>
+    </node>
+    <node id="&quot;FLORIDA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Florida is a town in Massachusetts where Bakke Mountain is located."</data>
+      <data key="d2">1ded37768244326d5c3e56c11d2cdcea</data>
+      <data key="d3">1</data>
+      <data key="d4">102</data>
+      <data key="d5">7ea4afbf8a264f29af29950ce98105ba</data>
+    </node>
+    <node id="&quot;MASSACHUSETTS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Massachusetts is a state in the United States where Florida and Bakke Mountain are located."</data>
+      <data key="d2">1ded37768244326d5c3e56c11d2cdcea</data>
+      <data key="d3">0</data>
+      <data key="d4">103</data>
+      <data key="d5">91ff849d12b24574b0691dbddf44968b</data>
+    </node>
+    <node id="&quot;TEXAS TOWER 4&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The collapse of Texas Tower 4 was an event that resulted in the death of Master Sergeant Roald Bakke."</data>
+      <data key="d2">1ded37768244326d5c3e56c11d2cdcea</data>
+      <data key="d3">1</data>
+      <data key="d4">104</data>
+      <data key="d5">d73c1f2fb3094d8dace42ad2a76e9a52</data>
+    </node>
+    <node id="&quot;HOOSAC WIND PROJECT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Hoosac Wind Project is an organization involved in wind energy and has a site on Bakke Mountain."</data>
+      <data key="d2">1ded37768244326d5c3e56c11d2cdcea</data>
+      <data key="d3">1</data>
+      <data key="d4">105</data>
+      <data key="d5">cdc8901e668749889bd49bebdc4ff1f6</data>
+    </node>
+    <node id="&quot;BAKKE MOUNTAIN WIND FARM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Bakke Mountain Wind Farm is a proposed alternative energy wind plant located on the mountain."</data>
+      <data key="d2">1ded37768244326d5c3e56c11d2cdcea</data>
+      <data key="d3">1</data>
+      <data key="d4">106</data>
+      <data key="d5">36084a9fab53433493f079e97e68bf65</data>
+    </node>
+    <node id="&quot;BAKKE MOUNTAIN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1ded37768244326d5c3e56c11d2cdcea</data>
+      <data key="d3">3</data>
+      <data key="d4">107</data>
+      <data key="d5">eebcc7ec8e3e4df7aea83659bbdc2199</data>
+    </node>
+    <node id="&quot;MARE IMBRIUM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mare Imbrium is a region on the Moon where Montes Carpatus is located."</data>
+      <data key="d2">668e6feb8e56e1a1efadd22f0556afad</data>
+      <data key="d3">1</data>
+      <data key="d4">108</data>
+      <data key="d5">ceadf262ef834e9ab146b20650912cae</data>
+    </node>
+    <node id="&quot;JOHANN HEINRICH VON M&#196;DLER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Johann Heinrich von M&#228;dler is an astronomer who named Montes Carpatus after the Carpathian Mountains in Central Europe."</data>
+      <data key="d2">668e6feb8e56e1a1efadd22f0556afad</data>
+      <data key="d3">1</data>
+      <data key="d4">109</data>
+      <data key="d5">7f65feab75424b53b24470d305ba331a</data>
+    </node>
+    <node id="&quot;CARPATHIAN MOUNTAINS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Carpathian Mountains are a mountain range in Central Europe that inspired the name of Montes Carpatus on the Moon."</data>
+      <data key="d2">668e6feb8e56e1a1efadd22f0556afad</data>
+      <data key="d3">1</data>
+      <data key="d4">110</data>
+      <data key="d5">fd9cb733b28d420cb5cef01e545a132c</data>
+    </node>
+    <node id="&quot;MONTES CARPATUS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">668e6feb8e56e1a1efadd22f0556afad</data>
+      <data key="d3">3</data>
+      <data key="d4">111</data>
+      <data key="d5">0fbcca3f17c649a08aea64b5a7d9ef36</data>
+    </node>
+    <node id="&quot;CUSCO REGION&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Cusco Region is a geographic area in Peru where Wiraqucha mountain is located."</data>
+      <data key="d2">0bf6808689d45cea92e75573c84fd640</data>
+      <data key="d3">1</data>
+      <data key="d4">112</data>
+      <data key="d5">482027a59f32484c9c44fd700615c1b6</data>
+    </node>
+    <node id="&quot;QUISPICANCHI PROVINCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Quispicanchi Province is an administrative division in the Cusco Region where Wiraqucha mountain is situated."</data>
+      <data key="d2">0bf6808689d45cea92e75573c84fd640</data>
+      <data key="d3">1</data>
+      <data key="d4">113</data>
+      <data key="d5">de837ff3d626451282ff6ac77a82216d</data>
+    </node>
+    <node id="&quot;ANDAHUAYLILLAS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Andahuaylillas is a district in Quispicanchi Province where Wiraqucha mountain is located."</data>
+      <data key="d2">0bf6808689d45cea92e75573c84fd640</data>
+      <data key="d3">1</data>
+      <data key="d4">114</data>
+      <data key="d5">460295fed3ae4cd39f9f274cec9c2506</data>
+    </node>
+    <node id="&quot;HUARO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Huaro is a district in Quispicanchi Province where Wiraqucha mountain is situated, also known as Waru."</data>
+      <data key="d2">0bf6808689d45cea92e75573c84fd640</data>
+      <data key="d3">1</data>
+      <data key="d4">115</data>
+      <data key="d5">553b285bba60460ab1ed8341ae61282b</data>
+    </node>
+    <node id="&quot;URCOS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Urcos is a district in Quispicanchi Province where Wiraqucha mountain is located."</data>
+      <data key="d2">0bf6808689d45cea92e75573c84fd640</data>
+      <data key="d3">1</data>
+      <data key="d4">116</data>
+      <data key="d5">cec95bf17e7e4c939b56c9c6f402a29f</data>
+    </node>
+    <node id="&quot;QURI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Quri is a higher mountain near Wiraqucha, situated south-east of it."</data>
+      <data key="d2">0bf6808689d45cea92e75573c84fd640</data>
+      <data key="d3">1</data>
+      <data key="d4">117</data>
+      <data key="d5">599164aead034bc19446efacc77554d2</data>
+    </node>
+    <node id="&quot;HUARO (WARU)&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Huaro, also known as Waru, is a geographic location near Wiraqucha mountain."</data>
+      <data key="d2">0bf6808689d45cea92e75573c84fd640</data>
+      <data key="d3">0</data>
+      <data key="d4">118</data>
+      <data key="d5">bbf148ae4d48422f8fdef754cfa2b9e4</data>
+    </node>
+    <node id="&quot;WILLKANUTA RIVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Willkanuta River flows along the Wiraqucha mountain."</data>
+      <data key="d2">0bf6808689d45cea92e75573c84fd640</data>
+      <data key="d3">1</data>
+      <data key="d4">119</data>
+      <data key="d5">de61b2670999433f807a6a1dc2b81e43</data>
+    </node>
+    <node id="&quot;QUYLLUR URMANA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Quyllur Urmana is a lake situated at the feet of Wiraqucha mountain."</data>
+      <data key="d2">0bf6808689d45cea92e75573c84fd640</data>
+      <data key="d3">1</data>
+      <data key="d4">120</data>
+      <data key="d5">3e95dacfe57b4d57b5da4310ef2e157f</data>
+    </node>
+    <node id="&quot;WIRAQUCHA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0bf6808689d45cea92e75573c84fd640</data>
+      <data key="d3">8</data>
+      <data key="d4">121</data>
+      <data key="d5">1f1545308e9347af91fd03b94aadc21f</data>
+    </node>
+    <node id="&quot;ITALY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Italy is a country where the name Francesco is most common among males."</data>
+      <data key="d2">1f35642afc664c53c4a16c60a16013d0</data>
+      <data key="d3">1</data>
+      <data key="d4">122</data>
+      <data key="d5">6ea81acaf232485e94fff638e03336e1</data>
+    </node>
+    <node id="&quot;FRANCESCO&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1f35642afc664c53c4a16c60a16013d0</data>
+      <data key="d3">1</data>
+      <data key="d4">123</data>
+      <data key="d5">d136b08d586d488f9e4188b524c85a29</data>
+    </node>
+    <edge source="&quot;JOHNS HOPKINS UNIVERSITY MEN'S LACROSSE TEAM&quot;" target="&quot;DAVE PIETRAMALA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Dave Pietramala is the Head Coach of the Johns Hopkins University Men's Lacrosse team."</data>
+      <data key="d10">fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d11">cccfa151fedc4b218a8d96adc7dceabe</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S. LACROSSE HALL OF FAME&quot;" target="&quot;DAVE PIETRAMALA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Dave Pietramala is a member of the U.S. Lacrosse Hall of Fame, recognizing his achievements in lacrosse."</data>
+      <data key="d10">fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d11">ce54725672a74ebcabe6127577dacb2b</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HICKSVILLE, NEW YORK&quot;" target="&quot;DAVE PIETRAMALA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Dave Pietramala was born in Hicksville, New York."</data>
+      <data key="d10">fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d11">ea2b28ca1a974ffab4517811dc1d1e5c</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ST. MARY'S HIGH SCHOOL&quot;" target="&quot;DAVE PIETRAMALA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Dave Pietramala attended St. Mary's High School."</data>
+      <data key="d10">fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d11">aff21f1da1654e7babdcf3fb0e4a75fc</data>
+      <data key="d12">3</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is the county seat of Pima County."</data>
+      <data key="d10">01516962a9aa70301fcc1d13fb424d6d,0bf6808689d45cea92e75573c84fd640,0feb8372da9c25e152802ff3f078f4d1,16e277180231b48f3d324f7ccf4c48b3,1a26cc2cdf8a351907669aa3bf5595ed,1ded37768244326d5c3e56c11d2cdcea,1f35642afc664c53c4a16c60a16013d0,21d8f0fd51a5abddd216e983c44d6319,2618e3c3cc7650cd4f39864a9d9a09e0,4202adaddb2ad65406250ecfc19a2ad7,5c63d5d509277f20e2dd5db9802e1acf,668e6feb8e56e1a1efadd22f0556afad,71cea4797f70cd4e090186b8bc259e2e,7e3b9ee2b3adc667a373bdbe702763f1,87fdea4c5234dd8270796c6182778c15,9411a3b299fc246c30d59063e3cffac7,b58c8c2d7541abc7025699c355a27f39,c186583cfc53a709eb4ab7ecc7acf576,f1f7007aecb9e06f66e4fd6c9ecd19f2,fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d11">dc2cc9016e3f49dbac7232f05cce794d</data>
+      <data key="d12">4</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Pima County is a county in Arizona."</data>
+      <data key="d10">01516962a9aa70301fcc1d13fb424d6d,0bf6808689d45cea92e75573c84fd640,0feb8372da9c25e152802ff3f078f4d1,16e277180231b48f3d324f7ccf4c48b3,1a26cc2cdf8a351907669aa3bf5595ed,1ded37768244326d5c3e56c11d2cdcea,1f35642afc664c53c4a16c60a16013d0,21d8f0fd51a5abddd216e983c44d6319,2618e3c3cc7650cd4f39864a9d9a09e0,4202adaddb2ad65406250ecfc19a2ad7,5c63d5d509277f20e2dd5db9802e1acf,668e6feb8e56e1a1efadd22f0556afad,71cea4797f70cd4e090186b8bc259e2e,7e3b9ee2b3adc667a373bdbe702763f1,87fdea4c5234dd8270796c6182778c15,9411a3b299fc246c30d59063e3cffac7,b58c8c2d7541abc7025699c355a27f39,c186583cfc53a709eb4ab7ecc7acf576,f1f7007aecb9e06f66e4fd6c9ecd19f2,fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d11">6ea0cef05f694dcea455478f40674e45</data>
+      <data key="d12">5</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The University of Arizona is located in Tucson."</data>
+      <data key="d10">01516962a9aa70301fcc1d13fb424d6d,0bf6808689d45cea92e75573c84fd640,0feb8372da9c25e152802ff3f078f4d1,16e277180231b48f3d324f7ccf4c48b3,1a26cc2cdf8a351907669aa3bf5595ed,1ded37768244326d5c3e56c11d2cdcea,1f35642afc664c53c4a16c60a16013d0,21d8f0fd51a5abddd216e983c44d6319,2618e3c3cc7650cd4f39864a9d9a09e0,4202adaddb2ad65406250ecfc19a2ad7,5c63d5d509277f20e2dd5db9802e1acf,668e6feb8e56e1a1efadd22f0556afad,71cea4797f70cd4e090186b8bc259e2e,7e3b9ee2b3adc667a373bdbe702763f1,87fdea4c5234dd8270796c6182778c15,9411a3b299fc246c30d59063e3cffac7,b58c8c2d7541abc7025699c355a27f39,c186583cfc53a709eb4ab7ecc7acf576,f1f7007aecb9e06f66e4fd6c9ecd19f2,fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d11">7ab5d53a872f4dfc98f3d386879f3c75</data>
+      <data key="d12">6</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Arizona is a state in the United States."</data>
+      <data key="d10">01516962a9aa70301fcc1d13fb424d6d,0bf6808689d45cea92e75573c84fd640,0feb8372da9c25e152802ff3f078f4d1,16e277180231b48f3d324f7ccf4c48b3,1a26cc2cdf8a351907669aa3bf5595ed,1ded37768244326d5c3e56c11d2cdcea,1f35642afc664c53c4a16c60a16013d0,21d8f0fd51a5abddd216e983c44d6319,2618e3c3cc7650cd4f39864a9d9a09e0,4202adaddb2ad65406250ecfc19a2ad7,5c63d5d509277f20e2dd5db9802e1acf,668e6feb8e56e1a1efadd22f0556afad,71cea4797f70cd4e090186b8bc259e2e,7e3b9ee2b3adc667a373bdbe702763f1,87fdea4c5234dd8270796c6182778c15,9411a3b299fc246c30d59063e3cffac7,b58c8c2d7541abc7025699c355a27f39,c186583cfc53a709eb4ab7ecc7acf576,f1f7007aecb9e06f66e4fd6c9ecd19f2,fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d11">af1d0fec22114a3398b8016f5225f9ed</data>
+      <data key="d12">7</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is a city in Arizona."</data>
+      <data key="d10">01516962a9aa70301fcc1d13fb424d6d,0bf6808689d45cea92e75573c84fd640,0feb8372da9c25e152802ff3f078f4d1,16e277180231b48f3d324f7ccf4c48b3,1a26cc2cdf8a351907669aa3bf5595ed,1ded37768244326d5c3e56c11d2cdcea,1f35642afc664c53c4a16c60a16013d0,21d8f0fd51a5abddd216e983c44d6319,2618e3c3cc7650cd4f39864a9d9a09e0,4202adaddb2ad65406250ecfc19a2ad7,5c63d5d509277f20e2dd5db9802e1acf,668e6feb8e56e1a1efadd22f0556afad,71cea4797f70cd4e090186b8bc259e2e,7e3b9ee2b3adc667a373bdbe702763f1,87fdea4c5234dd8270796c6182778c15,9411a3b299fc246c30d59063e3cffac7,b58c8c2d7541abc7025699c355a27f39,c186583cfc53a709eb4ab7ecc7acf576,f1f7007aecb9e06f66e4fd6c9ecd19f2,fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d11">b07a7f088364459098cd8511ff27a4c8</data>
+      <data key="d12">8</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Phoenix is a city in Arizona."</data>
+      <data key="d10">01516962a9aa70301fcc1d13fb424d6d,0bf6808689d45cea92e75573c84fd640,0feb8372da9c25e152802ff3f078f4d1,16e277180231b48f3d324f7ccf4c48b3,1a26cc2cdf8a351907669aa3bf5595ed,1ded37768244326d5c3e56c11d2cdcea,1f35642afc664c53c4a16c60a16013d0,21d8f0fd51a5abddd216e983c44d6319,2618e3c3cc7650cd4f39864a9d9a09e0,4202adaddb2ad65406250ecfc19a2ad7,5c63d5d509277f20e2dd5db9802e1acf,668e6feb8e56e1a1efadd22f0556afad,71cea4797f70cd4e090186b8bc259e2e,7e3b9ee2b3adc667a373bdbe702763f1,87fdea4c5234dd8270796c6182778c15,9411a3b299fc246c30d59063e3cffac7,b58c8c2d7541abc7025699c355a27f39,c186583cfc53a709eb4ab7ecc7acf576,f1f7007aecb9e06f66e4fd6c9ecd19f2,fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d11">8870cf2b5df64d2cab5820f67e29b9f1</data>
+      <data key="d12">9</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;BLESS YOU&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"In the United States, 'bless you' or, less commonly, 'Gesundheit' are used as verbal responses to sneezing."</data>
+      <data key="d10">9411a3b299fc246c30d59063e3cffac7</data>
+      <data key="d11">cd130938a2844050be991af70baf5ee0</data>
+      <data key="d12">10</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;ENOCH ARDEN LAW&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Enoch Arden law is a legal precedent in the United States."</data>
+      <data key="d10">b58c8c2d7541abc7025699c355a27f39</data>
+      <data key="d11">43544b99c3b04b059546198a0ae6366d</data>
+      <data key="d12">11</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d10">01516962a9aa70301fcc1d13fb424d6d,0bf6808689d45cea92e75573c84fd640,0feb8372da9c25e152802ff3f078f4d1,16e277180231b48f3d324f7ccf4c48b3,1a26cc2cdf8a351907669aa3bf5595ed,1ded37768244326d5c3e56c11d2cdcea,1f35642afc664c53c4a16c60a16013d0,21d8f0fd51a5abddd216e983c44d6319,2618e3c3cc7650cd4f39864a9d9a09e0,4202adaddb2ad65406250ecfc19a2ad7,5c63d5d509277f20e2dd5db9802e1acf,668e6feb8e56e1a1efadd22f0556afad,71cea4797f70cd4e090186b8bc259e2e,7e3b9ee2b3adc667a373bdbe702763f1,87fdea4c5234dd8270796c6182778c15,9411a3b299fc246c30d59063e3cffac7,b58c8c2d7541abc7025699c355a27f39,c186583cfc53a709eb4ab7ecc7acf576,f1f7007aecb9e06f66e4fd6c9ecd19f2,fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d11">a671bf7fea2f4514b6e96ba99127fafd</data>
+      <data key="d12">12</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Mexico shares an international border with the United States."</data>
+      <data key="d10">01516962a9aa70301fcc1d13fb424d6d,0bf6808689d45cea92e75573c84fd640,0feb8372da9c25e152802ff3f078f4d1,16e277180231b48f3d324f7ccf4c48b3,1a26cc2cdf8a351907669aa3bf5595ed,1ded37768244326d5c3e56c11d2cdcea,1f35642afc664c53c4a16c60a16013d0,21d8f0fd51a5abddd216e983c44d6319,2618e3c3cc7650cd4f39864a9d9a09e0,4202adaddb2ad65406250ecfc19a2ad7,5c63d5d509277f20e2dd5db9802e1acf,668e6feb8e56e1a1efadd22f0556afad,71cea4797f70cd4e090186b8bc259e2e,7e3b9ee2b3adc667a373bdbe702763f1,87fdea4c5234dd8270796c6182778c15,9411a3b299fc246c30d59063e3cffac7,b58c8c2d7541abc7025699c355a27f39,c186583cfc53a709eb4ab7ecc7acf576,f1f7007aecb9e06f66e4fd6c9ecd19f2,fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d11">525f41ea20274a05af4e52b625b473f3</data>
+      <data key="d12">13</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d10">01516962a9aa70301fcc1d13fb424d6d,0bf6808689d45cea92e75573c84fd640,0feb8372da9c25e152802ff3f078f4d1,16e277180231b48f3d324f7ccf4c48b3,1a26cc2cdf8a351907669aa3bf5595ed,1ded37768244326d5c3e56c11d2cdcea,1f35642afc664c53c4a16c60a16013d0,21d8f0fd51a5abddd216e983c44d6319,2618e3c3cc7650cd4f39864a9d9a09e0,4202adaddb2ad65406250ecfc19a2ad7,5c63d5d509277f20e2dd5db9802e1acf,668e6feb8e56e1a1efadd22f0556afad,71cea4797f70cd4e090186b8bc259e2e,7e3b9ee2b3adc667a373bdbe702763f1,87fdea4c5234dd8270796c6182778c15,9411a3b299fc246c30d59063e3cffac7,b58c8c2d7541abc7025699c355a27f39,c186583cfc53a709eb4ab7ecc7acf576,f1f7007aecb9e06f66e4fd6c9ecd19f2,fb124904873891d426fa77ec92ce4ae3</data>
+      <data key="d11">071a416efbec4f0886c19ac68f6d43cb</data>
+      <data key="d12">14</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CANADA&quot;" target="&quot;BLESS YOU&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"In Canada, 'bless you' or, less commonly, 'Gesundheit' are used as verbal responses to sneezing."</data>
+      <data key="d10">9411a3b299fc246c30d59063e3cffac7</data>
+      <data key="d11">6d8473ef3b1042bf87178a611e3dbcc6</data>
+      <data key="d12">15</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GERMAN-SPEAKING COUNTRIES&quot;" target="&quot;GESUNDHEIT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"In German-speaking countries, 'Gesundheit' is the common verbal response to sneezing."</data>
+      <data key="d10">9411a3b299fc246c30d59063e3cffac7</data>
+      <data key="d11">30c9641543c24773938bd8ec57ea98ab</data>
+      <data key="d12">16</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BLESS YOU&quot;" target="&quot;ENGLISH-SPEAKING COUNTRIES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"In English-speaking countries, 'bless you' is the common verbal response to sneezing."</data>
+      <data key="d10">9411a3b299fc246c30d59063e3cffac7</data>
+      <data key="d11">18b839da898e4026b81727d759d95c6a</data>
+      <data key="d12">17</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;IBN S&#298;N&#256;&quot;" target="&quot;GEORGE SARTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"George Sarton wrote about Ibn S&#299;n&#257;, describing him as a great thinker and medical scholar."</data>
+      <data key="d10">5c63d5d509277f20e2dd5db9802e1acf</data>
+      <data key="d11">eeef6ae5c464400c8755900b4f1ac37a</data>
+      <data key="d12">18</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;IBN S&#298;N&#256;&quot;" target="&quot;THE CANON OF MEDICINE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ibn S&#299;n&#257; is the author of The Canon of Medicine, a significant medical text."</data>
+      <data key="d10">5c63d5d509277f20e2dd5db9802e1acf</data>
+      <data key="d11">422433aa45804c7ebb973b2fafce5da6</data>
+      <data key="d12">19</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;IBN S&#298;N&#256;&quot;" target="&quot;ARISTOTLE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ibn S&#299;n&#257; preferred Aristotle's views on medical matters over Galen's."</data>
+      <data key="d10">5c63d5d509277f20e2dd5db9802e1acf</data>
+      <data key="d11">86505bca739d4bccaaa1a8e0f3baffdc</data>
+      <data key="d12">20</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;IBN S&#298;N&#256;&quot;" target="&quot;GALEN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ibn S&#299;n&#257; compared Galen's views on medical matters to Aristotle's."</data>
+      <data key="d10">5c63d5d509277f20e2dd5db9802e1acf</data>
+      <data key="d11">1af9faf341e14a5bbf4ddc9080e8dc0b</data>
+      <data key="d12">21</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;G.G.C. CLARIDGE&quot;" target="&quot;NEW ZEALAND ANTARCTIC PLACE-NAMES COMMITTEE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"G.G.C. Claridge proposed the name for Jotunheim Valley to the New Zealand Antarctic Place-Names Committee."</data>
+      <data key="d10">4202adaddb2ad65406250ecfc19a2ad7</data>
+      <data key="d11">353d91abc68648639d65a549e59b5cf3</data>
+      <data key="d12">22</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;G.G.C. CLARIDGE&quot;" target="&quot;DSIR, NEW ZEALAND&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"G.G.C. Claridge is a soil scientist employed by DSIR, New Zealand."</data>
+      <data key="d10">4202adaddb2ad65406250ecfc19a2ad7</data>
+      <data key="d11">7ce637e4f35b42e3a9f8272cab69cd22</data>
+      <data key="d12">23</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JOTUNHEIM VALLEY&quot;" target="&quot;ASGARD RANGE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jotunheim Valley is located in the Asgard Range of Victoria Land, Antarctica."</data>
+      <data key="d10">4202adaddb2ad65406250ecfc19a2ad7</data>
+      <data key="d11">4d999d7744b04a998475f8f8531589f0</data>
+      <data key="d12">24</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GEORGIA TECH&quot;" target="&quot;REGINALD DESROCHES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Reginald DesRoches is affiliated with Georgia Tech as a professor."</data>
+      <data key="d10">71cea4797f70cd4e090186b8bc259e2e</data>
+      <data key="d11">9a6f414210e14841a5b0e661aedc898d</data>
+      <data key="d12">25</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CHINA&quot;" target="&quot;TANGSHAN EARTHQUAKE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The 1976 Tangshan earthquake occurred in China and led to the creation of an adequate seismic design code."</data>
+      <data key="d10">71cea4797f70cd4e090186b8bc259e2e</data>
+      <data key="d11">db541b7260974db8bac94e953009f60e</data>
+      <data key="d12">26</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TANGSHAN EARTHQUAKE&quot;" target="&quot;REGINALD DESROCHES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Reginald DesRoches commented on the impact of the 1976 Tangshan earthquake on building codes in China."</data>
+      <data key="d10">71cea4797f70cd4e090186b8bc259e2e</data>
+      <data key="d11">f2ff8044718648e18acef16dd9a65436</data>
+      <data key="d12">27</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HARIDWAR&quot;" target="&quot;CHANDI DEVI TEMPLE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Chandi Devi Temple is located in Haridwar, Uttarakhand, India."</data>
+      <data key="d10">01516962a9aa70301fcc1d13fb424d6d</data>
+      <data key="d11">00d785e7d76b47ec81b508e768d40584</data>
+      <data key="d12">28</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SUCHAT SINGH&quot;" target="&quot;CHANDI DEVI TEMPLE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Suchat Singh built the Chandi Devi Temple in 1929 during his reign as King of Kashmir."</data>
+      <data key="d10">01516962a9aa70301fcc1d13fb424d6d</data>
+      <data key="d11">87915637da3e474c9349bd0ae604bd95</data>
+      <data key="d12">29</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ADI SHANKARACHARYA&quot;" target="&quot;CHANDI DEVI TEMPLE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Adi Shankaracharya installed the main murti of Chandi Devi at the temple in the 8th century."</data>
+      <data key="d10">01516962a9aa70301fcc1d13fb424d6d</data>
+      <data key="d11">8f1eba29f39e411188200bf0d14628ec</data>
+      <data key="d12">30</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ALEXANDER MCCAULEY&quot;" target="&quot;MCCAULEY MOUNTAIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The mountain was named after Alexander McCauley, who settled there in 1774."</data>
+      <data key="d10">87fdea4c5234dd8270796c6182778c15</data>
+      <data key="d11">7282c73622b8408e97289d959faff483</data>
+      <data key="d12">31</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;COLUMBIA COUNTY&quot;" target="&quot;MCCAULEY MOUNTAIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"McCauley Mountain is located in Columbia County, Pennsylvania."</data>
+      <data key="d10">87fdea4c5234dd8270796c6182778c15</data>
+      <data key="d11">3deb220d31f74103aa44870a36a63220</data>
+      <data key="d12">32</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MAUCH CHUNK FORMATION&quot;" target="&quot;MCCAULEY MOUNTAIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Mauch Chunk Formation is a geological event that formed rock formations on and near McCauley Mountain."</data>
+      <data key="d10">87fdea4c5234dd8270796c6182778c15</data>
+      <data key="d11">af7a1584dd15492cb9a4940e285f57fc</data>
+      <data key="d12">33</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GENG QINGGUO&quot;" target="&quot;CHINA SEISMOLOGICAL BUREAU&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Geng Qingguo is a former researcher at the China Seismological Bureau."</data>
+      <data key="d10">21d8f0fd51a5abddd216e983c44d6319</data>
+      <data key="d11">6e8d9029ce4e4ea182367173ab2c7bbf</data>
+      <data key="d12">34</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GENG QINGGUO&quot;" target="&quot;YAZHOU ZHOUKAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Yazhou Zhoukan conducted an interview with Geng Qingguo."</data>
+      <data key="d10">21d8f0fd51a5abddd216e983c44d6319</data>
+      <data key="d11">cbf232211e7d4eb6abdbe182f71c2cf0</data>
+      <data key="d12">35</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CHINA SEISMOLOGICAL BUREAU&quot;" target="&quot;STATE SEISMOLOGICAL BUREAU&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The State Seismological Bureau received a report from the China Seismological Bureau."</data>
+      <data key="d10">21d8f0fd51a5abddd216e983c44d6319</data>
+      <data key="d11">bb0cff774a4440b289cc6f3b929fe13c</data>
+      <data key="d12">36</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AOL&quot;" target="&quot;THE GREATEST AMERICAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"AOL conducted the competition for 'The Greatest American' series."</data>
+      <data key="d10">7e3b9ee2b3adc667a373bdbe702763f1</data>
+      <data key="d11">ce55841ebfdd47008bab8c258f10372e</data>
+      <data key="d12">37</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DISCOVERY CHANNEL&quot;" target="&quot;THE GREATEST AMERICAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Discovery Channel was a partner in conducting the competition for 'The Greatest American' series."</data>
+      <data key="d10">7e3b9ee2b3adc667a373bdbe702763f1</data>
+      <data key="d11">6090e736374d45fd84f0e4610a314f8f</data>
+      <data key="d12">38</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BBC&quot;" target="&quot;THE GREATEST AMERICAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The BBC reported on the competition for 'The Greatest American' series."</data>
+      <data key="d10">7e3b9ee2b3adc667a373bdbe702763f1</data>
+      <data key="d11">0e8d921ccd8d4a8594b65b7fd19f7120</data>
+      <data key="d12">39</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;THE GREATEST AMERICAN&quot;" target="&quot;MATT LAUER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Matt Lauer hosted the show 'The Greatest American'."</data>
+      <data key="d10">7e3b9ee2b3adc667a373bdbe702763f1</data>
+      <data key="d11">59c726a8792d443e84ab052cb7942b4a</data>
+      <data key="d12">40</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JESUS&quot;" target="&quot;CALVARY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Calvary is the location where Jesus was crucified."</data>
+      <data key="d10">16e277180231b48f3d324f7ccf4c48b3</data>
+      <data key="d11">4f2c665decf242b0bfcaf7350b0e02ed</data>
+      <data key="d12">41</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VULGATE&quot;" target="&quot;G&#219;LGALT&#194;&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Vulgate translation provides the Latin equivalent of G&#251;lgalt&#226;, which is Calvary."</data>
+      <data key="d10">16e277180231b48f3d324f7ccf4c48b3</data>
+      <data key="d11">66cdf168f36d4a57a505028c97dc06e0</data>
+      <data key="d12">42</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;G&#219;LGALT&#194;&quot;" target="&quot;CALVARY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Calvary is the English name derived from the Aramaic word G&#251;lgalt&#226;."</data>
+      <data key="d10">16e277180231b48f3d324f7ccf4c48b3</data>
+      <data key="d11">38f51478f41f48db9bee570859b6f43e</data>
+      <data key="d12">43</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ABU AL-RAYHAN AL-BIRUNI&quot;" target="&quot;GEOLOGY OF INDIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Abu al-Rayhan al-Biruni wrote about and hypothesized on the geology of India."</data>
+      <data key="d10">2618e3c3cc7650cd4f39864a9d9a09e0</data>
+      <data key="d11">896d2a51e8de47de85ba8ced108c3d53</data>
+      <data key="d12">44</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;IBN SINA (AVICENNA)&quot;" target="&quot;MODERN GEOLOGY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ibn Sina's works provided an essential foundation for the later development of modern geology."</data>
+      <data key="d10">2618e3c3cc7650cd4f39864a9d9a09e0</data>
+      <data key="d11">14555b518e954637b83aa762dc03164e</data>
+      <data key="d12">45</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SHEN KUO&quot;" target="&quot;LAND FORMATION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Shen Kuo formulated a hypothesis on land formation based on fossil observations in a geological stratum."</data>
+      <data key="d10">2618e3c3cc7650cd4f39864a9d9a09e0</data>
+      <data key="d11">b1f6164116d44fe8b8f135d7f65b9e58</data>
+      <data key="d12">46</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FIELDING H. GARRISON&quot;" target="&quot;GEOLOGY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Fielding H. Garrison has an opinion on the origin of geology."</data>
+      <data key="d10">2618e3c3cc7650cd4f39864a9d9a09e0</data>
+      <data key="d11">c8b2408617804483b620e1a6691ac90d</data>
+      <data key="d12">47</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SOLAR SYSTEM&quot;" target="&quot;NEBULAR HYPOTHESIS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Solar System is explained by the nebular hypothesis, which describes its formation from nebulous material."</data>
+      <data key="d10">c186583cfc53a709eb4ab7ecc7acf576</data>
+      <data key="d11">a5e0d1644eb547ba9a5c3211aac4631a</data>
+      <data key="d12">48</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSAL NATURAL HISTORY AND THEORY OF THE HEAVENS&quot;" target="&quot;IMMANUEL KANT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Universal Natural History and Theory of the Heavens is a publication by Immanuel Kant."</data>
+      <data key="d10">c186583cfc53a709eb4ab7ecc7acf576</data>
+      <data key="d11">5a28b94bc63b44edb30c54748fd14f15</data>
+      <data key="d12">49</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NEBULAR HYPOTHESIS&quot;" target="&quot;IMMANUEL KANT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Immanuel Kant developed and published the nebular hypothesis in 1755."</data>
+      <data key="d10">c186583cfc53a709eb4ab7ecc7acf576</data>
+      <data key="d11">f97011b2a99d44648e18d517e1eae15c</data>
+      <data key="d12">50</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;RAYMOND L. ELLIOTT&quot;" target="&quot;UNITED STATES GEOLOGICAL SURVEY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Raymond L. Elliott was a geologist with the United States Geological Survey."</data>
+      <data key="d10">0feb8372da9c25e152802ff3f078f4d1</data>
+      <data key="d11">35489ca6a63b47d6a8913cf333818bc1</data>
+      <data key="d12">51</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;RAYMOND L. ELLIOTT&quot;" target="&quot;ELLIOTT NUNATAK&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The name 'Elliott Nunatak' was proposed in honor of Raymond L. Elliott."</data>
+      <data key="d10">0feb8372da9c25e152802ff3f078f4d1</data>
+      <data key="d11">5d3344f45e654d2c808481672f2f08dd</data>
+      <data key="d12">52</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;THIEL MOUNTAINS&quot;" target="&quot;ELLIOTT NUNATAK&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Elliott Nunatak is located in the Thiel Mountains."</data>
+      <data key="d10">0feb8372da9c25e152802ff3f078f4d1</data>
+      <data key="d11">6fb57f83baec45c9b30490ee991f433f</data>
+      <data key="d12">53</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PETER BERMEL&quot;" target="&quot;ARTHUR FORD&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Peter Bermel and Arthur Ford were co-leaders of the United States Geological Survey Thiel Mountains party."</data>
+      <data key="d10">0feb8372da9c25e152802ff3f078f4d1</data>
+      <data key="d11">68762e6f0d1c41cd857c6b964a8e76c3</data>
+      <data key="d12">54</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BRITAIN&quot;" target="&quot;CECILIA HELENA PAYNE-GAPOSCHKIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Cecilia Helena Payne-Gaposchkin was born in Britain."</data>
+      <data key="d10">f1f7007aecb9e06f66e4fd6c9ecd19f2</data>
+      <data key="d11">70634e10a5e845aa8c6a32fe7e8eb2b2</data>
+      <data key="d12">55</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AMERICA&quot;" target="&quot;CECILIA HELENA PAYNE-GAPOSCHKIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Cecilia Helena Payne-Gaposchkin later became an American citizen."</data>
+      <data key="d10">f1f7007aecb9e06f66e4fd6c9ecd19f2</data>
+      <data key="d11">04085f7cf46544b79597fc49286ff84d</data>
+      <data key="d12">56</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;RCA RECORDS&quot;" target="&quot;RONNIE MILSAP&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ronnie Milsap's greatest hits collection was released by RCA Records."</data>
+      <data key="d10">1a26cc2cdf8a351907669aa3bf5595ed</data>
+      <data key="d11">d203efdbfb2f4b2a899abfb31cf72e82</data>
+      <data key="d12">57</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SMOKY MOUNTAIN RAIN&quot;" target="&quot;BILLBOARD&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Smoky Mountain Rain reached Number One on Billboard's Hot Country Singles and Easy Listening charts."</data>
+      <data key="d10">1a26cc2cdf8a351907669aa3bf5595ed</data>
+      <data key="d11">6731a665561840c2898ce8c9788e4c88</data>
+      <data key="d12">58</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;RIAA&quot;" target="&quot;RONNIE MILSAP&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The RIAA certified Ronnie Milsap's greatest hits collection as 2&#215; Platinum."</data>
+      <data key="d10">1a26cc2cdf8a351907669aa3bf5595ed</data>
+      <data key="d11">4026806fa92f4e849a59a7f5c9a45c79</data>
+      <data key="d12">59</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ROALD BAKKE&quot;" target="&quot;TEXAS TOWER 4&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Master Sergeant Roald Bakke died in the collapse of Texas Tower 4."</data>
+      <data key="d10">1ded37768244326d5c3e56c11d2cdcea</data>
+      <data key="d11">68e0c60d2e8845d89d9d0ad397833648</data>
+      <data key="d12">60</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;BAKKE MOUNTAIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Bakke Mountain is located in the town of Florida, Massachusetts."</data>
+      <data key="d10">1ded37768244326d5c3e56c11d2cdcea</data>
+      <data key="d11">101572f552b54e529fe7765c05168981</data>
+      <data key="d12">61</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HOOSAC WIND PROJECT&quot;" target="&quot;BAKKE MOUNTAIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Hoosac Wind Project has a site on Bakke Mountain."</data>
+      <data key="d10">1ded37768244326d5c3e56c11d2cdcea</data>
+      <data key="d11">60c58026b2764b40adffca6eaa31d6d9</data>
+      <data key="d12">62</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BAKKE MOUNTAIN WIND FARM&quot;" target="&quot;BAKKE MOUNTAIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Bakke Mountain Wind Farm is located on the mountain."</data>
+      <data key="d10">1ded37768244326d5c3e56c11d2cdcea</data>
+      <data key="d11">ad1595a78935472999444c9330e7730e</data>
+      <data key="d12">63</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MARE IMBRIUM&quot;" target="&quot;MONTES CARPATUS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Montes Carpatus forms the southern edge of Mare Imbrium on the Moon."</data>
+      <data key="d10">668e6feb8e56e1a1efadd22f0556afad</data>
+      <data key="d11">735d19aea0744b2295556841c5c4c3fd</data>
+      <data key="d12">64</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JOHANN HEINRICH VON M&#196;DLER&quot;" target="&quot;MONTES CARPATUS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Johann Heinrich von M&#228;dler named Montes Carpatus after the Carpathian Mountains."</data>
+      <data key="d10">668e6feb8e56e1a1efadd22f0556afad</data>
+      <data key="d11">c725babdb14a485582f8fbdf95429030</data>
+      <data key="d12">65</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CARPATHIAN MOUNTAINS&quot;" target="&quot;MONTES CARPATUS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The name of Montes Carpatus was inspired by the Carpathian Mountains in Central Europe."</data>
+      <data key="d10">668e6feb8e56e1a1efadd22f0556afad</data>
+      <data key="d11">a0047221896d418d849847d422fa4bb8</data>
+      <data key="d12">66</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CUSCO REGION&quot;" target="&quot;WIRAQUCHA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Wiraqucha mountain is located in the Cusco Region."</data>
+      <data key="d10">0bf6808689d45cea92e75573c84fd640</data>
+      <data key="d11">98fc2ee593184c5a839454db4eec7013</data>
+      <data key="d12">67</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;QUISPICANCHI PROVINCE&quot;" target="&quot;WIRAQUCHA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Wiraqucha mountain is situated in Quispicanchi Province."</data>
+      <data key="d10">0bf6808689d45cea92e75573c84fd640</data>
+      <data key="d11">80020a1da63042459e00266b2a605452</data>
+      <data key="d12">68</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ANDAHUAYLILLAS&quot;" target="&quot;WIRAQUCHA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Wiraqucha mountain is located in the district of Andahuaylillas."</data>
+      <data key="d10">0bf6808689d45cea92e75573c84fd640</data>
+      <data key="d11">31a7e680c4d54101afe4c8d52d246913</data>
+      <data key="d12">69</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HUARO&quot;" target="&quot;WIRAQUCHA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Wiraqucha mountain is situated near Huaro, also known as Waru."</data>
+      <data key="d10">0bf6808689d45cea92e75573c84fd640</data>
+      <data key="d11">351abba16e5c448994c6daf48121b14d</data>
+      <data key="d12">70</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;URCOS&quot;" target="&quot;WIRAQUCHA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Wiraqucha mountain is located in the district of Urcos."</data>
+      <data key="d10">0bf6808689d45cea92e75573c84fd640</data>
+      <data key="d11">50ea7d3b69614bcdbfbff7ddbfbf3d34</data>
+      <data key="d12">71</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;QURI&quot;" target="&quot;WIRAQUCHA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Wiraqucha mountain is situated near Quri, a higher mountain."</data>
+      <data key="d10">0bf6808689d45cea92e75573c84fd640</data>
+      <data key="d11">004f40a5aeca48a1879db728eb12bcba</data>
+      <data key="d12">72</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WILLKANUTA RIVER&quot;" target="&quot;WIRAQUCHA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Willkanuta River flows along Wiraqucha mountain."</data>
+      <data key="d10">0bf6808689d45cea92e75573c84fd640</data>
+      <data key="d11">4465efb7f6ed4dedad72a658184addd2</data>
+      <data key="d12">73</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;QUYLLUR URMANA&quot;" target="&quot;WIRAQUCHA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Quyllur Urmana lake is situated at the feet of Wiraqucha mountain."</data>
+      <data key="d10">0bf6808689d45cea92e75573c84fd640</data>
+      <data key="d11">b0dd60e11dad4ff782623acf039b3948</data>
+      <data key="d12">74</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ITALY&quot;" target="&quot;FRANCESCO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The name Francesco is closely associated with Italy, being the most common given name among males in the country."</data>
+      <data key="d10">1f35642afc664c53c4a16c60a16013d0</data>
+      <data key="d11">db8c43fa4df947b09e5754d3b1393ead</data>
+      <data key="d12">75</data>
+      <data key="d13">0</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,1253 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;BERGEN COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bergen County is a location in New Jersey where Jersey Dutch was spoken."</data>
+      <data key="d2">200090f5f2a9ee423e202f4726045cd4</data>
+    </node>
+    <node id="&quot;PASSAIC COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Passaic County is a location in New Jersey where Jersey Dutch was spoken."</data>
+      <data key="d2">200090f5f2a9ee423e202f4726045cd4</data>
+    </node>
+    <node id="&quot;ALBANY, NEW YORK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Albany, New York is a location where Mohawk Dutch was spoken."</data>
+      <data key="d2">200090f5f2a9ee423e202f4726045cd4</data>
+    </node>
+    <node id="&quot;GUYANA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Guyana is a country where Berbice and Skepi were spoken."</data>
+      <data key="d2">200090f5f2a9ee423e202f4726045cd4</data>
+    </node>
+    <node id="&quot;UNITED STATES VIRGIN ISLANDS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States Virgin Islands are a location where Negerhollands was spoken."</data>
+      <data key="d2">200090f5f2a9ee423e202f4726045cd4</data>
+    </node>
+    <node id="&quot;PENNSYLVANIA DUTCH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Pennsylvania Dutch is not a member of the set of Dutch dialects and is more accurately referred to as Pennsylvania German."</data>
+      <data key="d2">200090f5f2a9ee423e202f4726045cd4</data>
+    </node>
+    <node id="&quot;JERSEY DUTCH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">200090f5f2a9ee423e202f4726045cd4</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0" />
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">147d0b0886c07d2b523ddf29c67410eb,200090f5f2a9ee423e202f4726045cd4,20718e4b9d1c7228bff508e8e5777a32,3daa315c1cd2b24567ba11c76a8948b7,46d443d820dd0a5e5d4d922fed9ccde3,4e846c91fd36d15a226224e03ab81d85,5f544f11983b9b046066a468725964c5,60d554a2ff5554c657c059068b6677b6,77392d459d32a68fb6f202831517fc63,7c0a5abceb46d040187e52f4e5bf7637,9c74005d49181b9d688597076ad6163a,bf1512d78cafefbb82966bff82fc5263,c029224de8a38ff3848daa79fe875cec,c3ca3111d563098056f06331cfafd64a,cda4cd551e3eef1dac0e28d4ede084f8,d8f3997027240d60da813ffedfa48efe,e235fdaac7fb40225f969cdeb86fce84,e8f12035e4c959b4d10789daa05a620f,eb9d4bbf58491df6177e5175f22b0c2c,f177cfea59f4b405bae5185e50c1fb63</data>
+      <data key="d3">"GEO"</data>
+    </node>
+    <node id="&quot;MOHAWK DUTCH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">200090f5f2a9ee423e202f4726045cd4</data>
+    </node>
+    <node id="&quot;BERBICE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">200090f5f2a9ee423e202f4726045cd4</data>
+    </node>
+    <node id="&quot;SKEPI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">200090f5f2a9ee423e202f4726045cd4</data>
+    </node>
+    <node id="&quot;NEGERHOLLANDS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">200090f5f2a9ee423e202f4726045cd4</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">147d0b0886c07d2b523ddf29c67410eb,200090f5f2a9ee423e202f4726045cd4,20718e4b9d1c7228bff508e8e5777a32,3daa315c1cd2b24567ba11c76a8948b7,46d443d820dd0a5e5d4d922fed9ccde3,4e846c91fd36d15a226224e03ab81d85,5f544f11983b9b046066a468725964c5,60d554a2ff5554c657c059068b6677b6,77392d459d32a68fb6f202831517fc63,7c0a5abceb46d040187e52f4e5bf7637,9c74005d49181b9d688597076ad6163a,bf1512d78cafefbb82966bff82fc5263,c029224de8a38ff3848daa79fe875cec,c3ca3111d563098056f06331cfafd64a,cda4cd551e3eef1dac0e28d4ede084f8,d8f3997027240d60da813ffedfa48efe,e235fdaac7fb40225f969cdeb86fce84,e8f12035e4c959b4d10789daa05a620f,eb9d4bbf58491df6177e5175f22b0c2c,f177cfea59f4b405bae5185e50c1fb63</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">147d0b0886c07d2b523ddf29c67410eb,200090f5f2a9ee423e202f4726045cd4,20718e4b9d1c7228bff508e8e5777a32,3daa315c1cd2b24567ba11c76a8948b7,46d443d820dd0a5e5d4d922fed9ccde3,4e846c91fd36d15a226224e03ab81d85,5f544f11983b9b046066a468725964c5,60d554a2ff5554c657c059068b6677b6,77392d459d32a68fb6f202831517fc63,7c0a5abceb46d040187e52f4e5bf7637,9c74005d49181b9d688597076ad6163a,bf1512d78cafefbb82966bff82fc5263,c029224de8a38ff3848daa79fe875cec,c3ca3111d563098056f06331cfafd64a,cda4cd551e3eef1dac0e28d4ede084f8,d8f3997027240d60da813ffedfa48efe,e235fdaac7fb40225f969cdeb86fce84,e8f12035e4c959b4d10789daa05a620f,eb9d4bbf58491df6177e5175f22b0c2c,f177cfea59f4b405bae5185e50c1fb63</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">147d0b0886c07d2b523ddf29c67410eb,200090f5f2a9ee423e202f4726045cd4,20718e4b9d1c7228bff508e8e5777a32,3daa315c1cd2b24567ba11c76a8948b7,46d443d820dd0a5e5d4d922fed9ccde3,4e846c91fd36d15a226224e03ab81d85,5f544f11983b9b046066a468725964c5,60d554a2ff5554c657c059068b6677b6,77392d459d32a68fb6f202831517fc63,7c0a5abceb46d040187e52f4e5bf7637,9c74005d49181b9d688597076ad6163a,bf1512d78cafefbb82966bff82fc5263,c029224de8a38ff3848daa79fe875cec,c3ca3111d563098056f06331cfafd64a,cda4cd551e3eef1dac0e28d4ede084f8,d8f3997027240d60da813ffedfa48efe,e235fdaac7fb40225f969cdeb86fce84,e8f12035e4c959b4d10789daa05a620f,eb9d4bbf58491df6177e5175f22b0c2c,f177cfea59f4b405bae5185e50c1fb63</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">147d0b0886c07d2b523ddf29c67410eb,200090f5f2a9ee423e202f4726045cd4,20718e4b9d1c7228bff508e8e5777a32,3daa315c1cd2b24567ba11c76a8948b7,46d443d820dd0a5e5d4d922fed9ccde3,4e846c91fd36d15a226224e03ab81d85,5f544f11983b9b046066a468725964c5,60d554a2ff5554c657c059068b6677b6,77392d459d32a68fb6f202831517fc63,7c0a5abceb46d040187e52f4e5bf7637,9c74005d49181b9d688597076ad6163a,bf1512d78cafefbb82966bff82fc5263,c029224de8a38ff3848daa79fe875cec,c3ca3111d563098056f06331cfafd64a,cda4cd551e3eef1dac0e28d4ede084f8,d8f3997027240d60da813ffedfa48efe,e235fdaac7fb40225f969cdeb86fce84,e8f12035e4c959b4d10789daa05a620f,eb9d4bbf58491df6177e5175f22b0c2c,f177cfea59f4b405bae5185e50c1fb63</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">147d0b0886c07d2b523ddf29c67410eb,200090f5f2a9ee423e202f4726045cd4,20718e4b9d1c7228bff508e8e5777a32,3daa315c1cd2b24567ba11c76a8948b7,46d443d820dd0a5e5d4d922fed9ccde3,4e846c91fd36d15a226224e03ab81d85,5f544f11983b9b046066a468725964c5,60d554a2ff5554c657c059068b6677b6,77392d459d32a68fb6f202831517fc63,7c0a5abceb46d040187e52f4e5bf7637,9c74005d49181b9d688597076ad6163a,bf1512d78cafefbb82966bff82fc5263,c029224de8a38ff3848daa79fe875cec,c3ca3111d563098056f06331cfafd64a,cda4cd551e3eef1dac0e28d4ede084f8,d8f3997027240d60da813ffedfa48efe,e235fdaac7fb40225f969cdeb86fce84,e8f12035e4c959b4d10789daa05a620f,eb9d4bbf58491df6177e5175f22b0c2c,f177cfea59f4b405bae5185e50c1fb63</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">147d0b0886c07d2b523ddf29c67410eb,200090f5f2a9ee423e202f4726045cd4,20718e4b9d1c7228bff508e8e5777a32,3daa315c1cd2b24567ba11c76a8948b7,46d443d820dd0a5e5d4d922fed9ccde3,4e846c91fd36d15a226224e03ab81d85,5f544f11983b9b046066a468725964c5,60d554a2ff5554c657c059068b6677b6,77392d459d32a68fb6f202831517fc63,7c0a5abceb46d040187e52f4e5bf7637,9c74005d49181b9d688597076ad6163a,bf1512d78cafefbb82966bff82fc5263,c029224de8a38ff3848daa79fe875cec,c3ca3111d563098056f06331cfafd64a,cda4cd551e3eef1dac0e28d4ede084f8,d8f3997027240d60da813ffedfa48efe,e235fdaac7fb40225f969cdeb86fce84,e8f12035e4c959b4d10789daa05a620f,eb9d4bbf58491df6177e5175f22b0c2c,f177cfea59f4b405bae5185e50c1fb63</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">147d0b0886c07d2b523ddf29c67410eb,200090f5f2a9ee423e202f4726045cd4,20718e4b9d1c7228bff508e8e5777a32,3daa315c1cd2b24567ba11c76a8948b7,46d443d820dd0a5e5d4d922fed9ccde3,4e846c91fd36d15a226224e03ab81d85,5f544f11983b9b046066a468725964c5,60d554a2ff5554c657c059068b6677b6,77392d459d32a68fb6f202831517fc63,7c0a5abceb46d040187e52f4e5bf7637,9c74005d49181b9d688597076ad6163a,bf1512d78cafefbb82966bff82fc5263,c029224de8a38ff3848daa79fe875cec,c3ca3111d563098056f06331cfafd64a,cda4cd551e3eef1dac0e28d4ede084f8,d8f3997027240d60da813ffedfa48efe,e235fdaac7fb40225f969cdeb86fce84,e8f12035e4c959b4d10789daa05a620f,eb9d4bbf58491df6177e5175f22b0c2c,f177cfea59f4b405bae5185e50c1fb63</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">147d0b0886c07d2b523ddf29c67410eb,200090f5f2a9ee423e202f4726045cd4,20718e4b9d1c7228bff508e8e5777a32,3daa315c1cd2b24567ba11c76a8948b7,46d443d820dd0a5e5d4d922fed9ccde3,4e846c91fd36d15a226224e03ab81d85,5f544f11983b9b046066a468725964c5,60d554a2ff5554c657c059068b6677b6,77392d459d32a68fb6f202831517fc63,7c0a5abceb46d040187e52f4e5bf7637,9c74005d49181b9d688597076ad6163a,bf1512d78cafefbb82966bff82fc5263,c029224de8a38ff3848daa79fe875cec,c3ca3111d563098056f06331cfafd64a,cda4cd551e3eef1dac0e28d4ede084f8,d8f3997027240d60da813ffedfa48efe,e235fdaac7fb40225f969cdeb86fce84,e8f12035e4c959b4d10789daa05a620f,eb9d4bbf58491df6177e5175f22b0c2c,f177cfea59f4b405bae5185e50c1fb63</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">147d0b0886c07d2b523ddf29c67410eb,200090f5f2a9ee423e202f4726045cd4,20718e4b9d1c7228bff508e8e5777a32,3daa315c1cd2b24567ba11c76a8948b7,46d443d820dd0a5e5d4d922fed9ccde3,4e846c91fd36d15a226224e03ab81d85,5f544f11983b9b046066a468725964c5,60d554a2ff5554c657c059068b6677b6,77392d459d32a68fb6f202831517fc63,7c0a5abceb46d040187e52f4e5bf7637,9c74005d49181b9d688597076ad6163a,bf1512d78cafefbb82966bff82fc5263,c029224de8a38ff3848daa79fe875cec,c3ca3111d563098056f06331cfafd64a,cda4cd551e3eef1dac0e28d4ede084f8,d8f3997027240d60da813ffedfa48efe,e235fdaac7fb40225f969cdeb86fce84,e8f12035e4c959b4d10789daa05a620f,eb9d4bbf58491df6177e5175f22b0c2c,f177cfea59f4b405bae5185e50c1fb63</data>
+    </node>
+    <node id="&quot;DUTCH ADULTS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Dutch adults refer to the adult population of the Netherlands, where the use of dialects and regional languages is declining."</data>
+      <data key="d2">e8f12035e4c959b4d10789daa05a620f</data>
+    </node>
+    <node id="&quot;PRIMARY SCHOOL AGED CHILDREN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Primary school aged children in the Netherlands are showing a decline in speaking dialects and regional languages."</data>
+      <data key="d2">e8f12035e4c959b4d10789daa05a620f</data>
+    </node>
+    <node id="&quot;LIMBURGISH&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Limburgish is one of the officially recognized regional languages in the Netherlands, spoken by 54% of adults and 31% of children in 2011."</data>
+      <data key="d2">e8f12035e4c959b4d10789daa05a620f</data>
+    </node>
+    <node id="&quot;DUTCH LOW SAXON&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Dutch Low Saxon is another officially recognized regional language in the Netherlands, spoken by 15% of adults and 1% of children in 2011."</data>
+      <data key="d2">e8f12035e4c959b4d10789daa05a620f</data>
+    </node>
+    <node id="&quot;FRISIAN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Frisian occupies a middle position among the officially recognized regional languages in the Netherlands, spoken by 44% of adults and 22% of children in 2011."</data>
+      <data key="d2">e8f12035e4c959b4d10789daa05a620f</data>
+    </node>
+    <node id="&quot;GEERT DRIESSEN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e8f12035e4c959b4d10789daa05a620f</data>
+    </node>
+    <node id="&quot;FUJIAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Fujian is a province in China that shares a border with Zhejiang, where Min dialects are spoken. It is also the origin of Hokkien, a significant dialect in the region. Historically, Fujian was a key location for military expeditions led by notable figures such as Chen Zheng and his son, as well as Wang Chao and Wang Shenzhi, who worked to pacify rebellions in the area.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">77392d459d32a68fb6f202831517fc63,9c74005d49181b9d688597076ad6163a,e235fdaac7fb40225f969cdeb86fce84</data>
+    </node>
+    <node id="&quot;SOUTHEAST ASIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Southeast Asia is a region where Hokkien dialects are spoken."</data>
+      <data key="d2">9c74005d49181b9d688597076ad6163a</data>
+    </node>
+    <node id="&quot;TAIWAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Taiwan is an island where Hokkien dialects are spoken."</data>
+      <data key="d2">9c74005d49181b9d688597076ad6163a</data>
+    </node>
+    <node id="&quot;QUANZHANG&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Quanzhang refers to the Quanzhou-Zhangzhou dialect group, which is closely related to Hokkien."</data>
+      <data key="d2">9c74005d49181b9d688597076ad6163a</data>
+    </node>
+    <node id="&quot;HOKKIEN&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Hokkien is a language that has retained original meanings from Old Chinese and Middle Chinese, with some lexical meaning evolving alongside Mandarin.</data>
+      <data key="d2">9c74005d49181b9d688597076ad6163a,bf1512d78cafefbb82966bff82fc5263</data>
+    </node>
+    <node id="&quot;UGANDA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Uganda is a country where Kinyarwanda is spoken in adjacent parts of southern regions."</data>
+      <data key="d2">d8f3997027240d60da813ffedfa48efe</data>
+    </node>
+    <node id="&quot;EASTERN DEMOCRATIC REPUBLIC OF THE CONGO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Eastern Democratic Republic of the Congo is a region where Kinyarwanda is spoken by at least 12 million people."</data>
+      <data key="d2">d8f3997027240d60da813ffedfa48efe</data>
+    </node>
+    <node id="&quot;BURUNDI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Burundi is a neighbouring country where Kirundi dialect is an official language."</data>
+      <data key="d2">d8f3997027240d60da813ffedfa48efe</data>
+    </node>
+    <node id="&quot;NORTH KIVU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"North Kivu is a province in DR Congo where Kinyabwisha dialect is spoken."</data>
+      <data key="d2">d8f3997027240d60da813ffedfa48efe</data>
+    </node>
+    <node id="&quot;SOUTH KIVU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"South Kivu is a province in DR Congo where Kinyamulenge dialect is spoken."</data>
+      <data key="d2">d8f3997027240d60da813ffedfa48efe</data>
+    </node>
+    <node id="&quot;DR CONGO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"DR Congo is a country where Kinyabwisha and Kinyamulenge dialects are spoken."</data>
+      <data key="d2">d8f3997027240d60da813ffedfa48efe</data>
+    </node>
+    <node id="&quot;RWANDA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d8f3997027240d60da813ffedfa48efe</data>
+    </node>
+    <node id="&quot;KINYARWANDA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d8f3997027240d60da813ffedfa48efe</data>
+    </node>
+    <node id="&quot;KIRUNDI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d8f3997027240d60da813ffedfa48efe</data>
+    </node>
+    <node id="&quot;KINYABWISHA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d8f3997027240d60da813ffedfa48efe</data>
+    </node>
+    <node id="&quot;KINYAMULENGE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d8f3997027240d60da813ffedfa48efe</data>
+    </node>
+    <node id="&quot;LOW GERMAN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Low German refers to a group of dialects or languages spoken in Germany, with its own historical development and tendencies."</data>
+      <data key="d2">cda4cd551e3eef1dac0e28d4ede084f8</data>
+    </node>
+    <node id="&quot;STANDARD GERMAN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Standard German is the roof language that encompasses Low German varieties in modern times."</data>
+      <data key="d2">cda4cd551e3eef1dac0e28d4ede084f8</data>
+    </node>
+    <node id="&quot;GERMANY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">cda4cd551e3eef1dac0e28d4ede084f8</data>
+    </node>
+    <node id="&quot;EASTERN ARMENIAN DIALECT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Eastern Armenian dialect is mainly used in Armenia."</data>
+      <data key="d2">147d0b0886c07d2b523ddf29c67410eb</data>
+    </node>
+    <node id="&quot;WESTERN ARMENIAN DIALECT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Western Armenian dialect is predominantly spoken in the Armenian Diaspora."</data>
+      <data key="d2">147d0b0886c07d2b523ddf29c67410eb</data>
+    </node>
+    <node id="&quot;ARMENIAN WIKIPEDIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Armenian Wikipedia is an online encyclopedia that contains articles of interest in both Eastern and Western Armenian dialects."</data>
+      <data key="d2">147d0b0886c07d2b523ddf29c67410eb</data>
+    </node>
+    <node id="&quot;ARMENIAN DIASPORA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Armenian Diaspora refers to the global community of Armenians living outside of Armenia."</data>
+      <data key="d2">147d0b0886c07d2b523ddf29c67410eb</data>
+    </node>
+    <node id="&quot;ARMENIAN LANGUAGE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">147d0b0886c07d2b523ddf29c67410eb</data>
+    </node>
+    <node id="&quot;GREEKS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Greeks refers to the ethnic group inhabiting Greece, with some members speaking Slavic dialects."</data>
+      <data key="d2">46d443d820dd0a5e5d4d922fed9ccde3</data>
+    </node>
+    <node id="&quot;MACEDONIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Macedonia is a region where Slavic speakers reside, with an estimated 200,000 to 400,000 speakers after the population exchanges of 1923."</data>
+      <data key="d2">46d443d820dd0a5e5d4d922fed9ccde3</data>
+    </node>
+    <node id="&quot;JEWISH COMMUNITY IN GREECE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Jewish community in Greece traditionally spoke Ladino (Judeo-Spanish), now maintained by a few thousand speakers."</data>
+      <data key="d2">46d443d820dd0a5e5d4d922fed9ccde3</data>
+    </node>
+    <node id="&quot;URUMS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Urums are a community of Caucasus Greeks from the Tsalka region of central Georgia and ethnic Greeks from southeastern Ukraine, who arrived in Northern Greece as economic migrants in the 1990s."</data>
+      <data key="d2">46d443d820dd0a5e5d4d922fed9ccde3</data>
+    </node>
+    <node id="&quot;SLAVOMACEDONIAN-SPEAKING GROUPS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">46d443d820dd0a5e5d4d922fed9ccde3</data>
+    </node>
+    <node id="&quot;RUSSIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Russia is a European country where multiple languages are spoken. Specifically, Eastern Armenian is spoken in the diaspora community, while the Chukotkan language is spoken in two autonomous regions located at the extreme northeast of the country.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">4e846c91fd36d15a226224e03ab81d85,f177cfea59f4b405bae5185e50c1fb63</data>
+    </node>
+    <node id="&quot;PACIFIC&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Pacific is a body of water that bounds the region where Chukotkan is spoken on the east."</data>
+      <data key="d2">f177cfea59f4b405bae5185e50c1fb63</data>
+    </node>
+    <node id="&quot;ARCTIC&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Arctic is a region that bounds the area where Chukotkan is spoken on the north."</data>
+      <data key="d2">f177cfea59f4b405bae5185e50c1fb63</data>
+    </node>
+    <node id="&quot;CHUKOTKAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f177cfea59f4b405bae5185e50c1fb63</data>
+    </node>
+    <node id="&quot;ASIA MINOR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Asia Minor is a region from which speakers of the Pontic dialect migrated to Greece after the Greek genocide."</data>
+      <data key="d2">60d554a2ff5554c657c059068b6677b6</data>
+    </node>
+    <node id="&quot;GREEK MACEDONIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Greek Macedonia is a region in Northern Greece where the Sarakatsani, traditionally transhumant mountain shepherds, reside and speak archaic Greek."</data>
+      <data key="d2">60d554a2ff5554c657c059068b6677b6</data>
+    </node>
+    <node id="&quot;PELOPONNESE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Peloponnese is a region in southeastern Greece where the Tsakonian language is still spoken in some villages."</data>
+      <data key="d2">60d554a2ff5554c657c059068b6677b6</data>
+    </node>
+    <node id="&quot;SARAKATSANI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Sarakatsani are traditionally transhumant mountain shepherds of Greek Macedonia and other parts of Northern Greece, speaking archaic Greek."</data>
+      <data key="d2">60d554a2ff5554c657c059068b6677b6</data>
+    </node>
+    <node id="&quot;GREECE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">60d554a2ff5554c657c059068b6677b6</data>
+    </node>
+    <node id="&quot;TSAKONIAN LANGUAGE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">60d554a2ff5554c657c059068b6677b6</data>
+    </node>
+    <node id="&quot;WESTERN CATALONIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Western Catalonia refers to the provinces of Lleida and the western half of Tarragona where Valencian is spoken."</data>
+      <data key="d2">20718e4b9d1c7228bff508e8e5777a32</data>
+    </node>
+    <node id="&quot;LLEIDA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lleida is a province in Western Catalonia where Valencian is spoken."</data>
+      <data key="d2">20718e4b9d1c7228bff508e8e5777a32</data>
+    </node>
+    <node id="&quot;TARRAGONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Tarragona is a province in Western Catalonia where Valencian is spoken, with the dialect being spoken in its western half."</data>
+      <data key="d2">20718e4b9d1c7228bff508e8e5777a32</data>
+    </node>
+    <node id="&quot;VALENCIAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">20718e4b9d1c7228bff508e8e5777a32</data>
+    </node>
+    <node id="&quot;WU&quot;">
+      <data key="d0">"LANGUAGE"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+WU is a dialect spoken by most inhabitants of Zhejiang, with diverse variations across the region.</data>
+      <data key="d2">77392d459d32a68fb6f202831517fc63,bf1512d78cafefbb82966bff82fc5263</data>
+    </node>
+    <node id="&quot;ANHUI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Anhui is a neighboring region to Zhejiang, where Mandarin and Huizhou dialects are spoken."</data>
+      <data key="d2">77392d459d32a68fb6f202831517fc63</data>
+    </node>
+    <node id="&quot;HANGZHOU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hangzhou is a location in Zhejiang with its own distinct dialect."</data>
+      <data key="d2">77392d459d32a68fb6f202831517fc63</data>
+    </node>
+    <node id="&quot;SHAOXING&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Shaoxing is a location in Zhejiang with its own distinct dialect."</data>
+      <data key="d2">77392d459d32a68fb6f202831517fc63</data>
+    </node>
+    <node id="&quot;NINGBO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ningbo is a location in Zhejiang with its own distinct dialect."</data>
+      <data key="d2">77392d459d32a68fb6f202831517fc63</data>
+    </node>
+    <node id="&quot;WENZHOU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Wenzhou is a location in Zhejiang with its own distinct dialect."</data>
+      <data key="d2">77392d459d32a68fb6f202831517fc63</data>
+    </node>
+    <node id="&quot;TAIZHOU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Taizhou is a location in Zhejiang with its own distinct dialect."</data>
+      <data key="d2">77392d459d32a68fb6f202831517fc63</data>
+    </node>
+    <node id="&quot;JINHUA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Jinhua is a location in Zhejiang with its own distinct dialect."</data>
+      <data key="d2">77392d459d32a68fb6f202831517fc63</data>
+    </node>
+    <node id="&quot;QUZHOU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Quzhou is a location in Zhejiang with its own distinct dialect."</data>
+      <data key="d2">77392d459d32a68fb6f202831517fc63</data>
+    </node>
+    <node id="&quot;ZHEJIANG&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">77392d459d32a68fb6f202831517fc63</data>
+    </node>
+    <node id="&quot;MANDARIN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">77392d459d32a68fb6f202831517fc63</data>
+    </node>
+    <node id="&quot;MIN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">77392d459d32a68fb6f202831517fc63</data>
+    </node>
+    <node id="&quot;LIPANANAHAY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lipananahay refers to Armenians who originate from Lebanon."</data>
+      <data key="d2">4e846c91fd36d15a226224e03ab81d85</data>
+    </node>
+    <node id="&quot;ARMENIAN COMMUNITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Armenian community is a diasporan community with unofficial classifications of different kinds of Armenians."</data>
+      <data key="d2">4e846c91fd36d15a226224e03ab81d85</data>
+    </node>
+    <node id="&quot;IRAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Iran is a country where Eastern Armenian is primarily spoken in the diaspora."</data>
+      <data key="d2">4e846c91fd36d15a226224e03ab81d85</data>
+    </node>
+    <node id="&quot;LEBANON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lebanon is a country where Armenians from Lebanon are referred to as Lipananahay."</data>
+      <data key="d2">4e846c91fd36d15a226224e03ab81d85</data>
+    </node>
+    <node id="&quot;UKRAINE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ukraine is a European country where Eastern Armenian is spoken in the diaspora."</data>
+      <data key="d2">4e846c91fd36d15a226224e03ab81d85</data>
+    </node>
+    <node id="&quot;GEORGIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Georgia is a European country where Eastern Armenian is spoken in the diaspora, with Armenians forming a majority in the Samtskhe-Javakheti province."</data>
+      <data key="d2">4e846c91fd36d15a226224e03ab81d85</data>
+    </node>
+    <node id="&quot;SAMTSKHE-JAVAKHETI PROVINCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Samtskhe-Javakheti province is a region in Georgia where Armenians form a majority."</data>
+      <data key="d2">4e846c91fd36d15a226224e03ab81d85</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Canada is a country with diverse Armenian communities where different groups tend to cluster together."</data>
+      <data key="d2">4e846c91fd36d15a226224e03ab81d85</data>
+    </node>
+    <node id="&quot;U.S.&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S. is a country with diverse Armenian communities where different groups tend to cluster together."</data>
+      <data key="d2">4e846c91fd36d15a226224e03ab81d85</data>
+    </node>
+    <node id="&quot;PARSKAHAY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4e846c91fd36d15a226224e03ab81d85</data>
+    </node>
+    <node id="&quot;PAKISTAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pakistan is a country where Punjabi is spoken, but not officially recognized at the national level."</data>
+      <data key="d2">eb9d4bbf58491df6177e5175f22b0c2c</data>
+    </node>
+    <node id="&quot;PUNJABIS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Punjabis are an ethnic group comprising different tribes, clans, and communities, with traditional occupations."</data>
+      <data key="d2">eb9d4bbf58491df6177e5175f22b0c2c</data>
+    </node>
+    <node id="&quot;URDU&quot;">
+      <data key="d0">"LANGUAGE"</data>
+      <data key="d1">"Urdu is a language used to refer to clans (&#1576;&#1585;&#1575;&#1583;&#1585;&#1740;&#8206;) in Pakistani Punjab."</data>
+      <data key="d2">eb9d4bbf58491df6177e5175f22b0c2c</data>
+    </node>
+    <node id="&quot;MAJHI&quot;">
+      <data key="d0">"DIALECT"</data>
+      <data key="d1">"Majhi is a dialect of Punjabi spoken in the province, considered as Standard."</data>
+      <data key="d2">eb9d4bbf58491df6177e5175f22b0c2c</data>
+    </node>
+    <node id="&quot;SARAIKI&quot;">
+      <data key="d0">"DIALECT"</data>
+      <data key="d1">"Saraiki is a dialect of Punjabi mostly spoken in south Punjab."</data>
+      <data key="d2">eb9d4bbf58491df6177e5175f22b0c2c</data>
+    </node>
+    <node id="&quot;HINDKO&quot;">
+      <data key="d0">"DIALECT"</data>
+      <data key="d1">"Hindko is a dialect of Punjabi spoken in the province."</data>
+      <data key="d2">eb9d4bbf58491df6177e5175f22b0c2c</data>
+    </node>
+    <node id="&quot;PASHTO&quot;">
+      <data key="d0">"LANGUAGE"</data>
+      <data key="d1">"Pashto is a language spoken in some parts of north west Punjab, especially in Attock District and Mianwali District."</data>
+      <data key="d2">eb9d4bbf58491df6177e5175f22b0c2c</data>
+    </node>
+    <node id="&quot;PUNJAB&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">eb9d4bbf58491df6177e5175f22b0c2c</data>
+    </node>
+    <node id="&quot;SOUTHERN NATIONS, NATIONALITIES, AND PEOPLES' REGION&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Southern Nations, Nationalities, and Peoples' Region is a region in Ethiopia where Endegagn is located."</data>
+      <data key="d2">3daa315c1cd2b24567ba11c76a8948b7</data>
+    </node>
+    <node id="&quot;GURAGE ZONE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Gurage Zone is an administrative zone that includes the Endegagn woreda."</data>
+      <data key="d2">3daa315c1cd2b24567ba11c76a8948b7</data>
+    </node>
+    <node id="&quot;SILT'E ZONE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Silt'e Zone is a neighboring zone to the southeast of Endegagn."</data>
+      <data key="d2">3daa315c1cd2b24567ba11c76a8948b7</data>
+    </node>
+    <node id="&quot;HADIYA ZONE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Hadiya Zone is a neighboring zone to the southwest of Endegagn."</data>
+      <data key="d2">3daa315c1cd2b24567ba11c76a8948b7</data>
+    </node>
+    <node id="&quot;ENEMORINA EANER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Enemorina Eaner is a woreda that borders Endegagn to the north."</data>
+      <data key="d2">3daa315c1cd2b24567ba11c76a8948b7</data>
+    </node>
+    <node id="&quot;OROMIA REGION&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Oromia Region is a neighboring region to the north of Endegagn."</data>
+      <data key="d2">3daa315c1cd2b24567ba11c76a8948b7</data>
+    </node>
+    <node id="&quot;SODO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Sodo is a neighboring area to the northeast of Endegagn."</data>
+      <data key="d2">3daa315c1cd2b24567ba11c76a8948b7</data>
+    </node>
+    <node id="&quot;GETA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Geta is a neighboring area to the northeast of Endegagn."</data>
+      <data key="d2">3daa315c1cd2b24567ba11c76a8948b7</data>
+    </node>
+    <node id="&quot;ENDEGAGN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3daa315c1cd2b24567ba11c76a8948b7</data>
+    </node>
+    <node id="&quot;NORTHERN SOMALI&quot;">
+      <data key="d0">"DIALECT"</data>
+      <data key="d1">"Northern Somali is a dialect that forms the basis for Standard Somali."</data>
+      <data key="d2">5f544f11983b9b046066a468725964c5</data>
+    </node>
+    <node id="&quot;BENAADIR&quot;">
+      <data key="d0">"DIALECT"</data>
+      <data key="d1">"Benaadir, also known as Coastal Somali, is a dialect spoken on the Benadir coast and in the immediate hinterland."</data>
+      <data key="d2">5f544f11983b9b046066a468725964c5</data>
+    </node>
+    <node id="&quot;MAAY&quot;">
+      <data key="d0">"DIALECT"</data>
+      <data key="d1">"Maay is a dialect principally spoken by the Digil and Mirifle (Rahanweyn) clans in southern Somalia."</data>
+      <data key="d2">5f544f11983b9b046066a468725964c5</data>
+    </node>
+    <node id="&quot;DIGIL&quot;">
+      <data key="d0">"CLAN"</data>
+      <data key="d1">"Digil is a clan that speaks the Maay dialect in southern Somalia."</data>
+      <data key="d2">5f544f11983b9b046066a468725964c5</data>
+    </node>
+    <node id="&quot;MIRIFLE (RAHANWEYN)&quot;">
+      <data key="d0">"CLAN"</data>
+      <data key="d1">"Mirifle (Rahanweyn) is a clan that speaks the Maay dialect in southern Somalia."</data>
+      <data key="d2">5f544f11983b9b046066a468725964c5</data>
+    </node>
+    <node id="&quot;MOGADISHU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mogadishu is a geographic location on the Benadir coast where Benaadir dialect is spoken."</data>
+      <data key="d2">5f544f11983b9b046066a468725964c5</data>
+    </node>
+    <node id="&quot;SOMALI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5f544f11983b9b046066a468725964c5</data>
+    </node>
+    <node id="&quot;TONG'AN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Tong'an is a region surrounding Xiamen, now part of the Greater Xiamen area."</data>
+      <data key="d2">c3ca3111d563098056f06331cfafd64a</data>
+    </node>
+    <node id="&quot;XIANG'AN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Xiang'an is a region surrounding Xiamen, now part of the Greater Xiamen area."</data>
+      <data key="d2">c3ca3111d563098056f06331cfafd64a</data>
+    </node>
+    <node id="&quot;QUANZHOU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Quanzhou is a city in southeastern China where traders traveled from to carry on their businesses in Xiamen."</data>
+      <data key="d2">c3ca3111d563098056f06331cfafd64a</data>
+    </node>
+    <node id="&quot;ZHANGZHOU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Zhangzhou is a city located in Fujian, southeastern China. Historically, it played a significant role in the development of Middle Chinese phonology, which was brought to the region from northern China during the 7th century. Additionally, Zhangzhou has also been a source of migrant labor, with peasants traveling from the area to find job opportunities in nearby Xiamen.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">c3ca3111d563098056f06331cfafd64a,e235fdaac7fb40225f969cdeb86fce84</data>
+    </node>
+    <node id="&quot;HENAN LUOYANG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Henan Luoyang is the common place of origin for Quanzhou and Zhangzhou varieties."</data>
+      <data key="d2">c3ca3111d563098056f06331cfafd64a</data>
+    </node>
+    <node id="&quot;AMOY DIALECT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Amoy dialect developed as a result of dialect leveling between Quanzhou and Zhangzhou varieties."</data>
+      <data key="d2">c3ca3111d563098056f06331cfafd64a</data>
+    </node>
+    <node id="&quot;XIAMEN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c3ca3111d563098056f06331cfafd64a</data>
+    </node>
+    <node id="&quot;QUANZHOU TRADERS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c3ca3111d563098056f06331cfafd64a</data>
+    </node>
+    <node id="&quot;ZHANGZHOU PEASANTS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c3ca3111d563098056f06331cfafd64a</data>
+    </node>
+    <node id="&quot;QUANZHOU VARIETY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c3ca3111d563098056f06331cfafd64a</data>
+    </node>
+    <node id="&quot;ZHANGZHOU VARIETY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c3ca3111d563098056f06331cfafd64a</data>
+    </node>
+    <node id="&quot;RICHARD I OF NORMANDY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Richard I of Normandy was a leader who forged the Duchy of Normandy into a cohesive principality."</data>
+      <data key="d2">c029224de8a38ff3848daa79fe875cec</data>
+    </node>
+    <node id="&quot;ROGER II&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Roger II was a Norman adventurer who founded the Kingdom of Sicily after conquering southern Italy."</data>
+      <data key="d2">c029224de8a38ff3848daa79fe875cec</data>
+    </node>
+    <node id="&quot;WILLIAM THE CONQUEROR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"William the Conqueror led an expedition that resulted in the Norman conquest of England at the Battle of Hastings in 1066."</data>
+      <data key="d2">c029224de8a38ff3848daa79fe875cec</data>
+    </node>
+    <node id="&quot;BOHEMOND I&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bohemond I was a prince who founded the Principality of Antioch in the Levant."</data>
+      <data key="d2">c029224de8a38ff3848daa79fe875cec</data>
+    </node>
+    <node id="&quot;DUCHY OF NORMANDY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Duchy of Normandy was a great fief of medieval France formed by treaty with the French crown."</data>
+      <data key="d2">c029224de8a38ff3848daa79fe875cec</data>
+    </node>
+    <node id="&quot;KINGDOM OF SICILY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Kingdom of Sicily was founded by Norman adventurers under Roger II after conquering southern Italy."</data>
+      <data key="d2">c029224de8a38ff3848daa79fe875cec</data>
+    </node>
+    <node id="&quot;PRINCIPALITY OF ANTIOCH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Principality of Antioch was founded by Bohemond I in the Levant."</data>
+      <data key="d2">c029224de8a38ff3848daa79fe875cec</data>
+    </node>
+    <node id="&quot;BATTLE OF HASTINGS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Battle of Hastings was a significant event in 1066 where William the Conqueror led an expedition that resulted in the Norman conquest of England."</data>
+      <data key="d2">c029224de8a38ff3848daa79fe875cec</data>
+    </node>
+    <node id="&quot;NORMAN DYNASTY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c029224de8a38ff3848daa79fe875cec</data>
+    </node>
+    <node id="&quot;CHEN YUANGUANG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Chen Yuanguang was the son of Chen Zheng and participated in the military expedition to pacify the rebellion in Fujian."</data>
+      <data key="d2">e235fdaac7fb40225f969cdeb86fce84</data>
+    </node>
+    <node id="&quot;EMPEROR GAOZONG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Emperor Gaozong was the ruler during whose reign Chen Zheng led a military expedition to pacify the rebellion in Fujian."</data>
+      <data key="d2">e235fdaac7fb40225f969cdeb86fce84</data>
+    </node>
+    <node id="&quot;WANG CHAO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Wang Chao was a leader who led a military expedition force to pacify the Huang Chao rebellion during the reign of Emperor Xizong of Tang."</data>
+      <data key="d2">e235fdaac7fb40225f969cdeb86fce84</data>
+    </node>
+    <node id="&quot;WANG SHENZHI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Wang Shenzhi was the brother of Wang Chao and participated in the military expedition force to pacify the Huang Chao rebellion."</data>
+      <data key="d2">e235fdaac7fb40225f969cdeb86fce84</data>
+    </node>
+    <node id="&quot;EMPEROR XIZONG OF TANG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Emperor Xizong of Tang was the ruler during whose reign Wang Chao and Wang Shenzhi led a military expedition force to pacify the Huang Chao rebellion."</data>
+      <data key="d2">e235fdaac7fb40225f969cdeb86fce84</data>
+    </node>
+    <node id="&quot;HUANG CHAO REBELLION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Huang Chao rebellion was a rebellion that was pacified by Wang Chao and Wang Shenzhi during the reign of Emperor Xizong of Tang."</data>
+      <data key="d2">e235fdaac7fb40225f969cdeb86fce84</data>
+    </node>
+    <node id="&quot;CHEN ZHENG&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e235fdaac7fb40225f969cdeb86fce84</data>
+    </node>
+    <node id="&quot;KINGDOM OF ENGLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Kingdom of England was a territorial entity where Old English was spoken, comprising most of present-day England and part of southeastern Scotland."</data>
+      <data key="d2">7c0a5abceb46d040187e52f4e5bf7637</data>
+    </node>
+    <node id="&quot;NORTHUMBRIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Northumbria was an Anglo-Saxon kingdom that belonged to the territory where Old English was spoken, including parts of present-day England and southeastern Scotland."</data>
+      <data key="d2">7c0a5abceb46d040187e52f4e5bf7637</data>
+    </node>
+    <node id="&quot;WALES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Wales is a region where Celtic languages were spoken, distinct from the areas where Old English was spoken."</data>
+      <data key="d2">7c0a5abceb46d040187e52f4e5bf7637</data>
+    </node>
+    <node id="&quot;SCOTLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Scotland is a region where Celtic languages were spoken, except in areas of Scandinavian settlements where Old Norse was spoken."</data>
+      <data key="d2">7c0a5abceb46d040187e52f4e5bf7637</data>
+    </node>
+    <node id="&quot;CORNWALL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Cornwall is a region where Medieval Cornish was spoken, adjacent to parts of Devon."</data>
+      <data key="d2">7c0a5abceb46d040187e52f4e5bf7637</data>
+    </node>
+    <node id="&quot;DEVON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Devon is a region where Medieval Cornish was spoken, adjacent to Cornwall."</data>
+      <data key="d2">7c0a5abceb46d040187e52f4e5bf7637</data>
+    </node>
+    <node id="&quot;CUMBRIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Cumbria is a region where Cumbric survived perhaps to the 12th century."</data>
+      <data key="d2">7c0a5abceb46d040187e52f4e5bf7637</data>
+    </node>
+    <node id="&quot;ANGLO-WELSH BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Anglo-Welsh border is a region where Welsh may have been spoken on the English side."</data>
+      <data key="d2">7c0a5abceb46d040187e52f4e5bf7637</data>
+    </node>
+    <node id="&quot;OLD ENGLISH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7c0a5abceb46d040187e52f4e5bf7637</data>
+    </node>
+    <node id="&quot;CELTIC LANGUAGES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7c0a5abceb46d040187e52f4e5bf7637</data>
+    </node>
+    <node id="&quot;CHU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Chu is a state that was not founded by Chinese speakers, but its Chinese spoken influenced the language in Wu."</data>
+      <data key="d2">bf1512d78cafefbb82966bff82fc5263</data>
+    </node>
+    <node id="&quot;MANDARIN CHINESE&quot;">
+      <data key="d0">"LANGUAGE"</data>
+      <data key="d1">"Mandarin Chinese is a language where many words have either fallen out of daily use, been substituted, or developed newer meanings compared to Hokkien."</data>
+      <data key="d2">bf1512d78cafefbb82966bff82fc5263</data>
+    </node>
+    <edge source="&quot;ALBANY, NEW YORK&quot;" target="&quot;MOHAWK DUTCH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Mohawk Dutch was spoken in Albany, New York."</data>
+      <data key="d6">200090f5f2a9ee423e202f4726045cd4</data>
+    </edge>
+    <edge source="&quot;GUYANA&quot;" target="&quot;BERBICE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Berbice was spoken in Guyana."</data>
+      <data key="d6">200090f5f2a9ee423e202f4726045cd4</data>
+    </edge>
+    <edge source="&quot;GUYANA&quot;" target="&quot;SKEPI&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Skepi was spoken in Guyana."</data>
+      <data key="d6">200090f5f2a9ee423e202f4726045cd4</data>
+    </edge>
+    <edge source="&quot;UNITED STATES VIRGIN ISLANDS&quot;" target="&quot;NEGERHOLLANDS&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Negerhollands was spoken in the United States Virgin Islands."</data>
+      <data key="d6">200090f5f2a9ee423e202f4726045cd4</data>
+    </edge>
+    <edge source="&quot;JERSEY DUTCH&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Jersey Dutch was spoken in the United States, specifically in Bergen and Passaic counties."</data>
+      <data key="d6">200090f5f2a9ee423e202f4726045cd4</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Arizona is a state in the United States."</data>
+      <data key="d6">147d0b0886c07d2b523ddf29c67410eb,200090f5f2a9ee423e202f4726045cd4,20718e4b9d1c7228bff508e8e5777a32,3daa315c1cd2b24567ba11c76a8948b7,46d443d820dd0a5e5d4d922fed9ccde3,4e846c91fd36d15a226224e03ab81d85,5f544f11983b9b046066a468725964c5,60d554a2ff5554c657c059068b6677b6,77392d459d32a68fb6f202831517fc63,7c0a5abceb46d040187e52f4e5bf7637,9c74005d49181b9d688597076ad6163a,bf1512d78cafefbb82966bff82fc5263,c029224de8a38ff3848daa79fe875cec,c3ca3111d563098056f06331cfafd64a,cda4cd551e3eef1dac0e28d4ede084f8,d8f3997027240d60da813ffedfa48efe,e235fdaac7fb40225f969cdeb86fce84,e8f12035e4c959b4d10789daa05a620f,eb9d4bbf58491df6177e5175f22b0c2c,f177cfea59f4b405bae5185e50c1fb63</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Tucson is the county seat of Pima County."</data>
+      <data key="d6">147d0b0886c07d2b523ddf29c67410eb,200090f5f2a9ee423e202f4726045cd4,20718e4b9d1c7228bff508e8e5777a32,3daa315c1cd2b24567ba11c76a8948b7,46d443d820dd0a5e5d4d922fed9ccde3,4e846c91fd36d15a226224e03ab81d85,5f544f11983b9b046066a468725964c5,60d554a2ff5554c657c059068b6677b6,77392d459d32a68fb6f202831517fc63,7c0a5abceb46d040187e52f4e5bf7637,9c74005d49181b9d688597076ad6163a,bf1512d78cafefbb82966bff82fc5263,c029224de8a38ff3848daa79fe875cec,c3ca3111d563098056f06331cfafd64a,cda4cd551e3eef1dac0e28d4ede084f8,d8f3997027240d60da813ffedfa48efe,e235fdaac7fb40225f969cdeb86fce84,e8f12035e4c959b4d10789daa05a620f,eb9d4bbf58491df6177e5175f22b0c2c,f177cfea59f4b405bae5185e50c1fb63</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Pima County is a county in Arizona."</data>
+      <data key="d6">147d0b0886c07d2b523ddf29c67410eb,200090f5f2a9ee423e202f4726045cd4,20718e4b9d1c7228bff508e8e5777a32,3daa315c1cd2b24567ba11c76a8948b7,46d443d820dd0a5e5d4d922fed9ccde3,4e846c91fd36d15a226224e03ab81d85,5f544f11983b9b046066a468725964c5,60d554a2ff5554c657c059068b6677b6,77392d459d32a68fb6f202831517fc63,7c0a5abceb46d040187e52f4e5bf7637,9c74005d49181b9d688597076ad6163a,bf1512d78cafefbb82966bff82fc5263,c029224de8a38ff3848daa79fe875cec,c3ca3111d563098056f06331cfafd64a,cda4cd551e3eef1dac0e28d4ede084f8,d8f3997027240d60da813ffedfa48efe,e235fdaac7fb40225f969cdeb86fce84,e8f12035e4c959b4d10789daa05a620f,eb9d4bbf58491df6177e5175f22b0c2c,f177cfea59f4b405bae5185e50c1fb63</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"The University of Arizona is located in Tucson."</data>
+      <data key="d6">147d0b0886c07d2b523ddf29c67410eb,200090f5f2a9ee423e202f4726045cd4,20718e4b9d1c7228bff508e8e5777a32,3daa315c1cd2b24567ba11c76a8948b7,46d443d820dd0a5e5d4d922fed9ccde3,4e846c91fd36d15a226224e03ab81d85,5f544f11983b9b046066a468725964c5,60d554a2ff5554c657c059068b6677b6,77392d459d32a68fb6f202831517fc63,7c0a5abceb46d040187e52f4e5bf7637,9c74005d49181b9d688597076ad6163a,bf1512d78cafefbb82966bff82fc5263,c029224de8a38ff3848daa79fe875cec,c3ca3111d563098056f06331cfafd64a,cda4cd551e3eef1dac0e28d4ede084f8,d8f3997027240d60da813ffedfa48efe,e235fdaac7fb40225f969cdeb86fce84,e8f12035e4c959b4d10789daa05a620f,eb9d4bbf58491df6177e5175f22b0c2c,f177cfea59f4b405bae5185e50c1fb63</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Tucson is a city in Arizona."</data>
+      <data key="d6">147d0b0886c07d2b523ddf29c67410eb,200090f5f2a9ee423e202f4726045cd4,20718e4b9d1c7228bff508e8e5777a32,3daa315c1cd2b24567ba11c76a8948b7,46d443d820dd0a5e5d4d922fed9ccde3,4e846c91fd36d15a226224e03ab81d85,5f544f11983b9b046066a468725964c5,60d554a2ff5554c657c059068b6677b6,77392d459d32a68fb6f202831517fc63,7c0a5abceb46d040187e52f4e5bf7637,9c74005d49181b9d688597076ad6163a,bf1512d78cafefbb82966bff82fc5263,c029224de8a38ff3848daa79fe875cec,c3ca3111d563098056f06331cfafd64a,cda4cd551e3eef1dac0e28d4ede084f8,d8f3997027240d60da813ffedfa48efe,e235fdaac7fb40225f969cdeb86fce84,e8f12035e4c959b4d10789daa05a620f,eb9d4bbf58491df6177e5175f22b0c2c,f177cfea59f4b405bae5185e50c1fb63</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Phoenix is a city in Arizona."</data>
+      <data key="d6">147d0b0886c07d2b523ddf29c67410eb,200090f5f2a9ee423e202f4726045cd4,20718e4b9d1c7228bff508e8e5777a32,3daa315c1cd2b24567ba11c76a8948b7,46d443d820dd0a5e5d4d922fed9ccde3,4e846c91fd36d15a226224e03ab81d85,5f544f11983b9b046066a468725964c5,60d554a2ff5554c657c059068b6677b6,77392d459d32a68fb6f202831517fc63,7c0a5abceb46d040187e52f4e5bf7637,9c74005d49181b9d688597076ad6163a,bf1512d78cafefbb82966bff82fc5263,c029224de8a38ff3848daa79fe875cec,c3ca3111d563098056f06331cfafd64a,cda4cd551e3eef1dac0e28d4ede084f8,d8f3997027240d60da813ffedfa48efe,e235fdaac7fb40225f969cdeb86fce84,e8f12035e4c959b4d10789daa05a620f,eb9d4bbf58491df6177e5175f22b0c2c,f177cfea59f4b405bae5185e50c1fb63</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d6">147d0b0886c07d2b523ddf29c67410eb,200090f5f2a9ee423e202f4726045cd4,20718e4b9d1c7228bff508e8e5777a32,3daa315c1cd2b24567ba11c76a8948b7,46d443d820dd0a5e5d4d922fed9ccde3,4e846c91fd36d15a226224e03ab81d85,5f544f11983b9b046066a468725964c5,60d554a2ff5554c657c059068b6677b6,77392d459d32a68fb6f202831517fc63,7c0a5abceb46d040187e52f4e5bf7637,9c74005d49181b9d688597076ad6163a,bf1512d78cafefbb82966bff82fc5263,c029224de8a38ff3848daa79fe875cec,c3ca3111d563098056f06331cfafd64a,cda4cd551e3eef1dac0e28d4ede084f8,d8f3997027240d60da813ffedfa48efe,e235fdaac7fb40225f969cdeb86fce84,e8f12035e4c959b4d10789daa05a620f,eb9d4bbf58491df6177e5175f22b0c2c,f177cfea59f4b405bae5185e50c1fb63</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Mexico shares an international border with the United States."</data>
+      <data key="d6">147d0b0886c07d2b523ddf29c67410eb,200090f5f2a9ee423e202f4726045cd4,20718e4b9d1c7228bff508e8e5777a32,3daa315c1cd2b24567ba11c76a8948b7,46d443d820dd0a5e5d4d922fed9ccde3,4e846c91fd36d15a226224e03ab81d85,5f544f11983b9b046066a468725964c5,60d554a2ff5554c657c059068b6677b6,77392d459d32a68fb6f202831517fc63,7c0a5abceb46d040187e52f4e5bf7637,9c74005d49181b9d688597076ad6163a,bf1512d78cafefbb82966bff82fc5263,c029224de8a38ff3848daa79fe875cec,c3ca3111d563098056f06331cfafd64a,cda4cd551e3eef1dac0e28d4ede084f8,d8f3997027240d60da813ffedfa48efe,e235fdaac7fb40225f969cdeb86fce84,e8f12035e4c959b4d10789daa05a620f,eb9d4bbf58491df6177e5175f22b0c2c,f177cfea59f4b405bae5185e50c1fb63</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d6">147d0b0886c07d2b523ddf29c67410eb,200090f5f2a9ee423e202f4726045cd4,20718e4b9d1c7228bff508e8e5777a32,3daa315c1cd2b24567ba11c76a8948b7,46d443d820dd0a5e5d4d922fed9ccde3,4e846c91fd36d15a226224e03ab81d85,5f544f11983b9b046066a468725964c5,60d554a2ff5554c657c059068b6677b6,77392d459d32a68fb6f202831517fc63,7c0a5abceb46d040187e52f4e5bf7637,9c74005d49181b9d688597076ad6163a,bf1512d78cafefbb82966bff82fc5263,c029224de8a38ff3848daa79fe875cec,c3ca3111d563098056f06331cfafd64a,cda4cd551e3eef1dac0e28d4ede084f8,d8f3997027240d60da813ffedfa48efe,e235fdaac7fb40225f969cdeb86fce84,e8f12035e4c959b4d10789daa05a620f,eb9d4bbf58491df6177e5175f22b0c2c,f177cfea59f4b405bae5185e50c1fb63</data>
+    </edge>
+    <edge source="&quot;DUTCH ADULTS&quot;" target="&quot;GEERT DRIESSEN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Geert Driessen's research focuses on the decline of dialects and regional languages among Dutch adults."</data>
+      <data key="d6">e8f12035e4c959b4d10789daa05a620f</data>
+    </edge>
+    <edge source="&quot;DUTCH ADULTS&quot;" target="&quot;LIMBURGISH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Limburgish is spoken by 54% of Dutch adults, making it one of the most widely spoken regional languages."</data>
+      <data key="d6">e8f12035e4c959b4d10789daa05a620f</data>
+    </edge>
+    <edge source="&quot;PRIMARY SCHOOL AGED CHILDREN&quot;" target="&quot;GEERT DRIESSEN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Geert Driessen's research also examines the decline of dialects and regional languages among primary school aged children in the Netherlands."</data>
+      <data key="d6">e8f12035e4c959b4d10789daa05a620f</data>
+    </edge>
+    <edge source="&quot;PRIMARY SCHOOL AGED CHILDREN&quot;" target="&quot;FRISIAN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Frisian is spoken by 22% of primary school aged children in the Netherlands."</data>
+      <data key="d6">e8f12035e4c959b4d10789daa05a620f</data>
+    </edge>
+    <edge source="&quot;FUJIAN&quot;" target="&quot;HOKKIEN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Hokkien originated from a dialect in southern Fujian."</data>
+      <data key="d6">9c74005d49181b9d688597076ad6163a</data>
+    </edge>
+    <edge source="&quot;FUJIAN&quot;" target="&quot;MIN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Fujian is a neighboring region to Zhejiang, where Min dialects are spoken."</data>
+      <data key="d6">77392d459d32a68fb6f202831517fc63</data>
+    </edge>
+    <edge source="&quot;FUJIAN&quot;" target="&quot;CHEN ZHENG&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Chen Zheng led a military expedition to pacify a rebellion in Fujian."</data>
+      <data key="d6">e235fdaac7fb40225f969cdeb86fce84</data>
+    </edge>
+    <edge source="&quot;SOUTHEAST ASIA&quot;" target="&quot;HOKKIEN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Hokkien dialects are spoken throughout Southeast Asia."</data>
+      <data key="d6">9c74005d49181b9d688597076ad6163a</data>
+    </edge>
+    <edge source="&quot;TAIWAN&quot;" target="&quot;HOKKIEN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Hokkien dialects are spoken in Taiwan."</data>
+      <data key="d6">9c74005d49181b9d688597076ad6163a</data>
+    </edge>
+    <edge source="&quot;QUANZHANG&quot;" target="&quot;HOKKIEN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Quanzhang is closely related to Hokkien."</data>
+      <data key="d6">9c74005d49181b9d688597076ad6163a</data>
+    </edge>
+    <edge source="&quot;HOKKIEN&quot;" target="&quot;WU&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The state of Wu is the origin of the ancestral language of Min and Wu dialect families, including Hokkien."</data>
+      <data key="d6">bf1512d78cafefbb82966bff82fc5263</data>
+    </edge>
+    <edge source="&quot;HOKKIEN&quot;" target="&quot;MANDARIN CHINESE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Hokkien and Mandarin Chinese have evolved differently, with some lexical meaning shared while others are innovative developments."</data>
+      <data key="d6">bf1512d78cafefbb82966bff82fc5263</data>
+    </edge>
+    <edge source="&quot;UGANDA&quot;" target="&quot;KINYARWANDA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Uganda is a country where Kinyarwanda is spoken in adjacent parts of southern regions."</data>
+      <data key="d6">d8f3997027240d60da813ffedfa48efe</data>
+    </edge>
+    <edge source="&quot;EASTERN DEMOCRATIC REPUBLIC OF THE CONGO&quot;" target="&quot;KINYARWANDA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Eastern Democratic Republic of the Congo is a region where Kinyarwanda is spoken by at least 12 million people."</data>
+      <data key="d6">d8f3997027240d60da813ffedfa48efe</data>
+    </edge>
+    <edge source="&quot;BURUNDI&quot;" target="&quot;KIRUNDI&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Burundi is a country where Kirundi dialect is an official language."</data>
+      <data key="d6">d8f3997027240d60da813ffedfa48efe</data>
+    </edge>
+    <edge source="&quot;NORTH KIVU&quot;" target="&quot;KINYABWISHA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"North Kivu is a province in DR Congo where Kinyabwisha dialect is spoken."</data>
+      <data key="d6">d8f3997027240d60da813ffedfa48efe</data>
+    </edge>
+    <edge source="&quot;SOUTH KIVU&quot;" target="&quot;KINYAMULENGE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"South Kivu is a province in DR Congo where Kinyamulenge dialect is spoken."</data>
+      <data key="d6">d8f3997027240d60da813ffedfa48efe</data>
+    </edge>
+    <edge source="&quot;RWANDA&quot;" target="&quot;KINYARWANDA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Rwanda is a country where Kinyarwanda is an official language."</data>
+      <data key="d6">d8f3997027240d60da813ffedfa48efe</data>
+    </edge>
+    <edge source="&quot;LOW GERMAN&quot;" target="&quot;GERMANY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Low German is spoken in Germany."</data>
+      <data key="d6">cda4cd551e3eef1dac0e28d4ede084f8</data>
+    </edge>
+    <edge source="&quot;LOW GERMAN&quot;" target="&quot;STANDARD GERMAN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Low German is roofed by Standard German in modern times."</data>
+      <data key="d6">cda4cd551e3eef1dac0e28d4ede084f8</data>
+    </edge>
+    <edge source="&quot;EASTERN ARMENIAN DIALECT&quot;" target="&quot;ARMENIAN LANGUAGE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The Armenian language has Eastern Armenian as one of its main dialects."</data>
+      <data key="d6">147d0b0886c07d2b523ddf29c67410eb</data>
+    </edge>
+    <edge source="&quot;EASTERN ARMENIAN DIALECT&quot;" target="&quot;ARMENIAN WIKIPEDIA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The Armenian Wikipedia contains articles in the Eastern Armenian dialect."</data>
+      <data key="d6">147d0b0886c07d2b523ddf29c67410eb</data>
+    </edge>
+    <edge source="&quot;WESTERN ARMENIAN DIALECT&quot;" target="&quot;ARMENIAN LANGUAGE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The Armenian language has Western Armenian as one of its main dialects."</data>
+      <data key="d6">147d0b0886c07d2b523ddf29c67410eb</data>
+    </edge>
+    <edge source="&quot;WESTERN ARMENIAN DIALECT&quot;" target="&quot;ARMENIAN WIKIPEDIA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The Armenian Wikipedia also contains articles in the Western Armenian dialect."</data>
+      <data key="d6">147d0b0886c07d2b523ddf29c67410eb</data>
+    </edge>
+    <edge source="&quot;WESTERN ARMENIAN DIALECT&quot;" target="&quot;ARMENIAN DIASPORA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The Western Armenian dialect is predominantly spoken in the Armenian Diaspora."</data>
+      <data key="d6">147d0b0886c07d2b523ddf29c67410eb</data>
+    </edge>
+    <edge source="&quot;GREEKS&quot;" target="&quot;SLAVOMACEDONIAN-SPEAKING GROUPS&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Slavomacedonian-speaking groups identify ethnically as Greeks, despite speaking Slavic dialects."</data>
+      <data key="d6">46d443d820dd0a5e5d4d922fed9ccde3</data>
+    </edge>
+    <edge source="&quot;GREEKS&quot;" target="&quot;JEWISH COMMUNITY IN GREECE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The Jewish community in Greece is a minority group within the Greek population, maintaining their own language and culture."</data>
+      <data key="d6">46d443d820dd0a5e5d4d922fed9ccde3</data>
+    </edge>
+    <edge source="&quot;MACEDONIA&quot;" target="&quot;SLAVOMACEDONIAN-SPEAKING GROUPS&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Macedonia is home to Slavomacedonian-speaking groups, with a significant number of Slavic speakers."</data>
+      <data key="d6">46d443d820dd0a5e5d4d922fed9ccde3</data>
+    </edge>
+    <edge source="&quot;RUSSIA&quot;" target="&quot;CHUKOTKAN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Chukotkan is spoken in Russia, specifically in two autonomous regions at the extreme northeast."</data>
+      <data key="d6">f177cfea59f4b405bae5185e50c1fb63</data>
+    </edge>
+    <edge source="&quot;RUSSIA&quot;" target="&quot;PACIFIC&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The Pacific bounds the region where Chukotkan is spoken on the east, which is part of Russia."</data>
+      <data key="d6">f177cfea59f4b405bae5185e50c1fb63</data>
+    </edge>
+    <edge source="&quot;RUSSIA&quot;" target="&quot;ARCTIC&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The Arctic bounds the area where Chukotkan is spoken on the north, which is part of Russia."</data>
+      <data key="d6">f177cfea59f4b405bae5185e50c1fb63</data>
+    </edge>
+    <edge source="&quot;ASIA MINOR&quot;" target="&quot;GREECE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Greece received migrants from Asia Minor after the Greek genocide, who brought with them the Pontic dialect."</data>
+      <data key="d6">60d554a2ff5554c657c059068b6677b6</data>
+    </edge>
+    <edge source="&quot;GREEK MACEDONIA&quot;" target="&quot;SARAKATSANI&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The Sarakatsani reside in Greek Macedonia and other parts of Northern Greece, speaking archaic Greek."</data>
+      <data key="d6">60d554a2ff5554c657c059068b6677b6</data>
+    </edge>
+    <edge source="&quot;PELOPONNESE&quot;" target="&quot;TSAKONIAN LANGUAGE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The Tsakonian language is spoken in some villages in the southeastern Peloponnese region."</data>
+      <data key="d6">60d554a2ff5554c657c059068b6677b6</data>
+    </edge>
+    <edge source="&quot;WESTERN CATALONIA&quot;" target="&quot;VALENCIAN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Valencian is spoken in Western Catalonia."</data>
+      <data key="d6">20718e4b9d1c7228bff508e8e5777a32</data>
+    </edge>
+    <edge source="&quot;WESTERN CATALONIA&quot;" target="&quot;LLEIDA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Lleida is a province within Western Catalonia."</data>
+      <data key="d6">20718e4b9d1c7228bff508e8e5777a32</data>
+    </edge>
+    <edge source="&quot;WESTERN CATALONIA&quot;" target="&quot;TARRAGONA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Tarragona is a province within Western Catalonia, with Valencian being spoken in its western half."</data>
+      <data key="d6">20718e4b9d1c7228bff508e8e5777a32</data>
+    </edge>
+    <edge source="&quot;WU&quot;" target="&quot;ZHEJIANG&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Zhejiang is the region where Wu dialects are predominantly spoken."</data>
+      <data key="d6">77392d459d32a68fb6f202831517fc63</data>
+    </edge>
+    <edge source="&quot;WU&quot;" target="&quot;CHU&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The Chinese spoken in Chu influenced the language spoken in Wu."</data>
+      <data key="d6">bf1512d78cafefbb82966bff82fc5263</data>
+    </edge>
+    <edge source="&quot;ANHUI&quot;" target="&quot;MANDARIN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Anhui is a neighboring region to Zhejiang, where Mandarin is spoken."</data>
+      <data key="d6">77392d459d32a68fb6f202831517fc63</data>
+    </edge>
+    <edge source="&quot;LIPANANAHAY&quot;" target="&quot;LEBANON&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Lipananahay Armenians originate from Lebanon."</data>
+      <data key="d6">4e846c91fd36d15a226224e03ab81d85</data>
+    </edge>
+    <edge source="&quot;ARMENIAN COMMUNITY&quot;" target="&quot;IRAN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The Armenian community has a presence in Iran, where Eastern Armenian is spoken."</data>
+      <data key="d6">4e846c91fd36d15a226224e03ab81d85</data>
+    </edge>
+    <edge source="&quot;ARMENIAN COMMUNITY&quot;" target="&quot;LEBANON&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The Armenian community has a presence in Lebanon, with Armenians referred to as Lipananahay."</data>
+      <data key="d6">4e846c91fd36d15a226224e03ab81d85</data>
+    </edge>
+    <edge source="&quot;IRAN&quot;" target="&quot;PARSKAHAY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Parskahay Armenians originate from Iran."</data>
+      <data key="d6">4e846c91fd36d15a226224e03ab81d85</data>
+    </edge>
+    <edge source="&quot;PAKISTAN&quot;" target="&quot;PUNJAB&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Punjab is a province located within Pakistan."</data>
+      <data key="d6">eb9d4bbf58491df6177e5175f22b0c2c</data>
+    </edge>
+    <edge source="&quot;PUNJABIS&quot;" target="&quot;PUNJAB&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Punjabis are the largest ethnic group in Punjab."</data>
+      <data key="d6">eb9d4bbf58491df6177e5175f22b0c2c</data>
+    </edge>
+    <edge source="&quot;PUNJABIS&quot;" target="&quot;URDU&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Urdu is used to refer to clans (&#1576;&#1585;&#1575;&#1583;&#1585;&#1740;&#8206;) within Punjabi communities."</data>
+      <data key="d6">eb9d4bbf58491df6177e5175f22b0c2c</data>
+    </edge>
+    <edge source="&quot;SOUTHERN NATIONS, NATIONALITIES, AND PEOPLES' REGION&quot;" target="&quot;ENDEGAGN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Endegagn is located in the Southern Nations, Nationalities, and Peoples' Region."</data>
+      <data key="d6">3daa315c1cd2b24567ba11c76a8948b7</data>
+    </edge>
+    <edge source="&quot;GURAGE ZONE&quot;" target="&quot;ENDEGAGN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Endegagn is part of the Gurage Zone."</data>
+      <data key="d6">3daa315c1cd2b24567ba11c76a8948b7</data>
+    </edge>
+    <edge source="&quot;SILT'E ZONE&quot;" target="&quot;ENDEGAGN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Endegagn is bordered by the Silt'e Zone to the southeast."</data>
+      <data key="d6">3daa315c1cd2b24567ba11c76a8948b7</data>
+    </edge>
+    <edge source="&quot;HADIYA ZONE&quot;" target="&quot;ENDEGAGN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Endegagn is bordered by the Hadiya Zone to the southwest."</data>
+      <data key="d6">3daa315c1cd2b24567ba11c76a8948b7</data>
+    </edge>
+    <edge source="&quot;ENEMORINA EANER&quot;" target="&quot;ENDEGAGN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Endegagn was separated from Enemorina Eaner woreda."</data>
+      <data key="d6">3daa315c1cd2b24567ba11c76a8948b7</data>
+    </edge>
+    <edge source="&quot;OROMIA REGION&quot;" target="&quot;ENDEGAGN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Endegagn is bordered by the Oromia Region to the north."</data>
+      <data key="d6">3daa315c1cd2b24567ba11c76a8948b7</data>
+    </edge>
+    <edge source="&quot;SODO&quot;" target="&quot;ENDEGAGN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Endegagn is bordered by Sodo to the northeast."</data>
+      <data key="d6">3daa315c1cd2b24567ba11c76a8948b7</data>
+    </edge>
+    <edge source="&quot;GETA&quot;" target="&quot;ENDEGAGN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Endegagn is bordered by Geta to the northeast."</data>
+      <data key="d6">3daa315c1cd2b24567ba11c76a8948b7</data>
+    </edge>
+    <edge source="&quot;NORTHERN SOMALI&quot;" target="&quot;SOMALI&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Somali has Northern Somali as one of its main dialects."</data>
+      <data key="d6">5f544f11983b9b046066a468725964c5</data>
+    </edge>
+    <edge source="&quot;BENAADIR&quot;" target="&quot;MOGADISHU&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Benaadir dialect is spoken in Mogadishu and surrounding areas."</data>
+      <data key="d6">5f544f11983b9b046066a468725964c5</data>
+    </edge>
+    <edge source="&quot;MAAY&quot;" target="&quot;DIGIL&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Maay dialect is spoken by the Digil clan."</data>
+      <data key="d6">5f544f11983b9b046066a468725964c5</data>
+    </edge>
+    <edge source="&quot;MAAY&quot;" target="&quot;MIRIFLE (RAHANWEYN)&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Maay dialect is spoken by the Mirifle (Rahanweyn) clan."</data>
+      <data key="d6">5f544f11983b9b046066a468725964c5</data>
+    </edge>
+    <edge source="&quot;QUANZHOU&quot;" target="&quot;XIAMEN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Xiamen took over Quanzhou's position as the main port of trade in southeastern China."</data>
+      <data key="d6">c3ca3111d563098056f06331cfafd64a</data>
+    </edge>
+    <edge source="&quot;AMOY DIALECT&quot;" target="&quot;QUANZHOU VARIETY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The Quanzhou variety mixed with the Zhangzhou variety to produce the Amoy dialect."</data>
+      <data key="d6">c3ca3111d563098056f06331cfafd64a</data>
+    </edge>
+    <edge source="&quot;AMOY DIALECT&quot;" target="&quot;ZHANGZHOU VARIETY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The Zhangzhou variety mixed with the Quanzhou variety to produce the Amoy dialect."</data>
+      <data key="d6">c3ca3111d563098056f06331cfafd64a</data>
+    </edge>
+    <edge source="&quot;XIAMEN&quot;" target="&quot;QUANZHOU TRADERS&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Quanzhou traders traveled to Xiamen to carry on their businesses."</data>
+      <data key="d6">c3ca3111d563098056f06331cfafd64a</data>
+    </edge>
+    <edge source="&quot;XIAMEN&quot;" target="&quot;ZHANGZHOU PEASANTS&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Zhangzhou peasants traveled to Xiamen in search of job opportunities."</data>
+      <data key="d6">c3ca3111d563098056f06331cfafd64a</data>
+    </edge>
+    <edge source="&quot;RICHARD I OF NORMANDY&quot;" target="&quot;DUCHY OF NORMANDY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Richard I of Normandy was a leader who forged the Duchy of Normandy into a cohesive principality."</data>
+      <data key="d6">c029224de8a38ff3848daa79fe875cec</data>
+    </edge>
+    <edge source="&quot;ROGER II&quot;" target="&quot;KINGDOM OF SICILY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Roger II founded the Kingdom of Sicily after conquering southern Italy."</data>
+      <data key="d6">c029224de8a38ff3848daa79fe875cec</data>
+    </edge>
+    <edge source="&quot;WILLIAM THE CONQUEROR&quot;" target="&quot;BATTLE OF HASTINGS&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"William the Conqueror led an expedition that resulted in the Norman conquest of England at the Battle of Hastings."</data>
+      <data key="d6">c029224de8a38ff3848daa79fe875cec</data>
+    </edge>
+    <edge source="&quot;BOHEMOND I&quot;" target="&quot;PRINCIPALITY OF ANTIOCH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Bohemond I founded the Principality of Antioch in the Levant."</data>
+      <data key="d6">c029224de8a38ff3848daa79fe875cec</data>
+    </edge>
+    <edge source="&quot;DUCHY OF NORMANDY&quot;" target="&quot;NORMAN DYNASTY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The Norman dynasty formed the Duchy of Normandy by treaty with the French crown."</data>
+      <data key="d6">c029224de8a38ff3848daa79fe875cec</data>
+    </edge>
+    <edge source="&quot;EMPEROR GAOZONG&quot;" target="&quot;CHEN ZHENG&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Chen Zheng led a military expedition during the reign of Emperor Gaozong."</data>
+      <data key="d6">e235fdaac7fb40225f969cdeb86fce84</data>
+    </edge>
+    <edge source="&quot;WANG CHAO&quot;" target="&quot;HUANG CHAO REBELLION&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Wang Chao led a military expedition force to pacify the Huang Chao rebellion."</data>
+      <data key="d6">e235fdaac7fb40225f969cdeb86fce84</data>
+    </edge>
+    <edge source="&quot;WANG CHAO&quot;" target="&quot;EMPEROR XIZONG OF TANG&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Wang Chao led a military expedition force during the reign of Emperor Xizong of Tang."</data>
+      <data key="d6">e235fdaac7fb40225f969cdeb86fce84</data>
+    </edge>
+    <edge source="&quot;KINGDOM OF ENGLAND&quot;" target="&quot;OLD ENGLISH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Old English was spoken over most of the territory of the Kingdom of England."</data>
+      <data key="d6">7c0a5abceb46d040187e52f4e5bf7637</data>
+    </edge>
+    <edge source="&quot;KINGDOM OF ENGLAND&quot;" target="&quot;NORTHUMBRIA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Northumbria was part of the Anglo-Saxon kingdoms that became the Kingdom of England."</data>
+      <data key="d6">7c0a5abceb46d040187e52f4e5bf7637</data>
+    </edge>
+    <edge source="&quot;WALES&quot;" target="&quot;CELTIC LANGUAGES&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Wales is a region where Celtic languages were spoken, distinct from Old English."</data>
+      <data key="d6">7c0a5abceb46d040187e52f4e5bf7637</data>
+    </edge>
+    <edge source="&quot;SCOTLAND&quot;" target="&quot;CELTIC LANGUAGES&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Scotland is a region where Celtic languages were spoken, except in areas of Scandinavian settlements."</data>
+      <data key="d6">7c0a5abceb46d040187e52f4e5bf7637</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,983 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;JVC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"JVC is a company that released the first VHS-C camcorder in 1983."</data>
+      <data key="d2">23a8ac5ae93434bd4fffb9b4516e0d9d</data>
+    </node>
+    <node id="&quot;KODAK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Kodak is a company that announced a new camcorder format in 1984, the 8 mm video format."</data>
+      <data key="d2">23a8ac5ae93434bd4fffb9b4516e0d9d</data>
+    </node>
+    <node id="&quot;PANASONIC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Panasonic is a company that began producing camcorders using a full-size VHS cassette with a three-hour capacity in 1985."</data>
+      <data key="d2">23a8ac5ae93434bd4fffb9b4516e0d9d</data>
+    </node>
+    <node id="&quot;RCA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"RCA is a company that began producing camcorders using a full-size VHS cassette with a three-hour capacity in 1985."</data>
+      <data key="d2">23a8ac5ae93434bd4fffb9b4516e0d9d</data>
+    </node>
+    <node id="&quot;HITACHI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Hitachi is a company that began producing camcorders using a full-size VHS cassette with a three-hour capacity in 1985."</data>
+      <data key="d2">23a8ac5ae93434bd4fffb9b4516e0d9d</data>
+    </node>
+    <node id="&quot;BETAMOVIE BMC-100P&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Betamovie BMC-100P was the first consumer camcorder released by Sony in 1983."</data>
+      <data key="d2">23a8ac5ae93434bd4fffb9b4516e0d9d</data>
+    </node>
+    <node id="&quot;VHS-C CAMCORDER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The VHS-C camcorder was the first camcorder format released by JVC in 1983."</data>
+      <data key="d2">23a8ac5ae93434bd4fffb9b4516e0d9d</data>
+    </node>
+    <node id="&quot;8 MM VIDEO FORMAT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 8 mm video format was a new camcorder format announced by Kodak in 1984."</data>
+      <data key="d2">23a8ac5ae93434bd4fffb9b4516e0d9d</data>
+    </node>
+    <node id="&quot;VIDEO8 FORMAT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Video8 format was a compact camcorder format introduced by Sony in 1985."</data>
+      <data key="d2">23a8ac5ae93434bd4fffb9b4516e0d9d</data>
+    </node>
+    <node id="&quot;SUPER-VHS (S-VHS) CAMCORDERS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Full-size Super-VHS (S-VHS) camcorders were released in 1987, providing an inexpensive way to collect news segments or other videographies."</data>
+      <data key="d2">23a8ac5ae93434bd4fffb9b4516e0d9d</data>
+    </node>
+    <node id="&quot;SONY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">23a8ac5ae93434bd4fffb9b4516e0d9d</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">00c538017237eff435b2a9bf165a2373,0200fc59f8c8c01504a50e4801f1ce39,03f33d408a1c6aa6aa3e219d06b3a9c6,0b5eaa515674e617732774268d3fadd9,100d89bdb09824b5cc18b9065635373a,1adf607c1ce7e0c6e97c1526b1fe42bb,1ed46d31d26ac8ac155973d4de06b815,23a8ac5ae93434bd4fffb9b4516e0d9d,3fedf2bf87a33b2e0b3d5a1bf702fa63,5639e8f6d4eb005e43b828c8fa166b85,5c0cba07dcedb66e61cbf690187a3f6c,5f002557ef4448e7b75525217c124193,6063a9e121262b54bb6072978f65000e,82931f2d0255fa171f72ae276a12d316,8a226827bde07fae98f5c271ae081109,9d51f62949ba5529fb1223b4e2f6a00f,b869754bdf9a0b1849fe359188be0ec6,caad14e0038d90c39f54ac9503e539fc,da68b26004065a93597dbc8d6eb7dd90,ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">00c538017237eff435b2a9bf165a2373,0200fc59f8c8c01504a50e4801f1ce39,03f33d408a1c6aa6aa3e219d06b3a9c6,0b5eaa515674e617732774268d3fadd9,100d89bdb09824b5cc18b9065635373a,1adf607c1ce7e0c6e97c1526b1fe42bb,1ed46d31d26ac8ac155973d4de06b815,23a8ac5ae93434bd4fffb9b4516e0d9d,3fedf2bf87a33b2e0b3d5a1bf702fa63,5639e8f6d4eb005e43b828c8fa166b85,5c0cba07dcedb66e61cbf690187a3f6c,5f002557ef4448e7b75525217c124193,6063a9e121262b54bb6072978f65000e,82931f2d0255fa171f72ae276a12d316,8a226827bde07fae98f5c271ae081109,9d51f62949ba5529fb1223b4e2f6a00f,b869754bdf9a0b1849fe359188be0ec6,caad14e0038d90c39f54ac9503e539fc,da68b26004065a93597dbc8d6eb7dd90,ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">00c538017237eff435b2a9bf165a2373,0200fc59f8c8c01504a50e4801f1ce39,03f33d408a1c6aa6aa3e219d06b3a9c6,0b5eaa515674e617732774268d3fadd9,100d89bdb09824b5cc18b9065635373a,1adf607c1ce7e0c6e97c1526b1fe42bb,1ed46d31d26ac8ac155973d4de06b815,23a8ac5ae93434bd4fffb9b4516e0d9d,3fedf2bf87a33b2e0b3d5a1bf702fa63,5639e8f6d4eb005e43b828c8fa166b85,5c0cba07dcedb66e61cbf690187a3f6c,5f002557ef4448e7b75525217c124193,6063a9e121262b54bb6072978f65000e,82931f2d0255fa171f72ae276a12d316,8a226827bde07fae98f5c271ae081109,9d51f62949ba5529fb1223b4e2f6a00f,b869754bdf9a0b1849fe359188be0ec6,caad14e0038d90c39f54ac9503e539fc,da68b26004065a93597dbc8d6eb7dd90,ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">00c538017237eff435b2a9bf165a2373,0200fc59f8c8c01504a50e4801f1ce39,03f33d408a1c6aa6aa3e219d06b3a9c6,0b5eaa515674e617732774268d3fadd9,100d89bdb09824b5cc18b9065635373a,1adf607c1ce7e0c6e97c1526b1fe42bb,1ed46d31d26ac8ac155973d4de06b815,23a8ac5ae93434bd4fffb9b4516e0d9d,3fedf2bf87a33b2e0b3d5a1bf702fa63,5639e8f6d4eb005e43b828c8fa166b85,5c0cba07dcedb66e61cbf690187a3f6c,5f002557ef4448e7b75525217c124193,6063a9e121262b54bb6072978f65000e,82931f2d0255fa171f72ae276a12d316,8a226827bde07fae98f5c271ae081109,9d51f62949ba5529fb1223b4e2f6a00f,b869754bdf9a0b1849fe359188be0ec6,caad14e0038d90c39f54ac9503e539fc,da68b26004065a93597dbc8d6eb7dd90,ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country where Tucson, Pima County, and Arizona are located. Additionally, it is a country that has hosted various events and performances, including numerous radio broadcasts featuring The Canadian Grenadier Guards Band. Furthermore, the United States is also the country from which over 2,000 Witness volunteers came to renovate a theater.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">00c538017237eff435b2a9bf165a2373,0200fc59f8c8c01504a50e4801f1ce39,03f33d408a1c6aa6aa3e219d06b3a9c6,0b5eaa515674e617732774268d3fadd9,100d89bdb09824b5cc18b9065635373a,1adf607c1ce7e0c6e97c1526b1fe42bb,1ed46d31d26ac8ac155973d4de06b815,23a8ac5ae93434bd4fffb9b4516e0d9d,3fedf2bf87a33b2e0b3d5a1bf702fa63,5639e8f6d4eb005e43b828c8fa166b85,5c0cba07dcedb66e61cbf690187a3f6c,5f002557ef4448e7b75525217c124193,6063a9e121262b54bb6072978f65000e,82931f2d0255fa171f72ae276a12d316,8a226827bde07fae98f5c271ae081109,9d51f62949ba5529fb1223b4e2f6a00f,b869754bdf9a0b1849fe359188be0ec6,caad14e0038d90c39f54ac9503e539fc,da68b26004065a93597dbc8d6eb7dd90,ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">00c538017237eff435b2a9bf165a2373,0200fc59f8c8c01504a50e4801f1ce39,03f33d408a1c6aa6aa3e219d06b3a9c6,0b5eaa515674e617732774268d3fadd9,100d89bdb09824b5cc18b9065635373a,1adf607c1ce7e0c6e97c1526b1fe42bb,1ed46d31d26ac8ac155973d4de06b815,23a8ac5ae93434bd4fffb9b4516e0d9d,3fedf2bf87a33b2e0b3d5a1bf702fa63,5639e8f6d4eb005e43b828c8fa166b85,5c0cba07dcedb66e61cbf690187a3f6c,5f002557ef4448e7b75525217c124193,6063a9e121262b54bb6072978f65000e,82931f2d0255fa171f72ae276a12d316,8a226827bde07fae98f5c271ae081109,9d51f62949ba5529fb1223b4e2f6a00f,b869754bdf9a0b1849fe359188be0ec6,caad14e0038d90c39f54ac9503e539fc,da68b26004065a93597dbc8d6eb7dd90,ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">00c538017237eff435b2a9bf165a2373,0200fc59f8c8c01504a50e4801f1ce39,03f33d408a1c6aa6aa3e219d06b3a9c6,0b5eaa515674e617732774268d3fadd9,100d89bdb09824b5cc18b9065635373a,1adf607c1ce7e0c6e97c1526b1fe42bb,1ed46d31d26ac8ac155973d4de06b815,23a8ac5ae93434bd4fffb9b4516e0d9d,3fedf2bf87a33b2e0b3d5a1bf702fa63,5639e8f6d4eb005e43b828c8fa166b85,5c0cba07dcedb66e61cbf690187a3f6c,5f002557ef4448e7b75525217c124193,6063a9e121262b54bb6072978f65000e,82931f2d0255fa171f72ae276a12d316,8a226827bde07fae98f5c271ae081109,9d51f62949ba5529fb1223b4e2f6a00f,b869754bdf9a0b1849fe359188be0ec6,caad14e0038d90c39f54ac9503e539fc,da68b26004065a93597dbc8d6eb7dd90,ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">00c538017237eff435b2a9bf165a2373,0200fc59f8c8c01504a50e4801f1ce39,03f33d408a1c6aa6aa3e219d06b3a9c6,0b5eaa515674e617732774268d3fadd9,100d89bdb09824b5cc18b9065635373a,1adf607c1ce7e0c6e97c1526b1fe42bb,1ed46d31d26ac8ac155973d4de06b815,23a8ac5ae93434bd4fffb9b4516e0d9d,3fedf2bf87a33b2e0b3d5a1bf702fa63,5639e8f6d4eb005e43b828c8fa166b85,5c0cba07dcedb66e61cbf690187a3f6c,5f002557ef4448e7b75525217c124193,6063a9e121262b54bb6072978f65000e,82931f2d0255fa171f72ae276a12d316,8a226827bde07fae98f5c271ae081109,9d51f62949ba5529fb1223b4e2f6a00f,b869754bdf9a0b1849fe359188be0ec6,caad14e0038d90c39f54ac9503e539fc,da68b26004065a93597dbc8d6eb7dd90,ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">00c538017237eff435b2a9bf165a2373,0200fc59f8c8c01504a50e4801f1ce39,03f33d408a1c6aa6aa3e219d06b3a9c6,0b5eaa515674e617732774268d3fadd9,100d89bdb09824b5cc18b9065635373a,1adf607c1ce7e0c6e97c1526b1fe42bb,1ed46d31d26ac8ac155973d4de06b815,23a8ac5ae93434bd4fffb9b4516e0d9d,3fedf2bf87a33b2e0b3d5a1bf702fa63,5639e8f6d4eb005e43b828c8fa166b85,5c0cba07dcedb66e61cbf690187a3f6c,5f002557ef4448e7b75525217c124193,6063a9e121262b54bb6072978f65000e,82931f2d0255fa171f72ae276a12d316,8a226827bde07fae98f5c271ae081109,9d51f62949ba5529fb1223b4e2f6a00f,b869754bdf9a0b1849fe359188be0ec6,caad14e0038d90c39f54ac9503e539fc,da68b26004065a93597dbc8d6eb7dd90,ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">00c538017237eff435b2a9bf165a2373,0200fc59f8c8c01504a50e4801f1ce39,03f33d408a1c6aa6aa3e219d06b3a9c6,0b5eaa515674e617732774268d3fadd9,100d89bdb09824b5cc18b9065635373a,1adf607c1ce7e0c6e97c1526b1fe42bb,1ed46d31d26ac8ac155973d4de06b815,23a8ac5ae93434bd4fffb9b4516e0d9d,3fedf2bf87a33b2e0b3d5a1bf702fa63,5639e8f6d4eb005e43b828c8fa166b85,5c0cba07dcedb66e61cbf690187a3f6c,5f002557ef4448e7b75525217c124193,6063a9e121262b54bb6072978f65000e,82931f2d0255fa171f72ae276a12d316,8a226827bde07fae98f5c271ae081109,9d51f62949ba5529fb1223b4e2f6a00f,b869754bdf9a0b1849fe359188be0ec6,caad14e0038d90c39f54ac9503e539fc,da68b26004065a93597dbc8d6eb7dd90,ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </node>
+    <node id="&quot;HEINRICH WELKER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Heinrich Welker is a German physicist who worked with Herbert Matar&#233; at Compagnie des Freins et Signaux and produced germanium samples for the transistor research."</data>
+      <data key="d2">b869754bdf9a0b1849fe359188be0ec6</data>
+    </node>
+    <node id="&quot;COMPAGNIE DES FREINS ET SIGNAUX&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Compagnie des Freins et Signaux is a Westinghouse subsidiary located in Paris where Herbert Matar&#233; and Heinrich Welker worked on inventing the point-contact transistor."</data>
+      <data key="d2">b869754bdf9a0b1849fe359188be0ec6</data>
+    </node>
+    <node id="&quot;WESTINGHOUSE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Westinghouse is a company that owns Compagnie des Freins et Signaux, a subsidiary involved in transistor research."</data>
+      <data key="d2">b869754bdf9a0b1849fe359188be0ec6</data>
+    </node>
+    <node id="&quot;PARIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Paris is the location of Compagnie des Freins et Signaux, where the point-contact transistor was invented."</data>
+      <data key="d2">b869754bdf9a0b1849fe359188be0ec6</data>
+    </node>
+    <node id="&quot;BELL LABS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Bell Labs is a company whose scientists had already invented the transistor before Herbert Matar&#233; and Heinrich Welker."</data>
+      <data key="d2">b869754bdf9a0b1849fe359188be0ec6</data>
+    </node>
+    <node id="&quot;HERBERT MATAR&#201;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b869754bdf9a0b1849fe359188be0ec6</data>
+    </node>
+    <node id="&quot;INVENTION OF POINT-CONTACT TRANSISTOR&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b869754bdf9a0b1849fe359188be0ec6</data>
+    </node>
+    <node id="&quot;THEM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Them is a Northern Irish band that recorded and released 'Here Comes the Night' in 1965, achieving chart success in the UK and US."</data>
+      <data key="d2">6063a9e121262b54bb6072978f65000e</data>
+    </node>
+    <node id="&quot;VAN MORRISON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Van Morrison is the frontman of the Northern Irish band Them, which recorded and released 'Here Comes the Night' in 1965."</data>
+      <data key="d2">6063a9e121262b54bb6072978f65000e</data>
+    </node>
+    <node id="&quot;UK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The UK is a country where 'Here Comes the Night' charted at No. 2 in 1965."</data>
+      <data key="d2">6063a9e121262b54bb6072978f65000e</data>
+    </node>
+    <node id="&quot;US&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The US is a country where 'Here Comes the Night' charted at No. 24 in 1965."</data>
+      <data key="d2">6063a9e121262b54bb6072978f65000e</data>
+    </node>
+    <node id="&quot;HERE COMES THE NIGHT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"'Here Comes the Night' is a song written by Bert Berns and recorded by Them, which became a hit in 1965."</data>
+      <data key="d2">6063a9e121262b54bb6072978f65000e</data>
+    </node>
+    <node id="&quot;BERT BERNS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6063a9e121262b54bb6072978f65000e</data>
+    </node>
+    <node id="&quot;MUAMMAR GADDAFI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Muammar Gaddafi was the Libyan ruler whose family Beyonc&#233; performed for."</data>
+      <data key="d2">0200fc59f8c8c01504a50e4801f1ce39</data>
+    </node>
+    <node id="&quot;CLINTON BUSH HAITI FUND&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Clinton Bush Haiti Fund is a charitable organization that received a donation from Beyonc&#233;."</data>
+      <data key="d2">0200fc59f8c8c01504a50e4801f1ce39</data>
+    </node>
+    <node id="&quot;ROLLING STONE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Rolling Stone is a music industry publication that reported on the controversy surrounding Beyonc&#233;'s performance for the Gaddafi family."</data>
+      <data key="d2">0200fc59f8c8c01504a50e4801f1ce39</data>
+    </node>
+    <node id="&quot;THE HUFFINGTON POST&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Huffington Post is a news outlet that confirmed Beyonc&#233;'s donation to the Clinton Bush Haiti Fund."</data>
+      <data key="d2">0200fc59f8c8c01504a50e4801f1ce39</data>
+    </node>
+    <node id="&quot;GLASTONBURY FESTIVAL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2011 Glastonbury Festival was an event where Beyonc&#233; became the first solo female artist to headline the main Pyramid stage in over twenty years."</data>
+      <data key="d2">0200fc59f8c8c01504a50e4801f1ce39</data>
+    </node>
+    <node id="&quot;BEYONC&#201;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0200fc59f8c8c01504a50e4801f1ce39</data>
+    </node>
+    <node id="&quot;MUSIC INDUSTRY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0200fc59f8c8c01504a50e4801f1ce39</data>
+    </node>
+    <node id="&quot;FATHER LOUIS HENNEPIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Father Louis Hennepin is a French explorer who first witnessed the Niagara River and Falls in the late 17th century."</data>
+      <data key="d2">da68b26004065a93597dbc8d6eb7dd90</data>
+    </node>
+    <node id="&quot;NORTH AMERICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"North America is a geographic region where the Niagara River and Falls are located."</data>
+      <data key="d2">da68b26004065a93597dbc8d6eb7dd90</data>
+    </node>
+    <node id="&quot;A NEW DISCOVERY OF A VAST COUNTRY IN AMERICA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"A New Discovery of a Vast Country in America is a book written by Father Louis Hennepin, published in 1698."</data>
+      <data key="d2">da68b26004065a93597dbc8d6eb7dd90</data>
+    </node>
+    <node id="&quot;NIAGARA RIVER AND FALLS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">da68b26004065a93597dbc8d6eb7dd90</data>
+    </node>
+    <node id="&quot;CHICAGO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+"Chicago is a location where the rock band Madina Lake was formed in 2005 and is currently based."</data>
+      <data key="d2">1adf607c1ce7e0c6e97c1526b1fe42bb,ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </node>
+    <node id="&quot;ROADRUNNER RECORDS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Roadrunner Records is a record label that released Madina Lake's debut album 'From Them, Through Us, to You' on March 27, 2007, in the United States.</data>
+      <data key="d2">1adf607c1ce7e0c6e97c1526b1fe42bb,ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </node>
+    <node id="&quot;KERRANG!&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Kerrang! is an organization that awarded Madina Lake Best International Newcomer in 2007."</data>
+      <data key="d2">ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </node>
+    <node id="&quot;MADINA LAKE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1adf607c1ce7e0c6e97c1526b1fe42bb,ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </node>
+    <node id="&quot;JEHOVAH'S WITNESSES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Jehovah's Witnesses are a religious group that uses the renovated theater as a convention and assembly hall.</data>
+      <data key="d2">0b5eaa515674e617732774268d3fadd9,9d51f62949ba5529fb1223b4e2f6a00f</data>
+    </node>
+    <node id="&quot;THEATER&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"The Theater is a building that was purchased by the Watch Tower Society and renovated by Jehovah's Witnesses volunteers."</data>
+      <data key="d2">9d51f62949ba5529fb1223b4e2f6a00f</data>
+    </node>
+    <node id="&quot;WATCH TOWER SOCIETY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9d51f62949ba5529fb1223b4e2f6a00f</data>
+    </node>
+    <node id="&quot;MICROSTATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"MicroStation is a CAD program that supports the DGN file format."</data>
+      <data key="d2">3fedf2bf87a33b2e0b3d5a1bf702fa63</data>
+    </node>
+    <node id="&quot;INTERGRAPH'S INTERACTIVE GRAPHICS DESIGN SYSTEM (IGDS)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Intergraph's IGDS is a CAD program that supports the DGN file format."</data>
+      <data key="d2">3fedf2bf87a33b2e0b3d5a1bf702fa63</data>
+    </node>
+    <node id="&quot;AUTODESK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Autodesk is a company that offers a competing format to DGN, specifically DWG."</data>
+      <data key="d2">3fedf2bf87a33b2e0b3d5a1bf702fa63</data>
+    </node>
+    <node id="&quot;DGN (DESIGN)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"DGN is an event or a standard for CAD file formats supported by various companies."</data>
+      <data key="d2">3fedf2bf87a33b2e0b3d5a1bf702fa63</data>
+    </node>
+    <node id="&quot;BENTLEY SYSTEMS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3fedf2bf87a33b2e0b3d5a1bf702fa63</data>
+    </node>
+    <node id="&quot;PLAYBOY TV&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Playboy TV is a television network that airs the Show Us Your Wits game show."</data>
+      <data key="d2">8a226827bde07fae98f5c271ae081109</data>
+    </node>
+    <node id="&quot;DAPHNEE DUPLAIX&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Daphnee Duplaix is the host of the Show Us Your Wits game show."</data>
+      <data key="d2">8a226827bde07fae98f5c271ae081109</data>
+    </node>
+    <node id="&quot;LAS VEGAS PALOMINO STRIP CLUB&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Las Vegas Palomino Strip Club is a location where the Show Us Your Wits game show is based out of."</data>
+      <data key="d2">8a226827bde07fae98f5c271ae081109</data>
+    </node>
+    <node id="&quot;SHOW US YOUR WITS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8a226827bde07fae98f5c271ae081109</data>
+    </node>
+    <node id="&quot;FLUOROSCOPY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"fluoroscopy is an imaging technique used to help guide the placement of applicators."</data>
+      <data key="d2">1ed46d31d26ac8ac155973d4de06b815</data>
+    </node>
+    <node id="&quot;ULTRASOUND&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ultrasound is an imaging technique used to help guide the placement of applicators."</data>
+      <data key="d2">1ed46d31d26ac8ac155973d4de06b815</data>
+    </node>
+    <node id="&quot;CAT SCANS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"CAT scans are imaging techniques used to further refine the treatment plan."</data>
+      <data key="d2">1ed46d31d26ac8ac155973d4de06b815</data>
+    </node>
+    <node id="&quot;MRI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"MRI is an imaging technique used to further refine the treatment plan."</data>
+      <data key="d2">1ed46d31d26ac8ac155973d4de06b815</data>
+    </node>
+    <node id="&quot;X-RAY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1ed46d31d26ac8ac155973d4de06b815</data>
+    </node>
+    <node id="&quot;TREATMENT PLAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1ed46d31d26ac8ac155973d4de06b815</data>
+    </node>
+    <node id="&quot;FROM THEM, THROUGH US, TO YOU&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"From Them, Through Us, to You is the debut album by Madina Lake, released on March 27, 2007."</data>
+      <data key="d2">1adf607c1ce7e0c6e97c1526b1fe42bb</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Canada is the country where The Canadian Grenadier Guards Band was based and performed."</data>
+      <data key="d2">caad14e0038d90c39f54ac9503e539fc</data>
+    </node>
+    <node id="&quot;THE CANADIAN GRENADIER GUARDS BAND&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">caad14e0038d90c39f54ac9503e539fc</data>
+    </node>
+    <node id="&quot;PUBLISHERS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Publishers are members of Jehovah's Witnesses who are actively involved in preaching and Bible study activities."</data>
+      <data key="d2">0b5eaa515674e617732774268d3fadd9</data>
+    </node>
+    <node id="&quot;CONGREGATIONS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Congregations refer to the local gatherings of Jehovah's Witnesses, with 118,016 reported worldwide as of 2015."</data>
+      <data key="d2">0b5eaa515674e617732774268d3fadd9</data>
+    </node>
+    <node id="&quot;BIBLE STUDIES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Bible studies are a type of activity conducted by Jehovah's Witnesses, including those with individuals and Witness parents with their children."</data>
+      <data key="d2">0b5eaa515674e617732774268d3fadd9</data>
+    </node>
+    <node id="&quot;USA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The USA is a country with its own emergency number, 911, which will be transferred to the 999 call system if called within the United Kingdom."</data>
+      <data key="d2">5f002557ef4448e7b75525217c124193</data>
+    </node>
+    <node id="&quot;EMERGENCY SERVICES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Emergency Services are an organization that can be contacted using the numbers 999 or 112 in the United Kingdom."</data>
+      <data key="d2">5f002557ef4448e7b75525217c124193</data>
+    </node>
+    <node id="&quot;999 CALL SYSTEM&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 999 Call System is a service that connects callers to the emergency services upon dialling 999 or 112 in the United Kingdom."</data>
+      <data key="d2">5f002557ef4448e7b75525217c124193</data>
+    </node>
+    <node id="&quot;UNITED KINGDOM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5f002557ef4448e7b75525217c124193</data>
+    </node>
+    <node id="&quot;911&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5f002557ef4448e7b75525217c124193</data>
+    </node>
+    <node id="&quot;ANABOLIC STEROIDS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Anabolic Steroids are performance-enhancing drugs used by Schwarzenegger for muscle maintenance."</data>
+      <data key="d2">100d89bdb09824b5cc18b9065635373a</data>
+    </node>
+    <node id="&quot;SCHWARZENEGGER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">100d89bdb09824b5cc18b9065635373a</data>
+    </node>
+    <node id="&quot;PLAYSTATION 3&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"PlayStation 3 is a home video game console that can connect with PlayStation Portable in various ways."</data>
+      <data key="d2">03f33d408a1c6aa6aa3e219d06b3a9c6</data>
+    </node>
+    <node id="&quot;E3 2006&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"E3 2006 was an event where Formula One Championship Edition, a racing game, was showcased using a PSP as a real-time rear-view mirror."</data>
+      <data key="d2">03f33d408a1c6aa6aa3e219d06b3a9c6</data>
+    </node>
+    <node id="&quot;FORMULA ONE CHAMPIONSHIP EDITION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Formula One Championship Edition is a racing game that was demonstrated at E3 2006 using a PSP as a real-time rear-view mirror."</data>
+      <data key="d2">03f33d408a1c6aa6aa3e219d06b3a9c6</data>
+    </node>
+    <node id="&quot;PLAYSTATION PORTABLE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">03f33d408a1c6aa6aa3e219d06b3a9c6</data>
+    </node>
+    <node id="&quot;REMOTE PLAY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">03f33d408a1c6aa6aa3e219d06b3a9c6</data>
+    </node>
+    <node id="&quot;DMITRY KOLDUN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dmitry Koldun is a singer who represented Belarus at the Eurovision Song Contest 2007 with the song 'Work Your Magic'."</data>
+      <data key="d2">82931f2d0255fa171f72ae276a12d316</data>
+    </node>
+    <node id="&quot;EUROVISION SONG CONTEST 2007&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Eurovision Song Contest 2007 was an international singing competition where Belarus participated."</data>
+      <data key="d2">82931f2d0255fa171f72ae276a12d316</data>
+    </node>
+    <node id="&quot;HELSINKI, FINLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Helsinki, Finland is the location where the Eurovision Song Contest 2007 took place."</data>
+      <data key="d2">82931f2d0255fa171f72ae276a12d316</data>
+    </node>
+    <node id="&quot;DIANA GURTSKAYA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Diana Gurtskaya is a singer who participated in the Eurofest 2007 competition to represent Belarus at the Eurovision Song Contest 2007."</data>
+      <data key="d2">82931f2d0255fa171f72ae276a12d316</data>
+    </node>
+    <node id="&quot;THE PROJECT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Project is a group that participated in the Eurofest 2007 competition to represent Belarus at the Eurovision Song Contest 2007."</data>
+      <data key="d2">82931f2d0255fa171f72ae276a12d316</data>
+    </node>
+    <node id="&quot;KAREN KAVALERYAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Karen Kavaleryan is a songwriter who wrote the song 'Work Your Magic' for Dmitry Koldun."</data>
+      <data key="d2">82931f2d0255fa171f72ae276a12d316</data>
+    </node>
+    <node id="&quot;PHILIP KIRKOROV&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Philip Kirkorov is a composer who composed the song 'Work Your Magic' for Dmitry Koldun."</data>
+      <data key="d2">82931f2d0255fa171f72ae276a12d316</data>
+    </node>
+    <node id="&quot;BELARUS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">82931f2d0255fa171f72ae276a12d316</data>
+    </node>
+    <node id="&quot;WORK YOUR MAGIC&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">82931f2d0255fa171f72ae276a12d316</data>
+    </node>
+    <node id="&quot;MARY SHANNON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mary Shannon is a Deputy United States Marshal attached to WITSEC, responsible for protecting witnesses and balancing her professional and personal life."</data>
+      <data key="d2">00c538017237eff435b2a9bf165a2373</data>
+    </node>
+    <node id="&quot;MARSHALL MANN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Marshall Mann is Mary Shannon's work partner and a US Marshal."</data>
+      <data key="d2">00c538017237eff435b2a9bf165a2373</data>
+    </node>
+    <node id="&quot;USA NETWORK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"USA Network is the television network that premiered In Plain Sight."</data>
+      <data key="d2">00c538017237eff435b2a9bf165a2373</data>
+    </node>
+    <node id="&quot;FEDERAL WITNESS SECURITY PROGRAM (WITSEC)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"WITSEC, also known as the Federal Witness Protection Program, is a program that Mary Shannon is attached to."</data>
+      <data key="d2">00c538017237eff435b2a9bf165a2373</data>
+    </node>
+    <node id="&quot;ALBUQUERQUE, NM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Albuquerque, New Mexico is the location where the show was filmed and where Mary Shannon's office is based."</data>
+      <data key="d2">00c538017237eff435b2a9bf165a2373</data>
+    </node>
+    <node id="&quot;IN PLAIN SIGHT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">00c538017237eff435b2a9bf165a2373</data>
+    </node>
+    <node id="&quot;ROSTRUM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Rostrum is a record label associated with Wiz Khalifa's mixtapes."</data>
+      <data key="d2">5c0cba07dcedb66e61cbf690187a3f6c</data>
+    </node>
+    <node id="&quot;WIZ KHALIFA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Wiz Khalifa is an artist who has released multiple mixtapes through Taylor Gang and Rostrum labels."</data>
+      <data key="d2">5c0cba07dcedb66e61cbf690187a3f6c</data>
+    </node>
+    <node id="&quot;CURRENSY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Currensy is a collaborator with Wiz Khalifa on the mixtape How Fly."</data>
+      <data key="d2">5c0cba07dcedb66e61cbf690187a3f6c</data>
+    </node>
+    <node id="&quot;PRINCE OF THE CITY: WELCOME TO PISTOLVANIA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Prince of the City: Welcome to Pistolvania is a mixtape released by Wiz Khalifa in 2005."</data>
+      <data key="d2">5c0cba07dcedb66e61cbf690187a3f6c</data>
+    </node>
+    <node id="&quot;GROW SEASON&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Grow Season is a mixtape released by Wiz Khalifa in 2007."</data>
+      <data key="d2">5c0cba07dcedb66e61cbf690187a3f6c</data>
+    </node>
+    <node id="&quot;PRINCE OF THE CITY 2&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Prince of the City 2 is a mixtape released by Wiz Khalifa in 2007."</data>
+      <data key="d2">5c0cba07dcedb66e61cbf690187a3f6c</data>
+    </node>
+    <node id="&quot;STAR POWER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Star Power is a mixtape released by Wiz Khalifa in 2008."</data>
+      <data key="d2">5c0cba07dcedb66e61cbf690187a3f6c</data>
+    </node>
+    <node id="&quot;FLIGHT SCHOOL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Flight School is a mixtape released by Wiz Khalifa in 2009."</data>
+      <data key="d2">5c0cba07dcedb66e61cbf690187a3f6c</data>
+    </node>
+    <node id="&quot;HOW FLY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"How Fly is a collaborative mixtape between Wiz Khalifa and Currensy, released in 2009."</data>
+      <data key="d2">5c0cba07dcedb66e61cbf690187a3f6c</data>
+    </node>
+    <node id="&quot;BURN AFTER ROLLING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Burn After Rolling is a mixtape released by Wiz Khalifa in 2009."</data>
+      <data key="d2">5c0cba07dcedb66e61cbf690187a3f6c</data>
+    </node>
+    <node id="&quot;KUSH &amp; ORANGE JUICE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Kush &amp; Orange Juice is a mixtape released by Wiz Khalifa in 2010."</data>
+      <data key="d2">5c0cba07dcedb66e61cbf690187a3f6c</data>
+    </node>
+    <node id="&quot;CABIN FEVER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Cabin Fever is a mixtape released by Wiz Khalifa in 2011."</data>
+      <data key="d2">5c0cba07dcedb66e61cbf690187a3f6c</data>
+    </node>
+    <node id="&quot;TAYLOR ALLDERDICE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Taylor Allderdice is a mixtape released by Wiz Khalifa in 2012."</data>
+      <data key="d2">5c0cba07dcedb66e61cbf690187a3f6c</data>
+    </node>
+    <node id="&quot;CABIN FEVER 2&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Cabin Fever 2 is a mixtape released by Wiz Khalifa in 2012."</data>
+      <data key="d2">5c0cba07dcedb66e61cbf690187a3f6c</data>
+    </node>
+    <node id="&quot;28 GRAMS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"28 Grams is a mixtape released by Wiz Khalifa in 2014."</data>
+      <data key="d2">5c0cba07dcedb66e61cbf690187a3f6c</data>
+    </node>
+    <node id="&quot;CABIN FEVER 3&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Cabin Fever 3 is a mixtape released by Wiz Khalifa in 2015."</data>
+      <data key="d2">5c0cba07dcedb66e61cbf690187a3f6c</data>
+    </node>
+    <node id="&quot;PRE-ROLLEDS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Pre-Rolleds is a mixtape released by Wiz Khalifa in 2017."</data>
+      <data key="d2">5c0cba07dcedb66e61cbf690187a3f6c</data>
+    </node>
+    <node id="&quot;BONG RIPS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Bong Rips is a mixtape released by Wiz Khalifa in 2017."</data>
+      <data key="d2">5c0cba07dcedb66e61cbf690187a3f6c</data>
+    </node>
+    <node id="&quot;LAUGH NOW, FLY LATER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Laugh Now, Fly Later is a mixtape released by Wiz Khalifa in 2017."</data>
+      <data key="d2">5c0cba07dcedb66e61cbf690187a3f6c</data>
+    </node>
+    <node id="&quot;TAYLOR GANG&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5c0cba07dcedb66e61cbf690187a3f6c</data>
+    </node>
+    <node id="&quot;UNITED STATES CONSTITUTION&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States Constitution is the supreme law of the land, containing the Bill of Rights and other fundamental principles."</data>
+      <data key="d2">5639e8f6d4eb005e43b828c8fa166b85</data>
+    </node>
+    <node id="&quot;BILL OF RIGHTS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Bill of Rights is a set of amendments to the United States Constitution that protect individual rights and freedoms."</data>
+      <data key="d2">5639e8f6d4eb005e43b828c8fa166b85</data>
+    </node>
+    <node id="&quot;GRAND JURY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A grand jury is a legal body that reviews evidence and decides whether to indict individuals for felonies."</data>
+      <data key="d2">5639e8f6d4eb005e43b828c8fa166b85</data>
+    </node>
+    <node id="&quot;FIFTH AMENDMENT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5639e8f6d4eb005e43b828c8fa166b85</data>
+    </node>
+    <edge source="&quot;JVC&quot;" target="&quot;VHS-C CAMCORDER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"JVC released the first VHS-C camcorder in 1983."</data>
+      <data key="d5">23a8ac5ae93434bd4fffb9b4516e0d9d</data>
+    </edge>
+    <edge source="&quot;KODAK&quot;" target="&quot;8 MM VIDEO FORMAT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Kodak announced a new camcorder format, the 8 mm video format, in 1984."</data>
+      <data key="d5">23a8ac5ae93434bd4fffb9b4516e0d9d</data>
+    </edge>
+    <edge source="&quot;BETAMOVIE BMC-100P&quot;" target="&quot;SONY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sony released the Betamovie BMC-100P, the first consumer camcorder, in 1983."</data>
+      <data key="d5">23a8ac5ae93434bd4fffb9b4516e0d9d</data>
+    </edge>
+    <edge source="&quot;VIDEO8 FORMAT&quot;" target="&quot;SONY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sony introduced its compact Video8 format in 1985."</data>
+      <data key="d5">23a8ac5ae93434bd4fffb9b4516e0d9d</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">00c538017237eff435b2a9bf165a2373,0200fc59f8c8c01504a50e4801f1ce39,03f33d408a1c6aa6aa3e219d06b3a9c6,0b5eaa515674e617732774268d3fadd9,100d89bdb09824b5cc18b9065635373a,1adf607c1ce7e0c6e97c1526b1fe42bb,1ed46d31d26ac8ac155973d4de06b815,23a8ac5ae93434bd4fffb9b4516e0d9d,3fedf2bf87a33b2e0b3d5a1bf702fa63,5639e8f6d4eb005e43b828c8fa166b85,5c0cba07dcedb66e61cbf690187a3f6c,5f002557ef4448e7b75525217c124193,6063a9e121262b54bb6072978f65000e,82931f2d0255fa171f72ae276a12d316,8a226827bde07fae98f5c271ae081109,9d51f62949ba5529fb1223b4e2f6a00f,b869754bdf9a0b1849fe359188be0ec6,caad14e0038d90c39f54ac9503e539fc,da68b26004065a93597dbc8d6eb7dd90,ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">00c538017237eff435b2a9bf165a2373,0200fc59f8c8c01504a50e4801f1ce39,03f33d408a1c6aa6aa3e219d06b3a9c6,0b5eaa515674e617732774268d3fadd9,100d89bdb09824b5cc18b9065635373a,1adf607c1ce7e0c6e97c1526b1fe42bb,1ed46d31d26ac8ac155973d4de06b815,23a8ac5ae93434bd4fffb9b4516e0d9d,3fedf2bf87a33b2e0b3d5a1bf702fa63,5639e8f6d4eb005e43b828c8fa166b85,5c0cba07dcedb66e61cbf690187a3f6c,5f002557ef4448e7b75525217c124193,6063a9e121262b54bb6072978f65000e,82931f2d0255fa171f72ae276a12d316,8a226827bde07fae98f5c271ae081109,9d51f62949ba5529fb1223b4e2f6a00f,b869754bdf9a0b1849fe359188be0ec6,caad14e0038d90c39f54ac9503e539fc,da68b26004065a93597dbc8d6eb7dd90,ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">00c538017237eff435b2a9bf165a2373,0200fc59f8c8c01504a50e4801f1ce39,03f33d408a1c6aa6aa3e219d06b3a9c6,0b5eaa515674e617732774268d3fadd9,100d89bdb09824b5cc18b9065635373a,1adf607c1ce7e0c6e97c1526b1fe42bb,1ed46d31d26ac8ac155973d4de06b815,23a8ac5ae93434bd4fffb9b4516e0d9d,3fedf2bf87a33b2e0b3d5a1bf702fa63,5639e8f6d4eb005e43b828c8fa166b85,5c0cba07dcedb66e61cbf690187a3f6c,5f002557ef4448e7b75525217c124193,6063a9e121262b54bb6072978f65000e,82931f2d0255fa171f72ae276a12d316,8a226827bde07fae98f5c271ae081109,9d51f62949ba5529fb1223b4e2f6a00f,b869754bdf9a0b1849fe359188be0ec6,caad14e0038d90c39f54ac9503e539fc,da68b26004065a93597dbc8d6eb7dd90,ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">00c538017237eff435b2a9bf165a2373,0200fc59f8c8c01504a50e4801f1ce39,03f33d408a1c6aa6aa3e219d06b3a9c6,0b5eaa515674e617732774268d3fadd9,100d89bdb09824b5cc18b9065635373a,1adf607c1ce7e0c6e97c1526b1fe42bb,1ed46d31d26ac8ac155973d4de06b815,23a8ac5ae93434bd4fffb9b4516e0d9d,3fedf2bf87a33b2e0b3d5a1bf702fa63,5639e8f6d4eb005e43b828c8fa166b85,5c0cba07dcedb66e61cbf690187a3f6c,5f002557ef4448e7b75525217c124193,6063a9e121262b54bb6072978f65000e,82931f2d0255fa171f72ae276a12d316,8a226827bde07fae98f5c271ae081109,9d51f62949ba5529fb1223b4e2f6a00f,b869754bdf9a0b1849fe359188be0ec6,caad14e0038d90c39f54ac9503e539fc,da68b26004065a93597dbc8d6eb7dd90,ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">00c538017237eff435b2a9bf165a2373,0200fc59f8c8c01504a50e4801f1ce39,03f33d408a1c6aa6aa3e219d06b3a9c6,0b5eaa515674e617732774268d3fadd9,100d89bdb09824b5cc18b9065635373a,1adf607c1ce7e0c6e97c1526b1fe42bb,1ed46d31d26ac8ac155973d4de06b815,23a8ac5ae93434bd4fffb9b4516e0d9d,3fedf2bf87a33b2e0b3d5a1bf702fa63,5639e8f6d4eb005e43b828c8fa166b85,5c0cba07dcedb66e61cbf690187a3f6c,5f002557ef4448e7b75525217c124193,6063a9e121262b54bb6072978f65000e,82931f2d0255fa171f72ae276a12d316,8a226827bde07fae98f5c271ae081109,9d51f62949ba5529fb1223b4e2f6a00f,b869754bdf9a0b1849fe359188be0ec6,caad14e0038d90c39f54ac9503e539fc,da68b26004065a93597dbc8d6eb7dd90,ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">00c538017237eff435b2a9bf165a2373,0200fc59f8c8c01504a50e4801f1ce39,03f33d408a1c6aa6aa3e219d06b3a9c6,0b5eaa515674e617732774268d3fadd9,100d89bdb09824b5cc18b9065635373a,1adf607c1ce7e0c6e97c1526b1fe42bb,1ed46d31d26ac8ac155973d4de06b815,23a8ac5ae93434bd4fffb9b4516e0d9d,3fedf2bf87a33b2e0b3d5a1bf702fa63,5639e8f6d4eb005e43b828c8fa166b85,5c0cba07dcedb66e61cbf690187a3f6c,5f002557ef4448e7b75525217c124193,6063a9e121262b54bb6072978f65000e,82931f2d0255fa171f72ae276a12d316,8a226827bde07fae98f5c271ae081109,9d51f62949ba5529fb1223b4e2f6a00f,b869754bdf9a0b1849fe359188be0ec6,caad14e0038d90c39f54ac9503e539fc,da68b26004065a93597dbc8d6eb7dd90,ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;JEHOVAH'S WITNESSES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jehovah's Witnesses have volunteers from across the United States who participated in renovating the theater."</data>
+      <data key="d5">9d51f62949ba5529fb1223b4e2f6a00f</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;THE CANADIAN GRENADIER GUARDS BAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Canadian Grenadier Guards Band appeared on numerous radio broadcasts in the United States."</data>
+      <data key="d5">caad14e0038d90c39f54ac9503e539fc</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">00c538017237eff435b2a9bf165a2373,0200fc59f8c8c01504a50e4801f1ce39,03f33d408a1c6aa6aa3e219d06b3a9c6,0b5eaa515674e617732774268d3fadd9,100d89bdb09824b5cc18b9065635373a,1adf607c1ce7e0c6e97c1526b1fe42bb,1ed46d31d26ac8ac155973d4de06b815,23a8ac5ae93434bd4fffb9b4516e0d9d,3fedf2bf87a33b2e0b3d5a1bf702fa63,5639e8f6d4eb005e43b828c8fa166b85,5c0cba07dcedb66e61cbf690187a3f6c,5f002557ef4448e7b75525217c124193,6063a9e121262b54bb6072978f65000e,82931f2d0255fa171f72ae276a12d316,8a226827bde07fae98f5c271ae081109,9d51f62949ba5529fb1223b4e2f6a00f,b869754bdf9a0b1849fe359188be0ec6,caad14e0038d90c39f54ac9503e539fc,da68b26004065a93597dbc8d6eb7dd90,ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">00c538017237eff435b2a9bf165a2373,0200fc59f8c8c01504a50e4801f1ce39,03f33d408a1c6aa6aa3e219d06b3a9c6,0b5eaa515674e617732774268d3fadd9,100d89bdb09824b5cc18b9065635373a,1adf607c1ce7e0c6e97c1526b1fe42bb,1ed46d31d26ac8ac155973d4de06b815,23a8ac5ae93434bd4fffb9b4516e0d9d,3fedf2bf87a33b2e0b3d5a1bf702fa63,5639e8f6d4eb005e43b828c8fa166b85,5c0cba07dcedb66e61cbf690187a3f6c,5f002557ef4448e7b75525217c124193,6063a9e121262b54bb6072978f65000e,82931f2d0255fa171f72ae276a12d316,8a226827bde07fae98f5c271ae081109,9d51f62949ba5529fb1223b4e2f6a00f,b869754bdf9a0b1849fe359188be0ec6,caad14e0038d90c39f54ac9503e539fc,da68b26004065a93597dbc8d6eb7dd90,ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">00c538017237eff435b2a9bf165a2373,0200fc59f8c8c01504a50e4801f1ce39,03f33d408a1c6aa6aa3e219d06b3a9c6,0b5eaa515674e617732774268d3fadd9,100d89bdb09824b5cc18b9065635373a,1adf607c1ce7e0c6e97c1526b1fe42bb,1ed46d31d26ac8ac155973d4de06b815,23a8ac5ae93434bd4fffb9b4516e0d9d,3fedf2bf87a33b2e0b3d5a1bf702fa63,5639e8f6d4eb005e43b828c8fa166b85,5c0cba07dcedb66e61cbf690187a3f6c,5f002557ef4448e7b75525217c124193,6063a9e121262b54bb6072978f65000e,82931f2d0255fa171f72ae276a12d316,8a226827bde07fae98f5c271ae081109,9d51f62949ba5529fb1223b4e2f6a00f,b869754bdf9a0b1849fe359188be0ec6,caad14e0038d90c39f54ac9503e539fc,da68b26004065a93597dbc8d6eb7dd90,ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </edge>
+    <edge source="&quot;HEINRICH WELKER&quot;" target="&quot;COMPAGNIE DES FREINS ET SIGNAUX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Heinrich Welker worked with Herbert Matar&#233; at Compagnie des Freins et Signaux on the transistor research."</data>
+      <data key="d5">b869754bdf9a0b1849fe359188be0ec6</data>
+    </edge>
+    <edge source="&quot;COMPAGNIE DES FREINS ET SIGNAUX&quot;" target="&quot;HERBERT MATAR&#201;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Herbert Matar&#233; worked at Compagnie des Freins et Signaux where he invented the point-contact transistor."</data>
+      <data key="d5">b869754bdf9a0b1849fe359188be0ec6</data>
+    </edge>
+    <edge source="&quot;BELL LABS&quot;" target="&quot;INVENTION OF POINT-CONTACT TRANSISTOR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bell Labs' scientists had already invented the transistor before Herbert Matar&#233; and Heinrich Welker."</data>
+      <data key="d5">b869754bdf9a0b1849fe359188be0ec6</data>
+    </edge>
+    <edge source="&quot;HERBERT MATAR&#201;&quot;" target="&quot;INVENTION OF POINT-CONTACT TRANSISTOR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Herbert Matar&#233; independently invented the point-contact transistor in 1948."</data>
+      <data key="d5">b869754bdf9a0b1849fe359188be0ec6</data>
+    </edge>
+    <edge source="&quot;THEM&quot;" target="&quot;HERE COMES THE NIGHT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Them recorded and released 'Here Comes the Night' in 1965, achieving chart success."</data>
+      <data key="d5">6063a9e121262b54bb6072978f65000e</data>
+    </edge>
+    <edge source="&quot;THEM&quot;" target="&quot;VAN MORRISON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Van Morrison is the frontman of Them, a Northern Irish band that recorded and released 'Here Comes the Night' in 1965."</data>
+      <data key="d5">6063a9e121262b54bb6072978f65000e</data>
+    </edge>
+    <edge source="&quot;HERE COMES THE NIGHT&quot;" target="&quot;BERT BERNS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bert Berns wrote 'Here Comes the Night', a song that became a hit in 1965."</data>
+      <data key="d5">6063a9e121262b54bb6072978f65000e</data>
+    </edge>
+    <edge source="&quot;MUAMMAR GADDAFI&quot;" target="&quot;BEYONC&#201;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Beyonc&#233; performed for Muammar Gaddafi's family, but later donated the earnings to charity."</data>
+      <data key="d5">0200fc59f8c8c01504a50e4801f1ce39</data>
+    </edge>
+    <edge source="&quot;CLINTON BUSH HAITI FUND&quot;" target="&quot;BEYONC&#201;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Beyonc&#233; donated her earnings from performing for the Gaddafi family to the Clinton Bush Haiti Fund."</data>
+      <data key="d5">0200fc59f8c8c01504a50e4801f1ce39</data>
+    </edge>
+    <edge source="&quot;ROLLING STONE&quot;" target="&quot;MUSIC INDUSTRY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Rolling Stone reported on the music industry's reaction to Beyonc&#233;'s performance for the Gaddafi family."</data>
+      <data key="d5">0200fc59f8c8c01504a50e4801f1ce39</data>
+    </edge>
+    <edge source="&quot;FATHER LOUIS HENNEPIN&quot;" target="&quot;NIAGARA RIVER AND FALLS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Father Louis Hennepin first witnessed the Niagara River and Falls during his travels."</data>
+      <data key="d5">da68b26004065a93597dbc8d6eb7dd90</data>
+    </edge>
+    <edge source="&quot;FATHER LOUIS HENNEPIN&quot;" target="&quot;A NEW DISCOVERY OF A VAST COUNTRY IN AMERICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Father Louis Hennepin wrote about his travels, including witnessing the Niagara River and Falls, in his book A New Discovery of a Vast Country in America."</data>
+      <data key="d5">da68b26004065a93597dbc8d6eb7dd90</data>
+    </edge>
+    <edge source="&quot;NORTH AMERICA&quot;" target="&quot;NIAGARA RIVER AND FALLS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Niagara River and Falls are located in North America."</data>
+      <data key="d5">da68b26004065a93597dbc8d6eb7dd90</data>
+    </edge>
+    <edge source="&quot;CHICAGO&quot;" target="&quot;MADINA LAKE&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Here is a comprehensive summary of the data:
+
+Madina Lake, a band based in Chicago, was formed in the city in 2005.
+
+Let me know if you need any further assistance!</data>
+      <data key="d5">1adf607c1ce7e0c6e97c1526b1fe42bb,ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </edge>
+    <edge source="&quot;ROADRUNNER RECORDS&quot;" target="&quot;MADINA LAKE&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Here is the comprehensive summary:
+
+Roadrunner Records and Madina Lake are associated with each other in the music industry. Specifically, Madina Lake released their debut album through Roadrunner Records on March 27, 2007.
+
+Let me know if you need any further assistance!</data>
+      <data key="d5">1adf607c1ce7e0c6e97c1526b1fe42bb,ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </edge>
+    <edge source="&quot;KERRANG!&quot;" target="&quot;MADINA LAKE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Madina Lake won Best International Newcomer at the Kerrang! Awards in 2007."</data>
+      <data key="d5">ffa2d9a8838f0dc91145abcc0486b2d8</data>
+    </edge>
+    <edge source="&quot;MADINA LAKE&quot;" target="&quot;FROM THEM, THROUGH US, TO YOU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"From Them, Through Us, to You is the debut album by Madina Lake."</data>
+      <data key="d5">1adf607c1ce7e0c6e97c1526b1fe42bb</data>
+    </edge>
+    <edge source="&quot;JEHOVAH'S WITNESSES&quot;" target="&quot;WATCH TOWER SOCIETY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Watch Tower Society is affiliated with Jehovah's Witnesses, providing them with a convention and assembly hall."</data>
+      <data key="d5">9d51f62949ba5529fb1223b4e2f6a00f</data>
+    </edge>
+    <edge source="&quot;JEHOVAH'S WITNESSES&quot;" target="&quot;PUBLISHERS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jehovah's Witnesses have a large number of publishers who are actively involved in preaching and Bible study activities."</data>
+      <data key="d5">0b5eaa515674e617732774268d3fadd9</data>
+    </edge>
+    <edge source="&quot;JEHOVAH'S WITNESSES&quot;" target="&quot;CONGREGATIONS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jehovah's Witnesses have 118,016 congregations worldwide as of 2015."</data>
+      <data key="d5">0b5eaa515674e617732774268d3fadd9</data>
+    </edge>
+    <edge source="&quot;THEATER&quot;" target="&quot;WATCH TOWER SOCIETY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Watch Tower Society purchased and renovated the Theater for use by Jehovah's Witnesses."</data>
+      <data key="d5">9d51f62949ba5529fb1223b4e2f6a00f</data>
+    </edge>
+    <edge source="&quot;MICROSTATION&quot;" target="&quot;DGN (DESIGN)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"MicroStation supports the DGN format."</data>
+      <data key="d5">3fedf2bf87a33b2e0b3d5a1bf702fa63</data>
+    </edge>
+    <edge source="&quot;INTERGRAPH'S INTERACTIVE GRAPHICS DESIGN SYSTEM (IGDS)&quot;" target="&quot;DGN (DESIGN)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Intergraph's IGDS supports the DGN format."</data>
+      <data key="d5">3fedf2bf87a33b2e0b3d5a1bf702fa63</data>
+    </edge>
+    <edge source="&quot;AUTODESK&quot;" target="&quot;DGN (DESIGN)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Autodesk offers a competing format to DGN, specifically DWG."</data>
+      <data key="d5">3fedf2bf87a33b2e0b3d5a1bf702fa63</data>
+    </edge>
+    <edge source="&quot;DGN (DESIGN)&quot;" target="&quot;BENTLEY SYSTEMS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bentley Systems supports the DGN format."</data>
+      <data key="d5">3fedf2bf87a33b2e0b3d5a1bf702fa63</data>
+    </edge>
+    <edge source="&quot;PLAYBOY TV&quot;" target="&quot;SHOW US YOUR WITS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Show Us Your Wits is aired on Playboy TV."</data>
+      <data key="d5">8a226827bde07fae98f5c271ae081109</data>
+    </edge>
+    <edge source="&quot;DAPHNEE DUPLAIX&quot;" target="&quot;SHOW US YOUR WITS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Daphnee Duplaix hosts the Show Us Your Wits game show."</data>
+      <data key="d5">8a226827bde07fae98f5c271ae081109</data>
+    </edge>
+    <edge source="&quot;LAS VEGAS PALOMINO STRIP CLUB&quot;" target="&quot;SHOW US YOUR WITS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Show Us Your Wits game show is based out of the Las Vegas Palomino Strip Club."</data>
+      <data key="d5">8a226827bde07fae98f5c271ae081109</data>
+    </edge>
+    <edge source="&quot;FLUOROSCOPY&quot;" target="&quot;X-RAY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Both x-ray and fluoroscopy are imaging techniques used for guiding applicator placement."</data>
+      <data key="d5">1ed46d31d26ac8ac155973d4de06b815</data>
+    </edge>
+    <edge source="&quot;ULTRASOUND&quot;" target="&quot;CAT SCANS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ultrasound, CAT scans, and MRI are all imaging techniques used in the treatment planning process."</data>
+      <data key="d5">1ed46d31d26ac8ac155973d4de06b815</data>
+    </edge>
+    <edge source="&quot;MRI&quot;" target="&quot;TREATMENT PLAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"MRI is used to further refine the treatment plan."</data>
+      <data key="d5">1ed46d31d26ac8ac155973d4de06b815</data>
+    </edge>
+    <edge source="&quot;CANADA&quot;" target="&quot;THE CANADIAN GRENADIER GUARDS BAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Canadian Grenadier Guards Band was based in Canada and performed throughout North America."</data>
+      <data key="d5">caad14e0038d90c39f54ac9503e539fc</data>
+    </edge>
+    <edge source="&quot;PUBLISHERS&quot;" target="&quot;BIBLE STUDIES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Publishers conduct Bible studies with individuals, including Witness parents with their children."</data>
+      <data key="d5">0b5eaa515674e617732774268d3fadd9</data>
+    </edge>
+    <edge source="&quot;USA&quot;" target="&quot;911&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The USA has its own emergency number, 911, which will be transferred to the 999 call system if called within the United Kingdom."</data>
+      <data key="d5">5f002557ef4448e7b75525217c124193</data>
+    </edge>
+    <edge source="&quot;EMERGENCY SERVICES&quot;" target="&quot;UNITED KINGDOM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Emergency Services are available in the United Kingdom and can be contacted using the numbers 999 or 112."</data>
+      <data key="d5">5f002557ef4448e7b75525217c124193</data>
+    </edge>
+    <edge source="&quot;EMERGENCY SERVICES&quot;" target="&quot;999 CALL SYSTEM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Emergency Services are connected to the 999 Call System, which allows callers to contact them upon dialling 999 or 112."</data>
+      <data key="d5">5f002557ef4448e7b75525217c124193</data>
+    </edge>
+    <edge source="&quot;ANABOLIC STEROIDS&quot;" target="&quot;SCHWARZENEGGER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Schwarzenegger admitted to using Anabolic Steroids while they were legal."</data>
+      <data key="d5">100d89bdb09824b5cc18b9065635373a</data>
+    </edge>
+    <edge source="&quot;PLAYSTATION 3&quot;" target="&quot;PLAYSTATION PORTABLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The PlayStation Portable can connect with the PlayStation 3 in various ways, including in-game connectivity and Remote Play."</data>
+      <data key="d5">03f33d408a1c6aa6aa3e219d06b3a9c6</data>
+    </edge>
+    <edge source="&quot;E3 2006&quot;" target="&quot;FORMULA ONE CHAMPIONSHIP EDITION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Formula One Championship Edition was showcased at E3 2006 using a PSP as a real-time rear-view mirror."</data>
+      <data key="d5">03f33d408a1c6aa6aa3e219d06b3a9c6</data>
+    </edge>
+    <edge source="&quot;PLAYSTATION PORTABLE&quot;" target="&quot;REMOTE PLAY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The PlayStation Portable can use the Remote Play feature to play games remotely over a network or internet connection."</data>
+      <data key="d5">03f33d408a1c6aa6aa3e219d06b3a9c6</data>
+    </edge>
+    <edge source="&quot;DMITRY KOLDUN&quot;" target="&quot;WORK YOUR MAGIC&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dmitry Koldun performed the song 'Work Your Magic' at the Eurovision Song Contest 2007."</data>
+      <data key="d5">82931f2d0255fa171f72ae276a12d316</data>
+    </edge>
+    <edge source="&quot;EUROVISION SONG CONTEST 2007&quot;" target="&quot;BELARUS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Belarus participated in the Eurovision Song Contest 2007 with Dmitry Koldun as its representative."</data>
+      <data key="d5">82931f2d0255fa171f72ae276a12d316</data>
+    </edge>
+    <edge source="&quot;EUROVISION SONG CONTEST 2007&quot;" target="&quot;HELSINKI, FINLAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Eurovision Song Contest 2007 took place in Helsinki, Finland."</data>
+      <data key="d5">82931f2d0255fa171f72ae276a12d316</data>
+    </edge>
+    <edge source="&quot;MARY SHANNON&quot;" target="&quot;FEDERAL WITNESS SECURITY PROGRAM (WITSEC)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mary Shannon is a Deputy United States Marshal attached to WITSEC."</data>
+      <data key="d5">00c538017237eff435b2a9bf165a2373</data>
+    </edge>
+    <edge source="&quot;MARY SHANNON&quot;" target="&quot;MARSHALL MANN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marshall Mann is Mary Shannon's work partner."</data>
+      <data key="d5">00c538017237eff435b2a9bf165a2373</data>
+    </edge>
+    <edge source="&quot;USA NETWORK&quot;" target="&quot;IN PLAIN SIGHT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"In Plain Sight premiered on the USA Network."</data>
+      <data key="d5">00c538017237eff435b2a9bf165a2373</data>
+    </edge>
+    <edge source="&quot;ROSTRUM&quot;" target="&quot;WIZ KHALIFA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Wiz Khalifa is associated with the record label Rostrum."</data>
+      <data key="d5">5c0cba07dcedb66e61cbf690187a3f6c</data>
+    </edge>
+    <edge source="&quot;WIZ KHALIFA&quot;" target="&quot;TAYLOR GANG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Wiz Khalifa is associated with the record label Taylor Gang."</data>
+      <data key="d5">5c0cba07dcedb66e61cbf690187a3f6c</data>
+    </edge>
+    <edge source="&quot;CURRENSY&quot;" target="&quot;HOW FLY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Currensy collaborated with Wiz Khalifa on the mixtape How Fly."</data>
+      <data key="d5">5c0cba07dcedb66e61cbf690187a3f6c</data>
+    </edge>
+    <edge source="&quot;UNITED STATES CONSTITUTION&quot;" target="&quot;FIFTH AMENDMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Fifth Amendment is part of the United States Constitution, specifically the Bill of Rights."</data>
+      <data key="d5">5639e8f6d4eb005e43b828c8fa166b85</data>
+    </edge>
+    <edge source="&quot;UNITED STATES CONSTITUTION&quot;" target="&quot;BILL OF RIGHTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Bill of Rights is a part of the United States Constitution, containing amendments that protect individual rights and freedoms."</data>
+      <data key="d5">5639e8f6d4eb005e43b828c8fa166b85</data>
+    </edge>
+    <edge source="&quot;GRAND JURY&quot;" target="&quot;FIFTH AMENDMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"A grand jury is involved in the process of trying felonies, which is regulated by the Fifth Amendment."</data>
+      <data key="d5">5639e8f6d4eb005e43b828c8fa166b85</data>
+    </edge>
+  </graph>
+</graphml>

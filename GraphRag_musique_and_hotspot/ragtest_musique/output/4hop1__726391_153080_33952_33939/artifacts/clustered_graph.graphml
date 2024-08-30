@@ -1,0 +1,1528 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="level" attr.type="long" />
+  <key id="d6" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d5" for="node" attr.name="id" attr.type="string" />
+  <key id="d4" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d3" for="node" attr.name="degree" attr.type="long" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;NORTH CHARLESTON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"North Charleston is the second-largest city in the Charleston-North Charleston-Summerville Metropolitan Statistical Area and ranks as the third-largest city in the state."</data>
+      <data key="d2">27538feb98a541240d3a540eefe8458b</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;MOUNT PLEASANT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mount Pleasant is one of the next-largest cities in the Charleston-North Charleston-Summerville Metropolitan Statistical Area."</data>
+      <data key="d2">27538feb98a541240d3a540eefe8458b</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;SUMMERVILLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Summerville is one of the next-largest cities in the Charleston-North Charleston-Summerville Metropolitan Statistical Area."</data>
+      <data key="d2">27538feb98a541240d3a540eefe8458b</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;CHARLESTON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Charleston is a city that forms part of the Charleston-North Charleston Urban Area."</data>
+      <data key="d2">27538feb98a541240d3a540eefe8458b</data>
+      <data key="d3">0</data>
+      <data key="d4">3</data>
+      <data key="d5">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;BERKELEY COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Berkeley County is one of the three counties in the Charleston-North Charleston-Summerville Metropolitan Statistical Area."</data>
+      <data key="d2">27538feb98a541240d3a540eefe8458b</data>
+      <data key="d3">1</data>
+      <data key="d4">4</data>
+      <data key="d5">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;DORCHESTER COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Dorchester County is one of the three counties in the Charleston-North Charleston-Summerville Metropolitan Statistical Area."</data>
+      <data key="d2">27538feb98a541240d3a540eefe8458b</data>
+      <data key="d3">0</data>
+      <data key="d4">5</data>
+      <data key="d5">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;MONCKS CORNER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Moncks Corner is a smaller urban area within Berkeley County with a population of 9,123 as of 2000."</data>
+      <data key="d2">27538feb98a541240d3a540eefe8458b</data>
+      <data key="d3">1</data>
+      <data key="d4">6</data>
+      <data key="d5">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;CHARLESTON-NORTH CHARLESTON-SUMMERVILLE METROPOLITAN STATISTICAL AREA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">27538feb98a541240d3a540eefe8458b</data>
+      <data key="d3">3</data>
+      <data key="d4">7</data>
+      <data key="d5">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Pima County is a county located in Arizona, United States, with Tucson serving as its county seat. It is a geographic location where Tucson is situated and has a population of over one million as of 2006.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">073460cc88887df5f7445e41b495017f,138588ef1da3514666b0998d4b0005ae,2274dfd35b3595b51f72b2e4bdbdeff1,27538feb98a541240d3a540eefe8458b,3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,56220a0f2b1930fa98196ff511e562a4,667c93e2950c4668ed9797d2682e885d,ae37de12a22f02e35f8f4a7186b10387,b586c48a6a0be0dac83adaa132e1923f,b8022883252d65599c067dbd1d3044e8,caa4f611de6dfbb60da609924bc1cbca,d01a1a47081277e751f69bbafc9a9375,db789a3360045018e8329dc9d74750ca,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602,e841ba7743ea911c87ef7ff3578df4bc,f275f7e62c7790242520cec079d09f56,f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">3</data>
+      <data key="d4">8</data>
+      <data key="d5">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">073460cc88887df5f7445e41b495017f,138588ef1da3514666b0998d4b0005ae,2274dfd35b3595b51f72b2e4bdbdeff1,27538feb98a541240d3a540eefe8458b,3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,56220a0f2b1930fa98196ff511e562a4,667c93e2950c4668ed9797d2682e885d,ae37de12a22f02e35f8f4a7186b10387,b586c48a6a0be0dac83adaa132e1923f,b8022883252d65599c067dbd1d3044e8,caa4f611de6dfbb60da609924bc1cbca,d01a1a47081277e751f69bbafc9a9375,db789a3360045018e8329dc9d74750ca,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602,e841ba7743ea911c87ef7ff3578df4bc,f275f7e62c7790242520cec079d09f56,f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d6">7</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">9</data>
+      <data key="d5">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">073460cc88887df5f7445e41b495017f,138588ef1da3514666b0998d4b0005ae,2274dfd35b3595b51f72b2e4bdbdeff1,27538feb98a541240d3a540eefe8458b,3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,56220a0f2b1930fa98196ff511e562a4,667c93e2950c4668ed9797d2682e885d,ae37de12a22f02e35f8f4a7186b10387,b586c48a6a0be0dac83adaa132e1923f,b8022883252d65599c067dbd1d3044e8,caa4f611de6dfbb60da609924bc1cbca,d01a1a47081277e751f69bbafc9a9375,db789a3360045018e8329dc9d74750ca,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602,e841ba7743ea911c87ef7ff3578df4bc,f275f7e62c7790242520cec079d09f56,f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">4</data>
+      <data key="d4">10</data>
+      <data key="d5">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Phoenix is a city in Arizona, United States, and is the largest populated city in the state.</data>
+      <data key="d2">073460cc88887df5f7445e41b495017f,138588ef1da3514666b0998d4b0005ae,2274dfd35b3595b51f72b2e4bdbdeff1,27538feb98a541240d3a540eefe8458b,3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,56220a0f2b1930fa98196ff511e562a4,667c93e2950c4668ed9797d2682e885d,ae37de12a22f02e35f8f4a7186b10387,b586c48a6a0be0dac83adaa132e1923f,b8022883252d65599c067dbd1d3044e8,caa4f611de6dfbb60da609924bc1cbca,d01a1a47081277e751f69bbafc9a9375,db789a3360045018e8329dc9d74750ca,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602,e841ba7743ea911c87ef7ff3578df4bc,f275f7e62c7790242520cec079d09f56,f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">11</data>
+      <data key="d5">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country that encompasses various regions, cities, and counties. It shares a border with Mexico and has a population of over 1 million in the Greater Tucson Metro area. The country includes cities such as Tucson, Arizona; Detroit, which is part of its Midwestern region; Jacksonville, one of its most populous cities; and others like Beach City, Ohio; Hubbard, Ohio; and Staunton, Illinois, located in Macoupin County. Additionally, the United States comprises counties like Pima County, Arizona; Cherokee County, Kansas, where West Mineral is situated; and states including Arizona, Illinois, Ohio, and Kansas.</data>
+      <data key="d2">073460cc88887df5f7445e41b495017f,138588ef1da3514666b0998d4b0005ae,2274dfd35b3595b51f72b2e4bdbdeff1,27538feb98a541240d3a540eefe8458b,3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,56220a0f2b1930fa98196ff511e562a4,667c93e2950c4668ed9797d2682e885d,ae37de12a22f02e35f8f4a7186b10387,b586c48a6a0be0dac83adaa132e1923f,b8022883252d65599c067dbd1d3044e8,caa4f611de6dfbb60da609924bc1cbca,d01a1a47081277e751f69bbafc9a9375,db789a3360045018e8329dc9d74750ca,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602,e841ba7743ea911c87ef7ff3578df4bc,f275f7e62c7790242520cec079d09f56,f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">8</data>
+      <data key="d4">12</data>
+      <data key="d5">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">073460cc88887df5f7445e41b495017f,138588ef1da3514666b0998d4b0005ae,2274dfd35b3595b51f72b2e4bdbdeff1,27538feb98a541240d3a540eefe8458b,3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,56220a0f2b1930fa98196ff511e562a4,667c93e2950c4668ed9797d2682e885d,ae37de12a22f02e35f8f4a7186b10387,b586c48a6a0be0dac83adaa132e1923f,b8022883252d65599c067dbd1d3044e8,caa4f611de6dfbb60da609924bc1cbca,d01a1a47081277e751f69bbafc9a9375,db789a3360045018e8329dc9d74750ca,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602,e841ba7743ea911c87ef7ff3578df4bc,f275f7e62c7790242520cec079d09f56,f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d6">6</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">13</data>
+      <data key="d5">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">073460cc88887df5f7445e41b495017f,138588ef1da3514666b0998d4b0005ae,2274dfd35b3595b51f72b2e4bdbdeff1,27538feb98a541240d3a540eefe8458b,3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,56220a0f2b1930fa98196ff511e562a4,667c93e2950c4668ed9797d2682e885d,ae37de12a22f02e35f8f4a7186b10387,b586c48a6a0be0dac83adaa132e1923f,b8022883252d65599c067dbd1d3044e8,caa4f611de6dfbb60da609924bc1cbca,d01a1a47081277e751f69bbafc9a9375,db789a3360045018e8329dc9d74750ca,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602,e841ba7743ea911c87ef7ff3578df4bc,f275f7e62c7790242520cec079d09f56,f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d6">7</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">14</data>
+      <data key="d5">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Mexico is a country that shares an international border with the United States, near Tucson. Historically, Mexico had a significant relationship with Texas, which struggled for independence from it. Today, Mexico maintains its sovereignty as a separate nation, bordered by the United States to the north.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">073460cc88887df5f7445e41b495017f,138588ef1da3514666b0998d4b0005ae,2274dfd35b3595b51f72b2e4bdbdeff1,27538feb98a541240d3a540eefe8458b,3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,56220a0f2b1930fa98196ff511e562a4,667c93e2950c4668ed9797d2682e885d,ae37de12a22f02e35f8f4a7186b10387,b586c48a6a0be0dac83adaa132e1923f,b8022883252d65599c067dbd1d3044e8,caa4f611de6dfbb60da609924bc1cbca,d01a1a47081277e751f69bbafc9a9375,db789a3360045018e8329dc9d74750ca,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602,e841ba7743ea911c87ef7ff3578df4bc,f275f7e62c7790242520cec079d09f56,f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d6">6</data>
+      <data key="d7">0</data>
+      <data key="d3">3</data>
+      <data key="d4">15</data>
+      <data key="d5">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">073460cc88887df5f7445e41b495017f,138588ef1da3514666b0998d4b0005ae,2274dfd35b3595b51f72b2e4bdbdeff1,27538feb98a541240d3a540eefe8458b,3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,56220a0f2b1930fa98196ff511e562a4,667c93e2950c4668ed9797d2682e885d,ae37de12a22f02e35f8f4a7186b10387,b586c48a6a0be0dac83adaa132e1923f,b8022883252d65599c067dbd1d3044e8,caa4f611de6dfbb60da609924bc1cbca,d01a1a47081277e751f69bbafc9a9375,db789a3360045018e8329dc9d74750ca,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602,e841ba7743ea911c87ef7ff3578df4bc,f275f7e62c7790242520cec079d09f56,f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d3">0</data>
+      <data key="d4">16</data>
+      <data key="d5">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">073460cc88887df5f7445e41b495017f,138588ef1da3514666b0998d4b0005ae,2274dfd35b3595b51f72b2e4bdbdeff1,27538feb98a541240d3a540eefe8458b,3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,56220a0f2b1930fa98196ff511e562a4,667c93e2950c4668ed9797d2682e885d,ae37de12a22f02e35f8f4a7186b10387,b586c48a6a0be0dac83adaa132e1923f,b8022883252d65599c067dbd1d3044e8,caa4f611de6dfbb60da609924bc1cbca,d01a1a47081277e751f69bbafc9a9375,db789a3360045018e8329dc9d74750ca,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602,e841ba7743ea911c87ef7ff3578df4bc,f275f7e62c7790242520cec079d09f56,f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d6">7</data>
+      <data key="d7">0</data>
+      <data key="d3">10</data>
+      <data key="d4">17</data>
+      <data key="d5">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;PARDUBICE REGION&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pardubice Region is a region in the Czech Republic where &#268;esk&#225; T&#345;ebov&#225; is located."</data>
+      <data key="d2">f275f7e62c7790242520cec079d09f56</data>
+      <data key="d3">2</data>
+      <data key="d4">18</data>
+      <data key="d5">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;CZECH REPUBLIC&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Czech Republic is a country where &#268;esk&#225; T&#345;ebov&#225; and Pardubice Region are located."</data>
+      <data key="d2">f275f7e62c7790242520cec079d09f56</data>
+      <data key="d3">1</data>
+      <data key="d4">19</data>
+      <data key="d5">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;&#268;ESK&#193; T&#344;EBOV&#193;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f275f7e62c7790242520cec079d09f56</data>
+      <data key="d3">1</data>
+      <data key="d4">20</data>
+      <data key="d5">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;CHARLES MINGUS SR.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Charles Mingus Sr. is the father of Charles Mingus and a sergeant in the U.S. Army."</data>
+      <data key="d2">50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d3">1</data>
+      <data key="d4">21</data>
+      <data key="d5">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;U.S. ARMY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The U.S. Army is an organization that employs Charles Mingus Sr. as a sergeant."</data>
+      <data key="d2">50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d3">1</data>
+      <data key="d4">22</data>
+      <data key="d5">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;NOGALES, ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Nogales, Arizona is the birthplace of Charles Mingus."</data>
+      <data key="d2">50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d3">1</data>
+      <data key="d4">23</data>
+      <data key="d5">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;WATTS AREA OF LOS ANGELES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Watts area of Los Angeles is where Charles Mingus was largely raised."</data>
+      <data key="d2">50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d3">1</data>
+      <data key="d4">24</data>
+      <data key="d5">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;HONG KONG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hong Kong is the origin of Charles Mingus' maternal grandfather, a Chinese British subject."</data>
+      <data key="d2">50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d3">0</data>
+      <data key="d4">25</data>
+      <data key="d5">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;CHARLES MINGUS&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Charles Mingus is a jazz musician, bassist, and composer who recorded the Oh Yeah album in 1961.</data>
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d3">3</data>
+      <data key="d4">26</data>
+      <data key="d5">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;ARIZONA SUN CORRIDOR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Arizona Sun Corridor is a region in southern Arizona, where Tucson is a major city."</data>
+      <data key="d2">e841ba7743ea911c87ef7ff3578df4bc</data>
+      <data key="d6">7</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">27</data>
+      <data key="d5">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;U.S. VETERANS ADMINISTRATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The U.S. Veterans Administration is an organization that constructed the present Veterans Hospital in Tucson around 1910."</data>
+      <data key="d2">2274dfd35b3595b51f72b2e4bdbdeff1</data>
+      <data key="d6">7</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">28</data>
+      <data key="d5">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;CITY OF TUCSON&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The City of Tucson is a municipal organization that has experienced growth in population, reaching 535,000 as of 2006."</data>
+      <data key="d2">2274dfd35b3595b51f72b2e4bdbdeff1</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">29</data>
+      <data key="d5">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;OH YEAH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3f50ab6f48f2146a476175f7e12e99cc</data>
+      <data key="d3">1</data>
+      <data key="d4">30</data>
+      <data key="d5">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;UNITED STATES CENSUS BUREAU&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The United States Census Bureau is an organization that estimates population data."</data>
+      <data key="d2">50d5902c233bcf5e4c0ca22ab3ec28eb</data>
+      <data key="d6">4</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">31</data>
+      <data key="d5">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&quot;FLORIDA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+"Florida, a state in the United States, is home to multiple cities including Jacksonville and Ocala."
+
+Let me know if you have any further requests!</data>
+      <data key="d2">50d5902c233bcf5e4c0ca22ab3ec28eb,df12a45297eb806593762e670232265a</data>
+      <data key="d6">4</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">32</data>
+      <data key="d5">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&quot;OCALA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">50d5902c233bcf5e4c0ca22ab3ec28eb</data>
+      <data key="d6">4</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">33</data>
+      <data key="d5">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&quot;MACOUPIN COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Macoupin County is a county in Illinois, United States, where Staunton is located."</data>
+      <data key="d2">caa4f611de6dfbb60da609924bc1cbca</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">34</data>
+      <data key="d5">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&quot;ILLINOIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Illinois is a state in the United States where Macoupin County and Staunton are located."</data>
+      <data key="d2">caa4f611de6dfbb60da609924bc1cbca</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">35</data>
+      <data key="d5">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&quot;2010 CENSUS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2010 Census was an event that recorded the population of Staunton as 5,139."</data>
+      <data key="d2">caa4f611de6dfbb60da609924bc1cbca</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">36</data>
+      <data key="d5">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&quot;STAUNTON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">caa4f611de6dfbb60da609924bc1cbca</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">37</data>
+      <data key="d5">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&quot;MINNESOTA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Minnesota is a U.S. state where Saint Paul is located."</data>
+      <data key="d2">d01a1a47081277e751f69bbafc9a9375</data>
+      <data key="d3">0</data>
+      <data key="d4">38</data>
+      <data key="d5">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&quot;RAMSEY COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ramsey County is the smallest and most densely populated county in Minnesota, where Saint Paul is the county seat."</data>
+      <data key="d2">d01a1a47081277e751f69bbafc9a9375</data>
+      <data key="d3">1</data>
+      <data key="d4">39</data>
+      <data key="d5">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <node id="&quot;MINNEAPOLIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Minneapolis is the largest city in Minnesota, adjacent to Saint Paul and forming the Twin Cities."</data>
+      <data key="d2">d01a1a47081277e751f69bbafc9a9375</data>
+      <data key="d3">1</data>
+      <data key="d4">40</data>
+      <data key="d5">3ce7c210a21b4deebad7cc9308148d86</data>
+    </node>
+    <node id="&quot;MISSISSIPPI RIVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Mississippi River is a significant geographical feature where Saint Paul is located."</data>
+      <data key="d2">d01a1a47081277e751f69bbafc9a9375</data>
+      <data key="d3">1</data>
+      <data key="d4">41</data>
+      <data key="d5">d64ed762ea924caa95c8d06f072a9a96</data>
+    </node>
+    <node id="&quot;MINNESOTA RIVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Minnesota River is another important geographical feature near Saint Paul, where it converges with the Mississippi River."</data>
+      <data key="d2">d01a1a47081277e751f69bbafc9a9375</data>
+      <data key="d3">1</data>
+      <data key="d4">42</data>
+      <data key="d5">adf4ee3fbe9b4d0381044838c4f889c8</data>
+    </node>
+    <node id="&quot;SAINT PAUL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d01a1a47081277e751f69bbafc9a9375</data>
+      <data key="d3">2</data>
+      <data key="d4">43</data>
+      <data key="d5">32ee140946e5461f9275db664dc541a5</data>
+    </node>
+    <node id="&quot;NEW JERSEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+New Jersey is a U.S. state in the United States where Jersey City is located, and it is also notable as the place of death of Daniel Francis Murphy.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">138588ef1da3514666b0998d4b0005ae,b586c48a6a0be0dac83adaa132e1923f</data>
+      <data key="d3">2</data>
+      <data key="d4">44</data>
+      <data key="d5">c160b9cb27d6408ba6ab20214a2f3f81</data>
+    </node>
+    <node id="&quot;HUDSON COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hudson County is a county in New Jersey where Jersey City is the largest city and seat."</data>
+      <data key="d2">b586c48a6a0be0dac83adaa132e1923f</data>
+      <data key="d3">1</data>
+      <data key="d4">45</data>
+      <data key="d5">23527cd679ff4d5a988d52e7cd056078</data>
+    </node>
+    <node id="&quot;CENSUS BUREAU&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Census Bureau is an organization responsible for calculating population estimates, including those of Jersey City."</data>
+      <data key="d2">b586c48a6a0be0dac83adaa132e1923f</data>
+      <data key="d3">1</data>
+      <data key="d4">46</data>
+      <data key="d5">f1c6eed066f24cbdb376b910fce29ed4</data>
+    </node>
+    <node id="&quot;JERSEY CITY&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Jersey City is a city located in the state of New Jersey. Notably, it is also the place where Daniel Francis Murphy met his demise.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">138588ef1da3514666b0998d4b0005ae,b586c48a6a0be0dac83adaa132e1923f</data>
+      <data key="d3">4</data>
+      <data key="d4">47</data>
+      <data key="d5">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+    </node>
+    <node id="&quot;MICHIGAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Michigan is a U.S. state where Detroit is located, being part of the Midwest region."</data>
+      <data key="d2">f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d3">1</data>
+      <data key="d4">48</data>
+      <data key="d5">147c038aef3e4422acbbc5f7938c4ab8</data>
+    </node>
+    <node id="&quot;WAYNE COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Wayne County is a county in Michigan where Detroit is the seat, being the most populous county in the state."</data>
+      <data key="d2">f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d3">1</data>
+      <data key="d4">49</data>
+      <data key="d5">b7702b90c7f24190b864e8c6e64612a5</data>
+    </node>
+    <node id="&quot;METRO DETROIT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Metro Detroit is the metropolitan area of Detroit, home to 5.3 million people and being the fourteenth-most populous metropolitan area in the United States."</data>
+      <data key="d2">f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">50</data>
+      <data key="d5">de6fa24480894518ab3cbcb66f739266</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Canada is a country sharing a border with the United States, where Detroit is located."</data>
+      <data key="d2">f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d3">0</data>
+      <data key="d4">51</data>
+      <data key="d5">6fae5ee1a831468aa585a1ea09095998</data>
+    </node>
+    <node id="&quot;DETROIT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d3">2</data>
+      <data key="d4">52</data>
+      <data key="d5">ef32c4b208d041cc856f6837915dc1b0</data>
+    </node>
+    <node id="&quot;STARK COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Stark County is a county in Ohio, United States, where Beach City is located."</data>
+      <data key="d2">667c93e2950c4668ed9797d2682e885d</data>
+      <data key="d6">5</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">53</data>
+      <data key="d5">07b2425216bd4f0aa4e079827cb48ef5</data>
+    </node>
+    <node id="&quot;OHIO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Ohio is a state in the United States where Beach City, Hubbard, Stark County, and Trumbull County are located.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">073460cc88887df5f7445e41b495017f,667c93e2950c4668ed9797d2682e885d</data>
+      <data key="d6">5</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">54</data>
+      <data key="d5">2670deebfa3f4d69bb82c28ab250a209</data>
+    </node>
+    <node id="&quot;CANTON-MASSILLON, OH METROPOLITAN STATISTICAL AREA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Canton-Massillon, OH Metropolitan Statistical Area is a metropolitan statistical area that includes Beach City."</data>
+      <data key="d2">667c93e2950c4668ed9797d2682e885d</data>
+      <data key="d6">5</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">55</data>
+      <data key="d5">404309e89a5241d6bff42c05a45df206</data>
+    </node>
+    <node id="&quot;BEACH CITY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">667c93e2950c4668ed9797d2682e885d</data>
+      <data key="d6">5</data>
+      <data key="d7">0</data>
+      <data key="d3">4</data>
+      <data key="d4">56</data>
+      <data key="d5">b785a9025069417f94950ad231bb1441</data>
+    </node>
+    <node id="&quot;DUVAL COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Duval County is a county in Florida where Jacksonville is the county seat."</data>
+      <data key="d2">df12a45297eb806593762e670232265a</data>
+      <data key="d6">4</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">57</data>
+      <data key="d5">3b6cd96a27304614850709aba1c9598b</data>
+    </node>
+    <node id="&quot;JACKSONVILLE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">df12a45297eb806593762e670232265a</data>
+      <data key="d6">4</data>
+      <data key="d7">0</data>
+      <data key="d3">3</data>
+      <data key="d4">58</data>
+      <data key="d5">d54956b79dd147f894b67a8b97dcbef0</data>
+    </node>
+    <node id="&quot;NASHVILLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Nashville is the capital and second largest city of Tennessee, with a population of 601,222."</data>
+      <data key="d2">ae37de12a22f02e35f8f4a7186b10387</data>
+      <data key="d3">1</data>
+      <data key="d4">59</data>
+      <data key="d5">958beecdb5bb4060948415ffd75d2b03</data>
+    </node>
+    <node id="&quot;MEMPHIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Memphis is the largest city of Tennessee, with a population of 653,450."</data>
+      <data key="d2">ae37de12a22f02e35f8f4a7186b10387</data>
+      <data key="d3">1</data>
+      <data key="d4">60</data>
+      <data key="d5">b999ed77e19e4f85b7f1ae79af5c002a</data>
+    </node>
+    <node id="&quot;KENTUCKY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Kentucky is a state that borders Tennessee to the north."</data>
+      <data key="d2">ae37de12a22f02e35f8f4a7186b10387</data>
+      <data key="d3">1</data>
+      <data key="d4">61</data>
+      <data key="d5">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+    </node>
+    <node id="&quot;VIRGINIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Virginia is a state that borders Tennessee to the north."</data>
+      <data key="d2">ae37de12a22f02e35f8f4a7186b10387</data>
+      <data key="d3">1</data>
+      <data key="d4">62</data>
+      <data key="d5">4f3c97517f794ebfb49c4c6315f9cf23</data>
+    </node>
+    <node id="&quot;NORTH CAROLINA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"North Carolina is a state that borders Tennessee to the east."</data>
+      <data key="d2">ae37de12a22f02e35f8f4a7186b10387</data>
+      <data key="d3">1</data>
+      <data key="d4">63</data>
+      <data key="d5">1745a2485a9443bab76587ad650e9be0</data>
+    </node>
+    <node id="&quot;GEORGIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Georgia is a state that borders Tennessee to the south."</data>
+      <data key="d2">ae37de12a22f02e35f8f4a7186b10387</data>
+      <data key="d3">1</data>
+      <data key="d4">64</data>
+      <data key="d5">32e6ccab20d94029811127dbbe424c64</data>
+    </node>
+    <node id="&quot;ALABAMA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Alabama is a state that borders Tennessee to the south."</data>
+      <data key="d2">ae37de12a22f02e35f8f4a7186b10387</data>
+      <data key="d3">1</data>
+      <data key="d4">65</data>
+      <data key="d5">94a964c6992945ebb3833dfdfdc8d655</data>
+    </node>
+    <node id="&quot;MISSISSIPPI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mississippi is a state that borders Tennessee to the south."</data>
+      <data key="d2">ae37de12a22f02e35f8f4a7186b10387</data>
+      <data key="d3">1</data>
+      <data key="d4">66</data>
+      <data key="d5">1eb829d0ace042089f0746f78729696c</data>
+    </node>
+    <node id="&quot;ARKANSAS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arkansas is a state that borders Tennessee to the west."</data>
+      <data key="d2">ae37de12a22f02e35f8f4a7186b10387</data>
+      <data key="d3">1</data>
+      <data key="d4">67</data>
+      <data key="d5">015e7b58d1a14b44beab3bbc9f912c18</data>
+    </node>
+    <node id="&quot;MISSOURI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Missouri is a state that borders Tennessee to the west."</data>
+      <data key="d2">ae37de12a22f02e35f8f4a7186b10387</data>
+      <data key="d3">1</data>
+      <data key="d4">68</data>
+      <data key="d5">26f88ab3e2e04c33a459ad6270ade565</data>
+    </node>
+    <node id="&quot;TENNESSEE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ae37de12a22f02e35f8f4a7186b10387</data>
+      <data key="d3">10</data>
+      <data key="d4">69</data>
+      <data key="d5">babe97e1d9784cffa1c85abc1e588126</data>
+    </node>
+    <node id="&quot;SAN ANTONIO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"San Antonio is a city in Texas and the seventh largest in the U.S., highlighting its importance as a populated area."</data>
+      <data key="d2">b8022883252d65599c067dbd1d3044e8</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">70</data>
+      <data key="d5">1033a18c45aa4584b2aef6ab96890351</data>
+    </node>
+    <node id="&quot;DALLAS -- FORT WORTH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Dallas -- Fort Worth is a metropolitan statistical area in the country, ranking fourth in size."</data>
+      <data key="d2">b8022883252d65599c067dbd1d3044e8</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">71</data>
+      <data key="d5">c9b8ce91fc2945b4907fe35519339cac</data>
+    </node>
+    <node id="&quot;GREATER HOUSTON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Greater Houston is a metropolitan statistical area in the country, ranking fifth in size."</data>
+      <data key="d2">b8022883252d65599c067dbd1d3044e8</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">72</data>
+      <data key="d5">fa3c4204421c48609e52c8de2da4c654</data>
+    </node>
+    <node id="&quot;AUSTIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Austin is a city and the second most populous state capital in the U.S., emphasizing its role as a significant urban center."</data>
+      <data key="d2">b8022883252d65599c067dbd1d3044e8</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">73</data>
+      <data key="d5">53af055f068244d0ac861b2e89376495</data>
+    </node>
+    <node id="&quot;EL PASO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"El Paso is a major city in Texas, contributing to the state's diversity of populated areas."</data>
+      <data key="d2">b8022883252d65599c067dbd1d3044e8</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">74</data>
+      <data key="d5">c03ab3ce8cb74ad2a03b94723bfab3c7</data>
+    </node>
+    <node id="&quot;TEXAS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Texas is a state in the U.S., nicknamed 'The Lone Star State' due to its former status as an independent republic and struggle for independence from Mexico."</data>
+      <data key="d2">b8022883252d65599c067dbd1d3044e8</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">7</data>
+      <data key="d4">75</data>
+      <data key="d5">ed6d2eee9d7b4f5db466b1f6404d31cc</data>
+    </node>
+    <node id="&quot;HOUSTON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b8022883252d65599c067dbd1d3044e8</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">76</data>
+      <data key="d5">fc01e9baa80e417c9206f941bb279407</data>
+    </node>
+    <node id="&quot;INTERSCOPE RECORDS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Interscope Records is a record label that released the album Show Your Bones by Yeah Yeah Yeahs."</data>
+      <data key="d2">db789a3360045018e8329dc9d74750ca</data>
+      <data key="d3">1</data>
+      <data key="d4">77</data>
+      <data key="d5">56d0e5ebe79e4814bd1463cf6ca21394</data>
+    </node>
+    <node id="&quot;SHOW YOUR BONES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Show Your Bones is the second studio album by Yeah Yeah Yeahs, released on March 22, 2006."</data>
+      <data key="d2">db789a3360045018e8329dc9d74750ca</data>
+      <data key="d3">3</data>
+      <data key="d4">78</data>
+      <data key="d5">7c49f2710e8b4d3b8dc9310834406ea5</data>
+    </node>
+    <node id="&quot;GRAMMY AWARD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Grammy Award is an award that nominated Show Your Bones for Best Alternative Music Album in 2007."</data>
+      <data key="d2">db789a3360045018e8329dc9d74750ca</data>
+      <data key="d3">1</data>
+      <data key="d4">79</data>
+      <data key="d5">c6d1e4f56c2843e89cf0b91c10bb6de2</data>
+    </node>
+    <node id="&quot;YEAH YEAH YEAHS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">db789a3360045018e8329dc9d74750ca</data>
+      <data key="d3">1</data>
+      <data key="d4">80</data>
+      <data key="d5">0adb2d9941f34ef7b2f7743cc6225844</data>
+    </node>
+    <node id="&quot;PHILADELPHIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Philadelphia is a city in Pennsylvania where Daniel Francis Murphy was born."</data>
+      <data key="d2">138588ef1da3514666b0998d4b0005ae</data>
+      <data key="d3">1</data>
+      <data key="d4">81</data>
+      <data key="d5">6b02373137fd438ba96af28f735cdbdb</data>
+    </node>
+    <node id="&quot;PENNSYLVANIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pennsylvania is a state in the United States where Philadelphia, Daniel Francis Murphy's birthplace, is located."</data>
+      <data key="d2">138588ef1da3514666b0998d4b0005ae</data>
+      <data key="d3">1</data>
+      <data key="d4">82</data>
+      <data key="d5">36a4fcd8efc144e6b8af9a1c7ab8b2ce</data>
+    </node>
+    <node id="&quot;JERSEY CITY SKEETERS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Jersey City Skeeters are a baseball team that was managed by Daniel Francis Murphy in 1919."</data>
+      <data key="d2">138588ef1da3514666b0998d4b0005ae</data>
+      <data key="d3">1</data>
+      <data key="d4">83</data>
+      <data key="d5">fbeef791d19b413a9c93c6608286ab63</data>
+    </node>
+    <node id="&quot;DANIEL FRANCIS MURPHY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">138588ef1da3514666b0998d4b0005ae</data>
+      <data key="d3">5</data>
+      <data key="d4">84</data>
+      <data key="d5">d2b629c0396f4180a03e16ddf3818589</data>
+    </node>
+    <node id="&quot;TRUMBULL COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Trumbull County is a county in Ohio, United States, where Hubbard is located."</data>
+      <data key="d2">073460cc88887df5f7445e41b495017f</data>
+      <data key="d6">5</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">85</data>
+      <data key="d5">6102fc6619ed422ebc42588bfa97355d</data>
+    </node>
+    <node id="&quot;HUBBARD TOWNSHIP&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hubbard Township is a township from which Hubbard city was formed."</data>
+      <data key="d2">073460cc88887df5f7445e41b495017f</data>
+      <data key="d3">1</data>
+      <data key="d4">86</data>
+      <data key="d5">8d141c0b80f74b79a05eed7fe161fe49</data>
+    </node>
+    <node id="&quot;CONNECTICUT WESTERN RESERVE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Connecticut Western Reserve is a region from which Hubbard Township was formed."</data>
+      <data key="d2">073460cc88887df5f7445e41b495017f</data>
+      <data key="d3">1</data>
+      <data key="d4">87</data>
+      <data key="d5">e22d1d1cd8d14f12b81828d940f40d70</data>
+    </node>
+    <node id="&quot;YOUNGSTOWN-WARREN-BOARDMAN, OH-PA METROPOLITAN STATISTICAL AREA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Youngstown-Warren-Boardman, OH-PA Metropolitan Statistical Area is a metropolitan statistical area that includes Hubbard."</data>
+      <data key="d2">073460cc88887df5f7445e41b495017f</data>
+      <data key="d6">5</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">88</data>
+      <data key="d5">9ab48505fb1b487babd0d1f6d3a3f980</data>
+    </node>
+    <node id="&quot;HUBBARD&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">073460cc88887df5f7445e41b495017f</data>
+      <data key="d6">5</data>
+      <data key="d7">0</data>
+      <data key="d3">4</data>
+      <data key="d4">89</data>
+      <data key="d5">148fffeb994541b2b4b6dcefda7001a8</data>
+    </node>
+    <node id="&quot;CHEROKEE COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Cherokee County is a county in Kansas, United States, where West Mineral is located."</data>
+      <data key="d2">56220a0f2b1930fa98196ff511e562a4</data>
+      <data key="d6">3</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">90</data>
+      <data key="d5">89c08e793298442686292454a1abff31</data>
+    </node>
+    <node id="&quot;KANSAS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Kansas is a state in the United States where West Mineral and Cherokee County are located."</data>
+      <data key="d2">56220a0f2b1930fa98196ff511e562a4</data>
+      <data key="d6">3</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">91</data>
+      <data key="d5">0467928aa65e4a4fba62bdb1467e3a54</data>
+    </node>
+    <node id="&quot;BIG BRUTUS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Big Brutus is an electric shovel, the second largest in the world, located in West Mineral."</data>
+      <data key="d2">56220a0f2b1930fa98196ff511e562a4</data>
+      <data key="d6">3</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">92</data>
+      <data key="d5">43c3390303c6476cb65f584e37c3e81c</data>
+    </node>
+    <node id="&quot;WEST MINERAL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">56220a0f2b1930fa98196ff511e562a4</data>
+      <data key="d6">3</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">93</data>
+      <data key="d5">fa14b16c17e3417dba5a4b473ea5b18d</data>
+    </node>
+    <edge source="&quot;NORTH CHARLESTON&quot;" target="&quot;CHARLESTON-NORTH CHARLESTON-SUMMERVILLE METROPOLITAN STATISTICAL AREA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Charleston-North Charleston-Summerville Metropolitan Statistical Area includes North Charleston as its second-largest city."</data>
+      <data key="d10">27538feb98a541240d3a540eefe8458b</data>
+      <data key="d11">7cc3356d38de4328a51a5cbcb187dac3</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MOUNT PLEASANT&quot;" target="&quot;CHARLESTON-NORTH CHARLESTON-SUMMERVILLE METROPOLITAN STATISTICAL AREA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Charleston-North Charleston-Summerville Metropolitan Statistical Area includes Mount Pleasant as one of its next-largest cities."</data>
+      <data key="d10">27538feb98a541240d3a540eefe8458b</data>
+      <data key="d11">bef16fb5fd7344cca5e295b13ef3e0cd</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SUMMERVILLE&quot;" target="&quot;CHARLESTON-NORTH CHARLESTON-SUMMERVILLE METROPOLITAN STATISTICAL AREA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Charleston-North Charleston-Summerville Metropolitan Statistical Area includes Summerville as one of its next-largest cities."</data>
+      <data key="d10">27538feb98a541240d3a540eefe8458b</data>
+      <data key="d11">bb9e01bc171d4326a29afda59ece8d17</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BERKELEY COUNTY&quot;" target="&quot;MONCKS CORNER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Berkeley County contains the smaller urban area of Moncks Corner."</data>
+      <data key="d10">27538feb98a541240d3a540eefe8458b</data>
+      <data key="d11">3c063eea52e94164b70c99431ea30bae</data>
+      <data key="d12">3</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">21.0</data>
+      <data key="d9">"Tucson is the county seat of Pima County."</data>
+      <data key="d10">073460cc88887df5f7445e41b495017f,138588ef1da3514666b0998d4b0005ae,2274dfd35b3595b51f72b2e4bdbdeff1,27538feb98a541240d3a540eefe8458b,3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,56220a0f2b1930fa98196ff511e562a4,667c93e2950c4668ed9797d2682e885d,ae37de12a22f02e35f8f4a7186b10387,b586c48a6a0be0dac83adaa132e1923f,b8022883252d65599c067dbd1d3044e8,caa4f611de6dfbb60da609924bc1cbca,d01a1a47081277e751f69bbafc9a9375,db789a3360045018e8329dc9d74750ca,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602,e841ba7743ea911c87ef7ff3578df4bc,f275f7e62c7790242520cec079d09f56,f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d11">252cc8452bfc4c2aa58cab68d8b61879</data>
+      <data key="d12">4</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Pima County is a county in Arizona."</data>
+      <data key="d10">073460cc88887df5f7445e41b495017f,138588ef1da3514666b0998d4b0005ae,2274dfd35b3595b51f72b2e4bdbdeff1,27538feb98a541240d3a540eefe8458b,3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,56220a0f2b1930fa98196ff511e562a4,667c93e2950c4668ed9797d2682e885d,ae37de12a22f02e35f8f4a7186b10387,b586c48a6a0be0dac83adaa132e1923f,b8022883252d65599c067dbd1d3044e8,caa4f611de6dfbb60da609924bc1cbca,d01a1a47081277e751f69bbafc9a9375,db789a3360045018e8329dc9d74750ca,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602,e841ba7743ea911c87ef7ff3578df4bc,f275f7e62c7790242520cec079d09f56,f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d11">7e2c84548fb94ee395ba8588d8f2a006</data>
+      <data key="d12">5</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;CITY OF TUCSON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The City of Tucson is located within Pima County, sharing a growing population."</data>
+      <data key="d10">2274dfd35b3595b51f72b2e4bdbdeff1</data>
+      <data key="d11">f034618dde7948beb6dab30176d0fc87</data>
+      <data key="d12">6</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">21.0</data>
+      <data key="d9">"The University of Arizona is located in Tucson."</data>
+      <data key="d10">073460cc88887df5f7445e41b495017f,138588ef1da3514666b0998d4b0005ae,2274dfd35b3595b51f72b2e4bdbdeff1,27538feb98a541240d3a540eefe8458b,3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,56220a0f2b1930fa98196ff511e562a4,667c93e2950c4668ed9797d2682e885d,ae37de12a22f02e35f8f4a7186b10387,b586c48a6a0be0dac83adaa132e1923f,b8022883252d65599c067dbd1d3044e8,caa4f611de6dfbb60da609924bc1cbca,d01a1a47081277e751f69bbafc9a9375,db789a3360045018e8329dc9d74750ca,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602,e841ba7743ea911c87ef7ff3578df4bc,f275f7e62c7790242520cec079d09f56,f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d11">5c41f96be13e49dba649454297834546</data>
+      <data key="d12">7</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d8">21.0</data>
+      <data key="d9">"Arizona is a state in the United States."</data>
+      <data key="d10">073460cc88887df5f7445e41b495017f,138588ef1da3514666b0998d4b0005ae,2274dfd35b3595b51f72b2e4bdbdeff1,27538feb98a541240d3a540eefe8458b,3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,56220a0f2b1930fa98196ff511e562a4,667c93e2950c4668ed9797d2682e885d,ae37de12a22f02e35f8f4a7186b10387,b586c48a6a0be0dac83adaa132e1923f,b8022883252d65599c067dbd1d3044e8,caa4f611de6dfbb60da609924bc1cbca,d01a1a47081277e751f69bbafc9a9375,db789a3360045018e8329dc9d74750ca,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602,e841ba7743ea911c87ef7ff3578df4bc,f275f7e62c7790242520cec079d09f56,f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d11">7ea4afbf8a264f29af29950ce98105ba</data>
+      <data key="d12">8</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is a city in Arizona."</data>
+      <data key="d10">073460cc88887df5f7445e41b495017f,138588ef1da3514666b0998d4b0005ae,2274dfd35b3595b51f72b2e4bdbdeff1,27538feb98a541240d3a540eefe8458b,3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,56220a0f2b1930fa98196ff511e562a4,667c93e2950c4668ed9797d2682e885d,ae37de12a22f02e35f8f4a7186b10387,b586c48a6a0be0dac83adaa132e1923f,b8022883252d65599c067dbd1d3044e8,caa4f611de6dfbb60da609924bc1cbca,d01a1a47081277e751f69bbafc9a9375,db789a3360045018e8329dc9d74750ca,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602,e841ba7743ea911c87ef7ff3578df4bc,f275f7e62c7790242520cec079d09f56,f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d11">91ff849d12b24574b0691dbddf44968b</data>
+      <data key="d12">9</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Phoenix is a city in Arizona."</data>
+      <data key="d10">073460cc88887df5f7445e41b495017f,138588ef1da3514666b0998d4b0005ae,2274dfd35b3595b51f72b2e4bdbdeff1,27538feb98a541240d3a540eefe8458b,3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,56220a0f2b1930fa98196ff511e562a4,667c93e2950c4668ed9797d2682e885d,ae37de12a22f02e35f8f4a7186b10387,b586c48a6a0be0dac83adaa132e1923f,b8022883252d65599c067dbd1d3044e8,caa4f611de6dfbb60da609924bc1cbca,d01a1a47081277e751f69bbafc9a9375,db789a3360045018e8329dc9d74750ca,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602,e841ba7743ea911c87ef7ff3578df4bc,f275f7e62c7790242520cec079d09f56,f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d11">d73c1f2fb3094d8dace42ad2a76e9a52</data>
+      <data key="d12">10</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PHOENIX&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Tucson is located southeast of Phoenix."</data>
+      <data key="d10">e841ba7743ea911c87ef7ff3578df4bc</data>
+      <data key="d11">cdc8901e668749889bd49bebdc4ff1f6</data>
+      <data key="d12">11</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Tucson is a city located in the United States."</data>
+      <data key="d10">e841ba7743ea911c87ef7ff3578df4bc</data>
+      <data key="d11">36084a9fab53433493f079e97e68bf65</data>
+      <data key="d12">12</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;ILLINOIS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Illinois is a state located in the United States."</data>
+      <data key="d10">caa4f611de6dfbb60da609924bc1cbca</data>
+      <data key="d11">eebcc7ec8e3e4df7aea83659bbdc2199</data>
+      <data key="d12">13</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;METRO DETROIT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Metro Detroit is a metropolitan area located in the United States, being one of the most populous in the country."</data>
+      <data key="d10">f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d11">ceadf262ef834e9ab146b20650912cae</data>
+      <data key="d12">14</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;BEACH CITY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Beach City is located in the United States."</data>
+      <data key="d10">667c93e2950c4668ed9797d2682e885d</data>
+      <data key="d11">7f65feab75424b53b24470d305ba331a</data>
+      <data key="d12">15</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;JACKSONVILLE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jacksonville is one of the most populous cities in the United States."</data>
+      <data key="d10">df12a45297eb806593762e670232265a</data>
+      <data key="d11">fd9cb733b28d420cb5cef01e545a132c</data>
+      <data key="d12">16</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;HUBBARD&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hubbard is located in the United States."</data>
+      <data key="d10">073460cc88887df5f7445e41b495017f</data>
+      <data key="d11">0fbcca3f17c649a08aea64b5a7d9ef36</data>
+      <data key="d12">17</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;KANSAS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Kansas is a state in the United States."</data>
+      <data key="d10">56220a0f2b1930fa98196ff511e562a4</data>
+      <data key="d11">482027a59f32484c9c44fd700615c1b6</data>
+      <data key="d12">18</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d10">073460cc88887df5f7445e41b495017f,138588ef1da3514666b0998d4b0005ae,2274dfd35b3595b51f72b2e4bdbdeff1,27538feb98a541240d3a540eefe8458b,3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,56220a0f2b1930fa98196ff511e562a4,667c93e2950c4668ed9797d2682e885d,ae37de12a22f02e35f8f4a7186b10387,b586c48a6a0be0dac83adaa132e1923f,b8022883252d65599c067dbd1d3044e8,caa4f611de6dfbb60da609924bc1cbca,d01a1a47081277e751f69bbafc9a9375,db789a3360045018e8329dc9d74750ca,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602,e841ba7743ea911c87ef7ff3578df4bc,f275f7e62c7790242520cec079d09f56,f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d11">de837ff3d626451282ff6ac77a82216d</data>
+      <data key="d12">19</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Mexico shares an international border with the United States."</data>
+      <data key="d10">073460cc88887df5f7445e41b495017f,138588ef1da3514666b0998d4b0005ae,2274dfd35b3595b51f72b2e4bdbdeff1,27538feb98a541240d3a540eefe8458b,3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,56220a0f2b1930fa98196ff511e562a4,667c93e2950c4668ed9797d2682e885d,ae37de12a22f02e35f8f4a7186b10387,b586c48a6a0be0dac83adaa132e1923f,b8022883252d65599c067dbd1d3044e8,caa4f611de6dfbb60da609924bc1cbca,d01a1a47081277e751f69bbafc9a9375,db789a3360045018e8329dc9d74750ca,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602,e841ba7743ea911c87ef7ff3578df4bc,f275f7e62c7790242520cec079d09f56,f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d11">460295fed3ae4cd39f9f274cec9c2506</data>
+      <data key="d12">20</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d10">073460cc88887df5f7445e41b495017f,138588ef1da3514666b0998d4b0005ae,2274dfd35b3595b51f72b2e4bdbdeff1,27538feb98a541240d3a540eefe8458b,3f50ab6f48f2146a476175f7e12e99cc,50a583ba5a2b40543b2d801ff8c4afeb,50d5902c233bcf5e4c0ca22ab3ec28eb,56220a0f2b1930fa98196ff511e562a4,667c93e2950c4668ed9797d2682e885d,ae37de12a22f02e35f8f4a7186b10387,b586c48a6a0be0dac83adaa132e1923f,b8022883252d65599c067dbd1d3044e8,caa4f611de6dfbb60da609924bc1cbca,d01a1a47081277e751f69bbafc9a9375,db789a3360045018e8329dc9d74750ca,df12a45297eb806593762e670232265a,e176723beda1535905f40b4ebf811602,e841ba7743ea911c87ef7ff3578df4bc,f275f7e62c7790242520cec079d09f56,f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d11">553b285bba60460ab1ed8341ae61282b</data>
+      <data key="d12">21</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MEXICO&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Tucson is located near the United States-Mexico border."</data>
+      <data key="d10">e841ba7743ea911c87ef7ff3578df4bc</data>
+      <data key="d11">cec95bf17e7e4c939b56c9c6f402a29f</data>
+      <data key="d12">22</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MEXICO&quot;" target="&quot;TEXAS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Texas struggled for independence from Mexico, indicating a historical relationship between the two."</data>
+      <data key="d10">b8022883252d65599c067dbd1d3044e8</data>
+      <data key="d11">599164aead034bc19446efacc77554d2</data>
+      <data key="d12">23</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TUCSON&quot;" target="&quot;ARIZONA SUN CORRIDOR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Tucson is a major city in the Arizona Sun Corridor."</data>
+      <data key="d10">e841ba7743ea911c87ef7ff3578df4bc</data>
+      <data key="d11">bbf148ae4d48422f8fdef754cfa2b9e4</data>
+      <data key="d12">24</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TUCSON&quot;" target="&quot;U.S. VETERANS ADMINISTRATION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The U.S. Veterans Administration constructed the Veterans Hospital in Tucson, which attracted veterans to the city."</data>
+      <data key="d10">2274dfd35b3595b51f72b2e4bdbdeff1</data>
+      <data key="d11">de61b2670999433f807a6a1dc2b81e43</data>
+      <data key="d12">25</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PARDUBICE REGION&quot;" target="&quot;&#268;ESK&#193; T&#344;EBOV&#193;&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"&#268;esk&#225; T&#345;ebov&#225; is located in the Pardubice Region of the Czech Republic."</data>
+      <data key="d10">f275f7e62c7790242520cec079d09f56</data>
+      <data key="d11">3e95dacfe57b4d57b5da4310ef2e157f</data>
+      <data key="d12">26</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PARDUBICE REGION&quot;" target="&quot;CZECH REPUBLIC&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Pardubice Region is a part of the Czech Republic."</data>
+      <data key="d10">f275f7e62c7790242520cec079d09f56</data>
+      <data key="d11">1f1545308e9347af91fd03b94aadc21f</data>
+      <data key="d12">27</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CHARLES MINGUS SR.&quot;" target="&quot;U.S. ARMY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Charles Mingus Sr. is a sergeant in the U.S. Army."</data>
+      <data key="d10">50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d11">6ea81acaf232485e94fff638e03336e1</data>
+      <data key="d12">28</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NOGALES, ARIZONA&quot;" target="&quot;CHARLES MINGUS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Charles Mingus was born in Nogales, Arizona."</data>
+      <data key="d10">50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d11">d136b08d586d488f9e4188b524c85a29</data>
+      <data key="d12">29</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WATTS AREA OF LOS ANGELES&quot;" target="&quot;CHARLES MINGUS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Charles Mingus was largely raised in the Watts area of Los Angeles."</data>
+      <data key="d10">50a583ba5a2b40543b2d801ff8c4afeb</data>
+      <data key="d11">cccfa151fedc4b218a8d96adc7dceabe</data>
+      <data key="d12">30</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CHARLES MINGUS&quot;" target="&quot;OH YEAH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Charles Mingus is the leader and creator of the Oh Yeah album."</data>
+      <data key="d10">3f50ab6f48f2146a476175f7e12e99cc</data>
+      <data key="d11">ce54725672a74ebcabe6127577dacb2b</data>
+      <data key="d12">31</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES CENSUS BUREAU&quot;" target="&quot;OCALA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The United States Census Bureau estimates population data for Ocala."</data>
+      <data key="d10">50d5902c233bcf5e4c0ca22ab3ec28eb</data>
+      <data key="d11">ea2b28ca1a974ffab4517811dc1d1e5c</data>
+      <data key="d12">32</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;OCALA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ocala is a city located in Florida."</data>
+      <data key="d10">50d5902c233bcf5e4c0ca22ab3ec28eb</data>
+      <data key="d11">aff21f1da1654e7babdcf3fb0e4a75fc</data>
+      <data key="d12">33</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;JACKSONVILLE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jacksonville is the largest city by population in Florida."</data>
+      <data key="d10">df12a45297eb806593762e670232265a</data>
+      <data key="d11">dc2cc9016e3f49dbac7232f05cce794d</data>
+      <data key="d12">34</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MACOUPIN COUNTY&quot;" target="&quot;STAUNTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Staunton is a city located in Macoupin County."</data>
+      <data key="d10">caa4f611de6dfbb60da609924bc1cbca</data>
+      <data key="d11">6ea0cef05f694dcea455478f40674e45</data>
+      <data key="d12">35</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MACOUPIN COUNTY&quot;" target="&quot;ILLINOIS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Macoupin County is a county located in the state of Illinois."</data>
+      <data key="d10">caa4f611de6dfbb60da609924bc1cbca</data>
+      <data key="d11">7ab5d53a872f4dfc98f3d386879f3c75</data>
+      <data key="d12">36</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;2010 CENSUS&quot;" target="&quot;STAUNTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The population of Staunton was recorded as 5,139 in the 2010 Census."</data>
+      <data key="d10">caa4f611de6dfbb60da609924bc1cbca</data>
+      <data key="d11">af1d0fec22114a3398b8016f5225f9ed</data>
+      <data key="d12">37</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;RAMSEY COUNTY&quot;" target="&quot;SAINT PAUL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Saint Paul is the county seat of Ramsey County."</data>
+      <data key="d10">d01a1a47081277e751f69bbafc9a9375</data>
+      <data key="d11">b07a7f088364459098cd8511ff27a4c8</data>
+      <data key="d12">38</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MINNEAPOLIS&quot;" target="&quot;SAINT PAUL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Saint Paul and Minneapolis form the Twin Cities, a metropolitan area with about 3.6 million residents."</data>
+      <data key="d10">d01a1a47081277e751f69bbafc9a9375</data>
+      <data key="d11">8870cf2b5df64d2cab5820f67e29b9f1</data>
+      <data key="d12">39</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MISSISSIPPI RIVER&quot;" target="&quot;MINNESOTA RIVER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Minnesota River converges with the Mississippi River near Saint Paul."</data>
+      <data key="d10">d01a1a47081277e751f69bbafc9a9375</data>
+      <data key="d11">cd130938a2844050be991af70baf5ee0</data>
+      <data key="d12">40</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NEW JERSEY&quot;" target="&quot;JERSEY CITY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jersey City is a city located in the state of New Jersey."</data>
+      <data key="d10">b586c48a6a0be0dac83adaa132e1923f</data>
+      <data key="d11">43544b99c3b04b059546198a0ae6366d</data>
+      <data key="d12">41</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NEW JERSEY&quot;" target="&quot;DANIEL FRANCIS MURPHY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Daniel Francis Murphy died in New Jersey."</data>
+      <data key="d10">138588ef1da3514666b0998d4b0005ae</data>
+      <data key="d11">a671bf7fea2f4514b6e96ba99127fafd</data>
+      <data key="d12">42</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HUDSON COUNTY&quot;" target="&quot;JERSEY CITY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jersey City is the largest city and seat of Hudson County."</data>
+      <data key="d10">b586c48a6a0be0dac83adaa132e1923f</data>
+      <data key="d11">525f41ea20274a05af4e52b625b473f3</data>
+      <data key="d12">43</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CENSUS BUREAU&quot;" target="&quot;JERSEY CITY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Census Bureau calculated the population estimates for Jersey City."</data>
+      <data key="d10">b586c48a6a0be0dac83adaa132e1923f</data>
+      <data key="d11">071a416efbec4f0886c19ac68f6d43cb</data>
+      <data key="d12">44</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JERSEY CITY&quot;" target="&quot;DANIEL FRANCIS MURPHY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Daniel Francis Murphy died in Jersey City."</data>
+      <data key="d10">138588ef1da3514666b0998d4b0005ae</data>
+      <data key="d11">6d8473ef3b1042bf87178a611e3dbcc6</data>
+      <data key="d12">45</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MICHIGAN&quot;" target="&quot;DETROIT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Detroit is located in Michigan and is the most populous city in the state."</data>
+      <data key="d10">f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d11">30c9641543c24773938bd8ec57ea98ab</data>
+      <data key="d12">46</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WAYNE COUNTY&quot;" target="&quot;DETROIT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Detroit is the seat of Wayne County, being part of its jurisdiction."</data>
+      <data key="d10">f525fdac61c34cc4dfbe08a7c31cbd93</data>
+      <data key="d11">18b839da898e4026b81727d759d95c6a</data>
+      <data key="d12">47</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;STARK COUNTY&quot;" target="&quot;BEACH CITY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Beach City is located in Stark County."</data>
+      <data key="d10">667c93e2950c4668ed9797d2682e885d</data>
+      <data key="d11">eeef6ae5c464400c8755900b4f1ac37a</data>
+      <data key="d12">48</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OHIO&quot;" target="&quot;BEACH CITY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Beach City is located in Ohio."</data>
+      <data key="d10">667c93e2950c4668ed9797d2682e885d</data>
+      <data key="d11">422433aa45804c7ebb973b2fafce5da6</data>
+      <data key="d12">49</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OHIO&quot;" target="&quot;HUBBARD&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hubbard is located in Ohio."</data>
+      <data key="d10">073460cc88887df5f7445e41b495017f</data>
+      <data key="d11">86505bca739d4bccaaa1a8e0f3baffdc</data>
+      <data key="d12">50</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CANTON-MASSILLON, OH METROPOLITAN STATISTICAL AREA&quot;" target="&quot;BEACH CITY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Beach City is part of the Canton-Massillon, OH Metropolitan Statistical Area."</data>
+      <data key="d10">667c93e2950c4668ed9797d2682e885d</data>
+      <data key="d11">1af9faf341e14a5bbf4ddc9080e8dc0b</data>
+      <data key="d12">51</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DUVAL COUNTY&quot;" target="&quot;JACKSONVILLE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jacksonville is the county seat of Duval County, and they consolidated in 1968."</data>
+      <data key="d10">df12a45297eb806593762e670232265a</data>
+      <data key="d11">353d91abc68648639d65a549e59b5cf3</data>
+      <data key="d12">52</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NASHVILLE&quot;" target="&quot;TENNESSEE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Nashville is the capital of Tennessee."</data>
+      <data key="d10">ae37de12a22f02e35f8f4a7186b10387</data>
+      <data key="d11">7ce637e4f35b42e3a9f8272cab69cd22</data>
+      <data key="d12">53</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MEMPHIS&quot;" target="&quot;TENNESSEE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Memphis is the largest city of Tennessee."</data>
+      <data key="d10">ae37de12a22f02e35f8f4a7186b10387</data>
+      <data key="d11">4d999d7744b04a998475f8f8531589f0</data>
+      <data key="d12">54</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;KENTUCKY&quot;" target="&quot;TENNESSEE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Kentucky borders Tennessee to the north."</data>
+      <data key="d10">ae37de12a22f02e35f8f4a7186b10387</data>
+      <data key="d11">9a6f414210e14841a5b0e661aedc898d</data>
+      <data key="d12">55</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VIRGINIA&quot;" target="&quot;TENNESSEE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Virginia borders Tennessee to the north."</data>
+      <data key="d10">ae37de12a22f02e35f8f4a7186b10387</data>
+      <data key="d11">db541b7260974db8bac94e953009f60e</data>
+      <data key="d12">56</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NORTH CAROLINA&quot;" target="&quot;TENNESSEE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"North Carolina borders Tennessee to the east."</data>
+      <data key="d10">ae37de12a22f02e35f8f4a7186b10387</data>
+      <data key="d11">f2ff8044718648e18acef16dd9a65436</data>
+      <data key="d12">57</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GEORGIA&quot;" target="&quot;TENNESSEE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Georgia borders Tennessee to the south."</data>
+      <data key="d10">ae37de12a22f02e35f8f4a7186b10387</data>
+      <data key="d11">00d785e7d76b47ec81b508e768d40584</data>
+      <data key="d12">58</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ALABAMA&quot;" target="&quot;TENNESSEE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Alabama borders Tennessee to the south."</data>
+      <data key="d10">ae37de12a22f02e35f8f4a7186b10387</data>
+      <data key="d11">87915637da3e474c9349bd0ae604bd95</data>
+      <data key="d12">59</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MISSISSIPPI&quot;" target="&quot;TENNESSEE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Mississippi borders Tennessee to the south."</data>
+      <data key="d10">ae37de12a22f02e35f8f4a7186b10387</data>
+      <data key="d11">8f1eba29f39e411188200bf0d14628ec</data>
+      <data key="d12">60</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARKANSAS&quot;" target="&quot;TENNESSEE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Arkansas borders Tennessee to the west."</data>
+      <data key="d10">ae37de12a22f02e35f8f4a7186b10387</data>
+      <data key="d11">7282c73622b8408e97289d959faff483</data>
+      <data key="d12">61</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MISSOURI&quot;" target="&quot;TENNESSEE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Missouri borders Tennessee to the west."</data>
+      <data key="d10">ae37de12a22f02e35f8f4a7186b10387</data>
+      <data key="d11">3deb220d31f74103aa44870a36a63220</data>
+      <data key="d12">62</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SAN ANTONIO&quot;" target="&quot;TEXAS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"San Antonio is a city located in the state of Texas."</data>
+      <data key="d10">b8022883252d65599c067dbd1d3044e8</data>
+      <data key="d11">af7a1584dd15492cb9a4940e285f57fc</data>
+      <data key="d12">63</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DALLAS -- FORT WORTH&quot;" target="&quot;TEXAS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Dallas -- Fort Worth is a metropolitan statistical area located in the state of Texas."</data>
+      <data key="d10">b8022883252d65599c067dbd1d3044e8</data>
+      <data key="d11">6e8d9029ce4e4ea182367173ab2c7bbf</data>
+      <data key="d12">64</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GREATER HOUSTON&quot;" target="&quot;TEXAS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Greater Houston is a metropolitan statistical area located in the state of Texas."</data>
+      <data key="d10">b8022883252d65599c067dbd1d3044e8</data>
+      <data key="d11">cbf232211e7d4eb6abdbe182f71c2cf0</data>
+      <data key="d12">65</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AUSTIN&quot;" target="&quot;TEXAS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Austin is the capital city of the state of Texas."</data>
+      <data key="d10">b8022883252d65599c067dbd1d3044e8</data>
+      <data key="d11">bb0cff774a4440b289cc6f3b929fe13c</data>
+      <data key="d12">66</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;EL PASO&quot;" target="&quot;TEXAS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"El Paso is a city located in the state of Texas."</data>
+      <data key="d10">b8022883252d65599c067dbd1d3044e8</data>
+      <data key="d11">ce55841ebfdd47008bab8c258f10372e</data>
+      <data key="d12">67</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TEXAS&quot;" target="&quot;HOUSTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Houston is a city located in the state of Texas."</data>
+      <data key="d10">b8022883252d65599c067dbd1d3044e8</data>
+      <data key="d11">6090e736374d45fd84f0e4610a314f8f</data>
+      <data key="d12">68</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;INTERSCOPE RECORDS&quot;" target="&quot;SHOW YOUR BONES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Interscope Records is the record label that released Show Your Bones."</data>
+      <data key="d10">db789a3360045018e8329dc9d74750ca</data>
+      <data key="d11">0e8d921ccd8d4a8594b65b7fd19f7120</data>
+      <data key="d12">69</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SHOW YOUR BONES&quot;" target="&quot;YEAH YEAH YEAHS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Yeah Yeah Yeahs released the album Show Your Bones."</data>
+      <data key="d10">db789a3360045018e8329dc9d74750ca</data>
+      <data key="d11">59c726a8792d443e84ab052cb7942b4a</data>
+      <data key="d12">70</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SHOW YOUR BONES&quot;" target="&quot;GRAMMY AWARD&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Show Your Bones was nominated for a Grammy Award for Best Alternative Music Album in 2007."</data>
+      <data key="d10">db789a3360045018e8329dc9d74750ca</data>
+      <data key="d11">4f2c665decf242b0bfcaf7350b0e02ed</data>
+      <data key="d12">71</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PHILADELPHIA&quot;" target="&quot;DANIEL FRANCIS MURPHY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Daniel Francis Murphy was born in Philadelphia."</data>
+      <data key="d10">138588ef1da3514666b0998d4b0005ae</data>
+      <data key="d11">66cdf168f36d4a57a505028c97dc06e0</data>
+      <data key="d12">72</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PENNSYLVANIA&quot;" target="&quot;DANIEL FRANCIS MURPHY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Daniel Francis Murphy was born in Pennsylvania."</data>
+      <data key="d10">138588ef1da3514666b0998d4b0005ae</data>
+      <data key="d11">38f51478f41f48db9bee570859b6f43e</data>
+      <data key="d12">73</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JERSEY CITY SKEETERS&quot;" target="&quot;DANIEL FRANCIS MURPHY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Daniel Francis Murphy managed the Jersey City Skeeters."</data>
+      <data key="d10">138588ef1da3514666b0998d4b0005ae</data>
+      <data key="d11">896d2a51e8de47de85ba8ced108c3d53</data>
+      <data key="d12">74</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TRUMBULL COUNTY&quot;" target="&quot;HUBBARD&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hubbard is located in Trumbull County."</data>
+      <data key="d10">073460cc88887df5f7445e41b495017f</data>
+      <data key="d11">14555b518e954637b83aa762dc03164e</data>
+      <data key="d12">75</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HUBBARD TOWNSHIP&quot;" target="&quot;CONNECTICUT WESTERN RESERVE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hubbard Township was formed from the Connecticut Western Reserve."</data>
+      <data key="d10">073460cc88887df5f7445e41b495017f</data>
+      <data key="d11">b1f6164116d44fe8b8f135d7f65b9e58</data>
+      <data key="d12">76</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;YOUNGSTOWN-WARREN-BOARDMAN, OH-PA METROPOLITAN STATISTICAL AREA&quot;" target="&quot;HUBBARD&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hubbard is part of the Youngstown-Warren-Boardman, OH-PA Metropolitan Statistical Area."</data>
+      <data key="d10">073460cc88887df5f7445e41b495017f</data>
+      <data key="d11">c8b2408617804483b620e1a6691ac90d</data>
+      <data key="d12">77</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CHEROKEE COUNTY&quot;" target="&quot;WEST MINERAL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"West Mineral is a city in Cherokee County."</data>
+      <data key="d10">56220a0f2b1930fa98196ff511e562a4</data>
+      <data key="d11">a5e0d1644eb547ba9a5c3211aac4631a</data>
+      <data key="d12">78</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CHEROKEE COUNTY&quot;" target="&quot;KANSAS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Cherokee County is a county in Kansas."</data>
+      <data key="d10">56220a0f2b1930fa98196ff511e562a4</data>
+      <data key="d11">5a28b94bc63b44edb30c54748fd14f15</data>
+      <data key="d12">79</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BIG BRUTUS&quot;" target="&quot;WEST MINERAL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Big Brutus is located in West Mineral."</data>
+      <data key="d10">56220a0f2b1930fa98196ff511e562a4</data>
+      <data key="d11">f97011b2a99d44648e18d517e1eae15c</data>
+      <data key="d12">80</data>
+      <data key="d13">0</data>
+    </edge>
+  </graph>
+</graphml>

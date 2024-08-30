@@ -1,0 +1,1304 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;SAINT EUSTACE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Saint Eustace is a martyr for whom the church Sant'Eustachio is named."</data>
+      <data key="d2">79c842b2bc51b7c40f1da62940938496</data>
+    </node>
+    <node id="&quot;ROME&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Rome is the city where the church Sant'Eustachio is located."
+"Rome is the location where Old St. Peter's Basilica and its successor were constructed, with both buildings having the entrance to the east and the apse at the west end."
+"Rome is a city that contains Vatican City, a papal enclave and the location of The Papal Basilica of St. Peter in the Vatican."
+"Rome is the location where Sacro Cuore di Cristo Re, a Roman Catholic church (minor basilica), is situated."</data>
+      <data key="d2">45fd633d6c9ef8f4f969e03ab011a627,79c842b2bc51b7c40f1da62940938496,bf59f8e551b76bf753495f9575378afe,d6734e4153a4d0804d3b64a4ab22789f</data>
+    </node>
+    <node id="&quot;VIA DI SANT'EUSTACHIO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Via di Sant'Eustachio is a street in Rome where the church Sant'Eustachio is located."</data>
+      <data key="d2">79c842b2bc51b7c40f1da62940938496</data>
+    </node>
+    <node id="&quot;SANT'IVO ALLA SAPIENZA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Sant'Ivo alla Sapienza is a nearby location to the church Sant'Eustachio."</data>
+      <data key="d2">79c842b2bc51b7c40f1da62940938496</data>
+    </node>
+    <node id="&quot;PANTHEON&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Pantheon is a nearby location to the church Sant'Eustachio."</data>
+      <data key="d2">79c842b2bc51b7c40f1da62940938496</data>
+    </node>
+    <node id="&quot;SANT'EUSTACHIO&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">79c842b2bc51b7c40f1da62940938496</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF LVIV&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Lviv is an educational institution where Spyrydon Lytvynovych graduated with degrees in philosophy and theology."</data>
+      <data key="d2">ce2c9223ab7b672465fb8fdc0d3334a5</data>
+    </node>
+    <node id="&quot;ST. BARBARA PARISH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The St. Barbara parish is a religious organization where Spyrydon Lytvynovych served as Greek Catholic pastor."</data>
+      <data key="d2">ce2c9223ab7b672465fb8fdc0d3334a5</data>
+    </node>
+    <node id="&quot;GREEK CATHOLIC SEMINARY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Greek Catholic seminary is an educational institution established in 1852, with Spyrydon Lytvynovych as its first rector."</data>
+      <data key="d2">ce2c9223ab7b672465fb8fdc0d3334a5</data>
+    </node>
+    <node id="&quot;NADRICHNE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Nadrichne is a location where Spyrydon Lytvynovych was born."</data>
+      <data key="d2">ce2c9223ab7b672465fb8fdc0d3334a5</data>
+    </node>
+    <node id="&quot;BEREZHANY RAION&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Berezhany Raion is an administrative region in Austrian Galicia (present-day Ukraine) where Nadrichne is located."</data>
+      <data key="d2">ce2c9223ab7b672465fb8fdc0d3334a5</data>
+    </node>
+    <node id="&quot;AUSTRIAN GALICIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Austrian Galicia is a historical region that corresponds to present-day Ukraine, where Spyrydon Lytvynovych was born and served."</data>
+      <data key="d2">ce2c9223ab7b672465fb8fdc0d3334a5</data>
+    </node>
+    <node id="&quot;UKRAINE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ukraine is the present-day country where Nadrichne and Berezhany Raion are located."</data>
+      <data key="d2">ce2c9223ab7b672465fb8fdc0d3334a5</data>
+    </node>
+    <node id="&quot;SPYRYDON LYTVYNOVYCH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ce2c9223ab7b672465fb8fdc0d3334a5</data>
+    </node>
+    <node id="&quot;MAYOTTE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mayotte is a French territory and a geographic location, mentioned as a reference point for its Muslim-majority population."</data>
+      <data key="d2">dafc176f7bf692883bb228d5ea6f42e6</data>
+    </node>
+    <node id="&quot;SOUTHERN AFRICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Southern Africa is a geographic region, mentioned as the location of Comoros and Mayotte."</data>
+      <data key="d2">dafc176f7bf692883bb228d5ea6f42e6</data>
+    </node>
+    <node id="&quot;FRANCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"France is a country, mentioned as the origin of immigrants to Comoros."</data>
+      <data key="d2">dafc176f7bf692883bb228d5ea6f42e6</data>
+    </node>
+    <node id="&quot;SUNNI ISLAM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Sunni Islam is a religious organization, representing the dominant religion in Comoros."</data>
+      <data key="d2">dafc176f7bf692883bb228d5ea6f42e6</data>
+    </node>
+    <node id="&quot;ROMAN CATHOLIC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Roman Catholic is a religious organization, represented by a minority of the population in Comoros."</data>
+      <data key="d2">dafc176f7bf692883bb228d5ea6f42e6</data>
+    </node>
+    <node id="&quot;COMOROS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">dafc176f7bf692883bb228d5ea6f42e6</data>
+    </node>
+    <node id="&quot;DIOCESE OF ALATRI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Diocese of Alatri was a former diocese that had Alatri Cathedral as its cathedral."</data>
+      <data key="d2">7ba74e605415c0fe924867184809ab2e</data>
+    </node>
+    <node id="&quot;DIOCESE OF ANAGNI-ALATRI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Diocese of Anagni-Alatri is a current diocese that has Alatri Cathedral as its co-cathedral since 30 September 1986."</data>
+      <data key="d2">7ba74e605415c0fe924867184809ab2e</data>
+    </node>
+    <node id="&quot;POPE PIUS XII&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Pope Pius XII declared Alatri Cathedral a basilica minor on 10 September 1950."</data>
+      <data key="d2">7ba74e605415c0fe924867184809ab2e</data>
+    </node>
+    <node id="&quot;SAINT PAUL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alatri Cathedral is dedicated to Saint Paul."</data>
+      <data key="d2">7ba74e605415c0fe924867184809ab2e</data>
+    </node>
+    <node id="&quot;ALATRI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Alatri is a location in Lazio, Italy where Alatri Cathedral is situated."</data>
+      <data key="d2">7ba74e605415c0fe924867184809ab2e</data>
+    </node>
+    <node id="&quot;LAZIO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lazio is a region in Italy where Alatri is located."</data>
+      <data key="d2">7ba74e605415c0fe924867184809ab2e</data>
+    </node>
+    <node id="&quot;ITALY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Italy is a country where Alatri Cathedral is situated."</data>
+      <data key="d2">7ba74e605415c0fe924867184809ab2e</data>
+    </node>
+    <node id="&quot;ALATRI CATHEDRAL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7ba74e605415c0fe924867184809ab2e</data>
+    </node>
+    <node id="&quot;EMPEROR CONSTANTINE THE GREAT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Emperor Constantine the Great was the ruler who commissioned the construction of Old St. Peter's Basilica between 319 and 333 AD."</data>
+      <data key="d2">bf59f8e551b76bf753495f9575378afe</data>
+    </node>
+    <node id="&quot;ST. PETER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"St. Peter is believed to be buried in a small shrine under Old St. Peter's Basilica, which was built over his burial place."
+"St. Peter is a saint who, according to legend, brought the Santo Caliz from Jerusalem to Rome."</data>
+      <data key="d2">a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe</data>
+    </node>
+    <node id="&quot;OLD ST. PETER'S BASILICA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">bf59f8e551b76bf753495f9575378afe</data>
+    </node>
+    <node id="&quot;GIAN LORENZO BERNINI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gian Lorenzo Bernini is an Italian artist who created The Vision of Constantine sculpture."</data>
+      <data key="d2">81489b8a55dfd5b42dbfb6c4f2dbc051</data>
+    </node>
+    <node id="&quot;ST. PETER'S BASILICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"St. Peter's Basilica is a location in Vatican City where The Vision of Constantine sculpture is located."
+"St. Peter's Basilica is another name for The Papal Basilica of St. Peter in the Vatican, an Italian Renaissance church."
+</data>
+      <data key="d2">45fd633d6c9ef8f4f969e03ab011a627,64bdf3d601e35d86bf0485673defd4dd,81489b8a55dfd5b42dbfb6c4f2dbc051</data>
+    </node>
+    <node id="&quot;VATICAN CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Vatican City is the country where St. Peter's Basilica and the Scala Regia are located."
+"Vatican City is a papal enclave within the city of Rome and the location of The Papal Basilica of St. Peter in the Vatican."
+</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8,45fd633d6c9ef8f4f969e03ab011a627,81489b8a55dfd5b42dbfb6c4f2dbc051</data>
+    </node>
+    <node id="&quot;SCALA REGIA&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"Scala Regia is a stairway between St. Peter's Basilica and the Vatican Palace, redesigned by Gian Lorenzo Bernini."</data>
+      <data key="d2">81489b8a55dfd5b42dbfb6c4f2dbc051</data>
+    </node>
+    <node id="&quot;THE VISION OF CONSTANTINE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">81489b8a55dfd5b42dbfb6c4f2dbc051</data>
+    </node>
+    <node id="&quot;ESZTERGOM BASILICA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Esztergom Basilica is another name for the Primatial Basilica of the Blessed Virgin Mary Assumed Into Heaven and St Adalbert."</data>
+      <data key="d2">4a89093ebba2f61be1823336371d3eab</data>
+    </node>
+    <node id="&quot;ARCHDIOCESE OF ESZTERGOM-BUDAPEST&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Archdiocese of Esztergom-Budapest is a Catholic archdiocese with its mother church being the Primatial Basilica of the Blessed Virgin Mary Assumed Into Heaven and St Adalbert."</data>
+      <data key="d2">4a89093ebba2f61be1823336371d3eab</data>
+    </node>
+    <node id="&quot;CATHOLIC CHURCH IN HUNGARY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Catholic Church in Hungary has its seat at the Primatial Basilica of the Blessed Virgin Mary Assumed Into Heaven and St Adalbert."</data>
+      <data key="d2">4a89093ebba2f61be1823336371d3eab</data>
+    </node>
+    <node id="&quot;SAINT MARY OF THE ASSUMPTION&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Saint Mary of the Assumption is a saint to whom the Primatial Basilica of the Blessed Virgin Mary Assumed Into Heaven and St Adalbert is dedicated."</data>
+      <data key="d2">4a89093ebba2f61be1823336371d3eab</data>
+    </node>
+    <node id="&quot;SAINT ADALBERT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Saint Adalbert is a saint to whom the Primatial Basilica of the Blessed Virgin Mary Assumed Into Heaven and St Adalbert is dedicated."</data>
+      <data key="d2">4a89093ebba2f61be1823336371d3eab</data>
+    </node>
+    <node id="&quot;ESZTERGOM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Esztergom is a location in Hungary where the Primatial Basilica of the Blessed Virgin Mary Assumed Into Heaven and St Adalbert is situated."</data>
+      <data key="d2">4a89093ebba2f61be1823336371d3eab</data>
+    </node>
+    <node id="&quot;HUNGARY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hungary is a country where the Primatial Basilica of the Blessed Virgin Mary Assumed Into Heaven and St Adalbert is located."</data>
+      <data key="d2">4a89093ebba2f61be1823336371d3eab</data>
+    </node>
+    <node id="&quot;PRIMATIAL BASILICA OF THE BLESSED VIRGIN MARY ASSUMED INTO HEAVEN AND ST ADALBERT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4a89093ebba2f61be1823336371d3eab</data>
+    </node>
+    <node id="&quot;THE PAPAL BASILICA OF ST. PETER IN THE VATICAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">45fd633d6c9ef8f4f969e03ab011a627</data>
+    </node>
+    <node id="&quot;LUCERNE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lucerne is a city in Switzerland where The Church of St. Leodegar is located."</data>
+      <data key="d2">39c28d99ed2f4522dc2b66cadd51b760</data>
+    </node>
+    <node id="&quot;SWITZERLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Switzerland is a country where the city of Lucerne and The Church of St. Leodegar are located."</data>
+      <data key="d2">39c28d99ed2f4522dc2b66cadd51b760</data>
+    </node>
+    <node id="&quot;THIRTY YEARS WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Thirty Years War was a historical event during which The Church of St. Leodegar was built."</data>
+      <data key="d2">39c28d99ed2f4522dc2b66cadd51b760</data>
+    </node>
+    <node id="&quot;THE CHURCH OF ST. LEODEGAR&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">39c28d99ed2f4522dc2b66cadd51b760</data>
+    </node>
+    <node id="&quot;ROMAN CATHOLIC DIOCESE OF LAOAG&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Roman Catholic Diocese of Laoag has jurisdiction over the Bacarra Church."</data>
+      <data key="d2">c9cebd1aabb87e7bc0445cba331bef4d</data>
+    </node>
+    <node id="&quot;AUGUSTINIANS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Augustinians founded the Bacarra Church and dedicated it to St. Andrew."</data>
+      <data key="d2">c9cebd1aabb87e7bc0445cba331bef4d</data>
+    </node>
+    <node id="&quot;ST. ANDREW&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"St. Andrew is the patron saint of the Bacarra Church."</data>
+      <data key="d2">c9cebd1aabb87e7bc0445cba331bef4d</data>
+    </node>
+    <node id="&quot;BACARRA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bacarra is a municipality in Ilocos Norte, Philippines where the Bacarra Church is located."</data>
+      <data key="d2">c9cebd1aabb87e7bc0445cba331bef4d</data>
+    </node>
+    <node id="&quot;ILOCOS NORTE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ilocos Norte is a province in the Philippines where the Bacarra Church is located."</data>
+      <data key="d2">c9cebd1aabb87e7bc0445cba331bef4d</data>
+    </node>
+    <node id="&quot;PHILIPPINES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Philippines is the country where the Bacarra Church is located."</data>
+      <data key="d2">c9cebd1aabb87e7bc0445cba331bef4d</data>
+    </node>
+    <node id="&quot;BACARRA CHURCH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c9cebd1aabb87e7bc0445cba331bef4d</data>
+    </node>
+    <node id="&quot;CANADIAN MARTYRS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Canadian Martyrs refer to six Jesuit Martyrs and two lay persons from the mission of Sainte-Marie among the Hurons."</data>
+      <data key="d2">5295ccb27fd197dfdc0fbb15d03a2d09</data>
+    </node>
+    <node id="&quot;MIDLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Midland is a location in Ontario, Canada, where The Martyrs' Shrine is situated."</data>
+      <data key="d2">5295ccb27fd197dfdc0fbb15d03a2d09</data>
+    </node>
+    <node id="&quot;ONTARIO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ontario is a province in Canada where Midland and The Martyrs' Shrine are located."</data>
+      <data key="d2">5295ccb27fd197dfdc0fbb15d03a2d09</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Canada is a country where The Martyrs' Shrine, a national shrine, is located."</data>
+      <data key="d2">5295ccb27fd197dfdc0fbb15d03a2d09</data>
+    </node>
+    <node id="&quot;SAINTE-MARIE AMONG THE HURONS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Sainte-Marie among the Hurons refers to a mission where the Canadian Martyrs were from."</data>
+      <data key="d2">5295ccb27fd197dfdc0fbb15d03a2d09</data>
+    </node>
+    <node id="&quot;ST. JOSEPH'S ORATORY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"St. Joseph's Oratory is one of nine national shrines in Canada, located in Montreal."</data>
+      <data key="d2">5295ccb27fd197dfdc0fbb15d03a2d09</data>
+    </node>
+    <node id="&quot;MONTREAL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Montreal is a location in Canada where St. Joseph's Oratory is situated."</data>
+      <data key="d2">5295ccb27fd197dfdc0fbb15d03a2d09</data>
+    </node>
+    <node id="&quot;BASILICA OF SAINTE-ANNE-DE-BEAUPR&#201;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Basilica of Sainte-Anne-de-Beaupr&#233; is one of nine national shrines in Canada."</data>
+      <data key="d2">5295ccb27fd197dfdc0fbb15d03a2d09</data>
+    </node>
+    <node id="&quot;THE MARTYRS' SHRINE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5295ccb27fd197dfdc0fbb15d03a2d09</data>
+    </node>
+    <node id="&quot;LIMA CATHEDRAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Lima Cathedral is another name for The Basilica Cathedral of Lima, a Roman Catholic cathedral located in the Plaza Mayor of downtown Lima, Peru."</data>
+      <data key="d2">37b382cf44096666965807b601a371cc</data>
+    </node>
+    <node id="&quot;ST JOHN, APOSTLE AND EVANGELIST&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"St John, Apostle and Evangelist is the patron saint to whom The Basilica Cathedral of Lima is dedicated."</data>
+      <data key="d2">37b382cf44096666965807b601a371cc</data>
+    </node>
+    <node id="&quot;LIMA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lima is a city in Peru where The Basilica Cathedral of Lima is located."</data>
+      <data key="d2">37b382cf44096666965807b601a371cc</data>
+    </node>
+    <node id="&quot;PERU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Peru is a country in South America where Lima, the city with The Basilica Cathedral of Lima, is located."</data>
+      <data key="d2">37b382cf44096666965807b601a371cc</data>
+    </node>
+    <node id="&quot;CONSTRUCTION OF THE BASILICA CATHEDRAL OF LIMA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The construction of The Basilica Cathedral of Lima began in 1535 and has undergone many reconstructions and transformations since."</data>
+      <data key="d2">37b382cf44096666965807b601a371cc</data>
+    </node>
+    <node id="&quot;THE BASILICA CATHEDRAL OF LIMA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">37b382cf44096666965807b601a371cc</data>
+    </node>
+    <node id="&quot;ROMAN CATHOLIC DIOCESE OF ERFURT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Roman Catholic Diocese of Erfurt is an organization with its episcopal seat at Erfurt Cathedral."</data>
+      <data key="d2">552c800a36afa07aba3047d62cb58525</data>
+    </node>
+    <node id="&quot;ERFURT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Erfurt is a city in central Germany where the Erfurt Cathedral is located."</data>
+      <data key="d2">552c800a36afa07aba3047d62cb58525</data>
+    </node>
+    <node id="&quot;ERFURT CATHEDRAL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">552c800a36afa07aba3047d62cb58525</data>
+    </node>
+    <node id="&quot;ROMAN CATHOLIC CHURCH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Roman Catholic Church is an organization that has a significant presence in St. Peter's Basilica."</data>
+      <data key="d2">64bdf3d601e35d86bf0485673defd4dd</data>
+    </node>
+    <node id="&quot;PAPAL STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Papal States are a geographic location where St. Peter's Basilica is situated."</data>
+      <data key="d2">64bdf3d601e35d86bf0485673defd4dd</data>
+    </node>
+    <node id="&quot;EMPEROR CALIGULA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Emperor Caligula was a historical figure who ordered the erection of the Vatican Obelisk in 37 A.D."</data>
+      <data key="d2">64bdf3d601e35d86bf0485673defd4dd</data>
+    </node>
+    <node id="&quot;VATICAN OBELISK&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">64bdf3d601e35d86bf0485673defd4dd</data>
+    </node>
+    <node id="&quot;PETER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Peter is one of the apostles whose basilica is dedicated on 18 November."</data>
+      <data key="d2">676290cb733ccf4804e3799aa6b2dcd8</data>
+    </node>
+    <node id="&quot;PAUL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Paul is one of the apostles whose basilica is dedicated on 18 November."</data>
+      <data key="d2">676290cb733ccf4804e3799aa6b2dcd8</data>
+    </node>
+    <node id="&quot;THE BASILICAS OF THE APOSTLES PETER AND PAUL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Basilicas of the Apostles Peter and Paul are a geographic location where a feast day is celebrated."</data>
+      <data key="d2">676290cb733ccf4804e3799aa6b2dcd8</data>
+    </node>
+    <node id="&quot;DEDICATION OF THE BASILICAS OF THE APOSTLES PETER AND PAUL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Dedication of the Basilicas of the Apostles Peter and Paul is an event celebrated on 18 November by the Catholic Church."</data>
+      <data key="d2">676290cb733ccf4804e3799aa6b2dcd8</data>
+    </node>
+    <node id="&quot;THE CATHOLIC CHURCH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">676290cb733ccf4804e3799aa6b2dcd8</data>
+    </node>
+    <node id="&quot;VATICAN HILL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Vatican Hill is a geographic location where the Vatican City state is situated."</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8</data>
+    </node>
+    <node id="&quot;ETRUSCAN SETTLEMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Etruscan settlement, Vatica or Vaticum, was an ancient community located in the general area of the Romans' Vatican territory."</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8</data>
+    </node>
+    <node id="&quot;LATERAN TREATY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Lateran Treaty is a significant event that established the modern city-state of Vatican City on 11 February 1929."</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8</data>
+    </node>
+    <node id="&quot;VALENCIA'S CATHEDRAL, OUR LADY OF THE FORSAKEN BASILICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Valencia's Cathedral, Our Lady of the Forsaken Basilica is a location where an important event took place, specifically the World Day of Families Mass in 2006."</data>
+      <data key="d2">a4ff5c12c345d0ab8207ecbdc034ac15</data>
+    </node>
+    <node id="&quot;EMPEROR VALERIAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Emperor Valerian is a historical figure who supposedly brought the Santo Caliz to Valencia's Cathedral in the 3rd century."</data>
+      <data key="d2">a4ff5c12c345d0ab8207ecbdc034ac15</data>
+    </node>
+    <node id="&quot;SANTO CALIZ (HOLY CHALICE)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Santo Caliz is a 1st-century Middle-Eastern artifact believed by some Catholics to be the Holy Grail."</data>
+      <data key="d2">a4ff5c12c345d0ab8207ecbdc034ac15</data>
+    </node>
+    <node id="&quot;POPE BENEDICT XVI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a4ff5c12c345d0ab8207ecbdc034ac15</data>
+    </node>
+    <node id="&quot;MARCELLO PIACENTINI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Marcello Piacentini was the designer of Sacro Cuore di Cristo Re between the 1920s and 1930s."</data>
+      <data key="d2">d6734e4153a4d0804d3b64a4ab22789f</data>
+    </node>
+    <node id="&quot;SACRO CUORE DI CRISTO RE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d6734e4153a4d0804d3b64a4ab22789f</data>
+    </node>
+    <node id="&quot;SAINT PETER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Saint Peter is the patron saint of Leeds Minster, a church dedicated to him."</data>
+      <data key="d2">6a3a86477f6323bb0ffbab4c8f197c9c</data>
+    </node>
+    <node id="&quot;ENGLISH HERITAGE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"English Heritage is an organization responsible for designating grade I listed buildings, including Leeds Minster."</data>
+      <data key="d2">6a3a86477f6323bb0ffbab4c8f197c9c</data>
+    </node>
+    <node id="&quot;LEEDS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Leeds is a location in West Yorkshire where Leeds Minster is situated."</data>
+      <data key="d2">6a3a86477f6323bb0ffbab4c8f197c9c</data>
+    </node>
+    <node id="&quot;WEST YORKSHIRE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"West Yorkshire is a geographic region in England where Leeds is located."</data>
+      <data key="d2">6a3a86477f6323bb0ffbab4c8f197c9c</data>
+    </node>
+    <node id="&quot;LEEDS MINSTER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6a3a86477f6323bb0ffbab4c8f197c9c</data>
+    </node>
+    <node id="&quot;CONGREGATION OF THE BROTHERS OF ST. FRANCIS XAVIER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Congregation of the Brothers of St. Francis Xavier is an international congregation of religious brothers that founded Malden Catholic High School."</data>
+      <data key="d2">4c1503415531894ce5e89aaa9a41faf4</data>
+    </node>
+    <node id="&quot;XAVERIAN BROTHERS SPONSORED SCHOOLS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Xaverian Brothers Sponsored Schools is a group of schools sponsored by the Xaverian Brothers, including Malden Catholic High School."</data>
+      <data key="d2">4c1503415531894ce5e89aaa9a41faf4</data>
+    </node>
+    <node id="&quot;NATIONAL CATHOLIC EDUCATIONAL ASSOCIATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The National Catholic Educational Association is an organization that Malden Catholic High School is a member of."</data>
+      <data key="d2">4c1503415531894ce5e89aaa9a41faf4</data>
+    </node>
+    <node id="&quot;MALDEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Malden is a location in Massachusetts where Malden Catholic High School is situated."</data>
+      <data key="d2">4c1503415531894ce5e89aaa9a41faf4</data>
+    </node>
+    <node id="&quot;MALDEN CATHOLIC HIGH SCHOOL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4c1503415531894ce5e89aaa9a41faf4</data>
+    </node>
+    <edge source="&quot;SAINT EUSTACE&quot;" target="&quot;SANT'EUSTACHIO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The church Sant'Eustachio is named for the martyr Saint Eustace."</data>
+      <data key="d5">79c842b2bc51b7c40f1da62940938496</data>
+    </edge>
+    <edge source="&quot;ROME&quot;" target="&quot;SANT'EUSTACHIO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The church Sant'Eustachio is located in Rome."</data>
+      <data key="d5">79c842b2bc51b7c40f1da62940938496</data>
+    </edge>
+    <edge source="&quot;ROME&quot;" target="&quot;OLD ST. PETER'S BASILICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Old St. Peter's Basilica is located in Rome."</data>
+      <data key="d5">bf59f8e551b76bf753495f9575378afe</data>
+    </edge>
+    <edge source="&quot;ROME&quot;" target="&quot;VATICAN CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Vatican City is a papal enclave within the city of Rome."</data>
+      <data key="d5">45fd633d6c9ef8f4f969e03ab011a627</data>
+    </edge>
+    <edge source="&quot;ROME&quot;" target="&quot;SACRO CUORE DI CRISTO RE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sacro Cuore di Cristo Re is located in Rome."</data>
+      <data key="d5">d6734e4153a4d0804d3b64a4ab22789f</data>
+    </edge>
+    <edge source="&quot;VIA DI SANT'EUSTACHIO&quot;" target="&quot;SANT'EUSTACHIO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The church Sant'Eustachio is located on Via di Sant'Eustachio."</data>
+      <data key="d5">79c842b2bc51b7c40f1da62940938496</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."</data>
+      <data key="d5">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."</data>
+      <data key="d5">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."</data>
+      <data key="d5">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."</data>
+      <data key="d5">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."</data>
+      <data key="d5">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."</data>
+      <data key="d5">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."</data>
+      <data key="d5">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF LVIV&quot;" target="&quot;SPYRYDON LYTVYNOVYCH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Spyrydon Lytvynovych graduated from the University of Lviv with degrees in philosophy and theology."</data>
+      <data key="d5">ce2c9223ab7b672465fb8fdc0d3334a5</data>
+    </edge>
+    <edge source="&quot;ST. BARBARA PARISH&quot;" target="&quot;SPYRYDON LYTVYNOVYCH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Spyrydon Lytvynovych served as Greek Catholic pastor of the St. Barbara parish."</data>
+      <data key="d5">ce2c9223ab7b672465fb8fdc0d3334a5</data>
+    </edge>
+    <edge source="&quot;GREEK CATHOLIC SEMINARY&quot;" target="&quot;SPYRYDON LYTVYNOVYCH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Spyrydon Lytvynovych was the first rector of the Greek Catholic seminary."</data>
+      <data key="d5">ce2c9223ab7b672465fb8fdc0d3334a5</data>
+    </edge>
+    <edge source="&quot;NADRICHNE&quot;" target="&quot;BEREZHANY RAION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nadrichne is located in Berezhany Raion."</data>
+      <data key="d5">ce2c9223ab7b672465fb8fdc0d3334a5</data>
+    </edge>
+    <edge source="&quot;MAYOTTE&quot;" target="&quot;SOUTHERN AFRICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mayotte is also located in Southern Africa, mentioned as a reference point for its Muslim-majority population."</data>
+      <data key="d5">dafc176f7bf692883bb228d5ea6f42e6</data>
+    </edge>
+    <edge source="&quot;SOUTHERN AFRICA&quot;" target="&quot;COMOROS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Comoros is located in Southern Africa."</data>
+      <data key="d5">dafc176f7bf692883bb228d5ea6f42e6</data>
+    </edge>
+    <edge source="&quot;FRANCE&quot;" target="&quot;COMOROS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"There are immigrants from France living in Comoros."</data>
+      <data key="d5">dafc176f7bf692883bb228d5ea6f42e6</data>
+    </edge>
+    <edge source="&quot;SUNNI ISLAM&quot;" target="&quot;COMOROS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sunni Islam is the dominant religion in Comoros, representing 99% of the population."</data>
+      <data key="d5">dafc176f7bf692883bb228d5ea6f42e6</data>
+    </edge>
+    <edge source="&quot;ROMAN CATHOLIC&quot;" target="&quot;COMOROS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Roman Catholic is a minority religion in Comoros, represented by immigrants from France."</data>
+      <data key="d5">dafc176f7bf692883bb228d5ea6f42e6</data>
+    </edge>
+    <edge source="&quot;DIOCESE OF ALATRI&quot;" target="&quot;ALATRI CATHEDRAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alatri Cathedral was formerly the cathedral of the Diocese of Alatri."</data>
+      <data key="d5">7ba74e605415c0fe924867184809ab2e</data>
+    </edge>
+    <edge source="&quot;DIOCESE OF ANAGNI-ALATRI&quot;" target="&quot;ALATRI CATHEDRAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alatri Cathedral has been a co-cathedral of the Diocese of Anagni-Alatri since 30 September 1986."</data>
+      <data key="d5">7ba74e605415c0fe924867184809ab2e</data>
+    </edge>
+    <edge source="&quot;POPE PIUS XII&quot;" target="&quot;ALATRI CATHEDRAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Pope Pius XII declared Alatri Cathedral a basilica minor on 10 September 1950."</data>
+      <data key="d5">7ba74e605415c0fe924867184809ab2e</data>
+    </edge>
+    <edge source="&quot;SAINT PAUL&quot;" target="&quot;ALATRI CATHEDRAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alatri Cathedral is dedicated to Saint Paul."</data>
+      <data key="d5">7ba74e605415c0fe924867184809ab2e</data>
+    </edge>
+    <edge source="&quot;EMPEROR CONSTANTINE THE GREAT&quot;" target="&quot;OLD ST. PETER'S BASILICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Emperor Constantine the Great commissioned the construction of Old St. Peter's Basilica."</data>
+      <data key="d5">bf59f8e551b76bf753495f9575378afe</data>
+    </edge>
+    <edge source="&quot;ST. PETER&quot;" target="&quot;OLD ST. PETER'S BASILICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Old St. Peter's Basilica was built over the burial place of St. Peter."</data>
+      <data key="d5">bf59f8e551b76bf753495f9575378afe</data>
+    </edge>
+    <edge source="&quot;ST. PETER&quot;" target="&quot;SANTO CALIZ (HOLY CHALICE)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"St. Peter is said to have brought the Santo Caliz from Jerusalem to Rome."</data>
+      <data key="d5">a4ff5c12c345d0ab8207ecbdc034ac15</data>
+    </edge>
+    <edge source="&quot;GIAN LORENZO BERNINI&quot;" target="&quot;THE VISION OF CONSTANTINE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gian Lorenzo Bernini created The Vision of Constantine sculpture."</data>
+      <data key="d5">81489b8a55dfd5b42dbfb6c4f2dbc051</data>
+    </edge>
+    <edge source="&quot;GIAN LORENZO BERNINI&quot;" target="&quot;SCALA REGIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gian Lorenzo Bernini redesigned the Scala Regia stairway."</data>
+      <data key="d5">81489b8a55dfd5b42dbfb6c4f2dbc051</data>
+    </edge>
+    <edge source="&quot;ST. PETER'S BASILICA&quot;" target="&quot;THE VISION OF CONSTANTINE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Vision of Constantine is located in St. Peter's Basilica."</data>
+      <data key="d5">81489b8a55dfd5b42dbfb6c4f2dbc051</data>
+    </edge>
+    <edge source="&quot;ST. PETER'S BASILICA&quot;" target="&quot;ROMAN CATHOLIC CHURCH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"St. Peter's Basilica is affiliated with the Roman Catholic Church."</data>
+      <data key="d5">64bdf3d601e35d86bf0485673defd4dd</data>
+    </edge>
+    <edge source="&quot;ST. PETER'S BASILICA&quot;" target="&quot;PAPAL STATES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"St. Peter's Basilica is located in the Papal States."</data>
+      <data key="d5">64bdf3d601e35d86bf0485673defd4dd</data>
+    </edge>
+    <edge source="&quot;VATICAN CITY&quot;" target="&quot;THE PAPAL BASILICA OF ST. PETER IN THE VATICAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Papal Basilica of St. Peter in the Vatican is located within Vatican City."</data>
+      <data key="d5">45fd633d6c9ef8f4f969e03ab011a627</data>
+    </edge>
+    <edge source="&quot;VATICAN CITY&quot;" target="&quot;VATICAN HILL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Vatican City is located on Vatican Hill, which provides its geographic context."</data>
+      <data key="d5">2cce15f56c4b4220eb15dc8e06c7e9a8</data>
+    </edge>
+    <edge source="&quot;VATICAN CITY&quot;" target="&quot;ETRUSCAN SETTLEMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The name 'Vatican' is derived from the Etruscan settlement, Vatica or Vaticum, which was located in the general area of the Romans' Vatican territory."</data>
+      <data key="d5">2cce15f56c4b4220eb15dc8e06c7e9a8</data>
+    </edge>
+    <edge source="&quot;VATICAN CITY&quot;" target="&quot;LATERAN TREATY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Lateran Treaty established the modern city-state of Vatican City on 11 February 1929."</data>
+      <data key="d5">2cce15f56c4b4220eb15dc8e06c7e9a8</data>
+    </edge>
+    <edge source="&quot;ARCHDIOCESE OF ESZTERGOM-BUDAPEST&quot;" target="&quot;PRIMATIAL BASILICA OF THE BLESSED VIRGIN MARY ASSUMED INTO HEAVEN AND ST ADALBERT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Primatial Basilica of the Blessed Virgin Mary Assumed Into Heaven and St Adalbert is the mother church of the Archdiocese of Esztergom-Budapest."</data>
+      <data key="d5">4a89093ebba2f61be1823336371d3eab</data>
+    </edge>
+    <edge source="&quot;CATHOLIC CHURCH IN HUNGARY&quot;" target="&quot;PRIMATIAL BASILICA OF THE BLESSED VIRGIN MARY ASSUMED INTO HEAVEN AND ST ADALBERT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Catholic Church in Hungary has its seat at the Primatial Basilica of the Blessed Virgin Mary Assumed Into Heaven and St Adalbert."</data>
+      <data key="d5">4a89093ebba2f61be1823336371d3eab</data>
+    </edge>
+    <edge source="&quot;ESZTERGOM&quot;" target="&quot;PRIMATIAL BASILICA OF THE BLESSED VIRGIN MARY ASSUMED INTO HEAVEN AND ST ADALBERT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Primatial Basilica of the Blessed Virgin Mary Assumed Into Heaven and St Adalbert is located in Esztergom."</data>
+      <data key="d5">4a89093ebba2f61be1823336371d3eab</data>
+    </edge>
+    <edge source="&quot;ESZTERGOM&quot;" target="&quot;HUNGARY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Esztergom is a location within Hungary."</data>
+      <data key="d5">4a89093ebba2f61be1823336371d3eab</data>
+    </edge>
+    <edge source="&quot;LUCERNE&quot;" target="&quot;THE CHURCH OF ST. LEODEGAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Church of St. Leodegar is located in the city of Lucerne."</data>
+      <data key="d5">39c28d99ed2f4522dc2b66cadd51b760</data>
+    </edge>
+    <edge source="&quot;LUCERNE&quot;" target="&quot;SWITZERLAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lucerne is a city in Switzerland."</data>
+      <data key="d5">39c28d99ed2f4522dc2b66cadd51b760</data>
+    </edge>
+    <edge source="&quot;THIRTY YEARS WAR&quot;" target="&quot;THE CHURCH OF ST. LEODEGAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Church of St. Leodegar was built during the Thirty Years War."</data>
+      <data key="d5">39c28d99ed2f4522dc2b66cadd51b760</data>
+    </edge>
+    <edge source="&quot;ROMAN CATHOLIC DIOCESE OF LAOAG&quot;" target="&quot;BACARRA CHURCH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Bacarra Church is under the jurisdiction of the Roman Catholic Diocese of Laoag."</data>
+      <data key="d5">c9cebd1aabb87e7bc0445cba331bef4d</data>
+    </edge>
+    <edge source="&quot;AUGUSTINIANS&quot;" target="&quot;BACARRA CHURCH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Augustinians founded the Bacarra Church."</data>
+      <data key="d5">c9cebd1aabb87e7bc0445cba331bef4d</data>
+    </edge>
+    <edge source="&quot;ST. ANDREW&quot;" target="&quot;BACARRA CHURCH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Bacarra Church is dedicated to St. Andrew."</data>
+      <data key="d5">c9cebd1aabb87e7bc0445cba331bef4d</data>
+    </edge>
+    <edge source="&quot;BACARRA&quot;" target="&quot;BACARRA CHURCH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Bacarra Church is located in the municipality of Bacarra."</data>
+      <data key="d5">c9cebd1aabb87e7bc0445cba331bef4d</data>
+    </edge>
+    <edge source="&quot;CANADIAN MARTYRS&quot;" target="&quot;THE MARTYRS' SHRINE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Martyrs' Shrine is consecrated to the memory of the Canadian Martyrs."</data>
+      <data key="d5">5295ccb27fd197dfdc0fbb15d03a2d09</data>
+    </edge>
+    <edge source="&quot;CANADIAN MARTYRS&quot;" target="&quot;SAINTE-MARIE AMONG THE HURONS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Canadian Martyrs were from the mission of Sainte-Marie among the Hurons."</data>
+      <data key="d5">5295ccb27fd197dfdc0fbb15d03a2d09</data>
+    </edge>
+    <edge source="&quot;MIDLAND&quot;" target="&quot;THE MARTYRS' SHRINE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Martyrs' Shrine is located in Midland, Ontario, Canada."</data>
+      <data key="d5">5295ccb27fd197dfdc0fbb15d03a2d09</data>
+    </edge>
+    <edge source="&quot;ST JOHN, APOSTLE AND EVANGELIST&quot;" target="&quot;THE BASILICA CATHEDRAL OF LIMA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Basilica Cathedral of Lima is dedicated to St John, Apostle and Evangelist."</data>
+      <data key="d5">37b382cf44096666965807b601a371cc</data>
+    </edge>
+    <edge source="&quot;LIMA&quot;" target="&quot;THE BASILICA CATHEDRAL OF LIMA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Basilica Cathedral of Lima is located in the city of Lima, Peru."</data>
+      <data key="d5">37b382cf44096666965807b601a371cc</data>
+    </edge>
+    <edge source="&quot;PERU&quot;" target="&quot;THE BASILICA CATHEDRAL OF LIMA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Basilica Cathedral of Lima is located in the country of Peru."</data>
+      <data key="d5">37b382cf44096666965807b601a371cc</data>
+    </edge>
+    <edge source="&quot;ROMAN CATHOLIC DIOCESE OF ERFURT&quot;" target="&quot;ERFURT CATHEDRAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Erfurt Cathedral serves as the episcopal seat of the Roman Catholic Diocese of Erfurt."</data>
+      <data key="d5">552c800a36afa07aba3047d62cb58525</data>
+    </edge>
+    <edge source="&quot;ERFURT&quot;" target="&quot;ERFURT CATHEDRAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Erfurt Cathedral is located in the city of Erfurt, central Germany."</data>
+      <data key="d5">552c800a36afa07aba3047d62cb58525</data>
+    </edge>
+    <edge source="&quot;EMPEROR CALIGULA&quot;" target="&quot;VATICAN OBELISK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Vatican Obelisk was erected on the orders of Emperor Caligula in 37 A.D."</data>
+      <data key="d5">64bdf3d601e35d86bf0485673defd4dd</data>
+    </edge>
+    <edge source="&quot;PETER&quot;" target="&quot;THE BASILICAS OF THE APOSTLES PETER AND PAUL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Peter is one of the apostles whose basilica is dedicated on 18 November."</data>
+      <data key="d5">676290cb733ccf4804e3799aa6b2dcd8</data>
+    </edge>
+    <edge source="&quot;PAUL&quot;" target="&quot;THE BASILICAS OF THE APOSTLES PETER AND PAUL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Paul is one of the apostles whose basilica is dedicated on 18 November."</data>
+      <data key="d5">676290cb733ccf4804e3799aa6b2dcd8</data>
+    </edge>
+    <edge source="&quot;DEDICATION OF THE BASILICAS OF THE APOSTLES PETER AND PAUL&quot;" target="&quot;THE CATHOLIC CHURCH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Catholic Church celebrates the Dedication of the Basilicas of the Apostles Peter and Paul as a feast day."</data>
+      <data key="d5">676290cb733ccf4804e3799aa6b2dcd8</data>
+    </edge>
+    <edge source="&quot;VALENCIA'S CATHEDRAL, OUR LADY OF THE FORSAKEN BASILICA&quot;" target="&quot;POPE BENEDICT XVI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Pope Benedict XVI performed a Mass at Valencia's Cathedral on 9 July 2006."</data>
+      <data key="d5">a4ff5c12c345d0ab8207ecbdc034ac15</data>
+    </edge>
+    <edge source="&quot;EMPEROR VALERIAN&quot;" target="&quot;SANTO CALIZ (HOLY CHALICE)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Emperor Valerian supposedly brought the Santo Caliz to Valencia's Cathedral in the 3rd century."</data>
+      <data key="d5">a4ff5c12c345d0ab8207ecbdc034ac15</data>
+    </edge>
+    <edge source="&quot;MARCELLO PIACENTINI&quot;" target="&quot;SACRO CUORE DI CRISTO RE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marcello Piacentini designed Sacro Cuore di Cristo Re between the 1920s and 1930s."</data>
+      <data key="d5">d6734e4153a4d0804d3b64a4ab22789f</data>
+    </edge>
+    <edge source="&quot;SAINT PETER&quot;" target="&quot;LEEDS MINSTER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Leeds Minster is dedicated to Saint Peter, indicating a significant connection between the two."</data>
+      <data key="d5">6a3a86477f6323bb0ffbab4c8f197c9c</data>
+    </edge>
+    <edge source="&quot;ENGLISH HERITAGE&quot;" target="&quot;LEEDS MINSTER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"English Heritage has designated Leeds Minster as a grade I listed building, showing their involvement with the church."</data>
+      <data key="d5">6a3a86477f6323bb0ffbab4c8f197c9c</data>
+    </edge>
+    <edge source="&quot;LEEDS&quot;" target="&quot;LEEDS MINSTER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Leeds Minster is located in Leeds, indicating a geographic connection between the two."</data>
+      <data key="d5">6a3a86477f6323bb0ffbab4c8f197c9c</data>
+    </edge>
+    <edge source="&quot;CONGREGATION OF THE BROTHERS OF ST. FRANCIS XAVIER&quot;" target="&quot;MALDEN CATHOLIC HIGH SCHOOL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Congregation of the Brothers of St. Francis Xavier founded Malden Catholic High School."</data>
+      <data key="d5">4c1503415531894ce5e89aaa9a41faf4</data>
+    </edge>
+    <edge source="&quot;XAVERIAN BROTHERS SPONSORED SCHOOLS&quot;" target="&quot;MALDEN CATHOLIC HIGH SCHOOL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Malden Catholic High School is a member of the Xaverian Brothers Sponsored Schools."</data>
+      <data key="d5">4c1503415531894ce5e89aaa9a41faf4</data>
+    </edge>
+    <edge source="&quot;NATIONAL CATHOLIC EDUCATIONAL ASSOCIATION&quot;" target="&quot;MALDEN CATHOLIC HIGH SCHOOL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Malden Catholic High School is a member of the National Catholic Educational Association."</data>
+      <data key="d5">4c1503415531894ce5e89aaa9a41faf4</data>
+    </edge>
+    <edge source="&quot;MALDEN&quot;" target="&quot;MALDEN CATHOLIC HIGH SCHOOL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Malden Catholic High School is located in Malden, Massachusetts."</data>
+      <data key="d5">4c1503415531894ce5e89aaa9a41faf4</data>
+    </edge>
+  </graph>
+</graphml>

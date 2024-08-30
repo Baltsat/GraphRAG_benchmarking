@@ -1,0 +1,1540 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="id" attr.type="string" />
+  <key id="d6" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d5" for="node" attr.name="degree" attr.type="long" />
+  <key id="d4" for="node" attr.name="level" attr.type="long" />
+  <key id="d3" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;SAINT EUSTACE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Saint Eustace is a martyr for whom the church Sant'Eustachio is named."</data>
+      <data key="d2">79c842b2bc51b7c40f1da62940938496</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;ROME&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Rome is a city that contains Vatican City, a papal enclave and the location of The Papal Basilica of St. Peter in the Vatican. Additionally, Rome is home to several notable churches, including Sant'Eustachio, Sacro Cuore di Cristo Re, a Roman Catholic church (minor basilica), as well as Old St. Peter's Basilica and its successor, both of which were constructed with their entrance to the east and apse at the west end.</data>
+      <data key="d2">45fd633d6c9ef8f4f969e03ab011a627,79c842b2bc51b7c40f1da62940938496,bf59f8e551b76bf753495f9575378afe,d6734e4153a4d0804d3b64a4ab22789f</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">1</data>
+      <data key="d7">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;VIA DI SANT'EUSTACHIO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Via di Sant'Eustachio is a street in Rome where the church Sant'Eustachio is located."</data>
+      <data key="d2">79c842b2bc51b7c40f1da62940938496</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">2</data>
+      <data key="d7">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;SANT'IVO ALLA SAPIENZA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Sant'Ivo alla Sapienza is a nearby location to the church Sant'Eustachio."</data>
+      <data key="d2">79c842b2bc51b7c40f1da62940938496</data>
+      <data key="d5">0</data>
+      <data key="d6">3</data>
+      <data key="d7">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;PANTHEON&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Pantheon is a nearby location to the church Sant'Eustachio."</data>
+      <data key="d2">79c842b2bc51b7c40f1da62940938496</data>
+      <data key="d5">0</data>
+      <data key="d6">4</data>
+      <data key="d7">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;SANT'EUSTACHIO&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">79c842b2bc51b7c40f1da62940938496</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">5</data>
+      <data key="d7">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d5">2</data>
+      <data key="d6">6</data>
+      <data key="d7">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d5">1</data>
+      <data key="d6">7</data>
+      <data key="d7">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d5">4</data>
+      <data key="d6">8</data>
+      <data key="d7">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d5">1</data>
+      <data key="d6">9</data>
+      <data key="d7">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d5">1</data>
+      <data key="d6">10</data>
+      <data key="d7">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d5">2</data>
+      <data key="d6">11</data>
+      <data key="d7">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d5">1</data>
+      <data key="d6">12</data>
+      <data key="d7">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d5">1</data>
+      <data key="d6">13</data>
+      <data key="d7">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d5">0</data>
+      <data key="d6">14</data>
+      <data key="d7">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d5">5</data>
+      <data key="d6">15</data>
+      <data key="d7">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF LVIV&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Lviv is an educational institution where Spyrydon Lytvynovych graduated with degrees in philosophy and theology."</data>
+      <data key="d2">ce2c9223ab7b672465fb8fdc0d3334a5</data>
+      <data key="d5">1</data>
+      <data key="d6">16</data>
+      <data key="d7">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;ST. BARBARA PARISH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The St. Barbara parish is a religious organization where Spyrydon Lytvynovych served as Greek Catholic pastor."</data>
+      <data key="d2">ce2c9223ab7b672465fb8fdc0d3334a5</data>
+      <data key="d5">1</data>
+      <data key="d6">17</data>
+      <data key="d7">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;GREEK CATHOLIC SEMINARY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Greek Catholic seminary is an educational institution established in 1852, with Spyrydon Lytvynovych as its first rector."</data>
+      <data key="d2">ce2c9223ab7b672465fb8fdc0d3334a5</data>
+      <data key="d5">1</data>
+      <data key="d6">18</data>
+      <data key="d7">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;NADRICHNE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Nadrichne is a location where Spyrydon Lytvynovych was born."</data>
+      <data key="d2">ce2c9223ab7b672465fb8fdc0d3334a5</data>
+      <data key="d5">1</data>
+      <data key="d6">19</data>
+      <data key="d7">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;BEREZHANY RAION&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Berezhany Raion is an administrative region in Austrian Galicia (present-day Ukraine) where Nadrichne is located."</data>
+      <data key="d2">ce2c9223ab7b672465fb8fdc0d3334a5</data>
+      <data key="d5">1</data>
+      <data key="d6">20</data>
+      <data key="d7">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;AUSTRIAN GALICIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Austrian Galicia is a historical region that corresponds to present-day Ukraine, where Spyrydon Lytvynovych was born and served."</data>
+      <data key="d2">ce2c9223ab7b672465fb8fdc0d3334a5</data>
+      <data key="d5">0</data>
+      <data key="d6">21</data>
+      <data key="d7">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;UKRAINE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ukraine is the present-day country where Nadrichne and Berezhany Raion are located."</data>
+      <data key="d2">ce2c9223ab7b672465fb8fdc0d3334a5</data>
+      <data key="d5">0</data>
+      <data key="d6">22</data>
+      <data key="d7">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;SPYRYDON LYTVYNOVYCH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ce2c9223ab7b672465fb8fdc0d3334a5</data>
+      <data key="d5">3</data>
+      <data key="d6">23</data>
+      <data key="d7">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;MAYOTTE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mayotte is a French territory and a geographic location, mentioned as a reference point for its Muslim-majority population."</data>
+      <data key="d2">dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d5">1</data>
+      <data key="d6">24</data>
+      <data key="d7">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;SOUTHERN AFRICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Southern Africa is a geographic region, mentioned as the location of Comoros and Mayotte."</data>
+      <data key="d2">dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d5">2</data>
+      <data key="d6">25</data>
+      <data key="d7">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;FRANCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"France is a country, mentioned as the origin of immigrants to Comoros."</data>
+      <data key="d2">dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d5">1</data>
+      <data key="d6">26</data>
+      <data key="d7">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;SUNNI ISLAM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Sunni Islam is a religious organization, representing the dominant religion in Comoros."</data>
+      <data key="d2">dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d5">1</data>
+      <data key="d6">27</data>
+      <data key="d7">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;ROMAN CATHOLIC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Roman Catholic is a religious organization, represented by a minority of the population in Comoros."</data>
+      <data key="d2">dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d5">1</data>
+      <data key="d6">28</data>
+      <data key="d7">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;COMOROS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d5">4</data>
+      <data key="d6">29</data>
+      <data key="d7">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;DIOCESE OF ALATRI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Diocese of Alatri was a former diocese that had Alatri Cathedral as its cathedral."</data>
+      <data key="d2">7ba74e605415c0fe924867184809ab2e</data>
+      <data key="d5">1</data>
+      <data key="d6">30</data>
+      <data key="d7">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;DIOCESE OF ANAGNI-ALATRI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Diocese of Anagni-Alatri is a current diocese that has Alatri Cathedral as its co-cathedral since 30 September 1986."</data>
+      <data key="d2">7ba74e605415c0fe924867184809ab2e</data>
+      <data key="d5">1</data>
+      <data key="d6">31</data>
+      <data key="d7">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&quot;POPE PIUS XII&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Pope Pius XII declared Alatri Cathedral a basilica minor on 10 September 1950."</data>
+      <data key="d2">7ba74e605415c0fe924867184809ab2e</data>
+      <data key="d5">1</data>
+      <data key="d6">32</data>
+      <data key="d7">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&quot;SAINT PAUL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alatri Cathedral is dedicated to Saint Paul."</data>
+      <data key="d2">7ba74e605415c0fe924867184809ab2e</data>
+      <data key="d5">1</data>
+      <data key="d6">33</data>
+      <data key="d7">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&quot;ALATRI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Alatri is a location in Lazio, Italy where Alatri Cathedral is situated."</data>
+      <data key="d2">7ba74e605415c0fe924867184809ab2e</data>
+      <data key="d5">0</data>
+      <data key="d6">34</data>
+      <data key="d7">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&quot;LAZIO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lazio is a region in Italy where Alatri is located."</data>
+      <data key="d2">7ba74e605415c0fe924867184809ab2e</data>
+      <data key="d5">0</data>
+      <data key="d6">35</data>
+      <data key="d7">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&quot;ITALY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Italy is a country where Alatri Cathedral is situated."</data>
+      <data key="d2">7ba74e605415c0fe924867184809ab2e</data>
+      <data key="d5">0</data>
+      <data key="d6">36</data>
+      <data key="d7">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&quot;ALATRI CATHEDRAL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7ba74e605415c0fe924867184809ab2e</data>
+      <data key="d5">4</data>
+      <data key="d6">37</data>
+      <data key="d7">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&quot;EMPEROR CONSTANTINE THE GREAT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Emperor Constantine the Great was the ruler who commissioned the construction of Old St. Peter's Basilica between 319 and 333 AD."</data>
+      <data key="d2">bf59f8e551b76bf753495f9575378afe</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">38</data>
+      <data key="d7">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&quot;ST. PETER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+St. Peter is a saint who, according to legend, brought the Santo Caliz from Jerusalem to Rome. He is also believed to be buried in a small shrine under Old St. Peter's Basilica, which was built over his burial place.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">39</data>
+      <data key="d7">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <node id="&quot;OLD ST. PETER'S BASILICA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">bf59f8e551b76bf753495f9575378afe</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">40</data>
+      <data key="d7">3ce7c210a21b4deebad7cc9308148d86</data>
+    </node>
+    <node id="&quot;GIAN LORENZO BERNINI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gian Lorenzo Bernini is an Italian artist who created The Vision of Constantine sculpture."</data>
+      <data key="d2">81489b8a55dfd5b42dbfb6c4f2dbc051</data>
+      <data key="d5">2</data>
+      <data key="d6">41</data>
+      <data key="d7">d64ed762ea924caa95c8d06f072a9a96</data>
+    </node>
+    <node id="&quot;ST. PETER'S BASILICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+St. Peter's Basilica, also known as The Papal Basilica of St. Peter in the Vatican, is a renowned Italian Renaissance church located in Vatican City. Notably, it is home to the famous sculpture "The Vision of Constantine".</data>
+      <data key="d2">45fd633d6c9ef8f4f969e03ab011a627,64bdf3d601e35d86bf0485673defd4dd,81489b8a55dfd5b42dbfb6c4f2dbc051</data>
+      <data key="d5">3</data>
+      <data key="d6">42</data>
+      <data key="d7">adf4ee3fbe9b4d0381044838c4f889c8</data>
+    </node>
+    <node id="&quot;VATICAN CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Vatican City is a papal enclave within the city of Rome, and it is the location of The Papal Basilica of St. Peter in the Vatican, as well as other notable landmarks such as the Scala Regia.</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8,45fd633d6c9ef8f4f969e03ab011a627,81489b8a55dfd5b42dbfb6c4f2dbc051</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">5</data>
+      <data key="d6">43</data>
+      <data key="d7">32ee140946e5461f9275db664dc541a5</data>
+    </node>
+    <node id="&quot;SCALA REGIA&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"Scala Regia is a stairway between St. Peter's Basilica and the Vatican Palace, redesigned by Gian Lorenzo Bernini."</data>
+      <data key="d2">81489b8a55dfd5b42dbfb6c4f2dbc051</data>
+      <data key="d5">1</data>
+      <data key="d6">44</data>
+      <data key="d7">c160b9cb27d6408ba6ab20214a2f3f81</data>
+    </node>
+    <node id="&quot;THE VISION OF CONSTANTINE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">81489b8a55dfd5b42dbfb6c4f2dbc051</data>
+      <data key="d5">2</data>
+      <data key="d6">45</data>
+      <data key="d7">23527cd679ff4d5a988d52e7cd056078</data>
+    </node>
+    <node id="&quot;ESZTERGOM BASILICA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Esztergom Basilica is another name for the Primatial Basilica of the Blessed Virgin Mary Assumed Into Heaven and St Adalbert."</data>
+      <data key="d2">4a89093ebba2f61be1823336371d3eab</data>
+      <data key="d5">0</data>
+      <data key="d6">46</data>
+      <data key="d7">f1c6eed066f24cbdb376b910fce29ed4</data>
+    </node>
+    <node id="&quot;ARCHDIOCESE OF ESZTERGOM-BUDAPEST&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Archdiocese of Esztergom-Budapest is a Catholic archdiocese with its mother church being the Primatial Basilica of the Blessed Virgin Mary Assumed Into Heaven and St Adalbert."</data>
+      <data key="d2">4a89093ebba2f61be1823336371d3eab</data>
+      <data key="d5">1</data>
+      <data key="d6">47</data>
+      <data key="d7">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+    </node>
+    <node id="&quot;CATHOLIC CHURCH IN HUNGARY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Catholic Church in Hungary has its seat at the Primatial Basilica of the Blessed Virgin Mary Assumed Into Heaven and St Adalbert."</data>
+      <data key="d2">4a89093ebba2f61be1823336371d3eab</data>
+      <data key="d5">1</data>
+      <data key="d6">48</data>
+      <data key="d7">147c038aef3e4422acbbc5f7938c4ab8</data>
+    </node>
+    <node id="&quot;SAINT MARY OF THE ASSUMPTION&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Saint Mary of the Assumption is a saint to whom the Primatial Basilica of the Blessed Virgin Mary Assumed Into Heaven and St Adalbert is dedicated."</data>
+      <data key="d2">4a89093ebba2f61be1823336371d3eab</data>
+      <data key="d5">0</data>
+      <data key="d6">49</data>
+      <data key="d7">b7702b90c7f24190b864e8c6e64612a5</data>
+    </node>
+    <node id="&quot;SAINT ADALBERT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Saint Adalbert is a saint to whom the Primatial Basilica of the Blessed Virgin Mary Assumed Into Heaven and St Adalbert is dedicated."</data>
+      <data key="d2">4a89093ebba2f61be1823336371d3eab</data>
+      <data key="d5">0</data>
+      <data key="d6">50</data>
+      <data key="d7">de6fa24480894518ab3cbcb66f739266</data>
+    </node>
+    <node id="&quot;ESZTERGOM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Esztergom is a location in Hungary where the Primatial Basilica of the Blessed Virgin Mary Assumed Into Heaven and St Adalbert is situated."</data>
+      <data key="d2">4a89093ebba2f61be1823336371d3eab</data>
+      <data key="d5">2</data>
+      <data key="d6">51</data>
+      <data key="d7">6fae5ee1a831468aa585a1ea09095998</data>
+    </node>
+    <node id="&quot;HUNGARY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hungary is a country where the Primatial Basilica of the Blessed Virgin Mary Assumed Into Heaven and St Adalbert is located."</data>
+      <data key="d2">4a89093ebba2f61be1823336371d3eab</data>
+      <data key="d5">1</data>
+      <data key="d6">52</data>
+      <data key="d7">ef32c4b208d041cc856f6837915dc1b0</data>
+    </node>
+    <node id="&quot;PRIMATIAL BASILICA OF THE BLESSED VIRGIN MARY ASSUMED INTO HEAVEN AND ST ADALBERT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4a89093ebba2f61be1823336371d3eab</data>
+      <data key="d5">3</data>
+      <data key="d6">53</data>
+      <data key="d7">07b2425216bd4f0aa4e079827cb48ef5</data>
+    </node>
+    <node id="&quot;THE PAPAL BASILICA OF ST. PETER IN THE VATICAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">45fd633d6c9ef8f4f969e03ab011a627</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">54</data>
+      <data key="d7">2670deebfa3f4d69bb82c28ab250a209</data>
+    </node>
+    <node id="&quot;LUCERNE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lucerne is a city in Switzerland where The Church of St. Leodegar is located."</data>
+      <data key="d2">39c28d99ed2f4522dc2b66cadd51b760</data>
+      <data key="d5">2</data>
+      <data key="d6">55</data>
+      <data key="d7">404309e89a5241d6bff42c05a45df206</data>
+    </node>
+    <node id="&quot;SWITZERLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Switzerland is a country where the city of Lucerne and The Church of St. Leodegar are located."</data>
+      <data key="d2">39c28d99ed2f4522dc2b66cadd51b760</data>
+      <data key="d5">1</data>
+      <data key="d6">56</data>
+      <data key="d7">b785a9025069417f94950ad231bb1441</data>
+    </node>
+    <node id="&quot;THIRTY YEARS WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Thirty Years War was a historical event during which The Church of St. Leodegar was built."</data>
+      <data key="d2">39c28d99ed2f4522dc2b66cadd51b760</data>
+      <data key="d5">1</data>
+      <data key="d6">57</data>
+      <data key="d7">3b6cd96a27304614850709aba1c9598b</data>
+    </node>
+    <node id="&quot;THE CHURCH OF ST. LEODEGAR&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">39c28d99ed2f4522dc2b66cadd51b760</data>
+      <data key="d5">2</data>
+      <data key="d6">58</data>
+      <data key="d7">d54956b79dd147f894b67a8b97dcbef0</data>
+    </node>
+    <node id="&quot;ROMAN CATHOLIC DIOCESE OF LAOAG&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Roman Catholic Diocese of Laoag has jurisdiction over the Bacarra Church."</data>
+      <data key="d2">c9cebd1aabb87e7bc0445cba331bef4d</data>
+      <data key="d5">1</data>
+      <data key="d6">59</data>
+      <data key="d7">958beecdb5bb4060948415ffd75d2b03</data>
+    </node>
+    <node id="&quot;AUGUSTINIANS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Augustinians founded the Bacarra Church and dedicated it to St. Andrew."</data>
+      <data key="d2">c9cebd1aabb87e7bc0445cba331bef4d</data>
+      <data key="d5">1</data>
+      <data key="d6">60</data>
+      <data key="d7">b999ed77e19e4f85b7f1ae79af5c002a</data>
+    </node>
+    <node id="&quot;ST. ANDREW&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"St. Andrew is the patron saint of the Bacarra Church."</data>
+      <data key="d2">c9cebd1aabb87e7bc0445cba331bef4d</data>
+      <data key="d5">1</data>
+      <data key="d6">61</data>
+      <data key="d7">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+    </node>
+    <node id="&quot;BACARRA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bacarra is a municipality in Ilocos Norte, Philippines where the Bacarra Church is located."</data>
+      <data key="d2">c9cebd1aabb87e7bc0445cba331bef4d</data>
+      <data key="d5">1</data>
+      <data key="d6">62</data>
+      <data key="d7">4f3c97517f794ebfb49c4c6315f9cf23</data>
+    </node>
+    <node id="&quot;ILOCOS NORTE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ilocos Norte is a province in the Philippines where the Bacarra Church is located."</data>
+      <data key="d2">c9cebd1aabb87e7bc0445cba331bef4d</data>
+      <data key="d5">0</data>
+      <data key="d6">63</data>
+      <data key="d7">1745a2485a9443bab76587ad650e9be0</data>
+    </node>
+    <node id="&quot;PHILIPPINES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Philippines is the country where the Bacarra Church is located."</data>
+      <data key="d2">c9cebd1aabb87e7bc0445cba331bef4d</data>
+      <data key="d5">0</data>
+      <data key="d6">64</data>
+      <data key="d7">32e6ccab20d94029811127dbbe424c64</data>
+    </node>
+    <node id="&quot;BACARRA CHURCH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c9cebd1aabb87e7bc0445cba331bef4d</data>
+      <data key="d5">4</data>
+      <data key="d6">65</data>
+      <data key="d7">94a964c6992945ebb3833dfdfdc8d655</data>
+    </node>
+    <node id="&quot;CANADIAN MARTYRS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Canadian Martyrs refer to six Jesuit Martyrs and two lay persons from the mission of Sainte-Marie among the Hurons."</data>
+      <data key="d2">5295ccb27fd197dfdc0fbb15d03a2d09</data>
+      <data key="d5">2</data>
+      <data key="d6">66</data>
+      <data key="d7">1eb829d0ace042089f0746f78729696c</data>
+    </node>
+    <node id="&quot;MIDLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Midland is a location in Ontario, Canada, where The Martyrs' Shrine is situated."</data>
+      <data key="d2">5295ccb27fd197dfdc0fbb15d03a2d09</data>
+      <data key="d5">1</data>
+      <data key="d6">67</data>
+      <data key="d7">015e7b58d1a14b44beab3bbc9f912c18</data>
+    </node>
+    <node id="&quot;ONTARIO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ontario is a province in Canada where Midland and The Martyrs' Shrine are located."</data>
+      <data key="d2">5295ccb27fd197dfdc0fbb15d03a2d09</data>
+      <data key="d5">0</data>
+      <data key="d6">68</data>
+      <data key="d7">26f88ab3e2e04c33a459ad6270ade565</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Canada is a country where The Martyrs' Shrine, a national shrine, is located."</data>
+      <data key="d2">5295ccb27fd197dfdc0fbb15d03a2d09</data>
+      <data key="d5">0</data>
+      <data key="d6">69</data>
+      <data key="d7">babe97e1d9784cffa1c85abc1e588126</data>
+    </node>
+    <node id="&quot;SAINTE-MARIE AMONG THE HURONS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Sainte-Marie among the Hurons refers to a mission where the Canadian Martyrs were from."</data>
+      <data key="d2">5295ccb27fd197dfdc0fbb15d03a2d09</data>
+      <data key="d5">1</data>
+      <data key="d6">70</data>
+      <data key="d7">1033a18c45aa4584b2aef6ab96890351</data>
+    </node>
+    <node id="&quot;ST. JOSEPH'S ORATORY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"St. Joseph's Oratory is one of nine national shrines in Canada, located in Montreal."</data>
+      <data key="d2">5295ccb27fd197dfdc0fbb15d03a2d09</data>
+      <data key="d5">0</data>
+      <data key="d6">71</data>
+      <data key="d7">c9b8ce91fc2945b4907fe35519339cac</data>
+    </node>
+    <node id="&quot;MONTREAL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Montreal is a location in Canada where St. Joseph's Oratory is situated."</data>
+      <data key="d2">5295ccb27fd197dfdc0fbb15d03a2d09</data>
+      <data key="d5">0</data>
+      <data key="d6">72</data>
+      <data key="d7">fa3c4204421c48609e52c8de2da4c654</data>
+    </node>
+    <node id="&quot;BASILICA OF SAINTE-ANNE-DE-BEAUPR&#201;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Basilica of Sainte-Anne-de-Beaupr&#233; is one of nine national shrines in Canada."</data>
+      <data key="d2">5295ccb27fd197dfdc0fbb15d03a2d09</data>
+      <data key="d5">0</data>
+      <data key="d6">73</data>
+      <data key="d7">53af055f068244d0ac861b2e89376495</data>
+    </node>
+    <node id="&quot;THE MARTYRS' SHRINE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5295ccb27fd197dfdc0fbb15d03a2d09</data>
+      <data key="d5">2</data>
+      <data key="d6">74</data>
+      <data key="d7">c03ab3ce8cb74ad2a03b94723bfab3c7</data>
+    </node>
+    <node id="&quot;LIMA CATHEDRAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Lima Cathedral is another name for The Basilica Cathedral of Lima, a Roman Catholic cathedral located in the Plaza Mayor of downtown Lima, Peru."</data>
+      <data key="d2">37b382cf44096666965807b601a371cc</data>
+      <data key="d5">0</data>
+      <data key="d6">75</data>
+      <data key="d7">ed6d2eee9d7b4f5db466b1f6404d31cc</data>
+    </node>
+    <node id="&quot;ST JOHN, APOSTLE AND EVANGELIST&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"St John, Apostle and Evangelist is the patron saint to whom The Basilica Cathedral of Lima is dedicated."</data>
+      <data key="d2">37b382cf44096666965807b601a371cc</data>
+      <data key="d5">1</data>
+      <data key="d6">76</data>
+      <data key="d7">fc01e9baa80e417c9206f941bb279407</data>
+    </node>
+    <node id="&quot;LIMA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lima is a city in Peru where The Basilica Cathedral of Lima is located."</data>
+      <data key="d2">37b382cf44096666965807b601a371cc</data>
+      <data key="d5">1</data>
+      <data key="d6">77</data>
+      <data key="d7">56d0e5ebe79e4814bd1463cf6ca21394</data>
+    </node>
+    <node id="&quot;PERU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Peru is a country in South America where Lima, the city with The Basilica Cathedral of Lima, is located."</data>
+      <data key="d2">37b382cf44096666965807b601a371cc</data>
+      <data key="d5">1</data>
+      <data key="d6">78</data>
+      <data key="d7">7c49f2710e8b4d3b8dc9310834406ea5</data>
+    </node>
+    <node id="&quot;CONSTRUCTION OF THE BASILICA CATHEDRAL OF LIMA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The construction of The Basilica Cathedral of Lima began in 1535 and has undergone many reconstructions and transformations since."</data>
+      <data key="d2">37b382cf44096666965807b601a371cc</data>
+      <data key="d5">0</data>
+      <data key="d6">79</data>
+      <data key="d7">c6d1e4f56c2843e89cf0b91c10bb6de2</data>
+    </node>
+    <node id="&quot;THE BASILICA CATHEDRAL OF LIMA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">37b382cf44096666965807b601a371cc</data>
+      <data key="d5">3</data>
+      <data key="d6">80</data>
+      <data key="d7">0adb2d9941f34ef7b2f7743cc6225844</data>
+    </node>
+    <node id="&quot;ROMAN CATHOLIC DIOCESE OF ERFURT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Roman Catholic Diocese of Erfurt is an organization with its episcopal seat at Erfurt Cathedral."</data>
+      <data key="d2">552c800a36afa07aba3047d62cb58525</data>
+      <data key="d5">1</data>
+      <data key="d6">81</data>
+      <data key="d7">6b02373137fd438ba96af28f735cdbdb</data>
+    </node>
+    <node id="&quot;ERFURT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Erfurt is a city in central Germany where the Erfurt Cathedral is located."</data>
+      <data key="d2">552c800a36afa07aba3047d62cb58525</data>
+      <data key="d5">1</data>
+      <data key="d6">82</data>
+      <data key="d7">36a4fcd8efc144e6b8af9a1c7ab8b2ce</data>
+    </node>
+    <node id="&quot;ERFURT CATHEDRAL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">552c800a36afa07aba3047d62cb58525</data>
+      <data key="d5">2</data>
+      <data key="d6">83</data>
+      <data key="d7">fbeef791d19b413a9c93c6608286ab63</data>
+    </node>
+    <node id="&quot;ROMAN CATHOLIC CHURCH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Roman Catholic Church is an organization that has a significant presence in St. Peter's Basilica."</data>
+      <data key="d2">64bdf3d601e35d86bf0485673defd4dd</data>
+      <data key="d5">1</data>
+      <data key="d6">84</data>
+      <data key="d7">d2b629c0396f4180a03e16ddf3818589</data>
+    </node>
+    <node id="&quot;PAPAL STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Papal States are a geographic location where St. Peter's Basilica is situated."</data>
+      <data key="d2">64bdf3d601e35d86bf0485673defd4dd</data>
+      <data key="d5">1</data>
+      <data key="d6">85</data>
+      <data key="d7">6102fc6619ed422ebc42588bfa97355d</data>
+    </node>
+    <node id="&quot;EMPEROR CALIGULA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Emperor Caligula was a historical figure who ordered the erection of the Vatican Obelisk in 37 A.D."</data>
+      <data key="d2">64bdf3d601e35d86bf0485673defd4dd</data>
+      <data key="d5">1</data>
+      <data key="d6">86</data>
+      <data key="d7">8d141c0b80f74b79a05eed7fe161fe49</data>
+    </node>
+    <node id="&quot;VATICAN OBELISK&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">64bdf3d601e35d86bf0485673defd4dd</data>
+      <data key="d5">1</data>
+      <data key="d6">87</data>
+      <data key="d7">e22d1d1cd8d14f12b81828d940f40d70</data>
+    </node>
+    <node id="&quot;PETER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Peter is one of the apostles whose basilica is dedicated on 18 November."</data>
+      <data key="d2">676290cb733ccf4804e3799aa6b2dcd8</data>
+      <data key="d5">1</data>
+      <data key="d6">88</data>
+      <data key="d7">9ab48505fb1b487babd0d1f6d3a3f980</data>
+    </node>
+    <node id="&quot;PAUL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Paul is one of the apostles whose basilica is dedicated on 18 November."</data>
+      <data key="d2">676290cb733ccf4804e3799aa6b2dcd8</data>
+      <data key="d5">1</data>
+      <data key="d6">89</data>
+      <data key="d7">148fffeb994541b2b4b6dcefda7001a8</data>
+    </node>
+    <node id="&quot;THE BASILICAS OF THE APOSTLES PETER AND PAUL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Basilicas of the Apostles Peter and Paul are a geographic location where a feast day is celebrated."</data>
+      <data key="d2">676290cb733ccf4804e3799aa6b2dcd8</data>
+      <data key="d5">2</data>
+      <data key="d6">90</data>
+      <data key="d7">89c08e793298442686292454a1abff31</data>
+    </node>
+    <node id="&quot;DEDICATION OF THE BASILICAS OF THE APOSTLES PETER AND PAUL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Dedication of the Basilicas of the Apostles Peter and Paul is an event celebrated on 18 November by the Catholic Church."</data>
+      <data key="d2">676290cb733ccf4804e3799aa6b2dcd8</data>
+      <data key="d5">1</data>
+      <data key="d6">91</data>
+      <data key="d7">0467928aa65e4a4fba62bdb1467e3a54</data>
+    </node>
+    <node id="&quot;THE CATHOLIC CHURCH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">676290cb733ccf4804e3799aa6b2dcd8</data>
+      <data key="d5">1</data>
+      <data key="d6">92</data>
+      <data key="d7">43c3390303c6476cb65f584e37c3e81c</data>
+    </node>
+    <node id="&quot;VATICAN HILL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Vatican Hill is a geographic location where the Vatican City state is situated."</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">93</data>
+      <data key="d7">fa14b16c17e3417dba5a4b473ea5b18d</data>
+    </node>
+    <node id="&quot;ETRUSCAN SETTLEMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Etruscan settlement, Vatica or Vaticum, was an ancient community located in the general area of the Romans' Vatican territory."</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">94</data>
+      <data key="d7">7cc3356d38de4328a51a5cbcb187dac3</data>
+    </node>
+    <node id="&quot;LATERAN TREATY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Lateran Treaty is a significant event that established the modern city-state of Vatican City on 11 February 1929."</data>
+      <data key="d2">2cce15f56c4b4220eb15dc8e06c7e9a8</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">95</data>
+      <data key="d7">bef16fb5fd7344cca5e295b13ef3e0cd</data>
+    </node>
+    <node id="&quot;VALENCIA'S CATHEDRAL, OUR LADY OF THE FORSAKEN BASILICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Valencia's Cathedral, Our Lady of the Forsaken Basilica is a location where an important event took place, specifically the World Day of Families Mass in 2006."</data>
+      <data key="d2">a4ff5c12c345d0ab8207ecbdc034ac15</data>
+      <data key="d5">1</data>
+      <data key="d6">96</data>
+      <data key="d7">bb9e01bc171d4326a29afda59ece8d17</data>
+    </node>
+    <node id="&quot;EMPEROR VALERIAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Emperor Valerian is a historical figure who supposedly brought the Santo Caliz to Valencia's Cathedral in the 3rd century."</data>
+      <data key="d2">a4ff5c12c345d0ab8207ecbdc034ac15</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">97</data>
+      <data key="d7">3c063eea52e94164b70c99431ea30bae</data>
+    </node>
+    <node id="&quot;SANTO CALIZ (HOLY CHALICE)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Santo Caliz is a 1st-century Middle-Eastern artifact believed by some Catholics to be the Holy Grail."</data>
+      <data key="d2">a4ff5c12c345d0ab8207ecbdc034ac15</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">98</data>
+      <data key="d7">252cc8452bfc4c2aa58cab68d8b61879</data>
+    </node>
+    <node id="&quot;POPE BENEDICT XVI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a4ff5c12c345d0ab8207ecbdc034ac15</data>
+      <data key="d5">1</data>
+      <data key="d6">99</data>
+      <data key="d7">7e2c84548fb94ee395ba8588d8f2a006</data>
+    </node>
+    <node id="&quot;MARCELLO PIACENTINI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Marcello Piacentini was the designer of Sacro Cuore di Cristo Re between the 1920s and 1930s."</data>
+      <data key="d2">d6734e4153a4d0804d3b64a4ab22789f</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">100</data>
+      <data key="d7">f034618dde7948beb6dab30176d0fc87</data>
+    </node>
+    <node id="&quot;SACRO CUORE DI CRISTO RE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d6734e4153a4d0804d3b64a4ab22789f</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">101</data>
+      <data key="d7">5c41f96be13e49dba649454297834546</data>
+    </node>
+    <node id="&quot;SAINT PETER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Saint Peter is the patron saint of Leeds Minster, a church dedicated to him."</data>
+      <data key="d2">6a3a86477f6323bb0ffbab4c8f197c9c</data>
+      <data key="d5">1</data>
+      <data key="d6">102</data>
+      <data key="d7">7ea4afbf8a264f29af29950ce98105ba</data>
+    </node>
+    <node id="&quot;ENGLISH HERITAGE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"English Heritage is an organization responsible for designating grade I listed buildings, including Leeds Minster."</data>
+      <data key="d2">6a3a86477f6323bb0ffbab4c8f197c9c</data>
+      <data key="d5">1</data>
+      <data key="d6">103</data>
+      <data key="d7">91ff849d12b24574b0691dbddf44968b</data>
+    </node>
+    <node id="&quot;LEEDS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Leeds is a location in West Yorkshire where Leeds Minster is situated."</data>
+      <data key="d2">6a3a86477f6323bb0ffbab4c8f197c9c</data>
+      <data key="d5">1</data>
+      <data key="d6">104</data>
+      <data key="d7">d73c1f2fb3094d8dace42ad2a76e9a52</data>
+    </node>
+    <node id="&quot;WEST YORKSHIRE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"West Yorkshire is a geographic region in England where Leeds is located."</data>
+      <data key="d2">6a3a86477f6323bb0ffbab4c8f197c9c</data>
+      <data key="d5">0</data>
+      <data key="d6">105</data>
+      <data key="d7">cdc8901e668749889bd49bebdc4ff1f6</data>
+    </node>
+    <node id="&quot;LEEDS MINSTER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6a3a86477f6323bb0ffbab4c8f197c9c</data>
+      <data key="d5">3</data>
+      <data key="d6">106</data>
+      <data key="d7">36084a9fab53433493f079e97e68bf65</data>
+    </node>
+    <node id="&quot;CONGREGATION OF THE BROTHERS OF ST. FRANCIS XAVIER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Congregation of the Brothers of St. Francis Xavier is an international congregation of religious brothers that founded Malden Catholic High School."</data>
+      <data key="d2">4c1503415531894ce5e89aaa9a41faf4</data>
+      <data key="d5">1</data>
+      <data key="d6">107</data>
+      <data key="d7">eebcc7ec8e3e4df7aea83659bbdc2199</data>
+    </node>
+    <node id="&quot;XAVERIAN BROTHERS SPONSORED SCHOOLS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Xaverian Brothers Sponsored Schools is a group of schools sponsored by the Xaverian Brothers, including Malden Catholic High School."</data>
+      <data key="d2">4c1503415531894ce5e89aaa9a41faf4</data>
+      <data key="d5">1</data>
+      <data key="d6">108</data>
+      <data key="d7">ceadf262ef834e9ab146b20650912cae</data>
+    </node>
+    <node id="&quot;NATIONAL CATHOLIC EDUCATIONAL ASSOCIATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The National Catholic Educational Association is an organization that Malden Catholic High School is a member of."</data>
+      <data key="d2">4c1503415531894ce5e89aaa9a41faf4</data>
+      <data key="d5">1</data>
+      <data key="d6">109</data>
+      <data key="d7">7f65feab75424b53b24470d305ba331a</data>
+    </node>
+    <node id="&quot;MALDEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Malden is a location in Massachusetts where Malden Catholic High School is situated."</data>
+      <data key="d2">4c1503415531894ce5e89aaa9a41faf4</data>
+      <data key="d5">1</data>
+      <data key="d6">110</data>
+      <data key="d7">fd9cb733b28d420cb5cef01e545a132c</data>
+    </node>
+    <node id="&quot;MALDEN CATHOLIC HIGH SCHOOL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4c1503415531894ce5e89aaa9a41faf4</data>
+      <data key="d5">4</data>
+      <data key="d6">111</data>
+      <data key="d7">0fbcca3f17c649a08aea64b5a7d9ef36</data>
+    </node>
+    <edge source="&quot;SAINT EUSTACE&quot;" target="&quot;SANT'EUSTACHIO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The church Sant'Eustachio is named for the martyr Saint Eustace."</data>
+      <data key="d10">79c842b2bc51b7c40f1da62940938496</data>
+      <data key="d11">482027a59f32484c9c44fd700615c1b6</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ROME&quot;" target="&quot;SANT'EUSTACHIO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The church Sant'Eustachio is located in Rome."</data>
+      <data key="d10">79c842b2bc51b7c40f1da62940938496</data>
+      <data key="d11">de837ff3d626451282ff6ac77a82216d</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ROME&quot;" target="&quot;OLD ST. PETER'S BASILICA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Old St. Peter's Basilica is located in Rome."</data>
+      <data key="d10">bf59f8e551b76bf753495f9575378afe</data>
+      <data key="d11">460295fed3ae4cd39f9f274cec9c2506</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ROME&quot;" target="&quot;VATICAN CITY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Vatican City is a papal enclave within the city of Rome."</data>
+      <data key="d10">45fd633d6c9ef8f4f969e03ab011a627</data>
+      <data key="d11">553b285bba60460ab1ed8341ae61282b</data>
+      <data key="d12">3</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ROME&quot;" target="&quot;SACRO CUORE DI CRISTO RE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Sacro Cuore di Cristo Re is located in Rome."</data>
+      <data key="d10">d6734e4153a4d0804d3b64a4ab22789f</data>
+      <data key="d11">cec95bf17e7e4c939b56c9c6f402a29f</data>
+      <data key="d12">4</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VIA DI SANT'EUSTACHIO&quot;" target="&quot;SANT'EUSTACHIO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The church Sant'Eustachio is located on Via di Sant'Eustachio."</data>
+      <data key="d10">79c842b2bc51b7c40f1da62940938496</data>
+      <data key="d11">599164aead034bc19446efacc77554d2</data>
+      <data key="d12">5</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is the county seat of Pima County."</data>
+      <data key="d10">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d11">bbf148ae4d48422f8fdef754cfa2b9e4</data>
+      <data key="d12">6</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Pima County is a county in Arizona."</data>
+      <data key="d10">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d11">de61b2670999433f807a6a1dc2b81e43</data>
+      <data key="d12">7</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The University of Arizona is located in Tucson."</data>
+      <data key="d10">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d11">3e95dacfe57b4d57b5da4310ef2e157f</data>
+      <data key="d12">8</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Arizona is a state in the United States."</data>
+      <data key="d10">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d11">1f1545308e9347af91fd03b94aadc21f</data>
+      <data key="d12">9</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is a city in Arizona."</data>
+      <data key="d10">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d11">6ea81acaf232485e94fff638e03336e1</data>
+      <data key="d12">10</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Phoenix is a city in Arizona."</data>
+      <data key="d10">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d11">d136b08d586d488f9e4188b524c85a29</data>
+      <data key="d12">11</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d10">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d11">cccfa151fedc4b218a8d96adc7dceabe</data>
+      <data key="d12">12</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Mexico shares an international border with the United States."</data>
+      <data key="d10">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d11">ce54725672a74ebcabe6127577dacb2b</data>
+      <data key="d12">13</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d10">2cce15f56c4b4220eb15dc8e06c7e9a8,37b382cf44096666965807b601a371cc,39c28d99ed2f4522dc2b66cadd51b760,45fd633d6c9ef8f4f969e03ab011a627,4a89093ebba2f61be1823336371d3eab,4c1503415531894ce5e89aaa9a41faf4,5295ccb27fd197dfdc0fbb15d03a2d09,552c800a36afa07aba3047d62cb58525,64bdf3d601e35d86bf0485673defd4dd,676290cb733ccf4804e3799aa6b2dcd8,6a3a86477f6323bb0ffbab4c8f197c9c,79c842b2bc51b7c40f1da62940938496,7ba74e605415c0fe924867184809ab2e,81489b8a55dfd5b42dbfb6c4f2dbc051,a4ff5c12c345d0ab8207ecbdc034ac15,bf59f8e551b76bf753495f9575378afe,c9cebd1aabb87e7bc0445cba331bef4d,ce2c9223ab7b672465fb8fdc0d3334a5,d6734e4153a4d0804d3b64a4ab22789f,dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d11">ea2b28ca1a974ffab4517811dc1d1e5c</data>
+      <data key="d12">14</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF LVIV&quot;" target="&quot;SPYRYDON LYTVYNOVYCH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Spyrydon Lytvynovych graduated from the University of Lviv with degrees in philosophy and theology."</data>
+      <data key="d10">ce2c9223ab7b672465fb8fdc0d3334a5</data>
+      <data key="d11">aff21f1da1654e7babdcf3fb0e4a75fc</data>
+      <data key="d12">15</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ST. BARBARA PARISH&quot;" target="&quot;SPYRYDON LYTVYNOVYCH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Spyrydon Lytvynovych served as Greek Catholic pastor of the St. Barbara parish."</data>
+      <data key="d10">ce2c9223ab7b672465fb8fdc0d3334a5</data>
+      <data key="d11">dc2cc9016e3f49dbac7232f05cce794d</data>
+      <data key="d12">16</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GREEK CATHOLIC SEMINARY&quot;" target="&quot;SPYRYDON LYTVYNOVYCH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Spyrydon Lytvynovych was the first rector of the Greek Catholic seminary."</data>
+      <data key="d10">ce2c9223ab7b672465fb8fdc0d3334a5</data>
+      <data key="d11">6ea0cef05f694dcea455478f40674e45</data>
+      <data key="d12">17</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NADRICHNE&quot;" target="&quot;BEREZHANY RAION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Nadrichne is located in Berezhany Raion."</data>
+      <data key="d10">ce2c9223ab7b672465fb8fdc0d3334a5</data>
+      <data key="d11">7ab5d53a872f4dfc98f3d386879f3c75</data>
+      <data key="d12">18</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MAYOTTE&quot;" target="&quot;SOUTHERN AFRICA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Mayotte is also located in Southern Africa, mentioned as a reference point for its Muslim-majority population."</data>
+      <data key="d10">dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d11">af1d0fec22114a3398b8016f5225f9ed</data>
+      <data key="d12">19</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SOUTHERN AFRICA&quot;" target="&quot;COMOROS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Comoros is located in Southern Africa."</data>
+      <data key="d10">dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d11">b07a7f088364459098cd8511ff27a4c8</data>
+      <data key="d12">20</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FRANCE&quot;" target="&quot;COMOROS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"There are immigrants from France living in Comoros."</data>
+      <data key="d10">dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d11">8870cf2b5df64d2cab5820f67e29b9f1</data>
+      <data key="d12">21</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SUNNI ISLAM&quot;" target="&quot;COMOROS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Sunni Islam is the dominant religion in Comoros, representing 99% of the population."</data>
+      <data key="d10">dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d11">cd130938a2844050be991af70baf5ee0</data>
+      <data key="d12">22</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ROMAN CATHOLIC&quot;" target="&quot;COMOROS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Roman Catholic is a minority religion in Comoros, represented by immigrants from France."</data>
+      <data key="d10">dafc176f7bf692883bb228d5ea6f42e6</data>
+      <data key="d11">43544b99c3b04b059546198a0ae6366d</data>
+      <data key="d12">23</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DIOCESE OF ALATRI&quot;" target="&quot;ALATRI CATHEDRAL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Alatri Cathedral was formerly the cathedral of the Diocese of Alatri."</data>
+      <data key="d10">7ba74e605415c0fe924867184809ab2e</data>
+      <data key="d11">a671bf7fea2f4514b6e96ba99127fafd</data>
+      <data key="d12">24</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DIOCESE OF ANAGNI-ALATRI&quot;" target="&quot;ALATRI CATHEDRAL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Alatri Cathedral has been a co-cathedral of the Diocese of Anagni-Alatri since 30 September 1986."</data>
+      <data key="d10">7ba74e605415c0fe924867184809ab2e</data>
+      <data key="d11">525f41ea20274a05af4e52b625b473f3</data>
+      <data key="d12">25</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;POPE PIUS XII&quot;" target="&quot;ALATRI CATHEDRAL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Pope Pius XII declared Alatri Cathedral a basilica minor on 10 September 1950."</data>
+      <data key="d10">7ba74e605415c0fe924867184809ab2e</data>
+      <data key="d11">071a416efbec4f0886c19ac68f6d43cb</data>
+      <data key="d12">26</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SAINT PAUL&quot;" target="&quot;ALATRI CATHEDRAL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Alatri Cathedral is dedicated to Saint Paul."</data>
+      <data key="d10">7ba74e605415c0fe924867184809ab2e</data>
+      <data key="d11">6d8473ef3b1042bf87178a611e3dbcc6</data>
+      <data key="d12">27</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;EMPEROR CONSTANTINE THE GREAT&quot;" target="&quot;OLD ST. PETER'S BASILICA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Emperor Constantine the Great commissioned the construction of Old St. Peter's Basilica."</data>
+      <data key="d10">bf59f8e551b76bf753495f9575378afe</data>
+      <data key="d11">30c9641543c24773938bd8ec57ea98ab</data>
+      <data key="d12">28</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ST. PETER&quot;" target="&quot;OLD ST. PETER'S BASILICA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Old St. Peter's Basilica was built over the burial place of St. Peter."</data>
+      <data key="d10">bf59f8e551b76bf753495f9575378afe</data>
+      <data key="d11">18b839da898e4026b81727d759d95c6a</data>
+      <data key="d12">29</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ST. PETER&quot;" target="&quot;SANTO CALIZ (HOLY CHALICE)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"St. Peter is said to have brought the Santo Caliz from Jerusalem to Rome."</data>
+      <data key="d10">a4ff5c12c345d0ab8207ecbdc034ac15</data>
+      <data key="d11">eeef6ae5c464400c8755900b4f1ac37a</data>
+      <data key="d12">30</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GIAN LORENZO BERNINI&quot;" target="&quot;THE VISION OF CONSTANTINE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Gian Lorenzo Bernini created The Vision of Constantine sculpture."</data>
+      <data key="d10">81489b8a55dfd5b42dbfb6c4f2dbc051</data>
+      <data key="d11">422433aa45804c7ebb973b2fafce5da6</data>
+      <data key="d12">31</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GIAN LORENZO BERNINI&quot;" target="&quot;SCALA REGIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Gian Lorenzo Bernini redesigned the Scala Regia stairway."</data>
+      <data key="d10">81489b8a55dfd5b42dbfb6c4f2dbc051</data>
+      <data key="d11">86505bca739d4bccaaa1a8e0f3baffdc</data>
+      <data key="d12">32</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ST. PETER'S BASILICA&quot;" target="&quot;THE VISION OF CONSTANTINE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Vision of Constantine is located in St. Peter's Basilica."</data>
+      <data key="d10">81489b8a55dfd5b42dbfb6c4f2dbc051</data>
+      <data key="d11">1af9faf341e14a5bbf4ddc9080e8dc0b</data>
+      <data key="d12">33</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ST. PETER'S BASILICA&quot;" target="&quot;ROMAN CATHOLIC CHURCH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"St. Peter's Basilica is affiliated with the Roman Catholic Church."</data>
+      <data key="d10">64bdf3d601e35d86bf0485673defd4dd</data>
+      <data key="d11">353d91abc68648639d65a549e59b5cf3</data>
+      <data key="d12">34</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ST. PETER'S BASILICA&quot;" target="&quot;PAPAL STATES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"St. Peter's Basilica is located in the Papal States."</data>
+      <data key="d10">64bdf3d601e35d86bf0485673defd4dd</data>
+      <data key="d11">7ce637e4f35b42e3a9f8272cab69cd22</data>
+      <data key="d12">35</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VATICAN CITY&quot;" target="&quot;THE PAPAL BASILICA OF ST. PETER IN THE VATICAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Papal Basilica of St. Peter in the Vatican is located within Vatican City."</data>
+      <data key="d10">45fd633d6c9ef8f4f969e03ab011a627</data>
+      <data key="d11">4d999d7744b04a998475f8f8531589f0</data>
+      <data key="d12">36</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VATICAN CITY&quot;" target="&quot;VATICAN HILL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Vatican City is located on Vatican Hill, which provides its geographic context."</data>
+      <data key="d10">2cce15f56c4b4220eb15dc8e06c7e9a8</data>
+      <data key="d11">9a6f414210e14841a5b0e661aedc898d</data>
+      <data key="d12">37</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VATICAN CITY&quot;" target="&quot;ETRUSCAN SETTLEMENT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The name 'Vatican' is derived from the Etruscan settlement, Vatica or Vaticum, which was located in the general area of the Romans' Vatican territory."</data>
+      <data key="d10">2cce15f56c4b4220eb15dc8e06c7e9a8</data>
+      <data key="d11">db541b7260974db8bac94e953009f60e</data>
+      <data key="d12">38</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VATICAN CITY&quot;" target="&quot;LATERAN TREATY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Lateran Treaty established the modern city-state of Vatican City on 11 February 1929."</data>
+      <data key="d10">2cce15f56c4b4220eb15dc8e06c7e9a8</data>
+      <data key="d11">f2ff8044718648e18acef16dd9a65436</data>
+      <data key="d12">39</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARCHDIOCESE OF ESZTERGOM-BUDAPEST&quot;" target="&quot;PRIMATIAL BASILICA OF THE BLESSED VIRGIN MARY ASSUMED INTO HEAVEN AND ST ADALBERT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Primatial Basilica of the Blessed Virgin Mary Assumed Into Heaven and St Adalbert is the mother church of the Archdiocese of Esztergom-Budapest."</data>
+      <data key="d10">4a89093ebba2f61be1823336371d3eab</data>
+      <data key="d11">00d785e7d76b47ec81b508e768d40584</data>
+      <data key="d12">40</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CATHOLIC CHURCH IN HUNGARY&quot;" target="&quot;PRIMATIAL BASILICA OF THE BLESSED VIRGIN MARY ASSUMED INTO HEAVEN AND ST ADALBERT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Catholic Church in Hungary has its seat at the Primatial Basilica of the Blessed Virgin Mary Assumed Into Heaven and St Adalbert."</data>
+      <data key="d10">4a89093ebba2f61be1823336371d3eab</data>
+      <data key="d11">87915637da3e474c9349bd0ae604bd95</data>
+      <data key="d12">41</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ESZTERGOM&quot;" target="&quot;PRIMATIAL BASILICA OF THE BLESSED VIRGIN MARY ASSUMED INTO HEAVEN AND ST ADALBERT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Primatial Basilica of the Blessed Virgin Mary Assumed Into Heaven and St Adalbert is located in Esztergom."</data>
+      <data key="d10">4a89093ebba2f61be1823336371d3eab</data>
+      <data key="d11">8f1eba29f39e411188200bf0d14628ec</data>
+      <data key="d12">42</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ESZTERGOM&quot;" target="&quot;HUNGARY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Esztergom is a location within Hungary."</data>
+      <data key="d10">4a89093ebba2f61be1823336371d3eab</data>
+      <data key="d11">7282c73622b8408e97289d959faff483</data>
+      <data key="d12">43</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LUCERNE&quot;" target="&quot;THE CHURCH OF ST. LEODEGAR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Church of St. Leodegar is located in the city of Lucerne."</data>
+      <data key="d10">39c28d99ed2f4522dc2b66cadd51b760</data>
+      <data key="d11">3deb220d31f74103aa44870a36a63220</data>
+      <data key="d12">44</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LUCERNE&quot;" target="&quot;SWITZERLAND&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lucerne is a city in Switzerland."</data>
+      <data key="d10">39c28d99ed2f4522dc2b66cadd51b760</data>
+      <data key="d11">af7a1584dd15492cb9a4940e285f57fc</data>
+      <data key="d12">45</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;THIRTY YEARS WAR&quot;" target="&quot;THE CHURCH OF ST. LEODEGAR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Church of St. Leodegar was built during the Thirty Years War."</data>
+      <data key="d10">39c28d99ed2f4522dc2b66cadd51b760</data>
+      <data key="d11">6e8d9029ce4e4ea182367173ab2c7bbf</data>
+      <data key="d12">46</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ROMAN CATHOLIC DIOCESE OF LAOAG&quot;" target="&quot;BACARRA CHURCH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Bacarra Church is under the jurisdiction of the Roman Catholic Diocese of Laoag."</data>
+      <data key="d10">c9cebd1aabb87e7bc0445cba331bef4d</data>
+      <data key="d11">cbf232211e7d4eb6abdbe182f71c2cf0</data>
+      <data key="d12">47</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AUGUSTINIANS&quot;" target="&quot;BACARRA CHURCH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Augustinians founded the Bacarra Church."</data>
+      <data key="d10">c9cebd1aabb87e7bc0445cba331bef4d</data>
+      <data key="d11">bb0cff774a4440b289cc6f3b929fe13c</data>
+      <data key="d12">48</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ST. ANDREW&quot;" target="&quot;BACARRA CHURCH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Bacarra Church is dedicated to St. Andrew."</data>
+      <data key="d10">c9cebd1aabb87e7bc0445cba331bef4d</data>
+      <data key="d11">ce55841ebfdd47008bab8c258f10372e</data>
+      <data key="d12">49</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BACARRA&quot;" target="&quot;BACARRA CHURCH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Bacarra Church is located in the municipality of Bacarra."</data>
+      <data key="d10">c9cebd1aabb87e7bc0445cba331bef4d</data>
+      <data key="d11">6090e736374d45fd84f0e4610a314f8f</data>
+      <data key="d12">50</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CANADIAN MARTYRS&quot;" target="&quot;THE MARTYRS' SHRINE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Martyrs' Shrine is consecrated to the memory of the Canadian Martyrs."</data>
+      <data key="d10">5295ccb27fd197dfdc0fbb15d03a2d09</data>
+      <data key="d11">0e8d921ccd8d4a8594b65b7fd19f7120</data>
+      <data key="d12">51</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CANADIAN MARTYRS&quot;" target="&quot;SAINTE-MARIE AMONG THE HURONS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Canadian Martyrs were from the mission of Sainte-Marie among the Hurons."</data>
+      <data key="d10">5295ccb27fd197dfdc0fbb15d03a2d09</data>
+      <data key="d11">59c726a8792d443e84ab052cb7942b4a</data>
+      <data key="d12">52</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MIDLAND&quot;" target="&quot;THE MARTYRS' SHRINE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Martyrs' Shrine is located in Midland, Ontario, Canada."</data>
+      <data key="d10">5295ccb27fd197dfdc0fbb15d03a2d09</data>
+      <data key="d11">4f2c665decf242b0bfcaf7350b0e02ed</data>
+      <data key="d12">53</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ST JOHN, APOSTLE AND EVANGELIST&quot;" target="&quot;THE BASILICA CATHEDRAL OF LIMA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Basilica Cathedral of Lima is dedicated to St John, Apostle and Evangelist."</data>
+      <data key="d10">37b382cf44096666965807b601a371cc</data>
+      <data key="d11">66cdf168f36d4a57a505028c97dc06e0</data>
+      <data key="d12">54</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LIMA&quot;" target="&quot;THE BASILICA CATHEDRAL OF LIMA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Basilica Cathedral of Lima is located in the city of Lima, Peru."</data>
+      <data key="d10">37b382cf44096666965807b601a371cc</data>
+      <data key="d11">38f51478f41f48db9bee570859b6f43e</data>
+      <data key="d12">55</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PERU&quot;" target="&quot;THE BASILICA CATHEDRAL OF LIMA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Basilica Cathedral of Lima is located in the country of Peru."</data>
+      <data key="d10">37b382cf44096666965807b601a371cc</data>
+      <data key="d11">896d2a51e8de47de85ba8ced108c3d53</data>
+      <data key="d12">56</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ROMAN CATHOLIC DIOCESE OF ERFURT&quot;" target="&quot;ERFURT CATHEDRAL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Erfurt Cathedral serves as the episcopal seat of the Roman Catholic Diocese of Erfurt."</data>
+      <data key="d10">552c800a36afa07aba3047d62cb58525</data>
+      <data key="d11">14555b518e954637b83aa762dc03164e</data>
+      <data key="d12">57</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ERFURT&quot;" target="&quot;ERFURT CATHEDRAL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Erfurt Cathedral is located in the city of Erfurt, central Germany."</data>
+      <data key="d10">552c800a36afa07aba3047d62cb58525</data>
+      <data key="d11">b1f6164116d44fe8b8f135d7f65b9e58</data>
+      <data key="d12">58</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;EMPEROR CALIGULA&quot;" target="&quot;VATICAN OBELISK&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Vatican Obelisk was erected on the orders of Emperor Caligula in 37 A.D."</data>
+      <data key="d10">64bdf3d601e35d86bf0485673defd4dd</data>
+      <data key="d11">c8b2408617804483b620e1a6691ac90d</data>
+      <data key="d12">59</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PETER&quot;" target="&quot;THE BASILICAS OF THE APOSTLES PETER AND PAUL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Peter is one of the apostles whose basilica is dedicated on 18 November."</data>
+      <data key="d10">676290cb733ccf4804e3799aa6b2dcd8</data>
+      <data key="d11">a5e0d1644eb547ba9a5c3211aac4631a</data>
+      <data key="d12">60</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PAUL&quot;" target="&quot;THE BASILICAS OF THE APOSTLES PETER AND PAUL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Paul is one of the apostles whose basilica is dedicated on 18 November."</data>
+      <data key="d10">676290cb733ccf4804e3799aa6b2dcd8</data>
+      <data key="d11">5a28b94bc63b44edb30c54748fd14f15</data>
+      <data key="d12">61</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DEDICATION OF THE BASILICAS OF THE APOSTLES PETER AND PAUL&quot;" target="&quot;THE CATHOLIC CHURCH&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Catholic Church celebrates the Dedication of the Basilicas of the Apostles Peter and Paul as a feast day."</data>
+      <data key="d10">676290cb733ccf4804e3799aa6b2dcd8</data>
+      <data key="d11">f97011b2a99d44648e18d517e1eae15c</data>
+      <data key="d12">62</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VALENCIA'S CATHEDRAL, OUR LADY OF THE FORSAKEN BASILICA&quot;" target="&quot;POPE BENEDICT XVI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Pope Benedict XVI performed a Mass at Valencia's Cathedral on 9 July 2006."</data>
+      <data key="d10">a4ff5c12c345d0ab8207ecbdc034ac15</data>
+      <data key="d11">35489ca6a63b47d6a8913cf333818bc1</data>
+      <data key="d12">63</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;EMPEROR VALERIAN&quot;" target="&quot;SANTO CALIZ (HOLY CHALICE)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Emperor Valerian supposedly brought the Santo Caliz to Valencia's Cathedral in the 3rd century."</data>
+      <data key="d10">a4ff5c12c345d0ab8207ecbdc034ac15</data>
+      <data key="d11">5d3344f45e654d2c808481672f2f08dd</data>
+      <data key="d12">64</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MARCELLO PIACENTINI&quot;" target="&quot;SACRO CUORE DI CRISTO RE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Marcello Piacentini designed Sacro Cuore di Cristo Re between the 1920s and 1930s."</data>
+      <data key="d10">d6734e4153a4d0804d3b64a4ab22789f</data>
+      <data key="d11">6fb57f83baec45c9b30490ee991f433f</data>
+      <data key="d12">65</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SAINT PETER&quot;" target="&quot;LEEDS MINSTER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Leeds Minster is dedicated to Saint Peter, indicating a significant connection between the two."</data>
+      <data key="d10">6a3a86477f6323bb0ffbab4c8f197c9c</data>
+      <data key="d11">68762e6f0d1c41cd857c6b964a8e76c3</data>
+      <data key="d12">66</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ENGLISH HERITAGE&quot;" target="&quot;LEEDS MINSTER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"English Heritage has designated Leeds Minster as a grade I listed building, showing their involvement with the church."</data>
+      <data key="d10">6a3a86477f6323bb0ffbab4c8f197c9c</data>
+      <data key="d11">70634e10a5e845aa8c6a32fe7e8eb2b2</data>
+      <data key="d12">67</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LEEDS&quot;" target="&quot;LEEDS MINSTER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Leeds Minster is located in Leeds, indicating a geographic connection between the two."</data>
+      <data key="d10">6a3a86477f6323bb0ffbab4c8f197c9c</data>
+      <data key="d11">04085f7cf46544b79597fc49286ff84d</data>
+      <data key="d12">68</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CONGREGATION OF THE BROTHERS OF ST. FRANCIS XAVIER&quot;" target="&quot;MALDEN CATHOLIC HIGH SCHOOL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Congregation of the Brothers of St. Francis Xavier founded Malden Catholic High School."</data>
+      <data key="d10">4c1503415531894ce5e89aaa9a41faf4</data>
+      <data key="d11">d203efdbfb2f4b2a899abfb31cf72e82</data>
+      <data key="d12">69</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;XAVERIAN BROTHERS SPONSORED SCHOOLS&quot;" target="&quot;MALDEN CATHOLIC HIGH SCHOOL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Malden Catholic High School is a member of the Xaverian Brothers Sponsored Schools."</data>
+      <data key="d10">4c1503415531894ce5e89aaa9a41faf4</data>
+      <data key="d11">6731a665561840c2898ce8c9788e4c88</data>
+      <data key="d12">70</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NATIONAL CATHOLIC EDUCATIONAL ASSOCIATION&quot;" target="&quot;MALDEN CATHOLIC HIGH SCHOOL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Malden Catholic High School is a member of the National Catholic Educational Association."</data>
+      <data key="d10">4c1503415531894ce5e89aaa9a41faf4</data>
+      <data key="d11">4026806fa92f4e849a59a7f5c9a45c79</data>
+      <data key="d12">71</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MALDEN&quot;" target="&quot;MALDEN CATHOLIC HIGH SCHOOL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Malden Catholic High School is located in Malden, Massachusetts."</data>
+      <data key="d10">4c1503415531894ce5e89aaa9a41faf4</data>
+      <data key="d11">68e0c60d2e8845d89d9d0ad397833648</data>
+      <data key="d12">72</data>
+      <data key="d13">0</data>
+    </edge>
+  </graph>
+</graphml>

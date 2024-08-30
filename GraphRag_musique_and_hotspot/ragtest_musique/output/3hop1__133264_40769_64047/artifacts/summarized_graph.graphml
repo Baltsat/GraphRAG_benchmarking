@@ -1,0 +1,843 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;PININFARINA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Pininfarina is a design company responsible for the styling changes of the Ferrari 575M Maranello."</data>
+      <data key="d2">afb87122fc63e3a373208bdec1dce8c7</data>
+    </node>
+    <node id="&quot;FERRARI 575M MARANELLO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Ferrari 575M Maranello is a grand tourer launched in 2002 and replaced by the 599 GTB in 2006."</data>
+      <data key="d2">afb87122fc63e3a373208bdec1dce8c7</data>
+    </node>
+    <node id="&quot;550 MARANELLO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 550 Maranello is a predecessor to the Ferrari 575M Maranello, featuring similar styling."</data>
+      <data key="d2">afb87122fc63e3a373208bdec1dce8c7</data>
+    </node>
+    <node id="&quot;ITALY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Italy is the country where Ferrari, an automobile manufacturer, is based."</data>
+      <data key="d2">afb87122fc63e3a373208bdec1dce8c7</data>
+    </node>
+    <node id="&quot;FERRARI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">afb87122fc63e3a373208bdec1dce8c7</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,10964a732b6fdcad018c8f176bd6a882,114920b0cb9e95e635f2584c7b433f2f,202f55adba72cc7b47b2d12fb2fb2cba,3d0246db1230d8f0d672269e2c89a9ff,40ee487910720f5e16e09903c666ad3f,4ac8dc43f12835af54f3deb1e72f1bc8,4cfc5494619c58706d96f3c80c2237f1,4e638e0a2a773c833a9705711df5998a,55b51bc9765dc40e913269c4c0e17ff5,574bd3fe58dd35877f70c1c32ee675c5,7f552881339c6bb14d02f36aff0b7c35,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,89f7bc27a327169b7a121165e642ff11,928f8074d01ce6ddcdac03ac1e595f53,afb87122fc63e3a373208bdec1dce8c7,d7592a190f6a77bf2e6673064640aeee,e1fad69e47cf9e94343b95c44116b415,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,10964a732b6fdcad018c8f176bd6a882,114920b0cb9e95e635f2584c7b433f2f,202f55adba72cc7b47b2d12fb2fb2cba,3d0246db1230d8f0d672269e2c89a9ff,40ee487910720f5e16e09903c666ad3f,4ac8dc43f12835af54f3deb1e72f1bc8,4cfc5494619c58706d96f3c80c2237f1,4e638e0a2a773c833a9705711df5998a,55b51bc9765dc40e913269c4c0e17ff5,574bd3fe58dd35877f70c1c32ee675c5,7f552881339c6bb14d02f36aff0b7c35,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,89f7bc27a327169b7a121165e642ff11,928f8074d01ce6ddcdac03ac1e595f53,afb87122fc63e3a373208bdec1dce8c7,d7592a190f6a77bf2e6673064640aeee,e1fad69e47cf9e94343b95c44116b415,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,10964a732b6fdcad018c8f176bd6a882,114920b0cb9e95e635f2584c7b433f2f,202f55adba72cc7b47b2d12fb2fb2cba,3d0246db1230d8f0d672269e2c89a9ff,40ee487910720f5e16e09903c666ad3f,4ac8dc43f12835af54f3deb1e72f1bc8,4cfc5494619c58706d96f3c80c2237f1,4e638e0a2a773c833a9705711df5998a,55b51bc9765dc40e913269c4c0e17ff5,574bd3fe58dd35877f70c1c32ee675c5,7f552881339c6bb14d02f36aff0b7c35,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,89f7bc27a327169b7a121165e642ff11,928f8074d01ce6ddcdac03ac1e595f53,afb87122fc63e3a373208bdec1dce8c7,d7592a190f6a77bf2e6673064640aeee,e1fad69e47cf9e94343b95c44116b415,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,10964a732b6fdcad018c8f176bd6a882,114920b0cb9e95e635f2584c7b433f2f,202f55adba72cc7b47b2d12fb2fb2cba,3d0246db1230d8f0d672269e2c89a9ff,40ee487910720f5e16e09903c666ad3f,4ac8dc43f12835af54f3deb1e72f1bc8,4cfc5494619c58706d96f3c80c2237f1,4e638e0a2a773c833a9705711df5998a,55b51bc9765dc40e913269c4c0e17ff5,574bd3fe58dd35877f70c1c32ee675c5,7f552881339c6bb14d02f36aff0b7c35,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,89f7bc27a327169b7a121165e642ff11,928f8074d01ce6ddcdac03ac1e595f53,afb87122fc63e3a373208bdec1dce8c7,d7592a190f6a77bf2e6673064640aeee,e1fad69e47cf9e94343b95c44116b415,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country where Tucson, Pima County, and Arizona are located. Additionally, it is implied that General Motors, the manufacturer of Pontiac Firebird Trans Am, is based in the United States.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,10964a732b6fdcad018c8f176bd6a882,114920b0cb9e95e635f2584c7b433f2f,202f55adba72cc7b47b2d12fb2fb2cba,3d0246db1230d8f0d672269e2c89a9ff,40ee487910720f5e16e09903c666ad3f,4ac8dc43f12835af54f3deb1e72f1bc8,4cfc5494619c58706d96f3c80c2237f1,4e638e0a2a773c833a9705711df5998a,55b51bc9765dc40e913269c4c0e17ff5,574bd3fe58dd35877f70c1c32ee675c5,7f552881339c6bb14d02f36aff0b7c35,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,89f7bc27a327169b7a121165e642ff11,928f8074d01ce6ddcdac03ac1e595f53,afb87122fc63e3a373208bdec1dce8c7,d7592a190f6a77bf2e6673064640aeee,e1fad69e47cf9e94343b95c44116b415,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,10964a732b6fdcad018c8f176bd6a882,114920b0cb9e95e635f2584c7b433f2f,202f55adba72cc7b47b2d12fb2fb2cba,3d0246db1230d8f0d672269e2c89a9ff,40ee487910720f5e16e09903c666ad3f,4ac8dc43f12835af54f3deb1e72f1bc8,4cfc5494619c58706d96f3c80c2237f1,4e638e0a2a773c833a9705711df5998a,55b51bc9765dc40e913269c4c0e17ff5,574bd3fe58dd35877f70c1c32ee675c5,7f552881339c6bb14d02f36aff0b7c35,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,89f7bc27a327169b7a121165e642ff11,928f8074d01ce6ddcdac03ac1e595f53,afb87122fc63e3a373208bdec1dce8c7,d7592a190f6a77bf2e6673064640aeee,e1fad69e47cf9e94343b95c44116b415,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,10964a732b6fdcad018c8f176bd6a882,114920b0cb9e95e635f2584c7b433f2f,202f55adba72cc7b47b2d12fb2fb2cba,3d0246db1230d8f0d672269e2c89a9ff,40ee487910720f5e16e09903c666ad3f,4ac8dc43f12835af54f3deb1e72f1bc8,4cfc5494619c58706d96f3c80c2237f1,4e638e0a2a773c833a9705711df5998a,55b51bc9765dc40e913269c4c0e17ff5,574bd3fe58dd35877f70c1c32ee675c5,7f552881339c6bb14d02f36aff0b7c35,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,89f7bc27a327169b7a121165e642ff11,928f8074d01ce6ddcdac03ac1e595f53,afb87122fc63e3a373208bdec1dce8c7,d7592a190f6a77bf2e6673064640aeee,e1fad69e47cf9e94343b95c44116b415,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,10964a732b6fdcad018c8f176bd6a882,114920b0cb9e95e635f2584c7b433f2f,202f55adba72cc7b47b2d12fb2fb2cba,3d0246db1230d8f0d672269e2c89a9ff,40ee487910720f5e16e09903c666ad3f,4ac8dc43f12835af54f3deb1e72f1bc8,4cfc5494619c58706d96f3c80c2237f1,4e638e0a2a773c833a9705711df5998a,55b51bc9765dc40e913269c4c0e17ff5,574bd3fe58dd35877f70c1c32ee675c5,7f552881339c6bb14d02f36aff0b7c35,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,89f7bc27a327169b7a121165e642ff11,928f8074d01ce6ddcdac03ac1e595f53,afb87122fc63e3a373208bdec1dce8c7,d7592a190f6a77bf2e6673064640aeee,e1fad69e47cf9e94343b95c44116b415,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,10964a732b6fdcad018c8f176bd6a882,114920b0cb9e95e635f2584c7b433f2f,202f55adba72cc7b47b2d12fb2fb2cba,3d0246db1230d8f0d672269e2c89a9ff,40ee487910720f5e16e09903c666ad3f,4ac8dc43f12835af54f3deb1e72f1bc8,4cfc5494619c58706d96f3c80c2237f1,4e638e0a2a773c833a9705711df5998a,55b51bc9765dc40e913269c4c0e17ff5,574bd3fe58dd35877f70c1c32ee675c5,7f552881339c6bb14d02f36aff0b7c35,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,89f7bc27a327169b7a121165e642ff11,928f8074d01ce6ddcdac03ac1e595f53,afb87122fc63e3a373208bdec1dce8c7,d7592a190f6a77bf2e6673064640aeee,e1fad69e47cf9e94343b95c44116b415,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,10964a732b6fdcad018c8f176bd6a882,114920b0cb9e95e635f2584c7b433f2f,202f55adba72cc7b47b2d12fb2fb2cba,3d0246db1230d8f0d672269e2c89a9ff,40ee487910720f5e16e09903c666ad3f,4ac8dc43f12835af54f3deb1e72f1bc8,4cfc5494619c58706d96f3c80c2237f1,4e638e0a2a773c833a9705711df5998a,55b51bc9765dc40e913269c4c0e17ff5,574bd3fe58dd35877f70c1c32ee675c5,7f552881339c6bb14d02f36aff0b7c35,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,89f7bc27a327169b7a121165e642ff11,928f8074d01ce6ddcdac03ac1e595f53,afb87122fc63e3a373208bdec1dce8c7,d7592a190f6a77bf2e6673064640aeee,e1fad69e47cf9e94343b95c44116b415,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;TOYOTA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Toyota is the parent company of Scion, which has been involved in the development of several concept cars, including the Scion Fuse and the bbX.</data>
+      <data key="d2">114920b0cb9e95e635f2584c7b433f2f,40ee487910720f5e16e09903c666ad3f,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;FIVE AXIS MODELS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Five Axis Models built the Scion Fuse in Huntington Beach, CA with assistance from MillenWorks."</data>
+      <data key="d2">40ee487910720f5e16e09903c666ad3f</data>
+    </node>
+    <node id="&quot;MILLENWORKS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"MillenWorks assisted Five Axis Models in building the Scion Fuse."</data>
+      <data key="d2">40ee487910720f5e16e09903c666ad3f</data>
+    </node>
+    <node id="&quot;HUNTINGTON BEACH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Huntington Beach is a location in CA where the Scion Fuse was built by Five Axis Models."</data>
+      <data key="d2">40ee487910720f5e16e09903c666ad3f</data>
+    </node>
+    <node id="&quot;NEW YORK INTERNATIONAL AUTO SHOW&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+The New York International Auto Show is an event that has hosted several notable debuts, including the introduction of the Scion Fuse in 2006 and the unveiling of the Scion bbX concept car in 2003.</data>
+      <data key="d2">114920b0cb9e95e635f2584c7b433f2f,40ee487910720f5e16e09903c666ad3f</data>
+    </node>
+    <node id="&quot;SCION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">114920b0cb9e95e635f2584c7b433f2f,40ee487910720f5e16e09903c666ad3f</data>
+    </node>
+    <node id="&quot;SCION FUSE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">40ee487910720f5e16e09903c666ad3f</data>
+    </node>
+    <node id="&quot;YAMAHA MOTOR COMPANY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Yamaha Motor Company is a manufacturer of motorcycles, including the Yamaha Royal Star Venture luxury touring motorcycle."</data>
+      <data key="d2">202f55adba72cc7b47b2d12fb2fb2cba</data>
+    </node>
+    <node id="&quot;YAMAHA ROYAL STAR VENTURE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">202f55adba72cc7b47b2d12fb2fb2cba</data>
+    </node>
+    <node id="&quot;MAGNA STEYR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Magna Steyr is a manufacturer that produces the Mercedes-Benz G-Class SUV in Austria.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">4cfc5494619c58706d96f3c80c2237f1,89f7bc27a327169b7a121165e642ff11</data>
+    </node>
+    <node id="&quot;STEYR-DAIMLER-PUCH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Steyr-Daimler-Puch is a former company that was involved in the production of the G-Class SUV.
+
+Note: The two descriptions provided are consistent with each other, and therefore, I have concatenated them into a single coherent summary.</data>
+      <data key="d2">4cfc5494619c58706d96f3c80c2237f1,89f7bc27a327169b7a121165e642ff11</data>
+    </node>
+    <node id="&quot;PUCH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Puch is a brand under which the G-Class, specifically the G-Class SUV, has been sold in certain markets.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">4cfc5494619c58706d96f3c80c2237f1,89f7bc27a327169b7a121165e642ff11</data>
+    </node>
+    <node id="&quot;DAIMLER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Daimler is a company that has produced the Mercedes-Benz G-Class SUV for 35 years, making it one of the longest-produced vehicles in its history.</data>
+      <data key="d2">4cfc5494619c58706d96f3c80c2237f1,89f7bc27a327169b7a121165e642ff11</data>
+    </node>
+    <node id="&quot;AUSTRIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Austria is the country where the Mercedes-Benz G-Class SUV is manufactured by Magna Steyr.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">4cfc5494619c58706d96f3c80c2237f1,89f7bc27a327169b7a121165e642ff11</data>
+    </node>
+    <node id="&quot;G-CLASS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The G-Class is a mid-size four-wheel drive luxury SUV that has been in production for 35 years, characterized by its boxy styling and body-on-frame construction.</data>
+      <data key="d2">4cfc5494619c58706d96f3c80c2237f1,89f7bc27a327169b7a121165e642ff11</data>
+    </node>
+    <node id="&quot;MERCEDES-BENZ&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4cfc5494619c58706d96f3c80c2237f1,89f7bc27a327169b7a121165e642ff11</data>
+    </node>
+    <node id="&quot;BRITISH MANUFACTURER BRISTOL AEROPLANE CO.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Bristol Aeroplane Co. is a British manufacturer that produced the Bristol 406 luxury car between 1958 and 1961."</data>
+      <data key="d2">842ef85bbb0945340ce6617045412ebe</data>
+    </node>
+    <node id="&quot;BRISTOL CARS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Bristol Cars is a car division that emerged from Bristol Aeroplane's car manufacturing activities."</data>
+      <data key="d2">842ef85bbb0945340ce6617045412ebe</data>
+    </node>
+    <node id="&quot;BRISTOL 406&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">842ef85bbb0945340ce6617045412ebe</data>
+    </node>
+    <node id="&quot;B.F. GOODRICH COMPANY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"B.F. Goodrich Company was a former name of The Goodrich Corporation, used from 1880 to the 1980s."</data>
+      <data key="d2">55b51bc9765dc40e913269c4c0e17ff5</data>
+    </node>
+    <node id="&quot;GOODRICH, TEW &amp; CO.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Goodrich, Tew &amp; Co. was the original company founded by Dr. Benjamin Franklin Goodrich in 1870."</data>
+      <data key="d2">55b51bc9765dc40e913269c4c0e17ff5</data>
+    </node>
+    <node id="&quot;BFGOODRICH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"BFGoodrich was a former name of The Goodrich Corporation, used from the 1980s to 2001."</data>
+      <data key="d2">55b51bc9765dc40e913269c4c0e17ff5</data>
+    </node>
+    <node id="&quot;DR. BENJAMIN FRANKLIN GOODRICH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dr. Benjamin Franklin Goodrich was the founder of Goodrich, Tew &amp; Co., which later became The Goodrich Corporation."</data>
+      <data key="d2">55b51bc9765dc40e913269c4c0e17ff5</data>
+    </node>
+    <node id="&quot;CHARLOTTE, NORTH CAROLINA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Charlotte, North Carolina is the location where The Goodrich Corporation was based."</data>
+      <data key="d2">55b51bc9765dc40e913269c4c0e17ff5</data>
+    </node>
+    <node id="&quot;AKRON, OHIO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Akron, Ohio is the location where Goodrich, Tew &amp; Co. was founded in 1870."</data>
+      <data key="d2">55b51bc9765dc40e913269c4c0e17ff5</data>
+    </node>
+    <node id="&quot;THE GOODRICH CORPORATION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">55b51bc9765dc40e913269c4c0e17ff5</data>
+    </node>
+    <node id="&quot;CORONA AUSTRALIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Corona Australis is a constellation where RX J1856.5&#8722;3754, a nearby neutron star, is located."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc</data>
+    </node>
+    <node id="&quot;KAWASAKI MULE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Kawasaki MULE is a type of UTV (Utility Task Vehicle) produced by Kawasaki Heavy Industries."</data>
+      <data key="d2">e1fad69e47cf9e94343b95c44116b415</data>
+    </node>
+    <node id="&quot;KAWASAKI MULE 3010 DIESEL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Kawasaki MULE 3010 Diesel is a specific model of the Kawasaki MULE, powered by a diesel engine."</data>
+      <data key="d2">e1fad69e47cf9e94343b95c44116b415</data>
+    </node>
+    <node id="&quot;ABB&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ABB was a company involved in the merger that created Adtranz, contributing its rail equipment manufacturing facilities."</data>
+      <data key="d2">928f8074d01ce6ddcdac03ac1e595f53</data>
+    </node>
+    <node id="&quot;DAIMLERCHRYSLER (NOW DAIMLER AG)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"DaimlerChrysler (now Daimler AG) bought ABB's shares and changed Adtranz's official name to 'DaimlerChrysler Rail Systems' in 1999."</data>
+      <data key="d2">928f8074d01ce6ddcdac03ac1e595f53</data>
+    </node>
+    <node id="&quot;BOMBARDIER TRANSPORTATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Bombardier Transportation acquired Adtranz in 2001, becoming the largest rail equipment manufacturer in the world."</data>
+      <data key="d2">928f8074d01ce6ddcdac03ac1e595f53</data>
+    </node>
+    <node id="&quot;ADTRANZ&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Adtranz was a company created in 1996 through the merger of Daimler-Benz's and ABB's rail equipment manufacturing facilities."</data>
+      <data key="d2">928f8074d01ce6ddcdac03ac1e595f53</data>
+    </node>
+    <node id="&quot;DAIMLER-BENZ&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">928f8074d01ce6ddcdac03ac1e595f53</data>
+    </node>
+    <node id="&quot;SCION XB&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Scion xB is a car model sold by Scion for two generations from 2003 to 2015, similar in design to the bbX concept car."</data>
+      <data key="d2">114920b0cb9e95e635f2584c7b433f2f</data>
+    </node>
+    <node id="&quot;BBX&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"bbX is a concept car revealed by Scion at the New York International Auto Show in 2003."</data>
+      <data key="d2">114920b0cb9e95e635f2584c7b433f2f</data>
+    </node>
+    <node id="&quot;SCION BBX&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">114920b0cb9e95e635f2584c7b433f2f</data>
+    </node>
+    <node id="&quot;HYUNDAI MOTOR GROUP&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Hyundai Motor Group is a South Korean vehicle manufacturer and parent company of Genesis Motors."</data>
+      <data key="d2">4e638e0a2a773c833a9705711df5998a</data>
+    </node>
+    <node id="&quot;HYUNDAI GENESIS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Hyundai Genesis was a plan for a new luxury sedan announced in 2004, which led to the creation of the Genesis brand."</data>
+      <data key="d2">4e638e0a2a773c833a9705711df5998a</data>
+    </node>
+    <node id="&quot;SOUTH KOREA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"South Korea is the country where Hyundai Motor Group is based."</data>
+      <data key="d2">4e638e0a2a773c833a9705711df5998a</data>
+    </node>
+    <node id="&quot;GENESIS MOTORS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4e638e0a2a773c833a9705711df5998a</data>
+    </node>
+    <node id="&quot;GENEVA MOTOR SHOW&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Geneva Motor Show is an event where the facelifted Lexus model was unveiled in March 2012."</data>
+      <data key="d2">4ac8dc43f12835af54f3deb1e72f1bc8</data>
+    </node>
+    <node id="&quot;LEXUS ENFORM&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Lexus Enform is a telematics system used in the new Lexus model, which includes features like Safety Connect SOS and Shazam tagging."</data>
+      <data key="d2">4ac8dc43f12835af54f3deb1e72f1bc8</data>
+    </node>
+    <node id="&quot;RX 350&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"RX 350 is a car model manufactured by Lexus, with sales starting worldwide in April 2012."</data>
+      <data key="d2">4ac8dc43f12835af54f3deb1e72f1bc8</data>
+    </node>
+    <node id="&quot;RX 450H&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"RX 450h is a car model manufactured by Lexus, with sales starting worldwide in April 2012."</data>
+      <data key="d2">4ac8dc43f12835af54f3deb1e72f1bc8</data>
+    </node>
+    <node id="&quot;F SPORT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"F Sport is a variant of the Lexus model, introduced with a unique sporty interior and features like a honeycomb grille and 8-speed automatic transmission."</data>
+      <data key="d2">4ac8dc43f12835af54f3deb1e72f1bc8</data>
+    </node>
+    <node id="&quot;LEXUS&quot;">
+      <data key="d0" />
+      <data key="d1">Here is a comprehensive summary:
+
+Lexus is the luxury division of Toyota, established to distinguish itself from its mass-market brand.</data>
+      <data key="d2">4ac8dc43f12835af54f3deb1e72f1bc8,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;CERAMICS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ceramics require high temperatures to undergo chemical and physical reactions, highlighting their material properties."</data>
+      <data key="d2">d7592a190f6a77bf2e6673064640aeee</data>
+    </node>
+    <node id="&quot;POTTERY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Pottery is a process that involves shaping, drying, and firing clay materials in a kiln to create a final product."</data>
+      <data key="d2">d7592a190f6a77bf2e6673064640aeee</data>
+    </node>
+    <node id="&quot;KILNS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d7592a190f6a77bf2e6673064640aeee</data>
+    </node>
+    <node id="&quot;CLAY MATERIALS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d7592a190f6a77bf2e6673064640aeee</data>
+    </node>
+    <node id="&quot;NISSAN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Nissan, formerly known as Datsun, is a Japanese automaker that introduced larger cars with added amenities, and established its luxury division, Infiniti."</data>
+      <data key="d2">e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;HONDA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Honda is a Japanese automaker that has been affected by the 1981 voluntary export restraints. As a result, it opened a US assembly plant and established its luxury division, Acura. Honda produces various vehicles through Acura, including the Acura MDX, a luxury crossover vehicle, and the Acura RL.</data>
+      <data key="d2">10964a732b6fdcad018c8f176bd6a882,88929a48e25d32771914103a677fe5c2,e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;ACURA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Acura is the luxury division of Honda, established to distinguish itself from its mass-market brand."</data>
+      <data key="d2">e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;INFINITI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Infiniti is the luxury division of Nissan, established to distinguish itself from its mass-market brand."</data>
+      <data key="d2">e9953f3e0560f4942d913a0acc292d3e</data>
+    </node>
+    <node id="&quot;PONTIAC FIREBIRD TRANS AM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Pontiac Firebird Trans Am is a car model produced by General Motors."</data>
+      <data key="d2">3d0246db1230d8f0d672269e2c89a9ff</data>
+    </node>
+    <node id="&quot;1969 -- 2002&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"1969 -- 2002 refers to the production period of the Pontiac Firebird Trans Am."</data>
+      <data key="d2">3d0246db1230d8f0d672269e2c89a9ff</data>
+    </node>
+    <node id="&quot;GENERAL MOTORS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3d0246db1230d8f0d672269e2c89a9ff</data>
+    </node>
+    <node id="&quot;JAPAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Japan is a country where the first generation of Honda MDX was imported."</data>
+      <data key="d2">88929a48e25d32771914103a677fe5c2</data>
+    </node>
+    <node id="&quot;AUSTRALIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Australia is a country where the first generation of Honda MDX was imported."</data>
+      <data key="d2">88929a48e25d32771914103a677fe5c2</data>
+    </node>
+    <node id="&quot;LEXUS RX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lexus RX is a luxury crossover vehicle that offers only two rows of seats and ranks as the best-selling luxury crossover."</data>
+      <data key="d2">88929a48e25d32771914103a677fe5c2</data>
+    </node>
+    <node id="&quot;ACURA MDX&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">88929a48e25d32771914103a677fe5c2</data>
+    </node>
+    <node id="&quot;LANDMARK MEDIA ENTERPRISES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Landmark Media Enterprises is the predecessor company of Dominion Enterprises, involved in the division of assets with Cox Enterprises."</data>
+      <data key="d2">7f552881339c6bb14d02f36aff0b7c35</data>
+    </node>
+    <node id="&quot;COX ENTERPRISES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Cox Enterprises is a shared owner of Trader Publishing and was involved in the division of assets with Landmark Media Enterprises."</data>
+      <data key="d2">7f552881339c6bb14d02f36aff0b7c35</data>
+    </node>
+    <node id="&quot;TRADER PUBLISHING&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Trader Publishing is the predecessor company of Dominion Enterprises, divided between Landmark Media Enterprises and Cox Enterprises."</data>
+      <data key="d2">7f552881339c6bb14d02f36aff0b7c35</data>
+    </node>
+    <node id="&quot;COSTAR GROUP&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"CoStar Group acquired ForRent.com from Dominion Enterprises in 2017 for $350 million in cash and $35 million worth of stock."</data>
+      <data key="d2">7f552881339c6bb14d02f36aff0b7c35</data>
+    </node>
+    <node id="&quot;DOMINION DOMAINS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Dominion Domains is a division of Dominion Enterprises, launched a new website servicing the domain name industry in May 2017."</data>
+      <data key="d2">7f552881339c6bb14d02f36aff0b7c35</data>
+    </node>
+    <node id="&quot;NORFOLK, VIRGINIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Norfolk, Virginia is the location where Dominion Enterprises is based."</data>
+      <data key="d2">7f552881339c6bb14d02f36aff0b7c35</data>
+    </node>
+    <node id="&quot;DOMINION ENTERPRISES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7f552881339c6bb14d02f36aff0b7c35</data>
+    </node>
+    <node id="&quot;FORD MOTOR COMPANY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ford Motor Company is the parent company of The Lincoln Motor Company."</data>
+      <data key="d2">574bd3fe58dd35877f70c1c32ee675c5</data>
+    </node>
+    <node id="&quot;MERCURY GRAND MARQUIS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Mercury Grand Marquis is a related model to the Lincoln Town Car."</data>
+      <data key="d2">574bd3fe58dd35877f70c1c32ee675c5</data>
+    </node>
+    <node id="&quot;FORD CROWN VICTORIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ford Crown Victoria is a related model to the Lincoln Town Car."</data>
+      <data key="d2">574bd3fe58dd35877f70c1c32ee675c5</data>
+    </node>
+    <node id="&quot;LINCOLN CONTINENTAL (1980)&quot;">
+      <data key="d0">"MODEL"</data>
+      <data key="d1">"Lincoln Continental (1980) is the predecessor of the Lincoln Town Car."</data>
+      <data key="d2">574bd3fe58dd35877f70c1c32ee675c5</data>
+    </node>
+    <node id="&quot;LINCOLN MKS&quot;">
+      <data key="d0">"MODEL"</data>
+      <data key="d1">"Lincoln MKS is a full-size sedan and the successor of the Lincoln Town Car."</data>
+      <data key="d2">574bd3fe58dd35877f70c1c32ee675c5</data>
+    </node>
+    <node id="&quot;LINCOLN CONTINENTAL (2017)&quot;">
+      <data key="d0">"MODEL"</data>
+      <data key="d1">"Lincoln Continental (2017) is a successor of the Lincoln Town Car."</data>
+      <data key="d2">574bd3fe58dd35877f70c1c32ee675c5</data>
+    </node>
+    <node id="&quot;LINCOLN MOTOR COMPANY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">574bd3fe58dd35877f70c1c32ee675c5</data>
+    </node>
+    <node id="&quot;LINCOLN TOWN CAR&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">574bd3fe58dd35877f70c1c32ee675c5</data>
+    </node>
+    <node id="&quot;ACURA LEGEND&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Acura Legend is a predecessor to the Acura RL and was also manufactured by Acura division of Honda."</data>
+      <data key="d2">10964a732b6fdcad018c8f176bd6a882</data>
+    </node>
+    <node id="&quot;ACURA RLX&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Acura RLX is the successor to the Acura RL, manufactured by Acura division of Honda."</data>
+      <data key="d2">10964a732b6fdcad018c8f176bd6a882</data>
+    </node>
+    <node id="&quot;HONDA LEGEND&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Honda Legend is a Japanese domestic market car that was adapted into the Acura Legend, RL and RLX lines."</data>
+      <data key="d2">10964a732b6fdcad018c8f176bd6a882</data>
+    </node>
+    <node id="&quot;ACURA RL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">10964a732b6fdcad018c8f176bd6a882</data>
+    </node>
+    <edge source="&quot;PININFARINA&quot;" target="&quot;FERRARI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ferrari collaborated with Pininfarina for the design of the Ferrari 575M Maranello."</data>
+      <data key="d5">afb87122fc63e3a373208bdec1dce8c7</data>
+    </edge>
+    <edge source="&quot;FERRARI 575M MARANELLO&quot;" target="&quot;550 MARANELLO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Ferrari 575M Maranello is an updated version of the 550 Maranello."</data>
+      <data key="d5">afb87122fc63e3a373208bdec1dce8c7</data>
+    </edge>
+    <edge source="&quot;ITALY&quot;" target="&quot;FERRARI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ferrari is an Italian automobile manufacturer, indicating its country of origin."</data>
+      <data key="d5">afb87122fc63e3a373208bdec1dce8c7</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">0866838641c5444f6c92a2ce9e344afc,10964a732b6fdcad018c8f176bd6a882,114920b0cb9e95e635f2584c7b433f2f,202f55adba72cc7b47b2d12fb2fb2cba,3d0246db1230d8f0d672269e2c89a9ff,40ee487910720f5e16e09903c666ad3f,4ac8dc43f12835af54f3deb1e72f1bc8,4cfc5494619c58706d96f3c80c2237f1,4e638e0a2a773c833a9705711df5998a,55b51bc9765dc40e913269c4c0e17ff5,574bd3fe58dd35877f70c1c32ee675c5,7f552881339c6bb14d02f36aff0b7c35,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,89f7bc27a327169b7a121165e642ff11,928f8074d01ce6ddcdac03ac1e595f53,afb87122fc63e3a373208bdec1dce8c7,d7592a190f6a77bf2e6673064640aeee,e1fad69e47cf9e94343b95c44116b415,e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">0866838641c5444f6c92a2ce9e344afc,10964a732b6fdcad018c8f176bd6a882,114920b0cb9e95e635f2584c7b433f2f,202f55adba72cc7b47b2d12fb2fb2cba,3d0246db1230d8f0d672269e2c89a9ff,40ee487910720f5e16e09903c666ad3f,4ac8dc43f12835af54f3deb1e72f1bc8,4cfc5494619c58706d96f3c80c2237f1,4e638e0a2a773c833a9705711df5998a,55b51bc9765dc40e913269c4c0e17ff5,574bd3fe58dd35877f70c1c32ee675c5,7f552881339c6bb14d02f36aff0b7c35,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,89f7bc27a327169b7a121165e642ff11,928f8074d01ce6ddcdac03ac1e595f53,afb87122fc63e3a373208bdec1dce8c7,d7592a190f6a77bf2e6673064640aeee,e1fad69e47cf9e94343b95c44116b415,e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">0866838641c5444f6c92a2ce9e344afc,10964a732b6fdcad018c8f176bd6a882,114920b0cb9e95e635f2584c7b433f2f,202f55adba72cc7b47b2d12fb2fb2cba,3d0246db1230d8f0d672269e2c89a9ff,40ee487910720f5e16e09903c666ad3f,4ac8dc43f12835af54f3deb1e72f1bc8,4cfc5494619c58706d96f3c80c2237f1,4e638e0a2a773c833a9705711df5998a,55b51bc9765dc40e913269c4c0e17ff5,574bd3fe58dd35877f70c1c32ee675c5,7f552881339c6bb14d02f36aff0b7c35,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,89f7bc27a327169b7a121165e642ff11,928f8074d01ce6ddcdac03ac1e595f53,afb87122fc63e3a373208bdec1dce8c7,d7592a190f6a77bf2e6673064640aeee,e1fad69e47cf9e94343b95c44116b415,e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">0866838641c5444f6c92a2ce9e344afc,10964a732b6fdcad018c8f176bd6a882,114920b0cb9e95e635f2584c7b433f2f,202f55adba72cc7b47b2d12fb2fb2cba,3d0246db1230d8f0d672269e2c89a9ff,40ee487910720f5e16e09903c666ad3f,4ac8dc43f12835af54f3deb1e72f1bc8,4cfc5494619c58706d96f3c80c2237f1,4e638e0a2a773c833a9705711df5998a,55b51bc9765dc40e913269c4c0e17ff5,574bd3fe58dd35877f70c1c32ee675c5,7f552881339c6bb14d02f36aff0b7c35,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,89f7bc27a327169b7a121165e642ff11,928f8074d01ce6ddcdac03ac1e595f53,afb87122fc63e3a373208bdec1dce8c7,d7592a190f6a77bf2e6673064640aeee,e1fad69e47cf9e94343b95c44116b415,e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">0866838641c5444f6c92a2ce9e344afc,10964a732b6fdcad018c8f176bd6a882,114920b0cb9e95e635f2584c7b433f2f,202f55adba72cc7b47b2d12fb2fb2cba,3d0246db1230d8f0d672269e2c89a9ff,40ee487910720f5e16e09903c666ad3f,4ac8dc43f12835af54f3deb1e72f1bc8,4cfc5494619c58706d96f3c80c2237f1,4e638e0a2a773c833a9705711df5998a,55b51bc9765dc40e913269c4c0e17ff5,574bd3fe58dd35877f70c1c32ee675c5,7f552881339c6bb14d02f36aff0b7c35,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,89f7bc27a327169b7a121165e642ff11,928f8074d01ce6ddcdac03ac1e595f53,afb87122fc63e3a373208bdec1dce8c7,d7592a190f6a77bf2e6673064640aeee,e1fad69e47cf9e94343b95c44116b415,e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">0866838641c5444f6c92a2ce9e344afc,10964a732b6fdcad018c8f176bd6a882,114920b0cb9e95e635f2584c7b433f2f,202f55adba72cc7b47b2d12fb2fb2cba,3d0246db1230d8f0d672269e2c89a9ff,40ee487910720f5e16e09903c666ad3f,4ac8dc43f12835af54f3deb1e72f1bc8,4cfc5494619c58706d96f3c80c2237f1,4e638e0a2a773c833a9705711df5998a,55b51bc9765dc40e913269c4c0e17ff5,574bd3fe58dd35877f70c1c32ee675c5,7f552881339c6bb14d02f36aff0b7c35,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,89f7bc27a327169b7a121165e642ff11,928f8074d01ce6ddcdac03ac1e595f53,afb87122fc63e3a373208bdec1dce8c7,d7592a190f6a77bf2e6673064640aeee,e1fad69e47cf9e94343b95c44116b415,e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;GENERAL MOTORS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The United States is implied as the location where General Motors, the manufacturer of Pontiac Firebird Trans Am, is based."</data>
+      <data key="d5">3d0246db1230d8f0d672269e2c89a9ff</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">0866838641c5444f6c92a2ce9e344afc,10964a732b6fdcad018c8f176bd6a882,114920b0cb9e95e635f2584c7b433f2f,202f55adba72cc7b47b2d12fb2fb2cba,3d0246db1230d8f0d672269e2c89a9ff,40ee487910720f5e16e09903c666ad3f,4ac8dc43f12835af54f3deb1e72f1bc8,4cfc5494619c58706d96f3c80c2237f1,4e638e0a2a773c833a9705711df5998a,55b51bc9765dc40e913269c4c0e17ff5,574bd3fe58dd35877f70c1c32ee675c5,7f552881339c6bb14d02f36aff0b7c35,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,89f7bc27a327169b7a121165e642ff11,928f8074d01ce6ddcdac03ac1e595f53,afb87122fc63e3a373208bdec1dce8c7,d7592a190f6a77bf2e6673064640aeee,e1fad69e47cf9e94343b95c44116b415,e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">0866838641c5444f6c92a2ce9e344afc,10964a732b6fdcad018c8f176bd6a882,114920b0cb9e95e635f2584c7b433f2f,202f55adba72cc7b47b2d12fb2fb2cba,3d0246db1230d8f0d672269e2c89a9ff,40ee487910720f5e16e09903c666ad3f,4ac8dc43f12835af54f3deb1e72f1bc8,4cfc5494619c58706d96f3c80c2237f1,4e638e0a2a773c833a9705711df5998a,55b51bc9765dc40e913269c4c0e17ff5,574bd3fe58dd35877f70c1c32ee675c5,7f552881339c6bb14d02f36aff0b7c35,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,89f7bc27a327169b7a121165e642ff11,928f8074d01ce6ddcdac03ac1e595f53,afb87122fc63e3a373208bdec1dce8c7,d7592a190f6a77bf2e6673064640aeee,e1fad69e47cf9e94343b95c44116b415,e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">0866838641c5444f6c92a2ce9e344afc,10964a732b6fdcad018c8f176bd6a882,114920b0cb9e95e635f2584c7b433f2f,202f55adba72cc7b47b2d12fb2fb2cba,3d0246db1230d8f0d672269e2c89a9ff,40ee487910720f5e16e09903c666ad3f,4ac8dc43f12835af54f3deb1e72f1bc8,4cfc5494619c58706d96f3c80c2237f1,4e638e0a2a773c833a9705711df5998a,55b51bc9765dc40e913269c4c0e17ff5,574bd3fe58dd35877f70c1c32ee675c5,7f552881339c6bb14d02f36aff0b7c35,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,89f7bc27a327169b7a121165e642ff11,928f8074d01ce6ddcdac03ac1e595f53,afb87122fc63e3a373208bdec1dce8c7,d7592a190f6a77bf2e6673064640aeee,e1fad69e47cf9e94343b95c44116b415,e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;TOYOTA&quot;" target="&quot;SCION&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Here is the comprehensive summary:
+
+Toyota and Scion are two entities with a parent-subsidiary relationship, where Scion is a subsidiary or daughter company of Toyota.</data>
+      <data key="d5">114920b0cb9e95e635f2584c7b433f2f,40ee487910720f5e16e09903c666ad3f</data>
+    </edge>
+    <edge source="&quot;TOYOTA&quot;" target="&quot;LEXUS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Toyota established Lexus as its luxury division."</data>
+      <data key="d5">e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;FIVE AXIS MODELS&quot;" target="&quot;HUNTINGTON BEACH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Five Axis Models built the Scion Fuse in Huntington Beach, CA, indicating a location-based relationship."</data>
+      <data key="d5">40ee487910720f5e16e09903c666ad3f</data>
+    </edge>
+    <edge source="&quot;NEW YORK INTERNATIONAL AUTO SHOW&quot;" target="&quot;SCION FUSE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Scion Fuse was first introduced at the New York International Auto Show, indicating an event-based relationship."</data>
+      <data key="d5">40ee487910720f5e16e09903c666ad3f</data>
+    </edge>
+    <edge source="&quot;NEW YORK INTERNATIONAL AUTO SHOW&quot;" target="&quot;SCION BBX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Scion bbX concept car was first shown at the New York International Auto Show in 2003."</data>
+      <data key="d5">114920b0cb9e95e635f2584c7b433f2f</data>
+    </edge>
+    <edge source="&quot;YAMAHA MOTOR COMPANY&quot;" target="&quot;YAMAHA ROYAL STAR VENTURE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Yamaha Royal Star Venture is built by the Yamaha Motor Company."</data>
+      <data key="d5">202f55adba72cc7b47b2d12fb2fb2cba</data>
+    </edge>
+    <edge source="&quot;MAGNA STEYR&quot;" target="&quot;G-CLASS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Magna Steyr manufactures the G-Class SUV in Austria."</data>
+      <data key="d5">89f7bc27a327169b7a121165e642ff11</data>
+    </edge>
+    <edge source="&quot;MAGNA STEYR&quot;" target="&quot;MERCEDES-BENZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mercedes-Benz contracts Magna Steyr to manufacture the G-Class in Austria."</data>
+      <data key="d5">4cfc5494619c58706d96f3c80c2237f1</data>
+    </edge>
+    <edge source="&quot;MAGNA STEYR&quot;" target="&quot;AUSTRIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Magna Steyr manufactures the G-Class in Austria."</data>
+      <data key="d5">4cfc5494619c58706d96f3c80c2237f1</data>
+    </edge>
+    <edge source="&quot;PUCH&quot;" target="&quot;G-CLASS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The G-Class SUV has been sold under the Puch brand name in certain markets."</data>
+      <data key="d5">89f7bc27a327169b7a121165e642ff11</data>
+    </edge>
+    <edge source="&quot;G-CLASS&quot;" target="&quot;MERCEDES-BENZ&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Here is the comprehensive summary:
+
+The Mercedes-Benz G-Class is a luxury SUV model produced and sold by Mercedes-Benz. It is one of the company's longest-produced vehicles, with a rich history that has made it a staple in the Mercedes-Benz lineup.
+
+Let me know if you need any further assistance!</data>
+      <data key="d5">4cfc5494619c58706d96f3c80c2237f1,89f7bc27a327169b7a121165e642ff11</data>
+    </edge>
+    <edge source="&quot;BRITISH MANUFACTURER BRISTOL AEROPLANE CO.&quot;" target="&quot;BRISTOL 406&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The British manufacturer Bristol Aeroplane Co. produced the Bristol 406 luxury car between 1958 and 1961."</data>
+      <data key="d5">842ef85bbb0945340ce6617045412ebe</data>
+    </edge>
+    <edge source="&quot;BRITISH MANUFACTURER BRISTOL AEROPLANE CO.&quot;" target="&quot;BRISTOL CARS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bristol Aeroplane's car division later became Bristol Cars."</data>
+      <data key="d5">842ef85bbb0945340ce6617045412ebe</data>
+    </edge>
+    <edge source="&quot;GOODRICH, TEW &amp; CO.&quot;" target="&quot;AKRON, OHIO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Goodrich, Tew &amp; Co. was founded in Akron, Ohio in 1870."</data>
+      <data key="d5">55b51bc9765dc40e913269c4c0e17ff5</data>
+    </edge>
+    <edge source="&quot;DR. BENJAMIN FRANKLIN GOODRICH&quot;" target="&quot;THE GOODRICH CORPORATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dr. Benjamin Franklin Goodrich founded The Goodrich Corporation, originally as Goodrich, Tew &amp; Co."</data>
+      <data key="d5">55b51bc9765dc40e913269c4c0e17ff5</data>
+    </edge>
+    <edge source="&quot;CHARLOTTE, NORTH CAROLINA&quot;" target="&quot;THE GOODRICH CORPORATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Goodrich Corporation was based in Charlotte, North Carolina."</data>
+      <data key="d5">55b51bc9765dc40e913269c4c0e17ff5</data>
+    </edge>
+    <edge source="&quot;ABB&quot;" target="&quot;ADTRANZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"ABB contributed its rail equipment manufacturing facilities to the creation of Adtranz."</data>
+      <data key="d5">928f8074d01ce6ddcdac03ac1e595f53</data>
+    </edge>
+    <edge source="&quot;DAIMLERCHRYSLER (NOW DAIMLER AG)&quot;" target="&quot;ADTRANZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"DaimlerChrysler (now Daimler AG) bought ABB's shares and changed Adtranz's official name to 'DaimlerChrysler Rail Systems' in 1999."</data>
+      <data key="d5">928f8074d01ce6ddcdac03ac1e595f53</data>
+    </edge>
+    <edge source="&quot;BOMBARDIER TRANSPORTATION&quot;" target="&quot;ADTRANZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bombardier Transportation acquired Adtranz in 2001, becoming the largest rail equipment manufacturer in the world."</data>
+      <data key="d5">928f8074d01ce6ddcdac03ac1e595f53</data>
+    </edge>
+    <edge source="&quot;ADTRANZ&quot;" target="&quot;DAIMLER-BENZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Daimler-Benz contributed its rail equipment manufacturing facilities to the creation of Adtranz."</data>
+      <data key="d5">928f8074d01ce6ddcdac03ac1e595f53</data>
+    </edge>
+    <edge source="&quot;SCION XB&quot;" target="&quot;BBX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The design of the Scion xB is similar to that of the bbX concept car."</data>
+      <data key="d5">114920b0cb9e95e635f2584c7b433f2f</data>
+    </edge>
+    <edge source="&quot;HYUNDAI MOTOR GROUP&quot;" target="&quot;GENESIS MOTORS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Genesis Motors is a division of Hyundai Motor Group."</data>
+      <data key="d5">4e638e0a2a773c833a9705711df5998a</data>
+    </edge>
+    <edge source="&quot;HYUNDAI MOTOR GROUP&quot;" target="&quot;SOUTH KOREA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hyundai Motor Group is based in South Korea."</data>
+      <data key="d5">4e638e0a2a773c833a9705711df5998a</data>
+    </edge>
+    <edge source="&quot;HYUNDAI GENESIS&quot;" target="&quot;GENESIS MOTORS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The plan for Hyundai Genesis led to the creation of the Genesis Motors brand."</data>
+      <data key="d5">4e638e0a2a773c833a9705711df5998a</data>
+    </edge>
+    <edge source="&quot;GENEVA MOTOR SHOW&quot;" target="&quot;LEXUS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The facelifted Lexus model was unveiled at the Geneva Motor Show."</data>
+      <data key="d5">4ac8dc43f12835af54f3deb1e72f1bc8</data>
+    </edge>
+    <edge source="&quot;LEXUS ENFORM&quot;" target="&quot;RX 350&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The RX 350 model uses the Lexus Enform telematics system."</data>
+      <data key="d5">4ac8dc43f12835af54f3deb1e72f1bc8</data>
+    </edge>
+    <edge source="&quot;LEXUS ENFORM&quot;" target="&quot;RX 450H&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The RX 450h model uses the Lexus Enform telematics system."</data>
+      <data key="d5">4ac8dc43f12835af54f3deb1e72f1bc8</data>
+    </edge>
+    <edge source="&quot;RX 350&quot;" target="&quot;F SPORT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The F Sport variant is based on the RX 350 model."</data>
+      <data key="d5">4ac8dc43f12835af54f3deb1e72f1bc8</data>
+    </edge>
+    <edge source="&quot;RX 450H&quot;" target="&quot;F SPORT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The F Sport variant is also available for the RX 450h model."</data>
+      <data key="d5">4ac8dc43f12835af54f3deb1e72f1bc8</data>
+    </edge>
+    <edge source="&quot;CERAMICS&quot;" target="&quot;KILNS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Kilns are used to manufacture ceramics, highlighting their role in the production process."</data>
+      <data key="d5">d7592a190f6a77bf2e6673064640aeee</data>
+    </edge>
+    <edge source="&quot;POTTERY&quot;" target="&quot;CLAY MATERIALS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Pottery involves shaping and firing clay materials to create a final product, indicating a direct connection between the two."</data>
+      <data key="d5">d7592a190f6a77bf2e6673064640aeee</data>
+    </edge>
+    <edge source="&quot;NISSAN&quot;" target="&quot;INFINITI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nissan established Infiniti as its luxury division."</data>
+      <data key="d5">e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;HONDA&quot;" target="&quot;ACURA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Honda established Acura as its luxury division."</data>
+      <data key="d5">e9953f3e0560f4942d913a0acc292d3e</data>
+    </edge>
+    <edge source="&quot;HONDA&quot;" target="&quot;ACURA MDX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura MDX is produced by Honda under its Acura luxury nameplate."</data>
+      <data key="d5">88929a48e25d32771914103a677fe5c2</data>
+    </edge>
+    <edge source="&quot;HONDA&quot;" target="&quot;JAPAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Honda imports the first generation of MDX to Japan."</data>
+      <data key="d5">88929a48e25d32771914103a677fe5c2</data>
+    </edge>
+    <edge source="&quot;HONDA&quot;" target="&quot;AUSTRALIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Honda imports the first generation of MDX to Australia."</data>
+      <data key="d5">88929a48e25d32771914103a677fe5c2</data>
+    </edge>
+    <edge source="&quot;HONDA&quot;" target="&quot;ACURA RL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura RL is manufactured by the Acura division of Honda."</data>
+      <data key="d5">10964a732b6fdcad018c8f176bd6a882</data>
+    </edge>
+    <edge source="&quot;PONTIAC FIREBIRD TRANS AM&quot;" target="&quot;GENERAL MOTORS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"General Motors is the manufacturer of the Pontiac Firebird Trans Am."</data>
+      <data key="d5">3d0246db1230d8f0d672269e2c89a9ff</data>
+    </edge>
+    <edge source="&quot;PONTIAC FIREBIRD TRANS AM&quot;" target="&quot;1969 -- 2002&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"1969 -- 2002 refers to the production period of the Pontiac Firebird Trans Am."</data>
+      <data key="d5">3d0246db1230d8f0d672269e2c89a9ff</data>
+    </edge>
+    <edge source="&quot;LEXUS RX&quot;" target="&quot;ACURA MDX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura MDX ranks as the second-best selling luxury crossover after the Lexus RX."</data>
+      <data key="d5">88929a48e25d32771914103a677fe5c2</data>
+    </edge>
+    <edge source="&quot;LANDMARK MEDIA ENTERPRISES&quot;" target="&quot;DOMINION ENTERPRISES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dominion Enterprises was established by Landmark Media Enterprises in September 2006."</data>
+      <data key="d5">7f552881339c6bb14d02f36aff0b7c35</data>
+    </edge>
+    <edge source="&quot;COX ENTERPRISES&quot;" target="&quot;DOMINION ENTERPRISES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dominion Enterprises was formed following a division of assets between Landmark Media Enterprises and Cox Enterprises."</data>
+      <data key="d5">7f552881339c6bb14d02f36aff0b7c35</data>
+    </edge>
+    <edge source="&quot;COSTAR GROUP&quot;" target="&quot;DOMINION ENTERPRISES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dominion Enterprises sold ForRent.com to CoStar Group in September 2017."</data>
+      <data key="d5">7f552881339c6bb14d02f36aff0b7c35</data>
+    </edge>
+    <edge source="&quot;DOMINION DOMAINS&quot;" target="&quot;DOMINION ENTERPRISES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dominion Domains is a division of Dominion Enterprises, launched a new website in May 2017."</data>
+      <data key="d5">7f552881339c6bb14d02f36aff0b7c35</data>
+    </edge>
+    <edge source="&quot;FORD MOTOR COMPANY&quot;" target="&quot;LINCOLN MOTOR COMPANY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Lincoln Motor Company is a subsidiary of Ford Motor Company."</data>
+      <data key="d5">574bd3fe58dd35877f70c1c32ee675c5</data>
+    </edge>
+    <edge source="&quot;LINCOLN CONTINENTAL (1980)&quot;" target="&quot;LINCOLN TOWN CAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Lincoln Town Car succeeded the Lincoln Continental (1980)."</data>
+      <data key="d5">574bd3fe58dd35877f70c1c32ee675c5</data>
+    </edge>
+    <edge source="&quot;LINCOLN MKS&quot;" target="&quot;LINCOLN TOWN CAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Lincoln MKS is a successor of the Lincoln Town Car."</data>
+      <data key="d5">574bd3fe58dd35877f70c1c32ee675c5</data>
+    </edge>
+    <edge source="&quot;LINCOLN CONTINENTAL (2017)&quot;" target="&quot;LINCOLN TOWN CAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Lincoln Continental (2017) is another successor of the Lincoln Town Car."</data>
+      <data key="d5">574bd3fe58dd35877f70c1c32ee675c5</data>
+    </edge>
+    <edge source="&quot;ACURA LEGEND&quot;" target="&quot;ACURA RL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura RL succeeded the Acura Legend."</data>
+      <data key="d5">10964a732b6fdcad018c8f176bd6a882</data>
+    </edge>
+    <edge source="&quot;ACURA RLX&quot;" target="&quot;ACURA RL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Acura RLX replaced the Acura RL in 2013."</data>
+      <data key="d5">10964a732b6fdcad018c8f176bd6a882</data>
+    </edge>
+  </graph>
+</graphml>

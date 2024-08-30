@@ -1,0 +1,1229 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;STAN LEE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Stan Lee is the writer who created the Spider-Man comic book series."</data>
+      <data key="d2">0a022b1b77888b928ec2de176a6d09a3</data>
+    </node>
+    <node id="&quot;STEVE DITKO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Steve Ditko is the artist who designed the Spider-Man comic book series."</data>
+      <data key="d2">0a022b1b77888b928ec2de176a6d09a3</data>
+    </node>
+    <node id="&quot;GRANTRAY-LAWRENCE ANIMATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Grantray-Lawrence Animation produced the first season of the Spider-Man animated TV series."</data>
+      <data key="d2">0a022b1b77888b928ec2de176a6d09a3</data>
+    </node>
+    <node id="&quot;KRANTZ FILMS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Krantz Films produced seasons two and three of the Spider-Man animated TV series in New York City."</data>
+      <data key="d2">0a022b1b77888b928ec2de176a6d09a3</data>
+    </node>
+    <node id="&quot;ABC TELEVISION NETWORK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The ABC television network aired the first two seasons of the Spider-Man animated TV series."</data>
+      <data key="d2">0a022b1b77888b928ec2de176a6d09a3</data>
+    </node>
+    <node id="&quot;PAUL SOLES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Paul Soles starred as Peter Parker (Spider-Man) in the animated TV series."</data>
+      <data key="d2">0a022b1b77888b928ec2de176a6d09a3</data>
+    </node>
+    <node id="&quot;NEW YORK CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New York City is the location where Krantz Films produced seasons two and three of the Spider-Man animated TV series."</data>
+      <data key="d2">0a022b1b77888b928ec2de176a6d09a3</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Canada was involved in the voice acting for the Spider-Man animated TV series."</data>
+      <data key="d2">0a022b1b77888b928ec2de176a6d09a3</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country where Tucson, Pima County, and Arizona are located. It is also the country where popular television shows such as American Dad! air on Fox and South Park aired on Comedy Central. Additionally, the United States was involved in the animation production of the Spider-Man animated TV series.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">00a81510f812fb0720ff567f9df1362b,0702ca5c8b44378b5127b36e12204a84,09fcae4a9626aaa3029b36da1286d827,0a022b1b77888b928ec2de176a6d09a3,0fb726730f665e6ff8f898516c39c6c2,2279c9d0f01017bf1d8525edfe9d1449,25f0e3fff4c316007e2172c04e0de3e5,72cdf5458c545a5388f1e92c4a597ed3,7c515267a34af9ceb20298bf7d3f2634,81a7373a1989122749915f4de46e3d6f,98cc2420c4043275807916add4fedc51,a74b6976b558c47c043476f2f35a2a66,b011dc47ac384f70cc5e4b295434fbbe,b94a07ed85598ae673160e8e1adafe87,c9099e719d6a96c6d9dd8aae3125b6c6,d5c48c1dda31a396c89f58c52b720389,e2735b0956b151ac215d6d329fd4fbf1,e85d673b9699747400924067ef35a602,eb2def0050fbca97436e8f73aaa28e34,fdab5098e81bada7f807ddc13ee15d94</data>
+      <data key="d3">"GEO"</data>
+    </node>
+    <node id="&quot;SPIDER-MAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0a022b1b77888b928ec2de176a6d09a3</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">00a81510f812fb0720ff567f9df1362b,0702ca5c8b44378b5127b36e12204a84,09fcae4a9626aaa3029b36da1286d827,0a022b1b77888b928ec2de176a6d09a3,0fb726730f665e6ff8f898516c39c6c2,2279c9d0f01017bf1d8525edfe9d1449,25f0e3fff4c316007e2172c04e0de3e5,72cdf5458c545a5388f1e92c4a597ed3,7c515267a34af9ceb20298bf7d3f2634,81a7373a1989122749915f4de46e3d6f,98cc2420c4043275807916add4fedc51,a74b6976b558c47c043476f2f35a2a66,b011dc47ac384f70cc5e4b295434fbbe,b94a07ed85598ae673160e8e1adafe87,c9099e719d6a96c6d9dd8aae3125b6c6,d5c48c1dda31a396c89f58c52b720389,e2735b0956b151ac215d6d329fd4fbf1,e85d673b9699747400924067ef35a602,eb2def0050fbca97436e8f73aaa28e34,fdab5098e81bada7f807ddc13ee15d94</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">00a81510f812fb0720ff567f9df1362b,0702ca5c8b44378b5127b36e12204a84,09fcae4a9626aaa3029b36da1286d827,0a022b1b77888b928ec2de176a6d09a3,0fb726730f665e6ff8f898516c39c6c2,2279c9d0f01017bf1d8525edfe9d1449,25f0e3fff4c316007e2172c04e0de3e5,72cdf5458c545a5388f1e92c4a597ed3,7c515267a34af9ceb20298bf7d3f2634,81a7373a1989122749915f4de46e3d6f,98cc2420c4043275807916add4fedc51,a74b6976b558c47c043476f2f35a2a66,b011dc47ac384f70cc5e4b295434fbbe,b94a07ed85598ae673160e8e1adafe87,c9099e719d6a96c6d9dd8aae3125b6c6,d5c48c1dda31a396c89f58c52b720389,e2735b0956b151ac215d6d329fd4fbf1,e85d673b9699747400924067ef35a602,eb2def0050fbca97436e8f73aaa28e34,fdab5098e81bada7f807ddc13ee15d94</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">00a81510f812fb0720ff567f9df1362b,0702ca5c8b44378b5127b36e12204a84,09fcae4a9626aaa3029b36da1286d827,0a022b1b77888b928ec2de176a6d09a3,0fb726730f665e6ff8f898516c39c6c2,2279c9d0f01017bf1d8525edfe9d1449,25f0e3fff4c316007e2172c04e0de3e5,72cdf5458c545a5388f1e92c4a597ed3,7c515267a34af9ceb20298bf7d3f2634,81a7373a1989122749915f4de46e3d6f,98cc2420c4043275807916add4fedc51,a74b6976b558c47c043476f2f35a2a66,b011dc47ac384f70cc5e4b295434fbbe,b94a07ed85598ae673160e8e1adafe87,c9099e719d6a96c6d9dd8aae3125b6c6,d5c48c1dda31a396c89f58c52b720389,e2735b0956b151ac215d6d329fd4fbf1,e85d673b9699747400924067ef35a602,eb2def0050fbca97436e8f73aaa28e34,fdab5098e81bada7f807ddc13ee15d94</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">00a81510f812fb0720ff567f9df1362b,0702ca5c8b44378b5127b36e12204a84,09fcae4a9626aaa3029b36da1286d827,0a022b1b77888b928ec2de176a6d09a3,0fb726730f665e6ff8f898516c39c6c2,2279c9d0f01017bf1d8525edfe9d1449,25f0e3fff4c316007e2172c04e0de3e5,72cdf5458c545a5388f1e92c4a597ed3,7c515267a34af9ceb20298bf7d3f2634,81a7373a1989122749915f4de46e3d6f,98cc2420c4043275807916add4fedc51,a74b6976b558c47c043476f2f35a2a66,b011dc47ac384f70cc5e4b295434fbbe,b94a07ed85598ae673160e8e1adafe87,c9099e719d6a96c6d9dd8aae3125b6c6,d5c48c1dda31a396c89f58c52b720389,e2735b0956b151ac215d6d329fd4fbf1,e85d673b9699747400924067ef35a602,eb2def0050fbca97436e8f73aaa28e34,fdab5098e81bada7f807ddc13ee15d94</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">00a81510f812fb0720ff567f9df1362b,0702ca5c8b44378b5127b36e12204a84,09fcae4a9626aaa3029b36da1286d827,0a022b1b77888b928ec2de176a6d09a3,0fb726730f665e6ff8f898516c39c6c2,2279c9d0f01017bf1d8525edfe9d1449,25f0e3fff4c316007e2172c04e0de3e5,72cdf5458c545a5388f1e92c4a597ed3,7c515267a34af9ceb20298bf7d3f2634,81a7373a1989122749915f4de46e3d6f,98cc2420c4043275807916add4fedc51,a74b6976b558c47c043476f2f35a2a66,b011dc47ac384f70cc5e4b295434fbbe,b94a07ed85598ae673160e8e1adafe87,c9099e719d6a96c6d9dd8aae3125b6c6,d5c48c1dda31a396c89f58c52b720389,e2735b0956b151ac215d6d329fd4fbf1,e85d673b9699747400924067ef35a602,eb2def0050fbca97436e8f73aaa28e34,fdab5098e81bada7f807ddc13ee15d94</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">00a81510f812fb0720ff567f9df1362b,0702ca5c8b44378b5127b36e12204a84,09fcae4a9626aaa3029b36da1286d827,0a022b1b77888b928ec2de176a6d09a3,0fb726730f665e6ff8f898516c39c6c2,2279c9d0f01017bf1d8525edfe9d1449,25f0e3fff4c316007e2172c04e0de3e5,72cdf5458c545a5388f1e92c4a597ed3,7c515267a34af9ceb20298bf7d3f2634,81a7373a1989122749915f4de46e3d6f,98cc2420c4043275807916add4fedc51,a74b6976b558c47c043476f2f35a2a66,b011dc47ac384f70cc5e4b295434fbbe,b94a07ed85598ae673160e8e1adafe87,c9099e719d6a96c6d9dd8aae3125b6c6,d5c48c1dda31a396c89f58c52b720389,e2735b0956b151ac215d6d329fd4fbf1,e85d673b9699747400924067ef35a602,eb2def0050fbca97436e8f73aaa28e34,fdab5098e81bada7f807ddc13ee15d94</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">00a81510f812fb0720ff567f9df1362b,0702ca5c8b44378b5127b36e12204a84,09fcae4a9626aaa3029b36da1286d827,0a022b1b77888b928ec2de176a6d09a3,0fb726730f665e6ff8f898516c39c6c2,2279c9d0f01017bf1d8525edfe9d1449,25f0e3fff4c316007e2172c04e0de3e5,72cdf5458c545a5388f1e92c4a597ed3,7c515267a34af9ceb20298bf7d3f2634,81a7373a1989122749915f4de46e3d6f,98cc2420c4043275807916add4fedc51,a74b6976b558c47c043476f2f35a2a66,b011dc47ac384f70cc5e4b295434fbbe,b94a07ed85598ae673160e8e1adafe87,c9099e719d6a96c6d9dd8aae3125b6c6,d5c48c1dda31a396c89f58c52b720389,e2735b0956b151ac215d6d329fd4fbf1,e85d673b9699747400924067ef35a602,eb2def0050fbca97436e8f73aaa28e34,fdab5098e81bada7f807ddc13ee15d94</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">00a81510f812fb0720ff567f9df1362b,0702ca5c8b44378b5127b36e12204a84,09fcae4a9626aaa3029b36da1286d827,0a022b1b77888b928ec2de176a6d09a3,0fb726730f665e6ff8f898516c39c6c2,2279c9d0f01017bf1d8525edfe9d1449,25f0e3fff4c316007e2172c04e0de3e5,72cdf5458c545a5388f1e92c4a597ed3,7c515267a34af9ceb20298bf7d3f2634,81a7373a1989122749915f4de46e3d6f,98cc2420c4043275807916add4fedc51,a74b6976b558c47c043476f2f35a2a66,b011dc47ac384f70cc5e4b295434fbbe,b94a07ed85598ae673160e8e1adafe87,c9099e719d6a96c6d9dd8aae3125b6c6,d5c48c1dda31a396c89f58c52b720389,e2735b0956b151ac215d6d329fd4fbf1,e85d673b9699747400924067ef35a602,eb2def0050fbca97436e8f73aaa28e34,fdab5098e81bada7f807ddc13ee15d94</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">00a81510f812fb0720ff567f9df1362b,0702ca5c8b44378b5127b36e12204a84,09fcae4a9626aaa3029b36da1286d827,0a022b1b77888b928ec2de176a6d09a3,0fb726730f665e6ff8f898516c39c6c2,2279c9d0f01017bf1d8525edfe9d1449,25f0e3fff4c316007e2172c04e0de3e5,72cdf5458c545a5388f1e92c4a597ed3,7c515267a34af9ceb20298bf7d3f2634,81a7373a1989122749915f4de46e3d6f,98cc2420c4043275807916add4fedc51,a74b6976b558c47c043476f2f35a2a66,b011dc47ac384f70cc5e4b295434fbbe,b94a07ed85598ae673160e8e1adafe87,c9099e719d6a96c6d9dd8aae3125b6c6,d5c48c1dda31a396c89f58c52b720389,e2735b0956b151ac215d6d329fd4fbf1,e85d673b9699747400924067ef35a602,eb2def0050fbca97436e8f73aaa28e34,fdab5098e81bada7f807ddc13ee15d94</data>
+    </node>
+    <node id="&quot;STAN SMITH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Stan Smith is Steven's father and one of the main characters in American Dad!."</data>
+      <data key="d2">e2735b0956b151ac215d6d329fd4fbf1</data>
+    </node>
+    <node id="&quot;FRANCINE SMITH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Francine Smith is Steven's mother and one of the main characters in American Dad!."</data>
+      <data key="d2">e2735b0956b151ac215d6d329fd4fbf1</data>
+    </node>
+    <node id="&quot;HAYLEY SMITH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hayley Smith is Steven's older sister and one of the main characters in American Dad!."</data>
+      <data key="d2">e2735b0956b151ac215d6d329fd4fbf1</data>
+    </node>
+    <node id="&quot;AMERICAN DAD!&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+"American Dad!" is an American animated television series that airs on Fox.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">72cdf5458c545a5388f1e92c4a597ed3,d5c48c1dda31a396c89f58c52b720389,e2735b0956b151ac215d6d329fd4fbf1</data>
+    </node>
+    <node id="&quot;STEVEN ANITA ``STEVE ''SMITH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e2735b0956b151ac215d6d329fd4fbf1</data>
+    </node>
+    <node id="&quot;SHION TAKEUCHI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Shion Takeuchi is a writer for the Gravity Falls episode Not What He Seems."</data>
+      <data key="d2">e85d673b9699747400924067ef35a602</data>
+    </node>
+    <node id="&quot;JOSH WEINSTEIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Josh Weinstein is a writer for the Gravity Falls episode Not What He Seems."</data>
+      <data key="d2">e85d673b9699747400924067ef35a602</data>
+    </node>
+    <node id="&quot;JEFF ROWE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jeff Rowe is a writer for the Gravity Falls episode Not What He Seems."</data>
+      <data key="d2">e85d673b9699747400924067ef35a602</data>
+    </node>
+    <node id="&quot;MATT CHAPMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Matt Chapman is a writer for the Gravity Falls episode Not What He Seems."</data>
+      <data key="d2">e85d673b9699747400924067ef35a602</data>
+    </node>
+    <node id="&quot;STEPHEN SANDOVAL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Stephen Sandoval is the director of the Gravity Falls episode Not What He Seems."</data>
+      <data key="d2">e85d673b9699747400924067ef35a602</data>
+    </node>
+    <node id="&quot;DIPPER PINES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dipper Pines is a twelve-year-old twin who stays with his great uncle Grunkle Stan in Gravity Falls, Oregon."</data>
+      <data key="d2">e85d673b9699747400924067ef35a602</data>
+    </node>
+    <node id="&quot;MABEL PINES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mabel Pines is a twelve-year-old twin who stays with her great uncle Grunkle Stan in Gravity Falls, Oregon."</data>
+      <data key="d2">e85d673b9699747400924067ef35a602</data>
+    </node>
+    <node id="&quot;GRUNKLE STAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Grunkle Stan is the great uncle of Dipper and Mabel Pines, who runs the Mystery Shack in Gravity Falls, Oregon."</data>
+      <data key="d2">e85d673b9699747400924067ef35a602</data>
+    </node>
+    <node id="&quot;GRAVITY FALLS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Gravity Falls is a fictional town in Oregon where the series takes place."</data>
+      <data key="d2">e85d673b9699747400924067ef35a602</data>
+    </node>
+    <node id="&quot;MYSTERY SHACK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Mystery Shack is a tourist trap run by Grunkle Stan in Gravity Falls, Oregon."</data>
+      <data key="d2">e85d673b9699747400924067ef35a602</data>
+    </node>
+    <node id="&quot;ALEX HIRSCH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e85d673b9699747400924067ef35a602</data>
+    </node>
+    <node id="&quot;ROGER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Roger is a character in American Dad! who challenges Stan's leadership qualities and teaches him to improve his acting skills."</data>
+      <data key="d2">d5c48c1dda31a396c89f58c52b720389</data>
+    </node>
+    <node id="&quot;STAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Stan is a character in American Dad! who is initially portrayed as the authoritarian figure of the house, but is later revealed to be a terrible actor. Additionally, he blames Francine for not getting into heaven and participates in the Armageddon.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">09fcae4a9626aaa3029b36da1286d827,72cdf5458c545a5388f1e92c4a597ed3,d5c48c1dda31a396c89f58c52b720389</data>
+    </node>
+    <node id="&quot;STEVE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Steve is a character in American Dad! who has been involved in two notable events. He once planned to throw his last slumber party with his friends, showcasing his playful and social side. Additionally, Steve was among those who got raptured along with the majority of the church, indicating that he may have had strong religious beliefs or affiliations.</data>
+      <data key="d2">72cdf5458c545a5388f1e92c4a597ed3,d5c48c1dda31a396c89f58c52b720389</data>
+    </node>
+    <node id="&quot;FOX&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+FOX is a television network that airs American Dad! in the United States.</data>
+      <data key="d2">72cdf5458c545a5388f1e92c4a597ed3,d5c48c1dda31a396c89f58c52b720389</data>
+    </node>
+    <node id="&quot;A PI&#209;ATA NAMED DESIRE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"A Pi&#241;ata Named Desire is the eleventh episode of the sixth season of American Dad!."</data>
+      <data key="d2">d5c48c1dda31a396c89f58c52b720389</data>
+    </node>
+    <node id="&quot;PATRICK WARBURTON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Patrick Warburton is a voice actor who provided the voice of Buzz Lightyear for the TV series."</data>
+      <data key="d2">eb2def0050fbca97436e8f73aaa28e34</data>
+    </node>
+    <node id="&quot;PAT FRALEY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Pat Fraley is a voice actor who voiced Buzz Lightyear for the video games and Disney Parks attractions."</data>
+      <data key="d2">eb2def0050fbca97436e8f73aaa28e34</data>
+    </node>
+    <node id="&quot;BUZZ LIGHTYEAR&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Buzz Lightyear is a character in the Toy Story franchise, voiced by different actors in various media."</data>
+      <data key="d2">eb2def0050fbca97436e8f73aaa28e34</data>
+    </node>
+    <node id="&quot;TOY STORY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Toy Story is a film series that features the character of Buzz Lightyear."</data>
+      <data key="d2">eb2def0050fbca97436e8f73aaa28e34</data>
+    </node>
+    <node id="&quot;DISNEY PARKS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Disney Parks are theme parks where attractions featuring Buzz Lightyear can be found."</data>
+      <data key="d2">eb2def0050fbca97436e8f73aaa28e34</data>
+    </node>
+    <node id="&quot;TIM ALLEN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">eb2def0050fbca97436e8f73aaa28e34</data>
+    </node>
+    <node id="&quot;LARGO THE BLACK LION&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Largo the Black Lion is a character from 'Tales of the Abyss', voiced by Jamieson Kent Price."</data>
+      <data key="d2">0fb726730f665e6ff8f898516c39c6c2</data>
+    </node>
+    <node id="&quot;IRON TAGER&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Iron Tager is a character from the 'BlazBlue' series, voiced by Jamieson Kent Price."</data>
+      <data key="d2">0fb726730f665e6ff8f898516c39c6c2</data>
+    </node>
+    <node id="&quot;COUNT OF MONTE CRISTO&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"The Count of Monte Cristo is a character from 'Gankutsuou', voiced by Jamieson Kent Price."</data>
+      <data key="d2">0fb726730f665e6ff8f898516c39c6c2</data>
+    </node>
+    <node id="&quot;OVAN&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Ovan is a character from '.hack//G.U.', voiced by Jamieson Kent Price."</data>
+      <data key="d2">0fb726730f665e6ff8f898516c39c6c2</data>
+    </node>
+    <node id="&quot;GALBALAN&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Galbalan is the main villain of '', voiced by Jamieson Kent Price."</data>
+      <data key="d2">0fb726730f665e6ff8f898516c39c6c2</data>
+    </node>
+    <node id="&quot;MILTON GRIMM&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Milton Grimm is a character from 'Ever After High', voiced by Jamieson Kent Price."</data>
+      <data key="d2">0fb726730f665e6ff8f898516c39c6c2</data>
+    </node>
+    <node id="&quot;JAMIESON KENT PRICE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0fb726730f665e6ff8f898516c39c6c2</data>
+    </node>
+    <node id="&quot;AVERY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Avery is Stan's favorite child, with whom he has a close relationship and talks to the most."</data>
+      <data key="d2">09fcae4a9626aaa3029b36da1286d827</data>
+    </node>
+    <node id="&quot;TYLER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Tyler is one of the people who knows that Stan can talk."</data>
+      <data key="d2">09fcae4a9626aaa3029b36da1286d827</data>
+    </node>
+    <node id="&quot;CHLOE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Chloe is one of the people who knows that Stan can talk."</data>
+      <data key="d2">09fcae4a9626aaa3029b36da1286d827</data>
+    </node>
+    <node id="&quot;KARL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Karl is one of the people who knows that Stan can talk."</data>
+      <data key="d2">09fcae4a9626aaa3029b36da1286d827</data>
+    </node>
+    <node id="&quot;GRANDMA JAMES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Grandma James is a family member who discovers Stan's secret and faints."</data>
+      <data key="d2">09fcae4a9626aaa3029b36da1286d827</data>
+    </node>
+    <node id="&quot;ELLEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ellen is a family member who does not know that Stan can talk."</data>
+      <data key="d2">09fcae4a9626aaa3029b36da1286d827</data>
+    </node>
+    <node id="&quot;BENNETT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bennett is a family member who does not know that Stan can talk."</data>
+      <data key="d2">09fcae4a9626aaa3029b36da1286d827</data>
+    </node>
+    <node id="&quot;JAMES - JENNINGS FAMILY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The James - Jennings family is the family that owns Stan, the talking dog."</data>
+      <data key="d2">09fcae4a9626aaa3029b36da1286d827</data>
+    </node>
+    <node id="&quot;STAN BRAKHAGE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Stan Brakhage is the director of the Dog Star Man film series."</data>
+      <data key="d2">0702ca5c8b44378b5127b36e12204a84</data>
+    </node>
+    <node id="&quot;JANE WODENING&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jane Wodening is a featured actress in the Dog Star Man film series."</data>
+      <data key="d2">0702ca5c8b44378b5127b36e12204a84</data>
+    </node>
+    <node id="&quot;DOG STAR MAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0702ca5c8b44378b5127b36e12204a84</data>
+    </node>
+    <node id="&quot;FRANCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"France is the country of origin for Arnaud Joyet."</data>
+      <data key="d2">b94a07ed85598ae673160e8e1adafe87</data>
+    </node>
+    <node id="&quot;HERO CORP&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Hero Corp is a series in which Arnaud Joyet plays the role of Stan."</data>
+      <data key="d2">b94a07ed85598ae673160e8e1adafe87</data>
+    </node>
+    <node id="&quot;ARNAUD JOYET&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b94a07ed85598ae673160e8e1adafe87</data>
+    </node>
+    <node id="&quot;ANTHONY MCCALL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Anthony McCall is an artist who produced the film Line Describing a Cone as part of his 'solid light' film series."</data>
+      <data key="d2">7c515267a34af9ceb20298bf7d3f2634</data>
+    </node>
+    <node id="&quot;STAN DOUGLAS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Stan Douglas is an artist inspired by Anthony McCall's work."</data>
+      <data key="d2">7c515267a34af9ceb20298bf7d3f2634</data>
+    </node>
+    <node id="&quot;RICHARD SERRA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Richard Serra is an artist inspired by Anthony McCall's work."</data>
+      <data key="d2">7c515267a34af9ceb20298bf7d3f2634</data>
+    </node>
+    <node id="&quot;GORDON MATTA-CLARK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gordon Matta-Clark is an artist inspired by Anthony McCall's work."</data>
+      <data key="d2">7c515267a34af9ceb20298bf7d3f2634</data>
+    </node>
+    <node id="&quot;LINE DESCRIBING A CONE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7c515267a34af9ceb20298bf7d3f2634</data>
+    </node>
+    <node id="&quot;STOCKHOLM METRO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Stockholm metro is a transportation system that includes Gamla stan metro station."</data>
+      <data key="d2">25f0e3fff4c316007e2172c04e0de3e5</data>
+    </node>
+    <node id="&quot;GAMLA STAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Gamla stan is a district in Stockholm where the metro station is located."</data>
+      <data key="d2">25f0e3fff4c316007e2172c04e0de3e5</data>
+    </node>
+    <node id="&quot;SLUSSEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Slussen is a location connected to Gamla stan metro station by the Green line."</data>
+      <data key="d2">25f0e3fff4c316007e2172c04e0de3e5</data>
+    </node>
+    <node id="&quot;H&#214;TORGET&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"H&#246;torget is a location connected to Gamla stan metro station by the Green line."</data>
+      <data key="d2">25f0e3fff4c316007e2172c04e0de3e5</data>
+    </node>
+    <node id="&quot;T-CENTRALEN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"T-Centralen is a station on the Red line of the Stockholm metro."</data>
+      <data key="d2">25f0e3fff4c316007e2172c04e0de3e5</data>
+    </node>
+    <node id="&quot;FRU&#196;NGEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Fru&#228;ngen is a location connected to T-Centralen by the Red line."</data>
+      <data key="d2">25f0e3fff4c316007e2172c04e0de3e5</data>
+    </node>
+    <node id="&quot;GAMLA STAN METRO STATION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">25f0e3fff4c316007e2172c04e0de3e5</data>
+    </node>
+    <node id="&quot;TREY PARKER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Trey Parker is a friend of Dian Bachar's, with whom he has collaborated on several film projects.</data>
+      <data key="d2">81a7373a1989122749915f4de46e3d6f,a74b6976b558c47c043476f2f35a2a66</data>
+    </node>
+    <node id="&quot;MATT STONE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Matt Stone is a friend of Dian Bachar's, with whom he has collaborated on several film projects."</data>
+      <data key="d2">81a7373a1989122749915f4de46e3d6f</data>
+    </node>
+    <node id="&quot;DENVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Denver is the birthplace of Dian Bachar, located in Colorado."</data>
+      <data key="d2">81a7373a1989122749915f4de46e3d6f</data>
+    </node>
+    <node id="&quot;COLORADO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Colorado is the state where Denver, the birthplace of Dian Bachar, is located, and it is also home to the town of South Park.
+
+Let me know if you need anything else!</data>
+      <data key="d2">81a7373a1989122749915f4de46e3d6f,b011dc47ac384f70cc5e4b295434fbbe</data>
+    </node>
+    <node id="&quot;CANNIBAL! THE MUSICAL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Cannibal! The Musical is a film featuring Dian Bachar in the role of George Noon."</data>
+      <data key="d2">81a7373a1989122749915f4de46e3d6f</data>
+    </node>
+    <node id="&quot;ORGAZMO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Orgazmo is a film featuring Dian Bachar in the role of Ben Chapleski."</data>
+      <data key="d2">81a7373a1989122749915f4de46e3d6f</data>
+    </node>
+    <node id="&quot;BASEKETBALL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"BASEketball is a 1998 film featuring Dian Bachar in his most famous role as Kenny 'Squeak' Scolari."</data>
+      <data key="d2">81a7373a1989122749915f4de46e3d6f</data>
+    </node>
+    <node id="&quot;GALAXY QUEST&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Galaxy Quest is a film featuring Dian Bachar as an alien engineer, although most of his scenes were cut."</data>
+      <data key="d2">81a7373a1989122749915f4de46e3d6f</data>
+    </node>
+    <node id="&quot;DIAN BACHAR&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">81a7373a1989122749915f4de46e3d6f</data>
+    </node>
+    <node id="&quot;ELECTRIC FARM ENTERTAINMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Electric Farm Entertainment is a production company that created Gemini Division and worked with Rosario Dawson on the web series 'Afterworld'."</data>
+      <data key="d2">c9099e719d6a96c6d9dd8aae3125b6c6</data>
+    </node>
+    <node id="&quot;BRENT FRIEDMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Brent Friedman is the creator of the original story behind Gemini Division, serving as executive producer and writer."</data>
+      <data key="d2">c9099e719d6a96c6d9dd8aae3125b6c6</data>
+    </node>
+    <node id="&quot;JOSHUA STERN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Joshua Stern developed the online series Gemini Division based on Brent Friedman's original story."</data>
+      <data key="d2">c9099e719d6a96c6d9dd8aae3125b6c6</data>
+    </node>
+    <node id="&quot;ROSARIO DAWSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Rosario Dawson stars in Gemini Division, having previously worked with Electric Farm Entertainment on 'Afterworld'."</data>
+      <data key="d2">c9099e719d6a96c6d9dd8aae3125b6c6</data>
+    </node>
+    <node id="&quot;J ALEX REED&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"J Alex Reed is a showrunner for Gemini Division alongside Duane Loose."</data>
+      <data key="d2">c9099e719d6a96c6d9dd8aae3125b6c6</data>
+    </node>
+    <node id="&quot;DUANE LOOSE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Duane Loose is a showrunner for Gemini Division alongside J Alex Reed."</data>
+      <data key="d2">c9099e719d6a96c6d9dd8aae3125b6c6</data>
+    </node>
+    <node id="&quot;STAN ROGOW&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Stan Rogow serves as executive producer and director for Gemini Division, directing several episodes."</data>
+      <data key="d2">c9099e719d6a96c6d9dd8aae3125b6c6</data>
+    </node>
+    <node id="&quot;NEAL ISRAEL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Neal Israel directs some episodes of Gemini Division."</data>
+      <data key="d2">c9099e719d6a96c6d9dd8aae3125b6c6</data>
+    </node>
+    <node id="&quot;BEN RAAB&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ben Raab is a web content producer managing development for Gemini Division."</data>
+      <data key="d2">c9099e719d6a96c6d9dd8aae3125b6c6</data>
+    </node>
+    <node id="&quot;DERIC HUGUES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Deric Hugues is a web content producer managing development for Gemini Division."</data>
+      <data key="d2">c9099e719d6a96c6d9dd8aae3125b6c6</data>
+    </node>
+    <node id="&quot;GEMINI DIVISION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c9099e719d6a96c6d9dd8aae3125b6c6</data>
+    </node>
+    <node id="&quot;STAN MARSH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Stan Marsh is a main character in South Park, voiced by Trey Parker, and is one of the core group of child protagonists who often seek Chef's guidance.</data>
+      <data key="d2">a74b6976b558c47c043476f2f35a2a66,b011dc47ac384f70cc5e4b295434fbbe</data>
+    </node>
+    <node id="&quot;ERIC CARTMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Eric Cartman is a main character in South Park, voiced by Trey Parker, and is one of the core group of child protagonists who often seek Chef's guidance.</data>
+      <data key="d2">a74b6976b558c47c043476f2f35a2a66,b011dc47ac384f70cc5e4b295434fbbe</data>
+    </node>
+    <node id="&quot;RANDY MARSH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Randy Marsh is a main character voiced by Trey Parker and the father of Stan Marsh."</data>
+      <data key="d2">a74b6976b558c47c043476f2f35a2a66</data>
+    </node>
+    <node id="&quot;MR. GARRISON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mr. Garrison is a main character voiced by Trey Parker."</data>
+      <data key="d2">a74b6976b558c47c043476f2f35a2a66</data>
+    </node>
+    <node id="&quot;CLYDE DONOVAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Clyde Donovan is a recurring character voiced by Trey Parker."</data>
+      <data key="d2">a74b6976b558c47c043476f2f35a2a66</data>
+    </node>
+    <node id="&quot;MR. HANKEY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mr. Hankey is a recurring character voiced by Trey Parker."</data>
+      <data key="d2">a74b6976b558c47c043476f2f35a2a66</data>
+    </node>
+    <node id="&quot;MR. MACKEY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mr. Mackey is a recurring character voiced by Trey Parker."</data>
+      <data key="d2">a74b6976b558c47c043476f2f35a2a66</data>
+    </node>
+    <node id="&quot;STEPHEN STOTCH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Stephen Stotch is a recurring character voiced by Trey Parker."</data>
+      <data key="d2">a74b6976b558c47c043476f2f35a2a66</data>
+    </node>
+    <node id="&quot;JIMMY VALMER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jimmy Valmer is a recurring character voiced by Trey Parker."</data>
+      <data key="d2">a74b6976b558c47c043476f2f35a2a66</data>
+    </node>
+    <node id="&quot;TIMMY BURCH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Timmy Burch is a recurring character voiced by Trey Parker."</data>
+      <data key="d2">a74b6976b558c47c043476f2f35a2a66</data>
+    </node>
+    <node id="&quot;TUONG LU KIM&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Tuong Lu Kim is a recurring character voiced by Trey Parker."</data>
+      <data key="d2">a74b6976b558c47c043476f2f35a2a66</data>
+    </node>
+    <node id="&quot;PHILLIP&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Phillip is a recurring character voiced by Trey Parker."</data>
+      <data key="d2">a74b6976b558c47c043476f2f35a2a66</data>
+    </node>
+    <node id="&quot;JENNIFER TILLY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jennifer Tilly is an actress who played herself and voiced Tiffany."</data>
+      <data key="d2">98cc2420c4043275807916add4fedc51</data>
+    </node>
+    <node id="&quot;BILLY BOYD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Billy Boyd is an actor who voiced Glen."</data>
+      <data key="d2">98cc2420c4043275807916add4fedc51</data>
+    </node>
+    <node id="&quot;EL-BALAWI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"El-Balawi is an actor who played Human Glen."</data>
+      <data key="d2">98cc2420c4043275807916add4fedc51</data>
+    </node>
+    <node id="&quot;KRISTINA HEWITT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kristina Hewitt is an actress who played Human Glenda."</data>
+      <data key="d2">98cc2420c4043275807916add4fedc51</data>
+    </node>
+    <node id="&quot;REDMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Redman is an actor who played himself."</data>
+      <data key="d2">98cc2420c4043275807916add4fedc51</data>
+    </node>
+    <node id="&quot;HANNAH SPEARRITT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hannah Spearritt is an actress who played Joan."</data>
+      <data key="d2">98cc2420c4043275807916add4fedc51</data>
+    </node>
+    <node id="&quot;JOHN WATERS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"John Waters is an actor who played Pete Peters."</data>
+      <data key="d2">98cc2420c4043275807916add4fedc51</data>
+    </node>
+    <node id="&quot;JASON FLEMYNG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jason Flemyng is an actor who played himself and Santa."</data>
+      <data key="d2">98cc2420c4043275807916add4fedc51</data>
+    </node>
+    <node id="&quot;STEVE LAWTON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Steve Lawton is an actor who played Stan."</data>
+      <data key="d2">98cc2420c4043275807916add4fedc51</data>
+    </node>
+    <node id="&quot;TONY GARDNER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Tony Gardner is an actor who played himself."</data>
+      <data key="d2">98cc2420c4043275807916add4fedc51</data>
+    </node>
+    <node id="&quot;REBECCA SANTOS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Rebecca Santos is an actress who played Fulvia."</data>
+      <data key="d2">98cc2420c4043275807916add4fedc51</data>
+    </node>
+    <node id="&quot;KEITH-LEE CASTLE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Keith-Lee Castle is an actor who played Bill 'Psychs' Sykes."</data>
+      <data key="d2">98cc2420c4043275807916add4fedc51</data>
+    </node>
+    <node id="&quot;PAUL GROSSMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Paul Grossman is an actor who played Little Boy."</data>
+      <data key="d2">98cc2420c4043275807916add4fedc51</data>
+    </node>
+    <node id="&quot;SIMON JAMES MORGAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Simon James Morgan is an actor who played Richard."</data>
+      <data key="d2">98cc2420c4043275807916add4fedc51</data>
+    </node>
+    <node id="&quot;STEPHANIE CHAMBERS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Stephanie Chambers is an actress who played Claudia's mom."</data>
+      <data key="d2">98cc2420c4043275807916add4fedc51</data>
+    </node>
+    <node id="&quot;BETTY SIMONS-DENVILLE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Betty Simons-Denville is an actress who played Claudia."</data>
+      <data key="d2">98cc2420c4043275807916add4fedc51</data>
+    </node>
+    <node id="&quot;ELISABETH SHUE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Elisabeth Shue replaced Claudia Wells as Jennifer in the sequels of Back to the Future."</data>
+      <data key="d2">fdab5098e81bada7f807ddc13ee15d94</data>
+    </node>
+    <node id="&quot;CATHY CAVADINI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Cathy Cavadini voiced Jennifer in the spin-off Back to the Future: The Animated Series."</data>
+      <data key="d2">fdab5098e81bada7f807ddc13ee15d94</data>
+    </node>
+    <node id="&quot;BACK TO THE FUTURE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Back to the Future is a movie where Claudia Wells played the character of Jennifer."</data>
+      <data key="d2">fdab5098e81bada7f807ddc13ee15d94</data>
+    </node>
+    <node id="&quot;BACK TO THE FUTURE PART II&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Back to the Future Part II is a sequel where Elisabeth Shue replaced Claudia Wells as Jennifer."</data>
+      <data key="d2">fdab5098e81bada7f807ddc13ee15d94</data>
+    </node>
+    <node id="&quot;BACK TO THE FUTURE: THE GAME&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Back to the Future: The Game is a spin-off where Claudia Wells reprised her role as Jennifer."</data>
+      <data key="d2">fdab5098e81bada7f807ddc13ee15d94</data>
+    </node>
+    <node id="&quot;BACK TO THE FUTURE: THE ANIMATED SERIES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Back to the Future: The Animated Series is a spin-off where Cathy Cavadini voiced Jennifer."</data>
+      <data key="d2">fdab5098e81bada7f807ddc13ee15d94</data>
+    </node>
+    <node id="&quot;CLAUDIA WELLS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fdab5098e81bada7f807ddc13ee15d94</data>
+    </node>
+    <node id="&quot;JENNIFER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fdab5098e81bada7f807ddc13ee15d94</data>
+    </node>
+    <node id="&quot;ISAAC HAYES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Isaac Hayes is the voice actor for Jerome ``Chef ''McElroy in South Park."</data>
+      <data key="d2">b011dc47ac384f70cc5e4b295434fbbe</data>
+    </node>
+    <node id="&quot;SOUTH PARK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+South Park is a town in Colorado where the cartoon series takes place.</data>
+      <data key="d2">00a81510f812fb0720ff567f9df1362b,b011dc47ac384f70cc5e4b295434fbbe</data>
+    </node>
+    <node id="&quot;KYLE BROFLOVSKI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kyle Broflovski is one of the core group of child protagonists in South Park who often seek Chef's guidance."</data>
+      <data key="d2">b011dc47ac384f70cc5e4b295434fbbe</data>
+    </node>
+    <node id="&quot;KENNY MCCORMICK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kenny McCormick is one of the core group of child protagonists in South Park who often seek Chef's guidance."</data>
+      <data key="d2">b011dc47ac384f70cc5e4b295434fbbe</data>
+    </node>
+    <node id="&quot;JEROME ``CHEF ''MCELROY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b011dc47ac384f70cc5e4b295434fbbe</data>
+    </node>
+    <node id="&quot;FRANCINE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Francine is a character in American Dad!, who befriends Jesus and becomes his bride, leaving Stan behind."</data>
+      <data key="d2">72cdf5458c545a5388f1e92c4a597ed3</data>
+    </node>
+    <node id="&quot;HAYLEY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hayley is a character in American Dad!, who gets raptured along with the majority of the church."</data>
+      <data key="d2">72cdf5458c545a5388f1e92c4a597ed3</data>
+    </node>
+    <node id="&quot;JESUS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jesus is a character in American Dad!, who befriends Francine and makes her his bride."</data>
+      <data key="d2">72cdf5458c545a5388f1e92c4a597ed3</data>
+    </node>
+    <node id="&quot;COMEDY CENTRAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Comedy Central is a television network that aired South Park in the United States."</data>
+      <data key="d2">00a81510f812fb0720ff567f9df1362b</data>
+    </node>
+    <node id="&quot;INSECURITY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Insecurity is the tenth episode of the sixteenth season of South Park."</data>
+      <data key="d2">00a81510f812fb0720ff567f9df1362b</data>
+    </node>
+    <node id="&quot;THIEF&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Thief is a video game series where Stephen Russell provided voice acting as the protagonist Garrett."</data>
+      <data key="d2">2279c9d0f01017bf1d8525edfe9d1449</data>
+    </node>
+    <node id="&quot;FALLOUT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Fallout is a video game series where Stephen Russell provided voice acting as the Mister Handys."</data>
+      <data key="d2">2279c9d0f01017bf1d8525edfe9d1449</data>
+    </node>
+    <node id="&quot;STEPHEN RUSSELL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2279c9d0f01017bf1d8525edfe9d1449</data>
+    </node>
+    <edge source="&quot;STAN LEE&quot;" target="&quot;SPIDER-MAN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Spider-Man is a character created by writer Stan Lee."</data>
+      <data key="d6">0a022b1b77888b928ec2de176a6d09a3</data>
+    </edge>
+    <edge source="&quot;STEVE DITKO&quot;" target="&quot;SPIDER-MAN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Spider-Man is a character designed by artist Steve Ditko."</data>
+      <data key="d6">0a022b1b77888b928ec2de176a6d09a3</data>
+    </edge>
+    <edge source="&quot;GRANTRAY-LAWRENCE ANIMATION&quot;" target="&quot;SPIDER-MAN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Grantray-Lawrence Animation produced the first season of the Spider-Man animated TV series."</data>
+      <data key="d6">0a022b1b77888b928ec2de176a6d09a3</data>
+    </edge>
+    <edge source="&quot;KRANTZ FILMS&quot;" target="&quot;SPIDER-MAN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Krantz Films produced seasons two and three of the Spider-Man animated TV series."</data>
+      <data key="d6">0a022b1b77888b928ec2de176a6d09a3</data>
+    </edge>
+    <edge source="&quot;ABC TELEVISION NETWORK&quot;" target="&quot;SPIDER-MAN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The ABC television network aired the first two seasons of the Spider-Man animated TV series."</data>
+      <data key="d6">0a022b1b77888b928ec2de176a6d09a3</data>
+    </edge>
+    <edge source="&quot;PAUL SOLES&quot;" target="&quot;SPIDER-MAN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Paul Soles starred as Peter Parker (Spider-Man) in the animated TV series."</data>
+      <data key="d6">0a022b1b77888b928ec2de176a6d09a3</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Arizona is a state in the United States."</data>
+      <data key="d6">00a81510f812fb0720ff567f9df1362b,0702ca5c8b44378b5127b36e12204a84,09fcae4a9626aaa3029b36da1286d827,0a022b1b77888b928ec2de176a6d09a3,0fb726730f665e6ff8f898516c39c6c2,2279c9d0f01017bf1d8525edfe9d1449,25f0e3fff4c316007e2172c04e0de3e5,72cdf5458c545a5388f1e92c4a597ed3,7c515267a34af9ceb20298bf7d3f2634,81a7373a1989122749915f4de46e3d6f,98cc2420c4043275807916add4fedc51,a74b6976b558c47c043476f2f35a2a66,b011dc47ac384f70cc5e4b295434fbbe,b94a07ed85598ae673160e8e1adafe87,c9099e719d6a96c6d9dd8aae3125b6c6,d5c48c1dda31a396c89f58c52b720389,e2735b0956b151ac215d6d329fd4fbf1,e85d673b9699747400924067ef35a602,eb2def0050fbca97436e8f73aaa28e34,fdab5098e81bada7f807ddc13ee15d94</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;COMEDY CENTRAL&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Comedy Central is a television network based in the United States."</data>
+      <data key="d6">00a81510f812fb0720ff567f9df1362b</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Tucson is the county seat of Pima County."</data>
+      <data key="d6">00a81510f812fb0720ff567f9df1362b,0702ca5c8b44378b5127b36e12204a84,09fcae4a9626aaa3029b36da1286d827,0a022b1b77888b928ec2de176a6d09a3,0fb726730f665e6ff8f898516c39c6c2,2279c9d0f01017bf1d8525edfe9d1449,25f0e3fff4c316007e2172c04e0de3e5,72cdf5458c545a5388f1e92c4a597ed3,7c515267a34af9ceb20298bf7d3f2634,81a7373a1989122749915f4de46e3d6f,98cc2420c4043275807916add4fedc51,a74b6976b558c47c043476f2f35a2a66,b011dc47ac384f70cc5e4b295434fbbe,b94a07ed85598ae673160e8e1adafe87,c9099e719d6a96c6d9dd8aae3125b6c6,d5c48c1dda31a396c89f58c52b720389,e2735b0956b151ac215d6d329fd4fbf1,e85d673b9699747400924067ef35a602,eb2def0050fbca97436e8f73aaa28e34,fdab5098e81bada7f807ddc13ee15d94</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Pima County is a county in Arizona."</data>
+      <data key="d6">00a81510f812fb0720ff567f9df1362b,0702ca5c8b44378b5127b36e12204a84,09fcae4a9626aaa3029b36da1286d827,0a022b1b77888b928ec2de176a6d09a3,0fb726730f665e6ff8f898516c39c6c2,2279c9d0f01017bf1d8525edfe9d1449,25f0e3fff4c316007e2172c04e0de3e5,72cdf5458c545a5388f1e92c4a597ed3,7c515267a34af9ceb20298bf7d3f2634,81a7373a1989122749915f4de46e3d6f,98cc2420c4043275807916add4fedc51,a74b6976b558c47c043476f2f35a2a66,b011dc47ac384f70cc5e4b295434fbbe,b94a07ed85598ae673160e8e1adafe87,c9099e719d6a96c6d9dd8aae3125b6c6,d5c48c1dda31a396c89f58c52b720389,e2735b0956b151ac215d6d329fd4fbf1,e85d673b9699747400924067ef35a602,eb2def0050fbca97436e8f73aaa28e34,fdab5098e81bada7f807ddc13ee15d94</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"The University of Arizona is located in Tucson."</data>
+      <data key="d6">00a81510f812fb0720ff567f9df1362b,0702ca5c8b44378b5127b36e12204a84,09fcae4a9626aaa3029b36da1286d827,0a022b1b77888b928ec2de176a6d09a3,0fb726730f665e6ff8f898516c39c6c2,2279c9d0f01017bf1d8525edfe9d1449,25f0e3fff4c316007e2172c04e0de3e5,72cdf5458c545a5388f1e92c4a597ed3,7c515267a34af9ceb20298bf7d3f2634,81a7373a1989122749915f4de46e3d6f,98cc2420c4043275807916add4fedc51,a74b6976b558c47c043476f2f35a2a66,b011dc47ac384f70cc5e4b295434fbbe,b94a07ed85598ae673160e8e1adafe87,c9099e719d6a96c6d9dd8aae3125b6c6,d5c48c1dda31a396c89f58c52b720389,e2735b0956b151ac215d6d329fd4fbf1,e85d673b9699747400924067ef35a602,eb2def0050fbca97436e8f73aaa28e34,fdab5098e81bada7f807ddc13ee15d94</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Tucson is a city in Arizona."</data>
+      <data key="d6">00a81510f812fb0720ff567f9df1362b,0702ca5c8b44378b5127b36e12204a84,09fcae4a9626aaa3029b36da1286d827,0a022b1b77888b928ec2de176a6d09a3,0fb726730f665e6ff8f898516c39c6c2,2279c9d0f01017bf1d8525edfe9d1449,25f0e3fff4c316007e2172c04e0de3e5,72cdf5458c545a5388f1e92c4a597ed3,7c515267a34af9ceb20298bf7d3f2634,81a7373a1989122749915f4de46e3d6f,98cc2420c4043275807916add4fedc51,a74b6976b558c47c043476f2f35a2a66,b011dc47ac384f70cc5e4b295434fbbe,b94a07ed85598ae673160e8e1adafe87,c9099e719d6a96c6d9dd8aae3125b6c6,d5c48c1dda31a396c89f58c52b720389,e2735b0956b151ac215d6d329fd4fbf1,e85d673b9699747400924067ef35a602,eb2def0050fbca97436e8f73aaa28e34,fdab5098e81bada7f807ddc13ee15d94</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Phoenix is a city in Arizona."</data>
+      <data key="d6">00a81510f812fb0720ff567f9df1362b,0702ca5c8b44378b5127b36e12204a84,09fcae4a9626aaa3029b36da1286d827,0a022b1b77888b928ec2de176a6d09a3,0fb726730f665e6ff8f898516c39c6c2,2279c9d0f01017bf1d8525edfe9d1449,25f0e3fff4c316007e2172c04e0de3e5,72cdf5458c545a5388f1e92c4a597ed3,7c515267a34af9ceb20298bf7d3f2634,81a7373a1989122749915f4de46e3d6f,98cc2420c4043275807916add4fedc51,a74b6976b558c47c043476f2f35a2a66,b011dc47ac384f70cc5e4b295434fbbe,b94a07ed85598ae673160e8e1adafe87,c9099e719d6a96c6d9dd8aae3125b6c6,d5c48c1dda31a396c89f58c52b720389,e2735b0956b151ac215d6d329fd4fbf1,e85d673b9699747400924067ef35a602,eb2def0050fbca97436e8f73aaa28e34,fdab5098e81bada7f807ddc13ee15d94</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d6">00a81510f812fb0720ff567f9df1362b,0702ca5c8b44378b5127b36e12204a84,09fcae4a9626aaa3029b36da1286d827,0a022b1b77888b928ec2de176a6d09a3,0fb726730f665e6ff8f898516c39c6c2,2279c9d0f01017bf1d8525edfe9d1449,25f0e3fff4c316007e2172c04e0de3e5,72cdf5458c545a5388f1e92c4a597ed3,7c515267a34af9ceb20298bf7d3f2634,81a7373a1989122749915f4de46e3d6f,98cc2420c4043275807916add4fedc51,a74b6976b558c47c043476f2f35a2a66,b011dc47ac384f70cc5e4b295434fbbe,b94a07ed85598ae673160e8e1adafe87,c9099e719d6a96c6d9dd8aae3125b6c6,d5c48c1dda31a396c89f58c52b720389,e2735b0956b151ac215d6d329fd4fbf1,e85d673b9699747400924067ef35a602,eb2def0050fbca97436e8f73aaa28e34,fdab5098e81bada7f807ddc13ee15d94</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Mexico shares an international border with the United States."</data>
+      <data key="d6">00a81510f812fb0720ff567f9df1362b,0702ca5c8b44378b5127b36e12204a84,09fcae4a9626aaa3029b36da1286d827,0a022b1b77888b928ec2de176a6d09a3,0fb726730f665e6ff8f898516c39c6c2,2279c9d0f01017bf1d8525edfe9d1449,25f0e3fff4c316007e2172c04e0de3e5,72cdf5458c545a5388f1e92c4a597ed3,7c515267a34af9ceb20298bf7d3f2634,81a7373a1989122749915f4de46e3d6f,98cc2420c4043275807916add4fedc51,a74b6976b558c47c043476f2f35a2a66,b011dc47ac384f70cc5e4b295434fbbe,b94a07ed85598ae673160e8e1adafe87,c9099e719d6a96c6d9dd8aae3125b6c6,d5c48c1dda31a396c89f58c52b720389,e2735b0956b151ac215d6d329fd4fbf1,e85d673b9699747400924067ef35a602,eb2def0050fbca97436e8f73aaa28e34,fdab5098e81bada7f807ddc13ee15d94</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d6">00a81510f812fb0720ff567f9df1362b,0702ca5c8b44378b5127b36e12204a84,09fcae4a9626aaa3029b36da1286d827,0a022b1b77888b928ec2de176a6d09a3,0fb726730f665e6ff8f898516c39c6c2,2279c9d0f01017bf1d8525edfe9d1449,25f0e3fff4c316007e2172c04e0de3e5,72cdf5458c545a5388f1e92c4a597ed3,7c515267a34af9ceb20298bf7d3f2634,81a7373a1989122749915f4de46e3d6f,98cc2420c4043275807916add4fedc51,a74b6976b558c47c043476f2f35a2a66,b011dc47ac384f70cc5e4b295434fbbe,b94a07ed85598ae673160e8e1adafe87,c9099e719d6a96c6d9dd8aae3125b6c6,d5c48c1dda31a396c89f58c52b720389,e2735b0956b151ac215d6d329fd4fbf1,e85d673b9699747400924067ef35a602,eb2def0050fbca97436e8f73aaa28e34,fdab5098e81bada7f807ddc13ee15d94</data>
+    </edge>
+    <edge source="&quot;STAN SMITH&quot;" target="&quot;STEVEN ANITA ``STEVE ''SMITH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Steven is Stan's son."</data>
+      <data key="d6">e2735b0956b151ac215d6d329fd4fbf1</data>
+    </edge>
+    <edge source="&quot;FRANCINE SMITH&quot;" target="&quot;STEVEN ANITA ``STEVE ''SMITH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Steven is Francine's son."</data>
+      <data key="d6">e2735b0956b151ac215d6d329fd4fbf1</data>
+    </edge>
+    <edge source="&quot;HAYLEY SMITH&quot;" target="&quot;STEVEN ANITA ``STEVE ''SMITH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Steven is Hayley's younger brother."</data>
+      <data key="d6">e2735b0956b151ac215d6d329fd4fbf1</data>
+    </edge>
+    <edge source="&quot;AMERICAN DAD!&quot;" target="&quot;STEVEN ANITA ``STEVE ''SMITH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Steven is a character in American Dad!."&gt;&lt;|COMPLETE|I'll add the missing entities to the output. Here is the updated list:("entity"</data>
+      <data key="d6">e2735b0956b151ac215d6d329fd4fbf1</data>
+    </edge>
+    <edge source="&quot;AMERICAN DAD!&quot;" target="&quot;FOX&quot;">
+      <data key="d4">2.0</data>
+      <data key="d5">Here is a comprehensive summary of the data:
+
+"American Dad!" is an American animated television series that airs on FOX in the United States.
+
+Let me know if you need any further assistance!</data>
+      <data key="d6">72cdf5458c545a5388f1e92c4a597ed3,d5c48c1dda31a396c89f58c52b720389</data>
+    </edge>
+    <edge source="&quot;DIPPER PINES&quot;" target="&quot;GRUNKLE STAN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Dipper Pines stays with his great uncle Grunkle Stan in Gravity Falls, Oregon."</data>
+      <data key="d6">e85d673b9699747400924067ef35a602</data>
+    </edge>
+    <edge source="&quot;MABEL PINES&quot;" target="&quot;GRUNKLE STAN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Mabel Pines stays with her great uncle Grunkle Stan in Gravity Falls, Oregon."</data>
+      <data key="d6">e85d673b9699747400924067ef35a602</data>
+    </edge>
+    <edge source="&quot;GRAVITY FALLS&quot;" target="&quot;ALEX HIRSCH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Alex Hirsch is the creator of the animated television series Gravity Falls."</data>
+      <data key="d6">e85d673b9699747400924067ef35a602</data>
+    </edge>
+    <edge source="&quot;ROGER&quot;" target="&quot;STAN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Roger challenges Stan's leadership qualities and teaches him to improve his acting skills."</data>
+      <data key="d6">d5c48c1dda31a396c89f58c52b720389</data>
+    </edge>
+    <edge source="&quot;STAN&quot;" target="&quot;AVERY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Stan has a close relationship with Avery, his favorite child."</data>
+      <data key="d6">09fcae4a9626aaa3029b36da1286d827</data>
+    </edge>
+    <edge source="&quot;STAN&quot;" target="&quot;TYLER&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Stan trusts Tyler with his secret of being able to talk."</data>
+      <data key="d6">09fcae4a9626aaa3029b36da1286d827</data>
+    </edge>
+    <edge source="&quot;STAN&quot;" target="&quot;CHLOE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Stan trusts Chloe with his secret of being able to talk."</data>
+      <data key="d6">09fcae4a9626aaa3029b36da1286d827</data>
+    </edge>
+    <edge source="&quot;STAN&quot;" target="&quot;KARL&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Stan trusts Karl with his secret of being able to talk."</data>
+      <data key="d6">09fcae4a9626aaa3029b36da1286d827</data>
+    </edge>
+    <edge source="&quot;STAN&quot;" target="&quot;GRANDMA JAMES&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Grandma James discovers Stan's secret and faints."</data>
+      <data key="d6">09fcae4a9626aaa3029b36da1286d827</data>
+    </edge>
+    <edge source="&quot;STAN&quot;" target="&quot;ELLEN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Ellen does not know that Stan can talk."</data>
+      <data key="d6">09fcae4a9626aaa3029b36da1286d827</data>
+    </edge>
+    <edge source="&quot;STAN&quot;" target="&quot;BENNETT&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Bennett does not know that Stan can talk."</data>
+      <data key="d6">09fcae4a9626aaa3029b36da1286d827</data>
+    </edge>
+    <edge source="&quot;STAN&quot;" target="&quot;FRANCINE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Stan and Francine are characters in American Dad! who have a relationship that ends when Francine finds Jesus."</data>
+      <data key="d6">72cdf5458c545a5388f1e92c4a597ed3</data>
+    </edge>
+    <edge source="&quot;STEVE&quot;" target="&quot;A PI&#209;ATA NAMED DESIRE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Steve is a character in A Pi&#241;ata Named Desire, planning to throw his last slumber party with friends."</data>
+      <data key="d6">d5c48c1dda31a396c89f58c52b720389</data>
+    </edge>
+    <edge source="&quot;PATRICK WARBURTON&quot;" target="&quot;BUZZ LIGHTYEAR&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Patrick Warburton provided the voice of Buzz Lightyear for the TV series."</data>
+      <data key="d6">eb2def0050fbca97436e8f73aaa28e34</data>
+    </edge>
+    <edge source="&quot;PAT FRALEY&quot;" target="&quot;BUZZ LIGHTYEAR&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Pat Fraley voiced Buzz Lightyear for the video games and Disney Parks attractions."</data>
+      <data key="d6">eb2def0050fbca97436e8f73aaa28e34</data>
+    </edge>
+    <edge source="&quot;BUZZ LIGHTYEAR&quot;" target="&quot;TIM ALLEN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Tim Allen voiced the character of Buzz Lightyear in the Toy Story film series."</data>
+      <data key="d6">eb2def0050fbca97436e8f73aaa28e34</data>
+    </edge>
+    <edge source="&quot;TOY STORY&quot;" target="&quot;DISNEY PARKS&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The Toy Story franchise has attractions in Disney Parks."</data>
+      <data key="d6">eb2def0050fbca97436e8f73aaa28e34</data>
+    </edge>
+    <edge source="&quot;LARGO THE BLACK LION&quot;" target="&quot;JAMIESON KENT PRICE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Jamieson Kent Price voices Largo the Black Lion in 'Tales of the Abyss'."</data>
+      <data key="d6">0fb726730f665e6ff8f898516c39c6c2</data>
+    </edge>
+    <edge source="&quot;IRON TAGER&quot;" target="&quot;JAMIESON KENT PRICE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Jamieson Kent Price voices Iron Tager in the 'BlazBlue' series."</data>
+      <data key="d6">0fb726730f665e6ff8f898516c39c6c2</data>
+    </edge>
+    <edge source="&quot;COUNT OF MONTE CRISTO&quot;" target="&quot;JAMIESON KENT PRICE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Jamieson Kent Price voices the Count of Monte Cristo in 'Gankutsuou'."</data>
+      <data key="d6">0fb726730f665e6ff8f898516c39c6c2</data>
+    </edge>
+    <edge source="&quot;OVAN&quot;" target="&quot;JAMIESON KENT PRICE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Jamieson Kent Price voices Ovan in '.hack//G.U.'."</data>
+      <data key="d6">0fb726730f665e6ff8f898516c39c6c2</data>
+    </edge>
+    <edge source="&quot;GALBALAN&quot;" target="&quot;JAMIESON KENT PRICE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Jamieson Kent Price voices Galbalan, the main villain of ''."</data>
+      <data key="d6">0fb726730f665e6ff8f898516c39c6c2</data>
+    </edge>
+    <edge source="&quot;MILTON GRIMM&quot;" target="&quot;JAMIESON KENT PRICE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Jamieson Kent Price voices Milton Grimm in 'Ever After High'."</data>
+      <data key="d6">0fb726730f665e6ff8f898516c39c6c2</data>
+    </edge>
+    <edge source="&quot;STAN BRAKHAGE&quot;" target="&quot;DOG STAR MAN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Stan Brakhage directed the Dog Star Man film series."</data>
+      <data key="d6">0702ca5c8b44378b5127b36e12204a84</data>
+    </edge>
+    <edge source="&quot;JANE WODENING&quot;" target="&quot;DOG STAR MAN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Jane Wodening is featured in the Dog Star Man film series."</data>
+      <data key="d6">0702ca5c8b44378b5127b36e12204a84</data>
+    </edge>
+    <edge source="&quot;FRANCE&quot;" target="&quot;ARNAUD JOYET&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Arnaud Joyet is from France."</data>
+      <data key="d6">b94a07ed85598ae673160e8e1adafe87</data>
+    </edge>
+    <edge source="&quot;HERO CORP&quot;" target="&quot;ARNAUD JOYET&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Arnaud Joyet plays a role in the series Hero Corp."</data>
+      <data key="d6">b94a07ed85598ae673160e8e1adafe87</data>
+    </edge>
+    <edge source="&quot;ANTHONY MCCALL&quot;" target="&quot;LINE DESCRIBING A CONE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Anthony McCall produced the film Line Describing a Cone."</data>
+      <data key="d6">7c515267a34af9ceb20298bf7d3f2634</data>
+    </edge>
+    <edge source="&quot;ANTHONY MCCALL&quot;" target="&quot;STAN DOUGLAS&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Stan Douglas was inspired by Anthony McCall's work."</data>
+      <data key="d6">7c515267a34af9ceb20298bf7d3f2634</data>
+    </edge>
+    <edge source="&quot;ANTHONY MCCALL&quot;" target="&quot;RICHARD SERRA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Richard Serra was inspired by Anthony McCall's work."</data>
+      <data key="d6">7c515267a34af9ceb20298bf7d3f2634</data>
+    </edge>
+    <edge source="&quot;ANTHONY MCCALL&quot;" target="&quot;GORDON MATTA-CLARK&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Gordon Matta-Clark was inspired by Anthony McCall's work."</data>
+      <data key="d6">7c515267a34af9ceb20298bf7d3f2634</data>
+    </edge>
+    <edge source="&quot;STOCKHOLM METRO&quot;" target="&quot;GAMLA STAN METRO STATION&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Gamla stan metro station is part of the Stockholm metro system."</data>
+      <data key="d6">25f0e3fff4c316007e2172c04e0de3e5</data>
+    </edge>
+    <edge source="&quot;GAMLA STAN&quot;" target="&quot;GAMLA STAN METRO STATION&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Gamla stan metro station is located in the district of Gamla stan."</data>
+      <data key="d6">25f0e3fff4c316007e2172c04e0de3e5</data>
+    </edge>
+    <edge source="&quot;SLUSSEN&quot;" target="&quot;H&#214;TORGET&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Slussen and H&#246;torget are connected by the Green line, which includes Gamla stan metro station."</data>
+      <data key="d6">25f0e3fff4c316007e2172c04e0de3e5</data>
+    </edge>
+    <edge source="&quot;T-CENTRALEN&quot;" target="&quot;FRU&#196;NGEN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"T-Centralen and Fru&#228;ngen are connected by the Red line of the Stockholm metro."</data>
+      <data key="d6">25f0e3fff4c316007e2172c04e0de3e5</data>
+    </edge>
+    <edge source="&quot;TREY PARKER&quot;" target="&quot;DIAN BACHAR&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Dian Bachar has collaborated with Trey Parker on several film projects."</data>
+      <data key="d6">81a7373a1989122749915f4de46e3d6f</data>
+    </edge>
+    <edge source="&quot;TREY PARKER&quot;" target="&quot;MATT STONE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Trey Parker and Matt Stone are friends and collaborators of Dian Bachar's."</data>
+      <data key="d6">81a7373a1989122749915f4de46e3d6f</data>
+    </edge>
+    <edge source="&quot;TREY PARKER&quot;" target="&quot;STAN MARSH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Trey Parker voices Stan Marsh."</data>
+      <data key="d6">a74b6976b558c47c043476f2f35a2a66</data>
+    </edge>
+    <edge source="&quot;TREY PARKER&quot;" target="&quot;ERIC CARTMAN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Trey Parker voices Eric Cartman."</data>
+      <data key="d6">a74b6976b558c47c043476f2f35a2a66</data>
+    </edge>
+    <edge source="&quot;TREY PARKER&quot;" target="&quot;RANDY MARSH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Trey Parker voices Randy Marsh."</data>
+      <data key="d6">a74b6976b558c47c043476f2f35a2a66</data>
+    </edge>
+    <edge source="&quot;TREY PARKER&quot;" target="&quot;MR. GARRISON&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Trey Parker voices Mr. Garrison."</data>
+      <data key="d6">a74b6976b558c47c043476f2f35a2a66</data>
+    </edge>
+    <edge source="&quot;TREY PARKER&quot;" target="&quot;CLYDE DONOVAN&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Trey Parker voices Clyde Donovan."</data>
+      <data key="d6">a74b6976b558c47c043476f2f35a2a66</data>
+    </edge>
+    <edge source="&quot;TREY PARKER&quot;" target="&quot;MR. HANKEY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Trey Parker voices Mr. Hankey."</data>
+      <data key="d6">a74b6976b558c47c043476f2f35a2a66</data>
+    </edge>
+    <edge source="&quot;TREY PARKER&quot;" target="&quot;MR. MACKEY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Trey Parker voices Mr. Mackey."</data>
+      <data key="d6">a74b6976b558c47c043476f2f35a2a66</data>
+    </edge>
+    <edge source="&quot;TREY PARKER&quot;" target="&quot;STEPHEN STOTCH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Trey Parker voices Stephen Stotch."</data>
+      <data key="d6">a74b6976b558c47c043476f2f35a2a66</data>
+    </edge>
+    <edge source="&quot;TREY PARKER&quot;" target="&quot;JIMMY VALMER&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Trey Parker voices Jimmy Valmer."</data>
+      <data key="d6">a74b6976b558c47c043476f2f35a2a66</data>
+    </edge>
+    <edge source="&quot;TREY PARKER&quot;" target="&quot;TIMMY BURCH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Trey Parker voices Timmy Burch."</data>
+      <data key="d6">a74b6976b558c47c043476f2f35a2a66</data>
+    </edge>
+    <edge source="&quot;TREY PARKER&quot;" target="&quot;TUONG LU KIM&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Trey Parker voices Tuong Lu Kim."</data>
+      <data key="d6">a74b6976b558c47c043476f2f35a2a66</data>
+    </edge>
+    <edge source="&quot;TREY PARKER&quot;" target="&quot;PHILLIP&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Trey Parker voices Phillip."</data>
+      <data key="d6">a74b6976b558c47c043476f2f35a2a66</data>
+    </edge>
+    <edge source="&quot;MATT STONE&quot;" target="&quot;DIAN BACHAR&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Dian Bachar has collaborated with Matt Stone on several film projects."</data>
+      <data key="d6">81a7373a1989122749915f4de46e3d6f</data>
+    </edge>
+    <edge source="&quot;DENVER&quot;" target="&quot;DIAN BACHAR&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Dian Bachar was born in Denver, Colorado."</data>
+      <data key="d6">81a7373a1989122749915f4de46e3d6f</data>
+    </edge>
+    <edge source="&quot;ELECTRIC FARM ENTERTAINMENT&quot;" target="&quot;GEMINI DIVISION&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Gemini Division was created by Electric Farm Entertainment."</data>
+      <data key="d6">c9099e719d6a96c6d9dd8aae3125b6c6</data>
+    </edge>
+    <edge source="&quot;BRENT FRIEDMAN&quot;" target="&quot;GEMINI DIVISION&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Brent Friedman is the creator of Gemini Division, serving as executive producer and writer."</data>
+      <data key="d6">c9099e719d6a96c6d9dd8aae3125b6c6</data>
+    </edge>
+    <edge source="&quot;ROSARIO DAWSON&quot;" target="&quot;GEMINI DIVISION&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Rosario Dawson stars in Gemini Division."</data>
+      <data key="d6">c9099e719d6a96c6d9dd8aae3125b6c6</data>
+    </edge>
+    <edge source="&quot;J ALEX REED&quot;" target="&quot;GEMINI DIVISION&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"J Alex Reed is a showrunner for Gemini Division."</data>
+      <data key="d6">c9099e719d6a96c6d9dd8aae3125b6c6</data>
+    </edge>
+    <edge source="&quot;STAN MARSH&quot;" target="&quot;JEROME ``CHEF ''MCELROY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Stan Marsh often seeks guidance from Jerome ``Chef ''McElroy."</data>
+      <data key="d6">b011dc47ac384f70cc5e4b295434fbbe</data>
+    </edge>
+    <edge source="&quot;ERIC CARTMAN&quot;" target="&quot;JEROME ``CHEF ''MCELROY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Eric Cartman often seeks guidance from Jerome ``Chef ''McElroy."</data>
+      <data key="d6">b011dc47ac384f70cc5e4b295434fbbe</data>
+    </edge>
+    <edge source="&quot;ELISABETH SHUE&quot;" target="&quot;JENNIFER&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Elisabeth Shue replaced Claudia Wells as Jennifer in the sequels of Back to the Future."</data>
+      <data key="d6">fdab5098e81bada7f807ddc13ee15d94</data>
+    </edge>
+    <edge source="&quot;CATHY CAVADINI&quot;" target="&quot;JENNIFER&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Cathy Cavadini voiced Jennifer in the spin-off Back to the Future: The Animated Series."</data>
+      <data key="d6">fdab5098e81bada7f807ddc13ee15d94</data>
+    </edge>
+    <edge source="&quot;CLAUDIA WELLS&quot;" target="&quot;JENNIFER&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Claudia Wells played the character of Jennifer in Back to the Future."</data>
+      <data key="d6">fdab5098e81bada7f807ddc13ee15d94</data>
+    </edge>
+    <edge source="&quot;ISAAC HAYES&quot;" target="&quot;JEROME ``CHEF ''MCELROY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Isaac Hayes voices Jerome ``Chef ''McElroy in South Park."</data>
+      <data key="d6">b011dc47ac384f70cc5e4b295434fbbe</data>
+    </edge>
+    <edge source="&quot;SOUTH PARK&quot;" target="&quot;JEROME ``CHEF ''MCELROY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Jerome ``Chef ''McElroy is a character on the Comedy Central series South Park."</data>
+      <data key="d6">b011dc47ac384f70cc5e4b295434fbbe</data>
+    </edge>
+    <edge source="&quot;SOUTH PARK&quot;" target="&quot;COMEDY CENTRAL&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"South Park was aired on Comedy Central."</data>
+      <data key="d6">00a81510f812fb0720ff567f9df1362b</data>
+    </edge>
+    <edge source="&quot;KYLE BROFLOVSKI&quot;" target="&quot;JEROME ``CHEF ''MCELROY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Kyle Broflovski often seeks guidance from Jerome ``Chef ''McElroy."</data>
+      <data key="d6">b011dc47ac384f70cc5e4b295434fbbe</data>
+    </edge>
+    <edge source="&quot;KENNY MCCORMICK&quot;" target="&quot;JEROME ``CHEF ''MCELROY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Kenny McCormick often seeks guidance from Jerome ``Chef ''McElroy."</data>
+      <data key="d6">b011dc47ac384f70cc5e4b295434fbbe</data>
+    </edge>
+    <edge source="&quot;FRANCINE&quot;" target="&quot;JESUS&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Francine befriends Jesus and becomes his bride, leaving Stan behind."</data>
+      <data key="d6">72cdf5458c545a5388f1e92c4a597ed3</data>
+    </edge>
+    <edge source="&quot;THIEF&quot;" target="&quot;STEPHEN RUSSELL&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Stephen Russell provided voice acting in the Thief video game series."</data>
+      <data key="d6">2279c9d0f01017bf1d8525edfe9d1449</data>
+    </edge>
+    <edge source="&quot;FALLOUT&quot;" target="&quot;STEPHEN RUSSELL&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Stephen Russell provided voice acting in the Fallout video game series."</data>
+      <data key="d6">2279c9d0f01017bf1d8525edfe9d1449</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,855 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;NORTH BEACH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"North Beach is a location in the city of Miami Beach, Florida, United States, where Isle of Normandy is situated."</data>
+      <data key="d2">185b35c6917432039047eab11b3210fd</data>
+    </node>
+    <node id="&quot;MIAMI BEACH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Miami Beach is a city in Florida, United States, where Isle of Normandy and North Beach are located."</data>
+      <data key="d2">185b35c6917432039047eab11b3210fd</data>
+    </node>
+    <node id="&quot;FLORIDA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Florida is a U.S. state located in the United States, with its capital being Tallahassee. The state is home to various cities and counties, including Crescent City, StoneSoup School, Gadsden County, Quincy, Gilchrist County, Little Lake City, Hendry County, LaBelle, Hillsborough River State Park, Hillsborough County, Holly Hill, Volusia County, Jacksonville, Kissimmee Prairie Preserve State Park, Mexico Beach, Bay County, Miami Beach, Isle of Normandy, Naples, Collier County, Ocala, Vero Beach, Indian River County, and Pinellas County. Additionally, Florida is where the broadcast location of WOCA, Ocala, is situated.
+
+Note: I removed duplicates and contradictions, and rephrased some sentences to make them more concise and coherent.</data>
+      <data key="d2">16d4ecfca73dbd4bf633563c048b39b0,185b35c6917432039047eab11b3210fd,1c025eca2c59bc28e4e23352ec0d1036,364673b9aa2a99597668c1d2583ff6c7,50d5902c233bcf5e4c0ca22ab3ec28eb,5ed69a44e0ae222dd61fdff44a059dce,619d0b57ec00c8e90c7cd816adff1e91,7365968d8389fb0c40ce2eee1448d2da,7d160c6ca75476c25d65180f24a35121,8cd60053881e60fc88a1b07236b1a60d,8f069c72ed2fb56eaec2ea8023f606ad,9545fef03b692253711b39248469ee82,9beb6cf0423a057e7ea48e1e21a6aef5,a5fab411fea795886fb4efcccb457ec8,b43c3c0be827fd13d053e9115edd2688,df12a45297eb806593762e670232265a,f6c05270c649aec7ab3de6eaf6944ba5</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country that encompasses various cities and counties across different states. It is home to cities such as Tallahassee, Jacksonville, Naples, Melbourne, Miami Beach, Vero Beach, and Holly Hill, all of which are located in the state of Florida. Additionally, Tucson, a city in Pima County, Arizona, is also part of the United States. Other notable locations within the country include Crescent City, StoneSoup School, Quincy, Mexico Beach, Bay County, Indian River County, and Isle of Normandy, further highlighting the diversity of its geography.
+
+Let me know if you need any adjustments!</data>
+      <data key="d2">165c721b5c817ab6a2d3fd8598eac349,16d4ecfca73dbd4bf633563c048b39b0,185b35c6917432039047eab11b3210fd,1c025eca2c59bc28e4e23352ec0d1036,2d2887287efa996a4b94ff02db4e3c6e,364673b9aa2a99597668c1d2583ff6c7,50d5902c233bcf5e4c0ca22ab3ec28eb,5ed69a44e0ae222dd61fdff44a059dce,619d0b57ec00c8e90c7cd816adff1e91,7365968d8389fb0c40ce2eee1448d2da,7d160c6ca75476c25d65180f24a35121,8cd60053881e60fc88a1b07236b1a60d,8f069c72ed2fb56eaec2ea8023f606ad,9545fef03b692253711b39248469ee82,9beb6cf0423a057e7ea48e1e21a6aef5,a5fab411fea795886fb4efcccb457ec8,b43c3c0be827fd13d053e9115edd2688,dad5b0d18c12a745ed224e8158d74387,df12a45297eb806593762e670232265a,f6c05270c649aec7ab3de6eaf6944ba5</data>
+      <data key="d3">"GEO"</data>
+    </node>
+    <node id="&quot;ISLE OF NORMANDY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">185b35c6917432039047eab11b3210fd</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">165c721b5c817ab6a2d3fd8598eac349,16d4ecfca73dbd4bf633563c048b39b0,185b35c6917432039047eab11b3210fd,1c025eca2c59bc28e4e23352ec0d1036,2d2887287efa996a4b94ff02db4e3c6e,364673b9aa2a99597668c1d2583ff6c7,50d5902c233bcf5e4c0ca22ab3ec28eb,5ed69a44e0ae222dd61fdff44a059dce,619d0b57ec00c8e90c7cd816adff1e91,7365968d8389fb0c40ce2eee1448d2da,7d160c6ca75476c25d65180f24a35121,8cd60053881e60fc88a1b07236b1a60d,8f069c72ed2fb56eaec2ea8023f606ad,9545fef03b692253711b39248469ee82,9beb6cf0423a057e7ea48e1e21a6aef5,a5fab411fea795886fb4efcccb457ec8,b43c3c0be827fd13d053e9115edd2688,dad5b0d18c12a745ed224e8158d74387,df12a45297eb806593762e670232265a,f6c05270c649aec7ab3de6eaf6944ba5</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">165c721b5c817ab6a2d3fd8598eac349,16d4ecfca73dbd4bf633563c048b39b0,185b35c6917432039047eab11b3210fd,1c025eca2c59bc28e4e23352ec0d1036,2d2887287efa996a4b94ff02db4e3c6e,364673b9aa2a99597668c1d2583ff6c7,50d5902c233bcf5e4c0ca22ab3ec28eb,5ed69a44e0ae222dd61fdff44a059dce,619d0b57ec00c8e90c7cd816adff1e91,7365968d8389fb0c40ce2eee1448d2da,7d160c6ca75476c25d65180f24a35121,8cd60053881e60fc88a1b07236b1a60d,8f069c72ed2fb56eaec2ea8023f606ad,9545fef03b692253711b39248469ee82,9beb6cf0423a057e7ea48e1e21a6aef5,a5fab411fea795886fb4efcccb457ec8,b43c3c0be827fd13d053e9115edd2688,dad5b0d18c12a745ed224e8158d74387,df12a45297eb806593762e670232265a,f6c05270c649aec7ab3de6eaf6944ba5</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">165c721b5c817ab6a2d3fd8598eac349,16d4ecfca73dbd4bf633563c048b39b0,185b35c6917432039047eab11b3210fd,1c025eca2c59bc28e4e23352ec0d1036,2d2887287efa996a4b94ff02db4e3c6e,364673b9aa2a99597668c1d2583ff6c7,50d5902c233bcf5e4c0ca22ab3ec28eb,5ed69a44e0ae222dd61fdff44a059dce,619d0b57ec00c8e90c7cd816adff1e91,7365968d8389fb0c40ce2eee1448d2da,7d160c6ca75476c25d65180f24a35121,8cd60053881e60fc88a1b07236b1a60d,8f069c72ed2fb56eaec2ea8023f606ad,9545fef03b692253711b39248469ee82,9beb6cf0423a057e7ea48e1e21a6aef5,a5fab411fea795886fb4efcccb457ec8,b43c3c0be827fd13d053e9115edd2688,dad5b0d18c12a745ed224e8158d74387,df12a45297eb806593762e670232265a,f6c05270c649aec7ab3de6eaf6944ba5</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">165c721b5c817ab6a2d3fd8598eac349,16d4ecfca73dbd4bf633563c048b39b0,185b35c6917432039047eab11b3210fd,1c025eca2c59bc28e4e23352ec0d1036,2d2887287efa996a4b94ff02db4e3c6e,364673b9aa2a99597668c1d2583ff6c7,50d5902c233bcf5e4c0ca22ab3ec28eb,5ed69a44e0ae222dd61fdff44a059dce,619d0b57ec00c8e90c7cd816adff1e91,7365968d8389fb0c40ce2eee1448d2da,7d160c6ca75476c25d65180f24a35121,8cd60053881e60fc88a1b07236b1a60d,8f069c72ed2fb56eaec2ea8023f606ad,9545fef03b692253711b39248469ee82,9beb6cf0423a057e7ea48e1e21a6aef5,a5fab411fea795886fb4efcccb457ec8,b43c3c0be827fd13d053e9115edd2688,dad5b0d18c12a745ed224e8158d74387,df12a45297eb806593762e670232265a,f6c05270c649aec7ab3de6eaf6944ba5</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">165c721b5c817ab6a2d3fd8598eac349,16d4ecfca73dbd4bf633563c048b39b0,185b35c6917432039047eab11b3210fd,1c025eca2c59bc28e4e23352ec0d1036,2d2887287efa996a4b94ff02db4e3c6e,364673b9aa2a99597668c1d2583ff6c7,50d5902c233bcf5e4c0ca22ab3ec28eb,5ed69a44e0ae222dd61fdff44a059dce,619d0b57ec00c8e90c7cd816adff1e91,7365968d8389fb0c40ce2eee1448d2da,7d160c6ca75476c25d65180f24a35121,8cd60053881e60fc88a1b07236b1a60d,8f069c72ed2fb56eaec2ea8023f606ad,9545fef03b692253711b39248469ee82,9beb6cf0423a057e7ea48e1e21a6aef5,a5fab411fea795886fb4efcccb457ec8,b43c3c0be827fd13d053e9115edd2688,dad5b0d18c12a745ed224e8158d74387,df12a45297eb806593762e670232265a,f6c05270c649aec7ab3de6eaf6944ba5</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">165c721b5c817ab6a2d3fd8598eac349,16d4ecfca73dbd4bf633563c048b39b0,185b35c6917432039047eab11b3210fd,1c025eca2c59bc28e4e23352ec0d1036,2d2887287efa996a4b94ff02db4e3c6e,364673b9aa2a99597668c1d2583ff6c7,50d5902c233bcf5e4c0ca22ab3ec28eb,5ed69a44e0ae222dd61fdff44a059dce,619d0b57ec00c8e90c7cd816adff1e91,7365968d8389fb0c40ce2eee1448d2da,7d160c6ca75476c25d65180f24a35121,8cd60053881e60fc88a1b07236b1a60d,8f069c72ed2fb56eaec2ea8023f606ad,9545fef03b692253711b39248469ee82,9beb6cf0423a057e7ea48e1e21a6aef5,a5fab411fea795886fb4efcccb457ec8,b43c3c0be827fd13d053e9115edd2688,dad5b0d18c12a745ed224e8158d74387,df12a45297eb806593762e670232265a,f6c05270c649aec7ab3de6eaf6944ba5</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">165c721b5c817ab6a2d3fd8598eac349,16d4ecfca73dbd4bf633563c048b39b0,185b35c6917432039047eab11b3210fd,1c025eca2c59bc28e4e23352ec0d1036,2d2887287efa996a4b94ff02db4e3c6e,364673b9aa2a99597668c1d2583ff6c7,50d5902c233bcf5e4c0ca22ab3ec28eb,5ed69a44e0ae222dd61fdff44a059dce,619d0b57ec00c8e90c7cd816adff1e91,7365968d8389fb0c40ce2eee1448d2da,7d160c6ca75476c25d65180f24a35121,8cd60053881e60fc88a1b07236b1a60d,8f069c72ed2fb56eaec2ea8023f606ad,9545fef03b692253711b39248469ee82,9beb6cf0423a057e7ea48e1e21a6aef5,a5fab411fea795886fb4efcccb457ec8,b43c3c0be827fd13d053e9115edd2688,dad5b0d18c12a745ed224e8158d74387,df12a45297eb806593762e670232265a,f6c05270c649aec7ab3de6eaf6944ba5</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">165c721b5c817ab6a2d3fd8598eac349,16d4ecfca73dbd4bf633563c048b39b0,185b35c6917432039047eab11b3210fd,1c025eca2c59bc28e4e23352ec0d1036,2d2887287efa996a4b94ff02db4e3c6e,364673b9aa2a99597668c1d2583ff6c7,50d5902c233bcf5e4c0ca22ab3ec28eb,5ed69a44e0ae222dd61fdff44a059dce,619d0b57ec00c8e90c7cd816adff1e91,7365968d8389fb0c40ce2eee1448d2da,7d160c6ca75476c25d65180f24a35121,8cd60053881e60fc88a1b07236b1a60d,8f069c72ed2fb56eaec2ea8023f606ad,9545fef03b692253711b39248469ee82,9beb6cf0423a057e7ea48e1e21a6aef5,a5fab411fea795886fb4efcccb457ec8,b43c3c0be827fd13d053e9115edd2688,dad5b0d18c12a745ed224e8158d74387,df12a45297eb806593762e670232265a,f6c05270c649aec7ab3de6eaf6944ba5</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">165c721b5c817ab6a2d3fd8598eac349,16d4ecfca73dbd4bf633563c048b39b0,185b35c6917432039047eab11b3210fd,1c025eca2c59bc28e4e23352ec0d1036,2d2887287efa996a4b94ff02db4e3c6e,364673b9aa2a99597668c1d2583ff6c7,50d5902c233bcf5e4c0ca22ab3ec28eb,5ed69a44e0ae222dd61fdff44a059dce,619d0b57ec00c8e90c7cd816adff1e91,7365968d8389fb0c40ce2eee1448d2da,7d160c6ca75476c25d65180f24a35121,8cd60053881e60fc88a1b07236b1a60d,8f069c72ed2fb56eaec2ea8023f606ad,9545fef03b692253711b39248469ee82,9beb6cf0423a057e7ea48e1e21a6aef5,a5fab411fea795886fb4efcccb457ec8,b43c3c0be827fd13d053e9115edd2688,dad5b0d18c12a745ed224e8158d74387,df12a45297eb806593762e670232265a,f6c05270c649aec7ab3de6eaf6944ba5</data>
+    </node>
+    <node id="&quot;NORTH MIAMI BEACH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"North Miami Beach is a city in Miami-Dade County, Florida, United States, where Eastern Shores is located."</data>
+      <data key="d2">dad5b0d18c12a745ed224e8158d74387</data>
+    </node>
+    <node id="&quot;MIAMI-DADE COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Miami-Dade County is a county in Florida, United States, where North Miami Beach and Eastern Shores are located."</data>
+      <data key="d2">dad5b0d18c12a745ed224e8158d74387</data>
+    </node>
+    <node id="&quot;AVENTURA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Aventura is a city in Florida, United States, located north of Eastern Shores."</data>
+      <data key="d2">dad5b0d18c12a745ed224e8158d74387</data>
+    </node>
+    <node id="&quot;MIAMI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Miami is a city in Florida, United States, located south of Eastern Shores."</data>
+      <data key="d2">dad5b0d18c12a745ed224e8158d74387</data>
+    </node>
+    <node id="&quot;EASTERN SHORES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">dad5b0d18c12a745ed224e8158d74387</data>
+    </node>
+    <node id="&quot;LABELLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"LaBelle is a city in Hendry County, Florida, United States, where the LaBelle Municipal Airport is located."</data>
+      <data key="d2">b43c3c0be827fd13d053e9115edd2688</data>
+    </node>
+    <node id="&quot;HENDRY COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hendry County is a county in Florida, United States, where the city of LaBelle and LaBelle Municipal Airport are located."</data>
+      <data key="d2">b43c3c0be827fd13d053e9115edd2688</data>
+    </node>
+    <node id="&quot;LABELLE MUNICIPAL AIRPORT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b43c3c0be827fd13d053e9115edd2688</data>
+    </node>
+    <node id="&quot;VOLUSIA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Volusia County is a county in Florida, United States, where Holly Hill is located."</data>
+      <data key="d2">7d160c6ca75476c25d65180f24a35121</data>
+    </node>
+    <node id="&quot;DAYTONA BEACH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Daytona Beach is a city in Florida, United States, located near Holly Hill."</data>
+      <data key="d2">7d160c6ca75476c25d65180f24a35121</data>
+    </node>
+    <node id="&quot;ORMOND BEACH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ormond Beach is a city in Florida, United States, located near Holly Hill."</data>
+      <data key="d2">7d160c6ca75476c25d65180f24a35121</data>
+    </node>
+    <node id="&quot;HALIFAX RIVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Halifax River is a river in Florida, United States, that separates Holly Hill from the barrier island."</data>
+      <data key="d2">7d160c6ca75476c25d65180f24a35121</data>
+    </node>
+    <node id="&quot;HOLLY HILL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7d160c6ca75476c25d65180f24a35121</data>
+    </node>
+    <node id="&quot;NATIONAL COALITION OF ALTERNATIVE COMMUNITY SCHOOLS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The National Coalition of Alternative Community Schools is an organization that StoneSoup School is a member of."</data>
+      <data key="d2">9545fef03b692253711b39248469ee82</data>
+    </node>
+    <node id="&quot;CRESCENT CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Crescent City is a location in Florida, United States where StoneSoup School was situated."</data>
+      <data key="d2">9545fef03b692253711b39248469ee82</data>
+    </node>
+    <node id="&quot;STONESOUP SCHOOL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9545fef03b692253711b39248469ee82</data>
+    </node>
+    <node id="&quot;UNITED STATES CENSUS BUREAU&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The United States Census Bureau is an organization that estimates population data."</data>
+      <data key="d2">50d5902c233bcf5e4c0ca22ab3ec28eb</data>
+    </node>
+    <node id="&quot;OCALA&quot;">
+      <data key="d0" />
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Ocala is the location where WOCA broadcasts its programs.</data>
+      <data key="d2">50d5902c233bcf5e4c0ca22ab3ec28eb,9beb6cf0423a057e7ea48e1e21a6aef5</data>
+    </node>
+    <node id="&quot;ESCAMBIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Escambia is one of the original two counties in Florida, located to the west and divided by the Suwannee River."</data>
+      <data key="d2">7365968d8389fb0c40ce2eee1448d2da</data>
+    </node>
+    <node id="&quot;ST. JOHNS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"St. Johns is one of the original two counties in Florida, located to the east and divided by the Suwannee River."</data>
+      <data key="d2">7365968d8389fb0c40ce2eee1448d2da</data>
+    </node>
+    <node id="&quot;SUWANNEE RIVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Suwannee River is a river in Florida, United States, where Little Lake City is located. Additionally, it serves as a dividing line between Escambia and St. Johns counties in Florida.
+
+Let me know if you need anything else!</data>
+      <data key="d2">364673b9aa2a99597668c1d2583ff6c7,7365968d8389fb0c40ce2eee1448d2da</data>
+    </node>
+    <node id="&quot;GILCHRIST COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Gilchrist County is a county in Florida, United States, where Little Lake City is located. It was formed in 1925 from a segment of Alachua County, making it the last county created in Florida.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">364673b9aa2a99597668c1d2583ff6c7,7365968d8389fb0c40ce2eee1448d2da</data>
+    </node>
+    <node id="&quot;ALACHUA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Alachua County is a county in Florida that was divided to form Gilchrist County in 1925."</data>
+      <data key="d2">7365968d8389fb0c40ce2eee1448d2da</data>
+    </node>
+    <node id="&quot;CRAWFORDVILLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Crawfordville is the county seat of rural Wakulla County, one of the two unincorporated municipalities in Florida."</data>
+      <data key="d2">7365968d8389fb0c40ce2eee1448d2da</data>
+    </node>
+    <node id="&quot;EAST NAPLES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"East Naples is located outside Naples city limits in Collier County and is one of the two unincorporated municipalities in Florida."</data>
+      <data key="d2">7365968d8389fb0c40ce2eee1448d2da</data>
+    </node>
+    <node id="&quot;WAKULLA COUNTY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7365968d8389fb0c40ce2eee1448d2da</data>
+    </node>
+    <node id="&quot;COLLIER COUNTY&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Collier County is a location in Florida, United States, where Naples is situated.</data>
+      <data key="d2">7365968d8389fb0c40ce2eee1448d2da,8f069c72ed2fb56eaec2ea8023f606ad</data>
+    </node>
+    <node id="&quot;NAPLES - MARCO ISLAND, FLORIDA METROPOLITAN STATISTICAL AREA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Naples - Marco Island, Florida Metropolitan Statistical Area is a metropolitan area that includes Naples and has a population of about 322,000 as of 2015."</data>
+      <data key="d2">8f069c72ed2fb56eaec2ea8023f606ad</data>
+    </node>
+    <node id="&quot;NAPLES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8f069c72ed2fb56eaec2ea8023f606ad</data>
+    </node>
+    <node id="&quot;LEON COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Leon County is a geographic location where Tallahassee is situated and serves as the county seat."</data>
+      <data key="d2">a5fab411fea795886fb4efcccb457ec8</data>
+    </node>
+    <node id="&quot;TALLAHASSEE&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Tallahassee is a city in Florida where WGLF (104.1 FM) radio station is located.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">2d2887287efa996a4b94ff02db4e3c6e,a5fab411fea795886fb4efcccb457ec8</data>
+    </node>
+    <node id="&quot;OKEECHOBEE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Okeechobee is a location in Florida, approximately 25 miles south of Kissimmee Prairie Preserve State Park."</data>
+      <data key="d2">8cd60053881e60fc88a1b07236b1a60d</data>
+    </node>
+    <node id="&quot;KISSIMMEE PRAIRIE PRESERVE STATE PARK&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8cd60053881e60fc88a1b07236b1a60d</data>
+    </node>
+    <node id="&quot;DUVAL COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Duval County is a county in Florida where Jacksonville is the county seat."</data>
+      <data key="d2">df12a45297eb806593762e670232265a</data>
+    </node>
+    <node id="&quot;JACKSONVILLE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">df12a45297eb806593762e670232265a</data>
+    </node>
+    <node id="&quot;CUMULUS LICENSING LLC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Cumulus Licensing LLC is the owner of WGLF (104.1 FM) radio station."</data>
+      <data key="d2">2d2887287efa996a4b94ff02db4e3c6e</data>
+    </node>
+    <node id="&quot;LLOYD, FLORIDA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lloyd, Florida is a location near Tallahassee where the transmitter of WGLF (104.1 FM) radio station is based."</data>
+      <data key="d2">2d2887287efa996a4b94ff02db4e3c6e</data>
+    </node>
+    <node id="&quot;WGLF (104.1 FM)&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2d2887287efa996a4b94ff02db4e3c6e</data>
+    </node>
+    <node id="&quot;BAY COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bay County is a location in Florida, United States, where Mexico Beach is situated."</data>
+      <data key="d2">16d4ecfca73dbd4bf633563c048b39b0</data>
+    </node>
+    <node id="&quot;PANAMA CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Panama City is a location in Florida, United States, near Mexico Beach."</data>
+      <data key="d2">16d4ecfca73dbd4bf633563c048b39b0</data>
+    </node>
+    <node id="&quot;HURRICANE MICHAEL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Hurricane Michael was a devastating hurricane that damaged Mexico Beach on October 10, 2018."</data>
+      <data key="d2">16d4ecfca73dbd4bf633563c048b39b0</data>
+    </node>
+    <node id="&quot;FEDERAL EMERGENCY MANAGEMENT AGENCY (FEMA)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"FEMA is an organization that declared Mexico Beach 'wiped out' after Hurricane Michael's impact."</data>
+      <data key="d2">16d4ecfca73dbd4bf633563c048b39b0</data>
+    </node>
+    <node id="&quot;MEXICO BEACH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">16d4ecfca73dbd4bf633563c048b39b0</data>
+    </node>
+    <node id="&quot;CITY PRODUCTS CORPORATION ICE PLANT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The City Products Corporation Ice Plant is another name for the Florida Power and Light Company Ice Plant."</data>
+      <data key="d2">165c721b5c817ab6a2d3fd8598eac349</data>
+    </node>
+    <node id="&quot;MELBOURNE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Melbourne is a city in Florida, United States, where the Florida Power and Light Company Ice Plant is located."</data>
+      <data key="d2">165c721b5c817ab6a2d3fd8598eac349</data>
+    </node>
+    <node id="&quot;U.S. NATIONAL REGISTER OF HISTORIC PLACES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The U.S. National Register of Historic Places is a register that lists historic sites, including the Florida Power and Light Company Ice Plant."</data>
+      <data key="d2">165c721b5c817ab6a2d3fd8598eac349</data>
+    </node>
+    <node id="&quot;NOVEMBER 17, 1982&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"On November 17, 1982, the Florida Power and Light Company Ice Plant was added to the U.S. National Register of Historic Places."</data>
+      <data key="d2">165c721b5c817ab6a2d3fd8598eac349</data>
+    </node>
+    <node id="&quot;FLORIDA POWER AND LIGHT COMPANY ICE PLANT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">165c721b5c817ab6a2d3fd8598eac349</data>
+    </node>
+    <node id="&quot;INDIAN RIVER COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Indian River County is a county in the state of Florida where Vero Beach is located."</data>
+      <data key="d2">f6c05270c649aec7ab3de6eaf6944ba5</data>
+    </node>
+    <node id="&quot;VERO BEACH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f6c05270c649aec7ab3de6eaf6944ba5</data>
+    </node>
+    <node id="&quot;TAMPA -- ST. PETERSBURG -- CLEARWATER, FLORIDA METROPOLITAN STATISTICAL AREA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Tampa -- St. Petersburg -- Clearwater, Florida Metropolitan Statistical Area is a metropolitan area that includes Pinellas County."</data>
+      <data key="d2">1c025eca2c59bc28e4e23352ec0d1036</data>
+    </node>
+    <node id="&quot;CLEARWATER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Clearwater is the county seat of Pinellas County."</data>
+      <data key="d2">1c025eca2c59bc28e4e23352ec0d1036</data>
+    </node>
+    <node id="&quot;ST. PETERSBURG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"St. Petersburg is the largest city in Pinellas County."</data>
+      <data key="d2">1c025eca2c59bc28e4e23352ec0d1036</data>
+    </node>
+    <node id="&quot;PINELLAS COUNTY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1c025eca2c59bc28e4e23352ec0d1036</data>
+    </node>
+    <node id="&quot;GADSDEN COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Gadsden County is a county in Florida, United States, where Quincy is located."</data>
+      <data key="d2">619d0b57ec00c8e90c7cd816adff1e91</data>
+    </node>
+    <node id="&quot;TALLAHASSEE, FLORIDA METROPOLITAN STATISTICAL AREA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Tallahassee, Florida Metropolitan Statistical Area is a metropolitan area that includes Quincy."</data>
+      <data key="d2">619d0b57ec00c8e90c7cd816adff1e91</data>
+    </node>
+    <node id="&quot;QUINCY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">619d0b57ec00c8e90c7cd816adff1e91</data>
+    </node>
+    <node id="&quot;HILLSBOROUGH COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hillsborough County is a county in Florida where Hillsborough River State Park is located."</data>
+      <data key="d2">5ed69a44e0ae222dd61fdff44a059dce</data>
+    </node>
+    <node id="&quot;ZEPHYRHILLS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Zephyrhills is a city in Pasco County, Florida, near Hillsborough River State Park."</data>
+      <data key="d2">5ed69a44e0ae222dd61fdff44a059dce</data>
+    </node>
+    <node id="&quot;PASCO COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pasco County is a county in Florida where Zephyrhills is located."</data>
+      <data key="d2">5ed69a44e0ae222dd61fdff44a059dce</data>
+    </node>
+    <node id="&quot;TAMPA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Tampa is a city in Florida, near Hillsborough River State Park."</data>
+      <data key="d2">5ed69a44e0ae222dd61fdff44a059dce</data>
+    </node>
+    <node id="&quot;HILLSBOROUGH RIVER STATE PARK&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5ed69a44e0ae222dd61fdff44a059dce</data>
+    </node>
+    <node id="&quot;GLENN BECK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Glenn Beck is a commentator with a syndicated program broadcast on WOCA."</data>
+      <data key="d2">9beb6cf0423a057e7ea48e1e21a6aef5</data>
+    </node>
+    <node id="&quot;CLARK HOWARD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Clark Howard is a commentator with a syndicated program broadcast on WOCA."</data>
+      <data key="d2">9beb6cf0423a057e7ea48e1e21a6aef5</data>
+    </node>
+    <node id="&quot;FOX SPORTS RADIO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Fox Sports Radio is a network that provides programming to WOCA on weekends."</data>
+      <data key="d2">9beb6cf0423a057e7ea48e1e21a6aef5</data>
+    </node>
+    <node id="&quot;WHYS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"WHYS was the original call sign of WOCA when it signed on in 1957."</data>
+      <data key="d2">9beb6cf0423a057e7ea48e1e21a6aef5</data>
+    </node>
+    <node id="&quot;WKOS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"WKOS was a previous call sign of WOCA, used from 1959 to 1965."</data>
+      <data key="d2">9beb6cf0423a057e7ea48e1e21a6aef5</data>
+    </node>
+    <node id="&quot;WWKE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"WWKE was a previous call sign of WOCA, used from 1965 to 1983 with a Top 40 format."</data>
+      <data key="d2">9beb6cf0423a057e7ea48e1e21a6aef5</data>
+    </node>
+    <node id="&quot;WOCA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9beb6cf0423a057e7ea48e1e21a6aef5</data>
+    </node>
+    <node id="&quot;BELL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bell is a location in Florida, United States, approximately southeast of Little Lake City."</data>
+      <data key="d2">364673b9aa2a99597668c1d2583ff6c7</data>
+    </node>
+    <node id="&quot;LITTLE LAKE CITY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">364673b9aa2a99597668c1d2583ff6c7</data>
+    </node>
+    <edge source="&quot;NORTH BEACH&quot;" target="&quot;ISLE OF NORMANDY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Isle of Normandy is a neighborhood of North Beach."</data>
+      <data key="d6">185b35c6917432039047eab11b3210fd</data>
+    </edge>
+    <edge source="&quot;NORTH BEACH&quot;" target="&quot;MIAMI BEACH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"North Beach is a location in the city of Miami Beach."</data>
+      <data key="d6">185b35c6917432039047eab11b3210fd</data>
+    </edge>
+    <edge source="&quot;MIAMI BEACH&quot;" target="&quot;FLORIDA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Miami Beach is a city in Florida."</data>
+      <data key="d6">185b35c6917432039047eab11b3210fd</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">Here is the comprehensive summary:
+
+Florida, a state located in the United States, has a hierarchical relationship with the latter, being one of its constituent states.
+
+Let me know if you need any further assistance!</data>
+      <data key="d6">185b35c6917432039047eab11b3210fd,619d0b57ec00c8e90c7cd816adff1e91,8f069c72ed2fb56eaec2ea8023f606ad,9545fef03b692253711b39248469ee82,a5fab411fea795886fb4efcccb457ec8,f6c05270c649aec7ab3de6eaf6944ba5</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;HENDRY COUNTY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Hendry County is a county in the state of Florida."</data>
+      <data key="d6">b43c3c0be827fd13d053e9115edd2688</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;HOLLY HILL&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Holly Hill is a city in Florida."</data>
+      <data key="d6">7d160c6ca75476c25d65180f24a35121</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;CRESCENT CITY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Crescent City is a location within the state of Florida."</data>
+      <data key="d6">9545fef03b692253711b39248469ee82</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;STONESOUP SCHOOL&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"StoneSoup School was situated in the state of Florida."</data>
+      <data key="d6">9545fef03b692253711b39248469ee82</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;OCALA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Ocala is a city located in Florida."</data>
+      <data key="d6">50d5902c233bcf5e4c0ca22ab3ec28eb</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;ESCAMBIA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Florida comprises Escambia as one of its original counties."</data>
+      <data key="d6">7365968d8389fb0c40ce2eee1448d2da</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;ST. JOHNS&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Florida comprises St. Johns as one of its original counties."</data>
+      <data key="d6">7365968d8389fb0c40ce2eee1448d2da</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;COLLIER COUNTY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Collier County is located in Florida."</data>
+      <data key="d6">8f069c72ed2fb56eaec2ea8023f606ad</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;NAPLES&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Naples is a city in Florida."</data>
+      <data key="d6">8f069c72ed2fb56eaec2ea8023f606ad</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;TALLAHASSEE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Tallahassee is the capital of Florida, indicating a significant administrative relationship."</data>
+      <data key="d6">a5fab411fea795886fb4efcccb457ec8</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;KISSIMMEE PRAIRIE PRESERVE STATE PARK&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Kissimmee Prairie Preserve State Park is located in the state of Florida."</data>
+      <data key="d6">8cd60053881e60fc88a1b07236b1a60d</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;JACKSONVILLE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Jacksonville is the largest city by population in Florida."</data>
+      <data key="d6">df12a45297eb806593762e670232265a</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;MEXICO BEACH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Mexico Beach is a city in Florida."</data>
+      <data key="d6">16d4ecfca73dbd4bf633563c048b39b0</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;INDIAN RIVER COUNTY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Indian River County is a county in the state of Florida."</data>
+      <data key="d6">f6c05270c649aec7ab3de6eaf6944ba5</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;VERO BEACH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Vero Beach is a city located in the state of Florida."</data>
+      <data key="d6">f6c05270c649aec7ab3de6eaf6944ba5</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;PINELLAS COUNTY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Pinellas County is located in the state of Florida."</data>
+      <data key="d6">1c025eca2c59bc28e4e23352ec0d1036</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;GADSDEN COUNTY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Gadsden County is located in Florida."</data>
+      <data key="d6">619d0b57ec00c8e90c7cd816adff1e91</data>
+    </edge>
+    <edge source="&quot;FLORIDA&quot;" target="&quot;GILCHRIST COUNTY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Gilchrist County is a county in Florida."</data>
+      <data key="d6">364673b9aa2a99597668c1d2583ff6c7</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Arizona is a state in the United States."</data>
+      <data key="d6">165c721b5c817ab6a2d3fd8598eac349,16d4ecfca73dbd4bf633563c048b39b0,185b35c6917432039047eab11b3210fd,1c025eca2c59bc28e4e23352ec0d1036,2d2887287efa996a4b94ff02db4e3c6e,364673b9aa2a99597668c1d2583ff6c7,50d5902c233bcf5e4c0ca22ab3ec28eb,5ed69a44e0ae222dd61fdff44a059dce,619d0b57ec00c8e90c7cd816adff1e91,7365968d8389fb0c40ce2eee1448d2da,7d160c6ca75476c25d65180f24a35121,8cd60053881e60fc88a1b07236b1a60d,8f069c72ed2fb56eaec2ea8023f606ad,9545fef03b692253711b39248469ee82,9beb6cf0423a057e7ea48e1e21a6aef5,a5fab411fea795886fb4efcccb457ec8,b43c3c0be827fd13d053e9115edd2688,dad5b0d18c12a745ed224e8158d74387,df12a45297eb806593762e670232265a,f6c05270c649aec7ab3de6eaf6944ba5</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;STONESOUP SCHOOL&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"StoneSoup School is located in the United States."</data>
+      <data key="d6">9545fef03b692253711b39248469ee82</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;NAPLES&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Naples is a city in the United States."</data>
+      <data key="d6">8f069c72ed2fb56eaec2ea8023f606ad</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;JACKSONVILLE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Jacksonville is one of the most populous cities in the United States."</data>
+      <data key="d6">df12a45297eb806593762e670232265a</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;MEXICO BEACH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Mexico Beach is a city in the United States."</data>
+      <data key="d6">16d4ecfca73dbd4bf633563c048b39b0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Tucson is the county seat of Pima County."</data>
+      <data key="d6">165c721b5c817ab6a2d3fd8598eac349,16d4ecfca73dbd4bf633563c048b39b0,185b35c6917432039047eab11b3210fd,1c025eca2c59bc28e4e23352ec0d1036,2d2887287efa996a4b94ff02db4e3c6e,364673b9aa2a99597668c1d2583ff6c7,50d5902c233bcf5e4c0ca22ab3ec28eb,5ed69a44e0ae222dd61fdff44a059dce,619d0b57ec00c8e90c7cd816adff1e91,7365968d8389fb0c40ce2eee1448d2da,7d160c6ca75476c25d65180f24a35121,8cd60053881e60fc88a1b07236b1a60d,8f069c72ed2fb56eaec2ea8023f606ad,9545fef03b692253711b39248469ee82,9beb6cf0423a057e7ea48e1e21a6aef5,a5fab411fea795886fb4efcccb457ec8,b43c3c0be827fd13d053e9115edd2688,dad5b0d18c12a745ed224e8158d74387,df12a45297eb806593762e670232265a,f6c05270c649aec7ab3de6eaf6944ba5</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Pima County is a county in Arizona."</data>
+      <data key="d6">165c721b5c817ab6a2d3fd8598eac349,16d4ecfca73dbd4bf633563c048b39b0,185b35c6917432039047eab11b3210fd,1c025eca2c59bc28e4e23352ec0d1036,2d2887287efa996a4b94ff02db4e3c6e,364673b9aa2a99597668c1d2583ff6c7,50d5902c233bcf5e4c0ca22ab3ec28eb,5ed69a44e0ae222dd61fdff44a059dce,619d0b57ec00c8e90c7cd816adff1e91,7365968d8389fb0c40ce2eee1448d2da,7d160c6ca75476c25d65180f24a35121,8cd60053881e60fc88a1b07236b1a60d,8f069c72ed2fb56eaec2ea8023f606ad,9545fef03b692253711b39248469ee82,9beb6cf0423a057e7ea48e1e21a6aef5,a5fab411fea795886fb4efcccb457ec8,b43c3c0be827fd13d053e9115edd2688,dad5b0d18c12a745ed224e8158d74387,df12a45297eb806593762e670232265a,f6c05270c649aec7ab3de6eaf6944ba5</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"The University of Arizona is located in Tucson."</data>
+      <data key="d6">165c721b5c817ab6a2d3fd8598eac349,16d4ecfca73dbd4bf633563c048b39b0,185b35c6917432039047eab11b3210fd,1c025eca2c59bc28e4e23352ec0d1036,2d2887287efa996a4b94ff02db4e3c6e,364673b9aa2a99597668c1d2583ff6c7,50d5902c233bcf5e4c0ca22ab3ec28eb,5ed69a44e0ae222dd61fdff44a059dce,619d0b57ec00c8e90c7cd816adff1e91,7365968d8389fb0c40ce2eee1448d2da,7d160c6ca75476c25d65180f24a35121,8cd60053881e60fc88a1b07236b1a60d,8f069c72ed2fb56eaec2ea8023f606ad,9545fef03b692253711b39248469ee82,9beb6cf0423a057e7ea48e1e21a6aef5,a5fab411fea795886fb4efcccb457ec8,b43c3c0be827fd13d053e9115edd2688,dad5b0d18c12a745ed224e8158d74387,df12a45297eb806593762e670232265a,f6c05270c649aec7ab3de6eaf6944ba5</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Tucson is a city in Arizona."</data>
+      <data key="d6">165c721b5c817ab6a2d3fd8598eac349,16d4ecfca73dbd4bf633563c048b39b0,185b35c6917432039047eab11b3210fd,1c025eca2c59bc28e4e23352ec0d1036,2d2887287efa996a4b94ff02db4e3c6e,364673b9aa2a99597668c1d2583ff6c7,50d5902c233bcf5e4c0ca22ab3ec28eb,5ed69a44e0ae222dd61fdff44a059dce,619d0b57ec00c8e90c7cd816adff1e91,7365968d8389fb0c40ce2eee1448d2da,7d160c6ca75476c25d65180f24a35121,8cd60053881e60fc88a1b07236b1a60d,8f069c72ed2fb56eaec2ea8023f606ad,9545fef03b692253711b39248469ee82,9beb6cf0423a057e7ea48e1e21a6aef5,a5fab411fea795886fb4efcccb457ec8,b43c3c0be827fd13d053e9115edd2688,dad5b0d18c12a745ed224e8158d74387,df12a45297eb806593762e670232265a,f6c05270c649aec7ab3de6eaf6944ba5</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Phoenix is a city in Arizona."</data>
+      <data key="d6">165c721b5c817ab6a2d3fd8598eac349,16d4ecfca73dbd4bf633563c048b39b0,185b35c6917432039047eab11b3210fd,1c025eca2c59bc28e4e23352ec0d1036,2d2887287efa996a4b94ff02db4e3c6e,364673b9aa2a99597668c1d2583ff6c7,50d5902c233bcf5e4c0ca22ab3ec28eb,5ed69a44e0ae222dd61fdff44a059dce,619d0b57ec00c8e90c7cd816adff1e91,7365968d8389fb0c40ce2eee1448d2da,7d160c6ca75476c25d65180f24a35121,8cd60053881e60fc88a1b07236b1a60d,8f069c72ed2fb56eaec2ea8023f606ad,9545fef03b692253711b39248469ee82,9beb6cf0423a057e7ea48e1e21a6aef5,a5fab411fea795886fb4efcccb457ec8,b43c3c0be827fd13d053e9115edd2688,dad5b0d18c12a745ed224e8158d74387,df12a45297eb806593762e670232265a,f6c05270c649aec7ab3de6eaf6944ba5</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d6">165c721b5c817ab6a2d3fd8598eac349,16d4ecfca73dbd4bf633563c048b39b0,185b35c6917432039047eab11b3210fd,1c025eca2c59bc28e4e23352ec0d1036,2d2887287efa996a4b94ff02db4e3c6e,364673b9aa2a99597668c1d2583ff6c7,50d5902c233bcf5e4c0ca22ab3ec28eb,5ed69a44e0ae222dd61fdff44a059dce,619d0b57ec00c8e90c7cd816adff1e91,7365968d8389fb0c40ce2eee1448d2da,7d160c6ca75476c25d65180f24a35121,8cd60053881e60fc88a1b07236b1a60d,8f069c72ed2fb56eaec2ea8023f606ad,9545fef03b692253711b39248469ee82,9beb6cf0423a057e7ea48e1e21a6aef5,a5fab411fea795886fb4efcccb457ec8,b43c3c0be827fd13d053e9115edd2688,dad5b0d18c12a745ed224e8158d74387,df12a45297eb806593762e670232265a,f6c05270c649aec7ab3de6eaf6944ba5</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Mexico shares an international border with the United States."</data>
+      <data key="d6">165c721b5c817ab6a2d3fd8598eac349,16d4ecfca73dbd4bf633563c048b39b0,185b35c6917432039047eab11b3210fd,1c025eca2c59bc28e4e23352ec0d1036,2d2887287efa996a4b94ff02db4e3c6e,364673b9aa2a99597668c1d2583ff6c7,50d5902c233bcf5e4c0ca22ab3ec28eb,5ed69a44e0ae222dd61fdff44a059dce,619d0b57ec00c8e90c7cd816adff1e91,7365968d8389fb0c40ce2eee1448d2da,7d160c6ca75476c25d65180f24a35121,8cd60053881e60fc88a1b07236b1a60d,8f069c72ed2fb56eaec2ea8023f606ad,9545fef03b692253711b39248469ee82,9beb6cf0423a057e7ea48e1e21a6aef5,a5fab411fea795886fb4efcccb457ec8,b43c3c0be827fd13d053e9115edd2688,dad5b0d18c12a745ed224e8158d74387,df12a45297eb806593762e670232265a,f6c05270c649aec7ab3de6eaf6944ba5</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d6">165c721b5c817ab6a2d3fd8598eac349,16d4ecfca73dbd4bf633563c048b39b0,185b35c6917432039047eab11b3210fd,1c025eca2c59bc28e4e23352ec0d1036,2d2887287efa996a4b94ff02db4e3c6e,364673b9aa2a99597668c1d2583ff6c7,50d5902c233bcf5e4c0ca22ab3ec28eb,5ed69a44e0ae222dd61fdff44a059dce,619d0b57ec00c8e90c7cd816adff1e91,7365968d8389fb0c40ce2eee1448d2da,7d160c6ca75476c25d65180f24a35121,8cd60053881e60fc88a1b07236b1a60d,8f069c72ed2fb56eaec2ea8023f606ad,9545fef03b692253711b39248469ee82,9beb6cf0423a057e7ea48e1e21a6aef5,a5fab411fea795886fb4efcccb457ec8,b43c3c0be827fd13d053e9115edd2688,dad5b0d18c12a745ed224e8158d74387,df12a45297eb806593762e670232265a,f6c05270c649aec7ab3de6eaf6944ba5</data>
+    </edge>
+    <edge source="&quot;NORTH MIAMI BEACH&quot;" target="&quot;EASTERN SHORES&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Eastern Shores is a neighborhood within the city of North Miami Beach."</data>
+      <data key="d6">dad5b0d18c12a745ed224e8158d74387</data>
+    </edge>
+    <edge source="&quot;NORTH MIAMI BEACH&quot;" target="&quot;MIAMI-DADE COUNTY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"North Miami Beach is a city in Miami-Dade County."</data>
+      <data key="d6">dad5b0d18c12a745ed224e8158d74387</data>
+    </edge>
+    <edge source="&quot;AVENTURA&quot;" target="&quot;EASTERN SHORES&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Aventura is located north of Eastern Shores."</data>
+      <data key="d6">dad5b0d18c12a745ed224e8158d74387</data>
+    </edge>
+    <edge source="&quot;MIAMI&quot;" target="&quot;EASTERN SHORES&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Miami is located south of Eastern Shores."</data>
+      <data key="d6">dad5b0d18c12a745ed224e8158d74387</data>
+    </edge>
+    <edge source="&quot;LABELLE&quot;" target="&quot;LABELLE MUNICIPAL AIRPORT&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"LaBelle Municipal Airport is located south of the central business district of LaBelle."</data>
+      <data key="d6">b43c3c0be827fd13d053e9115edd2688</data>
+    </edge>
+    <edge source="&quot;LABELLE&quot;" target="&quot;HENDRY COUNTY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"LaBelle is a city in Hendry County, Florida."</data>
+      <data key="d6">b43c3c0be827fd13d053e9115edd2688</data>
+    </edge>
+    <edge source="&quot;HENDRY COUNTY&quot;" target="&quot;LABELLE MUNICIPAL AIRPORT&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"LaBelle Municipal Airport is located in Hendry County, Florida."</data>
+      <data key="d6">b43c3c0be827fd13d053e9115edd2688</data>
+    </edge>
+    <edge source="&quot;VOLUSIA COUNTY&quot;" target="&quot;HOLLY HILL&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Holly Hill is located in Volusia County."</data>
+      <data key="d6">7d160c6ca75476c25d65180f24a35121</data>
+    </edge>
+    <edge source="&quot;DAYTONA BEACH&quot;" target="&quot;ORMOND BEACH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Daytona Beach and Ormond Beach are cities located near Holly Hill."</data>
+      <data key="d6">7d160c6ca75476c25d65180f24a35121</data>
+    </edge>
+    <edge source="&quot;CRESCENT CITY&quot;" target="&quot;STONESOUP SCHOOL&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"StoneSoup School was located in Crescent City."</data>
+      <data key="d6">9545fef03b692253711b39248469ee82</data>
+    </edge>
+    <edge source="&quot;UNITED STATES CENSUS BUREAU&quot;" target="&quot;OCALA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The United States Census Bureau estimates population data for Ocala."</data>
+      <data key="d6">50d5902c233bcf5e4c0ca22ab3ec28eb</data>
+    </edge>
+    <edge source="&quot;OCALA&quot;" target="&quot;WOCA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"WOCA broadcasts to the Ocala area."</data>
+      <data key="d6">9beb6cf0423a057e7ea48e1e21a6aef5</data>
+    </edge>
+    <edge source="&quot;SUWANNEE RIVER&quot;" target="&quot;LITTLE LAKE CITY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Little Lake City is located on the Suwannee River."</data>
+      <data key="d6">364673b9aa2a99597668c1d2583ff6c7</data>
+    </edge>
+    <edge source="&quot;GILCHRIST COUNTY&quot;" target="&quot;ALACHUA COUNTY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Gilchrist County was formed from a segment of Alachua County in 1925."</data>
+      <data key="d6">7365968d8389fb0c40ce2eee1448d2da</data>
+    </edge>
+    <edge source="&quot;GILCHRIST COUNTY&quot;" target="&quot;LITTLE LAKE CITY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Little Lake City is located in Gilchrist County."</data>
+      <data key="d6">364673b9aa2a99597668c1d2583ff6c7</data>
+    </edge>
+    <edge source="&quot;CRAWFORDVILLE&quot;" target="&quot;WAKULLA COUNTY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Crawfordville is the county seat of Wakulla County."</data>
+      <data key="d6">7365968d8389fb0c40ce2eee1448d2da</data>
+    </edge>
+    <edge source="&quot;EAST NAPLES&quot;" target="&quot;COLLIER COUNTY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"East Naples is located in Collier County."</data>
+      <data key="d6">7365968d8389fb0c40ce2eee1448d2da</data>
+    </edge>
+    <edge source="&quot;COLLIER COUNTY&quot;" target="&quot;NAPLES&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Naples is located in Collier County."</data>
+      <data key="d6">8f069c72ed2fb56eaec2ea8023f606ad</data>
+    </edge>
+    <edge source="&quot;LEON COUNTY&quot;" target="&quot;TALLAHASSEE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Tallahassee is the county seat of Leon County, showing a close administrative connection."</data>
+      <data key="d6">a5fab411fea795886fb4efcccb457ec8</data>
+    </edge>
+    <edge source="&quot;TALLAHASSEE&quot;" target="&quot;WGLF (104.1 FM)&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"WGLF (104.1 FM) radio station is located in the Tallahassee market."</data>
+      <data key="d6">2d2887287efa996a4b94ff02db4e3c6e</data>
+    </edge>
+    <edge source="&quot;OKEECHOBEE&quot;" target="&quot;KISSIMMEE PRAIRIE PRESERVE STATE PARK&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Kissimmee Prairie Preserve State Park is approximately 25 miles north of Okeechobee."</data>
+      <data key="d6">8cd60053881e60fc88a1b07236b1a60d</data>
+    </edge>
+    <edge source="&quot;DUVAL COUNTY&quot;" target="&quot;JACKSONVILLE&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Jacksonville is the county seat of Duval County, and they consolidated in 1968."</data>
+      <data key="d6">df12a45297eb806593762e670232265a</data>
+    </edge>
+    <edge source="&quot;CUMULUS LICENSING LLC&quot;" target="&quot;WGLF (104.1 FM)&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"WGLF (104.1 FM) is owned by Cumulus Licensing LLC."</data>
+      <data key="d6">2d2887287efa996a4b94ff02db4e3c6e</data>
+    </edge>
+    <edge source="&quot;LLOYD, FLORIDA&quot;" target="&quot;WGLF (104.1 FM)&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The transmitter of WGLF (104.1 FM) radio station is based near Lloyd, Florida."</data>
+      <data key="d6">2d2887287efa996a4b94ff02db4e3c6e</data>
+    </edge>
+    <edge source="&quot;BAY COUNTY&quot;" target="&quot;MEXICO BEACH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Mexico Beach is located in Bay County."</data>
+      <data key="d6">16d4ecfca73dbd4bf633563c048b39b0</data>
+    </edge>
+    <edge source="&quot;PANAMA CITY&quot;" target="&quot;MEXICO BEACH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Mexico Beach is located southeast of Panama City."</data>
+      <data key="d6">16d4ecfca73dbd4bf633563c048b39b0</data>
+    </edge>
+    <edge source="&quot;HURRICANE MICHAEL&quot;" target="&quot;MEXICO BEACH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Mexico Beach was damaged by Hurricane Michael on October 10, 2018."</data>
+      <data key="d6">16d4ecfca73dbd4bf633563c048b39b0</data>
+    </edge>
+    <edge source="&quot;FEDERAL EMERGENCY MANAGEMENT AGENCY (FEMA)&quot;" target="&quot;MEXICO BEACH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"FEMA declared Mexico Beach 'wiped out' after Hurricane Michael's impact."</data>
+      <data key="d6">16d4ecfca73dbd4bf633563c048b39b0</data>
+    </edge>
+    <edge source="&quot;MELBOURNE&quot;" target="&quot;FLORIDA POWER AND LIGHT COMPANY ICE PLANT&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The Florida Power and Light Company Ice Plant is located in Melbourne, Florida."</data>
+      <data key="d6">165c721b5c817ab6a2d3fd8598eac349</data>
+    </edge>
+    <edge source="&quot;U.S. NATIONAL REGISTER OF HISTORIC PLACES&quot;" target="&quot;FLORIDA POWER AND LIGHT COMPANY ICE PLANT&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"The Florida Power and Light Company Ice Plant was added to the U.S. National Register of Historic Places on November 17, 1982."</data>
+      <data key="d6">165c721b5c817ab6a2d3fd8598eac349</data>
+    </edge>
+    <edge source="&quot;INDIAN RIVER COUNTY&quot;" target="&quot;VERO BEACH&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Vero Beach is located in Indian River County."</data>
+      <data key="d6">f6c05270c649aec7ab3de6eaf6944ba5</data>
+    </edge>
+    <edge source="&quot;TAMPA -- ST. PETERSBURG -- CLEARWATER, FLORIDA METROPOLITAN STATISTICAL AREA&quot;" target="&quot;PINELLAS COUNTY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Pinellas County is part of the Tampa -- St. Petersburg -- Clearwater, Florida Metropolitan Statistical Area."</data>
+      <data key="d6">1c025eca2c59bc28e4e23352ec0d1036</data>
+    </edge>
+    <edge source="&quot;CLEARWATER&quot;" target="&quot;PINELLAS COUNTY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Clearwater is the county seat of Pinellas County."</data>
+      <data key="d6">1c025eca2c59bc28e4e23352ec0d1036</data>
+    </edge>
+    <edge source="&quot;ST. PETERSBURG&quot;" target="&quot;PINELLAS COUNTY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"St. Petersburg is the largest city in Pinellas County."</data>
+      <data key="d6">1c025eca2c59bc28e4e23352ec0d1036</data>
+    </edge>
+    <edge source="&quot;GADSDEN COUNTY&quot;" target="&quot;QUINCY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Quincy is the county seat of Gadsden County."</data>
+      <data key="d6">619d0b57ec00c8e90c7cd816adff1e91</data>
+    </edge>
+    <edge source="&quot;TALLAHASSEE, FLORIDA METROPOLITAN STATISTICAL AREA&quot;" target="&quot;QUINCY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Quincy is part of the Tallahassee, Florida Metropolitan Statistical Area."</data>
+      <data key="d6">619d0b57ec00c8e90c7cd816adff1e91</data>
+    </edge>
+    <edge source="&quot;HILLSBOROUGH COUNTY&quot;" target="&quot;HILLSBOROUGH RIVER STATE PARK&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Hillsborough River State Park is located in Hillsborough County."</data>
+      <data key="d6">5ed69a44e0ae222dd61fdff44a059dce</data>
+    </edge>
+    <edge source="&quot;ZEPHYRHILLS&quot;" target="&quot;PASCO COUNTY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Zephyrhills is a city in Pasco County."</data>
+      <data key="d6">5ed69a44e0ae222dd61fdff44a059dce</data>
+    </edge>
+    <edge source="&quot;TAMPA&quot;" target="&quot;HILLSBOROUGH RIVER STATE PARK&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Hillsborough River State Park is near the city of Tampa."</data>
+      <data key="d6">5ed69a44e0ae222dd61fdff44a059dce</data>
+    </edge>
+    <edge source="&quot;GLENN BECK&quot;" target="&quot;WOCA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"WOCA broadcasts The Glenn Beck Program as part of its syndicated programming."</data>
+      <data key="d6">9beb6cf0423a057e7ea48e1e21a6aef5</data>
+    </edge>
+    <edge source="&quot;CLARK HOWARD&quot;" target="&quot;WOCA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"WOCA broadcasts The Clark Howard Show as part of its syndicated programming."</data>
+      <data key="d6">9beb6cf0423a057e7ea48e1e21a6aef5</data>
+    </edge>
+    <edge source="&quot;FOX SPORTS RADIO&quot;" target="&quot;WOCA&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"WOCA airs Fox Sports Radio programs on weekends."</data>
+      <data key="d6">9beb6cf0423a057e7ea48e1e21a6aef5</data>
+    </edge>
+    <edge source="&quot;BELL&quot;" target="&quot;LITTLE LAKE CITY&quot;">
+      <data key="d4">1.0</data>
+      <data key="d5">"Little Lake City is approximately northwest of Bell."</data>
+      <data key="d6">364673b9aa2a99597668c1d2583ff6c7</data>
+    </edge>
+  </graph>
+</graphml>

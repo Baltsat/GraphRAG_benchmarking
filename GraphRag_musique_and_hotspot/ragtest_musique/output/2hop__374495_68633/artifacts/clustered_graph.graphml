@@ -1,0 +1,1620 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="level" attr.type="long" />
+  <key id="d6" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d5" for="node" attr.name="id" attr.type="string" />
+  <key id="d4" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d3" for="node" attr.name="degree" attr.type="long" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;DIANA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Diana is Avery's mother, who arrives to influence the portrayal of her daughter in the TV movie."</data>
+      <data key="d2">ba36326da30a9ac27449ccbf349db1c5</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;LIZ&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Liz is a writer and producer who helps Jack overcome his chemistry with Diana and rewrites the script to be a total fabrication."</data>
+      <data key="d2">ba36326da30a9ac27449ccbf349db1c5</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;JACK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jack is an actor who had a relationship with Avery, and Liz helps him realize he was idealizing it."</data>
+      <data key="d2">ba36326da30a9ac27449ccbf349db1c5</data>
+      <data key="d3">2</data>
+      <data key="d4">2</data>
+      <data key="d5">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;WILLIAM BALDWIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"William Baldwin is an actor and Alec Baldwin's real-life brother, who plays Jack in the TV movie."</data>
+      <data key="d2">ba36326da30a9ac27449ccbf349db1c5</data>
+      <data key="d3">0</data>
+      <data key="d4">3</data>
+      <data key="d5">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;ALEC BALDWIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alec Baldwin is an actor who plays Jack in the TV movie and has a real-life brother William Baldwin."</data>
+      <data key="d2">ba36326da30a9ac27449ccbf349db1c5</data>
+      <data key="d3">0</data>
+      <data key="d4">4</data>
+      <data key="d5">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;AVERY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ba36326da30a9ac27449ccbf349db1c5,da326efffc76a14d86c76b47f01294f7</data>
+      <data key="d3">4</data>
+      <data key="d4">5</data>
+      <data key="d5">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">05e6ea480556d9cf87228dd7b36bcea2,300c38d0f9c10526fa4d901c742fcbf0,381e20499896ea6c0ce571a3345ffa43,3ba9d687b2de130f7c43b1ec02344d3e,3c7066c34692f5580fdaec0632e43153,413f8e0ccd72d35f148ac4d0f2110994,468a42eac4fe03ee9f80130190a65dd6,519847ad777b76d2cf98c5a335905613,726ac7d4e7e2d5c9c8e8acb4329e403e,a7106d3c0c0e9e0b0a4189f4eed5a687,ba36326da30a9ac27449ccbf349db1c5,bc4d296509fe7e8602f83a16d11c17b9,ca7fbf1e24bbc8289baacb8c1ff23a44,d116e197b5a20d3aaeb5e1cc15230700,d3253442b8630c8f25c78fdc18a8e0a7,d527f37623160c3876f76e6c387b8c3f,d8a44001ff4aa62e17d763f2e1180f21,da326efffc76a14d86c76b47f01294f7,ef590ce0eec8b95c1d1bc3c0ce05bae2,f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">6</data>
+      <data key="d5">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">05e6ea480556d9cf87228dd7b36bcea2,300c38d0f9c10526fa4d901c742fcbf0,381e20499896ea6c0ce571a3345ffa43,3ba9d687b2de130f7c43b1ec02344d3e,3c7066c34692f5580fdaec0632e43153,413f8e0ccd72d35f148ac4d0f2110994,468a42eac4fe03ee9f80130190a65dd6,519847ad777b76d2cf98c5a335905613,726ac7d4e7e2d5c9c8e8acb4329e403e,a7106d3c0c0e9e0b0a4189f4eed5a687,ba36326da30a9ac27449ccbf349db1c5,bc4d296509fe7e8602f83a16d11c17b9,ca7fbf1e24bbc8289baacb8c1ff23a44,d116e197b5a20d3aaeb5e1cc15230700,d3253442b8630c8f25c78fdc18a8e0a7,d527f37623160c3876f76e6c387b8c3f,d8a44001ff4aa62e17d763f2e1180f21,da326efffc76a14d86c76b47f01294f7,ef590ce0eec8b95c1d1bc3c0ce05bae2,f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">7</data>
+      <data key="d5">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Arizona refers to two distinct entities. On one hand, Arizona is a person who, along with Ben, seeks advice from Carina for one of their patients stuck in labor. On the other hand, Arizona is also a state in the United States, where Tucson and Phoenix are located.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">05e6ea480556d9cf87228dd7b36bcea2,300c38d0f9c10526fa4d901c742fcbf0,381e20499896ea6c0ce571a3345ffa43,3ba9d687b2de130f7c43b1ec02344d3e,3c7066c34692f5580fdaec0632e43153,413f8e0ccd72d35f148ac4d0f2110994,468a42eac4fe03ee9f80130190a65dd6,519847ad777b76d2cf98c5a335905613,726ac7d4e7e2d5c9c8e8acb4329e403e,a7106d3c0c0e9e0b0a4189f4eed5a687,ba36326da30a9ac27449ccbf349db1c5,bc4d296509fe7e8602f83a16d11c17b9,ca7fbf1e24bbc8289baacb8c1ff23a44,d116e197b5a20d3aaeb5e1cc15230700,d3253442b8630c8f25c78fdc18a8e0a7,d527f37623160c3876f76e6c387b8c3f,d8a44001ff4aa62e17d763f2e1180f21,da326efffc76a14d86c76b47f01294f7,ef590ce0eec8b95c1d1bc3c0ce05bae2,f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">4</data>
+      <data key="d4">8</data>
+      <data key="d5">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">05e6ea480556d9cf87228dd7b36bcea2,300c38d0f9c10526fa4d901c742fcbf0,381e20499896ea6c0ce571a3345ffa43,3ba9d687b2de130f7c43b1ec02344d3e,3c7066c34692f5580fdaec0632e43153,413f8e0ccd72d35f148ac4d0f2110994,468a42eac4fe03ee9f80130190a65dd6,519847ad777b76d2cf98c5a335905613,726ac7d4e7e2d5c9c8e8acb4329e403e,a7106d3c0c0e9e0b0a4189f4eed5a687,ba36326da30a9ac27449ccbf349db1c5,bc4d296509fe7e8602f83a16d11c17b9,ca7fbf1e24bbc8289baacb8c1ff23a44,d116e197b5a20d3aaeb5e1cc15230700,d3253442b8630c8f25c78fdc18a8e0a7,d527f37623160c3876f76e6c387b8c3f,d8a44001ff4aa62e17d763f2e1180f21,da326efffc76a14d86c76b47f01294f7,ef590ce0eec8b95c1d1bc3c0ce05bae2,f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">9</data>
+      <data key="d5">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country where Tucson, Pima County, and Arizona are located, as well as North Carolina and Plumtree.</data>
+      <data key="d2">05e6ea480556d9cf87228dd7b36bcea2,300c38d0f9c10526fa4d901c742fcbf0,381e20499896ea6c0ce571a3345ffa43,3ba9d687b2de130f7c43b1ec02344d3e,3c7066c34692f5580fdaec0632e43153,413f8e0ccd72d35f148ac4d0f2110994,468a42eac4fe03ee9f80130190a65dd6,519847ad777b76d2cf98c5a335905613,726ac7d4e7e2d5c9c8e8acb4329e403e,a7106d3c0c0e9e0b0a4189f4eed5a687,ba36326da30a9ac27449ccbf349db1c5,bc4d296509fe7e8602f83a16d11c17b9,ca7fbf1e24bbc8289baacb8c1ff23a44,d116e197b5a20d3aaeb5e1cc15230700,d3253442b8630c8f25c78fdc18a8e0a7,d527f37623160c3876f76e6c387b8c3f,d8a44001ff4aa62e17d763f2e1180f21,da326efffc76a14d86c76b47f01294f7,ef590ce0eec8b95c1d1bc3c0ce05bae2,f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">10</data>
+      <data key="d5">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">05e6ea480556d9cf87228dd7b36bcea2,300c38d0f9c10526fa4d901c742fcbf0,381e20499896ea6c0ce571a3345ffa43,3ba9d687b2de130f7c43b1ec02344d3e,3c7066c34692f5580fdaec0632e43153,413f8e0ccd72d35f148ac4d0f2110994,468a42eac4fe03ee9f80130190a65dd6,519847ad777b76d2cf98c5a335905613,726ac7d4e7e2d5c9c8e8acb4329e403e,a7106d3c0c0e9e0b0a4189f4eed5a687,ba36326da30a9ac27449ccbf349db1c5,bc4d296509fe7e8602f83a16d11c17b9,ca7fbf1e24bbc8289baacb8c1ff23a44,d116e197b5a20d3aaeb5e1cc15230700,d3253442b8630c8f25c78fdc18a8e0a7,d527f37623160c3876f76e6c387b8c3f,d8a44001ff4aa62e17d763f2e1180f21,da326efffc76a14d86c76b47f01294f7,ef590ce0eec8b95c1d1bc3c0ce05bae2,f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d6">3</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">11</data>
+      <data key="d5">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">05e6ea480556d9cf87228dd7b36bcea2,300c38d0f9c10526fa4d901c742fcbf0,381e20499896ea6c0ce571a3345ffa43,3ba9d687b2de130f7c43b1ec02344d3e,3c7066c34692f5580fdaec0632e43153,413f8e0ccd72d35f148ac4d0f2110994,468a42eac4fe03ee9f80130190a65dd6,519847ad777b76d2cf98c5a335905613,726ac7d4e7e2d5c9c8e8acb4329e403e,a7106d3c0c0e9e0b0a4189f4eed5a687,ba36326da30a9ac27449ccbf349db1c5,bc4d296509fe7e8602f83a16d11c17b9,ca7fbf1e24bbc8289baacb8c1ff23a44,d116e197b5a20d3aaeb5e1cc15230700,d3253442b8630c8f25c78fdc18a8e0a7,d527f37623160c3876f76e6c387b8c3f,d8a44001ff4aa62e17d763f2e1180f21,da326efffc76a14d86c76b47f01294f7,ef590ce0eec8b95c1d1bc3c0ce05bae2,f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">12</data>
+      <data key="d5">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">05e6ea480556d9cf87228dd7b36bcea2,300c38d0f9c10526fa4d901c742fcbf0,381e20499896ea6c0ce571a3345ffa43,3ba9d687b2de130f7c43b1ec02344d3e,3c7066c34692f5580fdaec0632e43153,413f8e0ccd72d35f148ac4d0f2110994,468a42eac4fe03ee9f80130190a65dd6,519847ad777b76d2cf98c5a335905613,726ac7d4e7e2d5c9c8e8acb4329e403e,a7106d3c0c0e9e0b0a4189f4eed5a687,ba36326da30a9ac27449ccbf349db1c5,bc4d296509fe7e8602f83a16d11c17b9,ca7fbf1e24bbc8289baacb8c1ff23a44,d116e197b5a20d3aaeb5e1cc15230700,d3253442b8630c8f25c78fdc18a8e0a7,d527f37623160c3876f76e6c387b8c3f,d8a44001ff4aa62e17d763f2e1180f21,da326efffc76a14d86c76b47f01294f7,ef590ce0eec8b95c1d1bc3c0ce05bae2,f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d6">3</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">13</data>
+      <data key="d5">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">05e6ea480556d9cf87228dd7b36bcea2,300c38d0f9c10526fa4d901c742fcbf0,381e20499896ea6c0ce571a3345ffa43,3ba9d687b2de130f7c43b1ec02344d3e,3c7066c34692f5580fdaec0632e43153,413f8e0ccd72d35f148ac4d0f2110994,468a42eac4fe03ee9f80130190a65dd6,519847ad777b76d2cf98c5a335905613,726ac7d4e7e2d5c9c8e8acb4329e403e,a7106d3c0c0e9e0b0a4189f4eed5a687,ba36326da30a9ac27449ccbf349db1c5,bc4d296509fe7e8602f83a16d11c17b9,ca7fbf1e24bbc8289baacb8c1ff23a44,d116e197b5a20d3aaeb5e1cc15230700,d3253442b8630c8f25c78fdc18a8e0a7,d527f37623160c3876f76e6c387b8c3f,d8a44001ff4aa62e17d763f2e1180f21,da326efffc76a14d86c76b47f01294f7,ef590ce0eec8b95c1d1bc3c0ce05bae2,f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d3">0</data>
+      <data key="d4">14</data>
+      <data key="d5">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">05e6ea480556d9cf87228dd7b36bcea2,300c38d0f9c10526fa4d901c742fcbf0,381e20499896ea6c0ce571a3345ffa43,3ba9d687b2de130f7c43b1ec02344d3e,3c7066c34692f5580fdaec0632e43153,413f8e0ccd72d35f148ac4d0f2110994,468a42eac4fe03ee9f80130190a65dd6,519847ad777b76d2cf98c5a335905613,726ac7d4e7e2d5c9c8e8acb4329e403e,a7106d3c0c0e9e0b0a4189f4eed5a687,ba36326da30a9ac27449ccbf349db1c5,bc4d296509fe7e8602f83a16d11c17b9,ca7fbf1e24bbc8289baacb8c1ff23a44,d116e197b5a20d3aaeb5e1cc15230700,d3253442b8630c8f25c78fdc18a8e0a7,d527f37623160c3876f76e6c387b8c3f,d8a44001ff4aa62e17d763f2e1180f21,da326efffc76a14d86c76b47f01294f7,ef590ce0eec8b95c1d1bc3c0ce05bae2,f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">5</data>
+      <data key="d4">15</data>
+      <data key="d5">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;EPP WOMEN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"EPP Women is an organization that Doris Pack serves as President of."</data>
+      <data key="d2">381e20499896ea6c0ce571a3345ffa43</data>
+      <data key="d3">1</data>
+      <data key="d4">16</data>
+      <data key="d5">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;ROBERT SCHUMAN INSTITUTE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Robert Schuman Institute is an organization that Doris Pack serves as President of."</data>
+      <data key="d2">381e20499896ea6c0ce571a3345ffa43</data>
+      <data key="d3">1</data>
+      <data key="d4">17</data>
+      <data key="d5">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;EUROPEAN PARLIAMENT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The European Parliament is a geo-political entity where Doris Pack served as a member from 1989-2014."</data>
+      <data key="d2">381e20499896ea6c0ce571a3345ffa43</data>
+      <data key="d3">1</data>
+      <data key="d4">18</data>
+      <data key="d5">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;BUNDESTAG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Bundestag is a geo-political entity where Doris Pack served as a member from 1974-1983 and 1985-1989."</data>
+      <data key="d2">381e20499896ea6c0ce571a3345ffa43</data>
+      <data key="d3">1</data>
+      <data key="d4">19</data>
+      <data key="d5">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;CHRISTIAN DEMOCRATIC UNION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Christian Democratic Union is a political party that Doris Pack is a member of, which is part of the European People's Party."</data>
+      <data key="d2">381e20499896ea6c0ce571a3345ffa43</data>
+      <data key="d3">1</data>
+      <data key="d4">20</data>
+      <data key="d5">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;EUROPEAN PEOPLE'S PARTY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The European People's Party is a political party that Doris Pack is affiliated with through her membership in the Christian Democratic Union."</data>
+      <data key="d2">381e20499896ea6c0ce571a3345ffa43</data>
+      <data key="d3">0</data>
+      <data key="d4">21</data>
+      <data key="d5">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;DORIS PACK&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">381e20499896ea6c0ce571a3345ffa43</data>
+      <data key="d3">5</data>
+      <data key="d4">22</data>
+      <data key="d5">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;CALVIN COOLIDGE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Calvin Coolidge was an American politician who appointed John Avery Denison to a judicial position."</data>
+      <data key="d2">05e6ea480556d9cf87228dd7b36bcea2</data>
+      <data key="d3">1</data>
+      <data key="d4">23</data>
+      <data key="d5">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;SPRINGFIELD, MASSACHUSETTS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Springfield, Massachusetts is a location where John Avery Denison served as Mayor."</data>
+      <data key="d2">05e6ea480556d9cf87228dd7b36bcea2</data>
+      <data key="d3">1</data>
+      <data key="d4">24</data>
+      <data key="d5">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;JOHN AVERY DENISON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">05e6ea480556d9cf87228dd7b36bcea2</data>
+      <data key="d3">2</data>
+      <data key="d4">25</data>
+      <data key="d5">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;INSTITUTION OF CIVIL ENGINEERS (ICE)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Institution of Civil Engineers (ICE) is an organization where Humphreys was a member, council member, vice-president, and president."</data>
+      <data key="d2">413f8e0ccd72d35f148ac4d0f2110994</data>
+      <data key="d3">1</data>
+      <data key="d4">26</data>
+      <data key="d5">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;LONDON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"London is the birthplace of Humphreys."</data>
+      <data key="d2">413f8e0ccd72d35f148ac4d0f2110994</data>
+      <data key="d3">1</data>
+      <data key="d4">27</data>
+      <data key="d5">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;ORDER OF THE BRITISH EMPIRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Order of the British Empire is an organization that appointed Humphreys as a Knight Commander in 1927."</data>
+      <data key="d2">413f8e0ccd72d35f148ac4d0f2110994</data>
+      <data key="d3">1</data>
+      <data key="d4">28</data>
+      <data key="d5">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;HUMPHREYS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">413f8e0ccd72d35f148ac4d0f2110994</data>
+      <data key="d3">3</data>
+      <data key="d4">29</data>
+      <data key="d5">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;ALABAMA CRIMSON TIDE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Alabama Crimson Tide is a men's basketball team with Avery DeWitt Johnson as its head coach."</data>
+      <data key="d2">3c7066c34692f5580fdaec0632e43153</data>
+      <data key="d3">1</data>
+      <data key="d4">30</data>
+      <data key="d5">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;AVERY DEWITT JOHNSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3c7066c34692f5580fdaec0632e43153</data>
+      <data key="d3">1</data>
+      <data key="d4">31</data>
+      <data key="d5">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&quot;DR. TOM KORACIK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dr. Tom Koracik is the head of Neurology at Johns Hopkins and helps Amelia with her treatment plan, highlighting her impaired judgment."</data>
+      <data key="d2">d8a44001ff4aa62e17d763f2e1180f21</data>
+      <data key="d3">1</data>
+      <data key="d4">32</data>
+      <data key="d5">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&quot;RICHARD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Richard is a person who supports Amelia and encourages her to come clean to those closest to her."</data>
+      <data key="d2">d8a44001ff4aa62e17d763f2e1180f21</data>
+      <data key="d3">0</data>
+      <data key="d4">33</data>
+      <data key="d5">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&quot;HARPER AVERY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Harper Avery is a person who confronts Bailey about changes at the hospital and threatens to withdraw funding, but later passes away."</data>
+      <data key="d2">d8a44001ff4aa62e17d763f2e1180f21</data>
+      <data key="d3">1</data>
+      <data key="d4">34</data>
+      <data key="d5">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&quot;BAILEY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bailey is the chief of the hospital who stands up to Harper Avery and is reinstated by Jackson and Catherine Avery after being fired."</data>
+      <data key="d2">d8a44001ff4aa62e17d763f2e1180f21</data>
+      <data key="d3">2</data>
+      <data key="d4">35</data>
+      <data key="d5">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&quot;JACKSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jackson is a person who, along with Catherine Avery, reinstates Bailey as the chief of the hospital."</data>
+      <data key="d2">d8a44001ff4aa62e17d763f2e1180f21</data>
+      <data key="d3">1</data>
+      <data key="d4">36</data>
+      <data key="d5">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&quot;CATHERINE AVERY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Catherine Avery is a person who, along with Jackson, reinstates Bailey as the chief of the hospital."</data>
+      <data key="d2">d8a44001ff4aa62e17d763f2e1180f21</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&quot;BEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ben is a person who, along with Arizona, seeks advice from Carina for one of their patients stuck in labor."</data>
+      <data key="d2">d8a44001ff4aa62e17d763f2e1180f21</data>
+      <data key="d3">1</data>
+      <data key="d4">38</data>
+      <data key="d5">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&quot;CARINA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Carina is a person who provides advice to Ben and Arizona for one of their patients stuck in labor."</data>
+      <data key="d2">d8a44001ff4aa62e17d763f2e1180f21</data>
+      <data key="d3">1</data>
+      <data key="d4">39</data>
+      <data key="d5">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <node id="&quot;MEREDITH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Meredith is a person who seeks help from her former psychiatrist to sort out her mood towards everyone."</data>
+      <data key="d2">d8a44001ff4aa62e17d763f2e1180f21</data>
+      <data key="d3">1</data>
+      <data key="d4">40</data>
+      <data key="d5">3ce7c210a21b4deebad7cc9308148d86</data>
+    </node>
+    <node id="&quot;NATHAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Nathan is a person involved in a love triangle with Meredith and Megan."</data>
+      <data key="d2">d8a44001ff4aa62e17d763f2e1180f21</data>
+      <data key="d3">1</data>
+      <data key="d4">41</data>
+      <data key="d5">d64ed762ea924caa95c8d06f072a9a96</data>
+    </node>
+    <node id="&quot;MEGAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Megan is a person involved in a love triangle with Meredith and Nathan."</data>
+      <data key="d2">d8a44001ff4aa62e17d763f2e1180f21</data>
+      <data key="d3">0</data>
+      <data key="d4">42</data>
+      <data key="d5">adf4ee3fbe9b4d0381044838c4f889c8</data>
+    </node>
+    <node id="&quot;ALEX&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alex is a person who is asked by Jo to move back home."</data>
+      <data key="d2">d8a44001ff4aa62e17d763f2e1180f21</data>
+      <data key="d3">1</data>
+      <data key="d4">43</data>
+      <data key="d5">32ee140946e5461f9275db664dc541a5</data>
+    </node>
+    <node id="&quot;JO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jo is a person who asks Alex to move back home."</data>
+      <data key="d2">d8a44001ff4aa62e17d763f2e1180f21</data>
+      <data key="d3">1</data>
+      <data key="d4">44</data>
+      <data key="d5">c160b9cb27d6408ba6ab20214a2f3f81</data>
+    </node>
+    <node id="&quot;JOHNS HOPKINS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Johns Hopkins is an organization where Dr. Tom Koracik is the head of Neurology."</data>
+      <data key="d2">d8a44001ff4aa62e17d763f2e1180f21</data>
+      <data key="d3">0</data>
+      <data key="d4">45</data>
+      <data key="d5">23527cd679ff4d5a988d52e7cd056078</data>
+    </node>
+    <node id="&quot;AMELIA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d8a44001ff4aa62e17d763f2e1180f21</data>
+      <data key="d3">1</data>
+      <data key="d4">46</data>
+      <data key="d5">f1c6eed066f24cbdb376b910fce29ed4</data>
+    </node>
+    <node id="&quot;BOSTON CITY COUNCIL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Boston City Council is a governing body that Michael F. Flaherty is a part of."</data>
+      <data key="d2">468a42eac4fe03ee9f80130190a65dd6</data>
+      <data key="d3">2</data>
+      <data key="d4">47</data>
+      <data key="d5">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+    </node>
+    <node id="&quot;UNITED STATES DEMOCRATIC PARTY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The United States Democratic Party is a political party that Michael F. Flaherty is a member of."</data>
+      <data key="d2">468a42eac4fe03ee9f80130190a65dd6</data>
+      <data key="d3">1</data>
+      <data key="d4">48</data>
+      <data key="d5">147c038aef3e4422acbbc5f7938c4ab8</data>
+    </node>
+    <node id="&quot;BOSTON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Boston is a city where the Boston City Council, which Michael F. Flaherty is a part of, is located."</data>
+      <data key="d2">468a42eac4fe03ee9f80130190a65dd6</data>
+      <data key="d3">1</data>
+      <data key="d4">49</data>
+      <data key="d5">b7702b90c7f24190b864e8c6e64612a5</data>
+    </node>
+    <node id="&quot;MICHAEL F. FLAHERTY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">468a42eac4fe03ee9f80130190a65dd6</data>
+      <data key="d3">2</data>
+      <data key="d4">50</data>
+      <data key="d5">de6fa24480894518ab3cbcb66f739266</data>
+    </node>
+    <node id="&quot;AVERY COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Avery County is a location in North Carolina, United States, where Plumtree is situated."</data>
+      <data key="d2">d3253442b8630c8f25c78fdc18a8e0a7</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">51</data>
+      <data key="d5">6fae5ee1a831468aa585a1ea09095998</data>
+    </node>
+    <node id="&quot;NORTH CAROLINA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"North Carolina is a state in the United States where Plumtree and Avery County are located."</data>
+      <data key="d2">d3253442b8630c8f25c78fdc18a8e0a7</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">52</data>
+      <data key="d5">ef32c4b208d041cc856f6837915dc1b0</data>
+    </node>
+    <node id="&quot;ROARING CREEK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Roaring Creek is a community near Plumtree in Avery County, North Carolina, United States."</data>
+      <data key="d2">d3253442b8630c8f25c78fdc18a8e0a7</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">53</data>
+      <data key="d5">07b2425216bd4f0aa4e079827cb48ef5</data>
+    </node>
+    <node id="&quot;INGALLS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ingalls is a community near Plumtree in Avery County, North Carolina, United States."</data>
+      <data key="d2">d3253442b8630c8f25c78fdc18a8e0a7</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">54</data>
+      <data key="d5">2670deebfa3f4d69bb82c28ab250a209</data>
+    </node>
+    <node id="&quot;PLUMTREE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d3253442b8630c8f25c78fdc18a8e0a7</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">3</data>
+      <data key="d4">55</data>
+      <data key="d5">404309e89a5241d6bff42c05a45df206</data>
+    </node>
+    <node id="&quot;CHARLES AVERY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Charles Avery is the director of Hogan's Romance Upset."</data>
+      <data key="d2">ca7fbf1e24bbc8289baacb8c1ff23a44</data>
+      <data key="d3">1</data>
+      <data key="d4">56</data>
+      <data key="d5">b785a9025069417f94950ad231bb1441</data>
+    </node>
+    <node id="&quot;FATTY ARBUCKLE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Fatty Arbuckle is an actor who appears in an uncredited role as a spectator in Hogan's Romance Upset."</data>
+      <data key="d2">ca7fbf1e24bbc8289baacb8c1ff23a44</data>
+      <data key="d3">1</data>
+      <data key="d4">57</data>
+      <data key="d5">3b6cd96a27304614850709aba1c9598b</data>
+    </node>
+    <node id="&quot;HAROLD LLOYD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Harold Lloyd is an actor who appears in an uncredited role as a spectator in Hogan's Romance Upset."</data>
+      <data key="d2">ca7fbf1e24bbc8289baacb8c1ff23a44</data>
+      <data key="d3">1</data>
+      <data key="d4">58</data>
+      <data key="d5">d54956b79dd147f894b67a8b97dcbef0</data>
+    </node>
+    <node id="&quot;HOGAN'S ROMANCE UPSET&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ca7fbf1e24bbc8289baacb8c1ff23a44</data>
+      <data key="d3">3</data>
+      <data key="d4">59</data>
+      <data key="d5">958beecdb5bb4060948415ffd75d2b03</data>
+    </node>
+    <node id="&quot;THE HOUSE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The House is a legislative body where the Speaker of the House presides."</data>
+      <data key="d2">d527f37623160c3876f76e6c387b8c3f</data>
+      <data key="d3">2</data>
+      <data key="d4">60</data>
+      <data key="d5">b999ed77e19e4f85b7f1ae79af5c002a</data>
+    </node>
+    <node id="&quot;SPEAKER PRO TEMPORE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Speaker pro tempore is a ceremonial position that presides over the House during consideration of local and consent bills."</data>
+      <data key="d2">d527f37623160c3876f76e6c387b8c3f</data>
+      <data key="d3">1</data>
+      <data key="d4">61</data>
+      <data key="d5">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+    </node>
+    <node id="&quot;THE SPEAKER OF THE HOUSE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d527f37623160c3876f76e6c387b8c3f</data>
+      <data key="d3">1</data>
+      <data key="d4">62</data>
+      <data key="d5">4f3c97517f794ebfb49c4c6315f9cf23</data>
+    </node>
+    <node id="&quot;SOUTH NORWALK, CONNECTICUT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"South Norwalk, Connecticut is a location where Leeman M. Brundage served as mayor and died in office."</data>
+      <data key="d2">519847ad777b76d2cf98c5a335905613</data>
+      <data key="d3">1</data>
+      <data key="d4">63</data>
+      <data key="d5">1745a2485a9443bab76587ad650e9be0</data>
+    </node>
+    <node id="&quot;NEW YORK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New York is the birthplace of Leeman M. Brundage."</data>
+      <data key="d2">519847ad777b76d2cf98c5a335905613</data>
+      <data key="d3">1</data>
+      <data key="d4">64</data>
+      <data key="d5">32e6ccab20d94029811127dbbe424c64</data>
+    </node>
+    <node id="&quot;DEMOCRATIC PARTY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Democratic Party is the political party to which Leeman M. Brundage belonged."</data>
+      <data key="d2">519847ad777b76d2cf98c5a335905613</data>
+      <data key="d3">1</data>
+      <data key="d4">65</data>
+      <data key="d5">94a964c6992945ebb3833dfdfdc8d655</data>
+    </node>
+    <node id="&quot;LEEMAN M. BRUNDAGE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">519847ad777b76d2cf98c5a335905613</data>
+      <data key="d3">3</data>
+      <data key="d4">66</data>
+      <data key="d5">1eb829d0ace042089f0746f78729696c</data>
+    </node>
+    <node id="&quot;SHIRLEY ENID AVERY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Shirley Enid Avery is the birth name of Teri Thornton, an American jazz singer."</data>
+      <data key="d2">726ac7d4e7e2d5c9c8e8acb4329e403e</data>
+      <data key="d3">1</data>
+      <data key="d4">67</data>
+      <data key="d5">015e7b58d1a14b44beab3bbc9f912c18</data>
+    </node>
+    <node id="&quot;DETROIT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Detroit is a city in Michigan where Teri Thornton was born."</data>
+      <data key="d2">726ac7d4e7e2d5c9c8e8acb4329e403e</data>
+      <data key="d3">1</data>
+      <data key="d4">68</data>
+      <data key="d5">26f88ab3e2e04c33a459ad6270ade565</data>
+    </node>
+    <node id="&quot;MICHIGAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Michigan is a state in the United States where Detroit, Teri Thornton's birthplace, is located."</data>
+      <data key="d2">726ac7d4e7e2d5c9c8e8acb4329e403e</data>
+      <data key="d3">0</data>
+      <data key="d4">69</data>
+      <data key="d5">babe97e1d9784cffa1c85abc1e588126</data>
+    </node>
+    <node id="&quot;ENGLEWOOD&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Englewood is a city in New Jersey where Teri Thornton died."</data>
+      <data key="d2">726ac7d4e7e2d5c9c8e8acb4329e403e</data>
+      <data key="d3">1</data>
+      <data key="d4">70</data>
+      <data key="d5">1033a18c45aa4584b2aef6ab96890351</data>
+    </node>
+    <node id="&quot;NEW JERSEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New Jersey is a state in the United States where Englewood, Teri Thornton's deathplace, is located."</data>
+      <data key="d2">726ac7d4e7e2d5c9c8e8acb4329e403e</data>
+      <data key="d3">0</data>
+      <data key="d4">71</data>
+      <data key="d5">c9b8ce91fc2945b4907fe35519339cac</data>
+    </node>
+    <node id="&quot;TERI THORNTON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">726ac7d4e7e2d5c9c8e8acb4329e403e</data>
+      <data key="d3">3</data>
+      <data key="d4">72</data>
+      <data key="d5">fa3c4204421c48609e52c8de2da4c654</data>
+    </node>
+    <node id="&quot;LOK SABHA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Lok Sabha is the lower house of the Indian Parliament, comprising directly elected Members of Parliament by the Indian public."</data>
+      <data key="d2">d116e197b5a20d3aaeb5e1cc15230700</data>
+      <data key="d3">1</data>
+      <data key="d4">73</data>
+      <data key="d5">53af055f068244d0ac861b2e89376495</data>
+    </node>
+    <node id="&quot;RAJYA SABHA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Rajya Sabha is the upper house of the Indian Parliament, comprising Members of Parliament elected by State Legislative Assembly members."</data>
+      <data key="d2">d116e197b5a20d3aaeb5e1cc15230700</data>
+      <data key="d3">1</data>
+      <data key="d4">74</data>
+      <data key="d5">c03ab3ce8cb74ad2a03b94723bfab3c7</data>
+    </node>
+    <node id="&quot;PRESIDENT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The President is a key figure in the nomination process of Members of Parliament to both houses of Parliament."</data>
+      <data key="d2">d116e197b5a20d3aaeb5e1cc15230700</data>
+      <data key="d3">1</data>
+      <data key="d4">75</data>
+      <data key="d5">ed6d2eee9d7b4f5db466b1f6404d31cc</data>
+    </node>
+    <node id="&quot;MEMBERS OF PARLIAMENT (MP)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Members of Parliament are elected or nominated representatives of the Indian public, comprising Lok Sabha and Rajya Sabha members."</data>
+      <data key="d2">d116e197b5a20d3aaeb5e1cc15230700</data>
+      <data key="d3">3</data>
+      <data key="d4">76</data>
+      <data key="d5">fc01e9baa80e417c9206f941bb279407</data>
+    </node>
+    <node id="&quot;SANSAD BHAVAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Sansad Bhavan is a location in New Delhi where the Indian Parliament meets."</data>
+      <data key="d2">d116e197b5a20d3aaeb5e1cc15230700</data>
+      <data key="d3">1</data>
+      <data key="d4">77</data>
+      <data key="d5">56d0e5ebe79e4814bd1463cf6ca21394</data>
+    </node>
+    <node id="&quot;NEW DELHI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New Delhi is a city where the Indian Parliament is located, specifically at Sansad Bhavan."</data>
+      <data key="d2">d116e197b5a20d3aaeb5e1cc15230700</data>
+      <data key="d3">0</data>
+      <data key="d4">78</data>
+      <data key="d5">7c49f2710e8b4d3b8dc9310834406ea5</data>
+    </node>
+    <node id="&quot;PARLIAMENT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d116e197b5a20d3aaeb5e1cc15230700</data>
+      <data key="d3">1</data>
+      <data key="d4">79</data>
+      <data key="d5">c6d1e4f56c2843e89cf0b91c10bb6de2</data>
+    </node>
+    <node id="&quot;SIDNEY LUMET&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sidney Lumet is the creator of an American legal drama."</data>
+      <data key="d2">300c38d0f9c10526fa4d901c742fcbf0</data>
+      <data key="d3">1</data>
+      <data key="d4">80</data>
+      <data key="d5">0adb2d9941f34ef7b2f7743cc6225844</data>
+    </node>
+    <node id="&quot;ALAN ARKIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alan Arkin is an actor starring in an American legal drama."</data>
+      <data key="d2">300c38d0f9c10526fa4d901c742fcbf0</data>
+      <data key="d3">1</data>
+      <data key="d4">81</data>
+      <data key="d5">6b02373137fd438ba96af28f735cdbdb</data>
+    </node>
+    <node id="&quot;VAL AVERY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Val Avery is an actor starring in an American legal drama."</data>
+      <data key="d2">300c38d0f9c10526fa4d901c742fcbf0</data>
+      <data key="d3">1</data>
+      <data key="d4">82</data>
+      <data key="d5">36a4fcd8efc144e6b8af9a1c7ab8b2ce</data>
+    </node>
+    <node id="&quot;BOBBY CANNAVALE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bobby Cannavale is an actor starring in an American legal drama."</data>
+      <data key="d2">300c38d0f9c10526fa4d901c742fcbf0</data>
+      <data key="d3">1</data>
+      <data key="d4">83</data>
+      <data key="d5">fbeef791d19b413a9c93c6608286ab63</data>
+    </node>
+    <node id="&quot;JOEL DE LA FUENTE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Joel de la Fuente is an actor starring in an American legal drama."</data>
+      <data key="d2">300c38d0f9c10526fa4d901c742fcbf0</data>
+      <data key="d3">1</data>
+      <data key="d4">84</data>
+      <data key="d5">d2b629c0396f4180a03e16ddf3818589</data>
+    </node>
+    <node id="&quot;PAULA DEVICQ&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Paula Devicq is an actress starring in an American legal drama."</data>
+      <data key="d2">300c38d0f9c10526fa4d901c742fcbf0</data>
+      <data key="d3">1</data>
+      <data key="d4">85</data>
+      <data key="d5">6102fc6619ed422ebc42588bfa97355d</data>
+    </node>
+    <node id="&quot;100 CENTRE STREET&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">300c38d0f9c10526fa4d901c742fcbf0</data>
+      <data key="d3">6</data>
+      <data key="d4">86</data>
+      <data key="d5">8d141c0b80f74b79a05eed7fe161fe49</data>
+    </node>
+    <node id="&quot;MONROE COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Monroe County is a county in Iowa, United States, where Avery is located."</data>
+      <data key="d2">da326efffc76a14d86c76b47f01294f7</data>
+      <data key="d3">2</data>
+      <data key="d4">87</data>
+      <data key="d5">e22d1d1cd8d14f12b81828d940f40d70</data>
+    </node>
+    <node id="&quot;IOWA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Iowa is a state in the United States where Monroe County and Avery are located."</data>
+      <data key="d2">da326efffc76a14d86c76b47f01294f7</data>
+      <data key="d3">1</data>
+      <data key="d4">88</data>
+      <data key="d5">9ab48505fb1b487babd0d1f6d3a3f980</data>
+    </node>
+    <node id="&quot;ALBIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Albia is a city in Iowa, United States, located southwest of Avery."</data>
+      <data key="d2">da326efffc76a14d86c76b47f01294f7</data>
+      <data key="d3">1</data>
+      <data key="d4">89</data>
+      <data key="d5">148fffeb994541b2b4b6dcefda7001a8</data>
+    </node>
+    <node id="&quot;INTERNATIONAL OLYMPIC COMMITTEE (IOC)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The International Olympic Committee (IOC) is an organization that Avery Brundage served as President of from 1952 to 1972."</data>
+      <data key="d2">f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d3">3</data>
+      <data key="d4">90</data>
+      <data key="d5">89c08e793298442686292454a1abff31</data>
+    </node>
+    <node id="&quot;GERMANY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Germany was the host country for the 1936 and 1972 Summer Olympics, which Avery Brundage was involved with."</data>
+      <data key="d2">f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d3">1</data>
+      <data key="d4">91</data>
+      <data key="d5">0467928aa65e4a4fba62bdb1467e3a54</data>
+    </node>
+    <node id="&quot;1936 SUMMER OLYMPICS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 1936 Summer Olympics were held in Germany and Avery Brundage was involved with them."</data>
+      <data key="d2">f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d3">1</data>
+      <data key="d4">92</data>
+      <data key="d5">43c3390303c6476cb65f584e37c3e81c</data>
+    </node>
+    <node id="&quot;1972 SUMMER OLYMPICS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 1972 Summer Olympics were held in Germany and Avery Brundage was involved with them."</data>
+      <data key="d2">f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d3">1</data>
+      <data key="d4">93</data>
+      <data key="d5">fa14b16c17e3417dba5a4b473ea5b18d</data>
+    </node>
+    <node id="&quot;AVERY BRUNDAGE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d3">2</data>
+      <data key="d4">94</data>
+      <data key="d5">7cc3356d38de4328a51a5cbcb187dac3</data>
+    </node>
+    <node id="&quot;THOMAS BACH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Thomas Bach is the President of the International Olympic Committee, holding the position since 10 September 2013."</data>
+      <data key="d2">3ba9d687b2de130f7c43b1ec02344d3e</data>
+      <data key="d3">1</data>
+      <data key="d4">95</data>
+      <data key="d5">bef16fb5fd7344cca5e295b13ef3e0cd</data>
+    </node>
+    <node id="&quot;LAUSANNE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lausanne is a location in Switzerland where the IOC Headquarters are situated."</data>
+      <data key="d2">3ba9d687b2de130f7c43b1ec02344d3e</data>
+      <data key="d3">1</data>
+      <data key="d4">96</data>
+      <data key="d5">bb9e01bc171d4326a29afda59ece8d17</data>
+    </node>
+    <node id="&quot;DEMETRIUS VIKELAS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Demetrius Vikelas was the first holder of the position of President of the International Olympic Committee, serving from 1894."</data>
+      <data key="d2">3ba9d687b2de130f7c43b1ec02344d3e</data>
+      <data key="d3">1</data>
+      <data key="d4">97</data>
+      <data key="d5">3c063eea52e94164b70c99431ea30bae</data>
+    </node>
+    <node id="&quot;IOC SESSION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The IOC Session is an event where the members of the International Olympic Committee gather to elect the President and make other important decisions."</data>
+      <data key="d2">3ba9d687b2de130f7c43b1ec02344d3e</data>
+      <data key="d3">1</data>
+      <data key="d4">98</data>
+      <data key="d5">252cc8452bfc4c2aa58cab68d8b61879</data>
+    </node>
+    <node id="&quot;INTERNATIONAL OLYMPIC COMMITTEE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3ba9d687b2de130f7c43b1ec02344d3e</data>
+      <data key="d3">4</data>
+      <data key="d4">99</data>
+      <data key="d5">7e2c84548fb94ee395ba8588d8f2a006</data>
+    </node>
+    <node id="&quot;ALEXANDRA DADDARIO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alexandra Daddario is an actress who plays the role of Avery Martin."</data>
+      <data key="d2">ef590ce0eec8b95c1d1bc3c0ce05bae2</data>
+      <data key="d3">1</data>
+      <data key="d4">100</data>
+      <data key="d5">f034618dde7948beb6dab30176d0fc87</data>
+    </node>
+    <node id="&quot;SHELLEY HENNIG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Shelley Hennig is an actress who plays the role of Carrie Grey."</data>
+      <data key="d2">ef590ce0eec8b95c1d1bc3c0ce05bae2</data>
+      <data key="d3">1</data>
+      <data key="d4">101</data>
+      <data key="d5">5c41f96be13e49dba649454297834546</data>
+    </node>
+    <node id="&quot;ANDREW BACHELOR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Andrew Bachelor is an actor who plays the role of Max, Noah's friend."</data>
+      <data key="d2">ef590ce0eec8b95c1d1bc3c0ce05bae2</data>
+      <data key="d3">1</data>
+      <data key="d4">102</data>
+      <data key="d5">7ea4afbf8a264f29af29950ce98105ba</data>
+    </node>
+    <node id="&quot;ROBBIE AMELL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Robbie Amell is an actor who plays the role of Ethan."</data>
+      <data key="d2">ef590ce0eec8b95c1d1bc3c0ce05bae2</data>
+      <data key="d3">1</data>
+      <data key="d4">103</data>
+      <data key="d5">91ff849d12b24574b0691dbddf44968b</data>
+    </node>
+    <node id="&quot;ADAM DEVINE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ef590ce0eec8b95c1d1bc3c0ce05bae2</data>
+      <data key="d3">1</data>
+      <data key="d4">104</data>
+      <data key="d5">d73c1f2fb3094d8dace42ad2a76e9a52</data>
+    </node>
+    <node id="&quot;NOAH ASHBY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ef590ce0eec8b95c1d1bc3c0ce05bae2</data>
+      <data key="d3">1</data>
+      <data key="d4">105</data>
+      <data key="d5">cdc8901e668749889bd49bebdc4ff1f6</data>
+    </node>
+    <node id="&quot;AVERY MARTIN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ef590ce0eec8b95c1d1bc3c0ce05bae2</data>
+      <data key="d3">1</data>
+      <data key="d4">106</data>
+      <data key="d5">36084a9fab53433493f079e97e68bf65</data>
+    </node>
+    <node id="&quot;CARRIE GREY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ef590ce0eec8b95c1d1bc3c0ce05bae2</data>
+      <data key="d3">1</data>
+      <data key="d4">107</data>
+      <data key="d5">eebcc7ec8e3e4df7aea83659bbdc2199</data>
+    </node>
+    <node id="&quot;MAX&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ef590ce0eec8b95c1d1bc3c0ce05bae2</data>
+      <data key="d3">1</data>
+      <data key="d4">108</data>
+      <data key="d5">ceadf262ef834e9ab146b20650912cae</data>
+    </node>
+    <node id="&quot;ETHAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ef590ce0eec8b95c1d1bc3c0ce05bae2</data>
+      <data key="d3">1</data>
+      <data key="d4">109</data>
+      <data key="d5">7f65feab75424b53b24470d305ba331a</data>
+    </node>
+    <node id="&quot;AVERY SCHREIBER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Avery Schreiber is an actor who stars in The Russian Room."</data>
+      <data key="d2">a7106d3c0c0e9e0b0a4189f4eed5a687</data>
+      <data key="d3">1</data>
+      <data key="d4">110</data>
+      <data key="d5">fd9cb733b28d420cb5cef01e545a132c</data>
+    </node>
+    <node id="&quot;JEFF CASPER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jeff Casper is a writer who stars in The Russian Room."</data>
+      <data key="d2">a7106d3c0c0e9e0b0a4189f4eed5a687</data>
+      <data key="d3">1</data>
+      <data key="d4">111</data>
+      <data key="d5">0fbcca3f17c649a08aea64b5a7d9ef36</data>
+    </node>
+    <node id="&quot;NANCE MCQUIGG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Nance McQuigg directed and produced The Russian Room."</data>
+      <data key="d2">a7106d3c0c0e9e0b0a4189f4eed5a687</data>
+      <data key="d3">1</data>
+      <data key="d4">112</data>
+      <data key="d5">482027a59f32484c9c44fd700615c1b6</data>
+    </node>
+    <node id="&quot;NEW YORK CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New York City is the location where The Russian Room was shot."</data>
+      <data key="d2">a7106d3c0c0e9e0b0a4189f4eed5a687</data>
+      <data key="d3">1</data>
+      <data key="d4">113</data>
+      <data key="d5">de837ff3d626451282ff6ac77a82216d</data>
+    </node>
+    <node id="&quot;THE RUSSIAN ROOM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a7106d3c0c0e9e0b0a4189f4eed5a687</data>
+      <data key="d3">4</data>
+      <data key="d4">114</data>
+      <data key="d5">460295fed3ae4cd39f9f274cec9c2506</data>
+    </node>
+    <node id="&quot;FRENCH AMERICAN BANKING CORP.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"French American Banking Corp. is a banking corporation where Avery Claflin served as president."</data>
+      <data key="d2">bc4d296509fe7e8602f83a16d11c17b9</data>
+      <data key="d3">1</data>
+      <data key="d4">115</data>
+      <data key="d5">553b285bba60460ab1ed8341ae61282b</data>
+    </node>
+    <node id="&quot;AVERY CLAFLIN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">bc4d296509fe7e8602f83a16d11c17b9</data>
+      <data key="d3">1</data>
+      <data key="d4">116</data>
+      <data key="d5">cec95bf17e7e4c939b56c9c6f402a29f</data>
+    </node>
+    <edge source="&quot;DIANA&quot;" target="&quot;AVERY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Diana is Avery's mother, showing a close family relationship."</data>
+      <data key="d10">ba36326da30a9ac27449ccbf349db1c5</data>
+      <data key="d11">599164aead034bc19446efacc77554d2</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LIZ&quot;" target="&quot;JACK&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Liz helps Jack overcome his chemistry with Diana and rewrites the script to be a total fabrication, indicating a professional collaboration."</data>
+      <data key="d10">ba36326da30a9ac27449ccbf349db1c5</data>
+      <data key="d11">bbf148ae4d48422f8fdef754cfa2b9e4</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JACK&quot;" target="&quot;AVERY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jack had a relationship with Avery, which he idealized until Liz helped him realize the truth."</data>
+      <data key="d10">ba36326da30a9ac27449ccbf349db1c5</data>
+      <data key="d11">de61b2670999433f807a6a1dc2b81e43</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AVERY&quot;" target="&quot;MONROE COUNTY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Avery is located in Monroe County."</data>
+      <data key="d10">da326efffc76a14d86c76b47f01294f7</data>
+      <data key="d11">3e95dacfe57b4d57b5da4310ef2e157f</data>
+      <data key="d12">3</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AVERY&quot;" target="&quot;ALBIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Avery is located northeast of Albia."</data>
+      <data key="d10">da326efffc76a14d86c76b47f01294f7</data>
+      <data key="d11">1f1545308e9347af91fd03b94aadc21f</data>
+      <data key="d12">4</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is the county seat of Pima County."</data>
+      <data key="d10">05e6ea480556d9cf87228dd7b36bcea2,300c38d0f9c10526fa4d901c742fcbf0,381e20499896ea6c0ce571a3345ffa43,3ba9d687b2de130f7c43b1ec02344d3e,3c7066c34692f5580fdaec0632e43153,413f8e0ccd72d35f148ac4d0f2110994,468a42eac4fe03ee9f80130190a65dd6,519847ad777b76d2cf98c5a335905613,726ac7d4e7e2d5c9c8e8acb4329e403e,a7106d3c0c0e9e0b0a4189f4eed5a687,ba36326da30a9ac27449ccbf349db1c5,bc4d296509fe7e8602f83a16d11c17b9,ca7fbf1e24bbc8289baacb8c1ff23a44,d116e197b5a20d3aaeb5e1cc15230700,d3253442b8630c8f25c78fdc18a8e0a7,d527f37623160c3876f76e6c387b8c3f,d8a44001ff4aa62e17d763f2e1180f21,da326efffc76a14d86c76b47f01294f7,ef590ce0eec8b95c1d1bc3c0ce05bae2,f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d11">6ea81acaf232485e94fff638e03336e1</data>
+      <data key="d12">5</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Pima County is a county in Arizona."</data>
+      <data key="d10">05e6ea480556d9cf87228dd7b36bcea2,300c38d0f9c10526fa4d901c742fcbf0,381e20499896ea6c0ce571a3345ffa43,3ba9d687b2de130f7c43b1ec02344d3e,3c7066c34692f5580fdaec0632e43153,413f8e0ccd72d35f148ac4d0f2110994,468a42eac4fe03ee9f80130190a65dd6,519847ad777b76d2cf98c5a335905613,726ac7d4e7e2d5c9c8e8acb4329e403e,a7106d3c0c0e9e0b0a4189f4eed5a687,ba36326da30a9ac27449ccbf349db1c5,bc4d296509fe7e8602f83a16d11c17b9,ca7fbf1e24bbc8289baacb8c1ff23a44,d116e197b5a20d3aaeb5e1cc15230700,d3253442b8630c8f25c78fdc18a8e0a7,d527f37623160c3876f76e6c387b8c3f,d8a44001ff4aa62e17d763f2e1180f21,da326efffc76a14d86c76b47f01294f7,ef590ce0eec8b95c1d1bc3c0ce05bae2,f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d11">d136b08d586d488f9e4188b524c85a29</data>
+      <data key="d12">6</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The University of Arizona is located in Tucson."</data>
+      <data key="d10">05e6ea480556d9cf87228dd7b36bcea2,300c38d0f9c10526fa4d901c742fcbf0,381e20499896ea6c0ce571a3345ffa43,3ba9d687b2de130f7c43b1ec02344d3e,3c7066c34692f5580fdaec0632e43153,413f8e0ccd72d35f148ac4d0f2110994,468a42eac4fe03ee9f80130190a65dd6,519847ad777b76d2cf98c5a335905613,726ac7d4e7e2d5c9c8e8acb4329e403e,a7106d3c0c0e9e0b0a4189f4eed5a687,ba36326da30a9ac27449ccbf349db1c5,bc4d296509fe7e8602f83a16d11c17b9,ca7fbf1e24bbc8289baacb8c1ff23a44,d116e197b5a20d3aaeb5e1cc15230700,d3253442b8630c8f25c78fdc18a8e0a7,d527f37623160c3876f76e6c387b8c3f,d8a44001ff4aa62e17d763f2e1180f21,da326efffc76a14d86c76b47f01294f7,ef590ce0eec8b95c1d1bc3c0ce05bae2,f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d11">cccfa151fedc4b218a8d96adc7dceabe</data>
+      <data key="d12">7</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Arizona is a state in the United States."</data>
+      <data key="d10">05e6ea480556d9cf87228dd7b36bcea2,300c38d0f9c10526fa4d901c742fcbf0,381e20499896ea6c0ce571a3345ffa43,3ba9d687b2de130f7c43b1ec02344d3e,3c7066c34692f5580fdaec0632e43153,413f8e0ccd72d35f148ac4d0f2110994,468a42eac4fe03ee9f80130190a65dd6,519847ad777b76d2cf98c5a335905613,726ac7d4e7e2d5c9c8e8acb4329e403e,a7106d3c0c0e9e0b0a4189f4eed5a687,ba36326da30a9ac27449ccbf349db1c5,bc4d296509fe7e8602f83a16d11c17b9,ca7fbf1e24bbc8289baacb8c1ff23a44,d116e197b5a20d3aaeb5e1cc15230700,d3253442b8630c8f25c78fdc18a8e0a7,d527f37623160c3876f76e6c387b8c3f,d8a44001ff4aa62e17d763f2e1180f21,da326efffc76a14d86c76b47f01294f7,ef590ce0eec8b95c1d1bc3c0ce05bae2,f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d11">ce54725672a74ebcabe6127577dacb2b</data>
+      <data key="d12">8</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is a city in Arizona."</data>
+      <data key="d10">05e6ea480556d9cf87228dd7b36bcea2,300c38d0f9c10526fa4d901c742fcbf0,381e20499896ea6c0ce571a3345ffa43,3ba9d687b2de130f7c43b1ec02344d3e,3c7066c34692f5580fdaec0632e43153,413f8e0ccd72d35f148ac4d0f2110994,468a42eac4fe03ee9f80130190a65dd6,519847ad777b76d2cf98c5a335905613,726ac7d4e7e2d5c9c8e8acb4329e403e,a7106d3c0c0e9e0b0a4189f4eed5a687,ba36326da30a9ac27449ccbf349db1c5,bc4d296509fe7e8602f83a16d11c17b9,ca7fbf1e24bbc8289baacb8c1ff23a44,d116e197b5a20d3aaeb5e1cc15230700,d3253442b8630c8f25c78fdc18a8e0a7,d527f37623160c3876f76e6c387b8c3f,d8a44001ff4aa62e17d763f2e1180f21,da326efffc76a14d86c76b47f01294f7,ef590ce0eec8b95c1d1bc3c0ce05bae2,f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d11">ea2b28ca1a974ffab4517811dc1d1e5c</data>
+      <data key="d12">9</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Phoenix is a city in Arizona."</data>
+      <data key="d10">05e6ea480556d9cf87228dd7b36bcea2,300c38d0f9c10526fa4d901c742fcbf0,381e20499896ea6c0ce571a3345ffa43,3ba9d687b2de130f7c43b1ec02344d3e,3c7066c34692f5580fdaec0632e43153,413f8e0ccd72d35f148ac4d0f2110994,468a42eac4fe03ee9f80130190a65dd6,519847ad777b76d2cf98c5a335905613,726ac7d4e7e2d5c9c8e8acb4329e403e,a7106d3c0c0e9e0b0a4189f4eed5a687,ba36326da30a9ac27449ccbf349db1c5,bc4d296509fe7e8602f83a16d11c17b9,ca7fbf1e24bbc8289baacb8c1ff23a44,d116e197b5a20d3aaeb5e1cc15230700,d3253442b8630c8f25c78fdc18a8e0a7,d527f37623160c3876f76e6c387b8c3f,d8a44001ff4aa62e17d763f2e1180f21,da326efffc76a14d86c76b47f01294f7,ef590ce0eec8b95c1d1bc3c0ce05bae2,f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d11">aff21f1da1654e7babdcf3fb0e4a75fc</data>
+      <data key="d12">10</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;NORTH CAROLINA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"North Carolina is one of the states in the United States."</data>
+      <data key="d10">d3253442b8630c8f25c78fdc18a8e0a7</data>
+      <data key="d11">dc2cc9016e3f49dbac7232f05cce794d</data>
+      <data key="d12">11</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d10">05e6ea480556d9cf87228dd7b36bcea2,300c38d0f9c10526fa4d901c742fcbf0,381e20499896ea6c0ce571a3345ffa43,3ba9d687b2de130f7c43b1ec02344d3e,3c7066c34692f5580fdaec0632e43153,413f8e0ccd72d35f148ac4d0f2110994,468a42eac4fe03ee9f80130190a65dd6,519847ad777b76d2cf98c5a335905613,726ac7d4e7e2d5c9c8e8acb4329e403e,a7106d3c0c0e9e0b0a4189f4eed5a687,ba36326da30a9ac27449ccbf349db1c5,bc4d296509fe7e8602f83a16d11c17b9,ca7fbf1e24bbc8289baacb8c1ff23a44,d116e197b5a20d3aaeb5e1cc15230700,d3253442b8630c8f25c78fdc18a8e0a7,d527f37623160c3876f76e6c387b8c3f,d8a44001ff4aa62e17d763f2e1180f21,da326efffc76a14d86c76b47f01294f7,ef590ce0eec8b95c1d1bc3c0ce05bae2,f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d11">6ea0cef05f694dcea455478f40674e45</data>
+      <data key="d12">12</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Mexico shares an international border with the United States."</data>
+      <data key="d10">05e6ea480556d9cf87228dd7b36bcea2,300c38d0f9c10526fa4d901c742fcbf0,381e20499896ea6c0ce571a3345ffa43,3ba9d687b2de130f7c43b1ec02344d3e,3c7066c34692f5580fdaec0632e43153,413f8e0ccd72d35f148ac4d0f2110994,468a42eac4fe03ee9f80130190a65dd6,519847ad777b76d2cf98c5a335905613,726ac7d4e7e2d5c9c8e8acb4329e403e,a7106d3c0c0e9e0b0a4189f4eed5a687,ba36326da30a9ac27449ccbf349db1c5,bc4d296509fe7e8602f83a16d11c17b9,ca7fbf1e24bbc8289baacb8c1ff23a44,d116e197b5a20d3aaeb5e1cc15230700,d3253442b8630c8f25c78fdc18a8e0a7,d527f37623160c3876f76e6c387b8c3f,d8a44001ff4aa62e17d763f2e1180f21,da326efffc76a14d86c76b47f01294f7,ef590ce0eec8b95c1d1bc3c0ce05bae2,f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d11">7ab5d53a872f4dfc98f3d386879f3c75</data>
+      <data key="d12">13</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d10">05e6ea480556d9cf87228dd7b36bcea2,300c38d0f9c10526fa4d901c742fcbf0,381e20499896ea6c0ce571a3345ffa43,3ba9d687b2de130f7c43b1ec02344d3e,3c7066c34692f5580fdaec0632e43153,413f8e0ccd72d35f148ac4d0f2110994,468a42eac4fe03ee9f80130190a65dd6,519847ad777b76d2cf98c5a335905613,726ac7d4e7e2d5c9c8e8acb4329e403e,a7106d3c0c0e9e0b0a4189f4eed5a687,ba36326da30a9ac27449ccbf349db1c5,bc4d296509fe7e8602f83a16d11c17b9,ca7fbf1e24bbc8289baacb8c1ff23a44,d116e197b5a20d3aaeb5e1cc15230700,d3253442b8630c8f25c78fdc18a8e0a7,d527f37623160c3876f76e6c387b8c3f,d8a44001ff4aa62e17d763f2e1180f21,da326efffc76a14d86c76b47f01294f7,ef590ce0eec8b95c1d1bc3c0ce05bae2,f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d11">af1d0fec22114a3398b8016f5225f9ed</data>
+      <data key="d12">14</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;EPP WOMEN&quot;" target="&quot;DORIS PACK&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Doris Pack serves as President of EPP Women."</data>
+      <data key="d10">381e20499896ea6c0ce571a3345ffa43</data>
+      <data key="d11">b07a7f088364459098cd8511ff27a4c8</data>
+      <data key="d12">15</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ROBERT SCHUMAN INSTITUTE&quot;" target="&quot;DORIS PACK&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Doris Pack serves as President of the Robert Schuman Institute."</data>
+      <data key="d10">381e20499896ea6c0ce571a3345ffa43</data>
+      <data key="d11">8870cf2b5df64d2cab5820f67e29b9f1</data>
+      <data key="d12">16</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;EUROPEAN PARLIAMENT&quot;" target="&quot;DORIS PACK&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Doris Pack served as a member of the European Parliament from 1989-2014."</data>
+      <data key="d10">381e20499896ea6c0ce571a3345ffa43</data>
+      <data key="d11">cd130938a2844050be991af70baf5ee0</data>
+      <data key="d12">17</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BUNDESTAG&quot;" target="&quot;DORIS PACK&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Doris Pack served as a member of the Bundestag from 1974-1983 and 1985-1989."</data>
+      <data key="d10">381e20499896ea6c0ce571a3345ffa43</data>
+      <data key="d11">43544b99c3b04b059546198a0ae6366d</data>
+      <data key="d12">18</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CHRISTIAN DEMOCRATIC UNION&quot;" target="&quot;DORIS PACK&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Doris Pack is a member of the Christian Democratic Union."</data>
+      <data key="d10">381e20499896ea6c0ce571a3345ffa43</data>
+      <data key="d11">a671bf7fea2f4514b6e96ba99127fafd</data>
+      <data key="d12">19</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CALVIN COOLIDGE&quot;" target="&quot;JOHN AVERY DENISON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"John Avery Denison was appointed to a judicial position by Calvin Coolidge."</data>
+      <data key="d10">05e6ea480556d9cf87228dd7b36bcea2</data>
+      <data key="d11">525f41ea20274a05af4e52b625b473f3</data>
+      <data key="d12">20</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SPRINGFIELD, MASSACHUSETTS&quot;" target="&quot;JOHN AVERY DENISON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"John Avery Denison was the Mayor of Springfield, Massachusetts."</data>
+      <data key="d10">05e6ea480556d9cf87228dd7b36bcea2</data>
+      <data key="d11">071a416efbec4f0886c19ac68f6d43cb</data>
+      <data key="d12">21</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;INSTITUTION OF CIVIL ENGINEERS (ICE)&quot;" target="&quot;HUMPHREYS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Humphreys held various positions in the Institution of Civil Engineers (ICE), including president and vice-president."</data>
+      <data key="d10">413f8e0ccd72d35f148ac4d0f2110994</data>
+      <data key="d11">6d8473ef3b1042bf87178a611e3dbcc6</data>
+      <data key="d12">22</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LONDON&quot;" target="&quot;HUMPHREYS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Humphreys was born in London."</data>
+      <data key="d10">413f8e0ccd72d35f148ac4d0f2110994</data>
+      <data key="d11">30c9641543c24773938bd8ec57ea98ab</data>
+      <data key="d12">23</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ORDER OF THE BRITISH EMPIRE&quot;" target="&quot;HUMPHREYS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Humphreys was appointed a Knight Commander of the Order of the British Empire in 1927."</data>
+      <data key="d10">413f8e0ccd72d35f148ac4d0f2110994</data>
+      <data key="d11">18b839da898e4026b81727d759d95c6a</data>
+      <data key="d12">24</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ALABAMA CRIMSON TIDE&quot;" target="&quot;AVERY DEWITT JOHNSON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Avery DeWitt Johnson is the head coach of the Alabama Crimson Tide men's basketball team."</data>
+      <data key="d10">3c7066c34692f5580fdaec0632e43153</data>
+      <data key="d11">eeef6ae5c464400c8755900b4f1ac37a</data>
+      <data key="d12">25</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DR. TOM KORACIK&quot;" target="&quot;AMELIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Amelia brings in Dr. Tom Koracik to help with her treatment plan."</data>
+      <data key="d10">d8a44001ff4aa62e17d763f2e1180f21</data>
+      <data key="d11">422433aa45804c7ebb973b2fafce5da6</data>
+      <data key="d12">26</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HARPER AVERY&quot;" target="&quot;BAILEY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Bailey is confronted by Harper Avery about changes at the hospital."</data>
+      <data key="d10">d8a44001ff4aa62e17d763f2e1180f21</data>
+      <data key="d11">86505bca739d4bccaaa1a8e0f3baffdc</data>
+      <data key="d12">27</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BAILEY&quot;" target="&quot;JACKSON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jackson and Catherine Avery reinstate Bailey as the chief of the hospital."</data>
+      <data key="d10">d8a44001ff4aa62e17d763f2e1180f21</data>
+      <data key="d11">1af9faf341e14a5bbf4ddc9080e8dc0b</data>
+      <data key="d12">28</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BEN&quot;" target="&quot;CARINA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ben and Arizona seek advice from Carina for one of their patients stuck in labor."</data>
+      <data key="d10">d8a44001ff4aa62e17d763f2e1180f21</data>
+      <data key="d11">353d91abc68648639d65a549e59b5cf3</data>
+      <data key="d12">29</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MEREDITH&quot;" target="&quot;NATHAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Meredith is involved in a love triangle with Nathan and Megan."</data>
+      <data key="d10">d8a44001ff4aa62e17d763f2e1180f21</data>
+      <data key="d11">7ce637e4f35b42e3a9f8272cab69cd22</data>
+      <data key="d12">30</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ALEX&quot;" target="&quot;JO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jo asks Alex to move back home."</data>
+      <data key="d10">d8a44001ff4aa62e17d763f2e1180f21</data>
+      <data key="d11">4d999d7744b04a998475f8f8531589f0</data>
+      <data key="d12">31</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BOSTON CITY COUNCIL&quot;" target="&quot;MICHAEL F. FLAHERTY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Michael F. Flaherty is an at-large member of the Boston City Council."</data>
+      <data key="d10">468a42eac4fe03ee9f80130190a65dd6</data>
+      <data key="d11">9a6f414210e14841a5b0e661aedc898d</data>
+      <data key="d12">32</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BOSTON CITY COUNCIL&quot;" target="&quot;BOSTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Boston City Council is located in Boston."</data>
+      <data key="d10">468a42eac4fe03ee9f80130190a65dd6</data>
+      <data key="d11">db541b7260974db8bac94e953009f60e</data>
+      <data key="d12">33</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES DEMOCRATIC PARTY&quot;" target="&quot;MICHAEL F. FLAHERTY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Michael F. Flaherty is a member of the United States Democratic Party."</data>
+      <data key="d10">468a42eac4fe03ee9f80130190a65dd6</data>
+      <data key="d11">f2ff8044718648e18acef16dd9a65436</data>
+      <data key="d12">34</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AVERY COUNTY&quot;" target="&quot;PLUMTREE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Plumtree is located in Avery County."</data>
+      <data key="d10">d3253442b8630c8f25c78fdc18a8e0a7</data>
+      <data key="d11">00d785e7d76b47ec81b508e768d40584</data>
+      <data key="d12">35</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AVERY COUNTY&quot;" target="&quot;NORTH CAROLINA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Avery County is a location within the state of North Carolina."</data>
+      <data key="d10">d3253442b8630c8f25c78fdc18a8e0a7</data>
+      <data key="d11">87915637da3e474c9349bd0ae604bd95</data>
+      <data key="d12">36</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ROARING CREEK&quot;" target="&quot;PLUMTREE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Plumtree and Roaring Creek are neighboring communities."</data>
+      <data key="d10">d3253442b8630c8f25c78fdc18a8e0a7</data>
+      <data key="d11">8f1eba29f39e411188200bf0d14628ec</data>
+      <data key="d12">37</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;INGALLS&quot;" target="&quot;PLUMTREE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Plumtree and Ingalls are neighboring communities."</data>
+      <data key="d10">d3253442b8630c8f25c78fdc18a8e0a7</data>
+      <data key="d11">7282c73622b8408e97289d959faff483</data>
+      <data key="d12">38</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CHARLES AVERY&quot;" target="&quot;HOGAN'S ROMANCE UPSET&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Charles Avery directed Hogan's Romance Upset."</data>
+      <data key="d10">ca7fbf1e24bbc8289baacb8c1ff23a44</data>
+      <data key="d11">3deb220d31f74103aa44870a36a63220</data>
+      <data key="d12">39</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FATTY ARBUCKLE&quot;" target="&quot;HOGAN'S ROMANCE UPSET&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Fatty Arbuckle appears in an uncredited role as a spectator in Hogan's Romance Upset."</data>
+      <data key="d10">ca7fbf1e24bbc8289baacb8c1ff23a44</data>
+      <data key="d11">af7a1584dd15492cb9a4940e285f57fc</data>
+      <data key="d12">40</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HAROLD LLOYD&quot;" target="&quot;HOGAN'S ROMANCE UPSET&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Harold Lloyd appears in an uncredited role as a spectator in Hogan's Romance Upset."</data>
+      <data key="d10">ca7fbf1e24bbc8289baacb8c1ff23a44</data>
+      <data key="d11">6e8d9029ce4e4ea182367173ab2c7bbf</data>
+      <data key="d12">41</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;THE HOUSE&quot;" target="&quot;THE SPEAKER OF THE HOUSE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Speaker of the House is the presiding officer of The House."</data>
+      <data key="d10">d527f37623160c3876f76e6c387b8c3f</data>
+      <data key="d11">cbf232211e7d4eb6abdbe182f71c2cf0</data>
+      <data key="d12">42</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;THE HOUSE&quot;" target="&quot;SPEAKER PRO TEMPORE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Speaker pro tempore presides over The House during consideration of local and consent bills."</data>
+      <data key="d10">d527f37623160c3876f76e6c387b8c3f</data>
+      <data key="d11">bb0cff774a4440b289cc6f3b929fe13c</data>
+      <data key="d12">43</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SOUTH NORWALK, CONNECTICUT&quot;" target="&quot;LEEMAN M. BRUNDAGE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Leeman M. Brundage served as mayor of South Norwalk, Connecticut."</data>
+      <data key="d10">519847ad777b76d2cf98c5a335905613</data>
+      <data key="d11">ce55841ebfdd47008bab8c258f10372e</data>
+      <data key="d12">44</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NEW YORK&quot;" target="&quot;LEEMAN M. BRUNDAGE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Leeman M. Brundage was born in New York."</data>
+      <data key="d10">519847ad777b76d2cf98c5a335905613</data>
+      <data key="d11">6090e736374d45fd84f0e4610a314f8f</data>
+      <data key="d12">45</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DEMOCRATIC PARTY&quot;" target="&quot;LEEMAN M. BRUNDAGE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Leeman M. Brundage was a member of the Democratic Party."</data>
+      <data key="d10">519847ad777b76d2cf98c5a335905613</data>
+      <data key="d11">0e8d921ccd8d4a8594b65b7fd19f7120</data>
+      <data key="d12">46</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SHIRLEY ENID AVERY&quot;" target="&quot;TERI THORNTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Shirley Enid Avery is the birth name of Teri Thornton."</data>
+      <data key="d10">726ac7d4e7e2d5c9c8e8acb4329e403e</data>
+      <data key="d11">59c726a8792d443e84ab052cb7942b4a</data>
+      <data key="d12">47</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DETROIT&quot;" target="&quot;TERI THORNTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Teri Thornton was born in Detroit."</data>
+      <data key="d10">726ac7d4e7e2d5c9c8e8acb4329e403e</data>
+      <data key="d11">4f2c665decf242b0bfcaf7350b0e02ed</data>
+      <data key="d12">48</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ENGLEWOOD&quot;" target="&quot;TERI THORNTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Teri Thornton died in Englewood."</data>
+      <data key="d10">726ac7d4e7e2d5c9c8e8acb4329e403e</data>
+      <data key="d11">66cdf168f36d4a57a505028c97dc06e0</data>
+      <data key="d12">49</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LOK SABHA&quot;" target="&quot;MEMBERS OF PARLIAMENT (MP)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lok Sabha comprises directly elected Members of Parliament by the Indian public."</data>
+      <data key="d10">d116e197b5a20d3aaeb5e1cc15230700</data>
+      <data key="d11">38f51478f41f48db9bee570859b6f43e</data>
+      <data key="d12">50</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;RAJYA SABHA&quot;" target="&quot;MEMBERS OF PARLIAMENT (MP)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Rajya Sabha comprises Members of Parliament elected by State Legislative Assembly members."</data>
+      <data key="d10">d116e197b5a20d3aaeb5e1cc15230700</data>
+      <data key="d11">896d2a51e8de47de85ba8ced108c3d53</data>
+      <data key="d12">51</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PRESIDENT&quot;" target="&quot;MEMBERS OF PARLIAMENT (MP)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The President nominates Members of Parliament to both houses of Parliament."</data>
+      <data key="d10">d116e197b5a20d3aaeb5e1cc15230700</data>
+      <data key="d11">14555b518e954637b83aa762dc03164e</data>
+      <data key="d12">52</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SANSAD BHAVAN&quot;" target="&quot;PARLIAMENT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Indian Parliament meets at Sansad Bhavan in New Delhi."</data>
+      <data key="d10">d116e197b5a20d3aaeb5e1cc15230700</data>
+      <data key="d11">b1f6164116d44fe8b8f135d7f65b9e58</data>
+      <data key="d12">53</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SIDNEY LUMET&quot;" target="&quot;100 CENTRE STREET&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Sidney Lumet created a TV show related to 100 Centre Street."</data>
+      <data key="d10">300c38d0f9c10526fa4d901c742fcbf0</data>
+      <data key="d11">c8b2408617804483b620e1a6691ac90d</data>
+      <data key="d12">54</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ALAN ARKIN&quot;" target="&quot;100 CENTRE STREET&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Alan Arkin stars in a TV show related to 100 Centre Street."</data>
+      <data key="d10">300c38d0f9c10526fa4d901c742fcbf0</data>
+      <data key="d11">a5e0d1644eb547ba9a5c3211aac4631a</data>
+      <data key="d12">55</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VAL AVERY&quot;" target="&quot;100 CENTRE STREET&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Val Avery stars in a TV show related to 100 Centre Street."</data>
+      <data key="d10">300c38d0f9c10526fa4d901c742fcbf0</data>
+      <data key="d11">5a28b94bc63b44edb30c54748fd14f15</data>
+      <data key="d12">56</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BOBBY CANNAVALE&quot;" target="&quot;100 CENTRE STREET&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Bobby Cannavale stars in a TV show related to 100 Centre Street."</data>
+      <data key="d10">300c38d0f9c10526fa4d901c742fcbf0</data>
+      <data key="d11">f97011b2a99d44648e18d517e1eae15c</data>
+      <data key="d12">57</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JOEL DE LA FUENTE&quot;" target="&quot;100 CENTRE STREET&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Joel de la Fuente stars in a TV show related to 100 Centre Street."</data>
+      <data key="d10">300c38d0f9c10526fa4d901c742fcbf0</data>
+      <data key="d11">35489ca6a63b47d6a8913cf333818bc1</data>
+      <data key="d12">58</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PAULA DEVICQ&quot;" target="&quot;100 CENTRE STREET&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Paula Devicq stars in a TV show related to 100 Centre Street."</data>
+      <data key="d10">300c38d0f9c10526fa4d901c742fcbf0</data>
+      <data key="d11">5d3344f45e654d2c808481672f2f08dd</data>
+      <data key="d12">59</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MONROE COUNTY&quot;" target="&quot;IOWA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Monroe County is a county in the state of Iowa."</data>
+      <data key="d10">da326efffc76a14d86c76b47f01294f7</data>
+      <data key="d11">6fb57f83baec45c9b30490ee991f433f</data>
+      <data key="d12">60</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;INTERNATIONAL OLYMPIC COMMITTEE (IOC)&quot;" target="&quot;AVERY BRUNDAGE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Avery Brundage served as President of the International Olympic Committee (IOC) from 1952 to 1972."</data>
+      <data key="d10">f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d11">68762e6f0d1c41cd857c6b964a8e76c3</data>
+      <data key="d12">61</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;INTERNATIONAL OLYMPIC COMMITTEE (IOC)&quot;" target="&quot;1936 SUMMER OLYMPICS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The International Olympic Committee (IOC) organized the 1936 Summer Olympics, which were held in Germany."</data>
+      <data key="d10">f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d11">70634e10a5e845aa8c6a32fe7e8eb2b2</data>
+      <data key="d12">62</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;INTERNATIONAL OLYMPIC COMMITTEE (IOC)&quot;" target="&quot;1972 SUMMER OLYMPICS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The International Olympic Committee (IOC) organized the 1972 Summer Olympics, which were held in Germany."</data>
+      <data key="d10">f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d11">04085f7cf46544b79597fc49286ff84d</data>
+      <data key="d12">63</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GERMANY&quot;" target="&quot;AVERY BRUNDAGE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Avery Brundage was involved with the Summer Olympics held in Germany in 1936 and 1972."</data>
+      <data key="d10">f04609006dfe7c4e4a8d641c99bfe83b</data>
+      <data key="d11">d203efdbfb2f4b2a899abfb31cf72e82</data>
+      <data key="d12">64</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;THOMAS BACH&quot;" target="&quot;INTERNATIONAL OLYMPIC COMMITTEE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Thomas Bach is the current President of the International Olympic Committee."</data>
+      <data key="d10">3ba9d687b2de130f7c43b1ec02344d3e</data>
+      <data key="d11">6731a665561840c2898ce8c9788e4c88</data>
+      <data key="d12">65</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LAUSANNE&quot;" target="&quot;INTERNATIONAL OLYMPIC COMMITTEE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The IOC Headquarters are located in Lausanne, Switzerland."</data>
+      <data key="d10">3ba9d687b2de130f7c43b1ec02344d3e</data>
+      <data key="d11">4026806fa92f4e849a59a7f5c9a45c79</data>
+      <data key="d12">66</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DEMETRIUS VIKELAS&quot;" target="&quot;INTERNATIONAL OLYMPIC COMMITTEE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Demetrius Vikelas was the first President of the International Olympic Committee."</data>
+      <data key="d10">3ba9d687b2de130f7c43b1ec02344d3e</data>
+      <data key="d11">68e0c60d2e8845d89d9d0ad397833648</data>
+      <data key="d12">67</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;IOC SESSION&quot;" target="&quot;INTERNATIONAL OLYMPIC COMMITTEE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The IOC Session is an event where important decisions are made, including the election of the President of the International Olympic Committee."</data>
+      <data key="d10">3ba9d687b2de130f7c43b1ec02344d3e</data>
+      <data key="d11">101572f552b54e529fe7765c05168981</data>
+      <data key="d12">68</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ALEXANDRA DADDARIO&quot;" target="&quot;AVERY MARTIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Alexandra Daddario plays the role of Avery Martin."</data>
+      <data key="d10">ef590ce0eec8b95c1d1bc3c0ce05bae2</data>
+      <data key="d11">60c58026b2764b40adffca6eaa31d6d9</data>
+      <data key="d12">69</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SHELLEY HENNIG&quot;" target="&quot;CARRIE GREY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Shelley Hennig plays the role of Carrie Grey."</data>
+      <data key="d10">ef590ce0eec8b95c1d1bc3c0ce05bae2</data>
+      <data key="d11">ad1595a78935472999444c9330e7730e</data>
+      <data key="d12">70</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ANDREW BACHELOR&quot;" target="&quot;MAX&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Andrew Bachelor plays the role of Max, Noah's friend."</data>
+      <data key="d10">ef590ce0eec8b95c1d1bc3c0ce05bae2</data>
+      <data key="d11">735d19aea0744b2295556841c5c4c3fd</data>
+      <data key="d12">71</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ROBBIE AMELL&quot;" target="&quot;ETHAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Robbie Amell plays the role of Ethan."</data>
+      <data key="d10">ef590ce0eec8b95c1d1bc3c0ce05bae2</data>
+      <data key="d11">c725babdb14a485582f8fbdf95429030</data>
+      <data key="d12">72</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ADAM DEVINE&quot;" target="&quot;NOAH ASHBY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Adam DeVine plays the role of Noah Ashby."</data>
+      <data key="d10">ef590ce0eec8b95c1d1bc3c0ce05bae2</data>
+      <data key="d11">a0047221896d418d849847d422fa4bb8</data>
+      <data key="d12">73</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AVERY SCHREIBER&quot;" target="&quot;THE RUSSIAN ROOM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Avery Schreiber stars in The Russian Room."</data>
+      <data key="d10">a7106d3c0c0e9e0b0a4189f4eed5a687</data>
+      <data key="d11">98fc2ee593184c5a839454db4eec7013</data>
+      <data key="d12">74</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JEFF CASPER&quot;" target="&quot;THE RUSSIAN ROOM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jeff Casper wrote and stars in The Russian Room."</data>
+      <data key="d10">a7106d3c0c0e9e0b0a4189f4eed5a687</data>
+      <data key="d11">80020a1da63042459e00266b2a605452</data>
+      <data key="d12">75</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NANCE MCQUIGG&quot;" target="&quot;THE RUSSIAN ROOM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Nance McQuigg directed and produced The Russian Room."</data>
+      <data key="d10">a7106d3c0c0e9e0b0a4189f4eed5a687</data>
+      <data key="d11">31a7e680c4d54101afe4c8d52d246913</data>
+      <data key="d12">76</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NEW YORK CITY&quot;" target="&quot;THE RUSSIAN ROOM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Russian Room was shot in New York City."</data>
+      <data key="d10">a7106d3c0c0e9e0b0a4189f4eed5a687</data>
+      <data key="d11">351abba16e5c448994c6daf48121b14d</data>
+      <data key="d12">77</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FRENCH AMERICAN BANKING CORP.&quot;" target="&quot;AVERY CLAFLIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Avery Claflin was the president of French American Banking Corp."</data>
+      <data key="d10">bc4d296509fe7e8602f83a16d11c17b9</data>
+      <data key="d11">50ea7d3b69614bcdbfbff7ddbfbf3d34</data>
+      <data key="d12">78</data>
+      <data key="d13">0</data>
+    </edge>
+  </graph>
+</graphml>

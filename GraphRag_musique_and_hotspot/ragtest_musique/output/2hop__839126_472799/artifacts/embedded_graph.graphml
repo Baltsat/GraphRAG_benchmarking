@@ -1,0 +1,952 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;JEROME CAVANAGH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jerome Cavanagh is the Mayor of Detroit who lamented about the failure to prevent the riots."</data>
+      <data key="d2">106d366bdf57b088cfb05b1bf8e3e4c8</data>
+    </node>
+    <node id="&quot;RIOTS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Riots in Detroit resulted in 43 deaths, over 7,200 arrests, and significant damage to property."</data>
+      <data key="d2">106d366bdf57b088cfb05b1bf8e3e4c8</data>
+    </node>
+    <node id="&quot;DETROIT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">106d366bdf57b088cfb05b1bf8e3e4c8</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">106d366bdf57b088cfb05b1bf8e3e4c8,1fd97a9297d1369d7627cfa1297f1462,202310fbc986fd743fceb0bf99a31261,2bbe7c9fe1e54084e4d483c3b4352e37,3266f9a0255c73a635a90c9fa7926a8a,34d2bf5fc03ba55d8db7bf4e9d2f2fe7,485b5f8ef88933aeb6143c639b1aa0d9,4867d385aa5531438412d68d4bf03ddb,6e9de78f1c1d1c8ec7a8920c678df2b5,703bfd62070d51a15f73ae1b6f89e9cf,88a0db2a0103a47a1a9212af080638ad,8ce8617f8350ec2c28fbbd993da91247,901e7d1a0762e73434ce17f6939c3ca2,a5996a7f0951241f264d7fa9f2d66fe4,a7912e7cca12cbc171097bf8521ed259,d08966f980aca3c4d2ef4192fa8c8391,d25ee5a54b9d82a209815803e5cb7a86,e8fc5a3911cdf90d4862971f2434b914,e9b035ee17bead444a224b760b5bde84,f335af4d6f8721ac6e483f3fe95fff23</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">106d366bdf57b088cfb05b1bf8e3e4c8,1fd97a9297d1369d7627cfa1297f1462,202310fbc986fd743fceb0bf99a31261,2bbe7c9fe1e54084e4d483c3b4352e37,3266f9a0255c73a635a90c9fa7926a8a,34d2bf5fc03ba55d8db7bf4e9d2f2fe7,485b5f8ef88933aeb6143c639b1aa0d9,4867d385aa5531438412d68d4bf03ddb,6e9de78f1c1d1c8ec7a8920c678df2b5,703bfd62070d51a15f73ae1b6f89e9cf,88a0db2a0103a47a1a9212af080638ad,8ce8617f8350ec2c28fbbd993da91247,901e7d1a0762e73434ce17f6939c3ca2,a5996a7f0951241f264d7fa9f2d66fe4,a7912e7cca12cbc171097bf8521ed259,d08966f980aca3c4d2ef4192fa8c8391,d25ee5a54b9d82a209815803e5cb7a86,e8fc5a3911cdf90d4862971f2434b914,e9b035ee17bead444a224b760b5bde84,f335af4d6f8721ac6e483f3fe95fff23</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">106d366bdf57b088cfb05b1bf8e3e4c8,1fd97a9297d1369d7627cfa1297f1462,202310fbc986fd743fceb0bf99a31261,2bbe7c9fe1e54084e4d483c3b4352e37,3266f9a0255c73a635a90c9fa7926a8a,34d2bf5fc03ba55d8db7bf4e9d2f2fe7,485b5f8ef88933aeb6143c639b1aa0d9,4867d385aa5531438412d68d4bf03ddb,6e9de78f1c1d1c8ec7a8920c678df2b5,703bfd62070d51a15f73ae1b6f89e9cf,88a0db2a0103a47a1a9212af080638ad,8ce8617f8350ec2c28fbbd993da91247,901e7d1a0762e73434ce17f6939c3ca2,a5996a7f0951241f264d7fa9f2d66fe4,a7912e7cca12cbc171097bf8521ed259,d08966f980aca3c4d2ef4192fa8c8391,d25ee5a54b9d82a209815803e5cb7a86,e8fc5a3911cdf90d4862971f2434b914,e9b035ee17bead444a224b760b5bde84,f335af4d6f8721ac6e483f3fe95fff23</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">106d366bdf57b088cfb05b1bf8e3e4c8,1fd97a9297d1369d7627cfa1297f1462,202310fbc986fd743fceb0bf99a31261,2bbe7c9fe1e54084e4d483c3b4352e37,3266f9a0255c73a635a90c9fa7926a8a,34d2bf5fc03ba55d8db7bf4e9d2f2fe7,485b5f8ef88933aeb6143c639b1aa0d9,4867d385aa5531438412d68d4bf03ddb,6e9de78f1c1d1c8ec7a8920c678df2b5,703bfd62070d51a15f73ae1b6f89e9cf,88a0db2a0103a47a1a9212af080638ad,8ce8617f8350ec2c28fbbd993da91247,901e7d1a0762e73434ce17f6939c3ca2,a5996a7f0951241f264d7fa9f2d66fe4,a7912e7cca12cbc171097bf8521ed259,d08966f980aca3c4d2ef4192fa8c8391,d25ee5a54b9d82a209815803e5cb7a86,e8fc5a3911cdf90d4862971f2434b914,e9b035ee17bead444a224b760b5bde84,f335af4d6f8721ac6e483f3fe95fff23</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country where Tucson, Pima County, and Arizona are located. Additionally, it is the country where the song was released and charted on the US Country charts. Furthermore, Six Flags Over Georgia is also located in the United States.
+
+Note: I removed the duplicate descriptions to provide a concise summary that includes all the relevant information.</data>
+      <data key="d2">106d366bdf57b088cfb05b1bf8e3e4c8,1fd97a9297d1369d7627cfa1297f1462,202310fbc986fd743fceb0bf99a31261,2bbe7c9fe1e54084e4d483c3b4352e37,3266f9a0255c73a635a90c9fa7926a8a,34d2bf5fc03ba55d8db7bf4e9d2f2fe7,485b5f8ef88933aeb6143c639b1aa0d9,4867d385aa5531438412d68d4bf03ddb,6e9de78f1c1d1c8ec7a8920c678df2b5,703bfd62070d51a15f73ae1b6f89e9cf,88a0db2a0103a47a1a9212af080638ad,8ce8617f8350ec2c28fbbd993da91247,901e7d1a0762e73434ce17f6939c3ca2,a5996a7f0951241f264d7fa9f2d66fe4,a7912e7cca12cbc171097bf8521ed259,d08966f980aca3c4d2ef4192fa8c8391,d25ee5a54b9d82a209815803e5cb7a86,e8fc5a3911cdf90d4862971f2434b914,e9b035ee17bead444a224b760b5bde84,f335af4d6f8721ac6e483f3fe95fff23</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">106d366bdf57b088cfb05b1bf8e3e4c8,1fd97a9297d1369d7627cfa1297f1462,202310fbc986fd743fceb0bf99a31261,2bbe7c9fe1e54084e4d483c3b4352e37,3266f9a0255c73a635a90c9fa7926a8a,34d2bf5fc03ba55d8db7bf4e9d2f2fe7,485b5f8ef88933aeb6143c639b1aa0d9,4867d385aa5531438412d68d4bf03ddb,6e9de78f1c1d1c8ec7a8920c678df2b5,703bfd62070d51a15f73ae1b6f89e9cf,88a0db2a0103a47a1a9212af080638ad,8ce8617f8350ec2c28fbbd993da91247,901e7d1a0762e73434ce17f6939c3ca2,a5996a7f0951241f264d7fa9f2d66fe4,a7912e7cca12cbc171097bf8521ed259,d08966f980aca3c4d2ef4192fa8c8391,d25ee5a54b9d82a209815803e5cb7a86,e8fc5a3911cdf90d4862971f2434b914,e9b035ee17bead444a224b760b5bde84,f335af4d6f8721ac6e483f3fe95fff23</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">106d366bdf57b088cfb05b1bf8e3e4c8,1fd97a9297d1369d7627cfa1297f1462,202310fbc986fd743fceb0bf99a31261,2bbe7c9fe1e54084e4d483c3b4352e37,3266f9a0255c73a635a90c9fa7926a8a,34d2bf5fc03ba55d8db7bf4e9d2f2fe7,485b5f8ef88933aeb6143c639b1aa0d9,4867d385aa5531438412d68d4bf03ddb,6e9de78f1c1d1c8ec7a8920c678df2b5,703bfd62070d51a15f73ae1b6f89e9cf,88a0db2a0103a47a1a9212af080638ad,8ce8617f8350ec2c28fbbd993da91247,901e7d1a0762e73434ce17f6939c3ca2,a5996a7f0951241f264d7fa9f2d66fe4,a7912e7cca12cbc171097bf8521ed259,d08966f980aca3c4d2ef4192fa8c8391,d25ee5a54b9d82a209815803e5cb7a86,e8fc5a3911cdf90d4862971f2434b914,e9b035ee17bead444a224b760b5bde84,f335af4d6f8721ac6e483f3fe95fff23</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">106d366bdf57b088cfb05b1bf8e3e4c8,1fd97a9297d1369d7627cfa1297f1462,202310fbc986fd743fceb0bf99a31261,2bbe7c9fe1e54084e4d483c3b4352e37,3266f9a0255c73a635a90c9fa7926a8a,34d2bf5fc03ba55d8db7bf4e9d2f2fe7,485b5f8ef88933aeb6143c639b1aa0d9,4867d385aa5531438412d68d4bf03ddb,6e9de78f1c1d1c8ec7a8920c678df2b5,703bfd62070d51a15f73ae1b6f89e9cf,88a0db2a0103a47a1a9212af080638ad,8ce8617f8350ec2c28fbbd993da91247,901e7d1a0762e73434ce17f6939c3ca2,a5996a7f0951241f264d7fa9f2d66fe4,a7912e7cca12cbc171097bf8521ed259,d08966f980aca3c4d2ef4192fa8c8391,d25ee5a54b9d82a209815803e5cb7a86,e8fc5a3911cdf90d4862971f2434b914,e9b035ee17bead444a224b760b5bde84,f335af4d6f8721ac6e483f3fe95fff23</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">106d366bdf57b088cfb05b1bf8e3e4c8,1fd97a9297d1369d7627cfa1297f1462,202310fbc986fd743fceb0bf99a31261,2bbe7c9fe1e54084e4d483c3b4352e37,3266f9a0255c73a635a90c9fa7926a8a,34d2bf5fc03ba55d8db7bf4e9d2f2fe7,485b5f8ef88933aeb6143c639b1aa0d9,4867d385aa5531438412d68d4bf03ddb,6e9de78f1c1d1c8ec7a8920c678df2b5,703bfd62070d51a15f73ae1b6f89e9cf,88a0db2a0103a47a1a9212af080638ad,8ce8617f8350ec2c28fbbd993da91247,901e7d1a0762e73434ce17f6939c3ca2,a5996a7f0951241f264d7fa9f2d66fe4,a7912e7cca12cbc171097bf8521ed259,d08966f980aca3c4d2ef4192fa8c8391,d25ee5a54b9d82a209815803e5cb7a86,e8fc5a3911cdf90d4862971f2434b914,e9b035ee17bead444a224b760b5bde84,f335af4d6f8721ac6e483f3fe95fff23</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">106d366bdf57b088cfb05b1bf8e3e4c8,1fd97a9297d1369d7627cfa1297f1462,202310fbc986fd743fceb0bf99a31261,2bbe7c9fe1e54084e4d483c3b4352e37,3266f9a0255c73a635a90c9fa7926a8a,34d2bf5fc03ba55d8db7bf4e9d2f2fe7,485b5f8ef88933aeb6143c639b1aa0d9,4867d385aa5531438412d68d4bf03ddb,6e9de78f1c1d1c8ec7a8920c678df2b5,703bfd62070d51a15f73ae1b6f89e9cf,88a0db2a0103a47a1a9212af080638ad,8ce8617f8350ec2c28fbbd993da91247,901e7d1a0762e73434ce17f6939c3ca2,a5996a7f0951241f264d7fa9f2d66fe4,a7912e7cca12cbc171097bf8521ed259,d08966f980aca3c4d2ef4192fa8c8391,d25ee5a54b9d82a209815803e5cb7a86,e8fc5a3911cdf90d4862971f2434b914,e9b035ee17bead444a224b760b5bde84,f335af4d6f8721ac6e483f3fe95fff23</data>
+    </node>
+    <node id="&quot;SAILING AT THE 1964 SUMMER OLYMPICS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Sailing at the 1964 Summer Olympics was an Olympic program that included The Finn event."</data>
+      <data key="d2">d25ee5a54b9d82a209815803e5cb7a86</data>
+    </node>
+    <node id="&quot;ENOSHIMA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Enoshima is a location where the sailing event took place."</data>
+      <data key="d2">d25ee5a54b9d82a209815803e5cb7a86</data>
+    </node>
+    <node id="&quot;THE FINN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d25ee5a54b9d82a209815803e5cb7a86</data>
+    </node>
+    <node id="&quot;MELODIFESTIVALEN 2006&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Melodifestivalen 2006 is an event where Lena Philipsson performed and hosted, causing controversies."</data>
+      <data key="d2">4867d385aa5531438412d68d4bf03ddb</data>
+    </node>
+    <node id="&quot;LENA PHILIPSSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4867d385aa5531438412d68d4bf03ddb</data>
+    </node>
+    <node id="&quot;CHARLIE DANIELS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Charlie Daniels is the writer and performer of the song 'This Ain't No Rag, It's a Flag', and the leader of the Charlie Daniels Band."</data>
+      <data key="d2">88a0db2a0103a47a1a9212af080638ad</data>
+    </node>
+    <node id="&quot;SEPTEMBER 11 ATTACKS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The September 11 attacks are the event that inspired Charlie Daniels to write the song 'This Ain't No Rag, It's a Flag'."</data>
+      <data key="d2">88a0db2a0103a47a1a9212af080638ad</data>
+    </node>
+    <node id="&quot;CHARLIE DANIELS BAND&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">88a0db2a0103a47a1a9212af080638ad</data>
+    </node>
+    <node id="&quot;COMMANDER OF THE ROYAL CANADIAN NAVY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Commander of the Royal Canadian Navy is the head of the RCN, responsible for leading the naval force."</data>
+      <data key="d2">202310fbc986fd743fceb0bf99a31261</data>
+    </node>
+    <node id="&quot;MARITIME FORCES PACIFIC (MARPAC)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Maritime Forces Pacific (MARPAC) is a fleet of the RCN based at CFB Esquimalt on the west coast."</data>
+      <data key="d2">202310fbc986fd743fceb0bf99a31261</data>
+    </node>
+    <node id="&quot;MARITIME FORCES ATLANTIC (MARLANT)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Maritime Forces Atlantic (MARLANT) is a fleet of the RCN based at Her Majesty's Canadian Dockyard in Halifax on the east coast."</data>
+      <data key="d2">202310fbc986fd743fceb0bf99a31261</data>
+    </node>
+    <node id="&quot;NAVAL RESERVE HEADQUARTERS (NAVRESHQ)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Naval Reserve Headquarters (NAVRESHQ) is a formation of the RCN based at Quebec City, Quebec."</data>
+      <data key="d2">202310fbc986fd743fceb0bf99a31261</data>
+    </node>
+    <node id="&quot;CFB ESQUIMALT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"CFB Esquimalt is a location on the west coast where Maritime Forces Pacific (MARPAC) is based."</data>
+      <data key="d2">202310fbc986fd743fceb0bf99a31261</data>
+    </node>
+    <node id="&quot;HALIFAX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Halifax is a location on the east coast where Maritime Forces Atlantic (MARLANT) is based."</data>
+      <data key="d2">202310fbc986fd743fceb0bf99a31261</data>
+    </node>
+    <node id="&quot;QUEBEC CITY, QUEBEC&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Quebec City, Quebec is a location where the Naval Reserve Headquarters (NAVRESHQ) is based."</data>
+      <data key="d2">202310fbc986fd743fceb0bf99a31261</data>
+    </node>
+    <node id="&quot;ROYAL CANADIAN NAVY (RCN)&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">202310fbc986fd743fceb0bf99a31261</data>
+    </node>
+    <node id="&quot;DALE KAETZEL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dale Kaetzel is the General Manager of Six Flags Over Georgia."</data>
+      <data key="d2">d08966f980aca3c4d2ef4192fa8c8391</data>
+    </node>
+    <node id="&quot;AUSTELL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Austell is a location in Georgia, United States, where Six Flags Over Georgia is situated."</data>
+      <data key="d2">d08966f980aca3c4d2ef4192fa8c8391</data>
+    </node>
+    <node id="&quot;GEORGIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Georgia is a state in the United States where Six Flags Over Georgia is located."</data>
+      <data key="d2">d08966f980aca3c4d2ef4192fa8c8391</data>
+    </node>
+    <node id="&quot;SIX FLAGS OVER GEORGIA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d08966f980aca3c4d2ef4192fa8c8391</data>
+    </node>
+    <node id="&quot;BRONX QUEEN TRILOGY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Bronx Queen Trilogy is a work written by Joe Gulla, based on his experience growing up as a gay boy in the Bronx."</data>
+      <data key="d2">1fd97a9297d1369d7627cfa1297f1462</data>
+    </node>
+    <node id="&quot;THE BRONX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Bronx is a geographic location where Joe Gulla grew up and drew inspiration for his work 'Bronx Queen Trilogy'."</data>
+      <data key="d2">1fd97a9297d1369d7627cfa1297f1462</data>
+    </node>
+    <node id="&quot;JOE GULLA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1fd97a9297d1369d7627cfa1297f1462</data>
+    </node>
+    <node id="&quot;WORLD GYMNAESTRADA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"World Gymnaestrada is a quadrennial exhibition of general gymnastics, first held in 1939."</data>
+      <data key="d2">e9b035ee17bead444a224b760b5bde84</data>
+    </node>
+    <node id="&quot;GYMNASTICS FOR ALL&quot;">
+      <data key="d0">"PROGRAM"</data>
+      <data key="d1">"Gymnastics for All is a Sport Program officially recognized by the FIG and national gymnastic federations worldwide."</data>
+      <data key="d2">e9b035ee17bead444a224b760b5bde84</data>
+    </node>
+    <node id="&quot;FIG (INTERNATIONAL GYMNASTIC FEDERATION)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The FIG is an organization that recognizes and governs gymnastics programs, including Gymnastics for All."</data>
+      <data key="d2">e9b035ee17bead444a224b760b5bde84</data>
+    </node>
+    <node id="&quot;GENERAL GYMNASTICS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e9b035ee17bead444a224b760b5bde84</data>
+    </node>
+    <node id="&quot;PETER HALLSTR&#214;M&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Peter Hallstr&#246;m is one of the writers of the song 'I Remember Love'."</data>
+      <data key="d2">901e7d1a0762e73434ce17f6939c3ca2</data>
+    </node>
+    <node id="&quot;SARAH DAWN FINER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sarah Dawn Finer is a performer and writer of the song 'I Remember Love'."</data>
+      <data key="d2">901e7d1a0762e73434ce17f6939c3ca2</data>
+    </node>
+    <node id="&quot;MELODIFESTIVALEN 2007&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Melodifestivalen 2007 is a music competition where 'I Remember Love' participated."</data>
+      <data key="d2">901e7d1a0762e73434ce17f6939c3ca2</data>
+    </node>
+    <node id="&quot;G&#196;VLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"G&#228;vle is a location where the semifinal of Melodifestivalen 2007 took place."</data>
+      <data key="d2">901e7d1a0762e73434ce17f6939c3ca2</data>
+    </node>
+    <node id="&quot;STOCKHOLM GLOBE ARENA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Stockholm Globe Arena is a venue where the finals of Melodifestivalen 2007 took place."</data>
+      <data key="d2">901e7d1a0762e73434ce17f6939c3ca2</data>
+    </node>
+    <node id="&quot;I REMEMBER LOVE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">901e7d1a0762e73434ce17f6939c3ca2</data>
+    </node>
+    <node id="&quot;SERGIO DALMA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Sergio Dalma is a singer who represented Spain at the Eurovision Song Contest 1991.</data>
+      <data key="d2">2bbe7c9fe1e54084e4d483c3b4352e37,6e9de78f1c1d1c8ec7a8920c678df2b5</data>
+    </node>
+    <node id="&quot;ROME, ITALY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Rome, Italy was the host city of the Eurovision Song Contest 1991."</data>
+      <data key="d2">6e9de78f1c1d1c8ec7a8920c678df2b5</data>
+    </node>
+    <node id="&quot;RADIOTELEVISI&#211;N ESPA&#209;OLA (RTVE)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Radiotelevisi&#243;n Espa&#241;ola (RTVE) is the Spanish broadcaster that selected Sergio Dalma to represent Spain at the Eurovision Song Contest 1991."</data>
+      <data key="d2">6e9de78f1c1d1c8ec7a8920c678df2b5</data>
+    </node>
+    <node id="&quot;EUROVISION SONG CONTEST 1991&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Eurovision Song Contest 1991 was a music competition held in Rome, Italy, where Spain participated with the song 'Bailar pegados'."</data>
+      <data key="d2">6e9de78f1c1d1c8ec7a8920c678df2b5</data>
+    </node>
+    <node id="&quot;SPAIN&quot;">
+      <data key="d0" />
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Spain is a country and the nationality of Sergio Dalma.</data>
+      <data key="d2">2bbe7c9fe1e54084e4d483c3b4352e37,6e9de78f1c1d1c8ec7a8920c678df2b5</data>
+    </node>
+    <node id="&quot;MAGGIE MACNEAL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Maggie MacNeal is a Dutch singer who participated in the Eurovision Song Contest twice, in 1974 and 1980."</data>
+      <data key="d2">e8fc5a3911cdf90d4862971f2434b914</data>
+    </node>
+    <node id="&quot;EUROVISION SONG CONTEST 1980&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Eurovision Song Contest 1980 was an international song competition where Maggie MacNeal represented the Netherlands with the song 'Amsterdam'."</data>
+      <data key="d2">e8fc5a3911cdf90d4862971f2434b914</data>
+    </node>
+    <node id="&quot;MOUTH &amp; MACNEAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Mouth &amp; MacNeal is a Dutch duo that participated in the Eurovision Song Contest 1974, consisting of Maggie MacNeal and another member."</data>
+      <data key="d2">e8fc5a3911cdf90d4862971f2434b914</data>
+    </node>
+    <node id="&quot;AMSTERDAM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e8fc5a3911cdf90d4862971f2434b914</data>
+    </node>
+    <node id="&quot;BORDEAUX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bordeaux is the birthplace of Marie Fel."</data>
+      <data key="d2">703bfd62070d51a15f73ae1b6f89e9cf</data>
+    </node>
+    <node id="&quot;PARIS OPERA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Paris Opera is an organization where Marie Fel made her debut and sang regularly."</data>
+      <data key="d2">703bfd62070d51a15f73ae1b6f89e9cf</data>
+    </node>
+    <node id="&quot;CONCERT SPIRITUEL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Concert Spirituel is an organization where Marie Fel sang regularly."</data>
+      <data key="d2">703bfd62070d51a15f73ae1b6f89e9cf</data>
+    </node>
+    <node id="&quot;RAMEAU&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Rameau is a composer whose operas were performed by Marie Fel."</data>
+      <data key="d2">703bfd62070d51a15f73ae1b6f89e9cf</data>
+    </node>
+    <node id="&quot;PIERRE J&#201;LYOTTE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Pierre J&#233;lyotte is a singer who performed with Marie Fel in Rameau's operas."</data>
+      <data key="d2">703bfd62070d51a15f73ae1b6f89e9cf</data>
+    </node>
+    <node id="&quot;MONDONVILLE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mondonville is a composer whose operas featured roles created by Marie Fel."</data>
+      <data key="d2">703bfd62070d51a15f73ae1b6f89e9cf</data>
+    </node>
+    <node id="&quot;LULLY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lully is a composer whose operas were revived with performances by Marie Fel."</data>
+      <data key="d2">703bfd62070d51a15f73ae1b6f89e9cf</data>
+    </node>
+    <node id="&quot;CAMPRA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Campra is a composer whose operas were revived with performances by Marie Fel."</data>
+      <data key="d2">703bfd62070d51a15f73ae1b6f89e9cf</data>
+    </node>
+    <node id="&quot;PARIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Paris is the city where Marie Fel died."</data>
+      <data key="d2">703bfd62070d51a15f73ae1b6f89e9cf</data>
+    </node>
+    <node id="&quot;MARIE FEL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">703bfd62070d51a15f73ae1b6f89e9cf</data>
+    </node>
+    <node id="&quot;VIA DALMA II&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Via Dalma II is an album released by Sergio Dalma in 2011, which was a commercial success."</data>
+      <data key="d2">2bbe7c9fe1e54084e4d483c3b4352e37</data>
+    </node>
+    <node id="&quot;CADORE 33&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Cadore 33 is an album released by Sergio Dalma, marking his return to performing original material."</data>
+      <data key="d2">2bbe7c9fe1e54084e4d483c3b4352e37</data>
+    </node>
+    <node id="&quot;SERBIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Serbia is a country represented by Bojana Stamenov in the Eurovision Song Contest 2015."</data>
+      <data key="d2">a7912e7cca12cbc171097bf8521ed259</data>
+    </node>
+    <node id="&quot;EUROVISION SONG CONTEST 2015&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Eurovision Song Contest 2015 was an event where Bojana Stamenov represented Serbia and placed 9th with the song 'Beauty Never Lies'."</data>
+      <data key="d2">a7912e7cca12cbc171097bf8521ed259</data>
+    </node>
+    <node id="&quot;BO&#352;KO BUHA THEATRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Bo&#353;ko Buha Theatre is a venue in Belgrade where Bojana Stamenov participates in performances for children."</data>
+      <data key="d2">a7912e7cca12cbc171097bf8521ed259</data>
+    </node>
+    <node id="&quot;SAVA CENTAR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Sava Centar is a venue in Belgrade where Bojana Stamenov had her first concert on 13 June."</data>
+      <data key="d2">a7912e7cca12cbc171097bf8521ed259</data>
+    </node>
+    <node id="&quot;BOJANA STAMENOV&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a7912e7cca12cbc171097bf8521ed259</data>
+    </node>
+    <node id="&quot;ARTHUR HAMILTON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Arthur Hamilton is the writer of the song 'Cry Me a River' in the soundtrack."</data>
+      <data key="d2">3266f9a0255c73a635a90c9fa7926a8a</data>
+    </node>
+    <node id="&quot;CAT POWER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Cat Power is a performer of the song 'I Found a Reason' in the soundtrack."</data>
+      <data key="d2">3266f9a0255c73a635a90c9fa7926a8a</data>
+    </node>
+    <node id="&quot;LOU REED&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lou Reed is the writer of the song 'I Found a Reason' in the soundtrack."</data>
+      <data key="d2">3266f9a0255c73a635a90c9fa7926a8a</data>
+    </node>
+    <node id="&quot;ANTONY HEGARTY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Antony Hegarty is the writer and performer of the song 'Bird Gerhl' in the soundtrack."</data>
+      <data key="d2">3266f9a0255c73a635a90c9fa7926a8a</data>
+    </node>
+    <node id="&quot;DARIO MARIANELLI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dario Marianelli is a composer of the song 'Knives and Bullets (And Cannons Too)' in the soundtrack."</data>
+      <data key="d2">3266f9a0255c73a635a90c9fa7926a8a</data>
+    </node>
+    <node id="&quot;PYOTR ILYICH TCHAIKOVSKY.&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Pyotr Ilyich Tchaikovsky is a composer whose work is featured in the song 'Knives and Bullets (And Cannons Too)' in the soundtrack."</data>
+      <data key="d2">3266f9a0255c73a635a90c9fa7926a8a</data>
+    </node>
+    <node id="&quot;ENGLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"England is referenced in the title of the song 'England Prevails' in the soundtrack."</data>
+      <data key="d2">3266f9a0255c73a635a90c9fa7926a8a</data>
+    </node>
+    <node id="&quot;JULIE LONDON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3266f9a0255c73a635a90c9fa7926a8a</data>
+    </node>
+    <node id="&quot;CRY ME A RIVER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3266f9a0255c73a635a90c9fa7926a8a</data>
+    </node>
+    <node id="&quot;I FOUND A REASON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3266f9a0255c73a635a90c9fa7926a8a</data>
+    </node>
+    <node id="&quot;BIRD GERHL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3266f9a0255c73a635a90c9fa7926a8a</data>
+    </node>
+    <node id="&quot;KNIVES AND BULLETS (AND CANNONS TOO)&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3266f9a0255c73a635a90c9fa7926a8a</data>
+    </node>
+    <node id="&quot;ENGLAND PREVAILS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3266f9a0255c73a635a90c9fa7926a8a</data>
+    </node>
+    <node id="&quot;RYAN O'SHAUGHNESSY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ryan O'Shaughnessy is an Irish singer who performed the song 'Together' at the Eurovision Song Contest 2018."</data>
+      <data key="d2">34d2bf5fc03ba55d8db7bf4e9d2f2fe7</data>
+    </node>
+    <node id="&quot;MARK CAPLICE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mark Caplice is a songwriter who co-wrote the song 'Together' with Ryan O'Shaughnessy and Laura Elizabeth Hughes."</data>
+      <data key="d2">34d2bf5fc03ba55d8db7bf4e9d2f2fe7</data>
+    </node>
+    <node id="&quot;LAURA ELIZABETH HUGHES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Laura Elizabeth Hughes is a songwriter who co-wrote the song 'Together' with Ryan O'Shaughnessy and Mark Caplice."</data>
+      <data key="d2">34d2bf5fc03ba55d8db7bf4e9d2f2fe7</data>
+    </node>
+    <node id="&quot;RAIDI&#211; TEILIF&#205;S &#201;IREANN (RT&#201;)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Raidi&#243; Teilif&#237;s &#201;ireann (RT&#201;) is the Irish broadcaster that internally selected the song and singer to represent Ireland at the Eurovision Song Contest 2018."</data>
+      <data key="d2">34d2bf5fc03ba55d8db7bf4e9d2f2fe7</data>
+    </node>
+    <node id="&quot;LISBON, PORTUGAL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lisbon, Portugal is the location where the Eurovision Song Contest 2018 took place."</data>
+      <data key="d2">34d2bf5fc03ba55d8db7bf4e9d2f2fe7</data>
+    </node>
+    <node id="&quot;EUROVISION SONG CONTEST 2018&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Eurovision Song Contest 2018 was an international song competition that took place in Lisbon, Portugal, and featured Ireland's participation with the song 'Together'."</data>
+      <data key="d2">34d2bf5fc03ba55d8db7bf4e9d2f2fe7</data>
+    </node>
+    <node id="&quot;IRELAND&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">34d2bf5fc03ba55d8db7bf4e9d2f2fe7</data>
+    </node>
+    <node id="&quot;AMY BERLIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Amy Berlin is Feeney's daughter, who performed with her mother at the March for Women's Lives in Washington, DC."</data>
+      <data key="d2">8ce8617f8350ec2c28fbbd993da91247</data>
+    </node>
+    <node id="&quot;WASHINGTON, DC&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Washington, DC is a location where Feeney and her daughter Amy Berlin performed at the March for Women's Lives."</data>
+      <data key="d2">8ce8617f8350ec2c28fbbd993da91247</data>
+    </node>
+    <node id="&quot;MARCH FOR WOMEN'S LIVES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The March for Women's Lives is an event where Feeney and her daughter Amy Berlin performed in 2004."</data>
+      <data key="d2">8ce8617f8350ec2c28fbbd993da91247</data>
+    </node>
+    <node id="&quot;FEENEY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8ce8617f8350ec2c28fbbd993da91247</data>
+    </node>
+    <node id="&quot;ANDORRA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Andorra is a country that participated in the National Olympic Committees."</data>
+      <data key="d2">f335af4d6f8721ac6e483f3fe95fff23</data>
+    </node>
+    <node id="&quot;ARGENTINA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Argentina is a country that participated in the National Olympic Committees."</data>
+      <data key="d2">f335af4d6f8721ac6e483f3fe95fff23</data>
+    </node>
+    <node id="&quot;NATIONAL OLYMPIC COMMITTEES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f335af4d6f8721ac6e483f3fe95fff23</data>
+    </node>
+    <node id="&quot;MARCEL MARCEAU&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Marcel Marceau was a French actor with whom Gilles S&#233;gal performed on stage."</data>
+      <data key="d2">485b5f8ef88933aeb6143c639b1aa0d9</data>
+    </node>
+    <node id="&quot;F&#258;LTICENI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"F&#259;lticeni is a location in Romania where Gilles S&#233;gal was born."</data>
+      <data key="d2">485b5f8ef88933aeb6143c639b1aa0d9</data>
+    </node>
+    <node id="&quot;JULES DASSIN'S 'TOPKAPI'&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"'Topkapi' is a film in which Gilles S&#233;gal played one of the heist participants."</data>
+      <data key="d2">485b5f8ef88933aeb6143c639b1aa0d9</data>
+    </node>
+    <node id="&quot;GILLES S&#201;GAL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">485b5f8ef88933aeb6143c639b1aa0d9</data>
+    </node>
+    <node id="&quot;1998 EUROPEAN CHAMPIONSHIPS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 1998 European Championships were held in Budapest, Hungary, and featured the Men's 20 km walk event."</data>
+      <data key="d2">a5996a7f0951241f264d7fa9f2d66fe4</data>
+    </node>
+    <node id="&quot;BUDAPEST&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Budapest is a city in Hungary where the 1998 European Championships took place."</data>
+      <data key="d2">a5996a7f0951241f264d7fa9f2d66fe4</data>
+    </node>
+    <node id="&quot;HUNGARY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hungary is a country where the 1998 European Championships were held, specifically in Budapest."</data>
+      <data key="d2">a5996a7f0951241f264d7fa9f2d66fe4</data>
+    </node>
+    <node id="&quot;MEN'S 20 KM WALK EVENT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a5996a7f0951241f264d7fa9f2d66fe4</data>
+    </node>
+    <edge source="&quot;JEROME CAVANAGH&quot;" target="&quot;DETROIT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jerome Cavanagh is the Mayor of Detroit, responsible for governing the city during the riots."</data>
+      <data key="d5">106d366bdf57b088cfb05b1bf8e3e4c8</data>
+    </edge>
+    <edge source="&quot;JEROME CAVANAGH&quot;" target="&quot;RIOTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jerome Cavanagh lamented about the failure to prevent the riots as the Mayor of Detroit."</data>
+      <data key="d5">106d366bdf57b088cfb05b1bf8e3e4c8</data>
+    </edge>
+    <edge source="&quot;RIOTS&quot;" target="&quot;DETROIT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Riots took place in Detroit, causing significant damage and loss of life."</data>
+      <data key="d5">106d366bdf57b088cfb05b1bf8e3e4c8</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">106d366bdf57b088cfb05b1bf8e3e4c8,1fd97a9297d1369d7627cfa1297f1462,202310fbc986fd743fceb0bf99a31261,2bbe7c9fe1e54084e4d483c3b4352e37,3266f9a0255c73a635a90c9fa7926a8a,34d2bf5fc03ba55d8db7bf4e9d2f2fe7,485b5f8ef88933aeb6143c639b1aa0d9,4867d385aa5531438412d68d4bf03ddb,6e9de78f1c1d1c8ec7a8920c678df2b5,703bfd62070d51a15f73ae1b6f89e9cf,88a0db2a0103a47a1a9212af080638ad,8ce8617f8350ec2c28fbbd993da91247,901e7d1a0762e73434ce17f6939c3ca2,a5996a7f0951241f264d7fa9f2d66fe4,a7912e7cca12cbc171097bf8521ed259,d08966f980aca3c4d2ef4192fa8c8391,d25ee5a54b9d82a209815803e5cb7a86,e8fc5a3911cdf90d4862971f2434b914,e9b035ee17bead444a224b760b5bde84,f335af4d6f8721ac6e483f3fe95fff23</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">106d366bdf57b088cfb05b1bf8e3e4c8,1fd97a9297d1369d7627cfa1297f1462,202310fbc986fd743fceb0bf99a31261,2bbe7c9fe1e54084e4d483c3b4352e37,3266f9a0255c73a635a90c9fa7926a8a,34d2bf5fc03ba55d8db7bf4e9d2f2fe7,485b5f8ef88933aeb6143c639b1aa0d9,4867d385aa5531438412d68d4bf03ddb,6e9de78f1c1d1c8ec7a8920c678df2b5,703bfd62070d51a15f73ae1b6f89e9cf,88a0db2a0103a47a1a9212af080638ad,8ce8617f8350ec2c28fbbd993da91247,901e7d1a0762e73434ce17f6939c3ca2,a5996a7f0951241f264d7fa9f2d66fe4,a7912e7cca12cbc171097bf8521ed259,d08966f980aca3c4d2ef4192fa8c8391,d25ee5a54b9d82a209815803e5cb7a86,e8fc5a3911cdf90d4862971f2434b914,e9b035ee17bead444a224b760b5bde84,f335af4d6f8721ac6e483f3fe95fff23</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">106d366bdf57b088cfb05b1bf8e3e4c8,1fd97a9297d1369d7627cfa1297f1462,202310fbc986fd743fceb0bf99a31261,2bbe7c9fe1e54084e4d483c3b4352e37,3266f9a0255c73a635a90c9fa7926a8a,34d2bf5fc03ba55d8db7bf4e9d2f2fe7,485b5f8ef88933aeb6143c639b1aa0d9,4867d385aa5531438412d68d4bf03ddb,6e9de78f1c1d1c8ec7a8920c678df2b5,703bfd62070d51a15f73ae1b6f89e9cf,88a0db2a0103a47a1a9212af080638ad,8ce8617f8350ec2c28fbbd993da91247,901e7d1a0762e73434ce17f6939c3ca2,a5996a7f0951241f264d7fa9f2d66fe4,a7912e7cca12cbc171097bf8521ed259,d08966f980aca3c4d2ef4192fa8c8391,d25ee5a54b9d82a209815803e5cb7a86,e8fc5a3911cdf90d4862971f2434b914,e9b035ee17bead444a224b760b5bde84,f335af4d6f8721ac6e483f3fe95fff23</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">106d366bdf57b088cfb05b1bf8e3e4c8,1fd97a9297d1369d7627cfa1297f1462,202310fbc986fd743fceb0bf99a31261,2bbe7c9fe1e54084e4d483c3b4352e37,3266f9a0255c73a635a90c9fa7926a8a,34d2bf5fc03ba55d8db7bf4e9d2f2fe7,485b5f8ef88933aeb6143c639b1aa0d9,4867d385aa5531438412d68d4bf03ddb,6e9de78f1c1d1c8ec7a8920c678df2b5,703bfd62070d51a15f73ae1b6f89e9cf,88a0db2a0103a47a1a9212af080638ad,8ce8617f8350ec2c28fbbd993da91247,901e7d1a0762e73434ce17f6939c3ca2,a5996a7f0951241f264d7fa9f2d66fe4,a7912e7cca12cbc171097bf8521ed259,d08966f980aca3c4d2ef4192fa8c8391,d25ee5a54b9d82a209815803e5cb7a86,e8fc5a3911cdf90d4862971f2434b914,e9b035ee17bead444a224b760b5bde84,f335af4d6f8721ac6e483f3fe95fff23</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">106d366bdf57b088cfb05b1bf8e3e4c8,1fd97a9297d1369d7627cfa1297f1462,202310fbc986fd743fceb0bf99a31261,2bbe7c9fe1e54084e4d483c3b4352e37,3266f9a0255c73a635a90c9fa7926a8a,34d2bf5fc03ba55d8db7bf4e9d2f2fe7,485b5f8ef88933aeb6143c639b1aa0d9,4867d385aa5531438412d68d4bf03ddb,6e9de78f1c1d1c8ec7a8920c678df2b5,703bfd62070d51a15f73ae1b6f89e9cf,88a0db2a0103a47a1a9212af080638ad,8ce8617f8350ec2c28fbbd993da91247,901e7d1a0762e73434ce17f6939c3ca2,a5996a7f0951241f264d7fa9f2d66fe4,a7912e7cca12cbc171097bf8521ed259,d08966f980aca3c4d2ef4192fa8c8391,d25ee5a54b9d82a209815803e5cb7a86,e8fc5a3911cdf90d4862971f2434b914,e9b035ee17bead444a224b760b5bde84,f335af4d6f8721ac6e483f3fe95fff23</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">106d366bdf57b088cfb05b1bf8e3e4c8,1fd97a9297d1369d7627cfa1297f1462,202310fbc986fd743fceb0bf99a31261,2bbe7c9fe1e54084e4d483c3b4352e37,3266f9a0255c73a635a90c9fa7926a8a,34d2bf5fc03ba55d8db7bf4e9d2f2fe7,485b5f8ef88933aeb6143c639b1aa0d9,4867d385aa5531438412d68d4bf03ddb,6e9de78f1c1d1c8ec7a8920c678df2b5,703bfd62070d51a15f73ae1b6f89e9cf,88a0db2a0103a47a1a9212af080638ad,8ce8617f8350ec2c28fbbd993da91247,901e7d1a0762e73434ce17f6939c3ca2,a5996a7f0951241f264d7fa9f2d66fe4,a7912e7cca12cbc171097bf8521ed259,d08966f980aca3c4d2ef4192fa8c8391,d25ee5a54b9d82a209815803e5cb7a86,e8fc5a3911cdf90d4862971f2434b914,e9b035ee17bead444a224b760b5bde84,f335af4d6f8721ac6e483f3fe95fff23</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;CHARLIE DANIELS BAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Charlie Daniels Band released their song in the United States and it charted on the US Country charts."</data>
+      <data key="d5">88a0db2a0103a47a1a9212af080638ad</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">106d366bdf57b088cfb05b1bf8e3e4c8,1fd97a9297d1369d7627cfa1297f1462,202310fbc986fd743fceb0bf99a31261,2bbe7c9fe1e54084e4d483c3b4352e37,3266f9a0255c73a635a90c9fa7926a8a,34d2bf5fc03ba55d8db7bf4e9d2f2fe7,485b5f8ef88933aeb6143c639b1aa0d9,4867d385aa5531438412d68d4bf03ddb,6e9de78f1c1d1c8ec7a8920c678df2b5,703bfd62070d51a15f73ae1b6f89e9cf,88a0db2a0103a47a1a9212af080638ad,8ce8617f8350ec2c28fbbd993da91247,901e7d1a0762e73434ce17f6939c3ca2,a5996a7f0951241f264d7fa9f2d66fe4,a7912e7cca12cbc171097bf8521ed259,d08966f980aca3c4d2ef4192fa8c8391,d25ee5a54b9d82a209815803e5cb7a86,e8fc5a3911cdf90d4862971f2434b914,e9b035ee17bead444a224b760b5bde84,f335af4d6f8721ac6e483f3fe95fff23</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">106d366bdf57b088cfb05b1bf8e3e4c8,1fd97a9297d1369d7627cfa1297f1462,202310fbc986fd743fceb0bf99a31261,2bbe7c9fe1e54084e4d483c3b4352e37,3266f9a0255c73a635a90c9fa7926a8a,34d2bf5fc03ba55d8db7bf4e9d2f2fe7,485b5f8ef88933aeb6143c639b1aa0d9,4867d385aa5531438412d68d4bf03ddb,6e9de78f1c1d1c8ec7a8920c678df2b5,703bfd62070d51a15f73ae1b6f89e9cf,88a0db2a0103a47a1a9212af080638ad,8ce8617f8350ec2c28fbbd993da91247,901e7d1a0762e73434ce17f6939c3ca2,a5996a7f0951241f264d7fa9f2d66fe4,a7912e7cca12cbc171097bf8521ed259,d08966f980aca3c4d2ef4192fa8c8391,d25ee5a54b9d82a209815803e5cb7a86,e8fc5a3911cdf90d4862971f2434b914,e9b035ee17bead444a224b760b5bde84,f335af4d6f8721ac6e483f3fe95fff23</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">106d366bdf57b088cfb05b1bf8e3e4c8,1fd97a9297d1369d7627cfa1297f1462,202310fbc986fd743fceb0bf99a31261,2bbe7c9fe1e54084e4d483c3b4352e37,3266f9a0255c73a635a90c9fa7926a8a,34d2bf5fc03ba55d8db7bf4e9d2f2fe7,485b5f8ef88933aeb6143c639b1aa0d9,4867d385aa5531438412d68d4bf03ddb,6e9de78f1c1d1c8ec7a8920c678df2b5,703bfd62070d51a15f73ae1b6f89e9cf,88a0db2a0103a47a1a9212af080638ad,8ce8617f8350ec2c28fbbd993da91247,901e7d1a0762e73434ce17f6939c3ca2,a5996a7f0951241f264d7fa9f2d66fe4,a7912e7cca12cbc171097bf8521ed259,d08966f980aca3c4d2ef4192fa8c8391,d25ee5a54b9d82a209815803e5cb7a86,e8fc5a3911cdf90d4862971f2434b914,e9b035ee17bead444a224b760b5bde84,f335af4d6f8721ac6e483f3fe95fff23</data>
+    </edge>
+    <edge source="&quot;SAILING AT THE 1964 SUMMER OLYMPICS&quot;" target="&quot;THE FINN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Finn was part of the Sailing at the 1964 Summer Olympics program."</data>
+      <data key="d5">d25ee5a54b9d82a209815803e5cb7a86</data>
+    </edge>
+    <edge source="&quot;ENOSHIMA&quot;" target="&quot;THE FINN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Finn event took place in Enoshima."</data>
+      <data key="d5">d25ee5a54b9d82a209815803e5cb7a86</data>
+    </edge>
+    <edge source="&quot;MELODIFESTIVALEN 2006&quot;" target="&quot;LENA PHILIPSSON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lena Philipsson hosted Melodifestivalen 2006 and performed a song that brought attention."</data>
+      <data key="d5">4867d385aa5531438412d68d4bf03ddb</data>
+    </edge>
+    <edge source="&quot;CHARLIE DANIELS&quot;" target="&quot;CHARLIE DANIELS BAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Charlie Daniels is the leader of the Charlie Daniels Band."</data>
+      <data key="d5">88a0db2a0103a47a1a9212af080638ad</data>
+    </edge>
+    <edge source="&quot;CHARLIE DANIELS&quot;" target="&quot;SEPTEMBER 11 ATTACKS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The September 11 attacks inspired Charlie Daniels to write the song 'This Ain't No Rag, It's a Flag'."</data>
+      <data key="d5">88a0db2a0103a47a1a9212af080638ad</data>
+    </edge>
+    <edge source="&quot;COMMANDER OF THE ROYAL CANADIAN NAVY&quot;" target="&quot;ROYAL CANADIAN NAVY (RCN)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Commander of the Royal Canadian Navy heads the RCN."</data>
+      <data key="d5">202310fbc986fd743fceb0bf99a31261</data>
+    </edge>
+    <edge source="&quot;MARITIME FORCES PACIFIC (MARPAC)&quot;" target="&quot;ROYAL CANADIAN NAVY (RCN)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Maritime Forces Pacific (MARPAC) is a fleet of the RCN."</data>
+      <data key="d5">202310fbc986fd743fceb0bf99a31261</data>
+    </edge>
+    <edge source="&quot;MARITIME FORCES ATLANTIC (MARLANT)&quot;" target="&quot;ROYAL CANADIAN NAVY (RCN)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Maritime Forces Atlantic (MARLANT) is a fleet of the RCN."</data>
+      <data key="d5">202310fbc986fd743fceb0bf99a31261</data>
+    </edge>
+    <edge source="&quot;NAVAL RESERVE HEADQUARTERS (NAVRESHQ)&quot;" target="&quot;ROYAL CANADIAN NAVY (RCN)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Naval Reserve Headquarters (NAVRESHQ) is a formation of the RCN."</data>
+      <data key="d5">202310fbc986fd743fceb0bf99a31261</data>
+    </edge>
+    <edge source="&quot;DALE KAETZEL&quot;" target="&quot;SIX FLAGS OVER GEORGIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dale Kaetzel is the General Manager of Six Flags Over Georgia."</data>
+      <data key="d5">d08966f980aca3c4d2ef4192fa8c8391</data>
+    </edge>
+    <edge source="&quot;AUSTELL&quot;" target="&quot;SIX FLAGS OVER GEORGIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Six Flags Over Georgia is located in Austell, Georgia."</data>
+      <data key="d5">d08966f980aca3c4d2ef4192fa8c8391</data>
+    </edge>
+    <edge source="&quot;GEORGIA&quot;" target="&quot;SIX FLAGS OVER GEORGIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Six Flags Over Georgia is located in the state of Georgia."</data>
+      <data key="d5">d08966f980aca3c4d2ef4192fa8c8391</data>
+    </edge>
+    <edge source="&quot;BRONX QUEEN TRILOGY&quot;" target="&quot;JOE GULLA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Joe Gulla wrote and performed 'Bronx Queen Trilogy', an autobiographical monologue based on his experience growing up in the Bronx."</data>
+      <data key="d5">1fd97a9297d1369d7627cfa1297f1462</data>
+    </edge>
+    <edge source="&quot;THE BRONX&quot;" target="&quot;JOE GULLA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Joe Gulla grew up in The Bronx, which inspired his work 'Bronx Queen Trilogy'."</data>
+      <data key="d5">1fd97a9297d1369d7627cfa1297f1462</data>
+    </edge>
+    <edge source="&quot;WORLD GYMNAESTRADA&quot;" target="&quot;GENERAL GYMNASTICS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"General gymnastics is showcased at the World Gymnaestrada exhibition."</data>
+      <data key="d5">e9b035ee17bead444a224b760b5bde84</data>
+    </edge>
+    <edge source="&quot;GYMNASTICS FOR ALL&quot;" target="&quot;FIG (INTERNATIONAL GYMNASTIC FEDERATION)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The FIG officially recognized Gymnastics for All as a Sport Program."</data>
+      <data key="d5">e9b035ee17bead444a224b760b5bde84</data>
+    </edge>
+    <edge source="&quot;GYMNASTICS FOR ALL&quot;" target="&quot;GENERAL GYMNASTICS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"General gymnastics is part of the Gymnastics for All program."</data>
+      <data key="d5">e9b035ee17bead444a224b760b5bde84</data>
+    </edge>
+    <edge source="&quot;PETER HALLSTR&#214;M&quot;" target="&quot;I REMEMBER LOVE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Peter Hallstr&#246;m co-wrote the song 'I Remember Love'."&gt;</data>
+      <data key="d5">901e7d1a0762e73434ce17f6939c3ca2</data>
+    </edge>
+    <edge source="&quot;SARAH DAWN FINER&quot;" target="&quot;I REMEMBER LOVE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sarah Dawn Finer performed and wrote the song 'I Remember Love'."&gt;</data>
+      <data key="d5">901e7d1a0762e73434ce17f6939c3ca2</data>
+    </edge>
+    <edge source="&quot;MELODIFESTIVALEN 2007&quot;" target="&quot;I REMEMBER LOVE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"'I Remember Love' participated in Melodifestivalen 2007."</data>
+      <data key="d5">901e7d1a0762e73434ce17f6939c3ca2</data>
+    </edge>
+    <edge source="&quot;MELODIFESTIVALEN 2007&quot;" target="&quot;G&#196;VLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The semifinal of Melodifestivalen 2007 took place in G&#228;vle."</data>
+      <data key="d5">901e7d1a0762e73434ce17f6939c3ca2</data>
+    </edge>
+    <edge source="&quot;MELODIFESTIVALEN 2007&quot;" target="&quot;STOCKHOLM GLOBE ARENA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The finals of Melodifestivalen 2007 took place at the Stockholm Globe Arena."</data>
+      <data key="d5">901e7d1a0762e73434ce17f6939c3ca2</data>
+    </edge>
+    <edge source="&quot;SERGIO DALMA&quot;" target="&quot;SPAIN&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Here is the comprehensive summary:
+
+Sergio Dalma is a Spanish singer from Spain. He represented his country, Spain, at the Eurovision Song Contest in 1991.
+
+Let me know if you need any further assistance!</data>
+      <data key="d5">2bbe7c9fe1e54084e4d483c3b4352e37,6e9de78f1c1d1c8ec7a8920c678df2b5</data>
+    </edge>
+    <edge source="&quot;SERGIO DALMA&quot;" target="&quot;RADIOTELEVISI&#211;N ESPA&#209;OLA (RTVE)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Radiotelevisi&#243;n Espa&#241;ola (RTVE) selected Sergio Dalma to represent Spain at the Eurovision Song Contest 1991."</data>
+      <data key="d5">6e9de78f1c1d1c8ec7a8920c678df2b5</data>
+    </edge>
+    <edge source="&quot;SERGIO DALMA&quot;" target="&quot;VIA DALMA II&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sergio Dalma released the album Via Dalma II in 2011."</data>
+      <data key="d5">2bbe7c9fe1e54084e4d483c3b4352e37</data>
+    </edge>
+    <edge source="&quot;SERGIO DALMA&quot;" target="&quot;CADORE 33&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sergio Dalma released the album Cadore 33, which marked his return to performing original material."</data>
+      <data key="d5">2bbe7c9fe1e54084e4d483c3b4352e37</data>
+    </edge>
+    <edge source="&quot;ROME, ITALY&quot;" target="&quot;EUROVISION SONG CONTEST 1991&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Rome, Italy was the host city of the Eurovision Song Contest 1991."</data>
+      <data key="d5">6e9de78f1c1d1c8ec7a8920c678df2b5</data>
+    </edge>
+    <edge source="&quot;MAGGIE MACNEAL&quot;" target="&quot;EUROVISION SONG CONTEST 1980&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Maggie MacNeal represented the Netherlands in the Eurovision Song Contest 1980 with the song 'Amsterdam'."&gt;</data>
+      <data key="d5">e8fc5a3911cdf90d4862971f2434b914</data>
+    </edge>
+    <edge source="&quot;MAGGIE MACNEAL&quot;" target="&quot;MOUTH &amp; MACNEAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Maggie MacNeal was part of the duo Mouth &amp; MacNeal that participated in the Eurovision Song Contest 1974."</data>
+      <data key="d5">e8fc5a3911cdf90d4862971f2434b914</data>
+    </edge>
+    <edge source="&quot;EUROVISION SONG CONTEST 1980&quot;" target="&quot;AMSTERDAM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The song 'Amsterdam' represented the Netherlands in the Eurovision Song Contest 1980."</data>
+      <data key="d5">e8fc5a3911cdf90d4862971f2434b914</data>
+    </edge>
+    <edge source="&quot;BORDEAUX&quot;" target="&quot;MARIE FEL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marie Fel was born in Bordeaux."</data>
+      <data key="d5">703bfd62070d51a15f73ae1b6f89e9cf</data>
+    </edge>
+    <edge source="&quot;PARIS OPERA&quot;" target="&quot;MARIE FEL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marie Fel made her debut and sang regularly at the Paris Opera."</data>
+      <data key="d5">703bfd62070d51a15f73ae1b6f89e9cf</data>
+    </edge>
+    <edge source="&quot;CONCERT SPIRITUEL&quot;" target="&quot;MARIE FEL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marie Fel sang regularly at Concert Spirituel."</data>
+      <data key="d5">703bfd62070d51a15f73ae1b6f89e9cf</data>
+    </edge>
+    <edge source="&quot;RAMEAU&quot;" target="&quot;MARIE FEL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marie Fel performed in Rameau's operas."</data>
+      <data key="d5">703bfd62070d51a15f73ae1b6f89e9cf</data>
+    </edge>
+    <edge source="&quot;PIERRE J&#201;LYOTTE&quot;" target="&quot;MARIE FEL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marie Fel and Pierre J&#233;lyotte performed together in Rameau's operas."</data>
+      <data key="d5">703bfd62070d51a15f73ae1b6f89e9cf</data>
+    </edge>
+    <edge source="&quot;MONDONVILLE&quot;" target="&quot;MARIE FEL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marie Fel created roles in Mondonville's operas."</data>
+      <data key="d5">703bfd62070d51a15f73ae1b6f89e9cf</data>
+    </edge>
+    <edge source="&quot;LULLY&quot;" target="&quot;MARIE FEL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marie Fel participated in revivals of Lully's operas."</data>
+      <data key="d5">703bfd62070d51a15f73ae1b6f89e9cf</data>
+    </edge>
+    <edge source="&quot;CAMPRA&quot;" target="&quot;MARIE FEL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marie Fel participated in revivals of Campra's operas."</data>
+      <data key="d5">703bfd62070d51a15f73ae1b6f89e9cf</data>
+    </edge>
+    <edge source="&quot;PARIS&quot;" target="&quot;MARIE FEL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Marie Fel died in Paris."</data>
+      <data key="d5">703bfd62070d51a15f73ae1b6f89e9cf</data>
+    </edge>
+    <edge source="&quot;SERBIA&quot;" target="&quot;BOJANA STAMENOV&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bojana Stamenov represents Serbia in the Eurovision Song Contest 2015."</data>
+      <data key="d5">a7912e7cca12cbc171097bf8521ed259</data>
+    </edge>
+    <edge source="&quot;EUROVISION SONG CONTEST 2015&quot;" target="&quot;BOJANA STAMENOV&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bojana Stamenov participated in the Eurovision Song Contest 2015, placing 9th with the song 'Beauty Never Lies'."&gt;</data>
+      <data key="d5">a7912e7cca12cbc171097bf8521ed259</data>
+    </edge>
+    <edge source="&quot;BO&#352;KO BUHA THEATRE&quot;" target="&quot;BOJANA STAMENOV&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bojana Stamenov performs for children at the Bo&#353;ko Buha Theatre in Belgrade."</data>
+      <data key="d5">a7912e7cca12cbc171097bf8521ed259</data>
+    </edge>
+    <edge source="&quot;SAVA CENTAR&quot;" target="&quot;BOJANA STAMENOV&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bojana Stamenov had her first concert at Sava Centar in Belgrade on 13 June."</data>
+      <data key="d5">a7912e7cca12cbc171097bf8521ed259</data>
+    </edge>
+    <edge source="&quot;ARTHUR HAMILTON&quot;" target="&quot;CRY ME A RIVER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Arthur Hamilton wrote the song 'Cry Me a River' in the soundtrack."</data>
+      <data key="d5">3266f9a0255c73a635a90c9fa7926a8a</data>
+    </edge>
+    <edge source="&quot;CAT POWER&quot;" target="&quot;I FOUND A REASON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cat Power performs the song 'I Found a Reason' in the soundtrack."</data>
+      <data key="d5">3266f9a0255c73a635a90c9fa7926a8a</data>
+    </edge>
+    <edge source="&quot;LOU REED&quot;" target="&quot;I FOUND A REASON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lou Reed wrote the song 'I Found a Reason' in the soundtrack."</data>
+      <data key="d5">3266f9a0255c73a635a90c9fa7926a8a</data>
+    </edge>
+    <edge source="&quot;ANTONY HEGARTY&quot;" target="&quot;BIRD GERHL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Antony Hegarty wrote and performed the song 'Bird Gerhl' in the soundtrack."</data>
+      <data key="d5">3266f9a0255c73a635a90c9fa7926a8a</data>
+    </edge>
+    <edge source="&quot;DARIO MARIANELLI&quot;" target="&quot;KNIVES AND BULLETS (AND CANNONS TOO)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dario Marianelli composed the song 'Knives and Bullets (And Cannons Too)' in the soundtrack."</data>
+      <data key="d5">3266f9a0255c73a635a90c9fa7926a8a</data>
+    </edge>
+    <edge source="&quot;PYOTR ILYICH TCHAIKOVSKY.&quot;" target="&quot;KNIVES AND BULLETS (AND CANNONS TOO)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Pyotr Ilyich Tchaikovsky's work is featured in the song 'Knives and Bullets (And Cannons Too)' in the soundtrack."</data>
+      <data key="d5">3266f9a0255c73a635a90c9fa7926a8a</data>
+    </edge>
+    <edge source="&quot;ENGLAND&quot;" target="&quot;ENGLAND PREVAILS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The song 'England Prevails' references England."</data>
+      <data key="d5">3266f9a0255c73a635a90c9fa7926a8a</data>
+    </edge>
+    <edge source="&quot;JULIE LONDON&quot;" target="&quot;CRY ME A RIVER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Julie London performs the song 'Cry Me a River' in the soundtrack."</data>
+      <data key="d5">3266f9a0255c73a635a90c9fa7926a8a</data>
+    </edge>
+    <edge source="&quot;RYAN O'SHAUGHNESSY&quot;" target="&quot;EUROVISION SONG CONTEST 2018&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ryan O'Shaughnessy performed at the Eurovision Song Contest 2018 with the song 'Together'."&gt;</data>
+      <data key="d5">34d2bf5fc03ba55d8db7bf4e9d2f2fe7</data>
+    </edge>
+    <edge source="&quot;RAIDI&#211; TEILIF&#205;S &#201;IREANN (RT&#201;)&quot;" target="&quot;IRELAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ireland is represented by Raidi&#243; Teilif&#237;s &#201;ireann (RT&#201;) at the Eurovision Song Contest 2018."</data>
+      <data key="d5">34d2bf5fc03ba55d8db7bf4e9d2f2fe7</data>
+    </edge>
+    <edge source="&quot;RAIDI&#211; TEILIF&#205;S &#201;IREANN (RT&#201;)&quot;" target="&quot;EUROVISION SONG CONTEST 2018&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Raidi&#243; Teilif&#237;s &#201;ireann (RT&#201;) internally selected the Irish entry for the Eurovision Song Contest 2018."</data>
+      <data key="d5">34d2bf5fc03ba55d8db7bf4e9d2f2fe7</data>
+    </edge>
+    <edge source="&quot;LISBON, PORTUGAL&quot;" target="&quot;EUROVISION SONG CONTEST 2018&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Eurovision Song Contest 2018 took place in Lisbon, Portugal."</data>
+      <data key="d5">34d2bf5fc03ba55d8db7bf4e9d2f2fe7</data>
+    </edge>
+    <edge source="&quot;AMY BERLIN&quot;" target="&quot;FEENEY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Feeney is the mother of Amy Berlin, who performed with her at the March for Women's Lives."</data>
+      <data key="d5">8ce8617f8350ec2c28fbbd993da91247</data>
+    </edge>
+    <edge source="&quot;WASHINGTON, DC&quot;" target="&quot;FEENEY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Feeney has performed in Washington, DC, specifically at the March for Women's Lives."</data>
+      <data key="d5">8ce8617f8350ec2c28fbbd993da91247</data>
+    </edge>
+    <edge source="&quot;MARCH FOR WOMEN'S LIVES&quot;" target="&quot;FEENEY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Feeney participated in and performed at the March for Women's Lives event."</data>
+      <data key="d5">8ce8617f8350ec2c28fbbd993da91247</data>
+    </edge>
+    <edge source="&quot;ANDORRA&quot;" target="&quot;NATIONAL OLYMPIC COMMITTEES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Andorra participates in the National Olympic Committees."</data>
+      <data key="d5">f335af4d6f8721ac6e483f3fe95fff23</data>
+    </edge>
+    <edge source="&quot;ARGENTINA&quot;" target="&quot;NATIONAL OLYMPIC COMMITTEES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Argentina participates in the National Olympic Committees."</data>
+      <data key="d5">f335af4d6f8721ac6e483f3fe95fff23</data>
+    </edge>
+    <edge source="&quot;MARCEL MARCEAU&quot;" target="&quot;GILLES S&#201;GAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gilles S&#233;gal performed on stage with Marcel Marceau."</data>
+      <data key="d5">485b5f8ef88933aeb6143c639b1aa0d9</data>
+    </edge>
+    <edge source="&quot;F&#258;LTICENI&quot;" target="&quot;GILLES S&#201;GAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gilles S&#233;gal was born in F&#259;lticeni, Romania."</data>
+      <data key="d5">485b5f8ef88933aeb6143c639b1aa0d9</data>
+    </edge>
+    <edge source="&quot;JULES DASSIN'S 'TOPKAPI'&quot;" target="&quot;GILLES S&#201;GAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gilles S&#233;gal played a role in the film 'Topkapi'."</data>
+      <data key="d5">485b5f8ef88933aeb6143c639b1aa0d9</data>
+    </edge>
+    <edge source="&quot;1998 EUROPEAN CHAMPIONSHIPS&quot;" target="&quot;MEN'S 20 KM WALK EVENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Men's 20 km walk event was part of the 1998 European Championships."</data>
+      <data key="d5">a5996a7f0951241f264d7fa9f2d66fe4</data>
+    </edge>
+    <edge source="&quot;1998 EUROPEAN CHAMPIONSHIPS&quot;" target="&quot;BUDAPEST&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 1998 European Championships were held in Budapest, Hungary."</data>
+      <data key="d5">a5996a7f0951241f264d7fa9f2d66fe4</data>
+    </edge>
+    <edge source="&quot;BUDAPEST&quot;" target="&quot;HUNGARY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Budapest is a city located in Hungary."</data>
+      <data key="d5">a5996a7f0951241f264d7fa9f2d66fe4</data>
+    </edge>
+  </graph>
+</graphml>

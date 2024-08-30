@@ -1,0 +1,8 @@
+Collecting jinja2
+  Using cached jinja2-3.1.4-py3-none-any.whl.metadata (2.6 kB)
+Collecting MarkupSafe>=2.0 (from jinja2)
+  Using cached MarkupSafe-2.1.5-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (3.0 kB)
+Using cached jinja2-3.1.4-py3-none-any.whl (133 kB)
+Using cached MarkupSafe-2.1.5-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (25 kB)
+Installing collected packages: MarkupSafe, jinja2
+Successfully installed MarkupSafe-2.1.5 jinja2-3.1.4

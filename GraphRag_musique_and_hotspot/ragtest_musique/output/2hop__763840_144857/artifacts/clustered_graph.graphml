@@ -1,0 +1,1890 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="level" attr.type="long" />
+  <key id="d6" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d5" for="node" attr.name="id" attr.type="string" />
+  <key id="d4" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d3" for="node" attr.name="degree" attr.type="long" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;PRETTY TONY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Pretty Tony is a popular Freestyle act that originated in Miami."</data>
+      <data key="d2">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;DEBBIE DEB&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Debbie Deb is a popular Freestyle act that originated in Miami."</data>
+      <data key="d2">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;STEVIE B&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Stevie B is a popular Freestyle act that originated in Miami."</data>
+      <data key="d2">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;EXPOS&#201;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Expos&#233; is a popular Freestyle group that originated in Miami."</data>
+      <data key="d2">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d3">1</data>
+      <data key="d4">3</data>
+      <data key="d5">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;CAT POWER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Cat Power is an indie/folk artist based in Miami."</data>
+      <data key="d2">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d3">1</data>
+      <data key="d4">4</data>
+      <data key="d5">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;IRON &amp; WINE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Iron &amp; Wine is an indie/folk duo based in Miami."</data>
+      <data key="d2">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d3">1</data>
+      <data key="d4">5</data>
+      <data key="d5">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;SAGE FRANCIS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sage Francis is an alternative hip hop artist born in Miami but musically based elsewhere."</data>
+      <data key="d2">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d3">1</data>
+      <data key="d4">6</data>
+      <data key="d5">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;UFFIE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Uffie is an electro artist born in Miami but musically based elsewhere."</data>
+      <data key="d2">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d3">1</data>
+      <data key="d4">7</data>
+      <data key="d5">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;AVENUE D&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Avenue D is an electroclash duo born in Miami but musically based elsewhere."</data>
+      <data key="d2">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d3">1</data>
+      <data key="d4">8</data>
+      <data key="d5">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;AGAINST ALL AUTHORITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Against All Authority is a ska punk band from Miami."</data>
+      <data key="d2">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d3">1</data>
+      <data key="d4">9</data>
+      <data key="d5">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;NONPOINT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Nonpoint is a rock/metal band formed in neighboring Fort Lauderdale."</data>
+      <data key="d2">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d3">1</data>
+      <data key="d4">10</data>
+      <data key="d5">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;MARILYN MANSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Marilyn Manson is a rock/metal artist who formed his band in neighboring Fort Lauderdale."</data>
+      <data key="d2">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d3">1</data>
+      <data key="d4">11</data>
+      <data key="d5">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;ANA CRISTINA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ana Cristina is a Cuban American female recording artist born in Miami in 1985."</data>
+      <data key="d2">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d3">1</data>
+      <data key="d4">12</data>
+      <data key="d5">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;MIAMI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d3">11</data>
+      <data key="d4">13</data>
+      <data key="d5">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;FORT LAUDERDALE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d3">2</data>
+      <data key="d4">14</data>
+      <data key="d5">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">06b9694bdc2c5b6aad8f525c93eeca0a,1c9a0ae8cc313ffa8c3cd7b37b41ad1e,202e4bcac45edb763708408732c33dcb,249b25bf8543ea6a0b31594ca23b6ddb,24de4ec9bd8d50c51f4172ae1005de79,33a38ec42ebaf0b1dd75c8b216aa323c,5380626d570496e8c0eb973f5ad2cd0e,54a28125caad375216cf41c8b6f71b9b,6bd26d409272a253ff8780ee7faa7aca,73009875cd537846330863969b1f6069,75eb49dcee982774d4df2e7de9321f3d,7b35e149feff758467a4bfb8d3fb37db,802911aa046efa4e4ab38d38c363cdd9,88576cffede0f9f470499d2f0bd3121c,9473c043c0250752b2e977796ca67967,94d9afe899550a3f5b127a05c95509fc,aca9b518e676861e8aa92cce9ddf409e,b344d0468d69cf04833d79d8de5cd84d,cf2746399c75135d7788e98c99184a1d,e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">15</data>
+      <data key="d5">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">06b9694bdc2c5b6aad8f525c93eeca0a,1c9a0ae8cc313ffa8c3cd7b37b41ad1e,202e4bcac45edb763708408732c33dcb,249b25bf8543ea6a0b31594ca23b6ddb,24de4ec9bd8d50c51f4172ae1005de79,33a38ec42ebaf0b1dd75c8b216aa323c,5380626d570496e8c0eb973f5ad2cd0e,54a28125caad375216cf41c8b6f71b9b,6bd26d409272a253ff8780ee7faa7aca,73009875cd537846330863969b1f6069,75eb49dcee982774d4df2e7de9321f3d,7b35e149feff758467a4bfb8d3fb37db,802911aa046efa4e4ab38d38c363cdd9,88576cffede0f9f470499d2f0bd3121c,9473c043c0250752b2e977796ca67967,94d9afe899550a3f5b127a05c95509fc,aca9b518e676861e8aa92cce9ddf409e,b344d0468d69cf04833d79d8de5cd84d,cf2746399c75135d7788e98c99184a1d,e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">16</data>
+      <data key="d5">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">06b9694bdc2c5b6aad8f525c93eeca0a,1c9a0ae8cc313ffa8c3cd7b37b41ad1e,202e4bcac45edb763708408732c33dcb,249b25bf8543ea6a0b31594ca23b6ddb,24de4ec9bd8d50c51f4172ae1005de79,33a38ec42ebaf0b1dd75c8b216aa323c,5380626d570496e8c0eb973f5ad2cd0e,54a28125caad375216cf41c8b6f71b9b,6bd26d409272a253ff8780ee7faa7aca,73009875cd537846330863969b1f6069,75eb49dcee982774d4df2e7de9321f3d,7b35e149feff758467a4bfb8d3fb37db,802911aa046efa4e4ab38d38c363cdd9,88576cffede0f9f470499d2f0bd3121c,9473c043c0250752b2e977796ca67967,94d9afe899550a3f5b127a05c95509fc,aca9b518e676861e8aa92cce9ddf409e,b344d0468d69cf04833d79d8de5cd84d,cf2746399c75135d7788e98c99184a1d,e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">4</data>
+      <data key="d4">17</data>
+      <data key="d5">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">06b9694bdc2c5b6aad8f525c93eeca0a,1c9a0ae8cc313ffa8c3cd7b37b41ad1e,202e4bcac45edb763708408732c33dcb,249b25bf8543ea6a0b31594ca23b6ddb,24de4ec9bd8d50c51f4172ae1005de79,33a38ec42ebaf0b1dd75c8b216aa323c,5380626d570496e8c0eb973f5ad2cd0e,54a28125caad375216cf41c8b6f71b9b,6bd26d409272a253ff8780ee7faa7aca,73009875cd537846330863969b1f6069,75eb49dcee982774d4df2e7de9321f3d,7b35e149feff758467a4bfb8d3fb37db,802911aa046efa4e4ab38d38c363cdd9,88576cffede0f9f470499d2f0bd3121c,9473c043c0250752b2e977796ca67967,94d9afe899550a3f5b127a05c95509fc,aca9b518e676861e8aa92cce9ddf409e,b344d0468d69cf04833d79d8de5cd84d,cf2746399c75135d7788e98c99184a1d,e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">18</data>
+      <data key="d5">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country where Tucson, Pima County, and Arizona are located, as well as Junction City.</data>
+      <data key="d2">06b9694bdc2c5b6aad8f525c93eeca0a,1c9a0ae8cc313ffa8c3cd7b37b41ad1e,202e4bcac45edb763708408732c33dcb,249b25bf8543ea6a0b31594ca23b6ddb,24de4ec9bd8d50c51f4172ae1005de79,33a38ec42ebaf0b1dd75c8b216aa323c,5380626d570496e8c0eb973f5ad2cd0e,54a28125caad375216cf41c8b6f71b9b,6bd26d409272a253ff8780ee7faa7aca,73009875cd537846330863969b1f6069,75eb49dcee982774d4df2e7de9321f3d,7b35e149feff758467a4bfb8d3fb37db,802911aa046efa4e4ab38d38c363cdd9,88576cffede0f9f470499d2f0bd3121c,9473c043c0250752b2e977796ca67967,94d9afe899550a3f5b127a05c95509fc,aca9b518e676861e8aa92cce9ddf409e,b344d0468d69cf04833d79d8de5cd84d,cf2746399c75135d7788e98c99184a1d,e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d6">0</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">19</data>
+      <data key="d5">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">06b9694bdc2c5b6aad8f525c93eeca0a,1c9a0ae8cc313ffa8c3cd7b37b41ad1e,202e4bcac45edb763708408732c33dcb,249b25bf8543ea6a0b31594ca23b6ddb,24de4ec9bd8d50c51f4172ae1005de79,33a38ec42ebaf0b1dd75c8b216aa323c,5380626d570496e8c0eb973f5ad2cd0e,54a28125caad375216cf41c8b6f71b9b,6bd26d409272a253ff8780ee7faa7aca,73009875cd537846330863969b1f6069,75eb49dcee982774d4df2e7de9321f3d,7b35e149feff758467a4bfb8d3fb37db,802911aa046efa4e4ab38d38c363cdd9,88576cffede0f9f470499d2f0bd3121c,9473c043c0250752b2e977796ca67967,94d9afe899550a3f5b127a05c95509fc,aca9b518e676861e8aa92cce9ddf409e,b344d0468d69cf04833d79d8de5cd84d,cf2746399c75135d7788e98c99184a1d,e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d6">3</data>
+      <data key="d7">0</data>
+      <data key="d3">2</data>
+      <data key="d4">20</data>
+      <data key="d5">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">06b9694bdc2c5b6aad8f525c93eeca0a,1c9a0ae8cc313ffa8c3cd7b37b41ad1e,202e4bcac45edb763708408732c33dcb,249b25bf8543ea6a0b31594ca23b6ddb,24de4ec9bd8d50c51f4172ae1005de79,33a38ec42ebaf0b1dd75c8b216aa323c,5380626d570496e8c0eb973f5ad2cd0e,54a28125caad375216cf41c8b6f71b9b,6bd26d409272a253ff8780ee7faa7aca,73009875cd537846330863969b1f6069,75eb49dcee982774d4df2e7de9321f3d,7b35e149feff758467a4bfb8d3fb37db,802911aa046efa4e4ab38d38c363cdd9,88576cffede0f9f470499d2f0bd3121c,9473c043c0250752b2e977796ca67967,94d9afe899550a3f5b127a05c95509fc,aca9b518e676861e8aa92cce9ddf409e,b344d0468d69cf04833d79d8de5cd84d,cf2746399c75135d7788e98c99184a1d,e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">21</data>
+      <data key="d5">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">06b9694bdc2c5b6aad8f525c93eeca0a,1c9a0ae8cc313ffa8c3cd7b37b41ad1e,202e4bcac45edb763708408732c33dcb,249b25bf8543ea6a0b31594ca23b6ddb,24de4ec9bd8d50c51f4172ae1005de79,33a38ec42ebaf0b1dd75c8b216aa323c,5380626d570496e8c0eb973f5ad2cd0e,54a28125caad375216cf41c8b6f71b9b,6bd26d409272a253ff8780ee7faa7aca,73009875cd537846330863969b1f6069,75eb49dcee982774d4df2e7de9321f3d,7b35e149feff758467a4bfb8d3fb37db,802911aa046efa4e4ab38d38c363cdd9,88576cffede0f9f470499d2f0bd3121c,9473c043c0250752b2e977796ca67967,94d9afe899550a3f5b127a05c95509fc,aca9b518e676861e8aa92cce9ddf409e,b344d0468d69cf04833d79d8de5cd84d,cf2746399c75135d7788e98c99184a1d,e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d6">3</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">22</data>
+      <data key="d5">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">06b9694bdc2c5b6aad8f525c93eeca0a,1c9a0ae8cc313ffa8c3cd7b37b41ad1e,202e4bcac45edb763708408732c33dcb,249b25bf8543ea6a0b31594ca23b6ddb,24de4ec9bd8d50c51f4172ae1005de79,33a38ec42ebaf0b1dd75c8b216aa323c,5380626d570496e8c0eb973f5ad2cd0e,54a28125caad375216cf41c8b6f71b9b,6bd26d409272a253ff8780ee7faa7aca,73009875cd537846330863969b1f6069,75eb49dcee982774d4df2e7de9321f3d,7b35e149feff758467a4bfb8d3fb37db,802911aa046efa4e4ab38d38c363cdd9,88576cffede0f9f470499d2f0bd3121c,9473c043c0250752b2e977796ca67967,94d9afe899550a3f5b127a05c95509fc,aca9b518e676861e8aa92cce9ddf409e,b344d0468d69cf04833d79d8de5cd84d,cf2746399c75135d7788e98c99184a1d,e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d3">0</data>
+      <data key="d4">23</data>
+      <data key="d5">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">06b9694bdc2c5b6aad8f525c93eeca0a,1c9a0ae8cc313ffa8c3cd7b37b41ad1e,202e4bcac45edb763708408732c33dcb,249b25bf8543ea6a0b31594ca23b6ddb,24de4ec9bd8d50c51f4172ae1005de79,33a38ec42ebaf0b1dd75c8b216aa323c,5380626d570496e8c0eb973f5ad2cd0e,54a28125caad375216cf41c8b6f71b9b,6bd26d409272a253ff8780ee7faa7aca,73009875cd537846330863969b1f6069,75eb49dcee982774d4df2e7de9321f3d,7b35e149feff758467a4bfb8d3fb37db,802911aa046efa4e4ab38d38c363cdd9,88576cffede0f9f470499d2f0bd3121c,9473c043c0250752b2e977796ca67967,94d9afe899550a3f5b127a05c95509fc,aca9b518e676861e8aa92cce9ddf409e,b344d0468d69cf04833d79d8de5cd84d,cf2746399c75135d7788e98c99184a1d,e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d6">1</data>
+      <data key="d7">0</data>
+      <data key="d3">5</data>
+      <data key="d4">24</data>
+      <data key="d5">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;BRYAN COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bryan County is a county in Oklahoma, United States, where Hendrix is located."</data>
+      <data key="d2">5380626d570496e8c0eb973f5ad2cd0e</data>
+      <data key="d3">0</data>
+      <data key="d4">25</data>
+      <data key="d5">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;OKLAHOMA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Oklahoma is a state in the United States where Hendrix and Bryan County are located."</data>
+      <data key="d2">5380626d570496e8c0eb973f5ad2cd0e</data>
+      <data key="d3">0</data>
+      <data key="d4">26</data>
+      <data key="d5">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;KEMP CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Kemp City was the original name of Hendrix, often leading to confusion with the neighboring town of Kemp."</data>
+      <data key="d2">5380626d570496e8c0eb973f5ad2cd0e</data>
+      <data key="d3">0</data>
+      <data key="d4">27</data>
+      <data key="d5">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;KEMP&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Kemp is a neighboring town of Hendrix, often confused with it due to its similar original name."</data>
+      <data key="d2">5380626d570496e8c0eb973f5ad2cd0e</data>
+      <data key="d3">0</data>
+      <data key="d4">28</data>
+      <data key="d5">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;BRYAN COUNTY GENEALOGY SOCIETY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Bryan County Genealogy Society is an organization that provides information about the history of Hendrix and Bryan County."</data>
+      <data key="d2">5380626d570496e8c0eb973f5ad2cd0e</data>
+      <data key="d3">0</data>
+      <data key="d4">29</data>
+      <data key="d5">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;1916 TORNADO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"A 1916 tornado was a destructive event that largely destroyed Hendrix."</data>
+      <data key="d2">5380626d570496e8c0eb973f5ad2cd0e</data>
+      <data key="d3">0</data>
+      <data key="d4">30</data>
+      <data key="d5">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;TO KILL A MOCKINGBIRD&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"To Kill a Mockingbird is a novel by Harper Lee that was published in 1960 and became a classic of modern American literature."</data>
+      <data key="d2">e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d3">2</data>
+      <data key="d4">31</data>
+      <data key="d5">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&quot;PULITZER PRIZE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Pulitzer Prize is an award won by Harper Lee for her novel To Kill a Mockingbird."</data>
+      <data key="d2">e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d3">1</data>
+      <data key="d4">32</data>
+      <data key="d5">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&quot;1936 EVENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 1936 event refers to an incident that occurred near Harper Lee's hometown when she was 10 years old, which inspired elements of her novel."</data>
+      <data key="d2">e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d3">2</data>
+      <data key="d4">33</data>
+      <data key="d5">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&quot;HARPER LEE'S HOMETOWN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Harper Lee's hometown is a location where the author grew up and drew inspiration from her surroundings for her novel."</data>
+      <data key="d2">e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d3">1</data>
+      <data key="d4">34</data>
+      <data key="d5">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&quot;HARPER LEE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d3">2</data>
+      <data key="d4">35</data>
+      <data key="d5">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&quot;JURCHEN JIN DYNASTY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Jurchen Jin dynasty took control of North China in 1127, marking a shift in power dynamics."</data>
+      <data key="d2">1c9a0ae8cc313ffa8c3cd7b37b41ad1e</data>
+      <data key="d3">1</data>
+      <data key="d4">36</data>
+      <data key="d5">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&quot;SOUTHERN SONG&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Southern Song was established after the Jingkang Incident, with Hangzhou as its capital, and was renowned for its prosperity and beauty."</data>
+      <data key="d2">1c9a0ae8cc313ffa8c3cd7b37b41ad1e</data>
+      <data key="d3">0</data>
+      <data key="d4">37</data>
+      <data key="d5">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&quot;YUAN DYNASTY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Yuan dynasty was established in 1279, ending Hangzhou's political clout but allowing its economy to continue prospering."</data>
+      <data key="d2">1c9a0ae8cc313ffa8c3cd7b37b41ad1e</data>
+      <data key="d3">1</data>
+      <data key="d4">38</data>
+      <data key="d5">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&quot;MARCO POLO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Marco Polo visited Hangzhou, which he called 'Kinsay', and described it as the finest and noblest city in the world."</data>
+      <data key="d2">1c9a0ae8cc313ffa8c3cd7b37b41ad1e</data>
+      <data key="d3">1</data>
+      <data key="d4">39</data>
+      <data key="d5">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <node id="&quot;HANGZHOU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hangzhou was the capital of the Southern Song and a major city during the Song dynasty, known for its prosperity and beauty."</data>
+      <data key="d2">1c9a0ae8cc313ffa8c3cd7b37b41ad1e</data>
+      <data key="d3">3</data>
+      <data key="d4">40</data>
+      <data key="d5">3ce7c210a21b4deebad7cc9308148d86</data>
+    </node>
+    <node id="&quot;JINGKANG INCIDENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Jingkang Incident led to the loss of North China to the Jurchen Jin dynasty in 1127."</data>
+      <data key="d2">1c9a0ae8cc313ffa8c3cd7b37b41ad1e</data>
+      <data key="d3">0</data>
+      <data key="d4">41</data>
+      <data key="d5">d64ed762ea924caa95c8d06f072a9a96</data>
+    </node>
+    <node id="&quot;SONG DYNASTY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1c9a0ae8cc313ffa8c3cd7b37b41ad1e</data>
+      <data key="d3">1</data>
+      <data key="d4">42</data>
+      <data key="d5">adf4ee3fbe9b4d0381044838c4f889c8</data>
+    </node>
+    <node id="&quot;NORTH CHINA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1c9a0ae8cc313ffa8c3cd7b37b41ad1e</data>
+      <data key="d3">1</data>
+      <data key="d4">43</data>
+      <data key="d5">32ee140946e5461f9275db664dc541a5</data>
+    </node>
+    <node id="&quot;CLATSKANIE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Clatskanie is a location in Oregon where Carver was born."</data>
+      <data key="d2">54a28125caad375216cf41c8b6f71b9b</data>
+      <data key="d3">1</data>
+      <data key="d4">44</data>
+      <data key="d5">c160b9cb27d6408ba6ab20214a2f3f81</data>
+    </node>
+    <node id="&quot;OREGON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Oregon is a state in the United States where Clatskanie is located."</data>
+      <data key="d2">54a28125caad375216cf41c8b6f71b9b</data>
+      <data key="d3">0</data>
+      <data key="d4">45</data>
+      <data key="d5">23527cd679ff4d5a988d52e7cd056078</data>
+    </node>
+    <node id="&quot;YAKIMA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Yakima is a location in Washington where Carver grew up."</data>
+      <data key="d2">54a28125caad375216cf41c8b6f71b9b</data>
+      <data key="d3">1</data>
+      <data key="d4">46</data>
+      <data key="d5">f1c6eed066f24cbdb376b910fce29ed4</data>
+    </node>
+    <node id="&quot;WASHINGTON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Washington is a state in the United States where Yakima is located."</data>
+      <data key="d2">54a28125caad375216cf41c8b6f71b9b</data>
+      <data key="d3">0</data>
+      <data key="d4">47</data>
+      <data key="d5">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+    </node>
+    <node id="&quot;ELLA BEATRICE (N&#201;E CASEY)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ella Beatrice (n&#233;e Casey) is Carver's mother who worked on and off as a waitress and a retail clerk."</data>
+      <data key="d2">54a28125caad375216cf41c8b6f71b9b</data>
+      <data key="d3">1</data>
+      <data key="d4">48</data>
+      <data key="d5">147c038aef3e4422acbbc5f7938c4ab8</data>
+    </node>
+    <node id="&quot;CLEVIE RAYMOND CARVER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Clevie Raymond Carver is Carver's father, a sawmill worker from Arkansas, who was a fisherman and heavy drinker."</data>
+      <data key="d2">54a28125caad375216cf41c8b6f71b9b</data>
+      <data key="d3">1</data>
+      <data key="d4">49</data>
+      <data key="d5">b7702b90c7f24190b864e8c6e64612a5</data>
+    </node>
+    <node id="&quot;JAMES FRANKLIN CARVER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"James Franklin Carver is Carver's brother, born in 1943."</data>
+      <data key="d2">54a28125caad375216cf41c8b6f71b9b</data>
+      <data key="d3">1</data>
+      <data key="d4">50</data>
+      <data key="d5">de6fa24480894518ab3cbcb66f739266</data>
+    </node>
+    <node id="&quot;CARVER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">54a28125caad375216cf41c8b6f71b9b</data>
+      <data key="d3">5</data>
+      <data key="d4">51</data>
+      <data key="d5">6fae5ee1a831468aa585a1ea09095998</data>
+    </node>
+    <node id="&quot;EDWARD CHAIKEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Edward Chaiken is Simi Linton's father."</data>
+      <data key="d2">aca9b518e676861e8aa92cce9ddf409e</data>
+      <data key="d3">1</data>
+      <data key="d4">52</data>
+      <data key="d5">ef32c4b208d041cc856f6837915dc1b0</data>
+    </node>
+    <node id="&quot;AUGUSTA LONGWILL CHAIKEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Augusta Longwill Chaiken is Simi Linton's mother."</data>
+      <data key="d2">aca9b518e676861e8aa92cce9ddf409e</data>
+      <data key="d3">1</data>
+      <data key="d4">53</data>
+      <data key="d5">07b2425216bd4f0aa4e079827cb48ef5</data>
+    </node>
+    <node id="&quot;NEW YORK CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+New York City is a significant location in the lives of several individuals. It is the birthplace and hometown of Simi Linton. Additionally, it is also the place where Connie Clausen passed away on September 7, 1997.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">33a38ec42ebaf0b1dd75c8b216aa323c,aca9b518e676861e8aa92cce9ddf409e</data>
+      <data key="d3">2</data>
+      <data key="d4">54</data>
+      <data key="d5">2670deebfa3f4d69bb82c28ab250a209</data>
+    </node>
+    <node id="&quot;SIMI LINTON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">aca9b518e676861e8aa92cce9ddf409e</data>
+      <data key="d3">3</data>
+      <data key="d4">55</data>
+      <data key="d5">404309e89a5241d6bff42c05a45df206</data>
+    </node>
+    <node id="&quot;ESQUIRE MAGAZINE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Esquire magazine is a publication where the short story 'Neighbors' first appeared in 1971."</data>
+      <data key="d2">6bd26d409272a253ff8780ee7faa7aca</data>
+      <data key="d3">1</data>
+      <data key="d4">56</data>
+      <data key="d5">b785a9025069417f94950ad231bb1441</data>
+    </node>
+    <node id="&quot;WILL YOU PLEASE BE QUIET, PLEASE?&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Will You Please Be Quiet, Please? is a collection of short stories published in 1976 that includes 'Neighbors'."</data>
+      <data key="d2">6bd26d409272a253ff8780ee7faa7aca</data>
+      <data key="d3">1</data>
+      <data key="d4">57</data>
+      <data key="d5">3b6cd96a27304614850709aba1c9598b</data>
+    </node>
+    <node id="&quot;WHERE I'M CALLING FROM&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Where I'm Calling From is a compilation published in 1989 that includes the short story 'Neighbors'."</data>
+      <data key="d2">6bd26d409272a253ff8780ee7faa7aca</data>
+      <data key="d3">1</data>
+      <data key="d4">58</data>
+      <data key="d5">d54956b79dd147f894b67a8b97dcbef0</data>
+    </node>
+    <node id="&quot;SHORT CUTS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Short Cuts is a collection of short stories published in 1993 that includes 'Neighbors'."</data>
+      <data key="d2">6bd26d409272a253ff8780ee7faa7aca</data>
+      <data key="d3">1</data>
+      <data key="d4">59</data>
+      <data key="d5">958beecdb5bb4060948415ffd75d2b03</data>
+    </node>
+    <node id="&quot;RAYMOND CARVER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6bd26d409272a253ff8780ee7faa7aca</data>
+      <data key="d3">4</data>
+      <data key="d4">60</data>
+      <data key="d5">b999ed77e19e4f85b7f1ae79af5c002a</data>
+    </node>
+    <node id="&quot;NORTH RHINE-WESTPHALIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"North Rhine-Westphalia is a state in Germany where Wesel is located."</data>
+      <data key="d2">802911aa046efa4e4ab38d38c363cdd9</data>
+      <data key="d3">1</data>
+      <data key="d4">61</data>
+      <data key="d5">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+    </node>
+    <node id="&quot;BORKEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Borken is a neighboring district of Wesel."</data>
+      <data key="d2">802911aa046efa4e4ab38d38c363cdd9</data>
+      <data key="d3">1</data>
+      <data key="d4">62</data>
+      <data key="d5">4f3c97517f794ebfb49c4c6315f9cf23</data>
+    </node>
+    <node id="&quot;RECKLINGHAUSEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Recklinghausen is a neighboring district of Wesel."</data>
+      <data key="d2">802911aa046efa4e4ab38d38c363cdd9</data>
+      <data key="d3">1</data>
+      <data key="d4">63</data>
+      <data key="d5">1745a2485a9443bab76587ad650e9be0</data>
+    </node>
+    <node id="&quot;BOTTROP&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bottrop is a district-free city neighboring Wesel."</data>
+      <data key="d2">802911aa046efa4e4ab38d38c363cdd9</data>
+      <data key="d3">1</data>
+      <data key="d4">64</data>
+      <data key="d5">32e6ccab20d94029811127dbbe424c64</data>
+    </node>
+    <node id="&quot;OBERHAUSEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Oberhausen is a district-free city neighboring Wesel."</data>
+      <data key="d2">802911aa046efa4e4ab38d38c363cdd9</data>
+      <data key="d3">1</data>
+      <data key="d4">65</data>
+      <data key="d5">94a964c6992945ebb3833dfdfdc8d655</data>
+    </node>
+    <node id="&quot;DUISBURG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Duisburg is a district-free city neighboring Wesel."</data>
+      <data key="d2">802911aa046efa4e4ab38d38c363cdd9</data>
+      <data key="d3">1</data>
+      <data key="d4">66</data>
+      <data key="d5">1eb829d0ace042089f0746f78729696c</data>
+    </node>
+    <node id="&quot;KREFELD&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Krefeld is a district-free city neighboring Wesel."</data>
+      <data key="d2">802911aa046efa4e4ab38d38c363cdd9</data>
+      <data key="d3">1</data>
+      <data key="d4">67</data>
+      <data key="d5">015e7b58d1a14b44beab3bbc9f912c18</data>
+    </node>
+    <node id="&quot;VIERSEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Viersen is a neighboring district of Wesel."</data>
+      <data key="d2">802911aa046efa4e4ab38d38c363cdd9</data>
+      <data key="d3">1</data>
+      <data key="d4">68</data>
+      <data key="d5">26f88ab3e2e04c33a459ad6270ade565</data>
+    </node>
+    <node id="&quot;CLEVES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Cleves is a neighboring district of Wesel."</data>
+      <data key="d2">802911aa046efa4e4ab38d38c363cdd9</data>
+      <data key="d3">1</data>
+      <data key="d4">69</data>
+      <data key="d5">babe97e1d9784cffa1c85abc1e588126</data>
+    </node>
+    <node id="&quot;WESEL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">802911aa046efa4e4ab38d38c363cdd9</data>
+      <data key="d3">9</data>
+      <data key="d4">70</data>
+      <data key="d5">1033a18c45aa4584b2aef6ab96890351</data>
+    </node>
+    <node id="&quot;BICYCLING MAGAZINE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Bicycling magazine is a publication that evaluates and ranks cities for cycling, recognizing Boston's improvements."</data>
+      <data key="d2">88576cffede0f9f470499d2f0bd3121c</data>
+      <data key="d3">1</data>
+      <data key="d4">71</data>
+      <data key="d5">c9b8ce91fc2945b4907fe35519339cac</data>
+    </node>
+    <node id="&quot;HUBWAY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Hubway is a bikeshare program launched in Boston, logging over 140,000 rides in its first season."</data>
+      <data key="d2">88576cffede0f9f470499d2f0bd3121c</data>
+      <data key="d3">4</data>
+      <data key="d4">72</data>
+      <data key="d5">fa3c4204421c48609e52c8de2da4c654</data>
+    </node>
+    <node id="&quot;CAMBRIDGE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Cambridge is a neighboring municipality that joined the Hubway program in summer 2012."</data>
+      <data key="d2">88576cffede0f9f470499d2f0bd3121c</data>
+      <data key="d3">1</data>
+      <data key="d4">73</data>
+      <data key="d5">53af055f068244d0ac861b2e89376495</data>
+    </node>
+    <node id="&quot;SOMERVILLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Somerville is a neighboring municipality that joined the Hubway program in summer 2012."</data>
+      <data key="d2">88576cffede0f9f470499d2f0bd3121c</data>
+      <data key="d3">1</data>
+      <data key="d4">74</data>
+      <data key="d5">c03ab3ce8cb74ad2a03b94723bfab3c7</data>
+    </node>
+    <node id="&quot;BROOKLINE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Brookline is a neighboring municipality that joined the Hubway program in summer 2012."</data>
+      <data key="d2">88576cffede0f9f470499d2f0bd3121c</data>
+      <data key="d3">1</data>
+      <data key="d4">75</data>
+      <data key="d5">ed6d2eee9d7b4f5db466b1f6404d31cc</data>
+    </node>
+    <node id="&quot;BOSTON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">88576cffede0f9f470499d2f0bd3121c</data>
+      <data key="d3">2</data>
+      <data key="d4">76</data>
+      <data key="d5">fc01e9baa80e417c9206f941bb279407</data>
+    </node>
+    <node id="&quot;MECKLENBURG-VORPOMMERN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mecklenburg-Vorpommern is a state in eastern Germany where Ostvorpommern is located."</data>
+      <data key="d2">249b25bf8543ea6a0b31594ca23b6ddb</data>
+      <data key="d3">1</data>
+      <data key="d4">77</data>
+      <data key="d5">56d0e5ebe79e4814bd1463cf6ca21394</data>
+    </node>
+    <node id="&quot;UECKER-RANDOW&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Uecker-Randow is a neighboring district of Ostvorpommern."</data>
+      <data key="d2">249b25bf8543ea6a0b31594ca23b6ddb</data>
+      <data key="d3">1</data>
+      <data key="d4">78</data>
+      <data key="d5">7c49f2710e8b4d3b8dc9310834406ea5</data>
+    </node>
+    <node id="&quot;MECKLENBURG-STRELITZ&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mecklenburg-Strelitz is a neighboring district of Ostvorpommern."</data>
+      <data key="d2">249b25bf8543ea6a0b31594ca23b6ddb</data>
+      <data key="d3">1</data>
+      <data key="d4">79</data>
+      <data key="d5">c6d1e4f56c2843e89cf0b91c10bb6de2</data>
+    </node>
+    <node id="&quot;DEMMIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Demmin is a neighboring district of Ostvorpommern."</data>
+      <data key="d2">249b25bf8543ea6a0b31594ca23b6ddb</data>
+      <data key="d3">1</data>
+      <data key="d4">80</data>
+      <data key="d5">0adb2d9941f34ef7b2f7743cc6225844</data>
+    </node>
+    <node id="&quot;NORDVORPOMMERN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Nordvorpommern is a neighboring district of Ostvorpommern."</data>
+      <data key="d2">249b25bf8543ea6a0b31594ca23b6ddb</data>
+      <data key="d3">1</data>
+      <data key="d4">81</data>
+      <data key="d5">6b02373137fd438ba96af28f735cdbdb</data>
+    </node>
+    <node id="&quot;GREIFSWALD&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Greifswald is a Hanseatic city enclosed by the district of Ostvorpommern, but does not belong to it."</data>
+      <data key="d2">249b25bf8543ea6a0b31594ca23b6ddb</data>
+      <data key="d3">1</data>
+      <data key="d4">82</data>
+      <data key="d5">36a4fcd8efc144e6b8af9a1c7ab8b2ce</data>
+    </node>
+    <node id="&quot;OSTVORPOMMERN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">249b25bf8543ea6a0b31594ca23b6ddb</data>
+      <data key="d3">6</data>
+      <data key="d4">83</data>
+      <data key="d5">fbeef791d19b413a9c93c6608286ab63</data>
+    </node>
+    <node id="&quot;WESTERWALDKREIS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Westerwaldkreis is a neighboring district of Rhein-Lahn-Kreis."</data>
+      <data key="d2">73009875cd537846330863969b1f6069</data>
+      <data key="d3">1</data>
+      <data key="d4">84</data>
+      <data key="d5">d2b629c0396f4180a03e16ddf3818589</data>
+    </node>
+    <node id="&quot;LIMBURG-WEILBURG&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Limburg-Weilburg is a neighboring district of Rhein-Lahn-Kreis."</data>
+      <data key="d2">73009875cd537846330863969b1f6069</data>
+      <data key="d3">1</data>
+      <data key="d4">85</data>
+      <data key="d5">6102fc6619ed422ebc42588bfa97355d</data>
+    </node>
+    <node id="&quot;RHEINGAU-TAUNUS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Rheingau-Taunus is a neighboring district of Rhein-Lahn-Kreis."</data>
+      <data key="d2">73009875cd537846330863969b1f6069</data>
+      <data key="d3">1</data>
+      <data key="d4">86</data>
+      <data key="d5">8d141c0b80f74b79a05eed7fe161fe49</data>
+    </node>
+    <node id="&quot;MAINZ-BINGEN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Mainz-Bingen is a neighboring district of Rhein-Lahn-Kreis."</data>
+      <data key="d2">73009875cd537846330863969b1f6069</data>
+      <data key="d3">1</data>
+      <data key="d4">87</data>
+      <data key="d5">e22d1d1cd8d14f12b81828d940f40d70</data>
+    </node>
+    <node id="&quot;RHEIN-HUNSR&#220;CK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Rhein-Hunsr&#252;ck is a neighboring district of Rhein-Lahn-Kreis."</data>
+      <data key="d2">73009875cd537846330863969b1f6069</data>
+      <data key="d3">1</data>
+      <data key="d4">88</data>
+      <data key="d5">9ab48505fb1b487babd0d1f6d3a3f980</data>
+    </node>
+    <node id="&quot;MAYEN-KOBLENZ&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Mayen-Koblenz is a neighboring district of Rhein-Lahn-Kreis."</data>
+      <data key="d2">73009875cd537846330863969b1f6069</data>
+      <data key="d3">1</data>
+      <data key="d4">89</data>
+      <data key="d5">148fffeb994541b2b4b6dcefda7001a8</data>
+    </node>
+    <node id="&quot;KOBLENZ&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Koblenz is a district-free city in Rhineland-Palatinate, Germany."</data>
+      <data key="d2">73009875cd537846330863969b1f6069</data>
+      <data key="d3">1</data>
+      <data key="d4">90</data>
+      <data key="d5">89c08e793298442686292454a1abff31</data>
+    </node>
+    <node id="&quot;RHINELAND-PALATINATE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Rhineland-Palatinate is a state in Germany where Rhein-Lahn-Kreis is located."</data>
+      <data key="d2">73009875cd537846330863969b1f6069</data>
+      <data key="d3">1</data>
+      <data key="d4">91</data>
+      <data key="d5">0467928aa65e4a4fba62bdb1467e3a54</data>
+    </node>
+    <node id="&quot;RHEIN-LAHN-KREIS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">73009875cd537846330863969b1f6069</data>
+      <data key="d3">8</data>
+      <data key="d4">92</data>
+      <data key="d5">43c3390303c6476cb65f584e37c3e81c</data>
+    </node>
+    <node id="&quot;UNION COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Union County is a county in Arkansas, United States, where Junction City is located."</data>
+      <data key="d2">cf2746399c75135d7788e98c99184a1d</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">93</data>
+      <data key="d5">fa14b16c17e3417dba5a4b473ea5b18d</data>
+    </node>
+    <node id="&quot;ARKANSAS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arkansas is a state in the United States where Junction City is located."</data>
+      <data key="d2">cf2746399c75135d7788e98c99184a1d</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">94</data>
+      <data key="d5">7cc3356d38de4328a51a5cbcb187dac3</data>
+    </node>
+    <node id="&quot;JUNCTION CITY, LOUISIANA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Junction City, Louisiana is a neighboring city of Junction City, Arkansas."</data>
+      <data key="d2">cf2746399c75135d7788e98c99184a1d</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">1</data>
+      <data key="d4">95</data>
+      <data key="d5">bef16fb5fd7344cca5e295b13ef3e0cd</data>
+    </node>
+    <node id="&quot;JUNCTION CITY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">cf2746399c75135d7788e98c99184a1d</data>
+      <data key="d6">2</data>
+      <data key="d7">0</data>
+      <data key="d3">4</data>
+      <data key="d4">96</data>
+      <data key="d5">bb9e01bc171d4326a29afda59ece8d17</data>
+    </node>
+    <node id="&quot;SANAAG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Sanaag is a region in Somalia where Habarshiro is located."</data>
+      <data key="d2">94d9afe899550a3f5b127a05c95509fc</data>
+      <data key="d3">2</data>
+      <data key="d4">97</data>
+      <data key="d5">3c063eea52e94164b70c99431ea30bae</data>
+    </node>
+    <node id="&quot;EL BUH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"El Buh is a city near Habarshiro, approximately 50 kilometers away."</data>
+      <data key="d2">94d9afe899550a3f5b127a05c95509fc</data>
+      <data key="d3">1</data>
+      <data key="d4">98</data>
+      <data key="d5">252cc8452bfc4c2aa58cab68d8b61879</data>
+    </node>
+    <node id="&quot;SOMALIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Somalia is the country where Habarshiro and Sanaag are located."</data>
+      <data key="d2">94d9afe899550a3f5b127a05c95509fc</data>
+      <data key="d3">1</data>
+      <data key="d4">99</data>
+      <data key="d5">7e2c84548fb94ee395ba8588d8f2a006</data>
+    </node>
+    <node id="&quot;HABARSHIRO&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">94d9afe899550a3f5b127a05c95509fc</data>
+      <data key="d3">2</data>
+      <data key="d4">100</data>
+      <data key="d5">f034618dde7948beb6dab30176d0fc87</data>
+    </node>
+    <node id="&quot;AMERICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"America is the country where Robert O'Connor was born and is based."</data>
+      <data key="d2">202e4bcac45edb763708408732c33dcb</data>
+      <data key="d3">1</data>
+      <data key="d4">101</data>
+      <data key="d5">5c41f96be13e49dba649454297834546</data>
+    </node>
+    <node id="&quot;BUFFALO SOLDIERS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Buffalo Soldiers is a novel written by Robert O'Connor, which was adapted into a movie in 2001."</data>
+      <data key="d2">202e4bcac45edb763708408732c33dcb</data>
+      <data key="d3">1</data>
+      <data key="d4">102</data>
+      <data key="d5">7ea4afbf8a264f29af29950ce98105ba</data>
+    </node>
+    <node id="&quot;ROBERT O'CONNOR&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">202e4bcac45edb763708408732c33dcb</data>
+      <data key="d3">2</data>
+      <data key="d4">103</data>
+      <data key="d5">91ff849d12b24574b0691dbddf44968b</data>
+    </node>
+    <node id="&quot;BLANKENBERGE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Blankenberge is a coastal city in Belgium, comprising Uitkerke and other neighboring communities."</data>
+      <data key="d2">9473c043c0250752b2e977796ca67967</data>
+      <data key="d3">2</data>
+      <data key="d4">104</data>
+      <data key="d5">d73c1f2fb3094d8dace42ad2a76e9a52</data>
+    </node>
+    <node id="&quot;WEST FLANDERS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"West Flanders is a geographic region in Belgium where Uitkerke is located."</data>
+      <data key="d2">9473c043c0250752b2e977796ca67967</data>
+      <data key="d3">1</data>
+      <data key="d4">105</data>
+      <data key="d5">cdc8901e668749889bd49bebdc4ff1f6</data>
+    </node>
+    <node id="&quot;BELGIUM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Belgium is a country in which West Flanders, Blankenberge, and Uitkerke are located."</data>
+      <data key="d2">9473c043c0250752b2e977796ca67967</data>
+      <data key="d3">1</data>
+      <data key="d4">106</data>
+      <data key="d5">36084a9fab53433493f079e97e68bf65</data>
+    </node>
+    <node id="&quot;UITKERKE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9473c043c0250752b2e977796ca67967</data>
+      <data key="d3">2</data>
+      <data key="d4">107</data>
+      <data key="d5">eebcc7ec8e3e4df7aea83659bbdc2199</data>
+    </node>
+    <node id="&quot;DETROIT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Detroit is a city that elected Coleman Young as its first black mayor, with ongoing issues with regional transit planning and funding."</data>
+      <data key="d2">75eb49dcee982774d4df2e7de9321f3d</data>
+      <data key="d3">2</data>
+      <data key="d4">108</data>
+      <data key="d5">ceadf262ef834e9ab146b20650912cae</data>
+    </node>
+    <node id="&quot;FEDERAL GOVERNMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Federal Government offered $600 million for building a regional rapid transit system in Detroit."</data>
+      <data key="d2">75eb49dcee982774d4df2e7de9321f3d</data>
+      <data key="d3">1</data>
+      <data key="d4">109</data>
+      <data key="d5">7f65feab75424b53b24470d305ba331a</data>
+    </node>
+    <node id="&quot;DETROIT PEOPLE MOVER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Detroit People Mover is the elevated downtown circulator portion of the rapid transit system, constructed after the failure to reach an agreement on the larger system."</data>
+      <data key="d2">75eb49dcee982774d4df2e7de9321f3d</data>
+      <data key="d3">1</data>
+      <data key="d4">110</data>
+      <data key="d5">fd9cb733b28d420cb5cef01e545a132c</data>
+    </node>
+    <node id="&quot;COLEMAN YOUNG&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">75eb49dcee982774d4df2e7de9321f3d</data>
+      <data key="d3">2</data>
+      <data key="d4">111</data>
+      <data key="d5">0fbcca3f17c649a08aea64b5a7d9ef36</data>
+    </node>
+    <node id="&quot;GRORUD&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Grorud is a district in Oslo where R&#248;dtvet is located."</data>
+      <data key="d2">7b35e149feff758467a4bfb8d3fb37db</data>
+      <data key="d3">1</data>
+      <data key="d4">112</data>
+      <data key="d5">482027a59f32484c9c44fd700615c1b6</data>
+    </node>
+    <node id="&quot;OSLO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Oslo is the city where R&#248;dtvet and Grorud are located."</data>
+      <data key="d2">7b35e149feff758467a4bfb8d3fb37db</data>
+      <data key="d3">1</data>
+      <data key="d4">113</data>
+      <data key="d5">de837ff3d626451282ff6ac77a82216d</data>
+    </node>
+    <node id="&quot;LILLOMARKA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lillomarka is a forest neighboring R&#248;dtvet to the north."</data>
+      <data key="d2">7b35e149feff758467a4bfb8d3fb37db</data>
+      <data key="d3">1</data>
+      <data key="d4">114</data>
+      <data key="d5">460295fed3ae4cd39f9f274cec9c2506</data>
+    </node>
+    <node id="&quot;BREDTVET&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bredtvet is a residential area neighboring R&#248;dtvet to the south."</data>
+      <data key="d2">7b35e149feff758467a4bfb8d3fb37db</data>
+      <data key="d3">1</data>
+      <data key="d4">115</data>
+      <data key="d5">553b285bba60460ab1ed8341ae61282b</data>
+    </node>
+    <node id="&quot;KALBAKKEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Kalbakken is a residential area neighboring R&#248;dtvet to the south."</data>
+      <data key="d2">7b35e149feff758467a4bfb8d3fb37db</data>
+      <data key="d3">1</data>
+      <data key="d4">116</data>
+      <data key="d5">cec95bf17e7e4c939b56c9c6f402a29f</data>
+    </node>
+    <node id="&quot;FLAEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Flaen is a residential area neighboring R&#248;dtvet to the south."</data>
+      <data key="d2">7b35e149feff758467a4bfb8d3fb37db</data>
+      <data key="d3">1</data>
+      <data key="d4">117</data>
+      <data key="d5">599164aead034bc19446efacc77554d2</data>
+    </node>
+    <node id="&quot;NORDTVET&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Nordtvet is a residential area neighboring R&#248;dtvet to the south."</data>
+      <data key="d2">7b35e149feff758467a4bfb8d3fb37db</data>
+      <data key="d3">1</data>
+      <data key="d4">118</data>
+      <data key="d5">bbf148ae4d48422f8fdef754cfa2b9e4</data>
+    </node>
+    <node id="&quot;R&#216;DTVET&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7b35e149feff758467a4bfb8d3fb37db</data>
+      <data key="d3">7</data>
+      <data key="d4">119</data>
+      <data key="d5">de61b2670999433f807a6a1dc2b81e43</data>
+    </node>
+    <node id="&quot;MENASHA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Menasha is a city in Wisconsin where Connie Clausen was born."</data>
+      <data key="d2">33a38ec42ebaf0b1dd75c8b216aa323c</data>
+      <data key="d3">1</data>
+      <data key="d4">120</data>
+      <data key="d5">3e95dacfe57b4d57b5da4310ef2e157f</data>
+    </node>
+    <node id="&quot;CONNIE CLAUSEN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">33a38ec42ebaf0b1dd75c8b216aa323c</data>
+      <data key="d3">2</data>
+      <data key="d4">121</data>
+      <data key="d5">1f1545308e9347af91fd03b94aadc21f</data>
+    </node>
+    <node id="&quot;QWEST BUILDING&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Qwest Building is a previous name of the CenturyLink Building, indicating a change in ownership or naming convention."</data>
+      <data key="d2">b344d0468d69cf04833d79d8de5cd84d</data>
+      <data key="d3">1</data>
+      <data key="d4">122</data>
+      <data key="d5">6ea81acaf232485e94fff638e03336e1</data>
+    </node>
+    <node id="&quot;NORTHWESTERN BELL TELEPHONE BUILDING&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Northwestern Bell Telephone Building is another previous name of the CenturyLink Building, suggesting a historical significance."</data>
+      <data key="d2">b344d0468d69cf04833d79d8de5cd84d</data>
+      <data key="d3">1</data>
+      <data key="d4">123</data>
+      <data key="d5">d136b08d586d488f9e4188b524c85a29</data>
+    </node>
+    <node id="&quot;FOSHAY TOWER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Foshay Tower is a nearby building in Minneapolis, Minnesota, and was previously the tallest building in the city before being surpassed by the CenturyLink Building."</data>
+      <data key="d2">b344d0468d69cf04833d79d8de5cd84d</data>
+      <data key="d3">0</data>
+      <data key="d4">124</data>
+      <data key="d5">cccfa151fedc4b218a8d96adc7dceabe</data>
+    </node>
+    <node id="&quot;MINNEAPOLIS CITY HALL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Minneapolis City Hall is a neighboring building of the CenturyLink Building, with a slightly shorter tower."</data>
+      <data key="d2">b344d0468d69cf04833d79d8de5cd84d</data>
+      <data key="d3">0</data>
+      <data key="d4">125</data>
+      <data key="d5">ce54725672a74ebcabe6127577dacb2b</data>
+    </node>
+    <node id="&quot;CENTURYLINK BUILDING&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b344d0468d69cf04833d79d8de5cd84d</data>
+      <data key="d3">3</data>
+      <data key="d4">126</data>
+      <data key="d5">ea2b28ca1a974ffab4517811dc1d1e5c</data>
+    </node>
+    <node id="&quot;MINNEAPOLIS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b344d0468d69cf04833d79d8de5cd84d</data>
+      <data key="d3">1</data>
+      <data key="d4">127</data>
+      <data key="d5">aff21f1da1654e7babdcf3fb0e4a75fc</data>
+    </node>
+    <node id="&quot;OSABE SHUNJIR&#332;&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Osabe Shunjir&#333; is a Japanese author of fiction and essays, born on May 28, 1932."</data>
+      <data key="d2">06b9694bdc2c5b6aad8f525c93eeca0a</data>
+      <data key="d3">2</data>
+      <data key="d4">128</data>
+      <data key="d5">dc2cc9016e3f49dbac7232f05cce794d</data>
+    </node>
+    <node id="&quot;JAPAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Japan is the country where Osabe Shunjir&#333; was born and is associated with his identity as a Japanese author."</data>
+      <data key="d2">06b9694bdc2c5b6aad8f525c93eeca0a</data>
+      <data key="d3">1</data>
+      <data key="d4">129</data>
+      <data key="d5">6ea0cef05f694dcea455478f40674e45</data>
+    </node>
+    <node id="&quot;KUROI SENJI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">06b9694bdc2c5b6aad8f525c93eeca0a</data>
+      <data key="d3">1</data>
+      <data key="d4">130</data>
+      <data key="d5">7ab5d53a872f4dfc98f3d386879f3c75</data>
+    </node>
+    <edge source="&quot;PRETTY TONY&quot;" target="&quot;MIAMI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Pretty Tony originated in Miami."</data>
+      <data key="d10">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d11">af1d0fec22114a3398b8016f5225f9ed</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DEBBIE DEB&quot;" target="&quot;MIAMI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Debbie Deb originated in Miami."</data>
+      <data key="d10">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d11">b07a7f088364459098cd8511ff27a4c8</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;STEVIE B&quot;" target="&quot;MIAMI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Stevie B originated in Miami."</data>
+      <data key="d10">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d11">8870cf2b5df64d2cab5820f67e29b9f1</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;EXPOS&#201;&quot;" target="&quot;MIAMI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Expos&#233; originated in Miami."</data>
+      <data key="d10">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d11">cd130938a2844050be991af70baf5ee0</data>
+      <data key="d12">3</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CAT POWER&quot;" target="&quot;MIAMI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Cat Power is based in Miami."</data>
+      <data key="d10">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d11">43544b99c3b04b059546198a0ae6366d</data>
+      <data key="d12">4</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;IRON &amp; WINE&quot;" target="&quot;MIAMI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Iron &amp; Wine is based in Miami."</data>
+      <data key="d10">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d11">a671bf7fea2f4514b6e96ba99127fafd</data>
+      <data key="d12">5</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SAGE FRANCIS&quot;" target="&quot;MIAMI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Sage Francis was born in Miami."</data>
+      <data key="d10">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d11">525f41ea20274a05af4e52b625b473f3</data>
+      <data key="d12">6</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UFFIE&quot;" target="&quot;MIAMI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Uffie was born in Miami."</data>
+      <data key="d10">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d11">071a416efbec4f0886c19ac68f6d43cb</data>
+      <data key="d12">7</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AVENUE D&quot;" target="&quot;MIAMI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Avenue D was born in Miami."</data>
+      <data key="d10">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d11">6d8473ef3b1042bf87178a611e3dbcc6</data>
+      <data key="d12">8</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AGAINST ALL AUTHORITY&quot;" target="&quot;MIAMI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Against All Authority is from Miami."</data>
+      <data key="d10">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d11">30c9641543c24773938bd8ec57ea98ab</data>
+      <data key="d12">9</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NONPOINT&quot;" target="&quot;FORT LAUDERDALE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Nonpoint formed in neighboring Fort Lauderdale."</data>
+      <data key="d10">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d11">18b839da898e4026b81727d759d95c6a</data>
+      <data key="d12">10</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MARILYN MANSON&quot;" target="&quot;FORT LAUDERDALE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Marilyn Manson formed his band in neighboring Fort Lauderdale."</data>
+      <data key="d10">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d11">eeef6ae5c464400c8755900b4f1ac37a</data>
+      <data key="d12">11</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ANA CRISTINA&quot;" target="&quot;MIAMI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ana Cristina was born in Miami."</data>
+      <data key="d10">24de4ec9bd8d50c51f4172ae1005de79</data>
+      <data key="d11">422433aa45804c7ebb973b2fafce5da6</data>
+      <data key="d12">12</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is the county seat of Pima County."</data>
+      <data key="d10">06b9694bdc2c5b6aad8f525c93eeca0a,1c9a0ae8cc313ffa8c3cd7b37b41ad1e,202e4bcac45edb763708408732c33dcb,249b25bf8543ea6a0b31594ca23b6ddb,24de4ec9bd8d50c51f4172ae1005de79,33a38ec42ebaf0b1dd75c8b216aa323c,5380626d570496e8c0eb973f5ad2cd0e,54a28125caad375216cf41c8b6f71b9b,6bd26d409272a253ff8780ee7faa7aca,73009875cd537846330863969b1f6069,75eb49dcee982774d4df2e7de9321f3d,7b35e149feff758467a4bfb8d3fb37db,802911aa046efa4e4ab38d38c363cdd9,88576cffede0f9f470499d2f0bd3121c,9473c043c0250752b2e977796ca67967,94d9afe899550a3f5b127a05c95509fc,aca9b518e676861e8aa92cce9ddf409e,b344d0468d69cf04833d79d8de5cd84d,cf2746399c75135d7788e98c99184a1d,e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d11">86505bca739d4bccaaa1a8e0f3baffdc</data>
+      <data key="d12">13</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Pima County is a county in Arizona."</data>
+      <data key="d10">06b9694bdc2c5b6aad8f525c93eeca0a,1c9a0ae8cc313ffa8c3cd7b37b41ad1e,202e4bcac45edb763708408732c33dcb,249b25bf8543ea6a0b31594ca23b6ddb,24de4ec9bd8d50c51f4172ae1005de79,33a38ec42ebaf0b1dd75c8b216aa323c,5380626d570496e8c0eb973f5ad2cd0e,54a28125caad375216cf41c8b6f71b9b,6bd26d409272a253ff8780ee7faa7aca,73009875cd537846330863969b1f6069,75eb49dcee982774d4df2e7de9321f3d,7b35e149feff758467a4bfb8d3fb37db,802911aa046efa4e4ab38d38c363cdd9,88576cffede0f9f470499d2f0bd3121c,9473c043c0250752b2e977796ca67967,94d9afe899550a3f5b127a05c95509fc,aca9b518e676861e8aa92cce9ddf409e,b344d0468d69cf04833d79d8de5cd84d,cf2746399c75135d7788e98c99184a1d,e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d11">1af9faf341e14a5bbf4ddc9080e8dc0b</data>
+      <data key="d12">14</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The University of Arizona is located in Tucson."</data>
+      <data key="d10">06b9694bdc2c5b6aad8f525c93eeca0a,1c9a0ae8cc313ffa8c3cd7b37b41ad1e,202e4bcac45edb763708408732c33dcb,249b25bf8543ea6a0b31594ca23b6ddb,24de4ec9bd8d50c51f4172ae1005de79,33a38ec42ebaf0b1dd75c8b216aa323c,5380626d570496e8c0eb973f5ad2cd0e,54a28125caad375216cf41c8b6f71b9b,6bd26d409272a253ff8780ee7faa7aca,73009875cd537846330863969b1f6069,75eb49dcee982774d4df2e7de9321f3d,7b35e149feff758467a4bfb8d3fb37db,802911aa046efa4e4ab38d38c363cdd9,88576cffede0f9f470499d2f0bd3121c,9473c043c0250752b2e977796ca67967,94d9afe899550a3f5b127a05c95509fc,aca9b518e676861e8aa92cce9ddf409e,b344d0468d69cf04833d79d8de5cd84d,cf2746399c75135d7788e98c99184a1d,e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d11">353d91abc68648639d65a549e59b5cf3</data>
+      <data key="d12">15</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Arizona is a state in the United States."</data>
+      <data key="d10">06b9694bdc2c5b6aad8f525c93eeca0a,1c9a0ae8cc313ffa8c3cd7b37b41ad1e,202e4bcac45edb763708408732c33dcb,249b25bf8543ea6a0b31594ca23b6ddb,24de4ec9bd8d50c51f4172ae1005de79,33a38ec42ebaf0b1dd75c8b216aa323c,5380626d570496e8c0eb973f5ad2cd0e,54a28125caad375216cf41c8b6f71b9b,6bd26d409272a253ff8780ee7faa7aca,73009875cd537846330863969b1f6069,75eb49dcee982774d4df2e7de9321f3d,7b35e149feff758467a4bfb8d3fb37db,802911aa046efa4e4ab38d38c363cdd9,88576cffede0f9f470499d2f0bd3121c,9473c043c0250752b2e977796ca67967,94d9afe899550a3f5b127a05c95509fc,aca9b518e676861e8aa92cce9ddf409e,b344d0468d69cf04833d79d8de5cd84d,cf2746399c75135d7788e98c99184a1d,e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d11">7ce637e4f35b42e3a9f8272cab69cd22</data>
+      <data key="d12">16</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is a city in Arizona."</data>
+      <data key="d10">06b9694bdc2c5b6aad8f525c93eeca0a,1c9a0ae8cc313ffa8c3cd7b37b41ad1e,202e4bcac45edb763708408732c33dcb,249b25bf8543ea6a0b31594ca23b6ddb,24de4ec9bd8d50c51f4172ae1005de79,33a38ec42ebaf0b1dd75c8b216aa323c,5380626d570496e8c0eb973f5ad2cd0e,54a28125caad375216cf41c8b6f71b9b,6bd26d409272a253ff8780ee7faa7aca,73009875cd537846330863969b1f6069,75eb49dcee982774d4df2e7de9321f3d,7b35e149feff758467a4bfb8d3fb37db,802911aa046efa4e4ab38d38c363cdd9,88576cffede0f9f470499d2f0bd3121c,9473c043c0250752b2e977796ca67967,94d9afe899550a3f5b127a05c95509fc,aca9b518e676861e8aa92cce9ddf409e,b344d0468d69cf04833d79d8de5cd84d,cf2746399c75135d7788e98c99184a1d,e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d11">4d999d7744b04a998475f8f8531589f0</data>
+      <data key="d12">17</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Phoenix is a city in Arizona."</data>
+      <data key="d10">06b9694bdc2c5b6aad8f525c93eeca0a,1c9a0ae8cc313ffa8c3cd7b37b41ad1e,202e4bcac45edb763708408732c33dcb,249b25bf8543ea6a0b31594ca23b6ddb,24de4ec9bd8d50c51f4172ae1005de79,33a38ec42ebaf0b1dd75c8b216aa323c,5380626d570496e8c0eb973f5ad2cd0e,54a28125caad375216cf41c8b6f71b9b,6bd26d409272a253ff8780ee7faa7aca,73009875cd537846330863969b1f6069,75eb49dcee982774d4df2e7de9321f3d,7b35e149feff758467a4bfb8d3fb37db,802911aa046efa4e4ab38d38c363cdd9,88576cffede0f9f470499d2f0bd3121c,9473c043c0250752b2e977796ca67967,94d9afe899550a3f5b127a05c95509fc,aca9b518e676861e8aa92cce9ddf409e,b344d0468d69cf04833d79d8de5cd84d,cf2746399c75135d7788e98c99184a1d,e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d11">9a6f414210e14841a5b0e661aedc898d</data>
+      <data key="d12">18</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;JUNCTION CITY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Junction City is located in the United States."</data>
+      <data key="d10">cf2746399c75135d7788e98c99184a1d</data>
+      <data key="d11">db541b7260974db8bac94e953009f60e</data>
+      <data key="d12">19</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d10">06b9694bdc2c5b6aad8f525c93eeca0a,1c9a0ae8cc313ffa8c3cd7b37b41ad1e,202e4bcac45edb763708408732c33dcb,249b25bf8543ea6a0b31594ca23b6ddb,24de4ec9bd8d50c51f4172ae1005de79,33a38ec42ebaf0b1dd75c8b216aa323c,5380626d570496e8c0eb973f5ad2cd0e,54a28125caad375216cf41c8b6f71b9b,6bd26d409272a253ff8780ee7faa7aca,73009875cd537846330863969b1f6069,75eb49dcee982774d4df2e7de9321f3d,7b35e149feff758467a4bfb8d3fb37db,802911aa046efa4e4ab38d38c363cdd9,88576cffede0f9f470499d2f0bd3121c,9473c043c0250752b2e977796ca67967,94d9afe899550a3f5b127a05c95509fc,aca9b518e676861e8aa92cce9ddf409e,b344d0468d69cf04833d79d8de5cd84d,cf2746399c75135d7788e98c99184a1d,e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d11">f2ff8044718648e18acef16dd9a65436</data>
+      <data key="d12">20</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Mexico shares an international border with the United States."</data>
+      <data key="d10">06b9694bdc2c5b6aad8f525c93eeca0a,1c9a0ae8cc313ffa8c3cd7b37b41ad1e,202e4bcac45edb763708408732c33dcb,249b25bf8543ea6a0b31594ca23b6ddb,24de4ec9bd8d50c51f4172ae1005de79,33a38ec42ebaf0b1dd75c8b216aa323c,5380626d570496e8c0eb973f5ad2cd0e,54a28125caad375216cf41c8b6f71b9b,6bd26d409272a253ff8780ee7faa7aca,73009875cd537846330863969b1f6069,75eb49dcee982774d4df2e7de9321f3d,7b35e149feff758467a4bfb8d3fb37db,802911aa046efa4e4ab38d38c363cdd9,88576cffede0f9f470499d2f0bd3121c,9473c043c0250752b2e977796ca67967,94d9afe899550a3f5b127a05c95509fc,aca9b518e676861e8aa92cce9ddf409e,b344d0468d69cf04833d79d8de5cd84d,cf2746399c75135d7788e98c99184a1d,e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d11">00d785e7d76b47ec81b508e768d40584</data>
+      <data key="d12">21</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d10">06b9694bdc2c5b6aad8f525c93eeca0a,1c9a0ae8cc313ffa8c3cd7b37b41ad1e,202e4bcac45edb763708408732c33dcb,249b25bf8543ea6a0b31594ca23b6ddb,24de4ec9bd8d50c51f4172ae1005de79,33a38ec42ebaf0b1dd75c8b216aa323c,5380626d570496e8c0eb973f5ad2cd0e,54a28125caad375216cf41c8b6f71b9b,6bd26d409272a253ff8780ee7faa7aca,73009875cd537846330863969b1f6069,75eb49dcee982774d4df2e7de9321f3d,7b35e149feff758467a4bfb8d3fb37db,802911aa046efa4e4ab38d38c363cdd9,88576cffede0f9f470499d2f0bd3121c,9473c043c0250752b2e977796ca67967,94d9afe899550a3f5b127a05c95509fc,aca9b518e676861e8aa92cce9ddf409e,b344d0468d69cf04833d79d8de5cd84d,cf2746399c75135d7788e98c99184a1d,e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d11">87915637da3e474c9349bd0ae604bd95</data>
+      <data key="d12">22</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TO KILL A MOCKINGBIRD&quot;" target="&quot;HARPER LEE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Harper Lee is the author of To Kill a Mockingbird."</data>
+      <data key="d10">e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d11">8f1eba29f39e411188200bf0d14628ec</data>
+      <data key="d12">23</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TO KILL A MOCKINGBIRD&quot;" target="&quot;1936 EVENT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The 1936 event inspired elements of Harper Lee's novel To Kill a Mockingbird."</data>
+      <data key="d10">e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d11">7282c73622b8408e97289d959faff483</data>
+      <data key="d12">24</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PULITZER PRIZE&quot;" target="&quot;HARPER LEE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Harper Lee won the Pulitzer Prize for her novel To Kill a Mockingbird."</data>
+      <data key="d10">e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d11">3deb220d31f74103aa44870a36a63220</data>
+      <data key="d12">25</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;1936 EVENT&quot;" target="&quot;HARPER LEE'S HOMETOWN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The 1936 event occurred near Harper Lee's hometown."</data>
+      <data key="d10">e71ded813a799f955e7bc5405b7bb574</data>
+      <data key="d11">af7a1584dd15492cb9a4940e285f57fc</data>
+      <data key="d12">26</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JURCHEN JIN DYNASTY&quot;" target="&quot;NORTH CHINA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Jurchen Jin dynasty took control of North China in 1127, marking a shift in power dynamics."</data>
+      <data key="d10">1c9a0ae8cc313ffa8c3cd7b37b41ad1e</data>
+      <data key="d11">6e8d9029ce4e4ea182367173ab2c7bbf</data>
+      <data key="d12">27</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;YUAN DYNASTY&quot;" target="&quot;HANGZHOU&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Yuan dynasty ended Hangzhou's political clout but allowed its economy to continue prospering."</data>
+      <data key="d10">1c9a0ae8cc313ffa8c3cd7b37b41ad1e</data>
+      <data key="d11">cbf232211e7d4eb6abdbe182f71c2cf0</data>
+      <data key="d12">28</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MARCO POLO&quot;" target="&quot;HANGZHOU&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Marco Polo visited Hangzhou and described it as the finest and noblest city in the world."</data>
+      <data key="d10">1c9a0ae8cc313ffa8c3cd7b37b41ad1e</data>
+      <data key="d11">bb0cff774a4440b289cc6f3b929fe13c</data>
+      <data key="d12">29</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HANGZHOU&quot;" target="&quot;SONG DYNASTY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hangzhou was an important city during the Song dynasty, serving as the capital of the Southern Song."</data>
+      <data key="d10">1c9a0ae8cc313ffa8c3cd7b37b41ad1e</data>
+      <data key="d11">ce55841ebfdd47008bab8c258f10372e</data>
+      <data key="d12">30</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CLATSKANIE&quot;" target="&quot;CARVER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Carver was born in Clatskanie."</data>
+      <data key="d10">54a28125caad375216cf41c8b6f71b9b</data>
+      <data key="d11">6090e736374d45fd84f0e4610a314f8f</data>
+      <data key="d12">31</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;YAKIMA&quot;" target="&quot;CARVER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Carver grew up in Yakima."</data>
+      <data key="d10">54a28125caad375216cf41c8b6f71b9b</data>
+      <data key="d11">0e8d921ccd8d4a8594b65b7fd19f7120</data>
+      <data key="d12">32</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ELLA BEATRICE (N&#201;E CASEY)&quot;" target="&quot;CARVER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ella Beatrice (n&#233;e Casey) is Carver's mother."</data>
+      <data key="d10">54a28125caad375216cf41c8b6f71b9b</data>
+      <data key="d11">59c726a8792d443e84ab052cb7942b4a</data>
+      <data key="d12">33</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CLEVIE RAYMOND CARVER&quot;" target="&quot;CARVER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Clevie Raymond Carver is Carver's father."</data>
+      <data key="d10">54a28125caad375216cf41c8b6f71b9b</data>
+      <data key="d11">4f2c665decf242b0bfcaf7350b0e02ed</data>
+      <data key="d12">34</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JAMES FRANKLIN CARVER&quot;" target="&quot;CARVER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"James Franklin Carver is Carver's brother."</data>
+      <data key="d10">54a28125caad375216cf41c8b6f71b9b</data>
+      <data key="d11">66cdf168f36d4a57a505028c97dc06e0</data>
+      <data key="d12">35</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;EDWARD CHAIKEN&quot;" target="&quot;SIMI LINTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Simi Linton is the child of Edward Chaiken."</data>
+      <data key="d10">aca9b518e676861e8aa92cce9ddf409e</data>
+      <data key="d11">38f51478f41f48db9bee570859b6f43e</data>
+      <data key="d12">36</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AUGUSTA LONGWILL CHAIKEN&quot;" target="&quot;SIMI LINTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Simi Linton is the child of Augusta Longwill Chaiken."</data>
+      <data key="d10">aca9b518e676861e8aa92cce9ddf409e</data>
+      <data key="d11">896d2a51e8de47de85ba8ced108c3d53</data>
+      <data key="d12">37</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NEW YORK CITY&quot;" target="&quot;SIMI LINTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Simi Linton was born and raised in New York City."</data>
+      <data key="d10">aca9b518e676861e8aa92cce9ddf409e</data>
+      <data key="d11">14555b518e954637b83aa762dc03164e</data>
+      <data key="d12">38</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NEW YORK CITY&quot;" target="&quot;CONNIE CLAUSEN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Connie Clausen died in New York City."</data>
+      <data key="d10">33a38ec42ebaf0b1dd75c8b216aa323c</data>
+      <data key="d11">b1f6164116d44fe8b8f135d7f65b9e58</data>
+      <data key="d12">39</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ESQUIRE MAGAZINE&quot;" target="&quot;RAYMOND CARVER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Raymond Carver's short story 'Neighbors' was first published in Esquire magazine."</data>
+      <data key="d10">6bd26d409272a253ff8780ee7faa7aca</data>
+      <data key="d11">c8b2408617804483b620e1a6691ac90d</data>
+      <data key="d12">40</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WILL YOU PLEASE BE QUIET, PLEASE?&quot;" target="&quot;RAYMOND CARVER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Raymond Carver's short story 'Neighbors' is included in the collection Will You Please Be Quiet, Please?."&gt;</data>
+      <data key="d10">6bd26d409272a253ff8780ee7faa7aca</data>
+      <data key="d11">a5e0d1644eb547ba9a5c3211aac4631a</data>
+      <data key="d12">41</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WHERE I'M CALLING FROM&quot;" target="&quot;RAYMOND CARVER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Raymond Carver's short story 'Neighbors' is included in the compilation Where I'm Calling From."</data>
+      <data key="d10">6bd26d409272a253ff8780ee7faa7aca</data>
+      <data key="d11">5a28b94bc63b44edb30c54748fd14f15</data>
+      <data key="d12">42</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SHORT CUTS&quot;" target="&quot;RAYMOND CARVER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Raymond Carver's short story 'Neighbors' is included in the collection Short Cuts."</data>
+      <data key="d10">6bd26d409272a253ff8780ee7faa7aca</data>
+      <data key="d11">f97011b2a99d44648e18d517e1eae15c</data>
+      <data key="d12">43</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NORTH RHINE-WESTPHALIA&quot;" target="&quot;WESEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Wesel is located in North Rhine-Westphalia."</data>
+      <data key="d10">802911aa046efa4e4ab38d38c363cdd9</data>
+      <data key="d11">35489ca6a63b47d6a8913cf333818bc1</data>
+      <data key="d12">44</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BORKEN&quot;" target="&quot;WESEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Wesel and Borken are neighboring districts."</data>
+      <data key="d10">802911aa046efa4e4ab38d38c363cdd9</data>
+      <data key="d11">5d3344f45e654d2c808481672f2f08dd</data>
+      <data key="d12">45</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;RECKLINGHAUSEN&quot;" target="&quot;WESEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Wesel and Recklinghausen are neighboring districts."</data>
+      <data key="d10">802911aa046efa4e4ab38d38c363cdd9</data>
+      <data key="d11">6fb57f83baec45c9b30490ee991f433f</data>
+      <data key="d12">46</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BOTTROP&quot;" target="&quot;WESEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Wesel and Bottrop are neighboring entities, with Bottrop being a district-free city."</data>
+      <data key="d10">802911aa046efa4e4ab38d38c363cdd9</data>
+      <data key="d11">68762e6f0d1c41cd857c6b964a8e76c3</data>
+      <data key="d12">47</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OBERHAUSEN&quot;" target="&quot;WESEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Wesel and Oberhausen are neighboring entities, with Oberhausen being a district-free city."</data>
+      <data key="d10">802911aa046efa4e4ab38d38c363cdd9</data>
+      <data key="d11">70634e10a5e845aa8c6a32fe7e8eb2b2</data>
+      <data key="d12">48</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DUISBURG&quot;" target="&quot;WESEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Wesel and Duisburg are neighboring entities, with Duisburg being a district-free city."</data>
+      <data key="d10">802911aa046efa4e4ab38d38c363cdd9</data>
+      <data key="d11">04085f7cf46544b79597fc49286ff84d</data>
+      <data key="d12">49</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;KREFELD&quot;" target="&quot;WESEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Wesel and Krefeld are neighboring entities, with Krefeld being a district-free city."</data>
+      <data key="d10">802911aa046efa4e4ab38d38c363cdd9</data>
+      <data key="d11">d203efdbfb2f4b2a899abfb31cf72e82</data>
+      <data key="d12">50</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VIERSEN&quot;" target="&quot;WESEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Wesel and Viersen are neighboring districts."</data>
+      <data key="d10">802911aa046efa4e4ab38d38c363cdd9</data>
+      <data key="d11">6731a665561840c2898ce8c9788e4c88</data>
+      <data key="d12">51</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CLEVES&quot;" target="&quot;WESEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Wesel and Cleves are neighboring districts."</data>
+      <data key="d10">802911aa046efa4e4ab38d38c363cdd9</data>
+      <data key="d11">4026806fa92f4e849a59a7f5c9a45c79</data>
+      <data key="d12">52</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BICYCLING MAGAZINE&quot;" target="&quot;BOSTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Boston has been evaluated and ranked by Bicycling magazine for its cycling conditions."</data>
+      <data key="d10">88576cffede0f9f470499d2f0bd3121c</data>
+      <data key="d11">68e0c60d2e8845d89d9d0ad397833648</data>
+      <data key="d12">53</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HUBWAY&quot;" target="&quot;BOSTON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hubway is a bikeshare program launched in Boston, indicating a strong connection between the two."</data>
+      <data key="d10">88576cffede0f9f470499d2f0bd3121c</data>
+      <data key="d11">101572f552b54e529fe7765c05168981</data>
+      <data key="d12">54</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HUBWAY&quot;" target="&quot;CAMBRIDGE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Cambridge joined the Hubway program, expanding its reach beyond Boston."</data>
+      <data key="d10">88576cffede0f9f470499d2f0bd3121c</data>
+      <data key="d11">60c58026b2764b40adffca6eaa31d6d9</data>
+      <data key="d12">55</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HUBWAY&quot;" target="&quot;SOMERVILLE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Somerville joined the Hubway program, expanding its reach beyond Boston."</data>
+      <data key="d10">88576cffede0f9f470499d2f0bd3121c</data>
+      <data key="d11">ad1595a78935472999444c9330e7730e</data>
+      <data key="d12">56</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HUBWAY&quot;" target="&quot;BROOKLINE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Brookline joined the Hubway program, expanding its reach beyond Boston."</data>
+      <data key="d10">88576cffede0f9f470499d2f0bd3121c</data>
+      <data key="d11">735d19aea0744b2295556841c5c4c3fd</data>
+      <data key="d12">57</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MECKLENBURG-VORPOMMERN&quot;" target="&quot;OSTVORPOMMERN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ostvorpommern is located in Mecklenburg-Vorpommern."</data>
+      <data key="d10">249b25bf8543ea6a0b31594ca23b6ddb</data>
+      <data key="d11">c725babdb14a485582f8fbdf95429030</data>
+      <data key="d12">58</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UECKER-RANDOW&quot;" target="&quot;OSTVORPOMMERN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ostvorpommern shares a border with Uecker-Randow."</data>
+      <data key="d10">249b25bf8543ea6a0b31594ca23b6ddb</data>
+      <data key="d11">a0047221896d418d849847d422fa4bb8</data>
+      <data key="d12">59</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MECKLENBURG-STRELITZ&quot;" target="&quot;OSTVORPOMMERN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ostvorpommern shares a border with Mecklenburg-Strelitz."</data>
+      <data key="d10">249b25bf8543ea6a0b31594ca23b6ddb</data>
+      <data key="d11">98fc2ee593184c5a839454db4eec7013</data>
+      <data key="d12">60</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DEMMIN&quot;" target="&quot;OSTVORPOMMERN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ostvorpommern shares a border with Demmin."</data>
+      <data key="d10">249b25bf8543ea6a0b31594ca23b6ddb</data>
+      <data key="d11">80020a1da63042459e00266b2a605452</data>
+      <data key="d12">61</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NORDVORPOMMERN&quot;" target="&quot;OSTVORPOMMERN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ostvorpommern shares a border with Nordvorpommern."</data>
+      <data key="d10">249b25bf8543ea6a0b31594ca23b6ddb</data>
+      <data key="d11">31a7e680c4d54101afe4c8d52d246913</data>
+      <data key="d12">62</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GREIFSWALD&quot;" target="&quot;OSTVORPOMMERN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Greifswald is enclosed by the district of Ostvorpommern, but does not belong to it."</data>
+      <data key="d10">249b25bf8543ea6a0b31594ca23b6ddb</data>
+      <data key="d11">351abba16e5c448994c6daf48121b14d</data>
+      <data key="d12">63</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WESTERWALDKREIS&quot;" target="&quot;RHEIN-LAHN-KREIS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Rhein-Lahn-Kreis and Westerwaldkreis are neighboring districts."</data>
+      <data key="d10">73009875cd537846330863969b1f6069</data>
+      <data key="d11">50ea7d3b69614bcdbfbff7ddbfbf3d34</data>
+      <data key="d12">64</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LIMBURG-WEILBURG&quot;" target="&quot;RHEIN-LAHN-KREIS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Rhein-Lahn-Kreis and Limburg-Weilburg are neighboring districts."</data>
+      <data key="d10">73009875cd537846330863969b1f6069</data>
+      <data key="d11">004f40a5aeca48a1879db728eb12bcba</data>
+      <data key="d12">65</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;RHEINGAU-TAUNUS&quot;" target="&quot;RHEIN-LAHN-KREIS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Rhein-Lahn-Kreis and Rheingau-Taunus are neighboring districts."</data>
+      <data key="d10">73009875cd537846330863969b1f6069</data>
+      <data key="d11">4465efb7f6ed4dedad72a658184addd2</data>
+      <data key="d12">66</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MAINZ-BINGEN&quot;" target="&quot;RHEIN-LAHN-KREIS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Rhein-Lahn-Kreis and Mainz-Bingen are neighboring districts."</data>
+      <data key="d10">73009875cd537846330863969b1f6069</data>
+      <data key="d11">b0dd60e11dad4ff782623acf039b3948</data>
+      <data key="d12">67</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;RHEIN-HUNSR&#220;CK&quot;" target="&quot;RHEIN-LAHN-KREIS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Rhein-Lahn-Kreis and Rhein-Hunsr&#252;ck are neighboring districts."</data>
+      <data key="d10">73009875cd537846330863969b1f6069</data>
+      <data key="d11">db8c43fa4df947b09e5754d3b1393ead</data>
+      <data key="d12">68</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MAYEN-KOBLENZ&quot;" target="&quot;RHEIN-LAHN-KREIS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Rhein-Lahn-Kreis and Mayen-Koblenz are neighboring districts."</data>
+      <data key="d10">73009875cd537846330863969b1f6069</data>
+      <data key="d11">5dabc4cd05da425cb194a04482bf0c29</data>
+      <data key="d12">69</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;KOBLENZ&quot;" target="&quot;RHEIN-LAHN-KREIS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Rhein-Lahn-Kreis is located near the district-free city of Koblenz."</data>
+      <data key="d10">73009875cd537846330863969b1f6069</data>
+      <data key="d11">9d08f285a7be4c79b8f359c51d51db37</data>
+      <data key="d12">70</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;RHINELAND-PALATINATE&quot;" target="&quot;RHEIN-LAHN-KREIS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Rhein-Lahn-Kreis is a district in Rhineland-Palatinate."</data>
+      <data key="d10">73009875cd537846330863969b1f6069</data>
+      <data key="d11">adffed660d154b519c1817e514e83096</data>
+      <data key="d12">71</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNION COUNTY&quot;" target="&quot;JUNCTION CITY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Junction City is located in Union County."</data>
+      <data key="d10">cf2746399c75135d7788e98c99184a1d</data>
+      <data key="d11">b7e9c9ef572c445a9574ca571e41fb96</data>
+      <data key="d12">72</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARKANSAS&quot;" target="&quot;JUNCTION CITY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Junction City is located in the state of Arkansas."</data>
+      <data key="d10">cf2746399c75135d7788e98c99184a1d</data>
+      <data key="d11">dcb9f281cd6248c699e0ebb285a42a5e</data>
+      <data key="d12">73</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JUNCTION CITY, LOUISIANA&quot;" target="&quot;JUNCTION CITY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Junction City, Louisiana is a neighboring city of Junction City."</data>
+      <data key="d10">cf2746399c75135d7788e98c99184a1d</data>
+      <data key="d11">072cdee531b74513984f49d99a8d64a0</data>
+      <data key="d12">74</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SANAAG&quot;" target="&quot;HABARSHIRO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Habarshiro is a town in the northern Sanaag region of Somalia."</data>
+      <data key="d10">94d9afe899550a3f5b127a05c95509fc</data>
+      <data key="d11">5ae335d9210a45fda3f92a9a028d6d9b</data>
+      <data key="d12">75</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SANAAG&quot;" target="&quot;SOMALIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Sanaag is a region in Somalia."</data>
+      <data key="d10">94d9afe899550a3f5b127a05c95509fc</data>
+      <data key="d11">5ac60a941a5b4934bdc43d2f87de601c</data>
+      <data key="d12">76</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;EL BUH&quot;" target="&quot;HABARSHIRO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Habarshiro's nearest neighbor is the city of El Buh, around 50 kilometers away."</data>
+      <data key="d10">94d9afe899550a3f5b127a05c95509fc</data>
+      <data key="d11">d405c3154d0e48ce96fad4c28fe20590</data>
+      <data key="d12">77</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AMERICA&quot;" target="&quot;ROBERT O'CONNOR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Robert O'Connor is an American novelist, indicating his nationality and connection to the country."</data>
+      <data key="d10">202e4bcac45edb763708408732c33dcb</data>
+      <data key="d11">7923d8521c744bd9aab131c1aea91ffd</data>
+      <data key="d12">78</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BUFFALO SOLDIERS&quot;" target="&quot;ROBERT O'CONNOR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Robert O'Connor is the author of the novel 'Buffalo Soldiers', which was adapted into a movie."</data>
+      <data key="d10">202e4bcac45edb763708408732c33dcb</data>
+      <data key="d11">5bd156c87ec44e19ae6f8f62e6e50b9d</data>
+      <data key="d12">79</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BLANKENBERGE&quot;" target="&quot;UITKERKE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Uitkerke is part of the coastal city of Blankenberge."</data>
+      <data key="d10">9473c043c0250752b2e977796ca67967</data>
+      <data key="d11">c1a146d7fb16429ea6d0aa2a55ee597f</data>
+      <data key="d12">80</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BLANKENBERGE&quot;" target="&quot;BELGIUM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Blankenberge is a city located in Belgium."</data>
+      <data key="d10">9473c043c0250752b2e977796ca67967</data>
+      <data key="d11">ede9350632084da5b0b577ff799ab14b</data>
+      <data key="d12">81</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WEST FLANDERS&quot;" target="&quot;UITKERKE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Uitkerke is located in West Flanders."</data>
+      <data key="d10">9473c043c0250752b2e977796ca67967</data>
+      <data key="d11">ed559fb4ebde45518849ec803b350fa3</data>
+      <data key="d12">82</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DETROIT&quot;" target="&quot;COLEMAN YOUNG&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Coleman Young was the mayor of Detroit, working to improve the city's transportation system and racial diversity."</data>
+      <data key="d10">75eb49dcee982774d4df2e7de9321f3d</data>
+      <data key="d11">f422035f8b78417f98e4d116971cf9f3</data>
+      <data key="d12">83</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DETROIT&quot;" target="&quot;FEDERAL GOVERNMENT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Federal Government offered funding for a regional rapid transit system in Detroit, but the city lost most of it due to conflicts with suburban neighbors."</data>
+      <data key="d10">75eb49dcee982774d4df2e7de9321f3d</data>
+      <data key="d11">c79d686eba044c5586c706cdc096817d</data>
+      <data key="d12">84</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DETROIT PEOPLE MOVER&quot;" target="&quot;COLEMAN YOUNG&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Coleman Young's administration moved forward with constructing the Detroit People Mover after the failure to reach an agreement on the larger system."</data>
+      <data key="d10">75eb49dcee982774d4df2e7de9321f3d</data>
+      <data key="d11">0f70db1e598d463fbbcdd1e288bd9490</data>
+      <data key="d12">85</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GRORUD&quot;" target="&quot;R&#216;DTVET&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"R&#248;dtvet is located in the district of Grorud."</data>
+      <data key="d10">7b35e149feff758467a4bfb8d3fb37db</data>
+      <data key="d11">b35c3d1a7daa4924b6bdb58bc69c354d</data>
+      <data key="d12">86</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OSLO&quot;" target="&quot;R&#216;DTVET&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"R&#248;dtvet is a residential area in Oslo."</data>
+      <data key="d10">7b35e149feff758467a4bfb8d3fb37db</data>
+      <data key="d11">a97e2ecd870944cfbe71c79bc0fcc752</data>
+      <data key="d12">87</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LILLOMARKA&quot;" target="&quot;R&#216;DTVET&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"R&#248;dtvet has Lillomarka as a neighbor to the north."</data>
+      <data key="d10">7b35e149feff758467a4bfb8d3fb37db</data>
+      <data key="d11">3e1b063bbfa9423d84e50311296d2f3c</data>
+      <data key="d12">88</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BREDTVET&quot;" target="&quot;R&#216;DTVET&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"R&#248;dtvet is neighboring Bredtvet to the south."</data>
+      <data key="d10">7b35e149feff758467a4bfb8d3fb37db</data>
+      <data key="d11">9a8ce816ee954bdabd01ea2081538009</data>
+      <data key="d12">89</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;KALBAKKEN&quot;" target="&quot;R&#216;DTVET&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"R&#248;dtvet is neighboring Kalbakken to the south."</data>
+      <data key="d10">7b35e149feff758467a4bfb8d3fb37db</data>
+      <data key="d11">09f18f81442d4d6d93a90f0fac683f9b</data>
+      <data key="d12">90</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FLAEN&quot;" target="&quot;R&#216;DTVET&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"R&#248;dtvet is neighboring Flaen to the south."</data>
+      <data key="d10">7b35e149feff758467a4bfb8d3fb37db</data>
+      <data key="d11">e02be3e37ca0454883a4c1fd859c24bb</data>
+      <data key="d12">91</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NORDTVET&quot;" target="&quot;R&#216;DTVET&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"R&#248;dtvet is neighboring Nordtvet to the south."</data>
+      <data key="d10">7b35e149feff758467a4bfb8d3fb37db</data>
+      <data key="d11">6e0c81bef5364c988b21bf9b709d9861</data>
+      <data key="d12">92</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MENASHA&quot;" target="&quot;CONNIE CLAUSEN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Connie Clausen was born in Menasha, Wisconsin."</data>
+      <data key="d10">33a38ec42ebaf0b1dd75c8b216aa323c</data>
+      <data key="d11">1dbc51475cb04dafa4a8833a8378635e</data>
+      <data key="d12">93</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;QWEST BUILDING&quot;" target="&quot;CENTURYLINK BUILDING&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Qwest Building is a previous name of the CenturyLink Building, indicating a change in ownership or naming convention."</data>
+      <data key="d10">b344d0468d69cf04833d79d8de5cd84d</data>
+      <data key="d11">c12b9ebd8b4e42b7896822a32e3fa6eb</data>
+      <data key="d12">94</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NORTHWESTERN BELL TELEPHONE BUILDING&quot;" target="&quot;CENTURYLINK BUILDING&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Northwestern Bell Telephone Building is another previous name of the CenturyLink Building, suggesting a historical significance."</data>
+      <data key="d10">b344d0468d69cf04833d79d8de5cd84d</data>
+      <data key="d11">27505f6ade4b4e5f9316ffe9c34821f7</data>
+      <data key="d12">95</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CENTURYLINK BUILDING&quot;" target="&quot;MINNEAPOLIS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The CenturyLink Building is located in Minneapolis, Minnesota, and holds historical significance as the tallest building in the city during several decades."</data>
+      <data key="d10">b344d0468d69cf04833d79d8de5cd84d</data>
+      <data key="d11">0ee7db2c6bea4630ba9f0c25e8a967ad</data>
+      <data key="d12">96</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OSABE SHUNJIR&#332;&quot;" target="&quot;KUROI SENJI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Kuroi Senji is a pen name of Osabe Shunjir&#333;, indicating a connection between the two identities."</data>
+      <data key="d10">06b9694bdc2c5b6aad8f525c93eeca0a</data>
+      <data key="d11">5a6c1d15424149f69052cd8d91fbff75</data>
+      <data key="d12">97</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OSABE SHUNJIR&#332;&quot;" target="&quot;JAPAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Osabe Shunjir&#333; was born in Japan and is associated with Japanese literature."</data>
+      <data key="d10">06b9694bdc2c5b6aad8f525c93eeca0a</data>
+      <data key="d11">d005bf75c31d4848ad7041f39651e59c</data>
+      <data key="d12">98</data>
+      <data key="d13">0</data>
+    </edge>
+  </graph>
+</graphml>

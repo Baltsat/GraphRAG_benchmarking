@@ -1,0 +1,832 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;MADAGASCAR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Madagascar is a location where a humpback whale birth was observed, highlighting its significance in the study of these creatures."</data>
+      <data key="d2">cbdfd56feca11db699d772e2ad2644a4</data>
+    </node>
+    <node id="&quot;NORTHERN HEMISPHERE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Northern hemisphere is a region where humpback whales give birth during specific months, indicating their migratory patterns."</data>
+      <data key="d2">cbdfd56feca11db699d772e2ad2644a4</data>
+    </node>
+    <node id="&quot;SOUTHERN HEMISPHERE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Southern hemisphere is a region where humpback whales give birth during specific months, indicating their migratory patterns."</data>
+      <data key="d2">cbdfd56feca11db699d772e2ad2644a4</data>
+    </node>
+    <node id="&quot;HUMPBACK WHALE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">cbdfd56feca11db699d772e2ad2644a4</data>
+    </node>
+    <node id="&quot;BIRTH OF HUMPBACK WHALE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">cbdfd56feca11db699d772e2ad2644a4</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">0340c900e4af204cb90fe9074e4f2901,0cfe81f58324c25d7acc4c5458c7d583,176477a8a1a93daf14d945553f212443,2014c4b0639ab6889106e1b810b721c1,211fa7e73ffda871af1f32b97283714f,29ddc56032e3b62fd927a9b16a2322aa,365ab9fea597db5e69f01e57f0f50895,37cd0027eafcdee1adc7cf101c5bf0ae,3d8940b71b05a831a91e9d2611b52dc7,3ff65807e582a43140266b502ed00a18,44a614560093ba06d4ce4668233558a6,6a10ce94d2c9eff039fa2134bc9c9113,770943bad6215124524e7fb07033dade,9e3bb8847dcba6c9b2338a22f7f10ed0,c8aa257f9f0475d33825c8b99dbe5c42,cbdfd56feca11db699d772e2ad2644a4,d34370970d7f5c0a455ee11bf341d0b5,d36e8f550d0d20d0d0cb8264dd707917,ebce0f5d5e659495e4bb5c1081f4ab34,fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">0340c900e4af204cb90fe9074e4f2901,0cfe81f58324c25d7acc4c5458c7d583,176477a8a1a93daf14d945553f212443,2014c4b0639ab6889106e1b810b721c1,211fa7e73ffda871af1f32b97283714f,29ddc56032e3b62fd927a9b16a2322aa,365ab9fea597db5e69f01e57f0f50895,37cd0027eafcdee1adc7cf101c5bf0ae,3d8940b71b05a831a91e9d2611b52dc7,3ff65807e582a43140266b502ed00a18,44a614560093ba06d4ce4668233558a6,6a10ce94d2c9eff039fa2134bc9c9113,770943bad6215124524e7fb07033dade,9e3bb8847dcba6c9b2338a22f7f10ed0,c8aa257f9f0475d33825c8b99dbe5c42,cbdfd56feca11db699d772e2ad2644a4,d34370970d7f5c0a455ee11bf341d0b5,d36e8f550d0d20d0d0cb8264dd707917,ebce0f5d5e659495e4bb5c1081f4ab34,fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">0340c900e4af204cb90fe9074e4f2901,0cfe81f58324c25d7acc4c5458c7d583,176477a8a1a93daf14d945553f212443,2014c4b0639ab6889106e1b810b721c1,211fa7e73ffda871af1f32b97283714f,29ddc56032e3b62fd927a9b16a2322aa,365ab9fea597db5e69f01e57f0f50895,37cd0027eafcdee1adc7cf101c5bf0ae,3d8940b71b05a831a91e9d2611b52dc7,3ff65807e582a43140266b502ed00a18,44a614560093ba06d4ce4668233558a6,6a10ce94d2c9eff039fa2134bc9c9113,770943bad6215124524e7fb07033dade,9e3bb8847dcba6c9b2338a22f7f10ed0,c8aa257f9f0475d33825c8b99dbe5c42,cbdfd56feca11db699d772e2ad2644a4,d34370970d7f5c0a455ee11bf341d0b5,d36e8f550d0d20d0d0cb8264dd707917,ebce0f5d5e659495e4bb5c1081f4ab34,fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">0340c900e4af204cb90fe9074e4f2901,0cfe81f58324c25d7acc4c5458c7d583,176477a8a1a93daf14d945553f212443,2014c4b0639ab6889106e1b810b721c1,211fa7e73ffda871af1f32b97283714f,29ddc56032e3b62fd927a9b16a2322aa,365ab9fea597db5e69f01e57f0f50895,37cd0027eafcdee1adc7cf101c5bf0ae,3d8940b71b05a831a91e9d2611b52dc7,3ff65807e582a43140266b502ed00a18,44a614560093ba06d4ce4668233558a6,6a10ce94d2c9eff039fa2134bc9c9113,770943bad6215124524e7fb07033dade,9e3bb8847dcba6c9b2338a22f7f10ed0,c8aa257f9f0475d33825c8b99dbe5c42,cbdfd56feca11db699d772e2ad2644a4,d34370970d7f5c0a455ee11bf341d0b5,d36e8f550d0d20d0d0cb8264dd707917,ebce0f5d5e659495e4bb5c1081f4ab34,fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">0340c900e4af204cb90fe9074e4f2901,0cfe81f58324c25d7acc4c5458c7d583,176477a8a1a93daf14d945553f212443,2014c4b0639ab6889106e1b810b721c1,211fa7e73ffda871af1f32b97283714f,29ddc56032e3b62fd927a9b16a2322aa,365ab9fea597db5e69f01e57f0f50895,37cd0027eafcdee1adc7cf101c5bf0ae,3d8940b71b05a831a91e9d2611b52dc7,3ff65807e582a43140266b502ed00a18,44a614560093ba06d4ce4668233558a6,6a10ce94d2c9eff039fa2134bc9c9113,770943bad6215124524e7fb07033dade,9e3bb8847dcba6c9b2338a22f7f10ed0,c8aa257f9f0475d33825c8b99dbe5c42,cbdfd56feca11db699d772e2ad2644a4,d34370970d7f5c0a455ee11bf341d0b5,d36e8f550d0d20d0d0cb8264dd707917,ebce0f5d5e659495e4bb5c1081f4ab34,fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">0340c900e4af204cb90fe9074e4f2901,0cfe81f58324c25d7acc4c5458c7d583,176477a8a1a93daf14d945553f212443,2014c4b0639ab6889106e1b810b721c1,211fa7e73ffda871af1f32b97283714f,29ddc56032e3b62fd927a9b16a2322aa,365ab9fea597db5e69f01e57f0f50895,37cd0027eafcdee1adc7cf101c5bf0ae,3d8940b71b05a831a91e9d2611b52dc7,3ff65807e582a43140266b502ed00a18,44a614560093ba06d4ce4668233558a6,6a10ce94d2c9eff039fa2134bc9c9113,770943bad6215124524e7fb07033dade,9e3bb8847dcba6c9b2338a22f7f10ed0,c8aa257f9f0475d33825c8b99dbe5c42,cbdfd56feca11db699d772e2ad2644a4,d34370970d7f5c0a455ee11bf341d0b5,d36e8f550d0d20d0d0cb8264dd707917,ebce0f5d5e659495e4bb5c1081f4ab34,fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">0340c900e4af204cb90fe9074e4f2901,0cfe81f58324c25d7acc4c5458c7d583,176477a8a1a93daf14d945553f212443,2014c4b0639ab6889106e1b810b721c1,211fa7e73ffda871af1f32b97283714f,29ddc56032e3b62fd927a9b16a2322aa,365ab9fea597db5e69f01e57f0f50895,37cd0027eafcdee1adc7cf101c5bf0ae,3d8940b71b05a831a91e9d2611b52dc7,3ff65807e582a43140266b502ed00a18,44a614560093ba06d4ce4668233558a6,6a10ce94d2c9eff039fa2134bc9c9113,770943bad6215124524e7fb07033dade,9e3bb8847dcba6c9b2338a22f7f10ed0,c8aa257f9f0475d33825c8b99dbe5c42,cbdfd56feca11db699d772e2ad2644a4,d34370970d7f5c0a455ee11bf341d0b5,d36e8f550d0d20d0d0cb8264dd707917,ebce0f5d5e659495e4bb5c1081f4ab34,fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">0340c900e4af204cb90fe9074e4f2901,0cfe81f58324c25d7acc4c5458c7d583,176477a8a1a93daf14d945553f212443,2014c4b0639ab6889106e1b810b721c1,211fa7e73ffda871af1f32b97283714f,29ddc56032e3b62fd927a9b16a2322aa,365ab9fea597db5e69f01e57f0f50895,37cd0027eafcdee1adc7cf101c5bf0ae,3d8940b71b05a831a91e9d2611b52dc7,3ff65807e582a43140266b502ed00a18,44a614560093ba06d4ce4668233558a6,6a10ce94d2c9eff039fa2134bc9c9113,770943bad6215124524e7fb07033dade,9e3bb8847dcba6c9b2338a22f7f10ed0,c8aa257f9f0475d33825c8b99dbe5c42,cbdfd56feca11db699d772e2ad2644a4,d34370970d7f5c0a455ee11bf341d0b5,d36e8f550d0d20d0d0cb8264dd707917,ebce0f5d5e659495e4bb5c1081f4ab34,fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">0340c900e4af204cb90fe9074e4f2901,0cfe81f58324c25d7acc4c5458c7d583,176477a8a1a93daf14d945553f212443,2014c4b0639ab6889106e1b810b721c1,211fa7e73ffda871af1f32b97283714f,29ddc56032e3b62fd927a9b16a2322aa,365ab9fea597db5e69f01e57f0f50895,37cd0027eafcdee1adc7cf101c5bf0ae,3d8940b71b05a831a91e9d2611b52dc7,3ff65807e582a43140266b502ed00a18,44a614560093ba06d4ce4668233558a6,6a10ce94d2c9eff039fa2134bc9c9113,770943bad6215124524e7fb07033dade,9e3bb8847dcba6c9b2338a22f7f10ed0,c8aa257f9f0475d33825c8b99dbe5c42,cbdfd56feca11db699d772e2ad2644a4,d34370970d7f5c0a455ee11bf341d0b5,d36e8f550d0d20d0d0cb8264dd707917,ebce0f5d5e659495e4bb5c1081f4ab34,fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0340c900e4af204cb90fe9074e4f2901,0cfe81f58324c25d7acc4c5458c7d583,176477a8a1a93daf14d945553f212443,2014c4b0639ab6889106e1b810b721c1,211fa7e73ffda871af1f32b97283714f,29ddc56032e3b62fd927a9b16a2322aa,365ab9fea597db5e69f01e57f0f50895,37cd0027eafcdee1adc7cf101c5bf0ae,3d8940b71b05a831a91e9d2611b52dc7,3ff65807e582a43140266b502ed00a18,44a614560093ba06d4ce4668233558a6,6a10ce94d2c9eff039fa2134bc9c9113,770943bad6215124524e7fb07033dade,9e3bb8847dcba6c9b2338a22f7f10ed0,c8aa257f9f0475d33825c8b99dbe5c42,cbdfd56feca11db699d772e2ad2644a4,d34370970d7f5c0a455ee11bf341d0b5,d36e8f550d0d20d0d0cb8264dd707917,ebce0f5d5e659495e4bb5c1081f4ab34,fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;ATHANASIUS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Athanasius is a person whose birth year is being discussed, with different estimates provided by Cornelius Clifford and the Orthodox Church."</data>
+      <data key="d2">44a614560093ba06d4ce4668233558a6</data>
+    </node>
+    <node id="&quot;MAXIMIAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Maximian is a person associated with a persecution in 303."</data>
+      <data key="d2">44a614560093ba06d4ce4668233558a6</data>
+    </node>
+    <node id="&quot;ALEXANDRIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Alexandria is a geographic location where Athanasius was ordained as Patriarch in 328."</data>
+      <data key="d2">44a614560093ba06d4ce4668233558a6</data>
+    </node>
+    <node id="&quot;THE ORTHODOX CHURCH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Orthodox Church is an organization that places Athanasius' year of birth around 297."</data>
+      <data key="d2">44a614560093ba06d4ce4668233558a6</data>
+    </node>
+    <node id="&quot;CORNELIUS CLIFFORD&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">44a614560093ba06d4ce4668233558a6</data>
+    </node>
+    <node id="&quot;PREMATURE INFANTS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Premature infants are babies born prematurely, who are at greater risk for various health problems."</data>
+      <data key="d2">0cfe81f58324c25d7acc4c5458c7d583</data>
+    </node>
+    <node id="&quot;CEREBRAL PALSY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Cerebral palsy is a potential health problem that premature infants may face."</data>
+      <data key="d2">0cfe81f58324c25d7acc4c5458c7d583</data>
+    </node>
+    <node id="&quot;DELAYS IN DEVELOPMENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Delays in development are a potential health problem that premature infants may face."</data>
+      <data key="d2">0cfe81f58324c25d7acc4c5458c7d583</data>
+    </node>
+    <node id="&quot;HEARING PROBLEMS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Hearing problems are a potential health problem that premature infants may face."</data>
+      <data key="d2">0cfe81f58324c25d7acc4c5458c7d583</data>
+    </node>
+    <node id="&quot;SIGHT PROBLEMS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Sight problems are a potential health problem that premature infants may face."</data>
+      <data key="d2">0cfe81f58324c25d7acc4c5458c7d583</data>
+    </node>
+    <node id="&quot;PRETERM BIRTH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0cfe81f58324c25d7acc4c5458c7d583</data>
+    </node>
+    <node id="&quot;REBECCA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Rebecca is a character in the show, often featured in flashbacks with Jack around 1980."</data>
+      <data key="d2">3d8940b71b05a831a91e9d2611b52dc7</data>
+    </node>
+    <node id="&quot;RANDALL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Randall is a character in the show, who has a foster child named Deja and lives in New Jersey as an adult."</data>
+      <data key="d2">3d8940b71b05a831a91e9d2611b52dc7</data>
+    </node>
+    <node id="&quot;KATE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kate is a character in the show, who lives in Los Angeles as an adult."</data>
+      <data key="d2">3d8940b71b05a831a91e9d2611b52dc7</data>
+    </node>
+    <node id="&quot;KEVIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kevin is a character in the show, who relocates from Los Angeles to New York City as an adult."</data>
+      <data key="d2">3d8940b71b05a831a91e9d2611b52dc7</data>
+    </node>
+    <node id="&quot;DEJA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Deja is Randall's foster child, featured in flashbacks of her life."</data>
+      <data key="d2">3d8940b71b05a831a91e9d2611b52dc7</data>
+    </node>
+    <node id="&quot;PITTSBURGH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pittsburgh is the city where the Big Three are born and raised."</data>
+      <data key="d2">3d8940b71b05a831a91e9d2611b52dc7</data>
+    </node>
+    <node id="&quot;LOS ANGELES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Los Angeles is the city where Kate lives as an adult."</data>
+      <data key="d2">3d8940b71b05a831a91e9d2611b52dc7</data>
+    </node>
+    <node id="&quot;NEW JERSEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New Jersey is the state where Randall and his family live as adults."</data>
+      <data key="d2">3d8940b71b05a831a91e9d2611b52dc7</data>
+    </node>
+    <node id="&quot;NEW YORK CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New York City is the city where Kevin relocates to as an adult."</data>
+      <data key="d2">3d8940b71b05a831a91e9d2611b52dc7</data>
+    </node>
+    <node id="&quot;JACK&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3d8940b71b05a831a91e9d2611b52dc7</data>
+    </node>
+    <node id="&quot;PNEUMONIC PLAGUE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Pneumonic plague is a form of plague with a mortality rate of 90-95% and symptoms including fever, cough, and blood-tinged sputum."</data>
+      <data key="d2">37cd0027eafcdee1adc7cf101c5bf0ae</data>
+    </node>
+    <node id="&quot;SEPTICEMIC PLAGUE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Septicemic plague is the least common form of plague with a mortality rate near 100% and symptoms including high fevers and purple skin patches."</data>
+      <data key="d2">37cd0027eafcdee1adc7cf101c5bf0ae</data>
+    </node>
+    <node id="&quot;MODERN SCIENTISTS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Modern scientists are researchers who have implicated other forms of plague."</data>
+      <data key="d2">37cd0027eafcdee1adc7cf101c5bf0ae</data>
+    </node>
+    <node id="&quot;BUBONIC PLAGUE&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+The Bubonic Plague is a disease associated with acral necrosis and is notorious for its role in the pandemic of the 14th century.</data>
+      <data key="d2">365ab9fea597db5e69f01e57f0f50895,37cd0027eafcdee1adc7cf101c5bf0ae</data>
+    </node>
+    <node id="&quot;RUSSIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Russia is a country where the plague was present 25 times between 1350 to 1490."</data>
+      <data key="d2">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </node>
+    <node id="&quot;LONDON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"London is a city that experienced several plague epidemics, reducing its population by 10 to 30% during those years."</data>
+      <data key="d2">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </node>
+    <node id="&quot;AMSTERDAM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Amsterdam is a city where over 10% of the population died in multiple plague outbreaks between 1623 and 1664."</data>
+      <data key="d2">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </node>
+    <node id="&quot;VENICE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Venice is a city that experienced 22 plague outbreaks between 1361 and 1528, with a significant outbreak in 1576-77 that killed 50,000 people."</data>
+      <data key="d2">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </node>
+    <node id="&quot;NORWAY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Norway is a country where over 60% of the population died during the plague outbreak of 1348-50."</data>
+      <data key="d2">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </node>
+    <node id="&quot;OSLO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Oslo is a city that experienced a plague outbreak in 1654, which was the last recorded outbreak."</data>
+      <data key="d2">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </node>
+    <node id="&quot;THE BLACK DEATH&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Black Death is a pandemic that ravaged Europe for three years and continued into Russia.</data>
+      <data key="d2">0340c900e4af204cb90fe9074e4f2901,6a10ce94d2c9eff039fa2134bc9c9113,c8aa257f9f0475d33825c8b99dbe5c42</data>
+    </node>
+    <node id="&quot;THIRTY YEARS' WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Thirty Years' War is a conflict associated with the Italian Plague of 1629-1631."</data>
+      <data key="d2">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </node>
+    <node id="&quot;GREAT PLAGUE OF VIENNA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Great Plague of Vienna is a significant plague outbreak that occurred in 1679."</data>
+      <data key="d2">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </node>
+    <node id="&quot;PARIS&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Paris is a location that holds significant importance in various fields. Notably, it was a platform where Giovanni Cifolelli made his appearance as a mandolin virtuoso and published his 'Method for the mandolin', showcasing its relevance to music and art. Additionally, Paris is also home to a prestigious Medical faculty, underscoring its significance in the development of medical knowledge.</data>
+      <data key="d2">2014c4b0639ab6889106e1b810b721c1,6a10ce94d2c9eff039fa2134bc9c9113,770943bad6215124524e7fb07033dade</data>
+    </node>
+    <node id="&quot;PLAGUE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6a10ce94d2c9eff039fa2134bc9c9113,770943bad6215124524e7fb07033dade,d34370970d7f5c0a455ee11bf341d0b5</data>
+    </node>
+    <node id="&quot;BA&#350;YURT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ba&#351;yurt is the epicentre of the 2010 Elaz&#305;&#287; earthquake, located in Elaz&#305;&#287; Province, Turkey."</data>
+      <data key="d2">29ddc56032e3b62fd927a9b16a2322aa</data>
+    </node>
+    <node id="&quot;TURKEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Turkey is a country where the 2010 Elaz&#305;&#287; earthquake occurred, specifically in its eastern region."</data>
+      <data key="d2">29ddc56032e3b62fd927a9b16a2322aa</data>
+    </node>
+    <node id="&quot;2010 ELAZI&#286; EARTHQUAKE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2010 Elaz&#305;&#287; earthquake was a significant event that occurred on March 8, 2010, resulting in loss of life and injuries."</data>
+      <data key="d2">29ddc56032e3b62fd927a9b16a2322aa</data>
+    </node>
+    <node id="&quot;ELAZI&#286; PROVINCE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">29ddc56032e3b62fd927a9b16a2322aa</data>
+    </node>
+    <node id="&quot;YERSINIA PESTIS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Yersinia pestis is a bacterium that causes several forms of plague."</data>
+      <data key="d2">0340c900e4af204cb90fe9074e4f2901,c8aa257f9f0475d33825c8b99dbe5c42</data>
+    </node>
+    <node id="&quot;EUROPE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Europe was severely affected by the Black Death, with the pandemic peaking from 1347 to 1351."</data>
+      <data key="d2">0340c900e4af204cb90fe9074e4f2901,c8aa257f9f0475d33825c8b99dbe5c42</data>
+    </node>
+    <node id="&quot;FRANCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+France is a country that holds significant cultural importance, as evidenced by its influence on notable artists and their works. Specifically, Giovanni Cifolelli's "Method for the mandolin" was highly successful in France, indicating the country's appreciation for music and art. Additionally, Andr\u00e9 Jolivet, a renowned figure, hailed from France, further highlighting the country's rich cultural heritage and its impact on his work.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">2014c4b0639ab6889106e1b810b721c1,ebce0f5d5e659495e4bb5c1081f4ab34</data>
+    </node>
+    <node id="&quot;GIOVANNI CIFOLELLI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2014c4b0639ab6889106e1b810b721c1</data>
+    </node>
+    <node id="&quot;OFFICE OF STATE OR MUNICIPAL LIAISON SRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Office of State or Municipal Liaison SRE is an affiliated office of the SRE, providing support for passport applications and other services."</data>
+      <data key="d2">fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;MEXICAN CIVIL REGISTRY OFFICE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Mexican civil registry office is responsible for issuing certified copies of birth certificates."</data>
+      <data key="d2">fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;CONSULAR OFFICE ABROAD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A consular office abroad is a diplomatic mission that issues certified copies of birth certificates to Mexican citizens living outside Mexico."</data>
+      <data key="d2">fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;SECRETARY OF THE INTERIOR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Secretary of the Interior is a government official responsible for issuing Certificate of Citizenship Identity."</data>
+      <data key="d2">fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;APPLICANT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The applicant is an individual seeking to obtain an ordinary passport book by following the specified procedures."</data>
+      <data key="d2">fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;SECRETAR&#205;A DE RELACIONES EXTERIORES (SRE)&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;BIRTH CERTIFICATE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fbfd1adea154f6a7633a839990e46e70</data>
+    </node>
+    <node id="&quot;BLACK DEATH&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Black Death refers to both the disease and the pandemic that occurred in the 14th century."</data>
+      <data key="d2">365ab9fea597db5e69f01e57f0f50895</data>
+    </node>
+    <node id="&quot;THE 14TH CENTURY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The 14th century is a time period associated with the pandemic of bubonic plague."</data>
+      <data key="d2">365ab9fea597db5e69f01e57f0f50895</data>
+    </node>
+    <node id="&quot;ACRAL NECROSIS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">365ab9fea597db5e69f01e57f0f50895</data>
+    </node>
+    <node id="&quot;CENTRAL LONDON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Central London is a location in the United Kingdom where the Denmark Place fire took place."</data>
+      <data key="d2">176477a8a1a93daf14d945553f212443</data>
+    </node>
+    <node id="&quot;UNITED KINGDOM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United Kingdom is the country where the Denmark Place fire occurred."</data>
+      <data key="d2">176477a8a1a93daf14d945553f212443</data>
+    </node>
+    <node id="&quot;THE SUNDAY TIMES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Sunday Times is a newspaper that reported on the Denmark Place fire, suggesting it could be 'the worst mass murder in British history'."</data>
+      <data key="d2">176477a8a1a93daf14d945553f212443</data>
+    </node>
+    <node id="&quot;DENMARK PLACE FIRE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">176477a8a1a93daf14d945553f212443</data>
+    </node>
+    <node id="&quot;DOMESDAY BOOK&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Domesday Book is a historical event that marks the last census before 1377, providing important context for understanding population estimates."</data>
+      <data key="d2">d34370970d7f5c0a455ee11bf341d0b5</data>
+    </node>
+    <node id="&quot;RESEARCHERS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Researchers are a group of individuals working to understand the plague, but are hampered by a lack of reliable statistics."</data>
+      <data key="d2">d34370970d7f5c0a455ee11bf341d0b5</data>
+    </node>
+    <node id="&quot;ENGLAND&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d34370970d7f5c0a455ee11bf341d0b5</data>
+    </node>
+    <node id="&quot;ANTONIO VIVALDI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Antonio Vivaldi is a renowned composer who has written several operas, including Orlando furioso RV 819 and Orlando furioso (RV 728) of 1727. Additionally, he is also credited with composing the opera Scanderbeg.</data>
+      <data key="d2">211fa7e73ffda871af1f32b97283714f,3ff65807e582a43140266b502ed00a18</data>
+    </node>
+    <node id="&quot;GIOVANNI ALBERTO RISTORI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Giovanni Alberto Ristori wrote an 'Orlando furioso' opera that was successfully staged by Vivaldi and his father's 'impresa' in 1713."</data>
+      <data key="d2">3ff65807e582a43140266b502ed00a18</data>
+    </node>
+    <node id="&quot;PETER RYOM&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Peter Ryom is the cataloguer who did not assign a RV number to Orlando furioso RV 819, instead cataloguing it as RV Anh. 84."</data>
+      <data key="d2">3ff65807e582a43140266b502ed00a18</data>
+    </node>
+    <node id="&quot;GRAZIO BRACCIOLI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Grazio Braccioli wrote the libretto for Orlando furioso RV 819."</data>
+      <data key="d2">3ff65807e582a43140266b502ed00a18</data>
+    </node>
+    <node id="&quot;TEATRO SAN ANGELO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Teatro San Angelo is a location in Venice where Orlando furioso RV 819 was performed in 1714."</data>
+      <data key="d2">3ff65807e582a43140266b502ed00a18</data>
+    </node>
+    <node id="&quot;ORLANDO FURIOSO RV 819&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3ff65807e582a43140266b502ed00a18</data>
+    </node>
+    <node id="&quot;KING OF FRANCE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The King of France received a report from the Medical faculty in Paris, suggesting his role as a recipient of medical information and advice."</data>
+      <data key="d2">770943bad6215124524e7fb07033dade</data>
+    </node>
+    <node id="&quot;MIDDLE AGES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Middle Ages is a time period during which medical knowledge stagnated and the plague occurred, highlighting its importance in understanding the history of medicine."</data>
+      <data key="d2">770943bad6215124524e7fb07033dade</data>
+    </node>
+    <node id="&quot;MEDICAL FACULTY IN PARIS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">770943bad6215124524e7fb07033dade</data>
+    </node>
+    <node id="&quot;COMMUNITY CENTERS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Community centers are physical locations where informal learning can occur, particularly for young people."</data>
+      <data key="d2">9e3bb8847dcba6c9b2338a22f7f10ed0</data>
+    </node>
+    <node id="&quot;MEDIA LABS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Media labs are physical locations where informal learning can occur, particularly for young people."</data>
+      <data key="d2">9e3bb8847dcba6c9b2338a22f7f10ed0</data>
+    </node>
+    <node id="&quot;ORGANISATION FOR ECONOMIC CO-OPERATION AND DEVELOPMENT (OECD)&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9e3bb8847dcba6c9b2338a22f7f10ed0</data>
+    </node>
+    <node id="&quot;INFORMAL LEARNING&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9e3bb8847dcba6c9b2338a22f7f10ed0</data>
+    </node>
+    <node id="&quot;ANTONIO SALVI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Antonio Salvi is the librettist of the opera Scanderbeg."</data>
+      <data key="d2">211fa7e73ffda871af1f32b97283714f</data>
+    </node>
+    <node id="&quot;TEATRO DELLA PERGOLA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Teatro della Pergola is a theatre in Florence where the opera Scanderbeg was first performed."</data>
+      <data key="d2">211fa7e73ffda871af1f32b97283714f</data>
+    </node>
+    <node id="&quot;FLORENCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Florence is a city where the Teatro della Pergola is located and the opera Scanderbeg was first performed."</data>
+      <data key="d2">211fa7e73ffda871af1f32b97283714f</data>
+    </node>
+    <node id="&quot;SCANDERBEG&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">211fa7e73ffda871af1f32b97283714f</data>
+    </node>
+    <node id="&quot;ANDR&#201; JOLIVET&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ebce0f5d5e659495e4bb5c1081f4ab34</data>
+    </node>
+    <edge source="&quot;MADAGASCAR&quot;" target="&quot;BIRTH OF HUMPBACK WHALE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"A humpback whale birth was observed off Madagascar, highlighting its significance in the study of these creatures."</data>
+      <data key="d5">cbdfd56feca11db699d772e2ad2644a4</data>
+    </edge>
+    <edge source="&quot;NORTHERN HEMISPHERE&quot;" target="&quot;HUMPBACK WHALE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Humpback whales give birth in the Northern hemisphere during specific months, indicating their migratory patterns."</data>
+      <data key="d5">cbdfd56feca11db699d772e2ad2644a4</data>
+    </edge>
+    <edge source="&quot;SOUTHERN HEMISPHERE&quot;" target="&quot;HUMPBACK WHALE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Humpback whales give birth in the Southern hemisphere during specific months, indicating their migratory patterns."</data>
+      <data key="d5">cbdfd56feca11db699d772e2ad2644a4</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">0340c900e4af204cb90fe9074e4f2901,0cfe81f58324c25d7acc4c5458c7d583,176477a8a1a93daf14d945553f212443,2014c4b0639ab6889106e1b810b721c1,211fa7e73ffda871af1f32b97283714f,29ddc56032e3b62fd927a9b16a2322aa,365ab9fea597db5e69f01e57f0f50895,37cd0027eafcdee1adc7cf101c5bf0ae,3d8940b71b05a831a91e9d2611b52dc7,3ff65807e582a43140266b502ed00a18,44a614560093ba06d4ce4668233558a6,6a10ce94d2c9eff039fa2134bc9c9113,770943bad6215124524e7fb07033dade,9e3bb8847dcba6c9b2338a22f7f10ed0,c8aa257f9f0475d33825c8b99dbe5c42,cbdfd56feca11db699d772e2ad2644a4,d34370970d7f5c0a455ee11bf341d0b5,d36e8f550d0d20d0d0cb8264dd707917,ebce0f5d5e659495e4bb5c1081f4ab34,fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">0340c900e4af204cb90fe9074e4f2901,0cfe81f58324c25d7acc4c5458c7d583,176477a8a1a93daf14d945553f212443,2014c4b0639ab6889106e1b810b721c1,211fa7e73ffda871af1f32b97283714f,29ddc56032e3b62fd927a9b16a2322aa,365ab9fea597db5e69f01e57f0f50895,37cd0027eafcdee1adc7cf101c5bf0ae,3d8940b71b05a831a91e9d2611b52dc7,3ff65807e582a43140266b502ed00a18,44a614560093ba06d4ce4668233558a6,6a10ce94d2c9eff039fa2134bc9c9113,770943bad6215124524e7fb07033dade,9e3bb8847dcba6c9b2338a22f7f10ed0,c8aa257f9f0475d33825c8b99dbe5c42,cbdfd56feca11db699d772e2ad2644a4,d34370970d7f5c0a455ee11bf341d0b5,d36e8f550d0d20d0d0cb8264dd707917,ebce0f5d5e659495e4bb5c1081f4ab34,fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">0340c900e4af204cb90fe9074e4f2901,0cfe81f58324c25d7acc4c5458c7d583,176477a8a1a93daf14d945553f212443,2014c4b0639ab6889106e1b810b721c1,211fa7e73ffda871af1f32b97283714f,29ddc56032e3b62fd927a9b16a2322aa,365ab9fea597db5e69f01e57f0f50895,37cd0027eafcdee1adc7cf101c5bf0ae,3d8940b71b05a831a91e9d2611b52dc7,3ff65807e582a43140266b502ed00a18,44a614560093ba06d4ce4668233558a6,6a10ce94d2c9eff039fa2134bc9c9113,770943bad6215124524e7fb07033dade,9e3bb8847dcba6c9b2338a22f7f10ed0,c8aa257f9f0475d33825c8b99dbe5c42,cbdfd56feca11db699d772e2ad2644a4,d34370970d7f5c0a455ee11bf341d0b5,d36e8f550d0d20d0d0cb8264dd707917,ebce0f5d5e659495e4bb5c1081f4ab34,fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">0340c900e4af204cb90fe9074e4f2901,0cfe81f58324c25d7acc4c5458c7d583,176477a8a1a93daf14d945553f212443,2014c4b0639ab6889106e1b810b721c1,211fa7e73ffda871af1f32b97283714f,29ddc56032e3b62fd927a9b16a2322aa,365ab9fea597db5e69f01e57f0f50895,37cd0027eafcdee1adc7cf101c5bf0ae,3d8940b71b05a831a91e9d2611b52dc7,3ff65807e582a43140266b502ed00a18,44a614560093ba06d4ce4668233558a6,6a10ce94d2c9eff039fa2134bc9c9113,770943bad6215124524e7fb07033dade,9e3bb8847dcba6c9b2338a22f7f10ed0,c8aa257f9f0475d33825c8b99dbe5c42,cbdfd56feca11db699d772e2ad2644a4,d34370970d7f5c0a455ee11bf341d0b5,d36e8f550d0d20d0d0cb8264dd707917,ebce0f5d5e659495e4bb5c1081f4ab34,fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">0340c900e4af204cb90fe9074e4f2901,0cfe81f58324c25d7acc4c5458c7d583,176477a8a1a93daf14d945553f212443,2014c4b0639ab6889106e1b810b721c1,211fa7e73ffda871af1f32b97283714f,29ddc56032e3b62fd927a9b16a2322aa,365ab9fea597db5e69f01e57f0f50895,37cd0027eafcdee1adc7cf101c5bf0ae,3d8940b71b05a831a91e9d2611b52dc7,3ff65807e582a43140266b502ed00a18,44a614560093ba06d4ce4668233558a6,6a10ce94d2c9eff039fa2134bc9c9113,770943bad6215124524e7fb07033dade,9e3bb8847dcba6c9b2338a22f7f10ed0,c8aa257f9f0475d33825c8b99dbe5c42,cbdfd56feca11db699d772e2ad2644a4,d34370970d7f5c0a455ee11bf341d0b5,d36e8f550d0d20d0d0cb8264dd707917,ebce0f5d5e659495e4bb5c1081f4ab34,fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">0340c900e4af204cb90fe9074e4f2901,0cfe81f58324c25d7acc4c5458c7d583,176477a8a1a93daf14d945553f212443,2014c4b0639ab6889106e1b810b721c1,211fa7e73ffda871af1f32b97283714f,29ddc56032e3b62fd927a9b16a2322aa,365ab9fea597db5e69f01e57f0f50895,37cd0027eafcdee1adc7cf101c5bf0ae,3d8940b71b05a831a91e9d2611b52dc7,3ff65807e582a43140266b502ed00a18,44a614560093ba06d4ce4668233558a6,6a10ce94d2c9eff039fa2134bc9c9113,770943bad6215124524e7fb07033dade,9e3bb8847dcba6c9b2338a22f7f10ed0,c8aa257f9f0475d33825c8b99dbe5c42,cbdfd56feca11db699d772e2ad2644a4,d34370970d7f5c0a455ee11bf341d0b5,d36e8f550d0d20d0d0cb8264dd707917,ebce0f5d5e659495e4bb5c1081f4ab34,fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">0340c900e4af204cb90fe9074e4f2901,0cfe81f58324c25d7acc4c5458c7d583,176477a8a1a93daf14d945553f212443,2014c4b0639ab6889106e1b810b721c1,211fa7e73ffda871af1f32b97283714f,29ddc56032e3b62fd927a9b16a2322aa,365ab9fea597db5e69f01e57f0f50895,37cd0027eafcdee1adc7cf101c5bf0ae,3d8940b71b05a831a91e9d2611b52dc7,3ff65807e582a43140266b502ed00a18,44a614560093ba06d4ce4668233558a6,6a10ce94d2c9eff039fa2134bc9c9113,770943bad6215124524e7fb07033dade,9e3bb8847dcba6c9b2338a22f7f10ed0,c8aa257f9f0475d33825c8b99dbe5c42,cbdfd56feca11db699d772e2ad2644a4,d34370970d7f5c0a455ee11bf341d0b5,d36e8f550d0d20d0d0cb8264dd707917,ebce0f5d5e659495e4bb5c1081f4ab34,fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">0340c900e4af204cb90fe9074e4f2901,0cfe81f58324c25d7acc4c5458c7d583,176477a8a1a93daf14d945553f212443,2014c4b0639ab6889106e1b810b721c1,211fa7e73ffda871af1f32b97283714f,29ddc56032e3b62fd927a9b16a2322aa,365ab9fea597db5e69f01e57f0f50895,37cd0027eafcdee1adc7cf101c5bf0ae,3d8940b71b05a831a91e9d2611b52dc7,3ff65807e582a43140266b502ed00a18,44a614560093ba06d4ce4668233558a6,6a10ce94d2c9eff039fa2134bc9c9113,770943bad6215124524e7fb07033dade,9e3bb8847dcba6c9b2338a22f7f10ed0,c8aa257f9f0475d33825c8b99dbe5c42,cbdfd56feca11db699d772e2ad2644a4,d34370970d7f5c0a455ee11bf341d0b5,d36e8f550d0d20d0d0cb8264dd707917,ebce0f5d5e659495e4bb5c1081f4ab34,fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">0340c900e4af204cb90fe9074e4f2901,0cfe81f58324c25d7acc4c5458c7d583,176477a8a1a93daf14d945553f212443,2014c4b0639ab6889106e1b810b721c1,211fa7e73ffda871af1f32b97283714f,29ddc56032e3b62fd927a9b16a2322aa,365ab9fea597db5e69f01e57f0f50895,37cd0027eafcdee1adc7cf101c5bf0ae,3d8940b71b05a831a91e9d2611b52dc7,3ff65807e582a43140266b502ed00a18,44a614560093ba06d4ce4668233558a6,6a10ce94d2c9eff039fa2134bc9c9113,770943bad6215124524e7fb07033dade,9e3bb8847dcba6c9b2338a22f7f10ed0,c8aa257f9f0475d33825c8b99dbe5c42,cbdfd56feca11db699d772e2ad2644a4,d34370970d7f5c0a455ee11bf341d0b5,d36e8f550d0d20d0d0cb8264dd707917,ebce0f5d5e659495e4bb5c1081f4ab34,fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;ATHANASIUS&quot;" target="&quot;CORNELIUS CLIFFORD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cornelius Clifford has made statements about Athanasius' birth year."</data>
+      <data key="d5">44a614560093ba06d4ce4668233558a6</data>
+    </edge>
+    <edge source="&quot;ATHANASIUS&quot;" target="&quot;ALEXANDRIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Athanasius was ordained as Patriarch of Alexandria in 328."</data>
+      <data key="d5">44a614560093ba06d4ce4668233558a6</data>
+    </edge>
+    <edge source="&quot;ATHANASIUS&quot;" target="&quot;THE ORTHODOX CHURCH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Orthodox Church has a stance on Athanasius' year of birth."</data>
+      <data key="d5">44a614560093ba06d4ce4668233558a6</data>
+    </edge>
+    <edge source="&quot;PREMATURE INFANTS&quot;" target="&quot;PRETERM BIRTH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Preterm birth results in the birth of Premature infants, who are at greater risk for various health problems."</data>
+      <data key="d5">0cfe81f58324c25d7acc4c5458c7d583</data>
+    </edge>
+    <edge source="&quot;PREMATURE INFANTS&quot;" target="&quot;CEREBRAL PALSY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Premature infants are at greater risk for Cerebral palsy."</data>
+      <data key="d5">0cfe81f58324c25d7acc4c5458c7d583</data>
+    </edge>
+    <edge source="&quot;PREMATURE INFANTS&quot;" target="&quot;DELAYS IN DEVELOPMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Premature infants are at greater risk for Delays in development."</data>
+      <data key="d5">0cfe81f58324c25d7acc4c5458c7d583</data>
+    </edge>
+    <edge source="&quot;PREMATURE INFANTS&quot;" target="&quot;HEARING PROBLEMS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Premature infants are at greater risk for Hearing problems."</data>
+      <data key="d5">0cfe81f58324c25d7acc4c5458c7d583</data>
+    </edge>
+    <edge source="&quot;PREMATURE INFANTS&quot;" target="&quot;SIGHT PROBLEMS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Premature infants are at greater risk for Sight problems."</data>
+      <data key="d5">0cfe81f58324c25d7acc4c5458c7d583</data>
+    </edge>
+    <edge source="&quot;REBECCA&quot;" target="&quot;JACK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jack and Rebecca are a couple, often featured in flashbacks around 1980."</data>
+      <data key="d5">3d8940b71b05a831a91e9d2611b52dc7</data>
+    </edge>
+    <edge source="&quot;RANDALL&quot;" target="&quot;DEJA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Randall is the foster parent of Deja."</data>
+      <data key="d5">3d8940b71b05a831a91e9d2611b52dc7</data>
+    </edge>
+    <edge source="&quot;RANDALL&quot;" target="&quot;NEW JERSEY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Randall and his family live in New Jersey as adults."</data>
+      <data key="d5">3d8940b71b05a831a91e9d2611b52dc7</data>
+    </edge>
+    <edge source="&quot;KATE&quot;" target="&quot;LOS ANGELES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Kate lives in Los Angeles as an adult."</data>
+      <data key="d5">3d8940b71b05a831a91e9d2611b52dc7</data>
+    </edge>
+    <edge source="&quot;KEVIN&quot;" target="&quot;NEW YORK CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Kevin relocates to New York City as an adult."</data>
+      <data key="d5">3d8940b71b05a831a91e9d2611b52dc7</data>
+    </edge>
+    <edge source="&quot;PNEUMONIC PLAGUE&quot;" target="&quot;MODERN SCIENTISTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Modern scientists have researched pneumonic plague, recognizing its high mortality rate and distinct symptoms."</data>
+      <data key="d5">37cd0027eafcdee1adc7cf101c5bf0ae</data>
+    </edge>
+    <edge source="&quot;SEPTICEMIC PLAGUE&quot;" target="&quot;MODERN SCIENTISTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Modern scientists have investigated septicemic plague, noting its rapid progression and high mortality rate."</data>
+      <data key="d5">37cd0027eafcdee1adc7cf101c5bf0ae</data>
+    </edge>
+    <edge source="&quot;MODERN SCIENTISTS&quot;" target="&quot;BUBONIC PLAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Modern scientists have studied the bubonic plague, understanding its mortality rate and symptoms."</data>
+      <data key="d5">37cd0027eafcdee1adc7cf101c5bf0ae</data>
+    </edge>
+    <edge source="&quot;BUBONIC PLAGUE&quot;" target="&quot;ACRAL NECROSIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Acral necrosis is a symptom of bubonic plague."</data>
+      <data key="d5">365ab9fea597db5e69f01e57f0f50895</data>
+    </edge>
+    <edge source="&quot;BUBONIC PLAGUE&quot;" target="&quot;BLACK DEATH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bubonic plague is associated with the term Black Death."</data>
+      <data key="d5">365ab9fea597db5e69f01e57f0f50895</data>
+    </edge>
+    <edge source="&quot;RUSSIA&quot;" target="&quot;PLAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The plague was present in Russia 25 times between 1350 to 1490."</data>
+      <data key="d5">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </edge>
+    <edge source="&quot;LONDON&quot;" target="&quot;PLAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"London experienced several plague epidemics, reducing its population by 10 to 30% during those years."</data>
+      <data key="d5">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </edge>
+    <edge source="&quot;AMSTERDAM&quot;" target="&quot;PLAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Amsterdam experienced multiple plague outbreaks between 1623 and 1664."</data>
+      <data key="d5">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </edge>
+    <edge source="&quot;VENICE&quot;" target="&quot;PLAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Venice experienced 22 plague outbreaks between 1361 and 1528."</data>
+      <data key="d5">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </edge>
+    <edge source="&quot;NORWAY&quot;" target="&quot;PLAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Over 60% of Norway's population died during the plague outbreak of 1348-50."</data>
+      <data key="d5">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </edge>
+    <edge source="&quot;OSLO&quot;" target="&quot;PLAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Oslo experienced a plague outbreak in 1654."</data>
+      <data key="d5">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </edge>
+    <edge source="&quot;THE BLACK DEATH&quot;" target="&quot;YERSINIA PESTIS&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"The Black Death was caused by the bacterium Yersinia pestis."</data>
+      <data key="d5">0340c900e4af204cb90fe9074e4f2901,c8aa257f9f0475d33825c8b99dbe5c42</data>
+    </edge>
+    <edge source="&quot;THE BLACK DEATH&quot;" target="&quot;EUROPE&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"The Black Death had a profound impact on European history, causing significant religious, social, and economic upheavals."</data>
+      <data key="d5">0340c900e4af204cb90fe9074e4f2901,c8aa257f9f0475d33825c8b99dbe5c42</data>
+    </edge>
+    <edge source="&quot;PARIS&quot;" target="&quot;PLAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Paris experienced frequent outbreaks of the plague during the 16th and 17th centuries."</data>
+      <data key="d5">6a10ce94d2c9eff039fa2134bc9c9113</data>
+    </edge>
+    <edge source="&quot;PARIS&quot;" target="&quot;GIOVANNI CIFOLELLI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Giovanni Cifolelli made his appearance and published his work in Paris."</data>
+      <data key="d5">2014c4b0639ab6889106e1b810b721c1</data>
+    </edge>
+    <edge source="&quot;PARIS&quot;" target="&quot;MEDICAL FACULTY IN PARIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Paris is the location where the Medical faculty is based, highlighting their connection."</data>
+      <data key="d5">770943bad6215124524e7fb07033dade</data>
+    </edge>
+    <edge source="&quot;PLAGUE&quot;" target="&quot;ENGLAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The spread of the plague has been studied extensively in England, providing valuable insights into its epidemiology."</data>
+      <data key="d5">d34370970d7f5c0a455ee11bf341d0b5</data>
+    </edge>
+    <edge source="&quot;PLAGUE&quot;" target="&quot;MIDDLE AGES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Middle Ages is a time period during which the plague occurred, indicating a relationship between the two entities."</data>
+      <data key="d5">770943bad6215124524e7fb07033dade</data>
+    </edge>
+    <edge source="&quot;BA&#350;YURT&quot;" target="&quot;2010 ELAZI&#286; EARTHQUAKE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ba&#351;yurt was the epicentre of the 2010 Elaz&#305;&#287; earthquake."</data>
+      <data key="d5">29ddc56032e3b62fd927a9b16a2322aa</data>
+    </edge>
+    <edge source="&quot;TURKEY&quot;" target="&quot;2010 ELAZI&#286; EARTHQUAKE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 2010 Elaz&#305;&#287; earthquake occurred in Turkey, specifically in its eastern region."</data>
+      <data key="d5">29ddc56032e3b62fd927a9b16a2322aa</data>
+    </edge>
+    <edge source="&quot;2010 ELAZI&#286; EARTHQUAKE&quot;" target="&quot;ELAZI&#286; PROVINCE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The 2010 Elaz&#305;&#287; earthquake occurred in Elaz&#305;&#287; Province, Turkey."</data>
+      <data key="d5">29ddc56032e3b62fd927a9b16a2322aa</data>
+    </edge>
+    <edge source="&quot;FRANCE&quot;" target="&quot;GIOVANNI CIFOLELLI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Giovanni Cifolelli's 'Method for the mandolin' was highly successful throughout France."</data>
+      <data key="d5">2014c4b0639ab6889106e1b810b721c1</data>
+    </edge>
+    <edge source="&quot;FRANCE&quot;" target="&quot;ANDR&#201; JOLIVET&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Andr&#233; Jolivet was a French composer, showing a strong connection to France and its culture."</data>
+      <data key="d5">ebce0f5d5e659495e4bb5c1081f4ab34</data>
+    </edge>
+    <edge source="&quot;OFFICE OF STATE OR MUNICIPAL LIAISON SRE&quot;" target="&quot;APPLICANT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The applicant can obtain the application form for free at any Office of State or Municipal Liaison SRE."</data>
+      <data key="d5">fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;MEXICAN CIVIL REGISTRY OFFICE&quot;" target="&quot;BIRTH CERTIFICATE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Mexican civil registry office issues certified copies of birth certificates, which are required documents for passport applications."</data>
+      <data key="d5">fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;CONSULAR OFFICE ABROAD&quot;" target="&quot;BIRTH CERTIFICATE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"A consular office abroad issues certified copies of birth certificates to Mexican citizens living outside Mexico."</data>
+      <data key="d5">fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;APPLICANT&quot;" target="&quot;SECRETAR&#205;A DE RELACIONES EXTERIORES (SRE)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The applicant must personally attend to any SRE delegation or affiliated office with an appointment."</data>
+      <data key="d5">fbfd1adea154f6a7633a839990e46e70</data>
+    </edge>
+    <edge source="&quot;BLACK DEATH&quot;" target="&quot;THE 14TH CENTURY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The pandemic of Black Death occurred in the 14th century."</data>
+      <data key="d5">365ab9fea597db5e69f01e57f0f50895</data>
+    </edge>
+    <edge source="&quot;CENTRAL LONDON&quot;" target="&quot;DENMARK PLACE FIRE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Denmark Place fire occurred in Central London."</data>
+      <data key="d5">176477a8a1a93daf14d945553f212443</data>
+    </edge>
+    <edge source="&quot;UNITED KINGDOM&quot;" target="&quot;DENMARK PLACE FIRE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Denmark Place fire took place in the United Kingdom."</data>
+      <data key="d5">176477a8a1a93daf14d945553f212443</data>
+    </edge>
+    <edge source="&quot;THE SUNDAY TIMES&quot;" target="&quot;DENMARK PLACE FIRE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Sunday Times reported on the Denmark Place fire, providing context and analysis."</data>
+      <data key="d5">176477a8a1a93daf14d945553f212443</data>
+    </edge>
+    <edge source="&quot;DOMESDAY BOOK&quot;" target="&quot;RESEARCHERS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Domesday Book provides important context for researchers studying the plague, particularly in terms of population estimates."</data>
+      <data key="d5">d34370970d7f5c0a455ee11bf341d0b5</data>
+    </edge>
+    <edge source="&quot;ANTONIO VIVALDI&quot;" target="&quot;ORLANDO FURIOSO RV 819&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Antonio Vivaldi composed Orlando furioso RV 819."</data>
+      <data key="d5">3ff65807e582a43140266b502ed00a18</data>
+    </edge>
+    <edge source="&quot;ANTONIO VIVALDI&quot;" target="&quot;PETER RYOM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Peter Ryom catalogued Antonio Vivaldi's operas, including Orlando furioso RV 819."</data>
+      <data key="d5">3ff65807e582a43140266b502ed00a18</data>
+    </edge>
+    <edge source="&quot;ANTONIO VIVALDI&quot;" target="&quot;SCANDERBEG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Antonio Vivaldi composed the opera Scanderbeg."</data>
+      <data key="d5">211fa7e73ffda871af1f32b97283714f</data>
+    </edge>
+    <edge source="&quot;GIOVANNI ALBERTO RISTORI&quot;" target="&quot;ORLANDO FURIOSO RV 819&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Giovanni Alberto Ristori's opera was recomposed by Antonio Vivaldi as Orlando furioso RV 819."</data>
+      <data key="d5">3ff65807e582a43140266b502ed00a18</data>
+    </edge>
+    <edge source="&quot;KING OF FRANCE&quot;" target="&quot;MEDICAL FACULTY IN PARIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Medical faculty in Paris provided a report to the King of France, indicating a relationship between the two entities."</data>
+      <data key="d5">770943bad6215124524e7fb07033dade</data>
+    </edge>
+    <edge source="&quot;COMMUNITY CENTERS&quot;" target="&quot;INFORMAL LEARNING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Community centers are a location where informal learning can occur, particularly for young people."</data>
+      <data key="d5">9e3bb8847dcba6c9b2338a22f7f10ed0</data>
+    </edge>
+    <edge source="&quot;MEDIA LABS&quot;" target="&quot;INFORMAL LEARNING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Media labs are a location where informal learning can occur, particularly for young people."</data>
+      <data key="d5">9e3bb8847dcba6c9b2338a22f7f10ed0</data>
+    </edge>
+    <edge source="&quot;ORGANISATION FOR ECONOMIC CO-OPERATION AND DEVELOPMENT (OECD)&quot;" target="&quot;INFORMAL LEARNING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Organisation for Economic Co-operation and Development (OECD) defines informal learning as one of three forms of learning."</data>
+      <data key="d5">9e3bb8847dcba6c9b2338a22f7f10ed0</data>
+    </edge>
+    <edge source="&quot;ANTONIO SALVI&quot;" target="&quot;SCANDERBEG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Antonio Salvi wrote the libretto for the opera Scanderbeg."</data>
+      <data key="d5">211fa7e73ffda871af1f32b97283714f</data>
+    </edge>
+    <edge source="&quot;TEATRO DELLA PERGOLA&quot;" target="&quot;SCANDERBEG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The opera Scanderbeg was first performed at the Teatro della Pergola."</data>
+      <data key="d5">211fa7e73ffda871af1f32b97283714f</data>
+    </edge>
+    <edge source="&quot;TEATRO DELLA PERGOLA&quot;" target="&quot;FLORENCE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Teatro della Pergola is located in Florence."</data>
+      <data key="d5">211fa7e73ffda871af1f32b97283714f</data>
+    </edge>
+  </graph>
+</graphml>

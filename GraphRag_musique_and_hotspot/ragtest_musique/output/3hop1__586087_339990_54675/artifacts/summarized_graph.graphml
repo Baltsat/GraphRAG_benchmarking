@@ -1,0 +1,1219 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;ACT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The ACT (Australian Capital Territory) is a mainland territory in Australia with its own unicameral parliament, and it is also a region where part of a mountain is located.</data>
+      <data key="d2">23fc8e7a43813b4ec8ba2e8b6d3f1cf6,f074b5bdcbf02a4a00a01755093c5e4d</data>
+    </node>
+    <node id="&quot;QUEENSLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Queensland is a state in Australia with its own unicameral parliament."</data>
+      <data key="d2">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </node>
+    <node id="&quot;SOUTH AUSTRALIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"South Australia is a state in Australia with its own bicameral parliament."</data>
+      <data key="d2">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </node>
+    <node id="&quot;TASMANIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Tasmania is a state in Australia with its own bicameral parliament."</data>
+      <data key="d2">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </node>
+    <node id="&quot;COMMONWEALTH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Commonwealth is the federal government of Australia, with powers defined by the Constitution."</data>
+      <data key="d2">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </node>
+    <node id="&quot;LEGISLATIVE ASSEMBLY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Legislative Assembly is the lower house of parliament in each state and territory in Australia."</data>
+      <data key="d2">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </node>
+    <node id="&quot;LEGISLATIVE COUNCIL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Legislative Council is the upper house of parliament in each state in Australia."</data>
+      <data key="d2">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </node>
+    <node id="&quot;PREMIER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Premier is the head of government in each state in Australia."</data>
+      <data key="d2">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </node>
+    <node id="&quot;CHIEF MINISTER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Chief Minister is the head of government in each territory in Australia."</data>
+      <data key="d2">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </node>
+    <node id="&quot;GOVERNOR-GENERAL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Governor-General represents the Queen in the Commonwealth of Australia."</data>
+      <data key="d2">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </node>
+    <node id="&quot;QUEEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Queen is the monarch of Australia, represented by governors and administrators in each state and territory."</data>
+      <data key="d2">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </node>
+    <node id="&quot;ASHMORE AND CARTIER ISLANDS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ashmore and Cartier Islands are external territories administered directly by the Commonwealth Parliament."</data>
+      <data key="d2">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </node>
+    <node id="&quot;AUSTRALIAN ANTARCTIC TERRITORY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Australian Antarctic Territory is an external territory administered directly by the Commonwealth Parliament."</data>
+      <data key="d2">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </node>
+    <node id="&quot;CHRISTMAS ISLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Christmas Island is an external territory administered directly by the Commonwealth Parliament."</data>
+      <data key="d2">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </node>
+    <node id="&quot;COCOS (KEELING) ISLANDS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Cocos (Keeling) Islands are external territories administered directly by the Commonwealth Parliament."</data>
+      <data key="d2">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </node>
+    <node id="&quot;CORAL SEA ISLANDS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Coral Sea Islands are external territories administered directly by the Commonwealth Parliament."</data>
+      <data key="d2">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </node>
+    <node id="&quot;HEARD ISLAND AND MCDONALD ISLANDS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Heard Island and McDonald Islands are external territories administered directly by the Commonwealth Parliament."</data>
+      <data key="d2">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </node>
+    <node id="&quot;JERVIS BAY TERRITORY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Jervis Bay Territory is an external territory administered directly by the Commonwealth Parliament, serving as a naval base and sea port for the national capital."</data>
+      <data key="d2">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </node>
+    <node id="&quot;NORFOLK ISLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Norfolk Island is an external territory that previously had autonomy but was integrated into the Australian tax and welfare systems in 2015."</data>
+      <data key="d2">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </node>
+    <node id="&quot;MACQUARIE ISLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Macquarie Island is administered by Tasmania."</data>
+      <data key="d2">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </node>
+    <node id="&quot;LORD HOWE ISLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lord Howe Island is administered by New South Wales."</data>
+      <data key="d2">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </node>
+    <node id="&quot;NORTHERN TERRITORY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </node>
+    <node id="&quot;STATE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </node>
+    <node id="&quot;TERRITORY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </node>
+    <node id="&quot;COMMONWEALTH PARLIAMENT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">12df797c6541f0b0be4065b24fec2651,21e826fb72589969fa1c69fbe2c47f86,23fc8e7a43813b4ec8ba2e8b6d3f1cf6,2f1168a228bcc70f5d5314220fa7f6e9,3f4a117db732e6d9de5c4ab0125f9118,40a57b707358025b22c2c70500c64151,41cf761a6c6e13fc9507b565d6eac694,4909c0a922ba612cd0425302ee9c120e,582ec4b55c266c150d247145b2334a80,7715df5b06f52d9f6d77f7ad32a51083,87fdea4c5234dd8270796c6182778c15,a15f092f4533cc3c0b80f8bb3243a8c9,b0022575e404708d71f65c8e1fa04635,b1526927f589afde5ccbb87278331ed4,b4328f26322e5d2ec62c4f3b85c70396,cfc2e3f5e332b73ff67ca722651e0d05,dcc8ee4acab32841d54d3998124bb70b,ea8d50addfe5eab9de61ad665f43180a,f074b5bdcbf02a4a00a01755093c5e4d,f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">12df797c6541f0b0be4065b24fec2651,21e826fb72589969fa1c69fbe2c47f86,23fc8e7a43813b4ec8ba2e8b6d3f1cf6,2f1168a228bcc70f5d5314220fa7f6e9,3f4a117db732e6d9de5c4ab0125f9118,40a57b707358025b22c2c70500c64151,41cf761a6c6e13fc9507b565d6eac694,4909c0a922ba612cd0425302ee9c120e,582ec4b55c266c150d247145b2334a80,7715df5b06f52d9f6d77f7ad32a51083,87fdea4c5234dd8270796c6182778c15,a15f092f4533cc3c0b80f8bb3243a8c9,b0022575e404708d71f65c8e1fa04635,b1526927f589afde5ccbb87278331ed4,b4328f26322e5d2ec62c4f3b85c70396,cfc2e3f5e332b73ff67ca722651e0d05,dcc8ee4acab32841d54d3998124bb70b,ea8d50addfe5eab9de61ad665f43180a,f074b5bdcbf02a4a00a01755093c5e4d,f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">12df797c6541f0b0be4065b24fec2651,21e826fb72589969fa1c69fbe2c47f86,23fc8e7a43813b4ec8ba2e8b6d3f1cf6,2f1168a228bcc70f5d5314220fa7f6e9,3f4a117db732e6d9de5c4ab0125f9118,40a57b707358025b22c2c70500c64151,41cf761a6c6e13fc9507b565d6eac694,4909c0a922ba612cd0425302ee9c120e,582ec4b55c266c150d247145b2334a80,7715df5b06f52d9f6d77f7ad32a51083,87fdea4c5234dd8270796c6182778c15,a15f092f4533cc3c0b80f8bb3243a8c9,b0022575e404708d71f65c8e1fa04635,b1526927f589afde5ccbb87278331ed4,b4328f26322e5d2ec62c4f3b85c70396,cfc2e3f5e332b73ff67ca722651e0d05,dcc8ee4acab32841d54d3998124bb70b,ea8d50addfe5eab9de61ad665f43180a,f074b5bdcbf02a4a00a01755093c5e4d,f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">12df797c6541f0b0be4065b24fec2651,21e826fb72589969fa1c69fbe2c47f86,23fc8e7a43813b4ec8ba2e8b6d3f1cf6,2f1168a228bcc70f5d5314220fa7f6e9,3f4a117db732e6d9de5c4ab0125f9118,40a57b707358025b22c2c70500c64151,41cf761a6c6e13fc9507b565d6eac694,4909c0a922ba612cd0425302ee9c120e,582ec4b55c266c150d247145b2334a80,7715df5b06f52d9f6d77f7ad32a51083,87fdea4c5234dd8270796c6182778c15,a15f092f4533cc3c0b80f8bb3243a8c9,b0022575e404708d71f65c8e1fa04635,b1526927f589afde5ccbb87278331ed4,b4328f26322e5d2ec62c4f3b85c70396,cfc2e3f5e332b73ff67ca722651e0d05,dcc8ee4acab32841d54d3998124bb70b,ea8d50addfe5eab9de61ad665f43180a,f074b5bdcbf02a4a00a01755093c5e4d,f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">12df797c6541f0b0be4065b24fec2651,21e826fb72589969fa1c69fbe2c47f86,23fc8e7a43813b4ec8ba2e8b6d3f1cf6,2f1168a228bcc70f5d5314220fa7f6e9,3f4a117db732e6d9de5c4ab0125f9118,40a57b707358025b22c2c70500c64151,41cf761a6c6e13fc9507b565d6eac694,4909c0a922ba612cd0425302ee9c120e,582ec4b55c266c150d247145b2334a80,7715df5b06f52d9f6d77f7ad32a51083,87fdea4c5234dd8270796c6182778c15,a15f092f4533cc3c0b80f8bb3243a8c9,b0022575e404708d71f65c8e1fa04635,b1526927f589afde5ccbb87278331ed4,b4328f26322e5d2ec62c4f3b85c70396,cfc2e3f5e332b73ff67ca722651e0d05,dcc8ee4acab32841d54d3998124bb70b,ea8d50addfe5eab9de61ad665f43180a,f074b5bdcbf02a4a00a01755093c5e4d,f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">12df797c6541f0b0be4065b24fec2651,21e826fb72589969fa1c69fbe2c47f86,23fc8e7a43813b4ec8ba2e8b6d3f1cf6,2f1168a228bcc70f5d5314220fa7f6e9,3f4a117db732e6d9de5c4ab0125f9118,40a57b707358025b22c2c70500c64151,41cf761a6c6e13fc9507b565d6eac694,4909c0a922ba612cd0425302ee9c120e,582ec4b55c266c150d247145b2334a80,7715df5b06f52d9f6d77f7ad32a51083,87fdea4c5234dd8270796c6182778c15,a15f092f4533cc3c0b80f8bb3243a8c9,b0022575e404708d71f65c8e1fa04635,b1526927f589afde5ccbb87278331ed4,b4328f26322e5d2ec62c4f3b85c70396,cfc2e3f5e332b73ff67ca722651e0d05,dcc8ee4acab32841d54d3998124bb70b,ea8d50addfe5eab9de61ad665f43180a,f074b5bdcbf02a4a00a01755093c5e4d,f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">12df797c6541f0b0be4065b24fec2651,21e826fb72589969fa1c69fbe2c47f86,23fc8e7a43813b4ec8ba2e8b6d3f1cf6,2f1168a228bcc70f5d5314220fa7f6e9,3f4a117db732e6d9de5c4ab0125f9118,40a57b707358025b22c2c70500c64151,41cf761a6c6e13fc9507b565d6eac694,4909c0a922ba612cd0425302ee9c120e,582ec4b55c266c150d247145b2334a80,7715df5b06f52d9f6d77f7ad32a51083,87fdea4c5234dd8270796c6182778c15,a15f092f4533cc3c0b80f8bb3243a8c9,b0022575e404708d71f65c8e1fa04635,b1526927f589afde5ccbb87278331ed4,b4328f26322e5d2ec62c4f3b85c70396,cfc2e3f5e332b73ff67ca722651e0d05,dcc8ee4acab32841d54d3998124bb70b,ea8d50addfe5eab9de61ad665f43180a,f074b5bdcbf02a4a00a01755093c5e4d,f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Mexico is a country that shares an international border with the United States, located near Tucson. Additionally, Mexico has an intermediate case of municipal autonomy, where municipalities are granted full autonomy by the federal constitution.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">12df797c6541f0b0be4065b24fec2651,21e826fb72589969fa1c69fbe2c47f86,23fc8e7a43813b4ec8ba2e8b6d3f1cf6,2f1168a228bcc70f5d5314220fa7f6e9,3f4a117db732e6d9de5c4ab0125f9118,40a57b707358025b22c2c70500c64151,41cf761a6c6e13fc9507b565d6eac694,4909c0a922ba612cd0425302ee9c120e,582ec4b55c266c150d247145b2334a80,7715df5b06f52d9f6d77f7ad32a51083,87fdea4c5234dd8270796c6182778c15,a15f092f4533cc3c0b80f8bb3243a8c9,b0022575e404708d71f65c8e1fa04635,b1526927f589afde5ccbb87278331ed4,b4328f26322e5d2ec62c4f3b85c70396,cfc2e3f5e332b73ff67ca722651e0d05,dcc8ee4acab32841d54d3998124bb70b,ea8d50addfe5eab9de61ad665f43180a,f074b5bdcbf02a4a00a01755093c5e4d,f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">12df797c6541f0b0be4065b24fec2651,21e826fb72589969fa1c69fbe2c47f86,23fc8e7a43813b4ec8ba2e8b6d3f1cf6,2f1168a228bcc70f5d5314220fa7f6e9,3f4a117db732e6d9de5c4ab0125f9118,40a57b707358025b22c2c70500c64151,41cf761a6c6e13fc9507b565d6eac694,4909c0a922ba612cd0425302ee9c120e,582ec4b55c266c150d247145b2334a80,7715df5b06f52d9f6d77f7ad32a51083,87fdea4c5234dd8270796c6182778c15,a15f092f4533cc3c0b80f8bb3243a8c9,b0022575e404708d71f65c8e1fa04635,b1526927f589afde5ccbb87278331ed4,b4328f26322e5d2ec62c4f3b85c70396,cfc2e3f5e332b73ff67ca722651e0d05,dcc8ee4acab32841d54d3998124bb70b,ea8d50addfe5eab9de61ad665f43180a,f074b5bdcbf02a4a00a01755093c5e4d,f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">12df797c6541f0b0be4065b24fec2651,21e826fb72589969fa1c69fbe2c47f86,23fc8e7a43813b4ec8ba2e8b6d3f1cf6,2f1168a228bcc70f5d5314220fa7f6e9,3f4a117db732e6d9de5c4ab0125f9118,40a57b707358025b22c2c70500c64151,41cf761a6c6e13fc9507b565d6eac694,4909c0a922ba612cd0425302ee9c120e,582ec4b55c266c150d247145b2334a80,7715df5b06f52d9f6d77f7ad32a51083,87fdea4c5234dd8270796c6182778c15,a15f092f4533cc3c0b80f8bb3243a8c9,b0022575e404708d71f65c8e1fa04635,b1526927f589afde5ccbb87278331ed4,b4328f26322e5d2ec62c4f3b85c70396,cfc2e3f5e332b73ff67ca722651e0d05,dcc8ee4acab32841d54d3998124bb70b,ea8d50addfe5eab9de61ad665f43180a,f074b5bdcbf02a4a00a01755093c5e4d,f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </node>
+    <node id="&quot;MANIEMA PROVINCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Maniema Province is a province in the Democratic Republic of the Congo where Pangi Territory is located."</data>
+      <data key="d2">b0022575e404708d71f65c8e1fa04635</data>
+    </node>
+    <node id="&quot;DEMOCRATIC REPUBLIC OF THE CONGO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Democratic Republic of the Congo is a country in Africa where Maniema Province and Pangi Territory are located."</data>
+      <data key="d2">b0022575e404708d71f65c8e1fa04635</data>
+    </node>
+    <node id="&quot;PANGI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pangi is a town in the Democratic Republic of the Congo that serves as the headquarters of Pangi Territory."</data>
+      <data key="d2">b0022575e404708d71f65c8e1fa04635</data>
+    </node>
+    <node id="&quot;PANGI TERRITORY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b0022575e404708d71f65c8e1fa04635</data>
+    </node>
+    <node id="&quot;BELARUS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Belarus is a country where Minsk Region is located."</data>
+      <data key="d2">41cf761a6c6e13fc9507b565d6eac694</data>
+    </node>
+    <node id="&quot;MINSK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Minsk is the administrative center of Minsk Region and a separate administrative territorial entity of Belarus."</data>
+      <data key="d2">41cf761a6c6e13fc9507b565d6eac694</data>
+    </node>
+    <node id="&quot;MINSK REGION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">41cf761a6c6e13fc9507b565d6eac694</data>
+    </node>
+    <node id="&quot;GWANAK DISTRICT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Gwanak District is an administrative area in Seoul, South Korea, where Bongcheon-dong is located."</data>
+      <data key="d2">582ec4b55c266c150d247145b2334a80</data>
+    </node>
+    <node id="&quot;SEOUL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Seoul is the capital city of South Korea, where Gwanak District and Bongcheon-dong are located."</data>
+      <data key="d2">582ec4b55c266c150d247145b2334a80</data>
+    </node>
+    <node id="&quot;MT. GWANAK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mt. Gwanak is a mountain in Seoul, South Korea, whose northern skirt forms part of the location of Bongcheon-dong."</data>
+      <data key="d2">582ec4b55c266c150d247145b2334a80</data>
+    </node>
+    <node id="&quot;DISTRICT OFFICE OF GWANAK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The District office of Gwanak is an administrative organization located in Bongcheon-dong."</data>
+      <data key="d2">582ec4b55c266c150d247145b2334a80</data>
+    </node>
+    <node id="&quot;BONGCHEON-DONG&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">582ec4b55c266c150d247145b2334a80</data>
+    </node>
+    <node id="&quot;UNION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Union refers to the central government in Brazil's tripartite federation."</data>
+      <data key="d2">21e826fb72589969fa1c69fbe2c47f86</data>
+    </node>
+    <node id="&quot;STATES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"States refer to the regional administrative entities in Brazil's tripartite federation."</data>
+      <data key="d2">21e826fb72589969fa1c69fbe2c47f86</data>
+    </node>
+    <node id="&quot;MUNICIPALITIES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Municipalities are autonomous political entities in Brazil, with their own legislative council and mayor."</data>
+      <data key="d2">21e826fb72589969fa1c69fbe2c47f86</data>
+    </node>
+    <node id="&quot;FEDERAL GOVERNMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Federal Government is the central authority that grants autonomy to municipalities in Mexico."</data>
+      <data key="d2">21e826fb72589969fa1c69fbe2c47f86</data>
+    </node>
+    <node id="&quot;BRAZIL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">21e826fb72589969fa1c69fbe2c47f86</data>
+    </node>
+    <node id="&quot;FEDERATION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">21e826fb72589969fa1c69fbe2c47f86</data>
+    </node>
+    <node id="&quot;YUKON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Yukon is a region in Canada where Keele Peak is located."</data>
+      <data key="d2">b1526927f589afde5ccbb87278331ed4</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Canada is a country where Yukon and the Northwest Territories are located."</data>
+      <data key="d2">b1526927f589afde5ccbb87278331ed4</data>
+    </node>
+    <node id="&quot;MACKENZIE MOUNTAINS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Mackenzie Mountains are a mountain range where Keele Peak is located."</data>
+      <data key="d2">b1526927f589afde5ccbb87278331ed4</data>
+    </node>
+    <node id="&quot;NORTHWEST TERRITORIES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Northwest Territories is a region in Canada, near the border with Yukon."</data>
+      <data key="d2">b1526927f589afde5ccbb87278331ed4</data>
+    </node>
+    <node id="&quot;KEELE PEAK&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b1526927f589afde5ccbb87278331ed4</data>
+    </node>
+    <node id="&quot;ALEXANDER MCCAULEY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alexander McCauley was a settler who arrived on the mountain in 1774 and has it named after him."</data>
+      <data key="d2">87fdea4c5234dd8270796c6182778c15</data>
+    </node>
+    <node id="&quot;COLUMBIA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Columbia County is a location with multiple entities, one in Oregon and another in Pennsylvania. In Oregon, it was a hub for the Socialist Party of Oregon's activities. Meanwhile, in Pennsylvania, Columbia County is home to McCauley Mountain.</data>
+      <data key="d2">3f4a117db732e6d9de5c4ab0125f9118,87fdea4c5234dd8270796c6182778c15</data>
+    </node>
+    <node id="&quot;PENNSYLVANIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pennsylvania is a state in the United States where McCauley Mountain is located."</data>
+      <data key="d2">87fdea4c5234dd8270796c6182778c15</data>
+    </node>
+    <node id="&quot;MAUCH CHUNK FORMATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Mauch Chunk Formation is a geological event that formed rock formations on and near McCauley Mountain."</data>
+      <data key="d2">87fdea4c5234dd8270796c6182778c15</data>
+    </node>
+    <node id="&quot;POTTSVILLE FORMATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Pottsville Formation is a geological event that formed rock formations on and near McCauley Mountain."</data>
+      <data key="d2">87fdea4c5234dd8270796c6182778c15</data>
+    </node>
+    <node id="&quot;MCCAULEY MOUNTAIN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">87fdea4c5234dd8270796c6182778c15</data>
+    </node>
+    <node id="&quot;JURA BERNOIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Jura bernois is an administrative district in the canton of Bern in Switzerland."</data>
+      <data key="d2">12df797c6541f0b0be4065b24fec2651,40a57b707358025b22c2c70500c64151,cfc2e3f5e332b73ff67ca722651e0d05</data>
+    </node>
+    <node id="&quot;BERN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Bern is a canton in Switzerland where Belprahon, Cormoret, Jura bernois, and Cort&#233;bert are located.
+
+Let me know if you need anything else!</data>
+      <data key="d2">12df797c6541f0b0be4065b24fec2651,40a57b707358025b22c2c70500c64151,cfc2e3f5e332b73ff67ca722651e0d05</data>
+    </node>
+    <node id="&quot;SWITZERLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Switzerland is a country located in Europe, where several notable places can be found, including Belprahon, Cort&#233;bert, the canton of Bern, Jura bernois, and Cormoret.</data>
+      <data key="d2">12df797c6541f0b0be4065b24fec2651,40a57b707358025b22c2c70500c64151,cfc2e3f5e332b73ff67ca722651e0d05,ea8d50addfe5eab9de61ad665f43180a</data>
+    </node>
+    <node id="&quot;CORMORET&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">40a57b707358025b22c2c70500c64151</data>
+    </node>
+    <node id="&quot;OREGON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Oregon is a state in the United States where the Socialist Party of Oregon was based."</data>
+      <data key="d2">3f4a117db732e6d9de5c4ab0125f9118</data>
+    </node>
+    <node id="&quot;VLADIMIR LENIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Vladimir Lenin was the leader of the Soviet Union, which was established after the October Revolution in 1918."</data>
+      <data key="d2">3f4a117db732e6d9de5c4ab0125f9118</data>
+    </node>
+    <node id="&quot;SOVIET UNION&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Soviet Union is a country that was established after the October Revolution in 1918, led by Vladimir Lenin."</data>
+      <data key="d2">3f4a117db732e6d9de5c4ab0125f9118</data>
+    </node>
+    <node id="&quot;FIRST RED SCARE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The First Red Scare was a period of time when the Socialist Party of Oregon began to gain popularity."</data>
+      <data key="d2">3f4a117db732e6d9de5c4ab0125f9118</data>
+    </node>
+    <node id="&quot;OCTOBER REVOLUTION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The October Revolution was an event in 1918 that led to the establishment of the Soviet Union, which received attention from the press."</data>
+      <data key="d2">3f4a117db732e6d9de5c4ab0125f9118</data>
+    </node>
+    <node id="&quot;SOCIALIST PARTY OF OREGON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3f4a117db732e6d9de5c4ab0125f9118</data>
+    </node>
+    <node id="&quot;NAMADGI NATIONAL PARK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Namadgi National Park is a national park located in the ACT, and is home to part of the mountain."</data>
+      <data key="d2">f074b5bdcbf02a4a00a01755093c5e4d</data>
+    </node>
+    <node id="&quot;KOSCIUSZKO NATIONAL PARK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Kosciuszko National Park is a national park located in NSW, and is home to part of the mountain."</data>
+      <data key="d2">f074b5bdcbf02a4a00a01755093c5e4d</data>
+    </node>
+    <node id="&quot;CORIN DAM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Corin Dam is a location from which bushwalkers often climb the mountain, and is a few hours' hike away."</data>
+      <data key="d2">f074b5bdcbf02a4a00a01755093c5e4d</data>
+    </node>
+    <node id="&quot;GININI FLATS WETLANDS RAMSAR SITE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ginini Flats Wetlands Ramsar Site is a wetland area located near the mountain."</data>
+      <data key="d2">f074b5bdcbf02a4a00a01755093c5e4d</data>
+    </node>
+    <node id="&quot;NSW&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New South Wales (NSW) is a state in which part of the mountain is located."</data>
+      <data key="d2">f074b5bdcbf02a4a00a01755093c5e4d</data>
+    </node>
+    <node id="&quot;BIMBERI NATURE RESERVE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f074b5bdcbf02a4a00a01755093c5e4d</data>
+    </node>
+    <node id="&quot;MOUNTAIN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f074b5bdcbf02a4a00a01755093c5e4d</data>
+    </node>
+    <node id="&quot;FEDERAL GOVERNMENT OF NIGERIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Federal Government of Nigeria is the central authority that shares sovereignty with the Nigerian States."</data>
+      <data key="d2">4909c0a922ba612cd0425302ee9c120e</data>
+    </node>
+    <node id="&quot;FEDERAL CAPITAL TERRITORY (FCT)&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Federal Capital Territory (FCT) is a territory under the direct control of the Federal Government, not a state."</data>
+      <data key="d2">4909c0a922ba612cd0425302ee9c120e</data>
+    </node>
+    <node id="&quot;NIGERIAN STATE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"A Nigerian State is a federated political entity that shares sovereignty with the Federal Government of Nigeria."</data>
+      <data key="d2">4909c0a922ba612cd0425302ee9c120e</data>
+    </node>
+    <node id="&quot;NIGERIA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4909c0a922ba612cd0425302ee9c120e</data>
+    </node>
+    <node id="&quot;CHELYABINSK OBLAST&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Chelyabinsk Oblast is an administrative region in Russia where Chelyabinsk city is located."</data>
+      <data key="d2">a15f092f4533cc3c0b80f8bb3243a8c9</data>
+    </node>
+    <node id="&quot;YEKATERINBURG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Yekaterinburg is a city located in Russia, north of Chelyabinsk."</data>
+      <data key="d2">a15f092f4533cc3c0b80f8bb3243a8c9</data>
+    </node>
+    <node id="&quot;URAL MOUNTAINS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Ural Mountains are a mountain range that forms the border between Europe and Asia, near which Chelyabinsk city is situated."</data>
+      <data key="d2">a15f092f4533cc3c0b80f8bb3243a8c9</data>
+    </node>
+    <node id="&quot;MIASS RIVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Miass River is a river on which Chelyabinsk city is located."</data>
+      <data key="d2">a15f092f4533cc3c0b80f8bb3243a8c9</data>
+    </node>
+    <node id="&quot;EUROPE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Europe is a continent that borders Asia, with the Ural Mountains forming the dividing line."</data>
+      <data key="d2">a15f092f4533cc3c0b80f8bb3243a8c9</data>
+    </node>
+    <node id="&quot;ASIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Asia is a continent that borders Europe, with the Ural Mountains forming the dividing line."</data>
+      <data key="d2">a15f092f4533cc3c0b80f8bb3243a8c9</data>
+    </node>
+    <node id="&quot;CHELYABINSK&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a15f092f4533cc3c0b80f8bb3243a8c9</data>
+    </node>
+    <node id="&quot;TUALATIN MOUNTAINS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Tualatin Mountains are a mountain range located west of Portland, also referred to as the West Hills."</data>
+      <data key="d2">b4328f26322e5d2ec62c4f3b85c70396</data>
+    </node>
+    <node id="&quot;COUNCIL CREST PARK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Council Crest Park is a park located in the West Hills of Portland, known for being the highest point within city limits."</data>
+      <data key="d2">b4328f26322e5d2ec62c4f3b85c70396</data>
+    </node>
+    <node id="&quot;FOREST PARK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Forest Park is a park located near the highest point in Portland, which is a little-known and infrequently accessed area."</data>
+      <data key="d2">b4328f26322e5d2ec62c4f3b85c70396</data>
+    </node>
+    <node id="&quot;MT. TABOR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mt. Tabor is an extinct volcanic cinder cone located east of the river, rising to 636 feet."</data>
+      <data key="d2">b4328f26322e5d2ec62c4f3b85c70396</data>
+    </node>
+    <node id="&quot;POWELL BUTTE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Powell Butte is a hill located near Mt. Tabor, rising to 614 feet."</data>
+      <data key="d2">b4328f26322e5d2ec62c4f3b85c70396</data>
+    </node>
+    <node id="&quot;ROCKY BUTTE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Rocky Butte is a hill located near Mt. Tabor and Powell Butte, rising to 612 feet."</data>
+      <data key="d2">b4328f26322e5d2ec62c4f3b85c70396</data>
+    </node>
+    <node id="&quot;OREGON COAST RANGE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Oregon Coast Range is a mountain range located west of the Tualatin Mountains."</data>
+      <data key="d2">b4328f26322e5d2ec62c4f3b85c70396</data>
+    </node>
+    <node id="&quot;CASCADE RANGE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Cascade Range is an actively volcanic mountain range located east of Portland."</data>
+      <data key="d2">b4328f26322e5d2ec62c4f3b85c70396</data>
+    </node>
+    <node id="&quot;MT. HOOD&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mt. Hood is a mountain that dominates the horizon on clear days, visible from Portland."</data>
+      <data key="d2">b4328f26322e5d2ec62c4f3b85c70396</data>
+    </node>
+    <node id="&quot;MT. ST. HELENS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mt. St. Helens is a mountain that dominates the horizon on clear days, visible from Portland."</data>
+      <data key="d2">b4328f26322e5d2ec62c4f3b85c70396</data>
+    </node>
+    <node id="&quot;MT. ADAMS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mt. Adams is a mountain that can be seen in the distance on clear days from Portland."</data>
+      <data key="d2">b4328f26322e5d2ec62c4f3b85c70396</data>
+    </node>
+    <node id="&quot;MT. RAINIER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mt. Rainier is a mountain that can be seen in the distance on clear days from Portland."</data>
+      <data key="d2">b4328f26322e5d2ec62c4f3b85c70396</data>
+    </node>
+    <node id="&quot;PORTLAND&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b4328f26322e5d2ec62c4f3b85c70396</data>
+    </node>
+    <node id="&quot;WEST HILLS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b4328f26322e5d2ec62c4f3b85c70396</data>
+    </node>
+    <node id="&quot;ARAD COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arad County is an administrative region in Romania where Petri&#537; is located."</data>
+      <data key="d2">f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </node>
+    <node id="&quot;MURE&#536; COULOIR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mure&#537; Couloir is a geographic feature in Romania, forming the contact zone with Metaliferi Mountains."</data>
+      <data key="d2">f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </node>
+    <node id="&quot;METALIFERI MOUNTAINS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Metaliferi Mountains are a mountain range in Romania, forming the contact zone with Mure&#537; Couloir."</data>
+      <data key="d2">f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </node>
+    <node id="&quot;CORBE&#536;TI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Corbe&#537;ti is one of the six villages that compose the administrative territory of Petri&#537; commune."</data>
+      <data key="d2">f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </node>
+    <node id="&quot;ILTEU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ilteu is one of the six villages that compose the administrative territory of Petri&#537; commune."</data>
+      <data key="d2">f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </node>
+    <node id="&quot;OB&#194;R&#536;IA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ob&#226;r&#537;ia is one of the six villages that compose the administrative territory of Petri&#537; commune."</data>
+      <data key="d2">f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </node>
+    <node id="&quot;RO&#536;IA NOU&#258;&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ro&#537;ia Nou&#259; is one of the six villages that compose the administrative territory of Petri&#537; commune."</data>
+      <data key="d2">f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </node>
+    <node id="&quot;SELI&#536;TE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Seli&#537;te is one of the six villages that compose the administrative territory of Petri&#537; commune."</data>
+      <data key="d2">f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </node>
+    <node id="&quot;PETRI&#536;&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </node>
+    <node id="&quot;BELPRAHON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">cfc2e3f5e332b73ff67ca722651e0d05</data>
+    </node>
+    <node id="&quot;FISCHENTHAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Fischenthal is a community located in the Z&#252;rcher Oberland, in the eastern part of canton of Z&#252;rich, in Switzerland."</data>
+      <data key="d2">ea8d50addfe5eab9de61ad665f43180a</data>
+    </node>
+    <node id="&quot;Z&#220;RCHER OBERLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Z&#252;rcher Oberland is a geographic region in the eastern part of canton of Z&#252;rich, in Switzerland."</data>
+      <data key="d2">ea8d50addfe5eab9de61ad665f43180a</data>
+    </node>
+    <node id="&quot;CANTON OF Z&#220;RICH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Canton of Z&#252;rich is an administrative division in Switzerland."</data>
+      <data key="d2">ea8d50addfe5eab9de61ad665f43180a</data>
+    </node>
+    <node id="&quot;H&#214;RNLI MOUNTAIN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ea8d50addfe5eab9de61ad665f43180a</data>
+    </node>
+    <node id="&quot;FRENCH POLYNESIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"French Polynesia is an overseas territory of France in the Pacific Ocean."</data>
+      <data key="d2">7715df5b06f52d9f6d77f7ad32a51083</data>
+    </node>
+    <node id="&quot;RAIATEA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Raiatea is an island where the commune of Tumaraa is located."</data>
+      <data key="d2">7715df5b06f52d9f6d77f7ad32a51083</data>
+    </node>
+    <node id="&quot;LEEWARD ISLANDS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Leeward Islands are an administrative subdivision where Raiatea and Tumaraa are located."</data>
+      <data key="d2">7715df5b06f52d9f6d77f7ad32a51083</data>
+    </node>
+    <node id="&quot;SOCIETY ISLANDS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Society Islands are a group of islands that include the Leeward Islands, where Raiatea and Tumaraa are located."</data>
+      <data key="d2">7715df5b06f52d9f6d77f7ad32a51083</data>
+    </node>
+    <node id="&quot;FRANCE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"France is the country to which French Polynesia belongs as an overseas territory."</data>
+      <data key="d2">7715df5b06f52d9f6d77f7ad32a51083</data>
+    </node>
+    <node id="&quot;TUMARAA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7715df5b06f52d9f6d77f7ad32a51083</data>
+    </node>
+    <node id="&quot;BAKHCHYSARAI RAION&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bakhchysarai Raion is an administrative region in the Autonomous Republic of Crimea."</data>
+      <data key="d2">dcc8ee4acab32841d54d3998124bb70b</data>
+    </node>
+    <node id="&quot;AUTONOMOUS REPUBLIC OF CRIMEA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Autonomous Republic of Crimea is a territory recognized by a majority of countries as part of Ukraine and incorporated by Russia as the Republic of Crimea."</data>
+      <data key="d2">dcc8ee4acab32841d54d3998124bb70b</data>
+    </node>
+    <node id="&quot;UKRAINE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ukraine is a country that claims sovereignty over the Autonomous Republic of Crimea."</data>
+      <data key="d2">dcc8ee4acab32841d54d3998124bb70b</data>
+    </node>
+    <node id="&quot;RUSSIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Russia is a country that has incorporated the Autonomous Republic of Crimea as the Republic of Crimea."</data>
+      <data key="d2">dcc8ee4acab32841d54d3998124bb70b</data>
+    </node>
+    <node id="&quot;REPUBLIC OF CRIMEA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Republic of Crimea is a territory incorporated by Russia, previously known as the Autonomous Republic of Crimea."</data>
+      <data key="d2">dcc8ee4acab32841d54d3998124bb70b</data>
+    </node>
+    <node id="&quot;CRIMEAN MOUNTAINS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Crimean Mountains are a mountain range where Krasny Mak is located."</data>
+      <data key="d2">dcc8ee4acab32841d54d3998124bb70b</data>
+    </node>
+    <node id="&quot;BYSTRYANKA CREEK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Bystryanka creek is a tributary of the river Belbek, along which Krasny Mak village stretches."</data>
+      <data key="d2">dcc8ee4acab32841d54d3998124bb70b</data>
+    </node>
+    <node id="&quot;BELBEK RIVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Belbek river is a watercourse that receives water from the Bystryanka creek."</data>
+      <data key="d2">dcc8ee4acab32841d54d3998124bb70b</data>
+    </node>
+    <node id="&quot;KRASNY MAK&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">dcc8ee4acab32841d54d3998124bb70b</data>
+    </node>
+    <node id="&quot;SOVEREIGN STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Sovereign States refer to 54 countries where English is an official language."</data>
+      <data key="d2">2f1168a228bcc70f5d5314220fa7f6e9</data>
+    </node>
+    <node id="&quot;NON-SOVEREIGN ENTITIES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Non-Sovereign Entities refer to 27 entities where English is an official language, but are not sovereign states."</data>
+      <data key="d2">2f1168a228bcc70f5d5314220fa7f6e9</data>
+    </node>
+    <node id="&quot;ENGLISH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2f1168a228bcc70f5d5314220fa7f6e9</data>
+    </node>
+    <node id="&quot;JURA MOUNTAINS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Jura mountains are a mountain range where Cort&#233;bert is located."</data>
+      <data key="d2">12df797c6541f0b0be4065b24fec2651</data>
+    </node>
+    <node id="&quot;CORT&#201;BERT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">12df797c6541f0b0be4065b24fec2651</data>
+    </node>
+    <edge source="&quot;ACT&quot;" target="&quot;LEGISLATIVE ASSEMBLY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The ACT has its own unicameral Legislative Assembly."</data>
+      <data key="d5">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </edge>
+    <edge source="&quot;QUEENSLAND&quot;" target="&quot;LEGISLATIVE ASSEMBLY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Queensland has its own unicameral Legislative Assembly."</data>
+      <data key="d5">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </edge>
+    <edge source="&quot;SOUTH AUSTRALIA&quot;" target="&quot;LEGISLATIVE COUNCIL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"South Australia has its own bicameral parliament with a Legislative Council."</data>
+      <data key="d5">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </edge>
+    <edge source="&quot;TASMANIA&quot;" target="&quot;LEGISLATIVE COUNCIL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tasmania has its own bicameral parliament with a Legislative Council."</data>
+      <data key="d5">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </edge>
+    <edge source="&quot;COMMONWEALTH&quot;" target="&quot;GOVERNOR-GENERAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Governor-General represents the Queen in the Commonwealth of Australia."</data>
+      <data key="d5">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </edge>
+    <edge source="&quot;LEGISLATIVE ASSEMBLY&quot;" target="&quot;NORTHERN TERRITORY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Northern Territory has its own unicameral Legislative Assembly."</data>
+      <data key="d5">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </edge>
+    <edge source="&quot;PREMIER&quot;" target="&quot;STATE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Premier is the head of government in each state in Australia."</data>
+      <data key="d5">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </edge>
+    <edge source="&quot;CHIEF MINISTER&quot;" target="&quot;TERRITORY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Chief Minister is the head of government in each territory in Australia."</data>
+      <data key="d5">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </edge>
+    <edge source="&quot;GOVERNOR-GENERAL&quot;" target="&quot;QUEEN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Queen is represented by the Governor-General in the Commonwealth of Australia."</data>
+      <data key="d5">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </edge>
+    <edge source="&quot;ASHMORE AND CARTIER ISLANDS&quot;" target="&quot;COMMONWEALTH PARLIAMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ashmore and Cartier Islands are administered directly by the Commonwealth Parliament."</data>
+      <data key="d5">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </edge>
+    <edge source="&quot;AUSTRALIAN ANTARCTIC TERRITORY&quot;" target="&quot;COMMONWEALTH PARLIAMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Australian Antarctic Territory is administered directly by the Commonwealth Parliament."</data>
+      <data key="d5">23fc8e7a43813b4ec8ba2e8b6d3f1cf6</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">12df797c6541f0b0be4065b24fec2651,21e826fb72589969fa1c69fbe2c47f86,23fc8e7a43813b4ec8ba2e8b6d3f1cf6,2f1168a228bcc70f5d5314220fa7f6e9,3f4a117db732e6d9de5c4ab0125f9118,40a57b707358025b22c2c70500c64151,41cf761a6c6e13fc9507b565d6eac694,4909c0a922ba612cd0425302ee9c120e,582ec4b55c266c150d247145b2334a80,7715df5b06f52d9f6d77f7ad32a51083,87fdea4c5234dd8270796c6182778c15,a15f092f4533cc3c0b80f8bb3243a8c9,b0022575e404708d71f65c8e1fa04635,b1526927f589afde5ccbb87278331ed4,b4328f26322e5d2ec62c4f3b85c70396,cfc2e3f5e332b73ff67ca722651e0d05,dcc8ee4acab32841d54d3998124bb70b,ea8d50addfe5eab9de61ad665f43180a,f074b5bdcbf02a4a00a01755093c5e4d,f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">12df797c6541f0b0be4065b24fec2651,21e826fb72589969fa1c69fbe2c47f86,23fc8e7a43813b4ec8ba2e8b6d3f1cf6,2f1168a228bcc70f5d5314220fa7f6e9,3f4a117db732e6d9de5c4ab0125f9118,40a57b707358025b22c2c70500c64151,41cf761a6c6e13fc9507b565d6eac694,4909c0a922ba612cd0425302ee9c120e,582ec4b55c266c150d247145b2334a80,7715df5b06f52d9f6d77f7ad32a51083,87fdea4c5234dd8270796c6182778c15,a15f092f4533cc3c0b80f8bb3243a8c9,b0022575e404708d71f65c8e1fa04635,b1526927f589afde5ccbb87278331ed4,b4328f26322e5d2ec62c4f3b85c70396,cfc2e3f5e332b73ff67ca722651e0d05,dcc8ee4acab32841d54d3998124bb70b,ea8d50addfe5eab9de61ad665f43180a,f074b5bdcbf02a4a00a01755093c5e4d,f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">12df797c6541f0b0be4065b24fec2651,21e826fb72589969fa1c69fbe2c47f86,23fc8e7a43813b4ec8ba2e8b6d3f1cf6,2f1168a228bcc70f5d5314220fa7f6e9,3f4a117db732e6d9de5c4ab0125f9118,40a57b707358025b22c2c70500c64151,41cf761a6c6e13fc9507b565d6eac694,4909c0a922ba612cd0425302ee9c120e,582ec4b55c266c150d247145b2334a80,7715df5b06f52d9f6d77f7ad32a51083,87fdea4c5234dd8270796c6182778c15,a15f092f4533cc3c0b80f8bb3243a8c9,b0022575e404708d71f65c8e1fa04635,b1526927f589afde5ccbb87278331ed4,b4328f26322e5d2ec62c4f3b85c70396,cfc2e3f5e332b73ff67ca722651e0d05,dcc8ee4acab32841d54d3998124bb70b,ea8d50addfe5eab9de61ad665f43180a,f074b5bdcbf02a4a00a01755093c5e4d,f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">12df797c6541f0b0be4065b24fec2651,21e826fb72589969fa1c69fbe2c47f86,23fc8e7a43813b4ec8ba2e8b6d3f1cf6,2f1168a228bcc70f5d5314220fa7f6e9,3f4a117db732e6d9de5c4ab0125f9118,40a57b707358025b22c2c70500c64151,41cf761a6c6e13fc9507b565d6eac694,4909c0a922ba612cd0425302ee9c120e,582ec4b55c266c150d247145b2334a80,7715df5b06f52d9f6d77f7ad32a51083,87fdea4c5234dd8270796c6182778c15,a15f092f4533cc3c0b80f8bb3243a8c9,b0022575e404708d71f65c8e1fa04635,b1526927f589afde5ccbb87278331ed4,b4328f26322e5d2ec62c4f3b85c70396,cfc2e3f5e332b73ff67ca722651e0d05,dcc8ee4acab32841d54d3998124bb70b,ea8d50addfe5eab9de61ad665f43180a,f074b5bdcbf02a4a00a01755093c5e4d,f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">12df797c6541f0b0be4065b24fec2651,21e826fb72589969fa1c69fbe2c47f86,23fc8e7a43813b4ec8ba2e8b6d3f1cf6,2f1168a228bcc70f5d5314220fa7f6e9,3f4a117db732e6d9de5c4ab0125f9118,40a57b707358025b22c2c70500c64151,41cf761a6c6e13fc9507b565d6eac694,4909c0a922ba612cd0425302ee9c120e,582ec4b55c266c150d247145b2334a80,7715df5b06f52d9f6d77f7ad32a51083,87fdea4c5234dd8270796c6182778c15,a15f092f4533cc3c0b80f8bb3243a8c9,b0022575e404708d71f65c8e1fa04635,b1526927f589afde5ccbb87278331ed4,b4328f26322e5d2ec62c4f3b85c70396,cfc2e3f5e332b73ff67ca722651e0d05,dcc8ee4acab32841d54d3998124bb70b,ea8d50addfe5eab9de61ad665f43180a,f074b5bdcbf02a4a00a01755093c5e4d,f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">12df797c6541f0b0be4065b24fec2651,21e826fb72589969fa1c69fbe2c47f86,23fc8e7a43813b4ec8ba2e8b6d3f1cf6,2f1168a228bcc70f5d5314220fa7f6e9,3f4a117db732e6d9de5c4ab0125f9118,40a57b707358025b22c2c70500c64151,41cf761a6c6e13fc9507b565d6eac694,4909c0a922ba612cd0425302ee9c120e,582ec4b55c266c150d247145b2334a80,7715df5b06f52d9f6d77f7ad32a51083,87fdea4c5234dd8270796c6182778c15,a15f092f4533cc3c0b80f8bb3243a8c9,b0022575e404708d71f65c8e1fa04635,b1526927f589afde5ccbb87278331ed4,b4328f26322e5d2ec62c4f3b85c70396,cfc2e3f5e332b73ff67ca722651e0d05,dcc8ee4acab32841d54d3998124bb70b,ea8d50addfe5eab9de61ad665f43180a,f074b5bdcbf02a4a00a01755093c5e4d,f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">12df797c6541f0b0be4065b24fec2651,21e826fb72589969fa1c69fbe2c47f86,23fc8e7a43813b4ec8ba2e8b6d3f1cf6,2f1168a228bcc70f5d5314220fa7f6e9,3f4a117db732e6d9de5c4ab0125f9118,40a57b707358025b22c2c70500c64151,41cf761a6c6e13fc9507b565d6eac694,4909c0a922ba612cd0425302ee9c120e,582ec4b55c266c150d247145b2334a80,7715df5b06f52d9f6d77f7ad32a51083,87fdea4c5234dd8270796c6182778c15,a15f092f4533cc3c0b80f8bb3243a8c9,b0022575e404708d71f65c8e1fa04635,b1526927f589afde5ccbb87278331ed4,b4328f26322e5d2ec62c4f3b85c70396,cfc2e3f5e332b73ff67ca722651e0d05,dcc8ee4acab32841d54d3998124bb70b,ea8d50addfe5eab9de61ad665f43180a,f074b5bdcbf02a4a00a01755093c5e4d,f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">12df797c6541f0b0be4065b24fec2651,21e826fb72589969fa1c69fbe2c47f86,23fc8e7a43813b4ec8ba2e8b6d3f1cf6,2f1168a228bcc70f5d5314220fa7f6e9,3f4a117db732e6d9de5c4ab0125f9118,40a57b707358025b22c2c70500c64151,41cf761a6c6e13fc9507b565d6eac694,4909c0a922ba612cd0425302ee9c120e,582ec4b55c266c150d247145b2334a80,7715df5b06f52d9f6d77f7ad32a51083,87fdea4c5234dd8270796c6182778c15,a15f092f4533cc3c0b80f8bb3243a8c9,b0022575e404708d71f65c8e1fa04635,b1526927f589afde5ccbb87278331ed4,b4328f26322e5d2ec62c4f3b85c70396,cfc2e3f5e332b73ff67ca722651e0d05,dcc8ee4acab32841d54d3998124bb70b,ea8d50addfe5eab9de61ad665f43180a,f074b5bdcbf02a4a00a01755093c5e4d,f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">12df797c6541f0b0be4065b24fec2651,21e826fb72589969fa1c69fbe2c47f86,23fc8e7a43813b4ec8ba2e8b6d3f1cf6,2f1168a228bcc70f5d5314220fa7f6e9,3f4a117db732e6d9de5c4ab0125f9118,40a57b707358025b22c2c70500c64151,41cf761a6c6e13fc9507b565d6eac694,4909c0a922ba612cd0425302ee9c120e,582ec4b55c266c150d247145b2334a80,7715df5b06f52d9f6d77f7ad32a51083,87fdea4c5234dd8270796c6182778c15,a15f092f4533cc3c0b80f8bb3243a8c9,b0022575e404708d71f65c8e1fa04635,b1526927f589afde5ccbb87278331ed4,b4328f26322e5d2ec62c4f3b85c70396,cfc2e3f5e332b73ff67ca722651e0d05,dcc8ee4acab32841d54d3998124bb70b,ea8d50addfe5eab9de61ad665f43180a,f074b5bdcbf02a4a00a01755093c5e4d,f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </edge>
+    <edge source="&quot;MEXICO&quot;" target="&quot;MUNICIPALITIES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mexico's federal constitution grants full autonomy to municipalities."</data>
+      <data key="d5">21e826fb72589969fa1c69fbe2c47f86</data>
+    </edge>
+    <edge source="&quot;MANIEMA PROVINCE&quot;" target="&quot;PANGI TERRITORY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Pangi Territory is an administrative area within Maniema Province."</data>
+      <data key="d5">b0022575e404708d71f65c8e1fa04635</data>
+    </edge>
+    <edge source="&quot;MANIEMA PROVINCE&quot;" target="&quot;DEMOCRATIC REPUBLIC OF THE CONGO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Maniema Province is a province in the Democratic Republic of the Congo."</data>
+      <data key="d5">b0022575e404708d71f65c8e1fa04635</data>
+    </edge>
+    <edge source="&quot;PANGI&quot;" target="&quot;PANGI TERRITORY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The headquarters of Pangi Territory is the town of Pangi."</data>
+      <data key="d5">b0022575e404708d71f65c8e1fa04635</data>
+    </edge>
+    <edge source="&quot;BELARUS&quot;" target="&quot;MINSK REGION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Minsk Region is one of the regions of Belarus."</data>
+      <data key="d5">41cf761a6c6e13fc9507b565d6eac694</data>
+    </edge>
+    <edge source="&quot;MINSK&quot;" target="&quot;MINSK REGION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Minsk is the administrative center of Minsk Region."</data>
+      <data key="d5">41cf761a6c6e13fc9507b565d6eac694</data>
+    </edge>
+    <edge source="&quot;GWANAK DISTRICT&quot;" target="&quot;BONGCHEON-DONG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bongcheon-dong is a statutory division of Gwanak District."</data>
+      <data key="d5">582ec4b55c266c150d247145b2334a80</data>
+    </edge>
+    <edge source="&quot;GWANAK DISTRICT&quot;" target="&quot;SEOUL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gwanak District is an administrative area in Seoul."</data>
+      <data key="d5">582ec4b55c266c150d247145b2334a80</data>
+    </edge>
+    <edge source="&quot;MT. GWANAK&quot;" target="&quot;BONGCHEON-DONG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bongcheon-dong's location stretches to the mountain ridge of Mt. Gwanak."</data>
+      <data key="d5">582ec4b55c266c150d247145b2334a80</data>
+    </edge>
+    <edge source="&quot;DISTRICT OFFICE OF GWANAK&quot;" target="&quot;BONGCHEON-DONG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The District office of Gwanak is located in Bongcheon-dong."</data>
+      <data key="d5">582ec4b55c266c150d247145b2334a80</data>
+    </edge>
+    <edge source="&quot;UNION&quot;" target="&quot;STATES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Union and States are part of Brazil's tripartite federation."</data>
+      <data key="d5">21e826fb72589969fa1c69fbe2c47f86</data>
+    </edge>
+    <edge source="&quot;MUNICIPALITIES&quot;" target="&quot;FEDERAL GOVERNMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Federal Government determines the powers and competencies of municipalities in Mexico."</data>
+      <data key="d5">21e826fb72589969fa1c69fbe2c47f86</data>
+    </edge>
+    <edge source="&quot;BRAZIL&quot;" target="&quot;FEDERATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Brazil has a tripartite federation, comprising the Union, States, and municipalities."</data>
+      <data key="d5">21e826fb72589969fa1c69fbe2c47f86</data>
+    </edge>
+    <edge source="&quot;YUKON&quot;" target="&quot;KEELE PEAK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Keele Peak is located in Yukon, Canada."</data>
+      <data key="d5">b1526927f589afde5ccbb87278331ed4</data>
+    </edge>
+    <edge source="&quot;YUKON&quot;" target="&quot;CANADA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Yukon is a region in Canada."</data>
+      <data key="d5">b1526927f589afde5ccbb87278331ed4</data>
+    </edge>
+    <edge source="&quot;CANADA&quot;" target="&quot;NORTHWEST TERRITORIES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Northwest Territories is a region in Canada."</data>
+      <data key="d5">b1526927f589afde5ccbb87278331ed4</data>
+    </edge>
+    <edge source="&quot;MACKENZIE MOUNTAINS&quot;" target="&quot;KEELE PEAK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Keele Peak is located in the Mackenzie Mountains."</data>
+      <data key="d5">b1526927f589afde5ccbb87278331ed4</data>
+    </edge>
+    <edge source="&quot;ALEXANDER MCCAULEY&quot;" target="&quot;MCCAULEY MOUNTAIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The mountain was named after Alexander McCauley, who settled there in 1774."</data>
+      <data key="d5">87fdea4c5234dd8270796c6182778c15</data>
+    </edge>
+    <edge source="&quot;COLUMBIA COUNTY&quot;" target="&quot;MCCAULEY MOUNTAIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"McCauley Mountain is located in Columbia County, Pennsylvania."</data>
+      <data key="d5">87fdea4c5234dd8270796c6182778c15</data>
+    </edge>
+    <edge source="&quot;COLUMBIA COUNTY&quot;" target="&quot;SOCIALIST PARTY OF OREGON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Socialist Party of Oregon was active in Columbia County, Oregon."</data>
+      <data key="d5">3f4a117db732e6d9de5c4ab0125f9118</data>
+    </edge>
+    <edge source="&quot;MAUCH CHUNK FORMATION&quot;" target="&quot;MCCAULEY MOUNTAIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Mauch Chunk Formation is a geological event that formed rock formations on and near McCauley Mountain."</data>
+      <data key="d5">87fdea4c5234dd8270796c6182778c15</data>
+    </edge>
+    <edge source="&quot;JURA BERNOIS&quot;" target="&quot;CORMORET&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cormoret is located in the Jura bernois administrative district."</data>
+      <data key="d5">40a57b707358025b22c2c70500c64151</data>
+    </edge>
+    <edge source="&quot;JURA BERNOIS&quot;" target="&quot;BERN&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Jura bernois is an administrative district in the canton of Bern."</data>
+      <data key="d5">40a57b707358025b22c2c70500c64151,cfc2e3f5e332b73ff67ca722651e0d05</data>
+    </edge>
+    <edge source="&quot;JURA BERNOIS&quot;" target="&quot;BELPRAHON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Belprahon is located in the Jura bernois administrative district."</data>
+      <data key="d5">cfc2e3f5e332b73ff67ca722651e0d05</data>
+    </edge>
+    <edge source="&quot;JURA BERNOIS&quot;" target="&quot;CORT&#201;BERT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cort&#233;bert is located in the Jura bernois administrative district."</data>
+      <data key="d5">12df797c6541f0b0be4065b24fec2651</data>
+    </edge>
+    <edge source="&quot;BERN&quot;" target="&quot;SWITZERLAND&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Bern is a canton in Switzerland."</data>
+      <data key="d5">40a57b707358025b22c2c70500c64151,cfc2e3f5e332b73ff67ca722651e0d05</data>
+    </edge>
+    <edge source="&quot;BERN&quot;" target="&quot;BELPRAHON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Belprahon is located in the canton of Bern."</data>
+      <data key="d5">cfc2e3f5e332b73ff67ca722651e0d05</data>
+    </edge>
+    <edge source="&quot;BERN&quot;" target="&quot;CORT&#201;BERT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cort&#233;bert is located in the canton of Bern."</data>
+      <data key="d5">12df797c6541f0b0be4065b24fec2651</data>
+    </edge>
+    <edge source="&quot;SWITZERLAND&quot;" target="&quot;CANTON OF Z&#220;RICH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Canton of Z&#252;rich is an administrative division in Switzerland."</data>
+      <data key="d5">ea8d50addfe5eab9de61ad665f43180a</data>
+    </edge>
+    <edge source="&quot;SWITZERLAND&quot;" target="&quot;CORT&#201;BERT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cort&#233;bert is located in Switzerland."</data>
+      <data key="d5">12df797c6541f0b0be4065b24fec2651</data>
+    </edge>
+    <edge source="&quot;VLADIMIR LENIN&quot;" target="&quot;SOVIET UNION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Vladimir Lenin led the Soviet Union after the October Revolution."</data>
+      <data key="d5">3f4a117db732e6d9de5c4ab0125f9118</data>
+    </edge>
+    <edge source="&quot;SOVIET UNION&quot;" target="&quot;OCTOBER REVOLUTION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The October Revolution led to the establishment of the Soviet Union."</data>
+      <data key="d5">3f4a117db732e6d9de5c4ab0125f9118</data>
+    </edge>
+    <edge source="&quot;FIRST RED SCARE&quot;" target="&quot;SOCIALIST PARTY OF OREGON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Socialist Party of Oregon began during the First Red Scare."</data>
+      <data key="d5">3f4a117db732e6d9de5c4ab0125f9118</data>
+    </edge>
+    <edge source="&quot;NAMADGI NATIONAL PARK&quot;" target="&quot;MOUNTAIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The mountain is partially located within Namadgi National Park."</data>
+      <data key="d5">f074b5bdcbf02a4a00a01755093c5e4d</data>
+    </edge>
+    <edge source="&quot;KOSCIUSZKO NATIONAL PARK&quot;" target="&quot;MOUNTAIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The mountain is partially located within Kosciuszko National Park."</data>
+      <data key="d5">f074b5bdcbf02a4a00a01755093c5e4d</data>
+    </edge>
+    <edge source="&quot;CORIN DAM&quot;" target="&quot;MOUNTAIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bushwalkers often climb the mountain from Corin Dam, which is a few hours' hike away."</data>
+      <data key="d5">f074b5bdcbf02a4a00a01755093c5e4d</data>
+    </edge>
+    <edge source="&quot;GININI FLATS WETLANDS RAMSAR SITE&quot;" target="&quot;MOUNTAIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Ginini Flats Wetlands Ramsar Site is located near the mountain."</data>
+      <data key="d5">f074b5bdcbf02a4a00a01755093c5e4d</data>
+    </edge>
+    <edge source="&quot;BIMBERI NATURE RESERVE&quot;" target="&quot;MOUNTAIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The mountain is partially located within Bimberi Nature Reserve."</data>
+      <data key="d5">f074b5bdcbf02a4a00a01755093c5e4d</data>
+    </edge>
+    <edge source="&quot;FEDERAL GOVERNMENT OF NIGERIA&quot;" target="&quot;NIGERIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Federal Government of Nigeria is the central authority of Nigeria."</data>
+      <data key="d5">4909c0a922ba612cd0425302ee9c120e</data>
+    </edge>
+    <edge source="&quot;FEDERAL GOVERNMENT OF NIGERIA&quot;" target="&quot;NIGERIAN STATE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"A Nigerian State shares sovereignty with the Federal Government of Nigeria."</data>
+      <data key="d5">4909c0a922ba612cd0425302ee9c120e</data>
+    </edge>
+    <edge source="&quot;FEDERAL GOVERNMENT OF NIGERIA&quot;" target="&quot;FEDERAL CAPITAL TERRITORY (FCT)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Federal Capital Territory (FCT) is under the direct control of the Federal Government of Nigeria."</data>
+      <data key="d5">4909c0a922ba612cd0425302ee9c120e</data>
+    </edge>
+    <edge source="&quot;CHELYABINSK OBLAST&quot;" target="&quot;CHELYABINSK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chelyabinsk is the administrative center of Chelyabinsk Oblast."</data>
+      <data key="d5">a15f092f4533cc3c0b80f8bb3243a8c9</data>
+    </edge>
+    <edge source="&quot;YEKATERINBURG&quot;" target="&quot;CHELYABINSK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chelyabinsk is located south of Yekaterinburg."</data>
+      <data key="d5">a15f092f4533cc3c0b80f8bb3243a8c9</data>
+    </edge>
+    <edge source="&quot;URAL MOUNTAINS&quot;" target="&quot;CHELYABINSK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chelyabinsk city is situated near the Ural Mountains."</data>
+      <data key="d5">a15f092f4533cc3c0b80f8bb3243a8c9</data>
+    </edge>
+    <edge source="&quot;URAL MOUNTAINS&quot;" target="&quot;EUROPE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Ural Mountains form the border between Europe and Asia."</data>
+      <data key="d5">a15f092f4533cc3c0b80f8bb3243a8c9</data>
+    </edge>
+    <edge source="&quot;URAL MOUNTAINS&quot;" target="&quot;ASIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Ural Mountains form the border between Europe and Asia."</data>
+      <data key="d5">a15f092f4533cc3c0b80f8bb3243a8c9</data>
+    </edge>
+    <edge source="&quot;MIASS RIVER&quot;" target="&quot;CHELYABINSK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chelyabinsk city is located on the Miass River."</data>
+      <data key="d5">a15f092f4533cc3c0b80f8bb3243a8c9</data>
+    </edge>
+    <edge source="&quot;TUALATIN MOUNTAINS&quot;" target="&quot;PORTLAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Tualatin Mountains are located west of Portland."</data>
+      <data key="d5">b4328f26322e5d2ec62c4f3b85c70396</data>
+    </edge>
+    <edge source="&quot;TUALATIN MOUNTAINS&quot;" target="&quot;OREGON COAST RANGE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Oregon Coast Range is located west of the Tualatin Mountains."</data>
+      <data key="d5">b4328f26322e5d2ec62c4f3b85c70396</data>
+    </edge>
+    <edge source="&quot;COUNCIL CREST PARK&quot;" target="&quot;WEST HILLS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Council Crest Park is located in the West Hills."</data>
+      <data key="d5">b4328f26322e5d2ec62c4f3b85c70396</data>
+    </edge>
+    <edge source="&quot;FOREST PARK&quot;" target="&quot;PORTLAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Forest Park is a park located near the highest point in Portland."</data>
+      <data key="d5">b4328f26322e5d2ec62c4f3b85c70396</data>
+    </edge>
+    <edge source="&quot;MT. TABOR&quot;" target="&quot;PORTLAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mt. Tabor is an extinct volcanic cinder cone located east of the river in Portland."</data>
+      <data key="d5">b4328f26322e5d2ec62c4f3b85c70396</data>
+    </edge>
+    <edge source="&quot;MT. TABOR&quot;" target="&quot;POWELL BUTTE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Powell Butte is a hill located near Mt. Tabor."</data>
+      <data key="d5">b4328f26322e5d2ec62c4f3b85c70396</data>
+    </edge>
+    <edge source="&quot;MT. TABOR&quot;" target="&quot;ROCKY BUTTE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Rocky Butte is a hill located near Mt. Tabor and Powell Butte."</data>
+      <data key="d5">b4328f26322e5d2ec62c4f3b85c70396</data>
+    </edge>
+    <edge source="&quot;CASCADE RANGE&quot;" target="&quot;PORTLAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Cascade Range is an actively volcanic mountain range located east of Portland."</data>
+      <data key="d5">b4328f26322e5d2ec62c4f3b85c70396</data>
+    </edge>
+    <edge source="&quot;ARAD COUNTY&quot;" target="&quot;PETRI&#536;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Petri&#537; is located in Arad County."</data>
+      <data key="d5">f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </edge>
+    <edge source="&quot;MURE&#536; COULOIR&quot;" target="&quot;PETRI&#536;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Petri&#537; is situated in the contact zone of Mure&#537; Couloir with Metaliferi Mountains."</data>
+      <data key="d5">f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </edge>
+    <edge source="&quot;METALIFERI MOUNTAINS&quot;" target="&quot;PETRI&#536;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Petri&#537; is situated in the contact zone of Mure&#537; Couloir with Metaliferi Mountains."</data>
+      <data key="d5">f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </edge>
+    <edge source="&quot;CORBE&#536;TI&quot;" target="&quot;PETRI&#536;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Corbe&#537;ti is one of the six villages that compose the administrative territory of Petri&#537; commune."</data>
+      <data key="d5">f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </edge>
+    <edge source="&quot;ILTEU&quot;" target="&quot;PETRI&#536;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ilteu is one of the six villages that compose the administrative territory of Petri&#537; commune."</data>
+      <data key="d5">f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </edge>
+    <edge source="&quot;OB&#194;R&#536;IA&quot;" target="&quot;PETRI&#536;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ob&#226;r&#537;ia is one of the six villages that compose the administrative territory of Petri&#537; commune."</data>
+      <data key="d5">f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </edge>
+    <edge source="&quot;RO&#536;IA NOU&#258;&quot;" target="&quot;PETRI&#536;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ro&#537;ia Nou&#259; is one of the six villages that compose the administrative territory of Petri&#537; commune."</data>
+      <data key="d5">f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </edge>
+    <edge source="&quot;SELI&#536;TE&quot;" target="&quot;PETRI&#536;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Seli&#537;te is one of the six villages that compose the administrative territory of Petri&#537; commune."</data>
+      <data key="d5">f312d8a35052aad7f4fc74e8c00ddf78</data>
+    </edge>
+    <edge source="&quot;FISCHENTHAL&quot;" target="&quot;H&#214;RNLI MOUNTAIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"H&#246;rnli mountain is located on the territory of Fischenthal."</data>
+      <data key="d5">ea8d50addfe5eab9de61ad665f43180a</data>
+    </edge>
+    <edge source="&quot;FISCHENTHAL&quot;" target="&quot;Z&#220;RCHER OBERLAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Fischenthal is located in the Z&#252;rcher Oberland."</data>
+      <data key="d5">ea8d50addfe5eab9de61ad665f43180a</data>
+    </edge>
+    <edge source="&quot;Z&#220;RCHER OBERLAND&quot;" target="&quot;CANTON OF Z&#220;RICH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Z&#252;rcher Oberland is a region in the eastern part of canton of Z&#252;rich."</data>
+      <data key="d5">ea8d50addfe5eab9de61ad665f43180a</data>
+    </edge>
+    <edge source="&quot;FRENCH POLYNESIA&quot;" target="&quot;FRANCE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"French Polynesia is an overseas territory of France."</data>
+      <data key="d5">7715df5b06f52d9f6d77f7ad32a51083</data>
+    </edge>
+    <edge source="&quot;RAIATEA&quot;" target="&quot;TUMARAA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tumaraa is a commune located on the island of Raiatea."</data>
+      <data key="d5">7715df5b06f52d9f6d77f7ad32a51083</data>
+    </edge>
+    <edge source="&quot;RAIATEA&quot;" target="&quot;LEEWARD ISLANDS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Raiatea is part of the administrative subdivision of the Leeward Islands."</data>
+      <data key="d5">7715df5b06f52d9f6d77f7ad32a51083</data>
+    </edge>
+    <edge source="&quot;LEEWARD ISLANDS&quot;" target="&quot;SOCIETY ISLANDS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Leeward Islands are part of the Society Islands."</data>
+      <data key="d5">7715df5b06f52d9f6d77f7ad32a51083</data>
+    </edge>
+    <edge source="&quot;BAKHCHYSARAI RAION&quot;" target="&quot;KRASNY MAK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Krasny Mak is located in Bakhchysarai Raion."</data>
+      <data key="d5">dcc8ee4acab32841d54d3998124bb70b</data>
+    </edge>
+    <edge source="&quot;BAKHCHYSARAI RAION&quot;" target="&quot;AUTONOMOUS REPUBLIC OF CRIMEA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bakhchysarai Raion is part of the Autonomous Republic of Crimea."</data>
+      <data key="d5">dcc8ee4acab32841d54d3998124bb70b</data>
+    </edge>
+    <edge source="&quot;AUTONOMOUS REPUBLIC OF CRIMEA&quot;" target="&quot;UKRAINE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Autonomous Republic of Crimea is recognized by a majority of countries as part of Ukraine."</data>
+      <data key="d5">dcc8ee4acab32841d54d3998124bb70b</data>
+    </edge>
+    <edge source="&quot;AUTONOMOUS REPUBLIC OF CRIMEA&quot;" target="&quot;RUSSIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Autonomous Republic of Crimea has been incorporated by Russia as the Republic of Crimea."</data>
+      <data key="d5">dcc8ee4acab32841d54d3998124bb70b</data>
+    </edge>
+    <edge source="&quot;CRIMEAN MOUNTAINS&quot;" target="&quot;KRASNY MAK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Krasny Mak is located in the Crimean Mountains."</data>
+      <data key="d5">dcc8ee4acab32841d54d3998124bb70b</data>
+    </edge>
+    <edge source="&quot;BYSTRYANKA CREEK&quot;" target="&quot;BELBEK RIVER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Bystryanka creek is a tributary of the Belbek river."</data>
+      <data key="d5">dcc8ee4acab32841d54d3998124bb70b</data>
+    </edge>
+    <edge source="&quot;SOVEREIGN STATES&quot;" target="&quot;ENGLISH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"English is an official language in 54 Sovereign States."</data>
+      <data key="d5">2f1168a228bcc70f5d5314220fa7f6e9</data>
+    </edge>
+    <edge source="&quot;NON-SOVEREIGN ENTITIES&quot;" target="&quot;ENGLISH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"English is an official language in 27 Non-Sovereign Entities."</data>
+      <data key="d5">2f1168a228bcc70f5d5314220fa7f6e9</data>
+    </edge>
+    <edge source="&quot;JURA MOUNTAINS&quot;" target="&quot;CORT&#201;BERT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cort&#233;bert is located in the Jura mountains."</data>
+      <data key="d5">12df797c6541f0b0be4065b24fec2651</data>
+    </edge>
+  </graph>
+</graphml>

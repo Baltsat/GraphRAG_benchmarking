@@ -1,0 +1,803 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;NORTH CHARLESTON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"North Charleston is the second-largest city in the Charleston-North Charleston-Summerville Metropolitan Statistical Area and ranks as the third-largest city in the state."</data>
+      <data key="d2">27538feb98a541240d3a540eefe8458b</data>
+    </node>
+    <node id="&quot;MOUNT PLEASANT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mount Pleasant is one of the next-largest cities in the Charleston-North Charleston-Summerville Metropolitan Statistical Area."</data>
+      <data key="d2">27538feb98a541240d3a540eefe8458b</data>
+    </node>
+    <node id="&quot;SUMMERVILLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Summerville is one of the next-largest cities in the Charleston-North Charleston-Summerville Metropolitan Statistical Area."</data>
+      <data key="d2">27538feb98a541240d3a540eefe8458b</data>
+    </node>
+    <node id="&quot;CHARLESTON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Charleston is a city that forms part of the Charleston-North Charleston Urban Area."</data>
+      <data key="d2">27538feb98a541240d3a540eefe8458b</data>
+    </node>
+    <node id="&quot;BERKELEY COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Berkeley County is one of the three counties in the Charleston-North Charleston-Summerville Metropolitan Statistical Area."</data>
+      <data key="d2">27538feb98a541240d3a540eefe8458b</data>
+    </node>
+    <node id="&quot;DORCHESTER COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Dorchester County is one of the three counties in the Charleston-North Charleston-Summerville Metropolitan Statistical Area."</data>
+      <data key="d2">27538feb98a541240d3a540eefe8458b</data>
+    </node>
+    <node id="&quot;MONCKS CORNER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Moncks Corner is a smaller urban area within Berkeley County with a population of 9,123 as of 2000."</data>
+      <data key="d2">27538feb98a541240d3a540eefe8458b</data>
+    </node>
+    <node id="&quot;CHARLESTON-NORTH CHARLESTON-SUMMERVILLE METROPOLITAN STATISTICAL AREA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">27538feb98a541240d3a540eefe8458b</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">0f1bea8e6070909ba2eebed3f545ae64,27538feb98a541240d3a540eefe8458b,31af0ea025b93c23681d1199471d910e,3d0293c35e687d4033a84df0a9302e19,5814edd6974ed95af227954cd8c14673,61ff7e5eddfb55d3e9cf2a7ad0e5244e,8244806fd00c10a492946d6dbb1901d6,8a0507582031b09d56ee383adb3ba48c,8c606608853384a353d518c0b20644bb,c11bbe9f8362d15c46912b286684bc36,c29176e9d12c6b4b69283376a4b45545,d329da2e3d655240bcdac70edaa92c1b,dade53736f294d2d06e339c549d273f9,e09956633d88e767a2d5c308205b37c8</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">0f1bea8e6070909ba2eebed3f545ae64,27538feb98a541240d3a540eefe8458b,31af0ea025b93c23681d1199471d910e,3d0293c35e687d4033a84df0a9302e19,5814edd6974ed95af227954cd8c14673,61ff7e5eddfb55d3e9cf2a7ad0e5244e,8244806fd00c10a492946d6dbb1901d6,8a0507582031b09d56ee383adb3ba48c,8c606608853384a353d518c0b20644bb,c11bbe9f8362d15c46912b286684bc36,c29176e9d12c6b4b69283376a4b45545,d329da2e3d655240bcdac70edaa92c1b,dade53736f294d2d06e339c549d273f9,e09956633d88e767a2d5c308205b37c8</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">0f1bea8e6070909ba2eebed3f545ae64,27538feb98a541240d3a540eefe8458b,31af0ea025b93c23681d1199471d910e,3d0293c35e687d4033a84df0a9302e19,5814edd6974ed95af227954cd8c14673,61ff7e5eddfb55d3e9cf2a7ad0e5244e,8244806fd00c10a492946d6dbb1901d6,8a0507582031b09d56ee383adb3ba48c,8c606608853384a353d518c0b20644bb,c11bbe9f8362d15c46912b286684bc36,c29176e9d12c6b4b69283376a4b45545,d329da2e3d655240bcdac70edaa92c1b,dade53736f294d2d06e339c549d273f9,e09956633d88e767a2d5c308205b37c8</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">0f1bea8e6070909ba2eebed3f545ae64,27538feb98a541240d3a540eefe8458b,31af0ea025b93c23681d1199471d910e,3d0293c35e687d4033a84df0a9302e19,5814edd6974ed95af227954cd8c14673,61ff7e5eddfb55d3e9cf2a7ad0e5244e,8244806fd00c10a492946d6dbb1901d6,8a0507582031b09d56ee383adb3ba48c,8c606608853384a353d518c0b20644bb,c11bbe9f8362d15c46912b286684bc36,c29176e9d12c6b4b69283376a4b45545,d329da2e3d655240bcdac70edaa92c1b,dade53736f294d2d06e339c549d273f9,e09956633d88e767a2d5c308205b37c8</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">0f1bea8e6070909ba2eebed3f545ae64,27538feb98a541240d3a540eefe8458b,31af0ea025b93c23681d1199471d910e,3d0293c35e687d4033a84df0a9302e19,5814edd6974ed95af227954cd8c14673,61ff7e5eddfb55d3e9cf2a7ad0e5244e,8244806fd00c10a492946d6dbb1901d6,8a0507582031b09d56ee383adb3ba48c,8c606608853384a353d518c0b20644bb,c11bbe9f8362d15c46912b286684bc36,c29176e9d12c6b4b69283376a4b45545,d329da2e3d655240bcdac70edaa92c1b,dade53736f294d2d06e339c549d273f9,e09956633d88e767a2d5c308205b37c8</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">0f1bea8e6070909ba2eebed3f545ae64,27538feb98a541240d3a540eefe8458b,31af0ea025b93c23681d1199471d910e,3d0293c35e687d4033a84df0a9302e19,5814edd6974ed95af227954cd8c14673,61ff7e5eddfb55d3e9cf2a7ad0e5244e,8244806fd00c10a492946d6dbb1901d6,8a0507582031b09d56ee383adb3ba48c,8c606608853384a353d518c0b20644bb,c11bbe9f8362d15c46912b286684bc36,c29176e9d12c6b4b69283376a4b45545,d329da2e3d655240bcdac70edaa92c1b,dade53736f294d2d06e339c549d273f9,e09956633d88e767a2d5c308205b37c8</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">0f1bea8e6070909ba2eebed3f545ae64,27538feb98a541240d3a540eefe8458b,31af0ea025b93c23681d1199471d910e,3d0293c35e687d4033a84df0a9302e19,5814edd6974ed95af227954cd8c14673,61ff7e5eddfb55d3e9cf2a7ad0e5244e,8244806fd00c10a492946d6dbb1901d6,8a0507582031b09d56ee383adb3ba48c,8c606608853384a353d518c0b20644bb,c11bbe9f8362d15c46912b286684bc36,c29176e9d12c6b4b69283376a4b45545,d329da2e3d655240bcdac70edaa92c1b,dade53736f294d2d06e339c549d273f9,e09956633d88e767a2d5c308205b37c8</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Mexico is a country that shares an international border with the United States. Specifically, it borders the US near Tucson. Additionally, Mexico City's urban agglomeration is located within its territory and plays a significant role in generating a substantial portion of the country's GDP.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">0f1bea8e6070909ba2eebed3f545ae64,27538feb98a541240d3a540eefe8458b,31af0ea025b93c23681d1199471d910e,3d0293c35e687d4033a84df0a9302e19,5814edd6974ed95af227954cd8c14673,61ff7e5eddfb55d3e9cf2a7ad0e5244e,8244806fd00c10a492946d6dbb1901d6,8a0507582031b09d56ee383adb3ba48c,8c606608853384a353d518c0b20644bb,c11bbe9f8362d15c46912b286684bc36,c29176e9d12c6b4b69283376a4b45545,d329da2e3d655240bcdac70edaa92c1b,dade53736f294d2d06e339c549d273f9,e09956633d88e767a2d5c308205b37c8</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">0f1bea8e6070909ba2eebed3f545ae64,27538feb98a541240d3a540eefe8458b,31af0ea025b93c23681d1199471d910e,3d0293c35e687d4033a84df0a9302e19,5814edd6974ed95af227954cd8c14673,61ff7e5eddfb55d3e9cf2a7ad0e5244e,8244806fd00c10a492946d6dbb1901d6,8a0507582031b09d56ee383adb3ba48c,8c606608853384a353d518c0b20644bb,c11bbe9f8362d15c46912b286684bc36,c29176e9d12c6b4b69283376a4b45545,d329da2e3d655240bcdac70edaa92c1b,dade53736f294d2d06e339c549d273f9,e09956633d88e767a2d5c308205b37c8</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0f1bea8e6070909ba2eebed3f545ae64,27538feb98a541240d3a540eefe8458b,31af0ea025b93c23681d1199471d910e,3d0293c35e687d4033a84df0a9302e19,5814edd6974ed95af227954cd8c14673,61ff7e5eddfb55d3e9cf2a7ad0e5244e,8244806fd00c10a492946d6dbb1901d6,8a0507582031b09d56ee383adb3ba48c,8c606608853384a353d518c0b20644bb,c11bbe9f8362d15c46912b286684bc36,c29176e9d12c6b4b69283376a4b45545,d329da2e3d655240bcdac70edaa92c1b,dade53736f294d2d06e339c549d273f9,e09956633d88e767a2d5c308205b37c8</data>
+    </node>
+    <node id="&quot;S&#214;DERMANLAND COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"S&#246;dermanland County is a county in Sweden where Katrineholm is located."</data>
+      <data key="d2">dade53736f294d2d06e339c549d273f9</data>
+    </node>
+    <node id="&quot;ESKILSTUNA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Eskilstuna is an urban area in S&#246;dermanland County, Sweden."</data>
+      <data key="d2">dade53736f294d2d06e339c549d273f9</data>
+    </node>
+    <node id="&quot;NYK&#214;PING&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Nyk&#246;ping is the county seat of S&#246;dermanland County, Sweden."</data>
+      <data key="d2">dade53736f294d2d06e339c549d273f9</data>
+    </node>
+    <node id="&quot;KATRINEHOLM MUNICIPALITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Katrineholm Municipality is a municipality in Sweden where Katrineholm is the seat."</data>
+      <data key="d2">dade53736f294d2d06e339c549d273f9</data>
+    </node>
+    <node id="&quot;KATRINEHOLM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">dade53736f294d2d06e339c549d273f9</data>
+    </node>
+    <node id="&quot;JACOBY SHADDIX&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jacoby Shaddix is the lead vocalist of Papa Roach."</data>
+      <data key="d2">c29176e9d12c6b4b69283376a4b45545</data>
+    </node>
+    <node id="&quot;JERRY HORTON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jerry Horton is a guitarist of Papa Roach."</data>
+      <data key="d2">c29176e9d12c6b4b69283376a4b45545</data>
+    </node>
+    <node id="&quot;DAVE BUCKNER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dave Buckner is a drummer of Papa Roach."</data>
+      <data key="d2">c29176e9d12c6b4b69283376a4b45545</data>
+    </node>
+    <node id="&quot;WILL JAMES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Will James is a bassist of Papa Roach."</data>
+      <data key="d2">c29176e9d12c6b4b69283376a4b45545</data>
+    </node>
+    <node id="&quot;BEN LUTHER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ben Luther is a trombonist of Papa Roach."</data>
+      <data key="d2">c29176e9d12c6b4b69283376a4b45545</data>
+    </node>
+    <node id="&quot;VACAVILLE, CALIFORNIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Vacaville, California is the hometown of Papa Roach."</data>
+      <data key="d2">c29176e9d12c6b4b69283376a4b45545</data>
+    </node>
+    <node id="&quot;PAPA ROACH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c29176e9d12c6b4b69283376a4b45545</data>
+    </node>
+    <node id="&quot;MD ANDERSON CANCER CENTER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"MD Anderson Cancer Center is one of the top two U.S. hospitals specializing in cancer care."</data>
+      <data key="d2">8c606608853384a353d518c0b20644bb</data>
+    </node>
+    <node id="&quot;THE MENNINGER CLINIC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Menninger Clinic is a renowned psychiatric treatment center affiliated with Baylor College of Medicine and The Methodist Hospital System."</data>
+      <data key="d2">8c606608853384a353d518c0b20644bb</data>
+    </node>
+    <node id="&quot;TRIUMPH HEALTHCARE HOSPITAL SYSTEM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Triumph Healthcare hospital system is the third largest long term acute care provider nationally, with headquarters in Houston."</data>
+      <data key="d2">8c606608853384a353d518c0b20644bb</data>
+    </node>
+    <node id="&quot;HOUSTON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Houston is a location where Triumph Healthcare hospital system has its headquarters.</data>
+      <data key="d2">8c606608853384a353d518c0b20644bb,c11bbe9f8362d15c46912b286684bc36</data>
+    </node>
+    <node id="&quot;BAYLOR COLLEGE OF MEDICINE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8c606608853384a353d518c0b20644bb</data>
+    </node>
+    <node id="&quot;CENTRAL OKLAHOMA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Central Oklahoma is a region where Oklahoma City is located."</data>
+      <data key="d2">8a0507582031b09d56ee383adb3ba48c</data>
+    </node>
+    <node id="&quot;OKLAHOMA CITY METROPOLITAN STATISTICAL AREA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Oklahoma City Metropolitan Statistical Area is an eight-county area with Oklahoma City as its principal city."</data>
+      <data key="d2">8a0507582031b09d56ee383adb3ba48c</data>
+    </node>
+    <node id="&quot;OKLAHOMA CITY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8a0507582031b09d56ee383adb3ba48c</data>
+    </node>
+    <node id="&quot;KIPLINGER'S PERSONAL FINANCE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Kiplinger's Personal Finance is a publication that ranks cities based on their local economy, employment opportunities, reasonable living costs, and quality of life."</data>
+      <data key="d2">c11bbe9f8362d15c46912b286684bc36</data>
+    </node>
+    <node id="&quot;FORBES MAGAZINE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Forbes magazine is a publication that ranks cities based on various criteria, including technological innovation, company headquarters, and quality of life for college graduates and homebuyers."</data>
+      <data key="d2">c11bbe9f8362d15c46912b286684bc36</data>
+    </node>
+    <node id="&quot;INDONESIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Indonesia is a country with Jakarta as its capital, formerly known as Batavia during Dutch East Indies and Sunda Kelapa during Sunda Kingdom."</data>
+      <data key="d2">5814edd6974ed95af227954cd8c14673</data>
+    </node>
+    <node id="&quot;JAVA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Java is the most populous island in Indonesia, where Jakarta is located."</data>
+      <data key="d2">5814edd6974ed95af227954cd8c14673</data>
+    </node>
+    <node id="&quot;BATAVIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Batavia was the former name of Jakarta during Dutch East Indies."</data>
+      <data key="d2">5814edd6974ed95af227954cd8c14673</data>
+    </node>
+    <node id="&quot;SUNDA KELAPA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Sunda Kelapa was the former name of Jakarta during Sunda Kingdom."</data>
+      <data key="d2">5814edd6974ed95af227954cd8c14673</data>
+    </node>
+    <node id="&quot;JABODETABEK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Jabodetabek is the Greater Jakarta metropolitan area, formed by combining the initial syllables of Jakarta, Bogor, Depok, Tangerang, and Bekasi."</data>
+      <data key="d2">5814edd6974ed95af227954cd8c14673</data>
+    </node>
+    <node id="&quot;TOKYO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Tokyo is a city with the largest urban agglomeration in the world, used as a comparison to Jabodetabek."</data>
+      <data key="d2">5814edd6974ed95af227954cd8c14673</data>
+    </node>
+    <node id="&quot;BOGOR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bogor is a part of the Jabodetabek metropolitan area."</data>
+      <data key="d2">5814edd6974ed95af227954cd8c14673</data>
+    </node>
+    <node id="&quot;DEPOK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Depok is a part of the Jabodetabek metropolitan area."</data>
+      <data key="d2">5814edd6974ed95af227954cd8c14673</data>
+    </node>
+    <node id="&quot;TANGERANG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Tangerang is a part of the Jabodetabek metropolitan area."</data>
+      <data key="d2">5814edd6974ed95af227954cd8c14673</data>
+    </node>
+    <node id="&quot;BEKASI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bekasi is a part of the Jabodetabek metropolitan area."</data>
+      <data key="d2">5814edd6974ed95af227954cd8c14673</data>
+    </node>
+    <node id="&quot;JAKARTA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5814edd6974ed95af227954cd8c14673</data>
+    </node>
+    <node id="&quot;DUTCH EAST INDIES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5814edd6974ed95af227954cd8c14673</data>
+    </node>
+    <node id="&quot;SUNDA KINGDOM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5814edd6974ed95af227954cd8c14673</data>
+    </node>
+    <node id="&quot;JACOBY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jacoby is the lead singer of Papa Roach, singing in the verses and choruses of 'To Be Loved'."</data>
+      <data key="d2">31af0ea025b93c23681d1199471d910e</data>
+    </node>
+    <node id="&quot;KERRANG! RADIO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Kerrang! Radio is a UK radio station that played 'To Be Loved' in full on August 1, 2006."</data>
+      <data key="d2">31af0ea025b93c23681d1199471d910e</data>
+    </node>
+    <node id="&quot;USA NETWORK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"USA Network is a TV network that aired WWE Raw, which used 'To Be Loved' as its official theme song from October 9, 2006 to November 9, 2009."</data>
+      <data key="d2">31af0ea025b93c23681d1199471d910e</data>
+    </node>
+    <node id="&quot;WWE RAW&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"WWE Raw is a professional wrestling event that used 'To Be Loved' as its official theme song from October 9, 2006 to November 9, 2009."</data>
+      <data key="d2">31af0ea025b93c23681d1199471d910e</data>
+    </node>
+    <node id="&quot;NEVER BACK DOWN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Never Back Down is a 2008 film that featured 'To Be Loved' in its theatrical trailer."</data>
+      <data key="d2">31af0ea025b93c23681d1199471d910e</data>
+    </node>
+    <node id="&quot;MEXICO CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico City is an urban agglomeration that generates 15.8% of Mexico's Gross Domestic Product and accounts for about 22% of total national GDP."</data>
+      <data key="d2">61ff7e5eddfb55d3e9cf2a7ad0e5244e</data>
+    </node>
+    <node id="&quot;COSTA RICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Costa Rica is a country in Latin America, with an economy five times smaller than Mexico City's."</data>
+      <data key="d2">61ff7e5eddfb55d3e9cf2a7ad0e5244e</data>
+    </node>
+    <node id="&quot;PERU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Peru is a country in Latin America, with an economy similar in size to Mexico City's."</data>
+      <data key="d2">61ff7e5eddfb55d3e9cf2a7ad0e5244e</data>
+    </node>
+    <node id="&quot;GREATER MEXICO CITY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">61ff7e5eddfb55d3e9cf2a7ad0e5244e</data>
+    </node>
+    <node id="&quot;SYDNEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Sydney is a city in New South Wales, Australia, where Chinatown is located."</data>
+      <data key="d2">d329da2e3d655240bcdac70edaa92c1b</data>
+    </node>
+    <node id="&quot;NEW SOUTH WALES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New South Wales is a state in Australia where Sydney and Chinatown are located."</data>
+      <data key="d2">d329da2e3d655240bcdac70edaa92c1b</data>
+    </node>
+    <node id="&quot;AUSTRALIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Australia is a country where New South Wales and Sydney are located."</data>
+      <data key="d2">d329da2e3d655240bcdac70edaa92c1b</data>
+    </node>
+    <node id="&quot;CITY OF SYDNEY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The City of Sydney is the local government area that includes Chinatown."</data>
+      <data key="d2">d329da2e3d655240bcdac70edaa92c1b</data>
+    </node>
+    <node id="&quot;CHINATOWN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d329da2e3d655240bcdac70edaa92c1b</data>
+    </node>
+    <node id="&quot;NEPAL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Nepal is a country with Kathmandu as its capital and largest municipality."</data>
+      <data key="d2">3d0293c35e687d4033a84df0a9302e19</data>
+    </node>
+    <node id="&quot;SAARC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"SAARC stands for South Asian Association for Regional Cooperation, headquartered in Kathmandu."</data>
+      <data key="d2">3d0293c35e687d4033a84df0a9302e19</data>
+    </node>
+    <node id="&quot;LALITPUR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lalitpur is a part of the Kathmandu Valley urban agglomeration."</data>
+      <data key="d2">3d0293c35e687d4033a84df0a9302e19</data>
+    </node>
+    <node id="&quot;KIRTIPUR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Kirtipur is a part of the Kathmandu Valley urban agglomeration."</data>
+      <data key="d2">3d0293c35e687d4033a84df0a9302e19</data>
+    </node>
+    <node id="&quot;MADHYAPUR THIMI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Madhyapur Thimi is a part of the Kathmandu Valley urban agglomeration."</data>
+      <data key="d2">3d0293c35e687d4033a84df0a9302e19</data>
+    </node>
+    <node id="&quot;BHAKTAPUR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bhaktapur is a part of the Kathmandu Valley urban agglomeration."</data>
+      <data key="d2">3d0293c35e687d4033a84df0a9302e19</data>
+    </node>
+    <node id="&quot;KATHMANDU&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3d0293c35e687d4033a84df0a9302e19</data>
+    </node>
+    <node id="&quot;KATHMANDU VALLEY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3d0293c35e687d4033a84df0a9302e19</data>
+    </node>
+    <node id="&quot;GREG NICKELS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Greg Nickels is a former Seattle Mayor who announced plans to drive an economic boom through biotechnology in 2006."</data>
+      <data key="d2">e09956633d88e767a2d5c308205b37c8</data>
+    </node>
+    <node id="&quot;CORIXA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Corixa is a biotech company that was acquired by GlaxoSmithKline."</data>
+      <data key="d2">e09956633d88e767a2d5c308205b37c8</data>
+    </node>
+    <node id="&quot;IMMUNEX&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Immunex is a biotech company that is now part of Amgen."</data>
+      <data key="d2">e09956633d88e767a2d5c308205b37c8</data>
+    </node>
+    <node id="&quot;TRUBION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Trubion is a biotech company based in Seattle."</data>
+      <data key="d2">e09956633d88e767a2d5c308205b37c8</data>
+    </node>
+    <node id="&quot;ZYMOGENETICS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"ZymoGenetics is a biotech company based in Seattle."</data>
+      <data key="d2">e09956633d88e767a2d5c308205b37c8</data>
+    </node>
+    <node id="&quot;VULCAN INC.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Vulcan Inc. is the holding company of billionaire Paul Allen, involved in development projects in the region."</data>
+      <data key="d2">e09956633d88e767a2d5c308205b37c8</data>
+    </node>
+    <node id="&quot;PAUL ALLEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Paul Allen is a billionaire and owner of Vulcan Inc., involved in development projects in Seattle."</data>
+      <data key="d2">e09956633d88e767a2d5c308205b37c8</data>
+    </node>
+    <node id="&quot;SEATTLE CITY COUNCIL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Seattle City Council has been criticized for pandering to Paul Allen's interests at taxpayers' expense."</data>
+      <data key="d2">e09956633d88e767a2d5c308205b37c8</data>
+    </node>
+    <node id="&quot;EXPANSION MAGAZINE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Expansion Magazine ranked Seattle among the top 10 metropolitan areas in the nation for climates favorable to business expansion in 2006."</data>
+      <data key="d2">e09956633d88e767a2d5c308205b37c8</data>
+    </node>
+    <node id="&quot;FORBES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Forbes ranked Seattle as the most expensive American city for buying a house based on local income levels in 2005, and No. 9 on its list of Best Places for Business and Careers in 2013."</data>
+      <data key="d2">e09956633d88e767a2d5c308205b37c8</data>
+    </node>
+    <node id="&quot;BOEING&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e09956633d88e767a2d5c308205b37c8</data>
+    </node>
+    <node id="&quot;SEATTLE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e09956633d88e767a2d5c308205b37c8</data>
+    </node>
+    <node id="&quot;GREAT LAKES MEGALOPOLIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Great Lakes Megalopolis is a megalopolis in the United States, ranking second in population."</data>
+      <data key="d2">8244806fd00c10a492946d6dbb1901d6</data>
+    </node>
+    <node id="&quot;NORTHEASTERN MEGALOPOLIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Northeastern megalopolis is a megalopolis in the United States, ranking first in population."</data>
+      <data key="d2">8244806fd00c10a492946d6dbb1901d6</data>
+    </node>
+    <node id="&quot;LOS ANGELES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Los Angeles is a dominant area in Southern California, serving as the center of its respective metropolitan area."</data>
+      <data key="d2">8244806fd00c10a492946d6dbb1901d6</data>
+    </node>
+    <node id="&quot;ORANGE COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Orange County is a dominant area in Southern California, serving as the center of its respective metropolitan area."</data>
+      <data key="d2">8244806fd00c10a492946d6dbb1901d6</data>
+    </node>
+    <node id="&quot;SAN DIEGO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+San Diego is a dominant area in Southern California, serving as the center of its respective metropolitan area and part of an international metropolitan region with Tijuana.</data>
+      <data key="d2">0f1bea8e6070909ba2eebed3f545ae64,8244806fd00c10a492946d6dbb1901d6</data>
+    </node>
+    <node id="&quot;RIVERSIDE-SAN BERNARDINO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Riverside-San Bernardino is a dominant area in Southern California, serving as the center of its respective metropolitan area."</data>
+      <data key="d2">8244806fd00c10a492946d6dbb1901d6</data>
+    </node>
+    <node id="&quot;SAN DIEGO&#8211;TIJUANA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The San Diego&#8211;Tijuana international metropolitan region was created by the urban area spilling over into Baja California."</data>
+      <data key="d2">8244806fd00c10a492946d6dbb1901d6</data>
+    </node>
+    <node id="&quot;SOUTHERN CALIFORNIA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8244806fd00c10a492946d6dbb1901d6</data>
+    </node>
+    <node id="&quot;TIJUANA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8244806fd00c10a492946d6dbb1901d6</data>
+    </node>
+    <node id="&quot;LOS ANGELES METROPOLITAN AREA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Los Angeles metropolitan area is one of the largest urban areas in California, larger than the San Diego metropolitan area."</data>
+      <data key="d2">0f1bea8e6070909ba2eebed3f545ae64</data>
+    </node>
+    <node id="&quot;SAN FRANCISCO METROPOLITAN AREA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The San Francisco metropolitan area is one of the largest urban areas in California, larger than the San Diego metropolitan area."</data>
+      <data key="d2">0f1bea8e6070909ba2eebed3f545ae64</data>
+    </node>
+    <node id="&quot;RIVERSIDE&#8211;SAN BERNARDINO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Riverside&#8211;San Bernardino forms a metropolitan area in California, larger than the San Diego metropolitan area."</data>
+      <data key="d2">0f1bea8e6070909ba2eebed3f545ae64</data>
+    </node>
+    <edge source="&quot;NORTH CHARLESTON&quot;" target="&quot;CHARLESTON-NORTH CHARLESTON-SUMMERVILLE METROPOLITAN STATISTICAL AREA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Charleston-North Charleston-Summerville Metropolitan Statistical Area includes North Charleston as its second-largest city."</data>
+      <data key="d5">27538feb98a541240d3a540eefe8458b</data>
+    </edge>
+    <edge source="&quot;MOUNT PLEASANT&quot;" target="&quot;CHARLESTON-NORTH CHARLESTON-SUMMERVILLE METROPOLITAN STATISTICAL AREA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Charleston-North Charleston-Summerville Metropolitan Statistical Area includes Mount Pleasant as one of its next-largest cities."</data>
+      <data key="d5">27538feb98a541240d3a540eefe8458b</data>
+    </edge>
+    <edge source="&quot;SUMMERVILLE&quot;" target="&quot;CHARLESTON-NORTH CHARLESTON-SUMMERVILLE METROPOLITAN STATISTICAL AREA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Charleston-North Charleston-Summerville Metropolitan Statistical Area includes Summerville as one of its next-largest cities."</data>
+      <data key="d5">27538feb98a541240d3a540eefe8458b</data>
+    </edge>
+    <edge source="&quot;BERKELEY COUNTY&quot;" target="&quot;MONCKS CORNER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Berkeley County contains the smaller urban area of Moncks Corner."</data>
+      <data key="d5">27538feb98a541240d3a540eefe8458b</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">0f1bea8e6070909ba2eebed3f545ae64,27538feb98a541240d3a540eefe8458b,31af0ea025b93c23681d1199471d910e,3d0293c35e687d4033a84df0a9302e19,5814edd6974ed95af227954cd8c14673,61ff7e5eddfb55d3e9cf2a7ad0e5244e,8244806fd00c10a492946d6dbb1901d6,8a0507582031b09d56ee383adb3ba48c,8c606608853384a353d518c0b20644bb,c11bbe9f8362d15c46912b286684bc36,c29176e9d12c6b4b69283376a4b45545,d329da2e3d655240bcdac70edaa92c1b,dade53736f294d2d06e339c549d273f9,e09956633d88e767a2d5c308205b37c8</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">0f1bea8e6070909ba2eebed3f545ae64,27538feb98a541240d3a540eefe8458b,31af0ea025b93c23681d1199471d910e,3d0293c35e687d4033a84df0a9302e19,5814edd6974ed95af227954cd8c14673,61ff7e5eddfb55d3e9cf2a7ad0e5244e,8244806fd00c10a492946d6dbb1901d6,8a0507582031b09d56ee383adb3ba48c,8c606608853384a353d518c0b20644bb,c11bbe9f8362d15c46912b286684bc36,c29176e9d12c6b4b69283376a4b45545,d329da2e3d655240bcdac70edaa92c1b,dade53736f294d2d06e339c549d273f9,e09956633d88e767a2d5c308205b37c8</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">0f1bea8e6070909ba2eebed3f545ae64,27538feb98a541240d3a540eefe8458b,31af0ea025b93c23681d1199471d910e,3d0293c35e687d4033a84df0a9302e19,5814edd6974ed95af227954cd8c14673,61ff7e5eddfb55d3e9cf2a7ad0e5244e,8244806fd00c10a492946d6dbb1901d6,8a0507582031b09d56ee383adb3ba48c,8c606608853384a353d518c0b20644bb,c11bbe9f8362d15c46912b286684bc36,c29176e9d12c6b4b69283376a4b45545,d329da2e3d655240bcdac70edaa92c1b,dade53736f294d2d06e339c549d273f9,e09956633d88e767a2d5c308205b37c8</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">0f1bea8e6070909ba2eebed3f545ae64,27538feb98a541240d3a540eefe8458b,31af0ea025b93c23681d1199471d910e,3d0293c35e687d4033a84df0a9302e19,5814edd6974ed95af227954cd8c14673,61ff7e5eddfb55d3e9cf2a7ad0e5244e,8244806fd00c10a492946d6dbb1901d6,8a0507582031b09d56ee383adb3ba48c,8c606608853384a353d518c0b20644bb,c11bbe9f8362d15c46912b286684bc36,c29176e9d12c6b4b69283376a4b45545,d329da2e3d655240bcdac70edaa92c1b,dade53736f294d2d06e339c549d273f9,e09956633d88e767a2d5c308205b37c8</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">0f1bea8e6070909ba2eebed3f545ae64,27538feb98a541240d3a540eefe8458b,31af0ea025b93c23681d1199471d910e,3d0293c35e687d4033a84df0a9302e19,5814edd6974ed95af227954cd8c14673,61ff7e5eddfb55d3e9cf2a7ad0e5244e,8244806fd00c10a492946d6dbb1901d6,8a0507582031b09d56ee383adb3ba48c,8c606608853384a353d518c0b20644bb,c11bbe9f8362d15c46912b286684bc36,c29176e9d12c6b4b69283376a4b45545,d329da2e3d655240bcdac70edaa92c1b,dade53736f294d2d06e339c549d273f9,e09956633d88e767a2d5c308205b37c8</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">0f1bea8e6070909ba2eebed3f545ae64,27538feb98a541240d3a540eefe8458b,31af0ea025b93c23681d1199471d910e,3d0293c35e687d4033a84df0a9302e19,5814edd6974ed95af227954cd8c14673,61ff7e5eddfb55d3e9cf2a7ad0e5244e,8244806fd00c10a492946d6dbb1901d6,8a0507582031b09d56ee383adb3ba48c,8c606608853384a353d518c0b20644bb,c11bbe9f8362d15c46912b286684bc36,c29176e9d12c6b4b69283376a4b45545,d329da2e3d655240bcdac70edaa92c1b,dade53736f294d2d06e339c549d273f9,e09956633d88e767a2d5c308205b37c8</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">0f1bea8e6070909ba2eebed3f545ae64,27538feb98a541240d3a540eefe8458b,31af0ea025b93c23681d1199471d910e,3d0293c35e687d4033a84df0a9302e19,5814edd6974ed95af227954cd8c14673,61ff7e5eddfb55d3e9cf2a7ad0e5244e,8244806fd00c10a492946d6dbb1901d6,8a0507582031b09d56ee383adb3ba48c,8c606608853384a353d518c0b20644bb,c11bbe9f8362d15c46912b286684bc36,c29176e9d12c6b4b69283376a4b45545,d329da2e3d655240bcdac70edaa92c1b,dade53736f294d2d06e339c549d273f9,e09956633d88e767a2d5c308205b37c8</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">0f1bea8e6070909ba2eebed3f545ae64,27538feb98a541240d3a540eefe8458b,31af0ea025b93c23681d1199471d910e,3d0293c35e687d4033a84df0a9302e19,5814edd6974ed95af227954cd8c14673,61ff7e5eddfb55d3e9cf2a7ad0e5244e,8244806fd00c10a492946d6dbb1901d6,8a0507582031b09d56ee383adb3ba48c,8c606608853384a353d518c0b20644bb,c11bbe9f8362d15c46912b286684bc36,c29176e9d12c6b4b69283376a4b45545,d329da2e3d655240bcdac70edaa92c1b,dade53736f294d2d06e339c549d273f9,e09956633d88e767a2d5c308205b37c8</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">0f1bea8e6070909ba2eebed3f545ae64,27538feb98a541240d3a540eefe8458b,31af0ea025b93c23681d1199471d910e,3d0293c35e687d4033a84df0a9302e19,5814edd6974ed95af227954cd8c14673,61ff7e5eddfb55d3e9cf2a7ad0e5244e,8244806fd00c10a492946d6dbb1901d6,8a0507582031b09d56ee383adb3ba48c,8c606608853384a353d518c0b20644bb,c11bbe9f8362d15c46912b286684bc36,c29176e9d12c6b4b69283376a4b45545,d329da2e3d655240bcdac70edaa92c1b,dade53736f294d2d06e339c549d273f9,e09956633d88e767a2d5c308205b37c8</data>
+    </edge>
+    <edge source="&quot;MEXICO&quot;" target="&quot;GREATER MEXICO CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Greater Mexico City is part of Mexico and contributes significantly to the country's economy."</data>
+      <data key="d5">61ff7e5eddfb55d3e9cf2a7ad0e5244e</data>
+    </edge>
+    <edge source="&quot;S&#214;DERMANLAND COUNTY&quot;" target="&quot;KATRINEHOLM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Katrineholm is located in S&#246;dermanland County."</data>
+      <data key="d5">dade53736f294d2d06e339c549d273f9</data>
+    </edge>
+    <edge source="&quot;S&#214;DERMANLAND COUNTY&quot;" target="&quot;ESKILSTUNA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Eskilstuna is an urban area in S&#246;dermanland County."</data>
+      <data key="d5">dade53736f294d2d06e339c549d273f9</data>
+    </edge>
+    <edge source="&quot;S&#214;DERMANLAND COUNTY&quot;" target="&quot;NYK&#214;PING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nyk&#246;ping is the county seat of S&#246;dermanland County."</data>
+      <data key="d5">dade53736f294d2d06e339c549d273f9</data>
+    </edge>
+    <edge source="&quot;KATRINEHOLM MUNICIPALITY&quot;" target="&quot;KATRINEHOLM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Katrineholm is the seat of Katrineholm Municipality."</data>
+      <data key="d5">dade53736f294d2d06e339c549d273f9</data>
+    </edge>
+    <edge source="&quot;JACOBY SHADDIX&quot;" target="&quot;PAPA ROACH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jacoby Shaddix is a member of Papa Roach."</data>
+      <data key="d5">c29176e9d12c6b4b69283376a4b45545</data>
+    </edge>
+    <edge source="&quot;JERRY HORTON&quot;" target="&quot;PAPA ROACH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jerry Horton is a member of Papa Roach."</data>
+      <data key="d5">c29176e9d12c6b4b69283376a4b45545</data>
+    </edge>
+    <edge source="&quot;DAVE BUCKNER&quot;" target="&quot;PAPA ROACH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dave Buckner is a member of Papa Roach."</data>
+      <data key="d5">c29176e9d12c6b4b69283376a4b45545</data>
+    </edge>
+    <edge source="&quot;WILL JAMES&quot;" target="&quot;PAPA ROACH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Will James is a member of Papa Roach."</data>
+      <data key="d5">c29176e9d12c6b4b69283376a4b45545</data>
+    </edge>
+    <edge source="&quot;BEN LUTHER&quot;" target="&quot;PAPA ROACH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ben Luther is a member of Papa Roach."</data>
+      <data key="d5">c29176e9d12c6b4b69283376a4b45545</data>
+    </edge>
+    <edge source="&quot;VACAVILLE, CALIFORNIA&quot;" target="&quot;PAPA ROACH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Papa Roach originated from Vacaville, California."</data>
+      <data key="d5">c29176e9d12c6b4b69283376a4b45545</data>
+    </edge>
+    <edge source="&quot;THE MENNINGER CLINIC&quot;" target="&quot;BAYLOR COLLEGE OF MEDICINE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Baylor College of Medicine is affiliated with The Menninger Clinic."</data>
+      <data key="d5">8c606608853384a353d518c0b20644bb</data>
+    </edge>
+    <edge source="&quot;TRIUMPH HEALTHCARE HOSPITAL SYSTEM&quot;" target="&quot;HOUSTON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Triumph Healthcare hospital system has its headquarters in Houston."</data>
+      <data key="d5">8c606608853384a353d518c0b20644bb</data>
+    </edge>
+    <edge source="&quot;HOUSTON&quot;" target="&quot;KIPLINGER'S PERSONAL FINANCE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Houston received top ranking on Kiplinger's Personal Finance Best Cities list in 2008."</data>
+      <data key="d5">c11bbe9f8362d15c46912b286684bc36</data>
+    </edge>
+    <edge source="&quot;HOUSTON&quot;" target="&quot;FORBES MAGAZINE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Houston ranked high on various Forbes magazine lists, including Best Cities for College Graduates and Best Cities to Buy a Home."</data>
+      <data key="d5">c11bbe9f8362d15c46912b286684bc36</data>
+    </edge>
+    <edge source="&quot;CENTRAL OKLAHOMA&quot;" target="&quot;OKLAHOMA CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Oklahoma City is located in Central Oklahoma."</data>
+      <data key="d5">8a0507582031b09d56ee383adb3ba48c</data>
+    </edge>
+    <edge source="&quot;OKLAHOMA CITY METROPOLITAN STATISTICAL AREA&quot;" target="&quot;OKLAHOMA CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Oklahoma City is the principal city of the Oklahoma City Metropolitan Statistical Area."</data>
+      <data key="d5">8a0507582031b09d56ee383adb3ba48c</data>
+    </edge>
+    <edge source="&quot;INDONESIA&quot;" target="&quot;JAKARTA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jakarta is the capital of Indonesia."</data>
+      <data key="d5">5814edd6974ed95af227954cd8c14673</data>
+    </edge>
+    <edge source="&quot;JAVA&quot;" target="&quot;JAKARTA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jakarta is located on the northwest coast of Java."</data>
+      <data key="d5">5814edd6974ed95af227954cd8c14673</data>
+    </edge>
+    <edge source="&quot;BATAVIA&quot;" target="&quot;DUTCH EAST INDIES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Batavia was the name of Jakarta during Dutch East Indies."</data>
+      <data key="d5">5814edd6974ed95af227954cd8c14673</data>
+    </edge>
+    <edge source="&quot;SUNDA KELAPA&quot;" target="&quot;SUNDA KINGDOM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sunda Kelapa was the name of Jakarta during Sunda Kingdom."</data>
+      <data key="d5">5814edd6974ed95af227954cd8c14673</data>
+    </edge>
+    <edge source="&quot;MEXICO CITY&quot;" target="&quot;COSTA RICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mexico City's economy is five times larger than Costa Rica's."</data>
+      <data key="d5">61ff7e5eddfb55d3e9cf2a7ad0e5244e</data>
+    </edge>
+    <edge source="&quot;MEXICO CITY&quot;" target="&quot;PERU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mexico City's economy is similar in size to Peru's."</data>
+      <data key="d5">61ff7e5eddfb55d3e9cf2a7ad0e5244e</data>
+    </edge>
+    <edge source="&quot;SYDNEY&quot;" target="&quot;CHINATOWN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chinatown is located in Sydney, which is a city in New South Wales, Australia."</data>
+      <data key="d5">d329da2e3d655240bcdac70edaa92c1b</data>
+    </edge>
+    <edge source="&quot;SYDNEY&quot;" target="&quot;NEW SOUTH WALES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sydney is a city located in the state of New South Wales, Australia."</data>
+      <data key="d5">d329da2e3d655240bcdac70edaa92c1b</data>
+    </edge>
+    <edge source="&quot;NEW SOUTH WALES&quot;" target="&quot;AUSTRALIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"New South Wales is a state located in the country of Australia."</data>
+      <data key="d5">d329da2e3d655240bcdac70edaa92c1b</data>
+    </edge>
+    <edge source="&quot;CITY OF SYDNEY&quot;" target="&quot;CHINATOWN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chinatown is part of the local government area of the City of Sydney."</data>
+      <data key="d5">d329da2e3d655240bcdac70edaa92c1b</data>
+    </edge>
+    <edge source="&quot;NEPAL&quot;" target="&quot;KATHMANDU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Kathmandu is the capital and largest municipality of Nepal."</data>
+      <data key="d5">3d0293c35e687d4033a84df0a9302e19</data>
+    </edge>
+    <edge source="&quot;SAARC&quot;" target="&quot;KATHMANDU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"SAARC has its headquarters in Kathmandu."</data>
+      <data key="d5">3d0293c35e687d4033a84df0a9302e19</data>
+    </edge>
+    <edge source="&quot;LALITPUR&quot;" target="&quot;KATHMANDU VALLEY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lalitpur is part of the Kathmandu Valley urban agglomeration."</data>
+      <data key="d5">3d0293c35e687d4033a84df0a9302e19</data>
+    </edge>
+    <edge source="&quot;KIRTIPUR&quot;" target="&quot;KATHMANDU VALLEY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Kirtipur is part of the Kathmandu Valley urban agglomeration."</data>
+      <data key="d5">3d0293c35e687d4033a84df0a9302e19</data>
+    </edge>
+    <edge source="&quot;MADHYAPUR THIMI&quot;" target="&quot;KATHMANDU VALLEY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Madhyapur Thimi is part of the Kathmandu Valley urban agglomeration."</data>
+      <data key="d5">3d0293c35e687d4033a84df0a9302e19</data>
+    </edge>
+    <edge source="&quot;BHAKTAPUR&quot;" target="&quot;KATHMANDU VALLEY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bhaktapur is part of the Kathmandu Valley urban agglomeration."</data>
+      <data key="d5">3d0293c35e687d4033a84df0a9302e19</data>
+    </edge>
+    <edge source="&quot;GREG NICKELS&quot;" target="&quot;SEATTLE CITY COUNCIL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Greg Nickels is a former Mayor of Seattle who worked with the Seattle City Council to drive an economic boom through biotechnology."</data>
+      <data key="d5">e09956633d88e767a2d5c308205b37c8</data>
+    </edge>
+    <edge source="&quot;VULCAN INC.&quot;" target="&quot;PAUL ALLEN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Vulcan Inc. is the holding company of billionaire Paul Allen, involved in development projects in Seattle."</data>
+      <data key="d5">e09956633d88e767a2d5c308205b37c8</data>
+    </edge>
+    <edge source="&quot;VULCAN INC.&quot;" target="&quot;SEATTLE CITY COUNCIL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Seattle City Council has been criticized for pandering to Vulcan Inc.'s interests at taxpayers' expense."</data>
+      <data key="d5">e09956633d88e767a2d5c308205b37c8</data>
+    </edge>
+    <edge source="&quot;BOEING&quot;" target="&quot;SEATTLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Boeing was previously headquartered in Seattle and remains a large private employer in the area."</data>
+      <data key="d5">e09956633d88e767a2d5c308205b37c8</data>
+    </edge>
+    <edge source="&quot;LOS ANGELES&quot;" target="&quot;SOUTHERN CALIFORNIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Los Angeles is a part of Southern California, serving as one of its dominant areas."</data>
+      <data key="d5">8244806fd00c10a492946d6dbb1901d6</data>
+    </edge>
+    <edge source="&quot;ORANGE COUNTY&quot;" target="&quot;SOUTHERN CALIFORNIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Orange County is a part of Southern California, serving as one of its dominant areas."</data>
+      <data key="d5">8244806fd00c10a492946d6dbb1901d6</data>
+    </edge>
+    <edge source="&quot;SAN DIEGO&quot;" target="&quot;SOUTHERN CALIFORNIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"San Diego is a part of Southern California, serving as one of its dominant areas and part of an international metropolitan region with Tijuana."</data>
+      <data key="d5">8244806fd00c10a492946d6dbb1901d6</data>
+    </edge>
+    <edge source="&quot;SAN DIEGO&quot;" target="&quot;TIJUANA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"San Diego and Tijuana form an international metropolitan region."</data>
+      <data key="d5">8244806fd00c10a492946d6dbb1901d6</data>
+    </edge>
+    <edge source="&quot;SAN DIEGO&quot;" target="&quot;LOS ANGELES METROPOLITAN AREA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"San Diego is compared to the Los Angeles metropolitan area in terms of population size."</data>
+      <data key="d5">0f1bea8e6070909ba2eebed3f545ae64</data>
+    </edge>
+    <edge source="&quot;SAN DIEGO&quot;" target="&quot;SAN FRANCISCO METROPOLITAN AREA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"San Diego is compared to the San Francisco metropolitan area in terms of population size."</data>
+      <data key="d5">0f1bea8e6070909ba2eebed3f545ae64</data>
+    </edge>
+    <edge source="&quot;SAN DIEGO&quot;" target="&quot;RIVERSIDE&#8211;SAN BERNARDINO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Riverside&#8211;San Bernardino is larger than the San Diego metropolitan area in terms of population."</data>
+      <data key="d5">0f1bea8e6070909ba2eebed3f545ae64</data>
+    </edge>
+    <edge source="&quot;RIVERSIDE-SAN BERNARDINO&quot;" target="&quot;SOUTHERN CALIFORNIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Riverside-San Bernardino is a part of Southern California, serving as one of its dominant areas."</data>
+      <data key="d5">8244806fd00c10a492946d6dbb1901d6</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,1344 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="id" attr.type="string" />
+  <key id="d6" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d5" for="node" attr.name="degree" attr.type="long" />
+  <key id="d4" for="node" attr.name="level" attr.type="long" />
+  <key id="d3" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;PRESIDENT PRO TEMPORE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The President pro tempore serves as the leader of the Senate when the Vice President is absent, and is usually the most senior Senator in the majority party."</data>
+      <data key="d2">5e0fef04d6763b93c3162b9fa9bc6b03</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">0</data>
+      <data key="d7">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;UNITED STATES SENATE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States Senate is a legislative body that is part of the legislative branch of the US federal government. It is led by the Majority Leader and has the Vice President serving as its president. The Senate has maintained various majority compositions throughout its history, including a Republican majority during the Forty-fourth Congress. Currently, it composes The One Hundred Fourteenth United States Congress.</data>
+      <data key="d2">5e0fef04d6763b93c3162b9fa9bc6b03,67b070300bd4614930089c0972d9e29a,9caf7ca2b7cae2916f4505c507dbb9e0,ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">8</data>
+      <data key="d6">1</data>
+      <data key="d7">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;MAJORITY LEADER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Majority Leader is a leadership position in Congress, earning a higher salary than Representatives. In practice, the Majority Leader manages the Senate and holds more power than the presiding officer.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">3b75e55d7fd9a3f39f555852b1fbd45c,5e0fef04d6763b93c3162b9fa9bc6b03</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">2</data>
+      <data key="d7">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The House of Representatives is a legislative body that plays a crucial role in the US government and some state governments. At the federal level, it is part of the legislative branch of the United States government, responsible for originating revenue bills and appropriation bills. The House has a powerful office of Speaker, who has significant discretionary power and typically presides over votes on bills. In contrast to the limited power of the Senate president, the Speaker of the House wields considerable influence. Additionally, in some states, such as Georgia, the House of Representatives is also the lower house of the state's General Assembly, comprising 180 members.</data>
+      <data key="d2">5e0fef04d6763b93c3162b9fa9bc6b03,71eece064595e49c2f1923920d9ec129,7604f2c8c21e8a58743bffe3e0634dd6,992361fe071a5d0ea494a6e85ee06402,c3baec199b99357da012be07b0a57de7,c6bea31faede8615de351de690b5e471</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">8</data>
+      <data key="d6">3</data>
+      <data key="d7">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;VICE PRESIDENT OF THE UNITED STATES&quot;">
+      <data key="d0" />
+      <data key="d1">Here is a comprehensive summary:
+
+The Vice President of the United States has specific responsibilities and authorities, including presiding over the Senate.</data>
+      <data key="d2">5e0fef04d6763b93c3162b9fa9bc6b03,c3baec199b99357da012be07b0a57de7</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">4</data>
+      <data key="d7">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">0630a0e78abaf1b0328a010fb296ba5b,1c5fa7374947dd3a04499f8467a59818,1f0567c1cdd50a39d079e48c1f85f5c6,3b75e55d7fd9a3f39f555852b1fbd45c,4519601cd0420b1a1649441f6f474a6d,5e0fef04d6763b93c3162b9fa9bc6b03,67b070300bd4614930089c0972d9e29a,71eece064595e49c2f1923920d9ec129,74beaeadce8b4c37b7fc2662e8b501a1,7604f2c8c21e8a58743bffe3e0634dd6,7e912f0276ff23f80254b696c4805444,8d58dd0e6783d0552627cc325dce2d9d,8f6da5651ec3595ced6cb079993d656a,992361fe071a5d0ea494a6e85ee06402,9caf7ca2b7cae2916f4505c507dbb9e0,9fc11dd15ba47c3943184b5614382bf5,bd7101505b817c7cdd0dd6f99fffd090,c3baec199b99357da012be07b0a57de7,c6bea31faede8615de351de690b5e471,ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">5</data>
+      <data key="d7">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">0630a0e78abaf1b0328a010fb296ba5b,1c5fa7374947dd3a04499f8467a59818,1f0567c1cdd50a39d079e48c1f85f5c6,3b75e55d7fd9a3f39f555852b1fbd45c,4519601cd0420b1a1649441f6f474a6d,5e0fef04d6763b93c3162b9fa9bc6b03,67b070300bd4614930089c0972d9e29a,71eece064595e49c2f1923920d9ec129,74beaeadce8b4c37b7fc2662e8b501a1,7604f2c8c21e8a58743bffe3e0634dd6,7e912f0276ff23f80254b696c4805444,8d58dd0e6783d0552627cc325dce2d9d,8f6da5651ec3595ced6cb079993d656a,992361fe071a5d0ea494a6e85ee06402,9caf7ca2b7cae2916f4505c507dbb9e0,9fc11dd15ba47c3943184b5614382bf5,bd7101505b817c7cdd0dd6f99fffd090,c3baec199b99357da012be07b0a57de7,c6bea31faede8615de351de690b5e471,ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">6</data>
+      <data key="d7">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">0630a0e78abaf1b0328a010fb296ba5b,1c5fa7374947dd3a04499f8467a59818,1f0567c1cdd50a39d079e48c1f85f5c6,3b75e55d7fd9a3f39f555852b1fbd45c,4519601cd0420b1a1649441f6f474a6d,5e0fef04d6763b93c3162b9fa9bc6b03,67b070300bd4614930089c0972d9e29a,71eece064595e49c2f1923920d9ec129,74beaeadce8b4c37b7fc2662e8b501a1,7604f2c8c21e8a58743bffe3e0634dd6,7e912f0276ff23f80254b696c4805444,8d58dd0e6783d0552627cc325dce2d9d,8f6da5651ec3595ced6cb079993d656a,992361fe071a5d0ea494a6e85ee06402,9caf7ca2b7cae2916f4505c507dbb9e0,9fc11dd15ba47c3943184b5614382bf5,bd7101505b817c7cdd0dd6f99fffd090,c3baec199b99357da012be07b0a57de7,c6bea31faede8615de351de690b5e471,ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">7</data>
+      <data key="d7">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">0630a0e78abaf1b0328a010fb296ba5b,1c5fa7374947dd3a04499f8467a59818,1f0567c1cdd50a39d079e48c1f85f5c6,3b75e55d7fd9a3f39f555852b1fbd45c,4519601cd0420b1a1649441f6f474a6d,5e0fef04d6763b93c3162b9fa9bc6b03,67b070300bd4614930089c0972d9e29a,71eece064595e49c2f1923920d9ec129,74beaeadce8b4c37b7fc2662e8b501a1,7604f2c8c21e8a58743bffe3e0634dd6,7e912f0276ff23f80254b696c4805444,8d58dd0e6783d0552627cc325dce2d9d,8f6da5651ec3595ced6cb079993d656a,992361fe071a5d0ea494a6e85ee06402,9caf7ca2b7cae2916f4505c507dbb9e0,9fc11dd15ba47c3943184b5614382bf5,bd7101505b817c7cdd0dd6f99fffd090,c3baec199b99357da012be07b0a57de7,c6bea31faede8615de351de690b5e471,ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">8</data>
+      <data key="d7">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country where Tucson, Pima County, and Arizona are located. It has a constitution that outlines the powers and procedures of its legislative bodies.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">0630a0e78abaf1b0328a010fb296ba5b,1c5fa7374947dd3a04499f8467a59818,1f0567c1cdd50a39d079e48c1f85f5c6,3b75e55d7fd9a3f39f555852b1fbd45c,4519601cd0420b1a1649441f6f474a6d,5e0fef04d6763b93c3162b9fa9bc6b03,67b070300bd4614930089c0972d9e29a,71eece064595e49c2f1923920d9ec129,74beaeadce8b4c37b7fc2662e8b501a1,7604f2c8c21e8a58743bffe3e0634dd6,7e912f0276ff23f80254b696c4805444,8d58dd0e6783d0552627cc325dce2d9d,8f6da5651ec3595ced6cb079993d656a,992361fe071a5d0ea494a6e85ee06402,9caf7ca2b7cae2916f4505c507dbb9e0,9fc11dd15ba47c3943184b5614382bf5,bd7101505b817c7cdd0dd6f99fffd090,c3baec199b99357da012be07b0a57de7,c6bea31faede8615de351de690b5e471,ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">9</data>
+      <data key="d7">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">0630a0e78abaf1b0328a010fb296ba5b,1c5fa7374947dd3a04499f8467a59818,1f0567c1cdd50a39d079e48c1f85f5c6,3b75e55d7fd9a3f39f555852b1fbd45c,4519601cd0420b1a1649441f6f474a6d,5e0fef04d6763b93c3162b9fa9bc6b03,67b070300bd4614930089c0972d9e29a,71eece064595e49c2f1923920d9ec129,74beaeadce8b4c37b7fc2662e8b501a1,7604f2c8c21e8a58743bffe3e0634dd6,7e912f0276ff23f80254b696c4805444,8d58dd0e6783d0552627cc325dce2d9d,8f6da5651ec3595ced6cb079993d656a,992361fe071a5d0ea494a6e85ee06402,9caf7ca2b7cae2916f4505c507dbb9e0,9fc11dd15ba47c3943184b5614382bf5,bd7101505b817c7cdd0dd6f99fffd090,c3baec199b99357da012be07b0a57de7,c6bea31faede8615de351de690b5e471,ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">10</data>
+      <data key="d7">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">0630a0e78abaf1b0328a010fb296ba5b,1c5fa7374947dd3a04499f8467a59818,1f0567c1cdd50a39d079e48c1f85f5c6,3b75e55d7fd9a3f39f555852b1fbd45c,4519601cd0420b1a1649441f6f474a6d,5e0fef04d6763b93c3162b9fa9bc6b03,67b070300bd4614930089c0972d9e29a,71eece064595e49c2f1923920d9ec129,74beaeadce8b4c37b7fc2662e8b501a1,7604f2c8c21e8a58743bffe3e0634dd6,7e912f0276ff23f80254b696c4805444,8d58dd0e6783d0552627cc325dce2d9d,8f6da5651ec3595ced6cb079993d656a,992361fe071a5d0ea494a6e85ee06402,9caf7ca2b7cae2916f4505c507dbb9e0,9fc11dd15ba47c3943184b5614382bf5,bd7101505b817c7cdd0dd6f99fffd090,c3baec199b99357da012be07b0a57de7,c6bea31faede8615de351de690b5e471,ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">11</data>
+      <data key="d7">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">0630a0e78abaf1b0328a010fb296ba5b,1c5fa7374947dd3a04499f8467a59818,1f0567c1cdd50a39d079e48c1f85f5c6,3b75e55d7fd9a3f39f555852b1fbd45c,4519601cd0420b1a1649441f6f474a6d,5e0fef04d6763b93c3162b9fa9bc6b03,67b070300bd4614930089c0972d9e29a,71eece064595e49c2f1923920d9ec129,74beaeadce8b4c37b7fc2662e8b501a1,7604f2c8c21e8a58743bffe3e0634dd6,7e912f0276ff23f80254b696c4805444,8d58dd0e6783d0552627cc325dce2d9d,8f6da5651ec3595ced6cb079993d656a,992361fe071a5d0ea494a6e85ee06402,9caf7ca2b7cae2916f4505c507dbb9e0,9fc11dd15ba47c3943184b5614382bf5,bd7101505b817c7cdd0dd6f99fffd090,c3baec199b99357da012be07b0a57de7,c6bea31faede8615de351de690b5e471,ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">12</data>
+      <data key="d7">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">0630a0e78abaf1b0328a010fb296ba5b,1c5fa7374947dd3a04499f8467a59818,1f0567c1cdd50a39d079e48c1f85f5c6,3b75e55d7fd9a3f39f555852b1fbd45c,4519601cd0420b1a1649441f6f474a6d,5e0fef04d6763b93c3162b9fa9bc6b03,67b070300bd4614930089c0972d9e29a,71eece064595e49c2f1923920d9ec129,74beaeadce8b4c37b7fc2662e8b501a1,7604f2c8c21e8a58743bffe3e0634dd6,7e912f0276ff23f80254b696c4805444,8d58dd0e6783d0552627cc325dce2d9d,8f6da5651ec3595ced6cb079993d656a,992361fe071a5d0ea494a6e85ee06402,9caf7ca2b7cae2916f4505c507dbb9e0,9fc11dd15ba47c3943184b5614382bf5,bd7101505b817c7cdd0dd6f99fffd090,c3baec199b99357da012be07b0a57de7,c6bea31faede8615de351de690b5e471,ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d5">0</data>
+      <data key="d6">13</data>
+      <data key="d7">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0630a0e78abaf1b0328a010fb296ba5b,1c5fa7374947dd3a04499f8467a59818,1f0567c1cdd50a39d079e48c1f85f5c6,3b75e55d7fd9a3f39f555852b1fbd45c,4519601cd0420b1a1649441f6f474a6d,5e0fef04d6763b93c3162b9fa9bc6b03,67b070300bd4614930089c0972d9e29a,71eece064595e49c2f1923920d9ec129,74beaeadce8b4c37b7fc2662e8b501a1,7604f2c8c21e8a58743bffe3e0634dd6,7e912f0276ff23f80254b696c4805444,8d58dd0e6783d0552627cc325dce2d9d,8f6da5651ec3595ced6cb079993d656a,992361fe071a5d0ea494a6e85ee06402,9caf7ca2b7cae2916f4505c507dbb9e0,9fc11dd15ba47c3943184b5614382bf5,bd7101505b817c7cdd0dd6f99fffd090,c3baec199b99357da012be07b0a57de7,c6bea31faede8615de351de690b5e471,ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">5</data>
+      <data key="d6">14</data>
+      <data key="d7">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;SENATE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Senate is a legislative body in the US government that proposes or concurs with amendments to revenue bills and drafts its own appropriation bills. As part of the legislative branch of the United States federal government, it has a unique role in the lawmaking process. The Vice President serves as president of the Senate, although their powers are limited. In terms of party representation, the Republicans gained a majority in the 114th Congress. The leaders of the Senate earn the same salary as their counterparts in the House of Representatives. It is worth noting that there is also a Senate in the Georgia General Assembly, which is the upper house composed of 56 members; however, the primary focus here is on the US Senate.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">3b75e55d7fd9a3f39f555852b1fbd45c,71eece064595e49c2f1923920d9ec129,992361fe071a5d0ea494a6e85ee06402,9fc11dd15ba47c3943184b5614382bf5,c3baec199b99357da012be07b0a57de7,c6bea31faede8615de351de690b5e471</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">6</data>
+      <data key="d6">15</data>
+      <data key="d7">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;WASHINGTON, D.C.&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Washington, D.C. is the location where several significant events in American history have taken place. Specifically, it was the site where the Forty-fourth United States Congress met from March 4, 1875, to March 4, 1877. Additionally, Washington, D.C. has also served as the meeting place for more recent congressional sessions, including The One Hundred Fourteenth United States Congress, which convened from January 3, 2015, to January 3, 2017, and continues to be the location where The One Hundred Fifteenth United States Congress meets.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">9caf7ca2b7cae2916f4505c507dbb9e0,c6bea31faede8615de351de690b5e471,ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">16</data>
+      <data key="d7">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;BARACK OBAMA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Barack Obama was the President of the United States during the final two full years of his presidency, coinciding with The One Hundred Fourteenth United States Congress, which concluded in the final weeks of his presidency.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">c6bea31faede8615de351de690b5e471,ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">17</data>
+      <data key="d7">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;DONALD TRUMP&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Donald Trump is the President of the United States during the first two years of his presidency."</data>
+      <data key="d2">c6bea31faede8615de351de690b5e471</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">18</data>
+      <data key="d7">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;NOVEMBER 2016 ELECTIONS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The November 2016 elections maintained Republican control of both the House and Senate."</data>
+      <data key="d2">c6bea31faede8615de351de690b5e471</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">19</data>
+      <data key="d7">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;THE ONE HUNDRED FIFTEENTH UNITED STATES CONGRESS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c6bea31faede8615de351de690b5e471</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">20</data>
+      <data key="d7">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;NIGERIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Nigeria is a country where the House of Representatives is located."</data>
+      <data key="d2">7604f2c8c21e8a58743bffe3e0634dd6</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">21</data>
+      <data key="d7">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;SPEAKER OF THE NIGERIAN HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Speaker is the presiding officer of the House of Representatives in Nigeria."</data>
+      <data key="d2">7604f2c8c21e8a58743bffe3e0634dd6</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">22</data>
+      <data key="d7">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;ELECTIONS HELD IN APRIL 2015&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The elections were held to form the current House of Representatives in Nigeria."</data>
+      <data key="d2">7604f2c8c21e8a58743bffe3e0634dd6</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">23</data>
+      <data key="d7">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;ARTICLE ONE, SECTION 5 OF THE UNITED STATES CONSTITUTION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Article One, Section 5 of the United States Constitution is a provision that grants each House the power to determine its own rules."</data>
+      <data key="d2">67b070300bd4614930089c0972d9e29a</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">24</data>
+      <data key="d7">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;IOWA SENATE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Iowa Senate is the upper house of the Iowa General Assembly."</data>
+      <data key="d2">8f6da5651ec3595ced6cb079993d656a</data>
+      <data key="d5">1</data>
+      <data key="d6">25</data>
+      <data key="d7">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;IOWA STATE CAPITOL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Iowa State Capitol is the location where the House of Representatives meets, located in Des Moines."</data>
+      <data key="d2">8f6da5651ec3595ced6cb079993d656a</data>
+      <data key="d5">1</data>
+      <data key="d6">26</data>
+      <data key="d7">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;DES MOINES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Des Moines is a city in Iowa where the Iowa State Capitol is located."</data>
+      <data key="d2">8f6da5651ec3595ced6cb079993d656a</data>
+      <data key="d5">0</data>
+      <data key="d6">27</data>
+      <data key="d7">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;IOWA HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8f6da5651ec3595ced6cb079993d656a</data>
+      <data key="d5">2</data>
+      <data key="d6">28</data>
+      <data key="d7">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;UNITED STATES HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States House of Representatives is a legislative body that serves as part of the legislative branch of the US federal government. It has had varying party majorities throughout its history, including a Democratic majority for the first time since the American Civil War during the Forty-fourth Congress. Currently, Nancy Pelosi serves as Minority Leader in this chamber, which composes The One Hundred Fourteenth United States Congress.</data>
+      <data key="d2">74beaeadce8b4c37b7fc2662e8b501a1,9caf7ca2b7cae2916f4505c507dbb9e0,bd7101505b817c7cdd0dd6f99fffd090,ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">7</data>
+      <data key="d6">29</data>
+      <data key="d7">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;THE ONE HUNDRED FOURTEENTH UNITED STATES CONGRESS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">30</data>
+      <data key="d7">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;SPEAKER OF THE HOUSE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Speaker of the House is a leadership position in Congress, earning a higher salary than Representatives."</data>
+      <data key="d2">3b75e55d7fd9a3f39f555852b1fbd45c</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">31</data>
+      <data key="d7">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&quot;MINORITY LEADER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Minority Leader is a leadership position in Congress, earning a higher salary than Representatives."</data>
+      <data key="d2">3b75e55d7fd9a3f39f555852b1fbd45c</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">32</data>
+      <data key="d7">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&quot;UNITED STATES CONSTITUTION&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States Constitution is a foundational document that outlines the rules and principles governing the country, including those related to congressional salaries.</data>
+      <data key="d2">3b75e55d7fd9a3f39f555852b1fbd45c,71eece064595e49c2f1923920d9ec129</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">33</data>
+      <data key="d7">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&quot;CONGRESS&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Congress is a convening event where the Minority Leader's party may take control of the House and elect new leaders.</data>
+      <data key="d2">3b75e55d7fd9a3f39f555852b1fbd45c,bd7101505b817c7cdd0dd6f99fffd090</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">6</data>
+      <data key="d6">34</data>
+      <data key="d7">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&quot;ZHOU WU&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Zhou Wu led the rebellion against the Shang dynasty, creating the Mandate of Heaven to justify their right to rule."</data>
+      <data key="d2">4519601cd0420b1a1649441f6f474a6d</data>
+      <data key="d5">1</data>
+      <data key="d6">35</data>
+      <data key="d7">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&quot;ZHOU DYNASTY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Zhou dynasty was a new ruling house that rose to power after the overthrow of the Shang dynasty, with a mandate to rule well in the eyes of Heaven."</data>
+      <data key="d2">4519601cd0420b1a1649441f6f474a6d</data>
+      <data key="d5">0</data>
+      <data key="d6">36</data>
+      <data key="d7">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&quot;HEAVEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Heaven is referred to as a divine authority that grants the Mandate of Heaven to rulers, signifying their right to assume power."</data>
+      <data key="d2">4519601cd0420b1a1649441f6f474a6d</data>
+      <data key="d5">0</data>
+      <data key="d6">37</data>
+      <data key="d7">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&quot;MANDATE OF HEAVEN&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The Mandate of Heaven is a concept created by Zhou Wu to justify their right to rule, based on the idea that a ruler's virtue and morality are essential to holding power."</data>
+      <data key="d2">4519601cd0420b1a1649441f6f474a6d</data>
+      <data key="d5">1</data>
+      <data key="d6">38</data>
+      <data key="d7">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&quot;OHIO SENATE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Ohio Senate is a legislative body that Tim Schaffer has been a part of from 2007 to 2014."</data>
+      <data key="d2">0630a0e78abaf1b0328a010fb296ba5b</data>
+      <data key="d5">1</data>
+      <data key="d6">39</data>
+      <data key="d7">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <node id="&quot;OHIO HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Ohio House of Representatives is a legislative body where Tim Schaffer served from 2001 until 2006 and again from 2015 until 2019, representing the 77th District."</data>
+      <data key="d2">0630a0e78abaf1b0328a010fb296ba5b</data>
+      <data key="d5">2</data>
+      <data key="d6">40</data>
+      <data key="d7">3ce7c210a21b4deebad7cc9308148d86</data>
+    </node>
+    <node id="&quot;77TH DISTRICT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The 77th District is a geographic area in Ohio that Tim Schaffer represented in the Ohio House of Representatives from 2015 until 2019."</data>
+      <data key="d2">0630a0e78abaf1b0328a010fb296ba5b</data>
+      <data key="d5">1</data>
+      <data key="d6">41</data>
+      <data key="d7">d64ed762ea924caa95c8d06f072a9a96</data>
+    </node>
+    <node id="&quot;TIM SCHAFFER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0630a0e78abaf1b0328a010fb296ba5b</data>
+      <data key="d5">2</data>
+      <data key="d6">42</data>
+      <data key="d7">adf4ee3fbe9b4d0381044838c4f889c8</data>
+    </node>
+    <node id="&quot;ULYSSES S. GRANT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ulysses S. Grant was the President of the United States during the seventh and eighth years of his presidency, coinciding with the Forty-fourth Congress."</data>
+      <data key="d2">9caf7ca2b7cae2916f4505c507dbb9e0</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">43</data>
+      <data key="d7">32ee140946e5461f9275db664dc541a5</data>
+    </node>
+    <node id="&quot;NINTH CENSUS OF THE UNITED STATES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Ninth Census of the United States in 1870 was used as the basis for apportioning seats in the House of Representatives during the Forty-fourth Congress."</data>
+      <data key="d2">9caf7ca2b7cae2916f4505c507dbb9e0</data>
+      <data key="d5">0</data>
+      <data key="d6">44</data>
+      <data key="d7">c160b9cb27d6408ba6ab20214a2f3f81</data>
+    </node>
+    <node id="&quot;FORTY-FOURTH UNITED STATES CONGRESS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9caf7ca2b7cae2916f4505c507dbb9e0</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">45</data>
+      <data key="d7">23527cd679ff4d5a988d52e7cd056078</data>
+    </node>
+    <node id="&quot;NANCY PELOSI&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Nancy Pelosi is a prominent figure in American politics who has made history by becoming the first woman to serve as Speaker of the House, marking a significant milestone in the country's political landscape. Currently, she holds the position of Minority Leader of the United States House of Representatives.</data>
+      <data key="d2">1f0567c1cdd50a39d079e48c1f85f5c6,74beaeadce8b4c37b7fc2662e8b501a1,bd7101505b817c7cdd0dd6f99fffd090</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">46</data>
+      <data key="d7">f1c6eed066f24cbdb376b910fce29ed4</data>
+    </node>
+    <node id="&quot;OREGON REPUBLICAN PARTY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Oregon Republican Party is a major political party in Oregon, recognized by the state alongside the Democratic Party of Oregon."</data>
+      <data key="d2">8d58dd0e6783d0552627cc325dce2d9d</data>
+      <data key="d5">0</data>
+      <data key="d6">47</data>
+      <data key="d7">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+    </node>
+    <node id="&quot;STATE CENTRAL COMMITTEE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The State Central Committee is the main authoritative body of the Democratic Party of Oregon, composed of delegates elected from each county and registered Democrats."</data>
+      <data key="d2">8d58dd0e6783d0552627cc325dce2d9d</data>
+      <data key="d5">1</data>
+      <data key="d6">48</data>
+      <data key="d7">147c038aef3e4422acbbc5f7938c4ab8</data>
+    </node>
+    <node id="&quot;KATE BROWN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kate Brown is the Governor of Oregon, holding office as a member of the Democratic Party."</data>
+      <data key="d2">8d58dd0e6783d0552627cc325dce2d9d</data>
+      <data key="d5">1</data>
+      <data key="d6">49</data>
+      <data key="d7">b7702b90c7f24190b864e8c6e64612a5</data>
+    </node>
+    <node id="&quot;ELLEN ROSENBLUM&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ellen Rosenblum is the Attorney General of Oregon, holding office as a member of the Democratic Party."</data>
+      <data key="d2">8d58dd0e6783d0552627cc325dce2d9d</data>
+      <data key="d5">1</data>
+      <data key="d6">50</data>
+      <data key="d7">de6fa24480894518ab3cbcb66f739266</data>
+    </node>
+    <node id="&quot;VAL HOYLE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Val Hoyle is the Labor Commissioner of Oregon, holding office as a member of the Democratic Party."</data>
+      <data key="d2">8d58dd0e6783d0552627cc325dce2d9d</data>
+      <data key="d5">1</data>
+      <data key="d6">51</data>
+      <data key="d7">6fae5ee1a831468aa585a1ea09095998</data>
+    </node>
+    <node id="&quot;TOBIAS READ&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Tobias Read is the State Treasurer of Oregon, holding office as a member of the Democratic Party."</data>
+      <data key="d2">8d58dd0e6783d0552627cc325dce2d9d</data>
+      <data key="d5">1</data>
+      <data key="d6">52</data>
+      <data key="d7">ef32c4b208d041cc856f6837915dc1b0</data>
+    </node>
+    <node id="&quot;DEMOCRATIC PARTY OF OREGON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8d58dd0e6783d0552627cc325dce2d9d</data>
+      <data key="d5">6</data>
+      <data key="d6">53</data>
+      <data key="d7">07b2425216bd4f0aa4e079827cb48ef5</data>
+    </node>
+    <node id="&quot;OREGON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8d58dd0e6783d0552627cc325dce2d9d</data>
+      <data key="d5">1</data>
+      <data key="d6">54</data>
+      <data key="d7">2670deebfa3f4d69bb82c28ab250a209</data>
+    </node>
+    <node id="&quot;GEORGIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Georgia is a state where the Georgia General Assembly operates."</data>
+      <data key="d2">992361fe071a5d0ea494a6e85ee06402</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">55</data>
+      <data key="d7">404309e89a5241d6bff42c05a45df206</data>
+    </node>
+    <node id="&quot;GEORGIA GENERAL ASSEMBLY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">992361fe071a5d0ea494a6e85ee06402</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">56</data>
+      <data key="d7">b785a9025069417f94950ad231bb1441</data>
+    </node>
+    <node id="&quot;STEVE DAINES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Steve Daines is a Republican who won one of the state's Senate seats in 2014."</data>
+      <data key="d2">1c5fa7374947dd3a04499f8467a59818</data>
+      <data key="d5">1</data>
+      <data key="d6">57</data>
+      <data key="d7">3b6cd96a27304614850709aba1c9598b</data>
+    </node>
+    <node id="&quot;GOP&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The GOP (Grand Old Party) is another name for the Republican Party, which has controlled various branches of government in the state at different times."</data>
+      <data key="d2">1c5fa7374947dd3a04499f8467a59818</data>
+      <data key="d5">1</data>
+      <data key="d6">58</data>
+      <data key="d7">d54956b79dd147f894b67a8b97dcbef0</data>
+    </node>
+    <node id="&quot;LEGISLATIVE BRANCH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Legislative branch is a part of the state government that has had split party control between the house and senate over the years."</data>
+      <data key="d2">1c5fa7374947dd3a04499f8467a59818</data>
+      <data key="d5">1</data>
+      <data key="d6">59</data>
+      <data key="d7">958beecdb5bb4060948415ffd75d2b03</data>
+    </node>
+    <node id="&quot;STATE SENATE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The State Senate is a part of the state government, currently controlled by the Republicans with 29 seats to 21."</data>
+      <data key="d2">1c5fa7374947dd3a04499f8467a59818</data>
+      <data key="d5">1</data>
+      <data key="d6">60</data>
+      <data key="d7">b999ed77e19e4f85b7f1ae79af5c002a</data>
+    </node>
+    <node id="&quot;STATE HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The State House of Representatives is another part of the state government, currently controlled by the Republicans with 59 seats to 41."</data>
+      <data key="d2">1c5fa7374947dd3a04499f8467a59818</data>
+      <data key="d5">1</data>
+      <data key="d6">61</data>
+      <data key="d7">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+    </node>
+    <node id="&quot;DEMOCRATS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1c5fa7374947dd3a04499f8467a59818</data>
+      <data key="d5">1</data>
+      <data key="d6">62</data>
+      <data key="d7">4f3c97517f794ebfb49c4c6315f9cf23</data>
+    </node>
+    <node id="&quot;KEVIN MCCARTHY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kevin McCarthy is the Majority Leader of the United States House of Representatives."</data>
+      <data key="d2">74beaeadce8b4c37b7fc2662e8b501a1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">63</data>
+      <data key="d7">1745a2485a9443bab76587ad650e9be0</data>
+    </node>
+    <node id="&quot;STEVE SCALISE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Steve Scalise is the Majority Whip of the United States House of Representatives."</data>
+      <data key="d2">74beaeadce8b4c37b7fc2662e8b501a1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">64</data>
+      <data key="d7">32e6ccab20d94029811127dbbe424c64</data>
+    </node>
+    <node id="&quot;STENY HOYER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Steny Hoyer is the Minority Whip of the United States House of Representatives."</data>
+      <data key="d2">74beaeadce8b4c37b7fc2662e8b501a1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">65</data>
+      <data key="d7">94a964c6992945ebb3833dfdfdc8d655</data>
+    </node>
+    <node id="&quot;CONNECTICUT GENERAL ASSEMBLY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Connecticut General Assembly is the state legislature of the US state of Connecticut."</data>
+      <data key="d2">7e912f0276ff23f80254b696c4805444</data>
+      <data key="d5">1</data>
+      <data key="d6">66</data>
+      <data key="d7">1eb829d0ace042089f0746f78729696c</data>
+    </node>
+    <node id="&quot;CONNECTICUT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Connecticut is a US state whose legislative upper house has a two-year term for its members."</data>
+      <data key="d2">7e912f0276ff23f80254b696c4805444</data>
+      <data key="d5">1</data>
+      <data key="d6">67</data>
+      <data key="d7">015e7b58d1a14b44beab3bbc9f912c18</data>
+    </node>
+    <node id="&quot;CONNECTICUT STATE SENATE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7e912f0276ff23f80254b696c4805444</data>
+      <data key="d5">2</data>
+      <data key="d6">68</data>
+      <data key="d7">26f88ab3e2e04c33a459ad6270ade565</data>
+    </node>
+    <node id="&quot;KEITH ELLISON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Keith Ellison is the first Muslim member of Congress, representing a significant demographic shift."</data>
+      <data key="d2">1f0567c1cdd50a39d079e48c1f85f5c6</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">69</data>
+      <data key="d7">babe97e1d9784cffa1c85abc1e588126</data>
+    </node>
+    <node id="&quot;HANK JOHNSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hank Johnson is one of the first Buddhist members of Congress, contributing to the diversity of the House."</data>
+      <data key="d2">1f0567c1cdd50a39d079e48c1f85f5c6</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">70</data>
+      <data key="d7">1033a18c45aa4584b2aef6ab96890351</data>
+    </node>
+    <node id="&quot;MAZIE HIRONO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mazie Hirono is one of the first Buddhist members of Congress, representing a significant religious minority."</data>
+      <data key="d2">1f0567c1cdd50a39d079e48c1f85f5c6</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">71</data>
+      <data key="d7">c9b8ce91fc2945b4907fe35519339cac</data>
+    </node>
+    <node id="&quot;DEMOCRATIC PARTY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1f0567c1cdd50a39d079e48c1f85f5c6</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">72</data>
+      <data key="d7">fa3c4204421c48609e52c8de2da4c654</data>
+    </node>
+    <node id="&quot;114TH CONGRESS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 114th Congress started in January 2015 and was a significant event for the Republicans regaining the Senate majority."</data>
+      <data key="d2">9fc11dd15ba47c3943184b5614382bf5</data>
+      <data key="d5">1</data>
+      <data key="d6">73</data>
+      <data key="d7">53af055f068244d0ac861b2e89376495</data>
+    </node>
+    <node id="&quot;JANUARY 2007&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"January 2007 is a date when the Republicans last controlled the Senate before regaining it in 2015."</data>
+      <data key="d2">9fc11dd15ba47c3943184b5614382bf5</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">74</data>
+      <data key="d7">c03ab3ce8cb74ad2a03b94723bfab3c7</data>
+    </node>
+    <node id="&quot;JANUARY 2015&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"January 2015 is a date when the 114th Congress started and the Republicans regained the Senate majority."</data>
+      <data key="d2">9fc11dd15ba47c3943184b5614382bf5</data>
+      <data key="d5">1</data>
+      <data key="d6">75</data>
+      <data key="d7">ed6d2eee9d7b4f5db466b1f6404d31cc</data>
+    </node>
+    <node id="&quot;REPUBLICANS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9fc11dd15ba47c3943184b5614382bf5</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">76</data>
+      <data key="d7">fc01e9baa80e417c9206f941bb279407</data>
+    </node>
+    <edge source="&quot;PRESIDENT PRO TEMPORE&quot;" target="&quot;UNITED STATES SENATE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The President pro tempore leads the Senate when the Vice President is absent."</data>
+      <data key="d10">5e0fef04d6763b93c3162b9fa9bc6b03</data>
+      <data key="d11">56d0e5ebe79e4814bd1463cf6ca21394</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES SENATE&quot;" target="&quot;VICE PRESIDENT OF THE UNITED STATES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Vice President serves as President of the United States Senate, but does not typically preside over it."</data>
+      <data key="d10">5e0fef04d6763b93c3162b9fa9bc6b03</data>
+      <data key="d11">7c49f2710e8b4d3b8dc9310834406ea5</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES SENATE&quot;" target="&quot;MAJORITY LEADER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Majority Leader manages the Senate in practice, having more power than the presiding officer."</data>
+      <data key="d10">5e0fef04d6763b93c3162b9fa9bc6b03</data>
+      <data key="d11">c6d1e4f56c2843e89cf0b91c10bb6de2</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES SENATE&quot;" target="&quot;HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The House of Representatives and United States Senate are both legislative bodies with different leadership structures."</data>
+      <data key="d10">5e0fef04d6763b93c3162b9fa9bc6b03</data>
+      <data key="d11">0adb2d9941f34ef7b2f7743cc6225844</data>
+      <data key="d12">3</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES SENATE&quot;" target="&quot;ARTICLE ONE, SECTION 5 OF THE UNITED STATES CONSTITUTION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The United States Senate derives its power to establish rules from Article One, Section 5 of the United States Constitution."</data>
+      <data key="d10">67b070300bd4614930089c0972d9e29a</data>
+      <data key="d11">6b02373137fd438ba96af28f735cdbdb</data>
+      <data key="d12">4</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES SENATE&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The United States Senate is a part of the legislative branch of the government of the United States."</data>
+      <data key="d10">67b070300bd4614930089c0972d9e29a</data>
+      <data key="d11">36a4fcd8efc144e6b8af9a1c7ab8b2ce</data>
+      <data key="d12">5</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES SENATE&quot;" target="&quot;THE ONE HUNDRED FOURTEENTH UNITED STATES CONGRESS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The United States Senate is part of The One Hundred Fourteenth United States Congress."</data>
+      <data key="d10">ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d11">fbeef791d19b413a9c93c6608286ab63</data>
+      <data key="d12">6</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES SENATE&quot;" target="&quot;FORTY-FOURTH UNITED STATES CONGRESS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The United States Senate is part of the Forty-fourth United States Congress."</data>
+      <data key="d10">9caf7ca2b7cae2916f4505c507dbb9e0</data>
+      <data key="d11">d2b629c0396f4180a03e16ddf3818589</data>
+      <data key="d12">7</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MAJORITY LEADER&quot;" target="&quot;CONGRESS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Majority Leader is a member of Congress and holds a leadership position."</data>
+      <data key="d10">3b75e55d7fd9a3f39f555852b1fbd45c</data>
+      <data key="d11">6102fc6619ed422ebc42588bfa97355d</data>
+      <data key="d12">8</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HOUSE OF REPRESENTATIVES&quot;" target="&quot;NIGERIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The House of Representatives is located in Nigeria."</data>
+      <data key="d10">7604f2c8c21e8a58743bffe3e0634dd6</data>
+      <data key="d11">8d141c0b80f74b79a05eed7fe161fe49</data>
+      <data key="d12">9</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HOUSE OF REPRESENTATIVES&quot;" target="&quot;SPEAKER OF THE NIGERIAN HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Speaker presides over the House of Representatives in Nigeria."</data>
+      <data key="d10">7604f2c8c21e8a58743bffe3e0634dd6</data>
+      <data key="d11">e22d1d1cd8d14f12b81828d940f40d70</data>
+      <data key="d12">10</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HOUSE OF REPRESENTATIVES&quot;" target="&quot;ELECTIONS HELD IN APRIL 2015&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The elections formed the current House of Representatives in Nigeria."</data>
+      <data key="d10">7604f2c8c21e8a58743bffe3e0634dd6</data>
+      <data key="d11">9ab48505fb1b487babd0d1f6d3a3f980</data>
+      <data key="d12">11</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HOUSE OF REPRESENTATIVES&quot;" target="&quot;GEORGIA GENERAL ASSEMBLY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The House of Representatives is part of the Georgia General Assembly."</data>
+      <data key="d10">992361fe071a5d0ea494a6e85ee06402</data>
+      <data key="d11">148fffeb994541b2b4b6dcefda7001a8</data>
+      <data key="d12">12</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HOUSE OF REPRESENTATIVES&quot;" target="&quot;VICE PRESIDENT OF THE UNITED STATES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Vice President's role is contrasted with the powerful office of Speaker of the House of Representatives."</data>
+      <data key="d10">c3baec199b99357da012be07b0a57de7</data>
+      <data key="d11">89c08e793298442686292454a1abff31</data>
+      <data key="d12">13</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HOUSE OF REPRESENTATIVES&quot;" target="&quot;UNITED STATES CONSTITUTION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The House of Representatives is bound by the rules outlined in the United States Constitution, specifically regarding revenue bills."</data>
+      <data key="d10">71eece064595e49c2f1923920d9ec129</data>
+      <data key="d11">0467928aa65e4a4fba62bdb1467e3a54</data>
+      <data key="d12">14</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HOUSE OF REPRESENTATIVES&quot;" target="&quot;SENATE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The House of Representatives and Senate collaborate on appropriation bills, with the Senate proposing amendments and the House considering them."</data>
+      <data key="d10">71eece064595e49c2f1923920d9ec129</data>
+      <data key="d11">43c3390303c6476cb65f584e37c3e81c</data>
+      <data key="d12">15</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VICE PRESIDENT OF THE UNITED STATES&quot;" target="&quot;SENATE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Vice President presides over the Senate and has authority to cast tie-breaking votes."</data>
+      <data key="d10">c3baec199b99357da012be07b0a57de7</data>
+      <data key="d11">fa14b16c17e3417dba5a4b473ea5b18d</data>
+      <data key="d12">16</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is the county seat of Pima County."</data>
+      <data key="d10">0630a0e78abaf1b0328a010fb296ba5b,1c5fa7374947dd3a04499f8467a59818,1f0567c1cdd50a39d079e48c1f85f5c6,3b75e55d7fd9a3f39f555852b1fbd45c,4519601cd0420b1a1649441f6f474a6d,5e0fef04d6763b93c3162b9fa9bc6b03,67b070300bd4614930089c0972d9e29a,71eece064595e49c2f1923920d9ec129,74beaeadce8b4c37b7fc2662e8b501a1,7604f2c8c21e8a58743bffe3e0634dd6,7e912f0276ff23f80254b696c4805444,8d58dd0e6783d0552627cc325dce2d9d,8f6da5651ec3595ced6cb079993d656a,992361fe071a5d0ea494a6e85ee06402,9caf7ca2b7cae2916f4505c507dbb9e0,9fc11dd15ba47c3943184b5614382bf5,bd7101505b817c7cdd0dd6f99fffd090,c3baec199b99357da012be07b0a57de7,c6bea31faede8615de351de690b5e471,ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d11">7cc3356d38de4328a51a5cbcb187dac3</data>
+      <data key="d12">17</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Pima County is a county in Arizona."</data>
+      <data key="d10">0630a0e78abaf1b0328a010fb296ba5b,1c5fa7374947dd3a04499f8467a59818,1f0567c1cdd50a39d079e48c1f85f5c6,3b75e55d7fd9a3f39f555852b1fbd45c,4519601cd0420b1a1649441f6f474a6d,5e0fef04d6763b93c3162b9fa9bc6b03,67b070300bd4614930089c0972d9e29a,71eece064595e49c2f1923920d9ec129,74beaeadce8b4c37b7fc2662e8b501a1,7604f2c8c21e8a58743bffe3e0634dd6,7e912f0276ff23f80254b696c4805444,8d58dd0e6783d0552627cc325dce2d9d,8f6da5651ec3595ced6cb079993d656a,992361fe071a5d0ea494a6e85ee06402,9caf7ca2b7cae2916f4505c507dbb9e0,9fc11dd15ba47c3943184b5614382bf5,bd7101505b817c7cdd0dd6f99fffd090,c3baec199b99357da012be07b0a57de7,c6bea31faede8615de351de690b5e471,ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d11">bef16fb5fd7344cca5e295b13ef3e0cd</data>
+      <data key="d12">18</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The University of Arizona is located in Tucson."</data>
+      <data key="d10">0630a0e78abaf1b0328a010fb296ba5b,1c5fa7374947dd3a04499f8467a59818,1f0567c1cdd50a39d079e48c1f85f5c6,3b75e55d7fd9a3f39f555852b1fbd45c,4519601cd0420b1a1649441f6f474a6d,5e0fef04d6763b93c3162b9fa9bc6b03,67b070300bd4614930089c0972d9e29a,71eece064595e49c2f1923920d9ec129,74beaeadce8b4c37b7fc2662e8b501a1,7604f2c8c21e8a58743bffe3e0634dd6,7e912f0276ff23f80254b696c4805444,8d58dd0e6783d0552627cc325dce2d9d,8f6da5651ec3595ced6cb079993d656a,992361fe071a5d0ea494a6e85ee06402,9caf7ca2b7cae2916f4505c507dbb9e0,9fc11dd15ba47c3943184b5614382bf5,bd7101505b817c7cdd0dd6f99fffd090,c3baec199b99357da012be07b0a57de7,c6bea31faede8615de351de690b5e471,ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d11">bb9e01bc171d4326a29afda59ece8d17</data>
+      <data key="d12">19</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Arizona is a state in the United States."</data>
+      <data key="d10">0630a0e78abaf1b0328a010fb296ba5b,1c5fa7374947dd3a04499f8467a59818,1f0567c1cdd50a39d079e48c1f85f5c6,3b75e55d7fd9a3f39f555852b1fbd45c,4519601cd0420b1a1649441f6f474a6d,5e0fef04d6763b93c3162b9fa9bc6b03,67b070300bd4614930089c0972d9e29a,71eece064595e49c2f1923920d9ec129,74beaeadce8b4c37b7fc2662e8b501a1,7604f2c8c21e8a58743bffe3e0634dd6,7e912f0276ff23f80254b696c4805444,8d58dd0e6783d0552627cc325dce2d9d,8f6da5651ec3595ced6cb079993d656a,992361fe071a5d0ea494a6e85ee06402,9caf7ca2b7cae2916f4505c507dbb9e0,9fc11dd15ba47c3943184b5614382bf5,bd7101505b817c7cdd0dd6f99fffd090,c3baec199b99357da012be07b0a57de7,c6bea31faede8615de351de690b5e471,ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d11">3c063eea52e94164b70c99431ea30bae</data>
+      <data key="d12">20</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is a city in Arizona."</data>
+      <data key="d10">0630a0e78abaf1b0328a010fb296ba5b,1c5fa7374947dd3a04499f8467a59818,1f0567c1cdd50a39d079e48c1f85f5c6,3b75e55d7fd9a3f39f555852b1fbd45c,4519601cd0420b1a1649441f6f474a6d,5e0fef04d6763b93c3162b9fa9bc6b03,67b070300bd4614930089c0972d9e29a,71eece064595e49c2f1923920d9ec129,74beaeadce8b4c37b7fc2662e8b501a1,7604f2c8c21e8a58743bffe3e0634dd6,7e912f0276ff23f80254b696c4805444,8d58dd0e6783d0552627cc325dce2d9d,8f6da5651ec3595ced6cb079993d656a,992361fe071a5d0ea494a6e85ee06402,9caf7ca2b7cae2916f4505c507dbb9e0,9fc11dd15ba47c3943184b5614382bf5,bd7101505b817c7cdd0dd6f99fffd090,c3baec199b99357da012be07b0a57de7,c6bea31faede8615de351de690b5e471,ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d11">252cc8452bfc4c2aa58cab68d8b61879</data>
+      <data key="d12">21</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Phoenix is a city in Arizona."</data>
+      <data key="d10">0630a0e78abaf1b0328a010fb296ba5b,1c5fa7374947dd3a04499f8467a59818,1f0567c1cdd50a39d079e48c1f85f5c6,3b75e55d7fd9a3f39f555852b1fbd45c,4519601cd0420b1a1649441f6f474a6d,5e0fef04d6763b93c3162b9fa9bc6b03,67b070300bd4614930089c0972d9e29a,71eece064595e49c2f1923920d9ec129,74beaeadce8b4c37b7fc2662e8b501a1,7604f2c8c21e8a58743bffe3e0634dd6,7e912f0276ff23f80254b696c4805444,8d58dd0e6783d0552627cc325dce2d9d,8f6da5651ec3595ced6cb079993d656a,992361fe071a5d0ea494a6e85ee06402,9caf7ca2b7cae2916f4505c507dbb9e0,9fc11dd15ba47c3943184b5614382bf5,bd7101505b817c7cdd0dd6f99fffd090,c3baec199b99357da012be07b0a57de7,c6bea31faede8615de351de690b5e471,ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d11">7e2c84548fb94ee395ba8588d8f2a006</data>
+      <data key="d12">22</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;SENATE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Senate is a part of the legislative branch of government in the United States."</data>
+      <data key="d10">c3baec199b99357da012be07b0a57de7</data>
+      <data key="d11">f034618dde7948beb6dab30176d0fc87</data>
+      <data key="d12">23</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d10">0630a0e78abaf1b0328a010fb296ba5b,1c5fa7374947dd3a04499f8467a59818,1f0567c1cdd50a39d079e48c1f85f5c6,3b75e55d7fd9a3f39f555852b1fbd45c,4519601cd0420b1a1649441f6f474a6d,5e0fef04d6763b93c3162b9fa9bc6b03,67b070300bd4614930089c0972d9e29a,71eece064595e49c2f1923920d9ec129,74beaeadce8b4c37b7fc2662e8b501a1,7604f2c8c21e8a58743bffe3e0634dd6,7e912f0276ff23f80254b696c4805444,8d58dd0e6783d0552627cc325dce2d9d,8f6da5651ec3595ced6cb079993d656a,992361fe071a5d0ea494a6e85ee06402,9caf7ca2b7cae2916f4505c507dbb9e0,9fc11dd15ba47c3943184b5614382bf5,bd7101505b817c7cdd0dd6f99fffd090,c3baec199b99357da012be07b0a57de7,c6bea31faede8615de351de690b5e471,ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d11">5c41f96be13e49dba649454297834546</data>
+      <data key="d12">24</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Mexico shares an international border with the United States."</data>
+      <data key="d10">0630a0e78abaf1b0328a010fb296ba5b,1c5fa7374947dd3a04499f8467a59818,1f0567c1cdd50a39d079e48c1f85f5c6,3b75e55d7fd9a3f39f555852b1fbd45c,4519601cd0420b1a1649441f6f474a6d,5e0fef04d6763b93c3162b9fa9bc6b03,67b070300bd4614930089c0972d9e29a,71eece064595e49c2f1923920d9ec129,74beaeadce8b4c37b7fc2662e8b501a1,7604f2c8c21e8a58743bffe3e0634dd6,7e912f0276ff23f80254b696c4805444,8d58dd0e6783d0552627cc325dce2d9d,8f6da5651ec3595ced6cb079993d656a,992361fe071a5d0ea494a6e85ee06402,9caf7ca2b7cae2916f4505c507dbb9e0,9fc11dd15ba47c3943184b5614382bf5,bd7101505b817c7cdd0dd6f99fffd090,c3baec199b99357da012be07b0a57de7,c6bea31faede8615de351de690b5e471,ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d11">7ea4afbf8a264f29af29950ce98105ba</data>
+      <data key="d12">25</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d10">0630a0e78abaf1b0328a010fb296ba5b,1c5fa7374947dd3a04499f8467a59818,1f0567c1cdd50a39d079e48c1f85f5c6,3b75e55d7fd9a3f39f555852b1fbd45c,4519601cd0420b1a1649441f6f474a6d,5e0fef04d6763b93c3162b9fa9bc6b03,67b070300bd4614930089c0972d9e29a,71eece064595e49c2f1923920d9ec129,74beaeadce8b4c37b7fc2662e8b501a1,7604f2c8c21e8a58743bffe3e0634dd6,7e912f0276ff23f80254b696c4805444,8d58dd0e6783d0552627cc325dce2d9d,8f6da5651ec3595ced6cb079993d656a,992361fe071a5d0ea494a6e85ee06402,9caf7ca2b7cae2916f4505c507dbb9e0,9fc11dd15ba47c3943184b5614382bf5,bd7101505b817c7cdd0dd6f99fffd090,c3baec199b99357da012be07b0a57de7,c6bea31faede8615de351de690b5e471,ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d11">91ff849d12b24574b0691dbddf44968b</data>
+      <data key="d12">26</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SENATE&quot;" target="&quot;GEORGIA GENERAL ASSEMBLY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Senate is part of the Georgia General Assembly."</data>
+      <data key="d10">992361fe071a5d0ea494a6e85ee06402</data>
+      <data key="d11">d73c1f2fb3094d8dace42ad2a76e9a52</data>
+      <data key="d12">27</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SENATE&quot;" target="&quot;UNITED STATES CONSTITUTION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Senate operates within the framework established by the United States Constitution, particularly with regards to revenue bills and appropriation bills."</data>
+      <data key="d10">71eece064595e49c2f1923920d9ec129</data>
+      <data key="d11">cdc8901e668749889bd49bebdc4ff1f6</data>
+      <data key="d12">28</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SENATE&quot;" target="&quot;REPUBLICANS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Republicans gained a majority of the Senate in the 114th Congress."</data>
+      <data key="d10">9fc11dd15ba47c3943184b5614382bf5</data>
+      <data key="d11">36084a9fab53433493f079e97e68bf65</data>
+      <data key="d12">29</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WASHINGTON, D.C.&quot;" target="&quot;THE ONE HUNDRED FIFTEENTH UNITED STATES CONGRESS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The One Hundred Fifteenth United States Congress meets in Washington, D.C."</data>
+      <data key="d10">c6bea31faede8615de351de690b5e471</data>
+      <data key="d11">eebcc7ec8e3e4df7aea83659bbdc2199</data>
+      <data key="d12">30</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WASHINGTON, D.C.&quot;" target="&quot;THE ONE HUNDRED FOURTEENTH UNITED STATES CONGRESS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The One Hundred Fourteenth United States Congress met in Washington, D.C."</data>
+      <data key="d10">ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d11">ceadf262ef834e9ab146b20650912cae</data>
+      <data key="d12">31</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;WASHINGTON, D.C.&quot;" target="&quot;FORTY-FOURTH UNITED STATES CONGRESS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Forty-fourth United States Congress met in Washington, D.C."</data>
+      <data key="d10">9caf7ca2b7cae2916f4505c507dbb9e0</data>
+      <data key="d11">7f65feab75424b53b24470d305ba331a</data>
+      <data key="d12">32</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BARACK OBAMA&quot;" target="&quot;THE ONE HUNDRED FIFTEENTH UNITED STATES CONGRESS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The One Hundred Fifteenth United States Congress met during the final weeks of Barack Obama's presidency."</data>
+      <data key="d10">c6bea31faede8615de351de690b5e471</data>
+      <data key="d11">fd9cb733b28d420cb5cef01e545a132c</data>
+      <data key="d12">33</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BARACK OBAMA&quot;" target="&quot;THE ONE HUNDRED FOURTEENTH UNITED STATES CONGRESS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The One Hundred Fourteenth United States Congress coincided with Barack Obama's presidency."</data>
+      <data key="d10">ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d11">0fbcca3f17c649a08aea64b5a7d9ef36</data>
+      <data key="d12">34</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DONALD TRUMP&quot;" target="&quot;THE ONE HUNDRED FIFTEENTH UNITED STATES CONGRESS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The One Hundred Fifteenth United States Congress met during the first two years of Donald Trump's presidency."</data>
+      <data key="d10">c6bea31faede8615de351de690b5e471</data>
+      <data key="d11">482027a59f32484c9c44fd700615c1b6</data>
+      <data key="d12">35</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NOVEMBER 2016 ELECTIONS&quot;" target="&quot;THE ONE HUNDRED FIFTEENTH UNITED STATES CONGRESS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The November 2016 elections led to the composition of The One Hundred Fifteenth United States Congress."</data>
+      <data key="d10">c6bea31faede8615de351de690b5e471</data>
+      <data key="d11">de837ff3d626451282ff6ac77a82216d</data>
+      <data key="d12">36</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;IOWA SENATE&quot;" target="&quot;IOWA HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Iowa House of Representatives and Iowa Senate are part of the Iowa General Assembly."</data>
+      <data key="d10">8f6da5651ec3595ced6cb079993d656a</data>
+      <data key="d11">460295fed3ae4cd39f9f274cec9c2506</data>
+      <data key="d12">37</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;IOWA STATE CAPITOL&quot;" target="&quot;IOWA HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Iowa House of Representatives meets at the Iowa State Capitol."</data>
+      <data key="d10">8f6da5651ec3595ced6cb079993d656a</data>
+      <data key="d11">553b285bba60460ab1ed8341ae61282b</data>
+      <data key="d12">38</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES HOUSE OF REPRESENTATIVES&quot;" target="&quot;THE ONE HUNDRED FOURTEENTH UNITED STATES CONGRESS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The United States House of Representatives is part of The One Hundred Fourteenth United States Congress."</data>
+      <data key="d10">ec4ba4866c5fe70d058b686b47392681</data>
+      <data key="d11">cec95bf17e7e4c939b56c9c6f402a29f</data>
+      <data key="d12">39</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES HOUSE OF REPRESENTATIVES&quot;" target="&quot;FORTY-FOURTH UNITED STATES CONGRESS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The United States House of Representatives is part of the Forty-fourth United States Congress."</data>
+      <data key="d10">9caf7ca2b7cae2916f4505c507dbb9e0</data>
+      <data key="d11">599164aead034bc19446efacc77554d2</data>
+      <data key="d12">40</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES HOUSE OF REPRESENTATIVES&quot;" target="&quot;NANCY PELOSI&quot;">
+      <data key="d8">2.0</data>
+      <data key="d9">Here is the comprehensive summary:
+
+Nancy Pelosi, a prominent figure in the United States House of Representatives, holds a leadership position and currently serves as Minority Leader within the institution.
+
+Let me know if you need any further assistance!</data>
+      <data key="d10">74beaeadce8b4c37b7fc2662e8b501a1,bd7101505b817c7cdd0dd6f99fffd090</data>
+      <data key="d11">bbf148ae4d48422f8fdef754cfa2b9e4</data>
+      <data key="d12">41</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES HOUSE OF REPRESENTATIVES&quot;" target="&quot;CONGRESS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The United States House of Representatives is a key participant in the convening of Congress."</data>
+      <data key="d10">bd7101505b817c7cdd0dd6f99fffd090</data>
+      <data key="d11">de61b2670999433f807a6a1dc2b81e43</data>
+      <data key="d12">42</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES HOUSE OF REPRESENTATIVES&quot;" target="&quot;KEVIN MCCARTHY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Kevin McCarthy holds a leadership position in the United States House of Representatives."</data>
+      <data key="d10">74beaeadce8b4c37b7fc2662e8b501a1</data>
+      <data key="d11">3e95dacfe57b4d57b5da4310ef2e157f</data>
+      <data key="d12">43</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES HOUSE OF REPRESENTATIVES&quot;" target="&quot;STEVE SCALISE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Steve Scalise holds a leadership position in the United States House of Representatives."</data>
+      <data key="d10">74beaeadce8b4c37b7fc2662e8b501a1</data>
+      <data key="d11">1f1545308e9347af91fd03b94aadc21f</data>
+      <data key="d12">44</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES HOUSE OF REPRESENTATIVES&quot;" target="&quot;STENY HOYER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Steny Hoyer holds a leadership position in the United States House of Representatives."</data>
+      <data key="d10">74beaeadce8b4c37b7fc2662e8b501a1</data>
+      <data key="d11">6ea81acaf232485e94fff638e03336e1</data>
+      <data key="d12">45</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;SPEAKER OF THE HOUSE&quot;" target="&quot;CONGRESS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Speaker of the House is a member of Congress and holds a leadership position."</data>
+      <data key="d10">3b75e55d7fd9a3f39f555852b1fbd45c</data>
+      <data key="d11">d136b08d586d488f9e4188b524c85a29</data>
+      <data key="d12">46</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MINORITY LEADER&quot;" target="&quot;CONGRESS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Minority Leader is a member of Congress and holds a leadership position."</data>
+      <data key="d10">3b75e55d7fd9a3f39f555852b1fbd45c</data>
+      <data key="d11">cccfa151fedc4b218a8d96adc7dceabe</data>
+      <data key="d12">47</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNITED STATES CONSTITUTION&quot;" target="&quot;CONGRESS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The United States Constitution outlines rules governing congressional salaries, which are set by Congress."</data>
+      <data key="d10">3b75e55d7fd9a3f39f555852b1fbd45c</data>
+      <data key="d11">ce54725672a74ebcabe6127577dacb2b</data>
+      <data key="d12">48</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CONGRESS&quot;" target="&quot;NANCY PELOSI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Nancy Pelosi's party may take control of the House during Congress, potentially leading to her election as Speaker."</data>
+      <data key="d10">bd7101505b817c7cdd0dd6f99fffd090</data>
+      <data key="d11">ea2b28ca1a974ffab4517811dc1d1e5c</data>
+      <data key="d12">49</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ZHOU WU&quot;" target="&quot;MANDATE OF HEAVEN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Zhou Wu created the Mandate of Heaven to justify their right to rule and overthrow the Shang dynasty."</data>
+      <data key="d10">4519601cd0420b1a1649441f6f474a6d</data>
+      <data key="d11">aff21f1da1654e7babdcf3fb0e4a75fc</data>
+      <data key="d12">50</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OHIO SENATE&quot;" target="&quot;TIM SCHAFFER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Tim Schaffer was a member of the Ohio Senate from 2007 to 2014."</data>
+      <data key="d10">0630a0e78abaf1b0328a010fb296ba5b</data>
+      <data key="d11">dc2cc9016e3f49dbac7232f05cce794d</data>
+      <data key="d12">51</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OHIO HOUSE OF REPRESENTATIVES&quot;" target="&quot;TIM SCHAFFER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Tim Schaffer served in the Ohio House of Representatives from 2001 until 2006 and again from 2015 until 2019, representing the 77th District."</data>
+      <data key="d10">0630a0e78abaf1b0328a010fb296ba5b</data>
+      <data key="d11">6ea0cef05f694dcea455478f40674e45</data>
+      <data key="d12">52</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OHIO HOUSE OF REPRESENTATIVES&quot;" target="&quot;77TH DISTRICT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The 77th District is a geographic area represented by Tim Schaffer in the Ohio House of Representatives from 2015 until 2019."</data>
+      <data key="d10">0630a0e78abaf1b0328a010fb296ba5b</data>
+      <data key="d11">7ab5d53a872f4dfc98f3d386879f3c75</data>
+      <data key="d12">53</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ULYSSES S. GRANT&quot;" target="&quot;FORTY-FOURTH UNITED STATES CONGRESS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ulysses S. Grant was the President during the Forty-fourth United States Congress."</data>
+      <data key="d10">9caf7ca2b7cae2916f4505c507dbb9e0</data>
+      <data key="d11">af1d0fec22114a3398b8016f5225f9ed</data>
+      <data key="d12">54</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NANCY PELOSI&quot;" target="&quot;DEMOCRATIC PARTY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Nancy Pelosi is a member of the Democratic Party and holds a leadership position as Speaker of the House."</data>
+      <data key="d10">1f0567c1cdd50a39d079e48c1f85f5c6</data>
+      <data key="d11">b07a7f088364459098cd8511ff27a4c8</data>
+      <data key="d12">55</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;STATE CENTRAL COMMITTEE&quot;" target="&quot;DEMOCRATIC PARTY OF OREGON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The State Central Committee is the main authoritative body of the Democratic Party of Oregon."</data>
+      <data key="d10">8d58dd0e6783d0552627cc325dce2d9d</data>
+      <data key="d11">8870cf2b5df64d2cab5820f67e29b9f1</data>
+      <data key="d12">56</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;KATE BROWN&quot;" target="&quot;DEMOCRATIC PARTY OF OREGON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Kate Brown holds office as Governor of Oregon as a member of the Democratic Party."</data>
+      <data key="d10">8d58dd0e6783d0552627cc325dce2d9d</data>
+      <data key="d11">cd130938a2844050be991af70baf5ee0</data>
+      <data key="d12">57</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ELLEN ROSENBLUM&quot;" target="&quot;DEMOCRATIC PARTY OF OREGON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Ellen Rosenblum holds office as Attorney General of Oregon as a member of the Democratic Party."</data>
+      <data key="d10">8d58dd0e6783d0552627cc325dce2d9d</data>
+      <data key="d11">43544b99c3b04b059546198a0ae6366d</data>
+      <data key="d12">58</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VAL HOYLE&quot;" target="&quot;DEMOCRATIC PARTY OF OREGON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Val Hoyle holds office as Labor Commissioner of Oregon as a member of the Democratic Party."</data>
+      <data key="d10">8d58dd0e6783d0552627cc325dce2d9d</data>
+      <data key="d11">a671bf7fea2f4514b6e96ba99127fafd</data>
+      <data key="d12">59</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TOBIAS READ&quot;" target="&quot;DEMOCRATIC PARTY OF OREGON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Tobias Read holds office as State Treasurer of Oregon as a member of the Democratic Party."</data>
+      <data key="d10">8d58dd0e6783d0552627cc325dce2d9d</data>
+      <data key="d11">525f41ea20274a05af4e52b625b473f3</data>
+      <data key="d12">60</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DEMOCRATIC PARTY OF OREGON&quot;" target="&quot;OREGON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Democratic Party of Oregon is based in Portland and recognized by the state of Oregon as a major political party."</data>
+      <data key="d10">8d58dd0e6783d0552627cc325dce2d9d</data>
+      <data key="d11">071a416efbec4f0886c19ac68f6d43cb</data>
+      <data key="d12">61</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;GEORGIA&quot;" target="&quot;GEORGIA GENERAL ASSEMBLY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Georgia General Assembly operates in the state of Georgia."</data>
+      <data key="d10">992361fe071a5d0ea494a6e85ee06402</data>
+      <data key="d11">6d8473ef3b1042bf87178a611e3dbcc6</data>
+      <data key="d12">62</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;STEVE DAINES&quot;" target="&quot;GOP&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Steve Daines is a member of the GOP and won one of the state's Senate seats in 2014."</data>
+      <data key="d10">1c5fa7374947dd3a04499f8467a59818</data>
+      <data key="d11">30c9641543c24773938bd8ec57ea98ab</data>
+      <data key="d12">63</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LEGISLATIVE BRANCH&quot;" target="&quot;STATE HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The State House of Representatives is part of the Legislative branch, which has had split party control over the years."</data>
+      <data key="d10">1c5fa7374947dd3a04499f8467a59818</data>
+      <data key="d11">18b839da898e4026b81727d759d95c6a</data>
+      <data key="d12">64</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;STATE SENATE&quot;" target="&quot;DEMOCRATS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Democrats have 21 seats in the State Senate, which is currently controlled by the Republicans."</data>
+      <data key="d10">1c5fa7374947dd3a04499f8467a59818</data>
+      <data key="d11">eeef6ae5c464400c8755900b4f1ac37a</data>
+      <data key="d12">65</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CONNECTICUT GENERAL ASSEMBLY&quot;" target="&quot;CONNECTICUT STATE SENATE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Connecticut State Senate is part of the Connecticut General Assembly."</data>
+      <data key="d10">7e912f0276ff23f80254b696c4805444</data>
+      <data key="d11">422433aa45804c7ebb973b2fafce5da6</data>
+      <data key="d12">66</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CONNECTICUT&quot;" target="&quot;CONNECTICUT STATE SENATE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Connecticut State Senate is the upper house of the state legislature of Connecticut."</data>
+      <data key="d10">7e912f0276ff23f80254b696c4805444</data>
+      <data key="d11">86505bca739d4bccaaa1a8e0f3baffdc</data>
+      <data key="d12">67</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;KEITH ELLISON&quot;" target="&quot;DEMOCRATIC PARTY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Keith Ellison is a member of the Democratic Party and represents a significant demographic shift in Congress."</data>
+      <data key="d10">1f0567c1cdd50a39d079e48c1f85f5c6</data>
+      <data key="d11">1af9faf341e14a5bbf4ddc9080e8dc0b</data>
+      <data key="d12">68</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HANK JOHNSON&quot;" target="&quot;DEMOCRATIC PARTY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hank Johnson is a member of the Democratic Party and contributes to the diversity of the House."</data>
+      <data key="d10">1f0567c1cdd50a39d079e48c1f85f5c6</data>
+      <data key="d11">353d91abc68648639d65a549e59b5cf3</data>
+      <data key="d12">69</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MAZIE HIRONO&quot;" target="&quot;DEMOCRATIC PARTY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Mazie Hirono is a member of the Democratic Party and represents a significant religious minority in Congress."</data>
+      <data key="d10">1f0567c1cdd50a39d079e48c1f85f5c6</data>
+      <data key="d11">7ce637e4f35b42e3a9f8272cab69cd22</data>
+      <data key="d12">70</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;114TH CONGRESS&quot;" target="&quot;JANUARY 2015&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The 114th Congress started in January 2015."</data>
+      <data key="d10">9fc11dd15ba47c3943184b5614382bf5</data>
+      <data key="d11">4d999d7744b04a998475f8f8531589f0</data>
+      <data key="d12">71</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JANUARY 2007&quot;" target="&quot;REPUBLICANS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Republicans last controlled the Senate before regaining it in 2015, with a gap since January 2007."</data>
+      <data key="d10">9fc11dd15ba47c3943184b5614382bf5</data>
+      <data key="d11">9a6f414210e14841a5b0e661aedc898d</data>
+      <data key="d12">72</data>
+      <data key="d13">0</data>
+    </edge>
+  </graph>
+</graphml>

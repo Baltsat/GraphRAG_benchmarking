@@ -1,0 +1,1303 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;STAN SMITH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Stan Smith is Steven's father and one of the main characters in American Dad!."</data>
+      <data key="d2">e2735b0956b151ac215d6d329fd4fbf1</data>
+    </node>
+    <node id="&quot;FRANCINE SMITH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Francine Smith is Steven's mother and one of the main characters in American Dad!."</data>
+      <data key="d2">e2735b0956b151ac215d6d329fd4fbf1</data>
+    </node>
+    <node id="&quot;HAYLEY SMITH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hayley Smith is Steven's older sister and one of the main characters in American Dad!."</data>
+      <data key="d2">e2735b0956b151ac215d6d329fd4fbf1</data>
+    </node>
+    <node id="&quot;AMERICAN DAD!&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+"American Dad!" is an animated television series and sitcom that features characters such as Steve Smith, voiced by Scott Richard Grimes, and Hayley Smith, voiced by Rachael Ann MacFarlane Laudiero.</data>
+      <data key="d2">2d157c2c482dca22bbc0a9086202147d,8c1645c94f6503cf7a7d77c156389169,e2735b0956b151ac215d6d329fd4fbf1</data>
+    </node>
+    <node id="&quot;STEVEN ANITA ``STEVE ''SMITH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e2735b0956b151ac215d6d329fd4fbf1</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">111894155c77a6c3dcba12411385a3e9,2d157c2c482dca22bbc0a9086202147d,2dde7320197ef8d3b8b69864730dd6d3,2f95c4e9e76ba6f797d294a4904e2033,415eeb2fdd9b745e8c64935a56379daa,647557badc885580bbb897078749df0f,6cc365d4e9b4b01b2b5d1c2d5fef00c6,776cb8ecba6ca8fb83e2862388539839,7c5deb913b4fcedae66b97fe8a8bd0a6,7c95791eb364bf0d54745be00f413ba3,8c1645c94f6503cf7a7d77c156389169,a2a8cd81edf2bfcda78b496dc57ad9b8,ae9327e0cde1bcab227a2bb6eefb4217,b2a6ba37b41a8b6f5702a20a95e6e88d,d5f01fe428220c6944ea678210b7ee4a,e2735b0956b151ac215d6d329fd4fbf1,e427f350c4312ef8e5362c3459de5ceb,e8a0a98cbf036f8446a85fb6082fe2d2,e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">111894155c77a6c3dcba12411385a3e9,2d157c2c482dca22bbc0a9086202147d,2dde7320197ef8d3b8b69864730dd6d3,2f95c4e9e76ba6f797d294a4904e2033,415eeb2fdd9b745e8c64935a56379daa,647557badc885580bbb897078749df0f,6cc365d4e9b4b01b2b5d1c2d5fef00c6,776cb8ecba6ca8fb83e2862388539839,7c5deb913b4fcedae66b97fe8a8bd0a6,7c95791eb364bf0d54745be00f413ba3,8c1645c94f6503cf7a7d77c156389169,a2a8cd81edf2bfcda78b496dc57ad9b8,ae9327e0cde1bcab227a2bb6eefb4217,b2a6ba37b41a8b6f5702a20a95e6e88d,d5f01fe428220c6944ea678210b7ee4a,e2735b0956b151ac215d6d329fd4fbf1,e427f350c4312ef8e5362c3459de5ceb,e8a0a98cbf036f8446a85fb6082fe2d2,e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">111894155c77a6c3dcba12411385a3e9,2d157c2c482dca22bbc0a9086202147d,2dde7320197ef8d3b8b69864730dd6d3,2f95c4e9e76ba6f797d294a4904e2033,415eeb2fdd9b745e8c64935a56379daa,647557badc885580bbb897078749df0f,6cc365d4e9b4b01b2b5d1c2d5fef00c6,776cb8ecba6ca8fb83e2862388539839,7c5deb913b4fcedae66b97fe8a8bd0a6,7c95791eb364bf0d54745be00f413ba3,8c1645c94f6503cf7a7d77c156389169,a2a8cd81edf2bfcda78b496dc57ad9b8,ae9327e0cde1bcab227a2bb6eefb4217,b2a6ba37b41a8b6f5702a20a95e6e88d,d5f01fe428220c6944ea678210b7ee4a,e2735b0956b151ac215d6d329fd4fbf1,e427f350c4312ef8e5362c3459de5ceb,e8a0a98cbf036f8446a85fb6082fe2d2,e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">111894155c77a6c3dcba12411385a3e9,2d157c2c482dca22bbc0a9086202147d,2dde7320197ef8d3b8b69864730dd6d3,2f95c4e9e76ba6f797d294a4904e2033,415eeb2fdd9b745e8c64935a56379daa,647557badc885580bbb897078749df0f,6cc365d4e9b4b01b2b5d1c2d5fef00c6,776cb8ecba6ca8fb83e2862388539839,7c5deb913b4fcedae66b97fe8a8bd0a6,7c95791eb364bf0d54745be00f413ba3,8c1645c94f6503cf7a7d77c156389169,a2a8cd81edf2bfcda78b496dc57ad9b8,ae9327e0cde1bcab227a2bb6eefb4217,b2a6ba37b41a8b6f5702a20a95e6e88d,d5f01fe428220c6944ea678210b7ee4a,e2735b0956b151ac215d6d329fd4fbf1,e427f350c4312ef8e5362c3459de5ceb,e8a0a98cbf036f8446a85fb6082fe2d2,e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country where Tucson, Pima County, and Arizona are located. Additionally, it is also the country where the movie "The Spy Who Dumped Me" was released.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">111894155c77a6c3dcba12411385a3e9,2d157c2c482dca22bbc0a9086202147d,2dde7320197ef8d3b8b69864730dd6d3,2f95c4e9e76ba6f797d294a4904e2033,415eeb2fdd9b745e8c64935a56379daa,647557badc885580bbb897078749df0f,6cc365d4e9b4b01b2b5d1c2d5fef00c6,776cb8ecba6ca8fb83e2862388539839,7c5deb913b4fcedae66b97fe8a8bd0a6,7c95791eb364bf0d54745be00f413ba3,8c1645c94f6503cf7a7d77c156389169,a2a8cd81edf2bfcda78b496dc57ad9b8,ae9327e0cde1bcab227a2bb6eefb4217,b2a6ba37b41a8b6f5702a20a95e6e88d,d5f01fe428220c6944ea678210b7ee4a,e2735b0956b151ac215d6d329fd4fbf1,e427f350c4312ef8e5362c3459de5ceb,e8a0a98cbf036f8446a85fb6082fe2d2,e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">111894155c77a6c3dcba12411385a3e9,2d157c2c482dca22bbc0a9086202147d,2dde7320197ef8d3b8b69864730dd6d3,2f95c4e9e76ba6f797d294a4904e2033,415eeb2fdd9b745e8c64935a56379daa,647557badc885580bbb897078749df0f,6cc365d4e9b4b01b2b5d1c2d5fef00c6,776cb8ecba6ca8fb83e2862388539839,7c5deb913b4fcedae66b97fe8a8bd0a6,7c95791eb364bf0d54745be00f413ba3,8c1645c94f6503cf7a7d77c156389169,a2a8cd81edf2bfcda78b496dc57ad9b8,ae9327e0cde1bcab227a2bb6eefb4217,b2a6ba37b41a8b6f5702a20a95e6e88d,d5f01fe428220c6944ea678210b7ee4a,e2735b0956b151ac215d6d329fd4fbf1,e427f350c4312ef8e5362c3459de5ceb,e8a0a98cbf036f8446a85fb6082fe2d2,e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">111894155c77a6c3dcba12411385a3e9,2d157c2c482dca22bbc0a9086202147d,2dde7320197ef8d3b8b69864730dd6d3,2f95c4e9e76ba6f797d294a4904e2033,415eeb2fdd9b745e8c64935a56379daa,647557badc885580bbb897078749df0f,6cc365d4e9b4b01b2b5d1c2d5fef00c6,776cb8ecba6ca8fb83e2862388539839,7c5deb913b4fcedae66b97fe8a8bd0a6,7c95791eb364bf0d54745be00f413ba3,8c1645c94f6503cf7a7d77c156389169,a2a8cd81edf2bfcda78b496dc57ad9b8,ae9327e0cde1bcab227a2bb6eefb4217,b2a6ba37b41a8b6f5702a20a95e6e88d,d5f01fe428220c6944ea678210b7ee4a,e2735b0956b151ac215d6d329fd4fbf1,e427f350c4312ef8e5362c3459de5ceb,e8a0a98cbf036f8446a85fb6082fe2d2,e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">111894155c77a6c3dcba12411385a3e9,2d157c2c482dca22bbc0a9086202147d,2dde7320197ef8d3b8b69864730dd6d3,2f95c4e9e76ba6f797d294a4904e2033,415eeb2fdd9b745e8c64935a56379daa,647557badc885580bbb897078749df0f,6cc365d4e9b4b01b2b5d1c2d5fef00c6,776cb8ecba6ca8fb83e2862388539839,7c5deb913b4fcedae66b97fe8a8bd0a6,7c95791eb364bf0d54745be00f413ba3,8c1645c94f6503cf7a7d77c156389169,a2a8cd81edf2bfcda78b496dc57ad9b8,ae9327e0cde1bcab227a2bb6eefb4217,b2a6ba37b41a8b6f5702a20a95e6e88d,d5f01fe428220c6944ea678210b7ee4a,e2735b0956b151ac215d6d329fd4fbf1,e427f350c4312ef8e5362c3459de5ceb,e8a0a98cbf036f8446a85fb6082fe2d2,e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">111894155c77a6c3dcba12411385a3e9,2d157c2c482dca22bbc0a9086202147d,2dde7320197ef8d3b8b69864730dd6d3,2f95c4e9e76ba6f797d294a4904e2033,415eeb2fdd9b745e8c64935a56379daa,647557badc885580bbb897078749df0f,6cc365d4e9b4b01b2b5d1c2d5fef00c6,776cb8ecba6ca8fb83e2862388539839,7c5deb913b4fcedae66b97fe8a8bd0a6,7c95791eb364bf0d54745be00f413ba3,8c1645c94f6503cf7a7d77c156389169,a2a8cd81edf2bfcda78b496dc57ad9b8,ae9327e0cde1bcab227a2bb6eefb4217,b2a6ba37b41a8b6f5702a20a95e6e88d,d5f01fe428220c6944ea678210b7ee4a,e2735b0956b151ac215d6d329fd4fbf1,e427f350c4312ef8e5362c3459de5ceb,e8a0a98cbf036f8446a85fb6082fe2d2,e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">111894155c77a6c3dcba12411385a3e9,2d157c2c482dca22bbc0a9086202147d,2dde7320197ef8d3b8b69864730dd6d3,2f95c4e9e76ba6f797d294a4904e2033,415eeb2fdd9b745e8c64935a56379daa,647557badc885580bbb897078749df0f,6cc365d4e9b4b01b2b5d1c2d5fef00c6,776cb8ecba6ca8fb83e2862388539839,7c5deb913b4fcedae66b97fe8a8bd0a6,7c95791eb364bf0d54745be00f413ba3,8c1645c94f6503cf7a7d77c156389169,a2a8cd81edf2bfcda78b496dc57ad9b8,ae9327e0cde1bcab227a2bb6eefb4217,b2a6ba37b41a8b6f5702a20a95e6e88d,d5f01fe428220c6944ea678210b7ee4a,e2735b0956b151ac215d6d329fd4fbf1,e427f350c4312ef8e5362c3459de5ceb,e8a0a98cbf036f8446a85fb6082fe2d2,e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </node>
+    <node id="&quot;ELI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Eli is a character played by Denzel Washington."</data>
+      <data key="d2">2dde7320197ef8d3b8b69864730dd6d3</data>
+    </node>
+    <node id="&quot;GARY OLDMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gary Oldman is an actor who played the role of Carnegie."</data>
+      <data key="d2">2dde7320197ef8d3b8b69864730dd6d3</data>
+    </node>
+    <node id="&quot;CARNEGIE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Carnegie is a character played by Gary Oldman."</data>
+      <data key="d2">2dde7320197ef8d3b8b69864730dd6d3</data>
+    </node>
+    <node id="&quot;MILA KUNIS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Mila Kunis is an actress and voice actress who has had a diverse career in film and television. She has been voicing Meg Griffin since 1999, initially starting from season 2 of Family Guy. In addition to her voice acting work, she has starred in several films, including The Spy Who Dumped Me, Oz the Great and Powerful (2013), and Friends with Benefits, where she played the lead role of Jamie Rellis. She has also played other notable roles, such as Solara and Rachael Newman, a driven criminology student drawn to murder.</data>
+      <data key="d2">111894155c77a6c3dcba12411385a3e9,2dde7320197ef8d3b8b69864730dd6d3,415eeb2fdd9b745e8c64935a56379daa,647557badc885580bbb897078749df0f,7c95791eb364bf0d54745be00f413ba3,ae9327e0cde1bcab227a2bb6eefb4217,d5f01fe428220c6944ea678210b7ee4a,e8a0a98cbf036f8446a85fb6082fe2d2,e98556cc571226463edbe64a590a8081</data>
+    </node>
+    <node id="&quot;SOLARA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Solara is a character played by Mila Kunis."</data>
+      <data key="d2">2dde7320197ef8d3b8b69864730dd6d3</data>
+    </node>
+    <node id="&quot;RAY STEVENSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ray Stevenson is an actor who played the role of Redridge."</data>
+      <data key="d2">2dde7320197ef8d3b8b69864730dd6d3</data>
+    </node>
+    <node id="&quot;REDRIDGE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Redridge is a character played by Ray Stevenson."</data>
+      <data key="d2">2dde7320197ef8d3b8b69864730dd6d3</data>
+    </node>
+    <node id="&quot;JENNIFER BEALS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jennifer Beals is an actress who played the role of Claudia."</data>
+      <data key="d2">2dde7320197ef8d3b8b69864730dd6d3</data>
+    </node>
+    <node id="&quot;CLAUDIA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Claudia is a character played by Jennifer Beals."</data>
+      <data key="d2">2dde7320197ef8d3b8b69864730dd6d3</data>
+    </node>
+    <node id="&quot;EVAN JONES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Evan Jones is an actor who played the role of Martz."</data>
+      <data key="d2">2dde7320197ef8d3b8b69864730dd6d3</data>
+    </node>
+    <node id="&quot;MARTZ&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Martz is a character played by Evan Jones."</data>
+      <data key="d2">2dde7320197ef8d3b8b69864730dd6d3</data>
+    </node>
+    <node id="&quot;JOE PINGUE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Joe Pingue is an actor who played the role of Hoyt."</data>
+      <data key="d2">2dde7320197ef8d3b8b69864730dd6d3</data>
+    </node>
+    <node id="&quot;HOYT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hoyt is a character played by Joe Pingue."</data>
+      <data key="d2">2dde7320197ef8d3b8b69864730dd6d3</data>
+    </node>
+    <node id="&quot;FRANCES DE LA TOUR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Frances de la Tour is an actress who played the role of Martha."</data>
+      <data key="d2">2dde7320197ef8d3b8b69864730dd6d3</data>
+    </node>
+    <node id="&quot;MARTHA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Martha is a character played by Frances de la Tour."</data>
+      <data key="d2">2dde7320197ef8d3b8b69864730dd6d3</data>
+    </node>
+    <node id="&quot;MICHAEL GAMBON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Michael Gambon is an actor who played the role of George."</data>
+      <data key="d2">2dde7320197ef8d3b8b69864730dd6d3</data>
+    </node>
+    <node id="&quot;GEORGE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"George is a character played by Michael Gambon."</data>
+      <data key="d2">2dde7320197ef8d3b8b69864730dd6d3</data>
+    </node>
+    <node id="&quot;TOM WAITS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Tom Waits is an actor who played the role of Engineer."</data>
+      <data key="d2">2dde7320197ef8d3b8b69864730dd6d3</data>
+    </node>
+    <node id="&quot;ENGINEER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Engineer is a character played by Tom Waits."</data>
+      <data key="d2">2dde7320197ef8d3b8b69864730dd6d3</data>
+    </node>
+    <node id="&quot;CHRIS BROWNING&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Chris Browning is an actor who played the role of Hijack Leader."</data>
+      <data key="d2">2dde7320197ef8d3b8b69864730dd6d3</data>
+    </node>
+    <node id="&quot;HIJACK LEADER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hijack Leader is a character played by Chris Browning."</data>
+      <data key="d2">2dde7320197ef8d3b8b69864730dd6d3</data>
+    </node>
+    <node id="&quot;MALCOLM MCDOWELL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Malcolm McDowell is an actor who played the role of Lombardi (uncredited)."</data>
+      <data key="d2">2dde7320197ef8d3b8b69864730dd6d3</data>
+    </node>
+    <node id="&quot;LOMBARDI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lombardi is a character played by Malcolm McDowell."</data>
+      <data key="d2">2dde7320197ef8d3b8b69864730dd6d3</data>
+    </node>
+    <node id="&quot;SAM RAIMI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sam Raimi is the director of the 2013 film Oz the Great and Powerful."</data>
+      <data key="d2">ae9327e0cde1bcab227a2bb6eefb4217</data>
+    </node>
+    <node id="&quot;JOE ROTH&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Joe Roth is the producer of the 2013 film Oz the Great and Powerful."</data>
+      <data key="d2">ae9327e0cde1bcab227a2bb6eefb4217</data>
+    </node>
+    <node id="&quot;DAVID LINDSAY-ABAIRE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"David Lindsay-Abaire is a screenwriter who co-wrote the screenplay for Oz the Great and Powerful."</data>
+      <data key="d2">ae9327e0cde1bcab227a2bb6eefb4217</data>
+    </node>
+    <node id="&quot;MITCHELL KAPNER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mitchell Kapner is a screenwriter who co-wrote the screenplay for Oz the Great and Powerful."</data>
+      <data key="d2">ae9327e0cde1bcab227a2bb6eefb4217</data>
+    </node>
+    <node id="&quot;JAMES FRANCO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"James Franco is an actor who stars in the 2013 film Oz the Great and Powerful."</data>
+      <data key="d2">ae9327e0cde1bcab227a2bb6eefb4217</data>
+    </node>
+    <node id="&quot;MICHELLE WILLIAMS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Michelle Williams is an actress who stars in the 2013 film Oz the Great and Powerful."</data>
+      <data key="d2">ae9327e0cde1bcab227a2bb6eefb4217</data>
+    </node>
+    <node id="&quot;RACHEL WEISZ&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Rachel Weisz is an actress who stars in the 2013 film Oz the Great and Powerful."</data>
+      <data key="d2">ae9327e0cde1bcab227a2bb6eefb4217</data>
+    </node>
+    <node id="&quot;ZACH BRAFF&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Zach Braff is an actor who has a supporting role in the 2013 film Oz the Great and Powerful."</data>
+      <data key="d2">ae9327e0cde1bcab227a2bb6eefb4217</data>
+    </node>
+    <node id="&quot;BILL COBBS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bill Cobbs is an actor who has a supporting role in the 2013 film Oz the Great and Powerful."</data>
+      <data key="d2">ae9327e0cde1bcab227a2bb6eefb4217</data>
+    </node>
+    <node id="&quot;JOEY KING&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Joey King is an actress who has a supporting role in the 2013 film Oz the Great and Powerful."</data>
+      <data key="d2">ae9327e0cde1bcab227a2bb6eefb4217</data>
+    </node>
+    <node id="&quot;TONY COX&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Tony Cox is an actor who has a supporting role in the 2013 film Oz the Great and Powerful."</data>
+      <data key="d2">ae9327e0cde1bcab227a2bb6eefb4217</data>
+    </node>
+    <node id="&quot;L. FRANK BAUM&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"L. Frank Baum is the author of the Oz novels, which inspired the 2013 film Oz the Great and Powerful."</data>
+      <data key="d2">ae9327e0cde1bcab227a2bb6eefb4217</data>
+    </node>
+    <node id="&quot;METRO-GOLDWYN-MAYER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Metro-Goldwyn-Mayer is a film studio that produced the 1939 film The Wizard of Oz."</data>
+      <data key="d2">ae9327e0cde1bcab227a2bb6eefb4217</data>
+    </node>
+    <node id="&quot;THE LAND OF OZ&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Land of Oz is a fictional location where the story of Oz the Great and Powerful takes place."</data>
+      <data key="d2">ae9327e0cde1bcab227a2bb6eefb4217</data>
+    </node>
+    <node id="&quot;OZ THE GREAT AND POWERFUL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ae9327e0cde1bcab227a2bb6eefb4217</data>
+    </node>
+    <node id="&quot;SUSANNA FOGEL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Susanna Fogel is the director and co-writer of The Spy Who Dumped Me.</data>
+      <data key="d2">7c95791eb364bf0d54745be00f413ba3,d5f01fe428220c6944ea678210b7ee4a</data>
+    </node>
+    <node id="&quot;DAVID ISERSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"David Iserson is the co-writer of The Spy Who Dumped Me."</data>
+      <data key="d2">7c95791eb364bf0d54745be00f413ba3</data>
+    </node>
+    <node id="&quot;KATE MCKINNON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Kate McKinnon is an actress and one of the stars of The Spy Who Dumped Me.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">7c95791eb364bf0d54745be00f413ba3,d5f01fe428220c6944ea678210b7ee4a</data>
+    </node>
+    <node id="&quot;JUSTIN THEROUX&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Justin Theroux is an American actor who stars in the film The Spy Who Dumped Me, where he plays a prominent role alongside other notable cast members.</data>
+      <data key="d2">7c95791eb364bf0d54745be00f413ba3,d5f01fe428220c6944ea678210b7ee4a</data>
+    </node>
+    <node id="&quot;SAM HEUGHAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Sam Heughan is an actor who stars in The Spy Who Dumped Me, one of the notable films he has been a part of.</data>
+      <data key="d2">7c95791eb364bf0d54745be00f413ba3,d5f01fe428220c6944ea678210b7ee4a</data>
+    </node>
+    <node id="&quot;HASAN MINHAJ&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hasan Minhaj is one of the stars of The Spy Who Dumped Me."</data>
+      <data key="d2">7c95791eb364bf0d54745be00f413ba3</data>
+    </node>
+    <node id="&quot;GILLIAN ANDERSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary:
+
+Gillian Anderson is an actress who stars in The Spy Who Dumped Me, and is also one of the stars of the same film.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">7c95791eb364bf0d54745be00f413ba3,d5f01fe428220c6944ea678210b7ee4a</data>
+    </node>
+    <node id="&quot;LIONSGATE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Lionsgate is a production company and distributor of The Spy Who Dumped Me, responsible for distributing the film in the United States.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">7c95791eb364bf0d54745be00f413ba3,d5f01fe428220c6944ea678210b7ee4a</data>
+    </node>
+    <node id="&quot;CIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The CIA is an organization that employs individuals, including Avery Bullock, a character voiced by Stewart in the animated TV series American Dad!. Additionally, it has been mentioned as the agency where one of the ex-boyfriends works.</data>
+      <data key="d2">6cc365d4e9b4b01b2b5d1c2d5fef00c6,7c95791eb364bf0d54745be00f413ba3</data>
+    </node>
+    <node id="&quot;THE SPY WHO DUMPED ME&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+"The Spy Who Dumped Me" is a movie released on August 3, 2018.</data>
+      <data key="d2">7c95791eb364bf0d54745be00f413ba3,d5f01fe428220c6944ea678210b7ee4a</data>
+    </node>
+    <node id="&quot;MEG GRIFFIN&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Meg Griffin is a character in the animated TV show Family Guy, where she is portrayed as the daughter in the dysfunctional Griffin family. She is often depicted as the scapegoat and constantly finds herself in a state of humiliation.
+
+Let me know if you need anything else!</data>
+      <data key="d2">415eeb2fdd9b745e8c64935a56379daa,647557badc885580bbb897078749df0f,e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </node>
+    <node id="&quot;MACFARLANE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"MacFarlane is the person who hired Mila Kunis for the role of Meg Griffin after instructing her to adjust her performance."</data>
+      <data key="d2">647557badc885580bbb897078749df0f</data>
+    </node>
+    <node id="&quot;THAT '70S SHOW&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">647557badc885580bbb897078749df0f</data>
+    </node>
+    <node id="&quot;KIM KARDASHIAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Kim Kardashian is a guest voice actor in an episode of American Dad, playing a furry pink alien."</data>
+      <data key="d2">a2a8cd81edf2bfcda78b496dc57ad9b8</data>
+    </node>
+    <node id="&quot;AMERICAN DAD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"American Dad is a TV show that features impressive guest voices and casting them in unrecognizable roles."</data>
+      <data key="d2">a2a8cd81edf2bfcda78b496dc57ad9b8</data>
+    </node>
+    <node id="&quot;THE A.V. CLUB&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The A.V. Club is a publication where Alasdair Wilkins reviewed an episode of American Dad."</data>
+      <data key="d2">a2a8cd81edf2bfcda78b496dc57ad9b8</data>
+    </node>
+    <node id="&quot;ALASDAIR WILKINS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a2a8cd81edf2bfcda78b496dc57ad9b8</data>
+    </node>
+    <node id="&quot;JANE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jane is Amy's daughter, for whom Amy prepares healthful lunches and attends extracurricular activities."</data>
+      <data key="d2">7c5deb913b4fcedae66b97fe8a8bd0a6</data>
+    </node>
+    <node id="&quot;DYLAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dylan is Amy's son, for whom Amy prepares healthful lunches and attends extracurricular activities."</data>
+      <data key="d2">7c5deb913b4fcedae66b97fe8a8bd0a6</data>
+    </node>
+    <node id="&quot;MIKE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mike is Amy's husband who cheats on her with a camgirl, leading to their separation."</data>
+      <data key="d2">7c5deb913b4fcedae66b97fe8a8bd0a6</data>
+    </node>
+    <node id="&quot;GWENDOLYN JAMES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gwendolyn James is the domineering leader of the school's PTA, along with Stacy and Vicky."</data>
+      <data key="d2">7c5deb913b4fcedae66b97fe8a8bd0a6</data>
+    </node>
+    <node id="&quot;STACY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Stacy is a member of the school's PTA, working alongside Gwendolyn James and Vicky."</data>
+      <data key="d2">7c5deb913b4fcedae66b97fe8a8bd0a6</data>
+    </node>
+    <node id="&quot;VICKY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Vicky is a member of the school's PTA, working alongside Gwendolyn James and Stacy."</data>
+      <data key="d2">7c5deb913b4fcedae66b97fe8a8bd0a6</data>
+    </node>
+    <node id="&quot;CHICAGO SUBURBS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Chicago suburbs are where Amy Mitchell lives with her family."</data>
+      <data key="d2">7c5deb913b4fcedae66b97fe8a8bd0a6</data>
+    </node>
+    <node id="&quot;AMY MITCHELL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7c5deb913b4fcedae66b97fe8a8bd0a6</data>
+    </node>
+    <node id="&quot;PTA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7c5deb913b4fcedae66b97fe8a8bd0a6</data>
+    </node>
+    <node id="&quot;ER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"ER is a TV show where Scott Richard Grimes appeared as Dr. Archie Morris."</data>
+      <data key="d2">8c1645c94f6503cf7a7d77c156389169</data>
+    </node>
+    <node id="&quot;PARTY OF FIVE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Party of Five is a TV show where Scott Richard Grimes appeared as Will McCorkle."</data>
+      <data key="d2">8c1645c94f6503cf7a7d77c156389169</data>
+    </node>
+    <node id="&quot;BAND OF BROTHERS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Band of Brothers is a TV show where Scott Richard Grimes appeared as Technical Sergeant Donald Malarkey."</data>
+      <data key="d2">8c1645c94f6503cf7a7d77c156389169</data>
+    </node>
+    <node id="&quot;THE ORVILLE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Orville is a Fox sci-fi comedy-drama TV show where Scott Richard Grimes has been a regular since September 10, 2017."</data>
+      <data key="d2">8c1645c94f6503cf7a7d77c156389169</data>
+    </node>
+    <node id="&quot;SCOTT RICHARD GRIMES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8c1645c94f6503cf7a7d77c156389169</data>
+    </node>
+    <node id="&quot;DISNEY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Disney is a company that produced The Little Mermaid and Dinosaur, two films featuring Samuel E. Wright's work."</data>
+      <data key="d2">b2a6ba37b41a8b6f5702a20a95e6e88d</data>
+    </node>
+    <node id="&quot;THE LITTLE MERMAID&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Little Mermaid is a Disney film for which Samuel E. Wright provided the main vocals to 'Under the Sea', winning an Academy Award."</data>
+      <data key="d2">b2a6ba37b41a8b6f5702a20a95e6e88d</data>
+    </node>
+    <node id="&quot;THE LION KING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Lion King is a Broadway show in which Samuel E. Wright played the part of Mufasa in the original cast."</data>
+      <data key="d2">b2a6ba37b41a8b6f5702a20a95e6e88d</data>
+    </node>
+    <node id="&quot;DINOSAUR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Dinosaur is a Disney CGI film in which Samuel E. Wright voiced Kron the Iguanodon."</data>
+      <data key="d2">b2a6ba37b41a8b6f5702a20a95e6e88d</data>
+    </node>
+    <node id="&quot;SAMUEL E. WRIGHT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b2a6ba37b41a8b6f5702a20a95e6e88d</data>
+    </node>
+    <node id="&quot;BRIAN GRAZER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Brian Grazer is a producer of The Spy Who Dumped Me."</data>
+      <data key="d2">d5f01fe428220c6944ea678210b7ee4a</data>
+    </node>
+    <node id="&quot;ERICA HUGGINS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Erica Huggins is a producer of The Spy Who Dumped Me."</data>
+      <data key="d2">d5f01fe428220c6944ea678210b7ee4a</data>
+    </node>
+    <node id="&quot;TYLER BATES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Tyler Bates is the music composer for The Spy Who Dumped Me."</data>
+      <data key="d2">d5f01fe428220c6944ea678210b7ee4a</data>
+    </node>
+    <node id="&quot;BARRY PETERSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Barry Peterson is the cinematographer for The Spy Who Dumped Me."</data>
+      <data key="d2">d5f01fe428220c6944ea678210b7ee4a</data>
+    </node>
+    <node id="&quot;JOHNATHAN SCHWARTZ&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Johnathan Schwartz is the editor of The Spy Who Dumped Me."</data>
+      <data key="d2">d5f01fe428220c6944ea678210b7ee4a</data>
+    </node>
+    <node id="&quot;IMAGINE ENTERTAINMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Imagine Entertainment is a production company involved in The Spy Who Dumped Me."</data>
+      <data key="d2">d5f01fe428220c6944ea678210b7ee4a</data>
+    </node>
+    <node id="&quot;BRON STUDIOS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Bron Studios is a production company involved in The Spy Who Dumped Me."</data>
+      <data key="d2">d5f01fe428220c6944ea678210b7ee4a</data>
+    </node>
+    <node id="&quot;SETH MACFARLANE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Seth MacFarlane is the creator of Family Guy, as well as its executive producer for its seventh season. He is also the creator of Meg Griffin, a character from Family Guy. Additionally, Seth MacFarlane is the older brother of Rachael Ann MacFarlane Laudiero and co-creator of American Dad!, another popular animated series.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">2d157c2c482dca22bbc0a9086202147d,e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </node>
+    <node id="&quot;LACEY CHABERT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Lacey Chabert is a voice actress and actress who originally voiced Meg Griffin in the first season of Family Guy from 1999 to 2000. She reprised her role as Meg Griffin's voice in 2011 and 2012.</data>
+      <data key="d2">415eeb2fdd9b745e8c64935a56379daa,e98556cc571226463edbe64a590a8081</data>
+    </node>
+    <node id="&quot;TARA STRONG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Tara Strong provides the singing voice for Meg Griffin."</data>
+      <data key="d2">e98556cc571226463edbe64a590a8081</data>
+    </node>
+    <node id="&quot;PETER GRIFFIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Peter Griffin is the father of Meg and a member of the dysfunctional Griffin family, which is featured in Family Guy.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </node>
+    <node id="&quot;LOIS GRIFFIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Lois Griffin is the mother of Meg and a member of the dysfunctional Griffin family, which is featured in the animated TV series Family Guy.</data>
+      <data key="d2">e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </node>
+    <node id="&quot;CHRIS GRIFFIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Chris Griffin is the son and brother in the dysfunctional Griffin family, featuring in Family Guy, where he is also Meg's brother and a member of the Griffin family.</data>
+      <data key="d2">e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </node>
+    <node id="&quot;STEWIE GRIFFIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Stewie Griffin is the baby in the dysfunctional Griffin family, featured in Family Guy, and is also Meg's brother and a member of the Griffin family.</data>
+      <data key="d2">e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </node>
+    <node id="&quot;BRIAN GRIFFIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Brian Griffin is the Griffin family dog, an anthropomorphic dog who is part of the dysfunctional Griffin family featured in Family Guy.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </node>
+    <node id="&quot;DR. MICHAEL MILANO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dr. Michael Milano is Meg's ex-fianc&#233;."</data>
+      <data key="d2">e98556cc571226463edbe64a590a8081</data>
+    </node>
+    <node id="&quot;CODENAME: KIDS NEXT DOOR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Codename: Kids Next Door is a television show that features Supreme Leader Numbuh 362, voiced by Rachael Ann MacFarlane Laudiero."</data>
+      <data key="d2">2d157c2c482dca22bbc0a9086202147d</data>
+    </node>
+    <node id="&quot;STARCRAFT II&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Starcraft II is a video game that features Kate Lockwell, voiced by Rachael Ann MacFarlane Laudiero."</data>
+      <data key="d2">2d157c2c482dca22bbc0a9086202147d</data>
+    </node>
+    <node id="&quot;RACHAEL ANN MACFARLANE LAUDIERO&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2d157c2c482dca22bbc0a9086202147d</data>
+    </node>
+    <node id="&quot;FOX&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Fox is a television network that airs Family Guy."</data>
+      <data key="d2">415eeb2fdd9b745e8c64935a56379daa</data>
+    </node>
+    <node id="&quot;FAMILY GUY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Family Guy is an animated television series that debuted on January 31, 1999.</data>
+      <data key="d2">415eeb2fdd9b745e8c64935a56379daa,fde08065cba60f1e08e09a620294f5fc</data>
+    </node>
+    <node id="&quot;MARY HARRON'S 2000 FILM ADAPTATION OF 'AMERICAN PSYCHO'&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"It is the original film adapted from 'American Psycho' in 2000."</data>
+      <data key="d2">e8a0a98cbf036f8446a85fb6082fe2d2</data>
+    </node>
+    <node id="&quot;MORGAN J. FREEMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Morgan J. Freeman is the director of American Psycho 2."</data>
+      <data key="d2">e8a0a98cbf036f8446a85fb6082fe2d2</data>
+    </node>
+    <node id="&quot;RACHAEL NEWMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Rachael Newman is a character in American Psycho 2, played by Mila Kunis."</data>
+      <data key="d2">e8a0a98cbf036f8446a85fb6082fe2d2</data>
+    </node>
+    <node id="&quot;WILLIAM SHATNER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"William Shatner plays the role of Rachael's professor in American Psycho 2."</data>
+      <data key="d2">e8a0a98cbf036f8446a85fb6082fe2d2</data>
+    </node>
+    <node id="&quot;AMERICAN PSYCHO 2&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e8a0a98cbf036f8446a85fb6082fe2d2</data>
+    </node>
+    <node id="&quot;BOOGER&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Booger is a character played by Curtis Armstrong in the Revenge of the Nerds movies."</data>
+      <data key="d2">e427f350c4312ef8e5362c3459de5ceb</data>
+    </node>
+    <node id="&quot;HERBERT VIOLA&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Herbert Viola is a character played by Curtis Armstrong on Moonlighting."</data>
+      <data key="d2">e427f350c4312ef8e5362c3459de5ceb</data>
+    </node>
+    <node id="&quot;MILES DALBY&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Miles Dalby is a character played by Curtis Armstrong in Risky Business."</data>
+      <data key="d2">e427f350c4312ef8e5362c3459de5ceb</data>
+    </node>
+    <node id="&quot;AHMET ERTEG&#220;N&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ahmet Erteg&#252;n was a famed record producer portrayed by Curtis Armstrong in the film Ray."</data>
+      <data key="d2">e427f350c4312ef8e5362c3459de5ceb</data>
+    </node>
+    <node id="&quot;MARU &quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Maru is a character voiced by Curtis Armstrong in Planes: Fire &amp; Rescue."</data>
+      <data key="d2">e427f350c4312ef8e5362c3459de5ceb</data>
+    </node>
+    <node id="&quot;SCHMULEY`` SNOT'' LONSTEIN&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Schmuley`` Snot'' Lonstein is a character voiced by Curtis Armstrong in American Dad!"</data>
+      <data key="d2">e427f350c4312ef8e5362c3459de5ceb</data>
+    </node>
+    <node id="&quot;DAN VS.&quot;">
+      <data key="d0">"SHOW"</data>
+      <data key="d1">"Dan Vs. is a show where the title character is voiced by Curtis Armstrong."</data>
+      <data key="d2">e427f350c4312ef8e5362c3459de5ceb</data>
+    </node>
+    <node id="&quot;METATRON&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"Metatron is a character played by Curtis Armstrong in the series Supernatural."</data>
+      <data key="d2">e427f350c4312ef8e5362c3459de5ceb</data>
+    </node>
+    <node id="&quot;KING OF THE NERDS&quot;">
+      <data key="d0">"SHOW"</data>
+      <data key="d1">"King of the Nerds is a TBS reality television competition series co-hosted by Curtis Armstrong."</data>
+      <data key="d2">e427f350c4312ef8e5362c3459de5ceb</data>
+    </node>
+    <node id="&quot;CURTIS ARMSTRONG&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e427f350c4312ef8e5362c3459de5ceb</data>
+    </node>
+    <node id="&quot;FOX NETWORK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Fox network aired Family Guy's seventh season in 16 episodes from September 28, 2008 to May 17, 2009."</data>
+      <data key="d2">fde08065cba60f1e08e09a620294f5fc</data>
+    </node>
+    <node id="&quot;QUAHOG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Quahog is the town where the Griffin family resides in Family Guy."</data>
+      <data key="d2">fde08065cba60f1e08e09a620294f5fc</data>
+    </node>
+    <node id="&quot;SEASON 7&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Season 7 of Family Guy aired on the Fox network from September 28, 2008 to May 17, 2009."</data>
+      <data key="d2">fde08065cba60f1e08e09a620294f5fc</data>
+    </node>
+    <node id="&quot;GRIFFIN FAMILY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fde08065cba60f1e08e09a620294f5fc</data>
+    </node>
+    <node id="&quot;ST. LOUIS, MISSOURI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"St. Louis, Missouri is a location where Ken Page was from."</data>
+      <data key="d2">776cb8ecba6ca8fb83e2862388539839</data>
+    </node>
+    <node id="&quot;THE NIGHTMARE BEFORE CHRISTMAS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Nightmare Before Christmas is an event or production where Ken Page voiced the main antagonist Oogie Boogie."</data>
+      <data key="d2">776cb8ecba6ca8fb83e2862388539839</data>
+    </node>
+    <node id="&quot;AI N'T MISBEHAVIN '&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Ai n't Misbehavin 'is a Broadway production where Ken Page created the eponymous role of Ken."</data>
+      <data key="d2">776cb8ecba6ca8fb83e2862388539839</data>
+    </node>
+    <node id="&quot;CATS, THE MUSICAL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Cats, the Musical is a Broadway and filmed stage production where Ken Page played the role of Old Deuteronomy."</data>
+      <data key="d2">776cb8ecba6ca8fb83e2862388539839</data>
+    </node>
+    <node id="&quot;KEN PAGE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">776cb8ecba6ca8fb83e2862388539839</data>
+    </node>
+    <node id="&quot;ROYAL SHAKESPEARE COMPANY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Royal Shakespeare Company is a theatre company that Stewart has remained with, performing in productions such as Hamlet."</data>
+      <data key="d2">6cc365d4e9b4b01b2b5d1c2d5fef00c6</data>
+    </node>
+    <node id="&quot;STARZ&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Starz is a TV network that aired the series Blunt Talk, starring Stewart."</data>
+      <data key="d2">6cc365d4e9b4b01b2b5d1c2d5fef00c6</data>
+    </node>
+    <node id="&quot;STEWART&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6cc365d4e9b4b01b2b5d1c2d5fef00c6</data>
+    </node>
+    <node id="&quot;BERT BAILEY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bert Bailey is a playwright and actor, co-author of On Our Selection and played Dad Rudd in the original production."</data>
+      <data key="d2">2f95c4e9e76ba6f797d294a4904e2033</data>
+    </node>
+    <node id="&quot;EDMUND DUGGAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Edmund Duggan is a playwright, co-author of On Our Selection."</data>
+      <data key="d2">2f95c4e9e76ba6f797d294a4904e2033</data>
+    </node>
+    <node id="&quot;STEELE RUDD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Steele Rudd is an author, whose stories were adapted into the play On Our Selection."</data>
+      <data key="d2">2f95c4e9e76ba6f797d294a4904e2033</data>
+    </node>
+    <node id="&quot;AUSTRALIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Australia is the country where the play On Our Selection was set and produced."</data>
+      <data key="d2">2f95c4e9e76ba6f797d294a4904e2033</data>
+    </node>
+    <node id="&quot;ON OUR SELECTION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2f95c4e9e76ba6f797d294a4904e2033</data>
+    </node>
+    <node id="&quot;WILL GLUCK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Will Gluck is the director of the film Friends with Benefits."</data>
+      <data key="d2">111894155c77a6c3dcba12411385a3e9</data>
+    </node>
+    <node id="&quot;JUSTIN TIMBERLAKE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Justin Timberlake stars in the lead role of Dylan Harper in the film Friends with Benefits."</data>
+      <data key="d2">111894155c77a6c3dcba12411385a3e9</data>
+    </node>
+    <node id="&quot;PATRICIA CLARKSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Patricia Clarkson has a supporting role in the film Friends with Benefits."</data>
+      <data key="d2">111894155c77a6c3dcba12411385a3e9</data>
+    </node>
+    <node id="&quot;JENNA ELFMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jenna Elfman has a supporting role in the film Friends with Benefits."</data>
+      <data key="d2">111894155c77a6c3dcba12411385a3e9</data>
+    </node>
+    <node id="&quot;BRYAN GREENBERG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bryan Greenberg has a supporting role in the film Friends with Benefits."</data>
+      <data key="d2">111894155c77a6c3dcba12411385a3e9</data>
+    </node>
+    <node id="&quot;NOLAN GOULD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Nolan Gould has a supporting role in the film Friends with Benefits."</data>
+      <data key="d2">111894155c77a6c3dcba12411385a3e9</data>
+    </node>
+    <node id="&quot;RICHARD JENKINS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Richard Jenkins has a supporting role in the film Friends with Benefits."</data>
+      <data key="d2">111894155c77a6c3dcba12411385a3e9</data>
+    </node>
+    <node id="&quot;WOODY HARRELSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Woody Harrelson has a supporting role in the film Friends with Benefits."</data>
+      <data key="d2">111894155c77a6c3dcba12411385a3e9</data>
+    </node>
+    <node id="&quot;NEW YORK CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New York City is the location where Dylan Harper and Jamie Rellis meet."</data>
+      <data key="d2">111894155c77a6c3dcba12411385a3e9</data>
+    </node>
+    <node id="&quot;FRIENDS WITH BENEFITS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">111894155c77a6c3dcba12411385a3e9</data>
+    </node>
+    <node id="&quot;DYLAN HARPER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">111894155c77a6c3dcba12411385a3e9</data>
+    </node>
+    <node id="&quot;JAMIE RELLIS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">111894155c77a6c3dcba12411385a3e9</data>
+    </node>
+    <edge source="&quot;STAN SMITH&quot;" target="&quot;STEVEN ANITA ``STEVE ''SMITH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Steven is Stan's son."</data>
+      <data key="d5">e2735b0956b151ac215d6d329fd4fbf1</data>
+    </edge>
+    <edge source="&quot;FRANCINE SMITH&quot;" target="&quot;STEVEN ANITA ``STEVE ''SMITH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Steven is Francine's son."</data>
+      <data key="d5">e2735b0956b151ac215d6d329fd4fbf1</data>
+    </edge>
+    <edge source="&quot;HAYLEY SMITH&quot;" target="&quot;STEVEN ANITA ``STEVE ''SMITH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Steven is Hayley's younger brother."</data>
+      <data key="d5">e2735b0956b151ac215d6d329fd4fbf1</data>
+    </edge>
+    <edge source="&quot;AMERICAN DAD!&quot;" target="&quot;STEVEN ANITA ``STEVE ''SMITH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Steven is a character in American Dad!."&gt;&lt;|COMPLETE|I'll add the missing entities to the output. Here is the updated list:("entity"</data>
+      <data key="d5">e2735b0956b151ac215d6d329fd4fbf1</data>
+    </edge>
+    <edge source="&quot;AMERICAN DAD!&quot;" target="&quot;SCOTT RICHARD GRIMES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Scott Richard Grimes voiced Steve Smith in American Dad!".</data>
+      <data key="d5">8c1645c94f6503cf7a7d77c156389169</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">111894155c77a6c3dcba12411385a3e9,2d157c2c482dca22bbc0a9086202147d,2dde7320197ef8d3b8b69864730dd6d3,2f95c4e9e76ba6f797d294a4904e2033,415eeb2fdd9b745e8c64935a56379daa,647557badc885580bbb897078749df0f,6cc365d4e9b4b01b2b5d1c2d5fef00c6,776cb8ecba6ca8fb83e2862388539839,7c5deb913b4fcedae66b97fe8a8bd0a6,7c95791eb364bf0d54745be00f413ba3,8c1645c94f6503cf7a7d77c156389169,a2a8cd81edf2bfcda78b496dc57ad9b8,ae9327e0cde1bcab227a2bb6eefb4217,b2a6ba37b41a8b6f5702a20a95e6e88d,d5f01fe428220c6944ea678210b7ee4a,e2735b0956b151ac215d6d329fd4fbf1,e427f350c4312ef8e5362c3459de5ceb,e8a0a98cbf036f8446a85fb6082fe2d2,e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">111894155c77a6c3dcba12411385a3e9,2d157c2c482dca22bbc0a9086202147d,2dde7320197ef8d3b8b69864730dd6d3,2f95c4e9e76ba6f797d294a4904e2033,415eeb2fdd9b745e8c64935a56379daa,647557badc885580bbb897078749df0f,6cc365d4e9b4b01b2b5d1c2d5fef00c6,776cb8ecba6ca8fb83e2862388539839,7c5deb913b4fcedae66b97fe8a8bd0a6,7c95791eb364bf0d54745be00f413ba3,8c1645c94f6503cf7a7d77c156389169,a2a8cd81edf2bfcda78b496dc57ad9b8,ae9327e0cde1bcab227a2bb6eefb4217,b2a6ba37b41a8b6f5702a20a95e6e88d,d5f01fe428220c6944ea678210b7ee4a,e2735b0956b151ac215d6d329fd4fbf1,e427f350c4312ef8e5362c3459de5ceb,e8a0a98cbf036f8446a85fb6082fe2d2,e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">111894155c77a6c3dcba12411385a3e9,2d157c2c482dca22bbc0a9086202147d,2dde7320197ef8d3b8b69864730dd6d3,2f95c4e9e76ba6f797d294a4904e2033,415eeb2fdd9b745e8c64935a56379daa,647557badc885580bbb897078749df0f,6cc365d4e9b4b01b2b5d1c2d5fef00c6,776cb8ecba6ca8fb83e2862388539839,7c5deb913b4fcedae66b97fe8a8bd0a6,7c95791eb364bf0d54745be00f413ba3,8c1645c94f6503cf7a7d77c156389169,a2a8cd81edf2bfcda78b496dc57ad9b8,ae9327e0cde1bcab227a2bb6eefb4217,b2a6ba37b41a8b6f5702a20a95e6e88d,d5f01fe428220c6944ea678210b7ee4a,e2735b0956b151ac215d6d329fd4fbf1,e427f350c4312ef8e5362c3459de5ceb,e8a0a98cbf036f8446a85fb6082fe2d2,e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">111894155c77a6c3dcba12411385a3e9,2d157c2c482dca22bbc0a9086202147d,2dde7320197ef8d3b8b69864730dd6d3,2f95c4e9e76ba6f797d294a4904e2033,415eeb2fdd9b745e8c64935a56379daa,647557badc885580bbb897078749df0f,6cc365d4e9b4b01b2b5d1c2d5fef00c6,776cb8ecba6ca8fb83e2862388539839,7c5deb913b4fcedae66b97fe8a8bd0a6,7c95791eb364bf0d54745be00f413ba3,8c1645c94f6503cf7a7d77c156389169,a2a8cd81edf2bfcda78b496dc57ad9b8,ae9327e0cde1bcab227a2bb6eefb4217,b2a6ba37b41a8b6f5702a20a95e6e88d,d5f01fe428220c6944ea678210b7ee4a,e2735b0956b151ac215d6d329fd4fbf1,e427f350c4312ef8e5362c3459de5ceb,e8a0a98cbf036f8446a85fb6082fe2d2,e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">111894155c77a6c3dcba12411385a3e9,2d157c2c482dca22bbc0a9086202147d,2dde7320197ef8d3b8b69864730dd6d3,2f95c4e9e76ba6f797d294a4904e2033,415eeb2fdd9b745e8c64935a56379daa,647557badc885580bbb897078749df0f,6cc365d4e9b4b01b2b5d1c2d5fef00c6,776cb8ecba6ca8fb83e2862388539839,7c5deb913b4fcedae66b97fe8a8bd0a6,7c95791eb364bf0d54745be00f413ba3,8c1645c94f6503cf7a7d77c156389169,a2a8cd81edf2bfcda78b496dc57ad9b8,ae9327e0cde1bcab227a2bb6eefb4217,b2a6ba37b41a8b6f5702a20a95e6e88d,d5f01fe428220c6944ea678210b7ee4a,e2735b0956b151ac215d6d329fd4fbf1,e427f350c4312ef8e5362c3459de5ceb,e8a0a98cbf036f8446a85fb6082fe2d2,e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">111894155c77a6c3dcba12411385a3e9,2d157c2c482dca22bbc0a9086202147d,2dde7320197ef8d3b8b69864730dd6d3,2f95c4e9e76ba6f797d294a4904e2033,415eeb2fdd9b745e8c64935a56379daa,647557badc885580bbb897078749df0f,6cc365d4e9b4b01b2b5d1c2d5fef00c6,776cb8ecba6ca8fb83e2862388539839,7c5deb913b4fcedae66b97fe8a8bd0a6,7c95791eb364bf0d54745be00f413ba3,8c1645c94f6503cf7a7d77c156389169,a2a8cd81edf2bfcda78b496dc57ad9b8,ae9327e0cde1bcab227a2bb6eefb4217,b2a6ba37b41a8b6f5702a20a95e6e88d,d5f01fe428220c6944ea678210b7ee4a,e2735b0956b151ac215d6d329fd4fbf1,e427f350c4312ef8e5362c3459de5ceb,e8a0a98cbf036f8446a85fb6082fe2d2,e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">111894155c77a6c3dcba12411385a3e9,2d157c2c482dca22bbc0a9086202147d,2dde7320197ef8d3b8b69864730dd6d3,2f95c4e9e76ba6f797d294a4904e2033,415eeb2fdd9b745e8c64935a56379daa,647557badc885580bbb897078749df0f,6cc365d4e9b4b01b2b5d1c2d5fef00c6,776cb8ecba6ca8fb83e2862388539839,7c5deb913b4fcedae66b97fe8a8bd0a6,7c95791eb364bf0d54745be00f413ba3,8c1645c94f6503cf7a7d77c156389169,a2a8cd81edf2bfcda78b496dc57ad9b8,ae9327e0cde1bcab227a2bb6eefb4217,b2a6ba37b41a8b6f5702a20a95e6e88d,d5f01fe428220c6944ea678210b7ee4a,e2735b0956b151ac215d6d329fd4fbf1,e427f350c4312ef8e5362c3459de5ceb,e8a0a98cbf036f8446a85fb6082fe2d2,e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">111894155c77a6c3dcba12411385a3e9,2d157c2c482dca22bbc0a9086202147d,2dde7320197ef8d3b8b69864730dd6d3,2f95c4e9e76ba6f797d294a4904e2033,415eeb2fdd9b745e8c64935a56379daa,647557badc885580bbb897078749df0f,6cc365d4e9b4b01b2b5d1c2d5fef00c6,776cb8ecba6ca8fb83e2862388539839,7c5deb913b4fcedae66b97fe8a8bd0a6,7c95791eb364bf0d54745be00f413ba3,8c1645c94f6503cf7a7d77c156389169,a2a8cd81edf2bfcda78b496dc57ad9b8,ae9327e0cde1bcab227a2bb6eefb4217,b2a6ba37b41a8b6f5702a20a95e6e88d,d5f01fe428220c6944ea678210b7ee4a,e2735b0956b151ac215d6d329fd4fbf1,e427f350c4312ef8e5362c3459de5ceb,e8a0a98cbf036f8446a85fb6082fe2d2,e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">111894155c77a6c3dcba12411385a3e9,2d157c2c482dca22bbc0a9086202147d,2dde7320197ef8d3b8b69864730dd6d3,2f95c4e9e76ba6f797d294a4904e2033,415eeb2fdd9b745e8c64935a56379daa,647557badc885580bbb897078749df0f,6cc365d4e9b4b01b2b5d1c2d5fef00c6,776cb8ecba6ca8fb83e2862388539839,7c5deb913b4fcedae66b97fe8a8bd0a6,7c95791eb364bf0d54745be00f413ba3,8c1645c94f6503cf7a7d77c156389169,a2a8cd81edf2bfcda78b496dc57ad9b8,ae9327e0cde1bcab227a2bb6eefb4217,b2a6ba37b41a8b6f5702a20a95e6e88d,d5f01fe428220c6944ea678210b7ee4a,e2735b0956b151ac215d6d329fd4fbf1,e427f350c4312ef8e5362c3459de5ceb,e8a0a98cbf036f8446a85fb6082fe2d2,e98556cc571226463edbe64a590a8081,fde08065cba60f1e08e09a620294f5fc</data>
+    </edge>
+    <edge source="&quot;MILA KUNIS&quot;" target="&quot;THE SPY WHO DUMPED ME&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Here is the comprehensive summary:
+
+MILA KUNIS starred in THE SPY WHO DUMPED ME, a film where she played a significant role.</data>
+      <data key="d5">7c95791eb364bf0d54745be00f413ba3,d5f01fe428220c6944ea678210b7ee4a</data>
+    </edge>
+    <edge source="&quot;MILA KUNIS&quot;" target="&quot;MEG GRIFFIN&quot;">
+      <data key="d3">3.0</data>
+      <data key="d4">Here is a comprehensive summary of the data:
+
+Mila Kunis is the voice actor for the character Meg Griffin, whom she has voiced since season 2 of Family Guy in 1999.
+
+Let me know if you need any further assistance!</data>
+      <data key="d5">415eeb2fdd9b745e8c64935a56379daa,647557badc885580bbb897078749df0f,e98556cc571226463edbe64a590a8081</data>
+    </edge>
+    <edge source="&quot;MILA KUNIS&quot;" target="&quot;MACFARLANE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"MacFarlane hired Mila Kunis for the role of Meg Griffin after her auditions and adjustments."</data>
+      <data key="d5">647557badc885580bbb897078749df0f</data>
+    </edge>
+    <edge source="&quot;MILA KUNIS&quot;" target="&quot;THAT '70S SHOW&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mila Kunis' performance on That '70s Show contributed to her winning the role of Meg Griffin."</data>
+      <data key="d5">647557badc885580bbb897078749df0f</data>
+    </edge>
+    <edge source="&quot;MILA KUNIS&quot;" target="&quot;RACHAEL NEWMAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mila Kunis plays the role of Rachael Newman in American Psycho 2."</data>
+      <data key="d5">e8a0a98cbf036f8446a85fb6082fe2d2</data>
+    </edge>
+    <edge source="&quot;MILA KUNIS&quot;" target="&quot;JAMIE RELLIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mila Kunis plays the role of Jamie Rellis in the film Friends with Benefits."</data>
+      <data key="d5">111894155c77a6c3dcba12411385a3e9</data>
+    </edge>
+    <edge source="&quot;SAM RAIMI&quot;" target="&quot;OZ THE GREAT AND POWERFUL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sam Raimi directed the 2013 film Oz the Great and Powerful."</data>
+      <data key="d5">ae9327e0cde1bcab227a2bb6eefb4217</data>
+    </edge>
+    <edge source="&quot;JOE ROTH&quot;" target="&quot;OZ THE GREAT AND POWERFUL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Joe Roth produced the 2013 film Oz the Great and Powerful."</data>
+      <data key="d5">ae9327e0cde1bcab227a2bb6eefb4217</data>
+    </edge>
+    <edge source="&quot;JAMES FRANCO&quot;" target="&quot;OZ THE GREAT AND POWERFUL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"James Franco stars in the 2013 film Oz the Great and Powerful."</data>
+      <data key="d5">ae9327e0cde1bcab227a2bb6eefb4217</data>
+    </edge>
+    <edge source="&quot;L. FRANK BAUM&quot;" target="&quot;THE LAND OF OZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"L. Frank Baum's novels are set in The Land of Oz."</data>
+      <data key="d5">ae9327e0cde1bcab227a2bb6eefb4217</data>
+    </edge>
+    <edge source="&quot;SUSANNA FOGEL&quot;" target="&quot;THE SPY WHO DUMPED ME&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Here is the comprehensive summary:
+
+Susanna Fogel directed and co-wrote The Spy Who Dumped Me, a film that she was heavily involved in creating.
+
+Let me know if you need anything else!</data>
+      <data key="d5">7c95791eb364bf0d54745be00f413ba3,d5f01fe428220c6944ea678210b7ee4a</data>
+    </edge>
+    <edge source="&quot;DAVID ISERSON&quot;" target="&quot;THE SPY WHO DUMPED ME&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"David Iserson co-wrote The Spy Who Dumped Me."</data>
+      <data key="d5">7c95791eb364bf0d54745be00f413ba3</data>
+    </edge>
+    <edge source="&quot;LIONSGATE&quot;" target="&quot;THE SPY WHO DUMPED ME&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lionsgate released The Spy Who Dumped Me in the United States."</data>
+      <data key="d5">7c95791eb364bf0d54745be00f413ba3</data>
+    </edge>
+    <edge source="&quot;CIA&quot;" target="&quot;STEWART&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Stewart voiced the character of Avery Bullock, a CIA Deputy Director, in American Dad!"</data>
+      <data key="d5">6cc365d4e9b4b01b2b5d1c2d5fef00c6</data>
+    </edge>
+    <edge source="&quot;THE SPY WHO DUMPED ME&quot;" target="&quot;BRIAN GRAZER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Brian Grazer produced The Spy Who Dumped Me."</data>
+      <data key="d5">d5f01fe428220c6944ea678210b7ee4a</data>
+    </edge>
+    <edge source="&quot;THE SPY WHO DUMPED ME&quot;" target="&quot;IMAGINE ENTERTAINMENT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Imagine Entertainment is a production company involved in The Spy Who Dumped Me."</data>
+      <data key="d5">d5f01fe428220c6944ea678210b7ee4a</data>
+    </edge>
+    <edge source="&quot;MEG GRIFFIN&quot;" target="&quot;SETH MACFARLANE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Meg Griffin was created by Seth MacFarlane."</data>
+      <data key="d5">e98556cc571226463edbe64a590a8081</data>
+    </edge>
+    <edge source="&quot;MEG GRIFFIN&quot;" target="&quot;LACEY CHABERT&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Here is the comprehensive summary:
+
+Lacey Chabert originally voiced Meg Griffin in Family Guy, specifically from 1999 to 2000, as well as briefly in 2011 and 2012.</data>
+      <data key="d5">415eeb2fdd9b745e8c64935a56379daa,e98556cc571226463edbe64a590a8081</data>
+    </edge>
+    <edge source="&quot;MEG GRIFFIN&quot;" target="&quot;TARA STRONG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tara Strong provides the singing voice for Meg Griffin."</data>
+      <data key="d5">e98556cc571226463edbe64a590a8081</data>
+    </edge>
+    <edge source="&quot;MEG GRIFFIN&quot;" target="&quot;PETER GRIFFIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Meg Griffin is Peter Griffin's daughter."</data>
+      <data key="d5">e98556cc571226463edbe64a590a8081</data>
+    </edge>
+    <edge source="&quot;MEG GRIFFIN&quot;" target="&quot;LOIS GRIFFIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Meg Griffin is Lois Griffin's daughter."</data>
+      <data key="d5">e98556cc571226463edbe64a590a8081</data>
+    </edge>
+    <edge source="&quot;MEG GRIFFIN&quot;" target="&quot;CHRIS GRIFFIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Meg Griffin is Chris Griffin's sister."</data>
+      <data key="d5">e98556cc571226463edbe64a590a8081</data>
+    </edge>
+    <edge source="&quot;MEG GRIFFIN&quot;" target="&quot;STEWIE GRIFFIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Meg Griffin is Stewie Griffin's sister."</data>
+      <data key="d5">e98556cc571226463edbe64a590a8081</data>
+    </edge>
+    <edge source="&quot;MEG GRIFFIN&quot;" target="&quot;BRIAN GRIFFIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Meg Griffin is a member of the same family as Brian Griffin."</data>
+      <data key="d5">e98556cc571226463edbe64a590a8081</data>
+    </edge>
+    <edge source="&quot;MEG GRIFFIN&quot;" target="&quot;DR. MICHAEL MILANO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Meg Griffin was engaged to Dr. Michael Milano."</data>
+      <data key="d5">e98556cc571226463edbe64a590a8081</data>
+    </edge>
+    <edge source="&quot;MEG GRIFFIN&quot;" target="&quot;GRIFFIN FAMILY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Meg Griffin is a member of the dysfunctional Griffin family featured in Family Guy."</data>
+      <data key="d5">fde08065cba60f1e08e09a620294f5fc</data>
+    </edge>
+    <edge source="&quot;KIM KARDASHIAN&quot;" target="&quot;AMERICAN DAD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Kim Kardashian is a guest voice actor in an episode of American Dad."</data>
+      <data key="d5">a2a8cd81edf2bfcda78b496dc57ad9b8</data>
+    </edge>
+    <edge source="&quot;AMERICAN DAD&quot;" target="&quot;ALASDAIR WILKINS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alasdair Wilkins reviewed an episode of American Dad, giving it a positive rating."</data>
+      <data key="d5">a2a8cd81edf2bfcda78b496dc57ad9b8</data>
+    </edge>
+    <edge source="&quot;THE A.V. CLUB&quot;" target="&quot;ALASDAIR WILKINS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alasdair Wilkins is a critic who writes for The A.V. Club."</data>
+      <data key="d5">a2a8cd81edf2bfcda78b496dc57ad9b8</data>
+    </edge>
+    <edge source="&quot;JANE&quot;" target="&quot;AMY MITCHELL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Amy is Jane's mother, taking care of her and attending her extracurricular activities."</data>
+      <data key="d5">7c5deb913b4fcedae66b97fe8a8bd0a6</data>
+    </edge>
+    <edge source="&quot;DYLAN&quot;" target="&quot;AMY MITCHELL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Amy is Dylan's mother, taking care of him and attending his extracurricular activities."</data>
+      <data key="d5">7c5deb913b4fcedae66b97fe8a8bd0a6</data>
+    </edge>
+    <edge source="&quot;MIKE&quot;" target="&quot;AMY MITCHELL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Amy is Mike's wife, who kicks him out after discovering his infidelity."</data>
+      <data key="d5">7c5deb913b4fcedae66b97fe8a8bd0a6</data>
+    </edge>
+    <edge source="&quot;GWENDOLYN JAMES&quot;" target="&quot;PTA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gwendolyn James leads the school's PTA, along with Stacy and Vicky."</data>
+      <data key="d5">7c5deb913b4fcedae66b97fe8a8bd0a6</data>
+    </edge>
+    <edge source="&quot;CHICAGO SUBURBS&quot;" target="&quot;AMY MITCHELL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Amy lives in the Chicago suburbs with her family."</data>
+      <data key="d5">7c5deb913b4fcedae66b97fe8a8bd0a6</data>
+    </edge>
+    <edge source="&quot;ER&quot;" target="&quot;SCOTT RICHARD GRIMES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Scott Richard Grimes appeared in ER as Dr. Archie Morris."</data>
+      <data key="d5">8c1645c94f6503cf7a7d77c156389169</data>
+    </edge>
+    <edge source="&quot;PARTY OF FIVE&quot;" target="&quot;SCOTT RICHARD GRIMES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Scott Richard Grimes appeared in Party of Five as Will McCorkle."</data>
+      <data key="d5">8c1645c94f6503cf7a7d77c156389169</data>
+    </edge>
+    <edge source="&quot;BAND OF BROTHERS&quot;" target="&quot;SCOTT RICHARD GRIMES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Scott Richard Grimes appeared in Band of Brothers as Technical Sergeant Donald Malarkey."</data>
+      <data key="d5">8c1645c94f6503cf7a7d77c156389169</data>
+    </edge>
+    <edge source="&quot;THE ORVILLE&quot;" target="&quot;SCOTT RICHARD GRIMES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Scott Richard Grimes has been a regular on The Orville since September 10, 2017."</data>
+      <data key="d5">8c1645c94f6503cf7a7d77c156389169</data>
+    </edge>
+    <edge source="&quot;DISNEY&quot;" target="&quot;SAMUEL E. WRIGHT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Samuel E. Wright worked with Disney on several projects, including The Little Mermaid and Dinosaur."</data>
+      <data key="d5">b2a6ba37b41a8b6f5702a20a95e6e88d</data>
+    </edge>
+    <edge source="&quot;THE LITTLE MERMAID&quot;" target="&quot;SAMUEL E. WRIGHT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Samuel E. Wright provided the main vocals to 'Under the Sea' in The Little Mermaid."</data>
+      <data key="d5">b2a6ba37b41a8b6f5702a20a95e6e88d</data>
+    </edge>
+    <edge source="&quot;THE LION KING&quot;" target="&quot;SAMUEL E. WRIGHT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Samuel E. Wright played the part of Mufasa in the original cast of The Lion King on Broadway."</data>
+      <data key="d5">b2a6ba37b41a8b6f5702a20a95e6e88d</data>
+    </edge>
+    <edge source="&quot;DINOSAUR&quot;" target="&quot;SAMUEL E. WRIGHT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Samuel E. Wright voiced Kron the Iguanodon in Disney's CGI film Dinosaur."</data>
+      <data key="d5">b2a6ba37b41a8b6f5702a20a95e6e88d</data>
+    </edge>
+    <edge source="&quot;SETH MACFARLANE&quot;" target="&quot;FAMILY GUY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Seth MacFarlane is the creator and executive producer of Family Guy."</data>
+      <data key="d5">fde08065cba60f1e08e09a620294f5fc</data>
+    </edge>
+    <edge source="&quot;PETER GRIFFIN&quot;" target="&quot;GRIFFIN FAMILY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Peter Griffin is a member of the dysfunctional Griffin family featured in Family Guy."</data>
+      <data key="d5">fde08065cba60f1e08e09a620294f5fc</data>
+    </edge>
+    <edge source="&quot;LOIS GRIFFIN&quot;" target="&quot;GRIFFIN FAMILY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lois Griffin is a member of the dysfunctional Griffin family featured in Family Guy."</data>
+      <data key="d5">fde08065cba60f1e08e09a620294f5fc</data>
+    </edge>
+    <edge source="&quot;CHRIS GRIFFIN&quot;" target="&quot;GRIFFIN FAMILY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chris Griffin is a member of the dysfunctional Griffin family featured in Family Guy."</data>
+      <data key="d5">fde08065cba60f1e08e09a620294f5fc</data>
+    </edge>
+    <edge source="&quot;STEWIE GRIFFIN&quot;" target="&quot;GRIFFIN FAMILY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Stewie Griffin is a member of the dysfunctional Griffin family featured in Family Guy."</data>
+      <data key="d5">fde08065cba60f1e08e09a620294f5fc</data>
+    </edge>
+    <edge source="&quot;BRIAN GRIFFIN&quot;" target="&quot;GRIFFIN FAMILY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Brian Griffin is a member of the dysfunctional Griffin family featured in Family Guy."</data>
+      <data key="d5">fde08065cba60f1e08e09a620294f5fc</data>
+    </edge>
+    <edge source="&quot;STARCRAFT II&quot;" target="&quot;RACHAEL ANN MACFARLANE LAUDIERO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Rachael Ann MacFarlane Laudiero voices Kate Lockwell in Starcraft II."</data>
+      <data key="d5">2d157c2c482dca22bbc0a9086202147d</data>
+    </edge>
+    <edge source="&quot;FOX&quot;" target="&quot;FAMILY GUY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Family Guy is aired on Fox television network."</data>
+      <data key="d5">415eeb2fdd9b745e8c64935a56379daa</data>
+    </edge>
+    <edge source="&quot;FAMILY GUY&quot;" target="&quot;SEASON 7&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Season 7 is a part of the animated television series Family Guy."</data>
+      <data key="d5">fde08065cba60f1e08e09a620294f5fc</data>
+    </edge>
+    <edge source="&quot;MARY HARRON'S 2000 FILM ADAPTATION OF 'AMERICAN PSYCHO'&quot;" target="&quot;AMERICAN PSYCHO 2&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"American Psycho 2 is a stand-alone sequel to Mary Harron's 2000 film adaptation of 'American Psycho'."</data>
+      <data key="d5">e8a0a98cbf036f8446a85fb6082fe2d2</data>
+    </edge>
+    <edge source="&quot;MORGAN J. FREEMAN&quot;" target="&quot;AMERICAN PSYCHO 2&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Morgan J. Freeman directed American Psycho 2."</data>
+      <data key="d5">e8a0a98cbf036f8446a85fb6082fe2d2</data>
+    </edge>
+    <edge source="&quot;WILLIAM SHATNER&quot;" target="&quot;AMERICAN PSYCHO 2&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"William Shatner stars in American Psycho 2 as Rachael's professor."</data>
+      <data key="d5">e8a0a98cbf036f8446a85fb6082fe2d2</data>
+    </edge>
+    <edge source="&quot;BOOGER&quot;" target="&quot;CURTIS ARMSTRONG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Curtis Armstrong played the role of Booger in the Revenge of the Nerds movies."</data>
+      <data key="d5">e427f350c4312ef8e5362c3459de5ceb</data>
+    </edge>
+    <edge source="&quot;HERBERT VIOLA&quot;" target="&quot;CURTIS ARMSTRONG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Curtis Armstrong played the role of Herbert Viola on Moonlighting."</data>
+      <data key="d5">e427f350c4312ef8e5362c3459de5ceb</data>
+    </edge>
+    <edge source="&quot;MILES DALBY&quot;" target="&quot;CURTIS ARMSTRONG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Curtis Armstrong played the role of Miles Dalby in Risky Business."</data>
+      <data key="d5">e427f350c4312ef8e5362c3459de5ceb</data>
+    </edge>
+    <edge source="&quot;AHMET ERTEG&#220;N&quot;" target="&quot;CURTIS ARMSTRONG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Curtis Armstrong portrayed Ahmet Erteg&#252;n in the film Ray."</data>
+      <data key="d5">e427f350c4312ef8e5362c3459de5ceb</data>
+    </edge>
+    <edge source="&quot;MARU &quot;" target="&quot;CURTIS ARMSTRONG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Curtis Armstrong voiced the character Maru in Planes: Fire &amp; Rescue."</data>
+      <data key="d5">e427f350c4312ef8e5362c3459de5ceb</data>
+    </edge>
+    <edge source="&quot;SCHMULEY`` SNOT'' LONSTEIN&quot;" target="&quot;CURTIS ARMSTRONG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Curtis Armstrong voiced the character Schmuley`` Snot'' Lonstein in American Dad!".</data>
+      <data key="d5">e427f350c4312ef8e5362c3459de5ceb</data>
+    </edge>
+    <edge source="&quot;DAN VS.&quot;" target="&quot;CURTIS ARMSTRONG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Curtis Armstrong voiced the title character in Dan Vs."</data>
+      <data key="d5">e427f350c4312ef8e5362c3459de5ceb</data>
+    </edge>
+    <edge source="&quot;METATRON&quot;" target="&quot;CURTIS ARMSTRONG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Curtis Armstrong played the role of Metatron in the series Supernatural."</data>
+      <data key="d5">e427f350c4312ef8e5362c3459de5ceb</data>
+    </edge>
+    <edge source="&quot;KING OF THE NERDS&quot;" target="&quot;CURTIS ARMSTRONG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Curtis Armstrong is a co-host of King of the Nerds."</data>
+      <data key="d5">e427f350c4312ef8e5362c3459de5ceb</data>
+    </edge>
+    <edge source="&quot;QUAHOG&quot;" target="&quot;GRIFFIN FAMILY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Griffin family resides in Quahog."</data>
+      <data key="d5">fde08065cba60f1e08e09a620294f5fc</data>
+    </edge>
+    <edge source="&quot;ST. LOUIS, MISSOURI&quot;" target="&quot;KEN PAGE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ken Page is from St. Louis, Missouri."</data>
+      <data key="d5">776cb8ecba6ca8fb83e2862388539839</data>
+    </edge>
+    <edge source="&quot;THE NIGHTMARE BEFORE CHRISTMAS&quot;" target="&quot;KEN PAGE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ken Page voiced Oogie Boogie in The Nightmare Before Christmas."</data>
+      <data key="d5">776cb8ecba6ca8fb83e2862388539839</data>
+    </edge>
+    <edge source="&quot;AI N'T MISBEHAVIN '&quot;" target="&quot;KEN PAGE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ken Page created the eponymous role of Ken in Ai n't Misbehavin '."&gt;</data>
+      <data key="d5">776cb8ecba6ca8fb83e2862388539839</data>
+    </edge>
+    <edge source="&quot;CATS, THE MUSICAL&quot;" target="&quot;KEN PAGE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ken Page played the role of Old Deuteronomy in Cats, the Musical."</data>
+      <data key="d5">776cb8ecba6ca8fb83e2862388539839</data>
+    </edge>
+    <edge source="&quot;ROYAL SHAKESPEARE COMPANY&quot;" target="&quot;STEWART&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Stewart has remained with the Royal Shakespeare Company, performing in productions such as Hamlet."</data>
+      <data key="d5">6cc365d4e9b4b01b2b5d1c2d5fef00c6</data>
+    </edge>
+    <edge source="&quot;STARZ&quot;" target="&quot;STEWART&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Stewart starred in the Starz TV series Blunt Talk."</data>
+      <data key="d5">6cc365d4e9b4b01b2b5d1c2d5fef00c6</data>
+    </edge>
+    <edge source="&quot;BERT BAILEY&quot;" target="&quot;ON OUR SELECTION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bert Bailey co-authored and acted in the play On Our Selection."</data>
+      <data key="d5">2f95c4e9e76ba6f797d294a4904e2033</data>
+    </edge>
+    <edge source="&quot;EDMUND DUGGAN&quot;" target="&quot;ON OUR SELECTION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Edmund Duggan co-authored the play On Our Selection."</data>
+      <data key="d5">2f95c4e9e76ba6f797d294a4904e2033</data>
+    </edge>
+    <edge source="&quot;STEELE RUDD&quot;" target="&quot;ON OUR SELECTION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Steele Rudd's stories were adapted into the play On Our Selection."</data>
+      <data key="d5">2f95c4e9e76ba6f797d294a4904e2033</data>
+    </edge>
+    <edge source="&quot;AUSTRALIA&quot;" target="&quot;ON OUR SELECTION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The play On Our Selection is set and produced in Australia."</data>
+      <data key="d5">2f95c4e9e76ba6f797d294a4904e2033</data>
+    </edge>
+    <edge source="&quot;WILL GLUCK&quot;" target="&quot;FRIENDS WITH BENEFITS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Will Gluck directed the film Friends with Benefits."</data>
+      <data key="d5">111894155c77a6c3dcba12411385a3e9</data>
+    </edge>
+    <edge source="&quot;JUSTIN TIMBERLAKE&quot;" target="&quot;DYLAN HARPER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Justin Timberlake plays the role of Dylan Harper in the film Friends with Benefits."</data>
+      <data key="d5">111894155c77a6c3dcba12411385a3e9</data>
+    </edge>
+    <edge source="&quot;DYLAN HARPER&quot;" target="&quot;JAMIE RELLIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dylan Harper and Jamie Rellis are the lead characters in the film Friends with Benefits, who develop deep mutual feelings for each other."</data>
+      <data key="d5">111894155c77a6c3dcba12411385a3e9</data>
+    </edge>
+  </graph>
+</graphml>

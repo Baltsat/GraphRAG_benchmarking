@@ -1,0 +1,1390 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;J. R. R. TOLKIEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"J. R. R. Tolkien is the author of the fantasy novels 'The Hobbit' and 'The Lord of the Rings', in which Gollum appears."
+"J. R. R. Tolkien is an author, known for writing the novel 'The Lord of the Rings', which inspired the film 'The Lord of the G-Strings: The Femaleship of the String'"
+"J. R. R. Tolkien is the author of 'The Lord of the Rings' novel series."</data>
+      <data key="d2">57b876b59be57838bfea24a190482103,5b8ad6ef1bbb29aef3ef8249047e4771,62596836ad4003f72e3663d66b9d052b</data>
+    </node>
+    <node id="&quot;SM&#201;AGOL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sm&#233;agol is the original name of Gollum, a Stoor Hobbit of the River-folk who lived near the Gladden Fields."</data>
+      <data key="d2">62596836ad4003f72e3663d66b9d052b</data>
+    </node>
+    <node id="&quot;THE HOBBIT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Hobbit is a 1937 fantasy novel by J. R. R. Tolkien, in which Gollum was introduced."
+"The Hobbit is an earlier story by J.R.R. Tolkien, where the One Ring first appears as a magic ring of invisibility."
+"The Hobbit is a film trilogy released from 2012 to 2014, featuring Hugo Wallace Weaving as Elrond."</data>
+      <data key="d2">5efd6d982a4baa747ced6d67b6fee4ca,62596836ad4003f72e3663d66b9d052b,a1a3ec4398bf6325e2b829f949337468</data>
+    </node>
+    <node id="&quot;THE LORD OF THE RINGS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Lord of the Rings is a sequel to The Hobbit, also written by J. R. R. Tolkien, in which Gollum plays an important role."
+"The Lord of the Rings is a sequel to The Hobbit, where the quest to destroy the One Ring takes place to prevent Sauron's domination."
+"The Lord of the Rings is a film trilogy released from 2001 to 2003, featuring Hugo Wallace Weaving as Elrond."
+
+"The Lord of the Rings is a novel series by J. R. R. Tolkien, comprising three volumes including The Fellowship of the Ring."
+</data>
+      <data key="d2">0a772607786eb84356134ae43595a997,57b876b59be57838bfea24a190482103,5b8ad6ef1bbb29aef3ef8249047e4771,5efd6d982a4baa747ced6d67b6fee4ca,62596836ad4003f72e3663d66b9d052b,a1a3ec4398bf6325e2b829f949337468</data>
+    </node>
+    <node id="&quot;GLADDEN FIELDS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Gladden Fields is a location where Sm&#233;agol/Gollum lived as a Stoor Hobbit of the River-folk."</data>
+      <data key="d2">62596836ad4003f72e3663d66b9d052b</data>
+    </node>
+    <node id="&quot;GOLLUM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">62596836ad4003f72e3663d66b9d052b</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">0a772607786eb84356134ae43595a997,17b3c7e489436079ee9e0833748a6cb4,1b6cf1a233cac1b2ca15a663d1e7defc,32bccd6491ad8c0ed6ceb61b29a2bef8,57b876b59be57838bfea24a190482103,5b8ad6ef1bbb29aef3ef8249047e4771,5efd6d982a4baa747ced6d67b6fee4ca,62596836ad4003f72e3663d66b9d052b,731a297e71077d0fbe40180e145fdce5,833ccf75498e8182321969416937007e,8731ff0710a8dffd8fe0b3a0cc5c6a61,a1a3ec4398bf6325e2b829f949337468,aeb9f1cdb6a35d48d5a5a0a1f496a2e7,bd93af344875de7c61836dcebf4d96e8,c206db7147590f4a1cf5de013282a385,c6bd3d5a1043472686a6d960b5385753,d07ddacb8e403a8ee41e1b4713aa5f32,db2a5caea527eb2e89b275715e46e026,e2af249cc0625d9a44a16a8beb952e3e,e3b4f43f98b5fda0de5716a11530a021</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">0a772607786eb84356134ae43595a997,17b3c7e489436079ee9e0833748a6cb4,1b6cf1a233cac1b2ca15a663d1e7defc,32bccd6491ad8c0ed6ceb61b29a2bef8,57b876b59be57838bfea24a190482103,5b8ad6ef1bbb29aef3ef8249047e4771,5efd6d982a4baa747ced6d67b6fee4ca,62596836ad4003f72e3663d66b9d052b,731a297e71077d0fbe40180e145fdce5,833ccf75498e8182321969416937007e,8731ff0710a8dffd8fe0b3a0cc5c6a61,a1a3ec4398bf6325e2b829f949337468,aeb9f1cdb6a35d48d5a5a0a1f496a2e7,bd93af344875de7c61836dcebf4d96e8,c206db7147590f4a1cf5de013282a385,c6bd3d5a1043472686a6d960b5385753,d07ddacb8e403a8ee41e1b4713aa5f32,db2a5caea527eb2e89b275715e46e026,e2af249cc0625d9a44a16a8beb952e3e,e3b4f43f98b5fda0de5716a11530a021</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">0a772607786eb84356134ae43595a997,17b3c7e489436079ee9e0833748a6cb4,1b6cf1a233cac1b2ca15a663d1e7defc,32bccd6491ad8c0ed6ceb61b29a2bef8,57b876b59be57838bfea24a190482103,5b8ad6ef1bbb29aef3ef8249047e4771,5efd6d982a4baa747ced6d67b6fee4ca,62596836ad4003f72e3663d66b9d052b,731a297e71077d0fbe40180e145fdce5,833ccf75498e8182321969416937007e,8731ff0710a8dffd8fe0b3a0cc5c6a61,a1a3ec4398bf6325e2b829f949337468,aeb9f1cdb6a35d48d5a5a0a1f496a2e7,bd93af344875de7c61836dcebf4d96e8,c206db7147590f4a1cf5de013282a385,c6bd3d5a1043472686a6d960b5385753,d07ddacb8e403a8ee41e1b4713aa5f32,db2a5caea527eb2e89b275715e46e026,e2af249cc0625d9a44a16a8beb952e3e,e3b4f43f98b5fda0de5716a11530a021</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">0a772607786eb84356134ae43595a997,17b3c7e489436079ee9e0833748a6cb4,1b6cf1a233cac1b2ca15a663d1e7defc,32bccd6491ad8c0ed6ceb61b29a2bef8,57b876b59be57838bfea24a190482103,5b8ad6ef1bbb29aef3ef8249047e4771,5efd6d982a4baa747ced6d67b6fee4ca,62596836ad4003f72e3663d66b9d052b,731a297e71077d0fbe40180e145fdce5,833ccf75498e8182321969416937007e,8731ff0710a8dffd8fe0b3a0cc5c6a61,a1a3ec4398bf6325e2b829f949337468,aeb9f1cdb6a35d48d5a5a0a1f496a2e7,bd93af344875de7c61836dcebf4d96e8,c206db7147590f4a1cf5de013282a385,c6bd3d5a1043472686a6d960b5385753,d07ddacb8e403a8ee41e1b4713aa5f32,db2a5caea527eb2e89b275715e46e026,e2af249cc0625d9a44a16a8beb952e3e,e3b4f43f98b5fda0de5716a11530a021</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located.""United States is a country where the Act Prohibiting Importation of Slaves of 1807 was enacted."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located.""The United States is a country where interracial relationships have evolved over time, from early unions between Europeans and natives to the importation of African laborers."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">0a772607786eb84356134ae43595a997,17b3c7e489436079ee9e0833748a6cb4,1b6cf1a233cac1b2ca15a663d1e7defc,32bccd6491ad8c0ed6ceb61b29a2bef8,57b876b59be57838bfea24a190482103,5b8ad6ef1bbb29aef3ef8249047e4771,5efd6d982a4baa747ced6d67b6fee4ca,62596836ad4003f72e3663d66b9d052b,731a297e71077d0fbe40180e145fdce5,833ccf75498e8182321969416937007e,8731ff0710a8dffd8fe0b3a0cc5c6a61,a1a3ec4398bf6325e2b829f949337468,aeb9f1cdb6a35d48d5a5a0a1f496a2e7,bd93af344875de7c61836dcebf4d96e8,c206db7147590f4a1cf5de013282a385,c6bd3d5a1043472686a6d960b5385753,d07ddacb8e403a8ee41e1b4713aa5f32,db2a5caea527eb2e89b275715e46e026,e2af249cc0625d9a44a16a8beb952e3e,e3b4f43f98b5fda0de5716a11530a021</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">0a772607786eb84356134ae43595a997,17b3c7e489436079ee9e0833748a6cb4,1b6cf1a233cac1b2ca15a663d1e7defc,32bccd6491ad8c0ed6ceb61b29a2bef8,57b876b59be57838bfea24a190482103,5b8ad6ef1bbb29aef3ef8249047e4771,5efd6d982a4baa747ced6d67b6fee4ca,62596836ad4003f72e3663d66b9d052b,731a297e71077d0fbe40180e145fdce5,833ccf75498e8182321969416937007e,8731ff0710a8dffd8fe0b3a0cc5c6a61,a1a3ec4398bf6325e2b829f949337468,aeb9f1cdb6a35d48d5a5a0a1f496a2e7,bd93af344875de7c61836dcebf4d96e8,c206db7147590f4a1cf5de013282a385,c6bd3d5a1043472686a6d960b5385753,d07ddacb8e403a8ee41e1b4713aa5f32,db2a5caea527eb2e89b275715e46e026,e2af249cc0625d9a44a16a8beb952e3e,e3b4f43f98b5fda0de5716a11530a021</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">0a772607786eb84356134ae43595a997,17b3c7e489436079ee9e0833748a6cb4,1b6cf1a233cac1b2ca15a663d1e7defc,32bccd6491ad8c0ed6ceb61b29a2bef8,57b876b59be57838bfea24a190482103,5b8ad6ef1bbb29aef3ef8249047e4771,5efd6d982a4baa747ced6d67b6fee4ca,62596836ad4003f72e3663d66b9d052b,731a297e71077d0fbe40180e145fdce5,833ccf75498e8182321969416937007e,8731ff0710a8dffd8fe0b3a0cc5c6a61,a1a3ec4398bf6325e2b829f949337468,aeb9f1cdb6a35d48d5a5a0a1f496a2e7,bd93af344875de7c61836dcebf4d96e8,c206db7147590f4a1cf5de013282a385,c6bd3d5a1043472686a6d960b5385753,d07ddacb8e403a8ee41e1b4713aa5f32,db2a5caea527eb2e89b275715e46e026,e2af249cc0625d9a44a16a8beb952e3e,e3b4f43f98b5fda0de5716a11530a021</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">0a772607786eb84356134ae43595a997,17b3c7e489436079ee9e0833748a6cb4,1b6cf1a233cac1b2ca15a663d1e7defc,32bccd6491ad8c0ed6ceb61b29a2bef8,57b876b59be57838bfea24a190482103,5b8ad6ef1bbb29aef3ef8249047e4771,5efd6d982a4baa747ced6d67b6fee4ca,62596836ad4003f72e3663d66b9d052b,731a297e71077d0fbe40180e145fdce5,833ccf75498e8182321969416937007e,8731ff0710a8dffd8fe0b3a0cc5c6a61,a1a3ec4398bf6325e2b829f949337468,aeb9f1cdb6a35d48d5a5a0a1f496a2e7,bd93af344875de7c61836dcebf4d96e8,c206db7147590f4a1cf5de013282a385,c6bd3d5a1043472686a6d960b5385753,d07ddacb8e403a8ee41e1b4713aa5f32,db2a5caea527eb2e89b275715e46e026,e2af249cc0625d9a44a16a8beb952e3e,e3b4f43f98b5fda0de5716a11530a021</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">0a772607786eb84356134ae43595a997,17b3c7e489436079ee9e0833748a6cb4,1b6cf1a233cac1b2ca15a663d1e7defc,32bccd6491ad8c0ed6ceb61b29a2bef8,57b876b59be57838bfea24a190482103,5b8ad6ef1bbb29aef3ef8249047e4771,5efd6d982a4baa747ced6d67b6fee4ca,62596836ad4003f72e3663d66b9d052b,731a297e71077d0fbe40180e145fdce5,833ccf75498e8182321969416937007e,8731ff0710a8dffd8fe0b3a0cc5c6a61,a1a3ec4398bf6325e2b829f949337468,aeb9f1cdb6a35d48d5a5a0a1f496a2e7,bd93af344875de7c61836dcebf4d96e8,c206db7147590f4a1cf5de013282a385,c6bd3d5a1043472686a6d960b5385753,d07ddacb8e403a8ee41e1b4713aa5f32,db2a5caea527eb2e89b275715e46e026,e2af249cc0625d9a44a16a8beb952e3e,e3b4f43f98b5fda0de5716a11530a021</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</data>
+      <data key="d2">0a772607786eb84356134ae43595a997,17b3c7e489436079ee9e0833748a6cb4,1b6cf1a233cac1b2ca15a663d1e7defc,32bccd6491ad8c0ed6ceb61b29a2bef8,57b876b59be57838bfea24a190482103,5b8ad6ef1bbb29aef3ef8249047e4771,5efd6d982a4baa747ced6d67b6fee4ca,62596836ad4003f72e3663d66b9d052b,731a297e71077d0fbe40180e145fdce5,833ccf75498e8182321969416937007e,8731ff0710a8dffd8fe0b3a0cc5c6a61,a1a3ec4398bf6325e2b829f949337468,aeb9f1cdb6a35d48d5a5a0a1f496a2e7,bd93af344875de7c61836dcebf4d96e8,c206db7147590f4a1cf5de013282a385,c6bd3d5a1043472686a6d960b5385753,d07ddacb8e403a8ee41e1b4713aa5f32,db2a5caea527eb2e89b275715e46e026,e2af249cc0625d9a44a16a8beb952e3e,e3b4f43f98b5fda0de5716a11530a021</data>
+    </node>
+    <node id="&quot;ANNATAR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Annatar, also known as 'Lord of Gifts', is a disguise used by Sauron to aid the Elven smiths of Eregion."</data>
+      <data key="d2">1b6cf1a233cac1b2ca15a663d1e7defc</data>
+    </node>
+    <node id="&quot;CELEBRIMBOR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Celebrimbor is the leader of the Elven smiths of Eregion who were aided by Annatar in making the Rings of Power."</data>
+      <data key="d2">1b6cf1a233cac1b2ca15a663d1e7defc</data>
+    </node>
+    <node id="&quot;EREGION&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Eregion is a region where the Elven smiths, led by Celebrimbor, made the Rings of Power with the aid of Annatar."</data>
+      <data key="d2">1b6cf1a233cac1b2ca15a663d1e7defc</data>
+    </node>
+    <node id="&quot;MOUNT DOOM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mount Doom is a location where Sauron forged the One Ring in its fires."</data>
+      <data key="d2">1b6cf1a233cac1b2ca15a663d1e7defc</data>
+    </node>
+    <node id="&quot;MIDDLE-EARTH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Middle-earth is a region where Sauron sought to gain dominion over its free peoples using the One Ring."
+"Middle-earth is a fictional world where the story of The Lord of the Rings takes place, with Sauron seeking to dominate it."</data>
+      <data key="d2">1b6cf1a233cac1b2ca15a663d1e7defc,5efd6d982a4baa747ced6d67b6fee4ca</data>
+    </node>
+    <node id="&quot;THE ONE RING&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The One Ring is a powerful artifact forged by Sauron to control and dominate Middle-earth."
+</data>
+      <data key="d2">1b6cf1a233cac1b2ca15a663d1e7defc,5efd6d982a4baa747ced6d67b6fee4ca</data>
+    </node>
+    <node id="&quot;RINGS OF POWER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Rings of Power are artifacts made by the Elven smiths of Eregion with the aid of Annatar, which were later used by Sauron for his own purposes."</data>
+      <data key="d2">1b6cf1a233cac1b2ca15a663d1e7defc</data>
+    </node>
+    <node id="&quot;SAURON&quot;">
+      <data key="d0" />
+      <data key="d1">
+"Sauron is the Dark Lord who created the One Ring as part of his design to win domination over Middle-earth."</data>
+      <data key="d2">1b6cf1a233cac1b2ca15a663d1e7defc,5efd6d982a4baa747ced6d67b6fee4ca</data>
+    </node>
+    <node id="&quot;PETER JACKSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Peter Jackson is a film director, associated with The Lord of the Rings films that feature Sarah McLeod."
+
+"Peter Jackson is the director behind one of the biggest and most ambitious film projects ever undertaken, with a budget of $281 million."</data>
+      <data key="d2">17b3c7e489436079ee9e0833748a6cb4,d07ddacb8e403a8ee41e1b4713aa5f32,db2a5caea527eb2e89b275715e46e026</data>
+    </node>
+    <node id="&quot;NEW ZEALAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New Zealand is the country where Sarah McLeod was born and has worked in the film and television industry."
+"New Zealand is a country where the production of the Lord of the Rings film series took place."
+
+</data>
+      <data key="d2">17b3c7e489436079ee9e0833748a6cb4,833ccf75498e8182321969416937007e,d07ddacb8e403a8ee41e1b4713aa5f32,db2a5caea527eb2e89b275715e46e026</data>
+    </node>
+    <node id="&quot;THE LORD OF THE RINGS: THE FELLOWSHIP OF THE RING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Lord of the Rings: The Fellowship of the Ring is a film that features Sarah McLeod as Rosie Cotton."
+"The Lord of the Rings: The Fellowship of the Ring is a film that Bret McKenzie appeared in as an extra."
+"The Lord of the Rings: The Fellowship of the Ring is a film featuring Ian Holm as Bilbo Baggins."</data>
+      <data key="d2">17b3c7e489436079ee9e0833748a6cb4,731a297e71077d0fbe40180e145fdce5,e2af249cc0625d9a44a16a8beb952e3e</data>
+    </node>
+    <node id="&quot;THE LORD OF THE RINGS: THE RETURN OF THE KING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Lord of the Rings: The Return of the King is a film that features Sarah McLeod as Rosie Cotton."
+"The Lord of the Rings: The Return of the King is a film featuring Ian Holm as Bilbo Baggins, for which he shared a SAG award."</data>
+      <data key="d2">17b3c7e489436079ee9e0833748a6cb4,e2af249cc0625d9a44a16a8beb952e3e</data>
+    </node>
+    <node id="&quot;SHORTLAND STREET&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Shortland Street is a New Zealand soap opera where Sarah McLeod co-starred as Cindy Watson from 2008 to 2009."</data>
+      <data key="d2">17b3c7e489436079ee9e0833748a6cb4</data>
+    </node>
+    <node id="&quot;SARAH MCLEOD&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">17b3c7e489436079ee9e0833748a6cb4</data>
+    </node>
+    <node id="&quot;J.R.R. TOLKIEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"J.R.R. Tolkien is the author of The Lord of the Rings and The Hobbit, creating the story and characters surrounding the One Ring."
+"J.R.R. Tolkien is the author of the novel The Lord of the Rings, which the film series is based on."</data>
+      <data key="d2">5efd6d982a4baa747ced6d67b6fee4ca,db2a5caea527eb2e89b275715e46e026</data>
+    </node>
+    <node id="&quot;THE MATRIX TRILOGY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Matrix trilogy is a series of films released from 1999 to 2003, featuring Hugo Wallace Weaving as Agent Smith."</data>
+      <data key="d2">a1a3ec4398bf6325e2b829f949337468</data>
+    </node>
+    <node id="&quot;V FOR VENDETTA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"V for Vendetta is a film released in 2006, featuring Hugo Wallace Weaving as V."</data>
+      <data key="d2">a1a3ec4398bf6325e2b829f949337468</data>
+    </node>
+    <node id="&quot;CAPTAIN AMERICA: THE FIRST AVENGER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Captain America: The First Avenger is a film released in 2011, featuring Hugo Wallace Weaving as Red Skull."</data>
+      <data key="d2">a1a3ec4398bf6325e2b829f949337468</data>
+    </node>
+    <node id="&quot;HACKSAW RIDGE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Hacksaw Ridge is a film released in 2016, featuring Hugo Wallace Weaving as Tom Doss."</data>
+      <data key="d2">a1a3ec4398bf6325e2b829f949337468</data>
+    </node>
+    <node id="&quot;HUGO WALLACE WEAVING&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a1a3ec4398bf6325e2b829f949337468</data>
+    </node>
+    <node id="&quot;FLIGHT OF THE CONCHORDS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Flight of the Conchords is a musical comedy duo that Bret McKenzie is part of."</data>
+      <data key="d2">731a297e71077d0fbe40180e145fdce5</data>
+    </node>
+    <node id="&quot;WELLINGTON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Wellington is the native city of Bret McKenzie."</data>
+      <data key="d2">731a297e71077d0fbe40180e145fdce5</data>
+    </node>
+    <node id="&quot;FRODO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Frodo is a character in The Lord of the Rings who agrees to take the Ring to Mordor."</data>
+      <data key="d2">731a297e71077d0fbe40180e145fdce5</data>
+    </node>
+    <node id="&quot;ELROND&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Elrond is a character in The Lord of the Rings who proclaims the formation of the Fellowship of the Ring."
+"Elrond is the foster father of Aragorn II Elessar Telcontar."</data>
+      <data key="d2">32bccd6491ad8c0ed6ceb61b29a2bef8,731a297e71077d0fbe40180e145fdce5</data>
+    </node>
+    <node id="&quot;FIGWIT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Figwit is an elf character in The Lord of the Rings, dubbed by Tolkien fan Iris Hadad."</data>
+      <data key="d2">731a297e71077d0fbe40180e145fdce5</data>
+    </node>
+    <node id="&quot;IRIS HADAD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Iris Hadad is a Tolkien fan who dubbed the elf character Figwit and created a fan website with her university friend Sherry de Andres."</data>
+      <data key="d2">731a297e71077d0fbe40180e145fdce5</data>
+    </node>
+    <node id="&quot;BRET MCKENZIE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">731a297e71077d0fbe40180e145fdce5</data>
+    </node>
+    <node id="&quot;THE LORD OF THE G-STRINGS: THE FEMALESHIP OF THE STRING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Lord of the G-Strings: The Femaleship of the String is a 2003 American made for cable erotic film, based on J. R. R. Tolkien's novel 'The Lord of the Rings'"</data>
+      <data key="d2">57b876b59be57838bfea24a190482103</data>
+    </node>
+    <node id="&quot;AMERICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"America is the country where the film 'The Lord of the G-Strings: The Femaleship of the String' was produced"</data>
+      <data key="d2">57b876b59be57838bfea24a190482103</data>
+    </node>
+    <node id="&quot;TERRY M. WEST&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">57b876b59be57838bfea24a190482103</data>
+    </node>
+    <node id="&quot;THE FELLOWSHIP OF THE RING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Fellowship of the Ring is a volume in J. R. R. Tolkien's novel series, where D&#233;agol's story is related."
+"The Fellowship of the Ring is a film in the Lord of the Rings series, released in 2001."</data>
+      <data key="d2">5b8ad6ef1bbb29aef3ef8249047e4771,db2a5caea527eb2e89b275715e46e026</data>
+    </node>
+    <node id="&quot;D&#201;AGOL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5b8ad6ef1bbb29aef3ef8249047e4771</data>
+    </node>
+    <node id="&quot;MICHELE LUPO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Michele Lupo is the director of Seven Slaves Against the World."</data>
+      <data key="d2">e3b4f43f98b5fda0de5716a11530a021</data>
+    </node>
+    <node id="&quot;ELIO SCARDAMAGLIA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Elio Scardamaglia is the producer of Seven Slaves Against the World."</data>
+      <data key="d2">e3b4f43f98b5fda0de5716a11530a021</data>
+    </node>
+    <node id="&quot;ROBERTO GIANVITI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Roberto Gianviti is a writer of Seven Slaves Against the World."</data>
+      <data key="d2">e3b4f43f98b5fda0de5716a11530a021</data>
+    </node>
+    <node id="&quot;ROGER BROWNE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Roger Browne is an actor in Seven Slaves Against the World."</data>
+      <data key="d2">e3b4f43f98b5fda0de5716a11530a021</data>
+    </node>
+    <node id="&quot;GORDON MITCHELL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gordon Mitchell is an actor in Seven Slaves Against the World."</data>
+      <data key="d2">e3b4f43f98b5fda0de5716a11530a021</data>
+    </node>
+    <node id="&quot;ARNALDO FABRIZIO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Arnaldo Fabrizio is an actor in Seven Slaves Against the World."</data>
+      <data key="d2">e3b4f43f98b5fda0de5716a11530a021</data>
+    </node>
+    <node id="&quot;ITALY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Italy is the country where Seven Slaves Against the World was first released."</data>
+      <data key="d2">e3b4f43f98b5fda0de5716a11530a021</data>
+    </node>
+    <node id="&quot;NEW YORK CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New York City is the location where Seven Slaves Against the World premiered in the United States."
+"New York City is the location where the film was shot."
+</data>
+      <data key="d2">bd93af344875de7c61836dcebf4d96e8,c206db7147590f4a1cf5de013282a385,e3b4f43f98b5fda0de5716a11530a021</data>
+    </node>
+    <node id="&quot;SEVEN SLAVES AGAINST THE WORLD&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e3b4f43f98b5fda0de5716a11530a021</data>
+    </node>
+    <node id="&quot;WINGNUT FILMS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"WingNut Films is a production company involved in the making of the Lord of the Rings film series."</data>
+      <data key="d2">db2a5caea527eb2e89b275715e46e026</data>
+    </node>
+    <node id="&quot;THE SAUL ZAENTZ COMPANY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Saul Zaentz Company is a production company involved in the making of the Lord of the Rings film series."</data>
+      <data key="d2">db2a5caea527eb2e89b275715e46e026</data>
+    </node>
+    <node id="&quot;NEW LINE CINEMA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"New Line Cinema is the distributor of the Lord of the Rings film series."</data>
+      <data key="d2">db2a5caea527eb2e89b275715e46e026</data>
+    </node>
+    <node id="&quot;THE TWO TOWERS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Two Towers is a film in the Lord of the Rings series, released in 2002."</data>
+      <data key="d2">db2a5caea527eb2e89b275715e46e026</data>
+    </node>
+    <node id="&quot;THE RETURN OF THE KING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Return of the King is a film in the Lord of the Rings series, released in 2003."</data>
+      <data key="d2">db2a5caea527eb2e89b275715e46e026</data>
+    </node>
+    <node id="&quot;VITO CORNELIUS&quot;">
+      <data key="d0">"ROLE"</data>
+      <data key="d1">"Vito Cornelius is a character played by Ian Holm in The Fifth Element."</data>
+      <data key="d2">e2af249cc0625d9a44a16a8beb952e3e</data>
+    </node>
+    <node id="&quot;SIR WILLIAM WITHEY GULL&quot;">
+      <data key="d0">"ROLE"</data>
+      <data key="d1">"Sir William Withey Gull is a character played by Ian Holm in From Hell."</data>
+      <data key="d2">e2af249cc0625d9a44a16a8beb952e3e</data>
+    </node>
+    <node id="&quot;BILBO BAGGINS&quot;">
+      <data key="d0">"ROLE"</data>
+      <data key="d1">"Bilbo Baggins is a character played by Ian Holm in The Lord of the Rings and The Hobbit film trilogies."</data>
+      <data key="d2">e2af249cc0625d9a44a16a8beb952e3e</data>
+    </node>
+    <node id="&quot;FRODO BAGGINS&quot;">
+      <data key="d0">"ROLE"</data>
+      <data key="d1">"Frodo Baggins is a character played by Ian Holm in a 1981 BBC Radio adaptation of The Lord of the Rings."</data>
+      <data key="d2">e2af249cc0625d9a44a16a8beb952e3e</data>
+    </node>
+    <node id="&quot;THE FIFTH ELEMENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Fifth Element is a film featuring Ian Holm as Vito Cornelius."</data>
+      <data key="d2">e2af249cc0625d9a44a16a8beb952e3e</data>
+    </node>
+    <node id="&quot;FROM HELL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"From Hell is a film featuring Ian Holm as Sir William Withey Gull."</data>
+      <data key="d2">e2af249cc0625d9a44a16a8beb952e3e</data>
+    </node>
+    <node id="&quot;THE HOBBIT: AN UNEXPECTED JOURNEY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Hobbit: An Unexpected Journey is a film featuring Ian Holm as Bilbo Baggins."</data>
+      <data key="d2">e2af249cc0625d9a44a16a8beb952e3e</data>
+    </node>
+    <node id="&quot;THE HOBBIT: THE BATTLE OF THE FIVE ARMIES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Hobbit: The Battle of the Five Armies is a film featuring Ian Holm as Bilbo Baggins."</data>
+      <data key="d2">e2af249cc0625d9a44a16a8beb952e3e</data>
+    </node>
+    <node id="&quot;IAN HOLM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e2af249cc0625d9a44a16a8beb952e3e</data>
+    </node>
+    <node id="&quot;THE LORD OF THE RINGS FILM SERIES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Lord of the Rings film series is a trilogy of films that took eight years to complete, with simultaneous filming in New Zealand."</data>
+      <data key="d2">d07ddacb8e403a8ee41e1b4713aa5f32</data>
+    </node>
+    <node id="&quot;THE ACT PROHIBITING IMPORTATION OF SLAVES OF 1807&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">aeb9f1cdb6a35d48d5a5a0a1f496a2e7</data>
+    </node>
+    <node id="&quot;M&#256;ORI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"M&#257;ori refers to the indigenous Polynesian people of New Zealand, who developed a distinct culture centred on kinship links and land."</data>
+      <data key="d2">833ccf75498e8182321969416937007e</data>
+    </node>
+    <node id="&quot;ABEL TASMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Abel Tasman was a Dutch navigator who sighted New Zealand in 1642, becoming the first European explorer to do so."</data>
+      <data key="d2">833ccf75498e8182321969416937007e</data>
+    </node>
+    <node id="&quot;CAPTAIN JAMES COOK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Captain James Cook was a British explorer who circumnavigated and mapped New Zealand on his three voyages, starting in 1769."</data>
+      <data key="d2">833ccf75498e8182321969416937007e</data>
+    </node>
+    <node id="&quot;BRITISH CROWN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The British Crown refers to the monarchical institution of the United Kingdom, which signed the Treaty of Waitangi with M&#257;ori chiefs in 1840."</data>
+      <data key="d2">833ccf75498e8182321969416937007e</data>
+    </node>
+    <node id="&quot;TREATY OF WAITANGI&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Treaty of Waitangi was a significant agreement signed in 1840 between the British Crown and M&#257;ori chiefs, bringing New Zealand into the British Empire."</data>
+      <data key="d2">833ccf75498e8182321969416937007e</data>
+    </node>
+    <node id="&quot;ARWEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Arwen is the spouse of Aragorn II Elessar Telcontar."</data>
+      <data key="d2">32bccd6491ad8c0ed6ceb61b29a2bef8</data>
+    </node>
+    <node id="&quot;ARATHORN II&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Arathorn II is the father of Aragorn II Elessar Telcontar."</data>
+      <data key="d2">32bccd6491ad8c0ed6ceb61b29a2bef8</data>
+    </node>
+    <node id="&quot;GILRAEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gilraen is the mother of Aragorn II Elessar Telcontar."</data>
+      <data key="d2">32bccd6491ad8c0ed6ceb61b29a2bef8</data>
+    </node>
+    <node id="&quot;ISILDUR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Isildur is an ancestor of Aragorn II Elessar Telcontar."</data>
+      <data key="d2">32bccd6491ad8c0ed6ceb61b29a2bef8</data>
+    </node>
+    <node id="&quot;AN&#193;RION&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"An&#225;rion is an ancestor of Aragorn II Elessar Telcontar."</data>
+      <data key="d2">32bccd6491ad8c0ed6ceb61b29a2bef8</data>
+    </node>
+    <node id="&quot;ELENDIL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Elendil is an ancestor of Aragorn II Elessar Telcontar."</data>
+      <data key="d2">32bccd6491ad8c0ed6ceb61b29a2bef8</data>
+    </node>
+    <node id="&quot;ELROS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Elros is an ancestor of Aragorn II Elessar Telcontar."</data>
+      <data key="d2">32bccd6491ad8c0ed6ceb61b29a2bef8</data>
+    </node>
+    <node id="&quot;ELDARION&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Eldarion is the son of Aragorn II Elessar Telcontar and Arwen."</data>
+      <data key="d2">32bccd6491ad8c0ed6ceb61b29a2bef8</data>
+    </node>
+    <node id="&quot;REUNITED KINGDOM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Reunited Kingdom is a kingdom ruled by Aragorn II Elessar Telcontar."</data>
+      <data key="d2">32bccd6491ad8c0ed6ceb61b29a2bef8</data>
+    </node>
+    <node id="&quot;D&#218;NEDAIN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The D&#250;nedain are a group of Men in Middle-earth, and Aragorn II Elessar Telcontar is part of the House of Isildur."</data>
+      <data key="d2">32bccd6491ad8c0ed6ceb61b29a2bef8</data>
+    </node>
+    <node id="&quot;HOUSE OF ISILDUR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The House of Isildur is a noble house in Middle-earth, and Aragorn II Elessar Telcontar is its member."</data>
+      <data key="d2">32bccd6491ad8c0ed6ceb61b29a2bef8</data>
+    </node>
+    <node id="&quot;ARAGORN II ELESSAR TELCONTAR&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">32bccd6491ad8c0ed6ceb61b29a2bef8</data>
+    </node>
+    <node id="&quot;CHESAPEAKE BAY COLONY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Chesapeake Bay Colony was a colonial settlement that faced a critical labor shortage, leading to the importation of Africans as laborers and slaves."</data>
+      <data key="d2">c6bd3d5a1043472686a6d960b5385753</data>
+    </node>
+    <node id="&quot;DUTCH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Dutch were involved in importing African slaves into New York and other northern ports."
+"The Dutch are an organization that imported African slaves as laborers to New York City and colony."</data>
+      <data key="d2">bd93af344875de7c61836dcebf4d96e8,c6bd3d5a1043472686a6d960b5385753</data>
+    </node>
+    <node id="&quot;ENGLISH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The English later took over the importation of African slaves from the Dutch, contributing to the growth of slavery in North America."</data>
+      <data key="d2">c6bd3d5a1043472686a6d960b5385753</data>
+    </node>
+    <node id="&quot;NORTH AMERICA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c6bd3d5a1043472686a6d960b5385753</data>
+    </node>
+    <node id="&quot;AFRICANS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c6bd3d5a1043472686a6d960b5385753</data>
+    </node>
+    <node id="&quot;NEW YORK&quot;">
+      <data key="d0" />
+      <data key="d1">
+</data>
+      <data key="d2">8731ff0710a8dffd8fe0b3a0cc5c6a61,c6bd3d5a1043472686a6d960b5385753</data>
+    </node>
+    <node id="&quot;CHARLESTON, SOUTH CAROLINA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Charleston, South Carolina is a geographic location mentioned as having more households holding slaves than New York by 1730."
+"Charleston, South Carolina is a location with the highest population of slaves."</data>
+      <data key="d2">8731ff0710a8dffd8fe0b3a0cc5c6a61,bd93af344875de7c61836dcebf4d96e8</data>
+    </node>
+    <node id="&quot;AFRICAN BURYING GROUND&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"African Burying Ground is a historic burial site in New York where tens of thousands of Africans were buried during the colonial years."</data>
+      <data key="d2">8731ff0710a8dffd8fe0b3a0cc5c6a61</data>
+    </node>
+    <node id="&quot;FOLEY SQUARE&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"Foley Square is a location in New York where a new federal courthouse was being constructed in the 1990s, leading to the discovery of the African Burying Ground."</data>
+      <data key="d2">8731ff0710a8dffd8fe0b3a0cc5c6a61</data>
+    </node>
+    <node id="&quot;BRITISH RULE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"British rule refers to the period of time when New York was under British control, specifically in the early 1700s."</data>
+      <data key="d2">8731ff0710a8dffd8fe0b3a0cc5c6a61</data>
+    </node>
+    <node id="&quot;ACE BOOKS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ace Books is a publisher that helped popularize The Lord of the Rings in the United States through paperback publications."</data>
+      <data key="d2">0a772607786eb84356134ae43595a997</data>
+    </node>
+    <node id="&quot;BALLANTINE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ballantine is a publisher that contributed to the popularity of The Lord of the Rings in the United States through paperback publications."</data>
+      <data key="d2">0a772607786eb84356134ae43595a997</data>
+    </node>
+    <node id="&quot;BBC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The BBC conducted a survey in Britain, known as the 'Big Read', which found The Lord of the Rings to be the nation's best-loved book."</data>
+      <data key="d2">0a772607786eb84356134ae43595a997</data>
+    </node>
+    <node id="&quot;AMAZON.COM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Amazon.com customers voted The Lord of the Rings as their favourite book of the millennium in a 1999 poll."</data>
+      <data key="d2">0a772607786eb84356134ae43595a997</data>
+    </node>
+    <node id="&quot;EDWARD MONTAGNE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Edward Montagne is the director of the film."</data>
+      <data key="d2">c206db7147590f4a1cf5de013282a385</data>
+    </node>
+    <node id="&quot;JOHN MILES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"John Miles is an actor who starred in the film, and it was his final film appearance."</data>
+      <data key="d2">c206db7147590f4a1cf5de013282a385</data>
+    </node>
+    <node id="&quot;PATRICIA BARRY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Patricia Barry (listed as Patricia White in the credits) is an actress who starred in the film."</data>
+      <data key="d2">c206db7147590f4a1cf5de013282a385</data>
+    </node>
+    <node id="&quot;WALTER KINSELLA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Walter Kinsella is an actor who starred in the film."</data>
+      <data key="d2">c206db7147590f4a1cf5de013282a385</data>
+    </node>
+    <node id="&quot;FRANK TWEDDELL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Frank Tweddell is an actor who starred in the film."</data>
+      <data key="d2">c206db7147590f4a1cf5de013282a385</data>
+    </node>
+    <node id="&quot;JACK LORD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jack Lord is an actor who appeared in the film and went on to star in the television series 'Hawaii Five-O'."</data>
+      <data key="d2">c206db7147590f4a1cf5de013282a385</data>
+    </node>
+    <node id="&quot;THE TATTOOED STRANGER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c206db7147590f4a1cf5de013282a385</data>
+    </node>
+    <node id="&quot;BRITISH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The British are an organization that imported African slaves as laborers to New York City and colony."</data>
+      <data key="d2">bd93af344875de7c61836dcebf4d96e8</data>
+    </node>
+    <node id="&quot;REVOLUTIONARY WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Revolutionary War is a historical event after which the state passed a law for the gradual abolition of slavery."</data>
+      <data key="d2">bd93af344875de7c61836dcebf4d96e8</data>
+    </node>
+    <node id="&quot;GRADUAL ABOLITION OF SLAVERY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">bd93af344875de7c61836dcebf4d96e8</data>
+    </node>
+    <edge source="&quot;J. R. R. TOLKIEN&quot;" target="&quot;GOLLUM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gollum is a character created by J. R. R. Tolkien in his fantasy novels."</data>
+      <data key="d5">62596836ad4003f72e3663d66b9d052b</data>
+    </edge>
+    <edge source="&quot;J. R. R. TOLKIEN&quot;" target="&quot;THE LORD OF THE RINGS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"J. R. R. Tolkien wrote the novel 'The Lord of the Rings', which inspired the film 'The Lord of the G-Strings: The Femaleship of the String'"</data>
+      <data key="d5">57b876b59be57838bfea24a190482103</data>
+    </edge>
+    <edge source="&quot;J. R. R. TOLKIEN&quot;" target="&quot;D&#201;AGOL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"D&#233;agol is a character created by J. R. R. Tolkien in his legendarium."</data>
+      <data key="d5">5b8ad6ef1bbb29aef3ef8249047e4771</data>
+    </edge>
+    <edge source="&quot;SM&#201;AGOL&quot;" target="&quot;GOLLUM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sm&#233;agol is the original name of Gollum, indicating a transformation or corruption."</data>
+      <data key="d5">62596836ad4003f72e3663d66b9d052b</data>
+    </edge>
+    <edge source="&quot;THE HOBBIT&quot;" target="&quot;GOLLUM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gollum was introduced in The Hobbit, a fantasy novel by J. R. R. Tolkien."</data>
+      <data key="d5">62596836ad4003f72e3663d66b9d052b</data>
+    </edge>
+    <edge source="&quot;THE HOBBIT&quot;" target="&quot;THE ONE RING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The One Ring first appears as a magic ring of invisibility in The Hobbit."</data>
+      <data key="d5">5efd6d982a4baa747ced6d67b6fee4ca</data>
+    </edge>
+    <edge source="&quot;THE HOBBIT&quot;" target="&quot;HUGO WALLACE WEAVING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hugo Wallace Weaving played the role of Elrond in The Hobbit."</data>
+      <data key="d5">a1a3ec4398bf6325e2b829f949337468</data>
+    </edge>
+    <edge source="&quot;THE LORD OF THE RINGS&quot;" target="&quot;MIDDLE-EARTH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The story of The Lord of the Rings takes place in the fictional world of Middle-earth."</data>
+      <data key="d5">5efd6d982a4baa747ced6d67b6fee4ca</data>
+    </edge>
+    <edge source="&quot;THE LORD OF THE RINGS&quot;" target="&quot;HUGO WALLACE WEAVING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hugo Wallace Weaving played the role of Elrond in The Lord of the Rings."</data>
+      <data key="d5">a1a3ec4398bf6325e2b829f949337468</data>
+    </edge>
+    <edge source="&quot;THE LORD OF THE RINGS&quot;" target="&quot;THE FELLOWSHIP OF THE RING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Fellowship of the Ring is a part of The Lord of the Rings novel series."</data>
+      <data key="d5">5b8ad6ef1bbb29aef3ef8249047e4771</data>
+    </edge>
+    <edge source="&quot;THE LORD OF THE RINGS&quot;" target="&quot;ACE BOOKS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The publication of Ace Books' paperbacks helped popularize The Lord of the Rings in the United States."</data>
+      <data key="d5">0a772607786eb84356134ae43595a997</data>
+    </edge>
+    <edge source="&quot;THE LORD OF THE RINGS&quot;" target="&quot;BALLANTINE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The publication of Ballantine's paperbacks contributed to the popularity of The Lord of the Rings in the United States."</data>
+      <data key="d5">0a772607786eb84356134ae43595a997</data>
+    </edge>
+    <edge source="&quot;THE LORD OF THE RINGS&quot;" target="&quot;BBC&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The BBC's 'Big Read' survey found The Lord of the Rings to be Britain's best-loved book."</data>
+      <data key="d5">0a772607786eb84356134ae43595a997</data>
+    </edge>
+    <edge source="&quot;THE LORD OF THE RINGS&quot;" target="&quot;AMAZON.COM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Amazon.com customers voted The Lord of the Rings as their favourite book of the millennium."</data>
+      <data key="d5">0a772607786eb84356134ae43595a997</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."</data>
+      <data key="d5">0a772607786eb84356134ae43595a997,17b3c7e489436079ee9e0833748a6cb4,1b6cf1a233cac1b2ca15a663d1e7defc,32bccd6491ad8c0ed6ceb61b29a2bef8,57b876b59be57838bfea24a190482103,5b8ad6ef1bbb29aef3ef8249047e4771,5efd6d982a4baa747ced6d67b6fee4ca,62596836ad4003f72e3663d66b9d052b,731a297e71077d0fbe40180e145fdce5,833ccf75498e8182321969416937007e,8731ff0710a8dffd8fe0b3a0cc5c6a61,a1a3ec4398bf6325e2b829f949337468,aeb9f1cdb6a35d48d5a5a0a1f496a2e7,bd93af344875de7c61836dcebf4d96e8,c206db7147590f4a1cf5de013282a385,c6bd3d5a1043472686a6d960b5385753,d07ddacb8e403a8ee41e1b4713aa5f32,db2a5caea527eb2e89b275715e46e026,e2af249cc0625d9a44a16a8beb952e3e,e3b4f43f98b5fda0de5716a11530a021</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."</data>
+      <data key="d5">0a772607786eb84356134ae43595a997,17b3c7e489436079ee9e0833748a6cb4,1b6cf1a233cac1b2ca15a663d1e7defc,32bccd6491ad8c0ed6ceb61b29a2bef8,57b876b59be57838bfea24a190482103,5b8ad6ef1bbb29aef3ef8249047e4771,5efd6d982a4baa747ced6d67b6fee4ca,62596836ad4003f72e3663d66b9d052b,731a297e71077d0fbe40180e145fdce5,833ccf75498e8182321969416937007e,8731ff0710a8dffd8fe0b3a0cc5c6a61,a1a3ec4398bf6325e2b829f949337468,aeb9f1cdb6a35d48d5a5a0a1f496a2e7,bd93af344875de7c61836dcebf4d96e8,c206db7147590f4a1cf5de013282a385,c6bd3d5a1043472686a6d960b5385753,d07ddacb8e403a8ee41e1b4713aa5f32,db2a5caea527eb2e89b275715e46e026,e2af249cc0625d9a44a16a8beb952e3e,e3b4f43f98b5fda0de5716a11530a021</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."</data>
+      <data key="d5">0a772607786eb84356134ae43595a997,17b3c7e489436079ee9e0833748a6cb4,1b6cf1a233cac1b2ca15a663d1e7defc,32bccd6491ad8c0ed6ceb61b29a2bef8,57b876b59be57838bfea24a190482103,5b8ad6ef1bbb29aef3ef8249047e4771,5efd6d982a4baa747ced6d67b6fee4ca,62596836ad4003f72e3663d66b9d052b,731a297e71077d0fbe40180e145fdce5,833ccf75498e8182321969416937007e,8731ff0710a8dffd8fe0b3a0cc5c6a61,a1a3ec4398bf6325e2b829f949337468,aeb9f1cdb6a35d48d5a5a0a1f496a2e7,bd93af344875de7c61836dcebf4d96e8,c206db7147590f4a1cf5de013282a385,c6bd3d5a1043472686a6d960b5385753,d07ddacb8e403a8ee41e1b4713aa5f32,db2a5caea527eb2e89b275715e46e026,e2af249cc0625d9a44a16a8beb952e3e,e3b4f43f98b5fda0de5716a11530a021</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."</data>
+      <data key="d5">0a772607786eb84356134ae43595a997,17b3c7e489436079ee9e0833748a6cb4,1b6cf1a233cac1b2ca15a663d1e7defc,32bccd6491ad8c0ed6ceb61b29a2bef8,57b876b59be57838bfea24a190482103,5b8ad6ef1bbb29aef3ef8249047e4771,5efd6d982a4baa747ced6d67b6fee4ca,62596836ad4003f72e3663d66b9d052b,731a297e71077d0fbe40180e145fdce5,833ccf75498e8182321969416937007e,8731ff0710a8dffd8fe0b3a0cc5c6a61,a1a3ec4398bf6325e2b829f949337468,aeb9f1cdb6a35d48d5a5a0a1f496a2e7,bd93af344875de7c61836dcebf4d96e8,c206db7147590f4a1cf5de013282a385,c6bd3d5a1043472686a6d960b5385753,d07ddacb8e403a8ee41e1b4713aa5f32,db2a5caea527eb2e89b275715e46e026,e2af249cc0625d9a44a16a8beb952e3e,e3b4f43f98b5fda0de5716a11530a021</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."</data>
+      <data key="d5">0a772607786eb84356134ae43595a997,17b3c7e489436079ee9e0833748a6cb4,1b6cf1a233cac1b2ca15a663d1e7defc,32bccd6491ad8c0ed6ceb61b29a2bef8,57b876b59be57838bfea24a190482103,5b8ad6ef1bbb29aef3ef8249047e4771,5efd6d982a4baa747ced6d67b6fee4ca,62596836ad4003f72e3663d66b9d052b,731a297e71077d0fbe40180e145fdce5,833ccf75498e8182321969416937007e,8731ff0710a8dffd8fe0b3a0cc5c6a61,a1a3ec4398bf6325e2b829f949337468,aeb9f1cdb6a35d48d5a5a0a1f496a2e7,bd93af344875de7c61836dcebf4d96e8,c206db7147590f4a1cf5de013282a385,c6bd3d5a1043472686a6d960b5385753,d07ddacb8e403a8ee41e1b4713aa5f32,db2a5caea527eb2e89b275715e46e026,e2af249cc0625d9a44a16a8beb952e3e,e3b4f43f98b5fda0de5716a11530a021</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."</data>
+      <data key="d5">0a772607786eb84356134ae43595a997,17b3c7e489436079ee9e0833748a6cb4,1b6cf1a233cac1b2ca15a663d1e7defc,32bccd6491ad8c0ed6ceb61b29a2bef8,57b876b59be57838bfea24a190482103,5b8ad6ef1bbb29aef3ef8249047e4771,5efd6d982a4baa747ced6d67b6fee4ca,62596836ad4003f72e3663d66b9d052b,731a297e71077d0fbe40180e145fdce5,833ccf75498e8182321969416937007e,8731ff0710a8dffd8fe0b3a0cc5c6a61,a1a3ec4398bf6325e2b829f949337468,aeb9f1cdb6a35d48d5a5a0a1f496a2e7,bd93af344875de7c61836dcebf4d96e8,c206db7147590f4a1cf5de013282a385,c6bd3d5a1043472686a6d960b5385753,d07ddacb8e403a8ee41e1b4713aa5f32,db2a5caea527eb2e89b275715e46e026,e2af249cc0625d9a44a16a8beb952e3e,e3b4f43f98b5fda0de5716a11530a021</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;THE ACT PROHIBITING IMPORTATION OF SLAVES OF 1807&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Act Prohibiting Importation of Slaves of 1807 is a federal law of the United States."</data>
+      <data key="d5">aeb9f1cdb6a35d48d5a5a0a1f496a2e7</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;NORTH AMERICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The United States is a country located within the geographic region of North America, where interracial relationships have a long history."</data>
+      <data key="d5">c6bd3d5a1043472686a6d960b5385753</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">0a772607786eb84356134ae43595a997,17b3c7e489436079ee9e0833748a6cb4,1b6cf1a233cac1b2ca15a663d1e7defc,32bccd6491ad8c0ed6ceb61b29a2bef8,57b876b59be57838bfea24a190482103,5b8ad6ef1bbb29aef3ef8249047e4771,5efd6d982a4baa747ced6d67b6fee4ca,62596836ad4003f72e3663d66b9d052b,731a297e71077d0fbe40180e145fdce5,833ccf75498e8182321969416937007e,8731ff0710a8dffd8fe0b3a0cc5c6a61,a1a3ec4398bf6325e2b829f949337468,aeb9f1cdb6a35d48d5a5a0a1f496a2e7,bd93af344875de7c61836dcebf4d96e8,c206db7147590f4a1cf5de013282a385,c6bd3d5a1043472686a6d960b5385753,d07ddacb8e403a8ee41e1b4713aa5f32,db2a5caea527eb2e89b275715e46e026,e2af249cc0625d9a44a16a8beb952e3e,e3b4f43f98b5fda0de5716a11530a021</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."</data>
+      <data key="d5">0a772607786eb84356134ae43595a997,17b3c7e489436079ee9e0833748a6cb4,1b6cf1a233cac1b2ca15a663d1e7defc,32bccd6491ad8c0ed6ceb61b29a2bef8,57b876b59be57838bfea24a190482103,5b8ad6ef1bbb29aef3ef8249047e4771,5efd6d982a4baa747ced6d67b6fee4ca,62596836ad4003f72e3663d66b9d052b,731a297e71077d0fbe40180e145fdce5,833ccf75498e8182321969416937007e,8731ff0710a8dffd8fe0b3a0cc5c6a61,a1a3ec4398bf6325e2b829f949337468,aeb9f1cdb6a35d48d5a5a0a1f496a2e7,bd93af344875de7c61836dcebf4d96e8,c206db7147590f4a1cf5de013282a385,c6bd3d5a1043472686a6d960b5385753,d07ddacb8e403a8ee41e1b4713aa5f32,db2a5caea527eb2e89b275715e46e026,e2af249cc0625d9a44a16a8beb952e3e,e3b4f43f98b5fda0de5716a11530a021</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">0a772607786eb84356134ae43595a997,17b3c7e489436079ee9e0833748a6cb4,1b6cf1a233cac1b2ca15a663d1e7defc,32bccd6491ad8c0ed6ceb61b29a2bef8,57b876b59be57838bfea24a190482103,5b8ad6ef1bbb29aef3ef8249047e4771,5efd6d982a4baa747ced6d67b6fee4ca,62596836ad4003f72e3663d66b9d052b,731a297e71077d0fbe40180e145fdce5,833ccf75498e8182321969416937007e,8731ff0710a8dffd8fe0b3a0cc5c6a61,a1a3ec4398bf6325e2b829f949337468,aeb9f1cdb6a35d48d5a5a0a1f496a2e7,bd93af344875de7c61836dcebf4d96e8,c206db7147590f4a1cf5de013282a385,c6bd3d5a1043472686a6d960b5385753,d07ddacb8e403a8ee41e1b4713aa5f32,db2a5caea527eb2e89b275715e46e026,e2af249cc0625d9a44a16a8beb952e3e,e3b4f43f98b5fda0de5716a11530a021</data>
+    </edge>
+    <edge source="&quot;ANNATAR&quot;" target="&quot;CELEBRIMBOR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Annatar, a disguise of Sauron, aided Celebrimbor and the Elven smiths of Eregion in making the Rings of Power."</data>
+      <data key="d5">1b6cf1a233cac1b2ca15a663d1e7defc</data>
+    </edge>
+    <edge source="&quot;EREGION&quot;" target="&quot;SAURON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sauron, disguised as Annatar, was involved in the making of the Rings of Power in Eregion."</data>
+      <data key="d5">1b6cf1a233cac1b2ca15a663d1e7defc</data>
+    </edge>
+    <edge source="&quot;MOUNT DOOM&quot;" target="&quot;THE ONE RING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The One Ring was forged by Sauron in the fires of Mount Doom."</data>
+      <data key="d5">1b6cf1a233cac1b2ca15a663d1e7defc</data>
+    </edge>
+    <edge source="&quot;THE ONE RING&quot;" target="&quot;SAURON&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Sauron forged the One Ring to gain dominion over Middle-earth."
+"Sauron created the One Ring as part of his design to win domination over Middle-earth."</data>
+      <data key="d5">1b6cf1a233cac1b2ca15a663d1e7defc,5efd6d982a4baa747ced6d67b6fee4ca</data>
+    </edge>
+    <edge source="&quot;THE ONE RING&quot;" target="&quot;J.R.R. TOLKIEN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"J.R.R. Tolkien created the story and character of the One Ring in his books."</data>
+      <data key="d5">5efd6d982a4baa747ced6d67b6fee4ca</data>
+    </edge>
+    <edge source="&quot;PETER JACKSON&quot;" target="&quot;SARAH MCLEOD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sarah McLeod worked with Peter Jackson on The Lord of the Rings films."</data>
+      <data key="d5">17b3c7e489436079ee9e0833748a6cb4</data>
+    </edge>
+    <edge source="&quot;PETER JACKSON&quot;" target="&quot;WINGNUT FILMS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Peter Jackson worked with WingNut Films to produce the Lord of the Rings film series."</data>
+      <data key="d5">db2a5caea527eb2e89b275715e46e026</data>
+    </edge>
+    <edge source="&quot;PETER JACKSON&quot;" target="&quot;NEW ZEALAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Peter Jackson is from New Zealand and chose to film the entire project in his native country."</data>
+      <data key="d5">d07ddacb8e403a8ee41e1b4713aa5f32</data>
+    </edge>
+    <edge source="&quot;PETER JACKSON&quot;" target="&quot;THE LORD OF THE RINGS FILM SERIES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Peter Jackson directed The Lord of the Rings film series, a massive and ambitious project."</data>
+      <data key="d5">d07ddacb8e403a8ee41e1b4713aa5f32</data>
+    </edge>
+    <edge source="&quot;NEW ZEALAND&quot;" target="&quot;SARAH MCLEOD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sarah McLeod is a New Zealand actress, born and based in the country."</data>
+      <data key="d5">17b3c7e489436079ee9e0833748a6cb4</data>
+    </edge>
+    <edge source="&quot;NEW ZEALAND&quot;" target="&quot;WINGNUT FILMS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"WingNut Films, a production company involved in the making of the Lord of the Rings film series, is based in New Zealand."</data>
+      <data key="d5">db2a5caea527eb2e89b275715e46e026</data>
+    </edge>
+    <edge source="&quot;NEW ZEALAND&quot;" target="&quot;M&#256;ORI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"M&#257;ori are the indigenous people of New Zealand, with a distinct culture and history."</data>
+      <data key="d5">833ccf75498e8182321969416937007e</data>
+    </edge>
+    <edge source="&quot;NEW ZEALAND&quot;" target="&quot;ABEL TASMAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Abel Tasman was the first European explorer to sight New Zealand in 1642."</data>
+      <data key="d5">833ccf75498e8182321969416937007e</data>
+    </edge>
+    <edge source="&quot;NEW ZEALAND&quot;" target="&quot;CAPTAIN JAMES COOK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Captain James Cook circumnavigated and mapped New Zealand on his three voyages, starting in 1769."</data>
+      <data key="d5">833ccf75498e8182321969416937007e</data>
+    </edge>
+    <edge source="&quot;THE LORD OF THE RINGS: THE FELLOWSHIP OF THE RING&quot;" target="&quot;SARAH MCLEOD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sarah McLeod played Rosie Cotton in The Lord of the Rings: The Fellowship of the Ring."</data>
+      <data key="d5">17b3c7e489436079ee9e0833748a6cb4</data>
+    </edge>
+    <edge source="&quot;THE LORD OF THE RINGS: THE FELLOWSHIP OF THE RING&quot;" target="&quot;BRET MCKENZIE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bret McKenzie appeared as an extra in The Lord of the Rings: The Fellowship of the Ring."</data>
+      <data key="d5">731a297e71077d0fbe40180e145fdce5</data>
+    </edge>
+    <edge source="&quot;THE LORD OF THE RINGS: THE FELLOWSHIP OF THE RING&quot;" target="&quot;FRODO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Frodo is a main character in The Lord of the Rings: The Fellowship of the Ring."</data>
+      <data key="d5">731a297e71077d0fbe40180e145fdce5</data>
+    </edge>
+    <edge source="&quot;SHORTLAND STREET&quot;" target="&quot;SARAH MCLEOD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sarah McLeod co-starred as Cindy Watson in Shortland Street soap opera."</data>
+      <data key="d5">17b3c7e489436079ee9e0833748a6cb4</data>
+    </edge>
+    <edge source="&quot;J.R.R. TOLKIEN&quot;" target="&quot;THE FELLOWSHIP OF THE RING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Fellowship of the Ring is based on J.R.R. Tolkien's novel The Lord of the Rings."</data>
+      <data key="d5">db2a5caea527eb2e89b275715e46e026</data>
+    </edge>
+    <edge source="&quot;THE MATRIX TRILOGY&quot;" target="&quot;HUGO WALLACE WEAVING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hugo Wallace Weaving played the role of Agent Smith in The Matrix trilogy."</data>
+      <data key="d5">a1a3ec4398bf6325e2b829f949337468</data>
+    </edge>
+    <edge source="&quot;V FOR VENDETTA&quot;" target="&quot;HUGO WALLACE WEAVING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hugo Wallace Weaving played the role of V in V for Vendetta."</data>
+      <data key="d5">a1a3ec4398bf6325e2b829f949337468</data>
+    </edge>
+    <edge source="&quot;CAPTAIN AMERICA: THE FIRST AVENGER&quot;" target="&quot;HUGO WALLACE WEAVING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hugo Wallace Weaving played the role of Red Skull in Captain America: The First Avenger."</data>
+      <data key="d5">a1a3ec4398bf6325e2b829f949337468</data>
+    </edge>
+    <edge source="&quot;HACKSAW RIDGE&quot;" target="&quot;HUGO WALLACE WEAVING&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hugo Wallace Weaving played the role of Tom Doss in Hacksaw Ridge."</data>
+      <data key="d5">a1a3ec4398bf6325e2b829f949337468</data>
+    </edge>
+    <edge source="&quot;FLIGHT OF THE CONCHORDS&quot;" target="&quot;BRET MCKENZIE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bret McKenzie is half of the musical comedy duo Flight of the Conchords."</data>
+      <data key="d5">731a297e71077d0fbe40180e145fdce5</data>
+    </edge>
+    <edge source="&quot;FIGWIT&quot;" target="&quot;IRIS HADAD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Iris Hadad dubbed the elf character Figwit and created a fan website for him."</data>
+      <data key="d5">731a297e71077d0fbe40180e145fdce5</data>
+    </edge>
+    <edge source="&quot;THE LORD OF THE G-STRINGS: THE FEMALESHIP OF THE STRING&quot;" target="&quot;TERRY M. WEST&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Terry M. West wrote and directed the film 'The Lord of the G-Strings: The Femaleship of the String'"</data>
+      <data key="d5">57b876b59be57838bfea24a190482103</data>
+    </edge>
+    <edge source="&quot;THE LORD OF THE G-STRINGS: THE FEMALESHIP OF THE STRING&quot;" target="&quot;AMERICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The film 'The Lord of the G-Strings: The Femaleship of the String' was produced in America"</data>
+      <data key="d5">57b876b59be57838bfea24a190482103</data>
+    </edge>
+    <edge source="&quot;MICHELE LUPO&quot;" target="&quot;SEVEN SLAVES AGAINST THE WORLD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Michele Lupo directed Seven Slaves Against the World."</data>
+      <data key="d5">e3b4f43f98b5fda0de5716a11530a021</data>
+    </edge>
+    <edge source="&quot;ELIO SCARDAMAGLIA&quot;" target="&quot;SEVEN SLAVES AGAINST THE WORLD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Elio Scardamaglia produced Seven Slaves Against the World."</data>
+      <data key="d5">e3b4f43f98b5fda0de5716a11530a021</data>
+    </edge>
+    <edge source="&quot;ROBERTO GIANVITI&quot;" target="&quot;SEVEN SLAVES AGAINST THE WORLD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Roberto Gianviti wrote Seven Slaves Against the World."</data>
+      <data key="d5">e3b4f43f98b5fda0de5716a11530a021</data>
+    </edge>
+    <edge source="&quot;ROGER BROWNE&quot;" target="&quot;SEVEN SLAVES AGAINST THE WORLD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Roger Browne acted in Seven Slaves Against the World."</data>
+      <data key="d5">e3b4f43f98b5fda0de5716a11530a021</data>
+    </edge>
+    <edge source="&quot;GORDON MITCHELL&quot;" target="&quot;SEVEN SLAVES AGAINST THE WORLD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gordon Mitchell acted in Seven Slaves Against the World."</data>
+      <data key="d5">e3b4f43f98b5fda0de5716a11530a021</data>
+    </edge>
+    <edge source="&quot;ARNALDO FABRIZIO&quot;" target="&quot;SEVEN SLAVES AGAINST THE WORLD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Arnaldo Fabrizio acted in Seven Slaves Against the World."</data>
+      <data key="d5">e3b4f43f98b5fda0de5716a11530a021</data>
+    </edge>
+    <edge source="&quot;ITALY&quot;" target="&quot;SEVEN SLAVES AGAINST THE WORLD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Seven Slaves Against the World was first released in Italy."</data>
+      <data key="d5">e3b4f43f98b5fda0de5716a11530a021</data>
+    </edge>
+    <edge source="&quot;NEW YORK CITY&quot;" target="&quot;SEVEN SLAVES AGAINST THE WORLD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Seven Slaves Against the World premiered in New York City."</data>
+      <data key="d5">e3b4f43f98b5fda0de5716a11530a021</data>
+    </edge>
+    <edge source="&quot;NEW YORK CITY&quot;" target="&quot;THE TATTOOED STRANGER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The film was shot on location in New York City."</data>
+      <data key="d5">c206db7147590f4a1cf5de013282a385</data>
+    </edge>
+    <edge source="&quot;NEW YORK CITY&quot;" target="&quot;DUTCH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"New York City was a location where the Dutch imported African slaves as laborers."</data>
+      <data key="d5">bd93af344875de7c61836dcebf4d96e8</data>
+    </edge>
+    <edge source="&quot;NEW YORK CITY&quot;" target="&quot;BRITISH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"New York City was a location where the British imported African slaves as laborers."</data>
+      <data key="d5">bd93af344875de7c61836dcebf4d96e8</data>
+    </edge>
+    <edge source="&quot;VITO CORNELIUS&quot;" target="&quot;IAN HOLM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ian Holm played the role of Vito Cornelius in The Fifth Element."</data>
+      <data key="d5">e2af249cc0625d9a44a16a8beb952e3e</data>
+    </edge>
+    <edge source="&quot;SIR WILLIAM WITHEY GULL&quot;" target="&quot;IAN HOLM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ian Holm played the role of Sir William Withey Gull in From Hell."</data>
+      <data key="d5">e2af249cc0625d9a44a16a8beb952e3e</data>
+    </edge>
+    <edge source="&quot;BILBO BAGGINS&quot;" target="&quot;IAN HOLM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ian Holm played the role of Bilbo Baggins in The Lord of the Rings and The Hobbit film trilogies."</data>
+      <data key="d5">e2af249cc0625d9a44a16a8beb952e3e</data>
+    </edge>
+    <edge source="&quot;FRODO BAGGINS&quot;" target="&quot;IAN HOLM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ian Holm played the role of Frodo Baggins in a 1981 BBC Radio adaptation of The Lord of the Rings."</data>
+      <data key="d5">e2af249cc0625d9a44a16a8beb952e3e</data>
+    </edge>
+    <edge source="&quot;BRITISH CROWN&quot;" target="&quot;TREATY OF WAITANGI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The British Crown signed the Treaty of Waitangi with M&#257;ori chiefs in 1840, bringing New Zealand into the British Empire."</data>
+      <data key="d5">833ccf75498e8182321969416937007e</data>
+    </edge>
+    <edge source="&quot;ARWEN&quot;" target="&quot;ARAGORN II ELESSAR TELCONTAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Aragorn II Elessar Telcontar is married to Arwen."</data>
+      <data key="d5">32bccd6491ad8c0ed6ceb61b29a2bef8</data>
+    </edge>
+    <edge source="&quot;REUNITED KINGDOM&quot;" target="&quot;ARAGORN II ELESSAR TELCONTAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Aragorn II Elessar Telcontar is the King of the Reunited Kingdom."</data>
+      <data key="d5">32bccd6491ad8c0ed6ceb61b29a2bef8</data>
+    </edge>
+    <edge source="&quot;D&#218;NEDAIN&quot;" target="&quot;ARAGORN II ELESSAR TELCONTAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Aragorn II Elessar Telcontar is part of the D&#250;nedain."</data>
+      <data key="d5">32bccd6491ad8c0ed6ceb61b29a2bef8</data>
+    </edge>
+    <edge source="&quot;HOUSE OF ISILDUR&quot;" target="&quot;ARAGORN II ELESSAR TELCONTAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Aragorn II Elessar Telcontar is a member of the House of Isildur."</data>
+      <data key="d5">32bccd6491ad8c0ed6ceb61b29a2bef8</data>
+    </edge>
+    <edge source="&quot;CHESAPEAKE BAY COLONY&quot;" target="&quot;AFRICANS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Chesapeake Bay Colony imported Africans as laborers and slaves to address their critical labor shortage."</data>
+      <data key="d5">c6bd3d5a1043472686a6d960b5385753</data>
+    </edge>
+    <edge source="&quot;DUTCH&quot;" target="&quot;NEW YORK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Dutch were involved in importing African slaves into New York and other northern ports, contributing to the growth of slavery."</data>
+      <data key="d5">c6bd3d5a1043472686a6d960b5385753</data>
+    </edge>
+    <edge source="&quot;NEW YORK&quot;" target="&quot;CHARLESTON, SOUTH CAROLINA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Charleston, South Carolina is compared to New York in terms of the number of households holding slaves by 1730."</data>
+      <data key="d5">8731ff0710a8dffd8fe0b3a0cc5c6a61</data>
+    </edge>
+    <edge source="&quot;NEW YORK&quot;" target="&quot;AFRICAN BURYING GROUND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The African Burying Ground is located in New York and was discovered during construction of a new federal courthouse."</data>
+      <data key="d5">8731ff0710a8dffd8fe0b3a0cc5c6a61</data>
+    </edge>
+    <edge source="&quot;NEW YORK&quot;" target="&quot;BRITISH RULE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"New York grew in importance as a trading port during the period of British rule."</data>
+      <data key="d5">8731ff0710a8dffd8fe0b3a0cc5c6a61</data>
+    </edge>
+    <edge source="&quot;EDWARD MONTAGNE&quot;" target="&quot;THE TATTOOED STRANGER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Edward Montagne directed the film."</data>
+      <data key="d5">c206db7147590f4a1cf5de013282a385</data>
+    </edge>
+    <edge source="&quot;JOHN MILES&quot;" target="&quot;THE TATTOOED STRANGER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"John Miles starred in the film."</data>
+      <data key="d5">c206db7147590f4a1cf5de013282a385</data>
+    </edge>
+    <edge source="&quot;PATRICIA BARRY&quot;" target="&quot;THE TATTOOED STRANGER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Patricia Barry starred in the film."</data>
+      <data key="d5">c206db7147590f4a1cf5de013282a385</data>
+    </edge>
+    <edge source="&quot;WALTER KINSELLA&quot;" target="&quot;THE TATTOOED STRANGER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Walter Kinsella starred in the film."</data>
+      <data key="d5">c206db7147590f4a1cf5de013282a385</data>
+    </edge>
+    <edge source="&quot;FRANK TWEDDELL&quot;" target="&quot;THE TATTOOED STRANGER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Frank Tweddell starred in the film."</data>
+      <data key="d5">c206db7147590f4a1cf5de013282a385</data>
+    </edge>
+    <edge source="&quot;JACK LORD&quot;" target="&quot;THE TATTOOED STRANGER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jack Lord appeared in the film."</data>
+      <data key="d5">c206db7147590f4a1cf5de013282a385</data>
+    </edge>
+    <edge source="&quot;REVOLUTIONARY WAR&quot;" target="&quot;GRADUAL ABOLITION OF SLAVERY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Revolutionary War led to the passage of a law for the gradual abolition of slavery in New York."</data>
+      <data key="d5">bd93af344875de7c61836dcebf4d96e8</data>
+    </edge>
+  </graph>
+</graphml>

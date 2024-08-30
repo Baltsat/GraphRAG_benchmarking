@@ -1,0 +1,1426 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="level" attr.type="long" />
+  <key id="d6" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d5" for="node" attr.name="id" attr.type="string" />
+  <key id="d4" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d3" for="node" attr.name="degree" attr.type="long" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;ARMENIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is a comprehensive summary:
+
+Armenia is one of the countries that comprised the Transcaucasian SFSR.</data>
+      <data key="d2">3f3b918c0cdaa2cf8e3c9eb5610955df,c530250146078af95a078075d8d6de89</data>
+      <data key="d3">5</data>
+      <data key="d4">0</data>
+      <data key="d5">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;AZERBAIJAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Azerbaijan is one of the countries that comprised the Transcaucasian SFSR."</data>
+      <data key="d2">3f3b918c0cdaa2cf8e3c9eb5610955df</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;GEORGIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is a comprehensive summary:
+
+Georgia is one of the countries that comprised the Transcaucasian SFSR.</data>
+      <data key="d2">3f3b918c0cdaa2cf8e3c9eb5610955df,b8dfea88630925e9ab8e91f721951675</data>
+      <data key="d3">3</data>
+      <data key="d4">2</data>
+      <data key="d5">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;RUSSIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Russia is a geographic location that played a crucial role in the dissolution of the USSR, where the Russian Soviet Federative Socialist Republic (SFSR) was situated. Additionally, it is separated from the Transcaucasian Republics by the Caucasus Mountains.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">3f3b918c0cdaa2cf8e3c9eb5610955df,496433093036655853deeda70b45a0a4,c949bdc669605759e0b25262bd1dd6b2,ed6dada1429408f6692406c77aecab5e</data>
+      <data key="d3">4</data>
+      <data key="d4">3</data>
+      <data key="d5">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;SOVIET UNION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Soviet Union was a country that existed from 1922 to 1991, comprising several republics including Armenia, the TSFSR, and the Georgian SSR. It was formed in 1922 when Armenia became part of the Soviet Union, and it remained so until declaring independence in 1991. The Soviet Union was a union of republics that faced dissolution in the post-Cold War era, eventually leading to its collapse. During its existence, the Soviet Union was involved in several significant events, including the Molotov-Ribbentrop Pact, a neutrality agreement with Nazi Germany, and the Warsaw Pact, which it played a key role in creating and maintaining. In an attempt to restructure the state, Gorbachev sought to transform the Soviet Union into a federation of independent republics. However, this effort ultimately failed, leading to the disintegration of the region and the emergence of the Russian Federation and other independent countries. The Soviet Union's collapse was also marked by the "War of Laws" with the Russian Federation and other constituent republics.</data>
+      <data key="d2">3f3b918c0cdaa2cf8e3c9eb5610955df,47f2ee562a72884aea4ffb5ebdf59c66,59768f702f58d277d739938866e6bcd9,6fa040b4d8cd2f23163367d48a74de17,70f61c1974e95a98e4db6dd9f0a45dbd,95d4f143f4378ed2790157fbf2945fc5,b045bc55aef2540584aee4f00f554f14,b8dfea88630925e9ab8e91f721951675,c530250146078af95a078075d8d6de89,f3c295da490f71292b200c9096cff494</data>
+      <data key="d3">8</data>
+      <data key="d4">4</data>
+      <data key="d5">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;TRANSCAUCASIAN SFSR&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+The Transcaucasian SFSR was a part of the Soviet Union that Armenia belonged to from 1922 to 1936.</data>
+      <data key="d2">3f3b918c0cdaa2cf8e3c9eb5610955df,c530250146078af95a078075d8d6de89</data>
+      <data key="d3">4</data>
+      <data key="d4">5</data>
+      <data key="d5">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;CAUCASUS MOUNTAINS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3f3b918c0cdaa2cf8e3c9eb5610955df</data>
+      <data key="d3">1</data>
+      <data key="d4">6</data>
+      <data key="d5">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">3f3b918c0cdaa2cf8e3c9eb5610955df,47f2ee562a72884aea4ffb5ebdf59c66,496433093036655853deeda70b45a0a4,59768f702f58d277d739938866e6bcd9,6fa040b4d8cd2f23163367d48a74de17,70f61c1974e95a98e4db6dd9f0a45dbd,79159412f9a30473b568dd34aebc329a,95d4f143f4378ed2790157fbf2945fc5,9bb07b005588065c9b0574c491231579,a2787a7cdf858075907e62360d993842,b045bc55aef2540584aee4f00f554f14,b1dd603f76a00774a595bf06b8b59bcb,b8dfea88630925e9ab8e91f721951675,c530250146078af95a078075d8d6de89,c949bdc669605759e0b25262bd1dd6b2,dba243c2c21f75c38ef36837903bdf23,ec22fc7d0931bab25bd5d1d071c40335,ed6dada1429408f6692406c77aecab5e,f3c295da490f71292b200c9096cff494,ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d3">2</data>
+      <data key="d4">7</data>
+      <data key="d5">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">3f3b918c0cdaa2cf8e3c9eb5610955df,47f2ee562a72884aea4ffb5ebdf59c66,496433093036655853deeda70b45a0a4,59768f702f58d277d739938866e6bcd9,6fa040b4d8cd2f23163367d48a74de17,70f61c1974e95a98e4db6dd9f0a45dbd,79159412f9a30473b568dd34aebc329a,95d4f143f4378ed2790157fbf2945fc5,9bb07b005588065c9b0574c491231579,a2787a7cdf858075907e62360d993842,b045bc55aef2540584aee4f00f554f14,b1dd603f76a00774a595bf06b8b59bcb,b8dfea88630925e9ab8e91f721951675,c530250146078af95a078075d8d6de89,c949bdc669605759e0b25262bd1dd6b2,dba243c2c21f75c38ef36837903bdf23,ec22fc7d0931bab25bd5d1d071c40335,ed6dada1429408f6692406c77aecab5e,f3c295da490f71292b200c9096cff494,ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d3">1</data>
+      <data key="d4">8</data>
+      <data key="d5">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">3f3b918c0cdaa2cf8e3c9eb5610955df,47f2ee562a72884aea4ffb5ebdf59c66,496433093036655853deeda70b45a0a4,59768f702f58d277d739938866e6bcd9,6fa040b4d8cd2f23163367d48a74de17,70f61c1974e95a98e4db6dd9f0a45dbd,79159412f9a30473b568dd34aebc329a,95d4f143f4378ed2790157fbf2945fc5,9bb07b005588065c9b0574c491231579,a2787a7cdf858075907e62360d993842,b045bc55aef2540584aee4f00f554f14,b1dd603f76a00774a595bf06b8b59bcb,b8dfea88630925e9ab8e91f721951675,c530250146078af95a078075d8d6de89,c949bdc669605759e0b25262bd1dd6b2,dba243c2c21f75c38ef36837903bdf23,ec22fc7d0931bab25bd5d1d071c40335,ed6dada1429408f6692406c77aecab5e,f3c295da490f71292b200c9096cff494,ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d3">4</data>
+      <data key="d4">9</data>
+      <data key="d5">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">3f3b918c0cdaa2cf8e3c9eb5610955df,47f2ee562a72884aea4ffb5ebdf59c66,496433093036655853deeda70b45a0a4,59768f702f58d277d739938866e6bcd9,6fa040b4d8cd2f23163367d48a74de17,70f61c1974e95a98e4db6dd9f0a45dbd,79159412f9a30473b568dd34aebc329a,95d4f143f4378ed2790157fbf2945fc5,9bb07b005588065c9b0574c491231579,a2787a7cdf858075907e62360d993842,b045bc55aef2540584aee4f00f554f14,b1dd603f76a00774a595bf06b8b59bcb,b8dfea88630925e9ab8e91f721951675,c530250146078af95a078075d8d6de89,c949bdc669605759e0b25262bd1dd6b2,dba243c2c21f75c38ef36837903bdf23,ec22fc7d0931bab25bd5d1d071c40335,ed6dada1429408f6692406c77aecab5e,f3c295da490f71292b200c9096cff494,ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d3">1</data>
+      <data key="d4">10</data>
+      <data key="d5">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country where Tucson, Pima County, and Arizona are located. Additionally, it is also an organization that played a significant role in international affairs, having recommended "shock therapy" reforms to Russia during its transition period.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">3f3b918c0cdaa2cf8e3c9eb5610955df,47f2ee562a72884aea4ffb5ebdf59c66,496433093036655853deeda70b45a0a4,59768f702f58d277d739938866e6bcd9,6fa040b4d8cd2f23163367d48a74de17,70f61c1974e95a98e4db6dd9f0a45dbd,79159412f9a30473b568dd34aebc329a,95d4f143f4378ed2790157fbf2945fc5,9bb07b005588065c9b0574c491231579,a2787a7cdf858075907e62360d993842,b045bc55aef2540584aee4f00f554f14,b1dd603f76a00774a595bf06b8b59bcb,b8dfea88630925e9ab8e91f721951675,c530250146078af95a078075d8d6de89,c949bdc669605759e0b25262bd1dd6b2,dba243c2c21f75c38ef36837903bdf23,ec22fc7d0931bab25bd5d1d071c40335,ed6dada1429408f6692406c77aecab5e,f3c295da490f71292b200c9096cff494,ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d3">2</data>
+      <data key="d4">11</data>
+      <data key="d5">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">3f3b918c0cdaa2cf8e3c9eb5610955df,47f2ee562a72884aea4ffb5ebdf59c66,496433093036655853deeda70b45a0a4,59768f702f58d277d739938866e6bcd9,6fa040b4d8cd2f23163367d48a74de17,70f61c1974e95a98e4db6dd9f0a45dbd,79159412f9a30473b568dd34aebc329a,95d4f143f4378ed2790157fbf2945fc5,9bb07b005588065c9b0574c491231579,a2787a7cdf858075907e62360d993842,b045bc55aef2540584aee4f00f554f14,b1dd603f76a00774a595bf06b8b59bcb,b8dfea88630925e9ab8e91f721951675,c530250146078af95a078075d8d6de89,c949bdc669605759e0b25262bd1dd6b2,dba243c2c21f75c38ef36837903bdf23,ec22fc7d0931bab25bd5d1d071c40335,ed6dada1429408f6692406c77aecab5e,f3c295da490f71292b200c9096cff494,ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d3">2</data>
+      <data key="d4">12</data>
+      <data key="d5">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">3f3b918c0cdaa2cf8e3c9eb5610955df,47f2ee562a72884aea4ffb5ebdf59c66,496433093036655853deeda70b45a0a4,59768f702f58d277d739938866e6bcd9,6fa040b4d8cd2f23163367d48a74de17,70f61c1974e95a98e4db6dd9f0a45dbd,79159412f9a30473b568dd34aebc329a,95d4f143f4378ed2790157fbf2945fc5,9bb07b005588065c9b0574c491231579,a2787a7cdf858075907e62360d993842,b045bc55aef2540584aee4f00f554f14,b1dd603f76a00774a595bf06b8b59bcb,b8dfea88630925e9ab8e91f721951675,c530250146078af95a078075d8d6de89,c949bdc669605759e0b25262bd1dd6b2,dba243c2c21f75c38ef36837903bdf23,ec22fc7d0931bab25bd5d1d071c40335,ed6dada1429408f6692406c77aecab5e,f3c295da490f71292b200c9096cff494,ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d3">1</data>
+      <data key="d4">13</data>
+      <data key="d5">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">3f3b918c0cdaa2cf8e3c9eb5610955df,47f2ee562a72884aea4ffb5ebdf59c66,496433093036655853deeda70b45a0a4,59768f702f58d277d739938866e6bcd9,6fa040b4d8cd2f23163367d48a74de17,70f61c1974e95a98e4db6dd9f0a45dbd,79159412f9a30473b568dd34aebc329a,95d4f143f4378ed2790157fbf2945fc5,9bb07b005588065c9b0574c491231579,a2787a7cdf858075907e62360d993842,b045bc55aef2540584aee4f00f554f14,b1dd603f76a00774a595bf06b8b59bcb,b8dfea88630925e9ab8e91f721951675,c530250146078af95a078075d8d6de89,c949bdc669605759e0b25262bd1dd6b2,dba243c2c21f75c38ef36837903bdf23,ec22fc7d0931bab25bd5d1d071c40335,ed6dada1429408f6692406c77aecab5e,f3c295da490f71292b200c9096cff494,ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d3">1</data>
+      <data key="d4">14</data>
+      <data key="d5">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">3f3b918c0cdaa2cf8e3c9eb5610955df,47f2ee562a72884aea4ffb5ebdf59c66,496433093036655853deeda70b45a0a4,59768f702f58d277d739938866e6bcd9,6fa040b4d8cd2f23163367d48a74de17,70f61c1974e95a98e4db6dd9f0a45dbd,79159412f9a30473b568dd34aebc329a,95d4f143f4378ed2790157fbf2945fc5,9bb07b005588065c9b0574c491231579,a2787a7cdf858075907e62360d993842,b045bc55aef2540584aee4f00f554f14,b1dd603f76a00774a595bf06b8b59bcb,b8dfea88630925e9ab8e91f721951675,c530250146078af95a078075d8d6de89,c949bdc669605759e0b25262bd1dd6b2,dba243c2c21f75c38ef36837903bdf23,ec22fc7d0931bab25bd5d1d071c40335,ed6dada1429408f6692406c77aecab5e,f3c295da490f71292b200c9096cff494,ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d3">0</data>
+      <data key="d4">15</data>
+      <data key="d5">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3f3b918c0cdaa2cf8e3c9eb5610955df,47f2ee562a72884aea4ffb5ebdf59c66,496433093036655853deeda70b45a0a4,59768f702f58d277d739938866e6bcd9,6fa040b4d8cd2f23163367d48a74de17,70f61c1974e95a98e4db6dd9f0a45dbd,79159412f9a30473b568dd34aebc329a,95d4f143f4378ed2790157fbf2945fc5,9bb07b005588065c9b0574c491231579,a2787a7cdf858075907e62360d993842,b045bc55aef2540584aee4f00f554f14,b1dd603f76a00774a595bf06b8b59bcb,b8dfea88630925e9ab8e91f721951675,c530250146078af95a078075d8d6de89,c949bdc669605759e0b25262bd1dd6b2,dba243c2c21f75c38ef36837903bdf23,ec22fc7d0931bab25bd5d1d071c40335,ed6dada1429408f6692406c77aecab5e,f3c295da490f71292b200c9096cff494,ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d3">5</data>
+      <data key="d4">16</data>
+      <data key="d5">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;RUSSIAN SFSR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Russian SFSR is a constituent republic of the Soviet Union that declared its state sovereignty. It is also a geographic region to which Karachay Autonomous Oblast and Chechen-Ingush Autonomous Soviet Socialist Republic were transferred. Additionally, in 1944, the Tuvan People's Republic joined the Russian SFSR. Furthermore, the Russian SFSR was scheduled to sign the New Union Treaty, indicating its importance in the reform process.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">47f2ee562a72884aea4ffb5ebdf59c66,496433093036655853deeda70b45a0a4,70f61c1974e95a98e4db6dd9f0a45dbd,79159412f9a30473b568dd34aebc329a,9bb07b005588065c9b0574c491231579,dba243c2c21f75c38ef36837903bdf23</data>
+      <data key="d6">9</data>
+      <data key="d7">1</data>
+      <data key="d3">9</data>
+      <data key="d4">17</data>
+      <data key="d5">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;TUVAN AUTONOMOUS OBLAST&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Tuvan Autonomous Oblast was an administrative division created in 1944 when the Tuvan People's Republic joined the Russian SFSR."</data>
+      <data key="d2">79159412f9a30473b568dd34aebc329a</data>
+      <data key="d6">6</data>
+      <data key="d7">1</data>
+      <data key="d3">2</data>
+      <data key="d4">18</data>
+      <data key="d5">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;AUTONOMOUS SOVIET SOCIALIST REPUBLIC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Autonomous Soviet Socialist Republic is a type of republic that the Tuvan Autonomous Oblast became in 1961."</data>
+      <data key="d2">79159412f9a30473b568dd34aebc329a</data>
+      <data key="d6">6</data>
+      <data key="d7">1</data>
+      <data key="d3">1</data>
+      <data key="d4">19</data>
+      <data key="d5">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;OCTOBER 11, 1944&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"October 11, 1944 is the date when the Tuvan People's Republic joined the Russian SFSR."</data>
+      <data key="d2">79159412f9a30473b568dd34aebc329a</data>
+      <data key="d3">0</data>
+      <data key="d4">20</data>
+      <data key="d5">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;TUVAN PEOPLE'S REPUBLIC&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">79159412f9a30473b568dd34aebc329a</data>
+      <data key="d6">9</data>
+      <data key="d7">1</data>
+      <data key="d3">1</data>
+      <data key="d4">21</data>
+      <data key="d5">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;USSR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The USSR, also known as the Union of Soviet Socialist Republics, was a federation that existed until its dissolution in 1991. The union was effectively dissolved with the secession of the Russian SFSR, leading to the emergence of successor states.</data>
+      <data key="d2">496433093036655853deeda70b45a0a4,b1dd603f76a00774a595bf06b8b59bcb</data>
+      <data key="d6">10</data>
+      <data key="d7">1</data>
+      <data key="d3">3</data>
+      <data key="d4">22</data>
+      <data key="d5">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;BORIS YELTSIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Boris Yeltsin was the President of the Russian Federation who played a crucial role in facing down an abortive August 1991 coup d'&#233;tat. Additionally, he informed the Secretary-General about the continuation of USSR's membership in the United Nations organs by the Russian Federation.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">59768f702f58d277d739938866e6bcd9,b045bc55aef2540584aee4f00f554f14,b1dd603f76a00774a595bf06b8b59bcb</data>
+      <data key="d3">2</data>
+      <data key="d4">23</data>
+      <data key="d5">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;UNITED NATIONS SECURITY COUNCIL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The United Nations Security Council is an international organization where Russia acquired a permanent seat after the dissolution of the USSR."</data>
+      <data key="d2">b1dd603f76a00774a595bf06b8b59bcb</data>
+      <data key="d6">10</data>
+      <data key="d7">1</data>
+      <data key="d3">1</data>
+      <data key="d4">24</data>
+      <data key="d5">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;COMMONWEALTH OF INDEPENDENT STATES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Commonwealth of Independent States is an organization consisting of 11 member countries that supported the Russian Federation's continuation of USSR's membership in the United Nations organs."</data>
+      <data key="d2">b1dd603f76a00774a595bf06b8b59bcb</data>
+      <data key="d3">0</data>
+      <data key="d4">25</data>
+      <data key="d5">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;RUSSIAN FEDERATION&quot;">
+      <data key="d0" />
+      <data key="d1">Here is a comprehensive summary of the data:
+
+The Russian Federation is an independent country that emerged from the disintegration of the Soviet Union, specifically from the Russian SFSR. As the successor state of the Soviet Union, it assumed its rights and obligations. In its early years, the Russian Federation was involved in the "War of Laws" with the Soviet Union.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">47f2ee562a72884aea4ffb5ebdf59c66,59768f702f58d277d739938866e6bcd9,b045bc55aef2540584aee4f00f554f14,b1dd603f76a00774a595bf06b8b59bcb</data>
+      <data key="d3">4</data>
+      <data key="d4">26</data>
+      <data key="d5">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;RUSSIAN EMPIRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Russian Empire was a former empire that existed until it broke up after World War I. During its existence, it annexed Georgia in 1801, leading to the loss of independence for the traditional territory of Georgia. In the 19th century, it also conquered Eastern Armenia, which later became part of the Soviet Union. The Russian Empire was a country where the Fedorov Avtomat, an early automatic rifle, was produced. However, in 1918, it lost land to Germany through the Treaty of Brest-Litovsk, marking one of its significant territorial losses before its eventual dissolution.</data>
+      <data key="d2">b8dfea88630925e9ab8e91f721951675,c530250146078af95a078075d8d6de89,c949bdc669605759e0b25262bd1dd6b2,ec22fc7d0931bab25bd5d1d071c40335,f3c295da490f71292b200c9096cff494</data>
+      <data key="d3">5</data>
+      <data key="d4">27</data>
+      <data key="d5">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;RED ARMY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Red Army invaded Armenia in 1920, bringing communists to power."</data>
+      <data key="d2">c530250146078af95a078075d8d6de89</data>
+      <data key="d3">1</data>
+      <data key="d4">28</data>
+      <data key="d5">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;ARMENIAN SOVIET SOCIALIST REPUBLIC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Armenian Soviet Socialist Republic existed from 1922 to September 21, 1991, as a constituent state of the Soviet Union. During this period, it was part of the Soviet Union, playing an integral role in the country's political landscape until its dissolution in 1991.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">c530250146078af95a078075d8d6de89,f3c295da490f71292b200c9096cff494</data>
+      <data key="d3">1</data>
+      <data key="d4">29</data>
+      <data key="d5">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;REPUBLIC OF ARMENIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+The Republic of Armenia, which declared its independence from the USSR in 1991, became a modern independent state during the dissolution of the Soviet Union. This marked the establishment of the second Republic of Armenia.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">c530250146078af95a078075d8d6de89,f3c295da490f71292b200c9096cff494</data>
+      <data key="d3">1</data>
+      <data key="d4">30</data>
+      <data key="d5">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;COMMUNIST PARTY OF THE SOVIET UNION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Communist Party of the Soviet Union controlled the Russian SFSR until the 1991 August coup."</data>
+      <data key="d2">dba243c2c21f75c38ef36837903bdf23</data>
+      <data key="d6">11</data>
+      <data key="d7">1</data>
+      <data key="d3">2</data>
+      <data key="d4">31</data>
+      <data key="d5">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&quot;PRESIDENT YELTSIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"President Yeltsin was a key figure who suspended the Communist Party of the Russian Soviet Federative Socialist Republic after the 1991 August coup."</data>
+      <data key="d2">dba243c2c21f75c38ef36837903bdf23</data>
+      <data key="d3">1</data>
+      <data key="d4">32</data>
+      <data key="d5">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&quot;COMMUNIST PARTY OF THE RUSSIAN SOVIET FEDERATIVE SOCIALIST REPUBLIC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Communist Party of the Russian Soviet Federative Socialist Republic was recently created and later suspended by President Yeltsin."</data>
+      <data key="d2">dba243c2c21f75c38ef36837903bdf23</data>
+      <data key="d6">11</data>
+      <data key="d7">1</data>
+      <data key="d3">1</data>
+      <data key="d4">33</data>
+      <data key="d5">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&quot;1991 AUGUST COUP&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 1991 August coup was an abortive event that prompted President Yeltsin to suspend the Communist Party of the Russian Soviet Federative Socialist Republic."</data>
+      <data key="d2">dba243c2c21f75c38ef36837903bdf23</data>
+      <data key="d3">1</data>
+      <data key="d4">34</data>
+      <data key="d5">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&quot;VLADIMIR GRIGORYEVICH FYODOROV&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Vladimir Grigoryevich Fyodorov is the designer of the Fedorov Avtomat automatic rifle."</data>
+      <data key="d2">ec22fc7d0931bab25bd5d1d071c40335</data>
+      <data key="d3">1</data>
+      <data key="d4">35</data>
+      <data key="d5">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&quot;RUSSIAN SOVIET FEDERATIVE SOCIALIST REPUBLIC&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Russian Soviet Federative Socialist Republic was a country where the Fedorov Avtomat was produced, and it was also a region that eventually became the independent Russian Federation in December 1991.</data>
+      <data key="d2">59768f702f58d277d739938866e6bcd9,ec22fc7d0931bab25bd5d1d071c40335,ed6dada1429408f6692406c77aecab5e</data>
+      <data key="d3">4</data>
+      <data key="d4">36</data>
+      <data key="d5">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&quot;KOVROV&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Kovrov is a city where the Fedorov Avtomat rifles were manufactured."</data>
+      <data key="d2">ec22fc7d0931bab25bd5d1d071c40335</data>
+      <data key="d3">1</data>
+      <data key="d4">37</data>
+      <data key="d5">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&quot;WORLD WAR I&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Fedorov Avtomat saw limited combat in World War I."</data>
+      <data key="d2">ec22fc7d0931bab25bd5d1d071c40335</data>
+      <data key="d3">0</data>
+      <data key="d4">38</data>
+      <data key="d5">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&quot;RUSSIAN CIVIL WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+The Russian Civil War was a significant conflict that took place in Russia, during which the Fedorov Avtomat was used substantially.</data>
+      <data key="d2">c949bdc669605759e0b25262bd1dd6b2,ec22fc7d0931bab25bd5d1d071c40335</data>
+      <data key="d3">1</data>
+      <data key="d4">39</data>
+      <data key="d5">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <node id="&quot;WINTER WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Fedorov Avtomat was used in the Winter War."</data>
+      <data key="d2">ec22fc7d0931bab25bd5d1d071c40335</data>
+      <data key="d3">0</data>
+      <data key="d4">40</data>
+      <data key="d5">3ce7c210a21b4deebad7cc9308148d86</data>
+    </node>
+    <node id="&quot;FEDOROV AVTOMAT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ec22fc7d0931bab25bd5d1d071c40335</data>
+      <data key="d3">3</data>
+      <data key="d4">41</data>
+      <data key="d5">d64ed762ea924caa95c8d06f072a9a96</data>
+    </node>
+    <node id="&quot;CENTRAL ASIAN REPUBLICS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Central Asian republics supported the New Union Treaty due to their need for economic advantages of a common market."</data>
+      <data key="d2">70f61c1974e95a98e4db6dd9f0a45dbd</data>
+      <data key="d6">7</data>
+      <data key="d7">1</data>
+      <data key="d3">1</data>
+      <data key="d4">42</data>
+      <data key="d5">adf4ee3fbe9b4d0381044838c4f889c8</data>
+    </node>
+    <node id="&quot;NEW UNION TREATY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The New Union Treaty was scheduled to be signed on August 20, 1991, and would have converted the Soviet Union into a federation of independent republics."</data>
+      <data key="d2">70f61c1974e95a98e4db6dd9f0a45dbd</data>
+      <data key="d6">7</data>
+      <data key="d7">1</data>
+      <data key="d3">2</data>
+      <data key="d4">43</data>
+      <data key="d5">32ee140946e5461f9275db664dc541a5</data>
+    </node>
+    <node id="&quot;GORBACHEV&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Mikhail Gorbachev is a key figure who hinted at stepping down, indicating a significant change in leadership.</data>
+      <data key="d2">496433093036655853deeda70b45a0a4,70f61c1974e95a98e4db6dd9f0a45dbd,b045bc55aef2540584aee4f00f554f14</data>
+      <data key="d3">2</data>
+      <data key="d4">44</data>
+      <data key="d5">c160b9cb27d6408ba6ab20214a2f3f81</data>
+    </node>
+    <node id="&quot;SUPREME SOVIET OF THE RUSSIAN SFSR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Supreme Soviet of the Russian SFSR is the governing body that ratified the Belavezha Accords and renounced the 1922 Union Treaty."</data>
+      <data key="d2">496433093036655853deeda70b45a0a4</data>
+      <data key="d3">0</data>
+      <data key="d4">45</data>
+      <data key="d5">23527cd679ff4d5a988d52e7cd056078</data>
+    </node>
+    <node id="&quot;KREMLIN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Kremlin is an organization that had lost its power and influence, unable to object to Russia's actions."</data>
+      <data key="d2">496433093036655853deeda70b45a0a4</data>
+      <data key="d3">1</data>
+      <data key="d4">46</data>
+      <data key="d5">f1c6eed066f24cbdb376b910fce29ed4</data>
+    </node>
+    <node id="&quot;RUSSIAN CONSTITUTION OF 1937&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Russian Constitution of 1937 is an event that renamed the republic to the Russian Soviet Federative Socialist Republic."</data>
+      <data key="d2">ed6dada1429408f6692406c77aecab5e</data>
+      <data key="d3">1</data>
+      <data key="d4">47</data>
+      <data key="d5">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+    </node>
+    <node id="&quot;INTERNATIONAL MONETARY FUND&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The International Monetary Fund is an organization that recommended 'shock therapy' reforms to Russia during its transition period."</data>
+      <data key="d2">59768f702f58d277d739938866e6bcd9</data>
+      <data key="d3">1</data>
+      <data key="d4">48</data>
+      <data key="d5">147c038aef3e4422acbbc5f7938c4ab8</data>
+    </node>
+    <node id="&quot;GERMANY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Germany gained land from the former Russian Empire through the Treaty of Brest-Litovsk in 1918."</data>
+      <data key="d2">c949bdc669605759e0b25262bd1dd6b2</data>
+      <data key="d3">1</data>
+      <data key="d4">49</data>
+      <data key="d5">b7702b90c7f24190b864e8c6e64612a5</data>
+    </node>
+    <node id="&quot;RUSSIAN SOCIALIST FEDERATIVE SOVIET REPUBLIC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Russian Socialist Federative Soviet Republic was a renamed country formed on July 10, 1918, according to the Russian Constitution of 1918."</data>
+      <data key="d2">c949bdc669605759e0b25262bd1dd6b2</data>
+      <data key="d3">1</data>
+      <data key="d4">50</data>
+      <data key="d5">de6fa24480894518ab3cbcb66f739266</data>
+    </node>
+    <node id="&quot;SOVIET RUSSIAN REPUBLIC&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c949bdc669605759e0b25262bd1dd6b2</data>
+      <data key="d3">1</data>
+      <data key="d4">51</data>
+      <data key="d5">6fae5ee1a831468aa585a1ea09095998</data>
+    </node>
+    <node id="&quot;DECLARATION OF STATE SOVEREIGNTY OF THE RUSSIAN SFSR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Declaration of State Sovereignty of the Russian SFSR is an event that marked the beginning of the 'War of Laws'."</data>
+      <data key="d2">47f2ee562a72884aea4ffb5ebdf59c66</data>
+      <data key="d3">1</data>
+      <data key="d4">52</data>
+      <data key="d5">ef32c4b208d041cc856f6837915dc1b0</data>
+    </node>
+    <node id="&quot;CONGRESS OF PEOPLE'S DEPUTIES OF THE REPUBLIC&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">47f2ee562a72884aea4ffb5ebdf59c66</data>
+      <data key="d6">9</data>
+      <data key="d7">1</data>
+      <data key="d3">1</data>
+      <data key="d4">53</data>
+      <data key="d5">07b2425216bd4f0aa4e079827cb48ef5</data>
+    </node>
+    <node id="&quot;WAR OF LAWS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">47f2ee562a72884aea4ffb5ebdf59c66</data>
+      <data key="d3">1</data>
+      <data key="d4">54</data>
+      <data key="d5">2670deebfa3f4d69bb82c28ab250a209</data>
+    </node>
+    <node id="&quot;UKRAINE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ukraine is a country that gained territory, including Eastern Galicia and Volhynia, after the Invasion of Poland."</data>
+      <data key="d2">a2787a7cdf858075907e62360d993842</data>
+      <data key="d3">1</data>
+      <data key="d4">55</data>
+      <data key="d5">404309e89a5241d6bff42c05a45df206</data>
+    </node>
+    <node id="&quot;GERMAN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"German refers to the German troops that invaded and divided Poland in September 1939."</data>
+      <data key="d2">a2787a7cdf858075907e62360d993842</data>
+      <data key="d3">1</data>
+      <data key="d4">56</data>
+      <data key="d5">b785a9025069417f94950ad231bb1441</data>
+    </node>
+    <node id="&quot;SOVIET&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Soviet refers to the Soviet troops that invaded and divided Poland in September 1939, and later annexed Bessarabia and northern Bukovina."</data>
+      <data key="d2">a2787a7cdf858075907e62360d993842</data>
+      <data key="d3">1</data>
+      <data key="d4">57</data>
+      <data key="d5">3b6cd96a27304614850709aba1c9598b</data>
+    </node>
+    <node id="&quot;UKRAINIAN SSR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Ukrainian SSR is a Soviet republic that incorporated new territories, including northern and southern districts of Bessarabia, northern Bukovina, and the Hertsa region."</data>
+      <data key="d2">a2787a7cdf858075907e62360d993842</data>
+      <data key="d3">1</data>
+      <data key="d4">58</data>
+      <data key="d5">d54956b79dd147f894b67a8b97dcbef0</data>
+    </node>
+    <node id="&quot;MOLDAVIAN AUTONOMOUS SOVIET SOCIALIST REPUBLIC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Moldavian Autonomous Soviet Socialist Republic ceded territory to the newly created Moldavian Soviet Socialist Republic."</data>
+      <data key="d2">a2787a7cdf858075907e62360d993842</data>
+      <data key="d3">1</data>
+      <data key="d4">59</data>
+      <data key="d5">958beecdb5bb4060948415ffd75d2b03</data>
+    </node>
+    <node id="&quot;MOLDAVIAN SOVIET SOCIALIST REPUBLIC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Moldavian Soviet Socialist Republic is a newly created Soviet republic that gained territory from the Moldavian Autonomous Soviet Socialist Republic."</data>
+      <data key="d2">a2787a7cdf858075907e62360d993842</data>
+      <data key="d3">1</data>
+      <data key="d4">60</data>
+      <data key="d5">b999ed77e19e4f85b7f1ae79af5c002a</data>
+    </node>
+    <node id="&quot;POLAND&quot;">
+      <data key="d0" />
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Poland is a country with significant historical importance. Its capital city, Warsaw, played a crucial role in international politics as it was the location where the Warsaw Pact was signed.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">95d4f143f4378ed2790157fbf2945fc5,a2787a7cdf858075907e62360d993842</data>
+      <data key="d3">3</data>
+      <data key="d4">61</data>
+      <data key="d5">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+    </node>
+    <node id="&quot;ROSHCHINO INTERNATIONAL AIRPORT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Roshchino International Airport is a location in Tyumen, RSFSR, where the flight originated."</data>
+      <data key="d2">ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d3">2</data>
+      <data key="d4">62</data>
+      <data key="d5">4f3c97517f794ebfb49c4c6315f9cf23</data>
+    </node>
+    <node id="&quot;SURGUT INTERNATIONAL AIRPORT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Surgut International Airport is a location in Surgut, RSFSR, where the aircraft crashed."</data>
+      <data key="d2">ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d3">2</data>
+      <data key="d4">63</data>
+      <data key="d5">1745a2485a9443bab76587ad650e9be0</data>
+    </node>
+    <node id="&quot;TYUMEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Tyumen is a location in the Russian Soviet Federated Socialist Republic (RSFSR) where Roshchino International Airport is situated."</data>
+      <data key="d2">ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d3">1</data>
+      <data key="d4">64</data>
+      <data key="d5">32e6ccab20d94029811127dbbe424c64</data>
+    </node>
+    <node id="&quot;SURGUT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Surgut is a location in the Russian Soviet Federated Socialist Republic (RSFSR) where the aircraft crashed."</data>
+      <data key="d2">ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d3">1</data>
+      <data key="d4">65</data>
+      <data key="d5">94a964c6992945ebb3833dfdfdc8d655</data>
+    </node>
+    <node id="&quot;RUSSIAN SOVIET FEDERATED SOCIALIST REPUBLIC (RSFSR)&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Russian Soviet Federated Socialist Republic (RSFSR) is a region where the crash occurred."</data>
+      <data key="d2">ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d3">0</data>
+      <data key="d4">66</data>
+      <data key="d5">1eb829d0ace042089f0746f78729696c</data>
+    </node>
+    <node id="&quot;1971 JANUARY 31 SURGUT AEROFLOT ANTONOV AN-12 CRASH&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 1971 January 31 Surgut Aeroflot Antonov An-12 crash was an aviation accident that occurred on 31 January 1971."</data>
+      <data key="d2">ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d3">1</data>
+      <data key="d4">67</data>
+      <data key="d5">015e7b58d1a14b44beab3bbc9f912c18</data>
+    </node>
+    <node id="&quot;AEROFLOT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d3">3</data>
+      <data key="d4">68</data>
+      <data key="d5">26f88ab3e2e04c33a459ad6270ade565</data>
+    </node>
+    <node id="&quot;COUNCIL FOR MUTUAL ECONOMIC ASSISTANCE (COMECON)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Council for Mutual Economic Assistance (CoMEcon) was a regional economic organization for the socialist states of Central and Eastern Europe, complementing the military alliance of the Warsaw Pact."</data>
+      <data key="d2">95d4f143f4378ed2790157fbf2945fc5</data>
+      <data key="d3">1</data>
+      <data key="d4">69</data>
+      <data key="d5">babe97e1d9784cffa1c85abc1e588126</data>
+    </node>
+    <node id="&quot;WEST GERMANY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The integration of West Germany into NATO in 1955 motivated the creation of the Warsaw Pact."</data>
+      <data key="d2">95d4f143f4378ed2790157fbf2945fc5</data>
+      <data key="d3">1</data>
+      <data key="d4">70</data>
+      <data key="d5">1033a18c45aa4584b2aef6ab96890351</data>
+    </node>
+    <node id="&quot;NATO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"NATO was a military alliance that West Germany joined, prompting the Soviet Union to create the Warsaw Pact as a response."</data>
+      <data key="d2">95d4f143f4378ed2790157fbf2945fc5</data>
+      <data key="d3">1</data>
+      <data key="d4">71</data>
+      <data key="d5">c9b8ce91fc2945b4907fe35519339cac</data>
+    </node>
+    <node id="&quot;WARSAW PACT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">95d4f143f4378ed2790157fbf2945fc5</data>
+      <data key="d3">3</data>
+      <data key="d4">72</data>
+      <data key="d5">fa3c4204421c48609e52c8de2da4c654</data>
+    </node>
+    <node id="&quot;NAZI GERMANY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Nazi Germany is one of the parties involved in the Molotov -- Ribbentrop Pact, a neutrality agreement with the Soviet Union."</data>
+      <data key="d2">6fa040b4d8cd2f23163367d48a74de17</data>
+      <data key="d3">1</data>
+      <data key="d4">73</data>
+      <data key="d5">53af055f068244d0ac861b2e89376495</data>
+    </node>
+    <node id="&quot;JOACHIM VON RIBBENTROP&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Joachim von Ribbentrop is the foreign minister of Nazi Germany who signed the Molotov -- Ribbentrop Pact on 23 August 1939."</data>
+      <data key="d2">6fa040b4d8cd2f23163367d48a74de17</data>
+      <data key="d3">1</data>
+      <data key="d4">74</data>
+      <data key="d5">c03ab3ce8cb74ad2a03b94723bfab3c7</data>
+    </node>
+    <node id="&quot;VYACHESLAV MOLOTOV&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Vyacheslav Molotov is the foreign minister of the Soviet Union who signed the Molotov -- Ribbentrop Pact on 23 August 1939."</data>
+      <data key="d2">6fa040b4d8cd2f23163367d48a74de17</data>
+      <data key="d3">1</data>
+      <data key="d4">75</data>
+      <data key="d5">ed6d2eee9d7b4f5db466b1f6404d31cc</data>
+    </node>
+    <node id="&quot;MOLOTOV -- RIBBENTROP PACT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6fa040b4d8cd2f23163367d48a74de17</data>
+      <data key="d3">2</data>
+      <data key="d4">76</data>
+      <data key="d5">fc01e9baa80e417c9206f941bb279407</data>
+    </node>
+    <node id="&quot;VLADISLAV ZUBOK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Vladislav Zubok is an expert who commented on the international ramifications of the Soviet Union's collapse."</data>
+      <data key="d2">b045bc55aef2540584aee4f00f554f14</data>
+      <data key="d3">1</data>
+      <data key="d4">77</data>
+      <data key="d5">56d0e5ebe79e4814bd1463cf6ca21394</data>
+    </node>
+    <node id="&quot;GEORGIAN SOVIET SOCIALIST REPUBLIC (GEORGIAN SSR)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Georgian SSR was one of the republics of the Soviet Union from 1922 to 1991, formed after the annexation of Georgia by Soviet forces in 1921."</data>
+      <data key="d2">b8dfea88630925e9ab8e91f721951675</data>
+      <data key="d3">3</data>
+      <data key="d4">78</data>
+      <data key="d5">7c49f2710e8b4d3b8dc9310834406ea5</data>
+    </node>
+    <node id="&quot;DEMOCRATIC REPUBLIC OF GEORGIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Democratic Republic of Georgia was an independent state that existed from 1918 until its annexation by Soviet forces in 1921."</data>
+      <data key="d2">b8dfea88630925e9ab8e91f721951675</data>
+      <data key="d3">1</data>
+      <data key="d4">79</data>
+      <data key="d5">c6d1e4f56c2843e89cf0b91c10bb6de2</data>
+    </node>
+    <node id="&quot;CHECHEN-INGUSH AUTONOMOUS SOVIET SOCIALIST REPUBLIC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Chechen-Ingush Autonomous Soviet Socialist Republic is an administrative region that was restored on January 9, 1957."</data>
+      <data key="d2">9bb07b005588065c9b0574c491231579</data>
+      <data key="d6">8</data>
+      <data key="d7">1</data>
+      <data key="d3">2</data>
+      <data key="d4">80</data>
+      <data key="d5">0adb2d9941f34ef7b2f7743cc6225844</data>
+    </node>
+    <node id="&quot;KHRUSHCHEV&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Khrushchev is a person who played a key role in restoring Karachay Autonomous Oblast and Chechen-Ingush Autonomous Soviet Socialist Republic on January 9, 1957."</data>
+      <data key="d2">9bb07b005588065c9b0574c491231579</data>
+      <data key="d3">1</data>
+      <data key="d4">81</data>
+      <data key="d5">6b02373137fd438ba96af28f735cdbdb</data>
+    </node>
+    <node id="&quot;GEORGIAN SSR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Georgian SSR is a geographic region from which Karachay Autonomous Oblast and Chechen-Ingush Autonomous Soviet Socialist Republic were transferred."</data>
+      <data key="d2">9bb07b005588065c9b0574c491231579</data>
+      <data key="d6">8</data>
+      <data key="d7">1</data>
+      <data key="d3">2</data>
+      <data key="d4">82</data>
+      <data key="d5">36a4fcd8efc144e6b8af9a1c7ab8b2ce</data>
+    </node>
+    <node id="&quot;RESTORATION OF KARACHAY AUTONOMOUS OBLAST AND CHECHEN-INGUSH AUTONOMOUS SOVIET SOCIALIST REPUBLIC&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The restoration of Karachay Autonomous Oblast and Chechen-Ingush Autonomous Soviet Socialist Republic is an event that occurred on January 9, 1957."</data>
+      <data key="d2">9bb07b005588065c9b0574c491231579</data>
+      <data key="d3">1</data>
+      <data key="d4">83</data>
+      <data key="d5">fbeef791d19b413a9c93c6608286ab63</data>
+    </node>
+    <node id="&quot;KARACHAY AUTONOMOUS OBLAST&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9bb07b005588065c9b0574c491231579</data>
+      <data key="d6">8</data>
+      <data key="d7">1</data>
+      <data key="d3">2</data>
+      <data key="d4">84</data>
+      <data key="d5">d2b629c0396f4180a03e16ddf3818589</data>
+    </node>
+    <node id="&quot;ARMENIAN GENOCIDE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Armenian Genocide was a systematic extermination of Armenians living in their ancestral lands in the Ottoman Empire during World War I."</data>
+      <data key="d2">f3c295da490f71292b200c9096cff494</data>
+      <data key="d3">1</data>
+      <data key="d4">85</data>
+      <data key="d5">6102fc6619ed422ebc42588bfa97355d</data>
+    </node>
+    <node id="&quot;FIRST REPUBLIC OF ARMENIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The First Republic of Armenia was established in 1918 after the Russian Revolution, declaring independence from the Russian empire."</data>
+      <data key="d2">f3c295da490f71292b200c9096cff494</data>
+      <data key="d3">1</data>
+      <data key="d4">86</data>
+      <data key="d5">8d141c0b80f74b79a05eed7fe161fe49</data>
+    </node>
+    <node id="&quot;TRANSCAUCASIAN SOCIALIST FEDERATIVE SOVIET REPUBLIC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Transcaucasian Socialist Federative Soviet Republic was a state that existed from 1920 to 1936, incorporating Armenia and other countries."</data>
+      <data key="d2">f3c295da490f71292b200c9096cff494</data>
+      <data key="d3">1</data>
+      <data key="d4">87</data>
+      <data key="d5">e22d1d1cd8d14f12b81828d940f40d70</data>
+    </node>
+    <node id="&quot;OTTOMAN EMPIRE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f3c295da490f71292b200c9096cff494</data>
+      <data key="d3">1</data>
+      <data key="d4">88</data>
+      <data key="d5">9ab48505fb1b487babd0d1f6d3a3f980</data>
+    </node>
+    <edge source="&quot;ARMENIA&quot;" target="&quot;TRANSCAUCASIAN SFSR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Transcaucasian SFSR comprised Armenia."</data>
+      <data key="d10">3f3b918c0cdaa2cf8e3c9eb5610955df</data>
+      <data key="d11">148fffeb994541b2b4b6dcefda7001a8</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ARMENIA&quot;" target="&quot;RUSSIAN EMPIRE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Armenia was part of the Russian Empire before its breakup after World War I."</data>
+      <data key="d10">c530250146078af95a078075d8d6de89</data>
+      <data key="d11">89c08e793298442686292454a1abff31</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ARMENIA&quot;" target="&quot;RED ARMY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Red Army invaded Armenia in 1920, leading to communist rule."</data>
+      <data key="d10">c530250146078af95a078075d8d6de89</data>
+      <data key="d11">0467928aa65e4a4fba62bdb1467e3a54</data>
+      <data key="d12">2</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ARMENIA&quot;" target="&quot;SOVIET UNION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Armenia was part of the Soviet Union from 1922 to 1991."</data>
+      <data key="d10">c530250146078af95a078075d8d6de89</data>
+      <data key="d11">43c3390303c6476cb65f584e37c3e81c</data>
+      <data key="d12">3</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ARMENIA&quot;" target="&quot;REPUBLIC OF ARMENIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Republic of Armenia is the current independent state established in 1991."</data>
+      <data key="d10">c530250146078af95a078075d8d6de89</data>
+      <data key="d11">fa14b16c17e3417dba5a4b473ea5b18d</data>
+      <data key="d12">4</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;AZERBAIJAN&quot;" target="&quot;TRANSCAUCASIAN SFSR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Transcaucasian SFSR comprised Azerbaijan."</data>
+      <data key="d10">3f3b918c0cdaa2cf8e3c9eb5610955df</data>
+      <data key="d11">7cc3356d38de4328a51a5cbcb187dac3</data>
+      <data key="d12">5</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;GEORGIA&quot;" target="&quot;TRANSCAUCASIAN SFSR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Transcaucasian SFSR comprised Georgia."</data>
+      <data key="d10">3f3b918c0cdaa2cf8e3c9eb5610955df</data>
+      <data key="d11">bef16fb5fd7344cca5e295b13ef3e0cd</data>
+      <data key="d12">6</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;GEORGIA&quot;" target="&quot;GEORGIAN SOVIET SOCIALIST REPUBLIC (GEORGIAN SSR)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Georgia is the traditional territory on which the Georgian SSR was based."</data>
+      <data key="d10">b8dfea88630925e9ab8e91f721951675</data>
+      <data key="d11">bb9e01bc171d4326a29afda59ece8d17</data>
+      <data key="d12">7</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;GEORGIA&quot;" target="&quot;RUSSIAN EMPIRE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Georgia was annexed by the Russian Empire in 1801, leading to the loss of independence."</data>
+      <data key="d10">b8dfea88630925e9ab8e91f721951675</data>
+      <data key="d11">3c063eea52e94164b70c99431ea30bae</data>
+      <data key="d12">8</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;RUSSIA&quot;" target="&quot;CAUCASUS MOUNTAINS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Caucasus Mountains separate Russia from the Transcaucasian Republics."</data>
+      <data key="d10">3f3b918c0cdaa2cf8e3c9eb5610955df</data>
+      <data key="d11">252cc8452bfc4c2aa58cab68d8b61879</data>
+      <data key="d12">9</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;RUSSIA&quot;" target="&quot;RUSSIAN SFSR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Russia is the geographic location where the Russian SFSR is situated and played a crucial role in its actions."</data>
+      <data key="d10">496433093036655853deeda70b45a0a4</data>
+      <data key="d11">7e2c84548fb94ee395ba8588d8f2a006</data>
+      <data key="d12">10</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;RUSSIA&quot;" target="&quot;RUSSIAN SOVIET FEDERATIVE SOCIALIST REPUBLIC&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Russian Soviet Federative Socialist Republic was located in Russia."</data>
+      <data key="d10">ed6dada1429408f6692406c77aecab5e</data>
+      <data key="d11">f034618dde7948beb6dab30176d0fc87</data>
+      <data key="d12">11</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;RUSSIA&quot;" target="&quot;GERMANY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Russia lost land to Germany through the Treaty of Brest-Litovsk in 1918."</data>
+      <data key="d10">c949bdc669605759e0b25262bd1dd6b2</data>
+      <data key="d11">5c41f96be13e49dba649454297834546</data>
+      <data key="d12">12</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SOVIET UNION&quot;" target="&quot;TRANSCAUCASIAN SFSR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The TSFSR was a constituent republic of the Soviet Union."</data>
+      <data key="d10">3f3b918c0cdaa2cf8e3c9eb5610955df</data>
+      <data key="d11">7ea4afbf8a264f29af29950ce98105ba</data>
+      <data key="d12">13</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SOVIET UNION&quot;" target="&quot;GORBACHEV&quot;">
+      <data key="d8">2.0</data>
+      <data key="d9">Here is the comprehensive summary:
+
+Mikhail Gorbachev, the leader of the Soviet Union, sought to restructure the country, indicating his leadership role in the reform process. In an effort to preserve the Soviet Union as a renewed federation, he implemented various reforms, but ultimately, he resigned and the Soviet Union collapsed under his leadership.
+
+Let me know if you need any further assistance!</data>
+      <data key="d10">70f61c1974e95a98e4db6dd9f0a45dbd,b045bc55aef2540584aee4f00f554f14</data>
+      <data key="d11">91ff849d12b24574b0691dbddf44968b</data>
+      <data key="d12">14</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SOVIET UNION&quot;" target="&quot;RUSSIAN FEDERATION&quot;">
+      <data key="d8">3.0</data>
+      <data key="d9">Here is a comprehensive summary of the data:
+
+The Soviet Union and the Russian Federation are two entities with a complex historical relationship. The Russian Federation is the successor state of the Soviet Union, assuming its rights and obligations. However, there was a period of conflict between the two, known as the "War of Laws", where they were pitted against each other. Ultimately, the disintegration of the Soviet Union led to the emergence of the Russian Federation, marking a significant transition in their relationship.</data>
+      <data key="d10">47f2ee562a72884aea4ffb5ebdf59c66,59768f702f58d277d739938866e6bcd9,b045bc55aef2540584aee4f00f554f14</data>
+      <data key="d11">d73c1f2fb3094d8dace42ad2a76e9a52</data>
+      <data key="d12">15</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SOVIET UNION&quot;" target="&quot;WARSAW PACT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Soviet Union played a key role in the creation and maintenance of the Warsaw Pact."</data>
+      <data key="d10">95d4f143f4378ed2790157fbf2945fc5</data>
+      <data key="d11">cdc8901e668749889bd49bebdc4ff1f6</data>
+      <data key="d12">16</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SOVIET UNION&quot;" target="&quot;NAZI GERMANY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Nazi Germany and the Soviet Union are parties to the Molotov -- Ribbentrop Pact, a neutrality agreement."</data>
+      <data key="d10">6fa040b4d8cd2f23163367d48a74de17</data>
+      <data key="d11">36084a9fab53433493f079e97e68bf65</data>
+      <data key="d12">17</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SOVIET UNION&quot;" target="&quot;VLADISLAV ZUBOK&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Vladislav Zubok commented on the international ramifications of the Soviet Union's collapse."</data>
+      <data key="d10">b045bc55aef2540584aee4f00f554f14</data>
+      <data key="d11">eebcc7ec8e3e4df7aea83659bbdc2199</data>
+      <data key="d12">18</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SOVIET UNION&quot;" target="&quot;GEORGIAN SOVIET SOCIALIST REPUBLIC (GEORGIAN SSR)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Georgian SSR was one of the republics of the Soviet Union from 1922 to 1991."</data>
+      <data key="d10">b8dfea88630925e9ab8e91f721951675</data>
+      <data key="d11">ceadf262ef834e9ab146b20650912cae</data>
+      <data key="d12">19</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is the county seat of Pima County."</data>
+      <data key="d10">3f3b918c0cdaa2cf8e3c9eb5610955df,47f2ee562a72884aea4ffb5ebdf59c66,496433093036655853deeda70b45a0a4,59768f702f58d277d739938866e6bcd9,6fa040b4d8cd2f23163367d48a74de17,70f61c1974e95a98e4db6dd9f0a45dbd,79159412f9a30473b568dd34aebc329a,95d4f143f4378ed2790157fbf2945fc5,9bb07b005588065c9b0574c491231579,a2787a7cdf858075907e62360d993842,b045bc55aef2540584aee4f00f554f14,b1dd603f76a00774a595bf06b8b59bcb,b8dfea88630925e9ab8e91f721951675,c530250146078af95a078075d8d6de89,c949bdc669605759e0b25262bd1dd6b2,dba243c2c21f75c38ef36837903bdf23,ec22fc7d0931bab25bd5d1d071c40335,ed6dada1429408f6692406c77aecab5e,f3c295da490f71292b200c9096cff494,ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d11">7f65feab75424b53b24470d305ba331a</data>
+      <data key="d12">20</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Pima County is a county in Arizona."</data>
+      <data key="d10">3f3b918c0cdaa2cf8e3c9eb5610955df,47f2ee562a72884aea4ffb5ebdf59c66,496433093036655853deeda70b45a0a4,59768f702f58d277d739938866e6bcd9,6fa040b4d8cd2f23163367d48a74de17,70f61c1974e95a98e4db6dd9f0a45dbd,79159412f9a30473b568dd34aebc329a,95d4f143f4378ed2790157fbf2945fc5,9bb07b005588065c9b0574c491231579,a2787a7cdf858075907e62360d993842,b045bc55aef2540584aee4f00f554f14,b1dd603f76a00774a595bf06b8b59bcb,b8dfea88630925e9ab8e91f721951675,c530250146078af95a078075d8d6de89,c949bdc669605759e0b25262bd1dd6b2,dba243c2c21f75c38ef36837903bdf23,ec22fc7d0931bab25bd5d1d071c40335,ed6dada1429408f6692406c77aecab5e,f3c295da490f71292b200c9096cff494,ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d11">fd9cb733b28d420cb5cef01e545a132c</data>
+      <data key="d12">21</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The University of Arizona is located in Tucson."</data>
+      <data key="d10">3f3b918c0cdaa2cf8e3c9eb5610955df,47f2ee562a72884aea4ffb5ebdf59c66,496433093036655853deeda70b45a0a4,59768f702f58d277d739938866e6bcd9,6fa040b4d8cd2f23163367d48a74de17,70f61c1974e95a98e4db6dd9f0a45dbd,79159412f9a30473b568dd34aebc329a,95d4f143f4378ed2790157fbf2945fc5,9bb07b005588065c9b0574c491231579,a2787a7cdf858075907e62360d993842,b045bc55aef2540584aee4f00f554f14,b1dd603f76a00774a595bf06b8b59bcb,b8dfea88630925e9ab8e91f721951675,c530250146078af95a078075d8d6de89,c949bdc669605759e0b25262bd1dd6b2,dba243c2c21f75c38ef36837903bdf23,ec22fc7d0931bab25bd5d1d071c40335,ed6dada1429408f6692406c77aecab5e,f3c295da490f71292b200c9096cff494,ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d11">0fbcca3f17c649a08aea64b5a7d9ef36</data>
+      <data key="d12">22</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Arizona is a state in the United States."</data>
+      <data key="d10">3f3b918c0cdaa2cf8e3c9eb5610955df,47f2ee562a72884aea4ffb5ebdf59c66,496433093036655853deeda70b45a0a4,59768f702f58d277d739938866e6bcd9,6fa040b4d8cd2f23163367d48a74de17,70f61c1974e95a98e4db6dd9f0a45dbd,79159412f9a30473b568dd34aebc329a,95d4f143f4378ed2790157fbf2945fc5,9bb07b005588065c9b0574c491231579,a2787a7cdf858075907e62360d993842,b045bc55aef2540584aee4f00f554f14,b1dd603f76a00774a595bf06b8b59bcb,b8dfea88630925e9ab8e91f721951675,c530250146078af95a078075d8d6de89,c949bdc669605759e0b25262bd1dd6b2,dba243c2c21f75c38ef36837903bdf23,ec22fc7d0931bab25bd5d1d071c40335,ed6dada1429408f6692406c77aecab5e,f3c295da490f71292b200c9096cff494,ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d11">482027a59f32484c9c44fd700615c1b6</data>
+      <data key="d12">23</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is a city in Arizona."</data>
+      <data key="d10">3f3b918c0cdaa2cf8e3c9eb5610955df,47f2ee562a72884aea4ffb5ebdf59c66,496433093036655853deeda70b45a0a4,59768f702f58d277d739938866e6bcd9,6fa040b4d8cd2f23163367d48a74de17,70f61c1974e95a98e4db6dd9f0a45dbd,79159412f9a30473b568dd34aebc329a,95d4f143f4378ed2790157fbf2945fc5,9bb07b005588065c9b0574c491231579,a2787a7cdf858075907e62360d993842,b045bc55aef2540584aee4f00f554f14,b1dd603f76a00774a595bf06b8b59bcb,b8dfea88630925e9ab8e91f721951675,c530250146078af95a078075d8d6de89,c949bdc669605759e0b25262bd1dd6b2,dba243c2c21f75c38ef36837903bdf23,ec22fc7d0931bab25bd5d1d071c40335,ed6dada1429408f6692406c77aecab5e,f3c295da490f71292b200c9096cff494,ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d11">de837ff3d626451282ff6ac77a82216d</data>
+      <data key="d12">24</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Phoenix is a city in Arizona."</data>
+      <data key="d10">3f3b918c0cdaa2cf8e3c9eb5610955df,47f2ee562a72884aea4ffb5ebdf59c66,496433093036655853deeda70b45a0a4,59768f702f58d277d739938866e6bcd9,6fa040b4d8cd2f23163367d48a74de17,70f61c1974e95a98e4db6dd9f0a45dbd,79159412f9a30473b568dd34aebc329a,95d4f143f4378ed2790157fbf2945fc5,9bb07b005588065c9b0574c491231579,a2787a7cdf858075907e62360d993842,b045bc55aef2540584aee4f00f554f14,b1dd603f76a00774a595bf06b8b59bcb,b8dfea88630925e9ab8e91f721951675,c530250146078af95a078075d8d6de89,c949bdc669605759e0b25262bd1dd6b2,dba243c2c21f75c38ef36837903bdf23,ec22fc7d0931bab25bd5d1d071c40335,ed6dada1429408f6692406c77aecab5e,f3c295da490f71292b200c9096cff494,ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d11">460295fed3ae4cd39f9f274cec9c2506</data>
+      <data key="d12">25</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;INTERNATIONAL MONETARY FUND&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Both the United States and the International Monetary Fund recommended 'shock therapy' reforms to Russia during its transition period."</data>
+      <data key="d10">59768f702f58d277d739938866e6bcd9</data>
+      <data key="d11">553b285bba60460ab1ed8341ae61282b</data>
+      <data key="d12">26</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d10">3f3b918c0cdaa2cf8e3c9eb5610955df,47f2ee562a72884aea4ffb5ebdf59c66,496433093036655853deeda70b45a0a4,59768f702f58d277d739938866e6bcd9,6fa040b4d8cd2f23163367d48a74de17,70f61c1974e95a98e4db6dd9f0a45dbd,79159412f9a30473b568dd34aebc329a,95d4f143f4378ed2790157fbf2945fc5,9bb07b005588065c9b0574c491231579,a2787a7cdf858075907e62360d993842,b045bc55aef2540584aee4f00f554f14,b1dd603f76a00774a595bf06b8b59bcb,b8dfea88630925e9ab8e91f721951675,c530250146078af95a078075d8d6de89,c949bdc669605759e0b25262bd1dd6b2,dba243c2c21f75c38ef36837903bdf23,ec22fc7d0931bab25bd5d1d071c40335,ed6dada1429408f6692406c77aecab5e,f3c295da490f71292b200c9096cff494,ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d11">cec95bf17e7e4c939b56c9c6f402a29f</data>
+      <data key="d12">27</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Mexico shares an international border with the United States."</data>
+      <data key="d10">3f3b918c0cdaa2cf8e3c9eb5610955df,47f2ee562a72884aea4ffb5ebdf59c66,496433093036655853deeda70b45a0a4,59768f702f58d277d739938866e6bcd9,6fa040b4d8cd2f23163367d48a74de17,70f61c1974e95a98e4db6dd9f0a45dbd,79159412f9a30473b568dd34aebc329a,95d4f143f4378ed2790157fbf2945fc5,9bb07b005588065c9b0574c491231579,a2787a7cdf858075907e62360d993842,b045bc55aef2540584aee4f00f554f14,b1dd603f76a00774a595bf06b8b59bcb,b8dfea88630925e9ab8e91f721951675,c530250146078af95a078075d8d6de89,c949bdc669605759e0b25262bd1dd6b2,dba243c2c21f75c38ef36837903bdf23,ec22fc7d0931bab25bd5d1d071c40335,ed6dada1429408f6692406c77aecab5e,f3c295da490f71292b200c9096cff494,ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d11">599164aead034bc19446efacc77554d2</data>
+      <data key="d12">28</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d10">3f3b918c0cdaa2cf8e3c9eb5610955df,47f2ee562a72884aea4ffb5ebdf59c66,496433093036655853deeda70b45a0a4,59768f702f58d277d739938866e6bcd9,6fa040b4d8cd2f23163367d48a74de17,70f61c1974e95a98e4db6dd9f0a45dbd,79159412f9a30473b568dd34aebc329a,95d4f143f4378ed2790157fbf2945fc5,9bb07b005588065c9b0574c491231579,a2787a7cdf858075907e62360d993842,b045bc55aef2540584aee4f00f554f14,b1dd603f76a00774a595bf06b8b59bcb,b8dfea88630925e9ab8e91f721951675,c530250146078af95a078075d8d6de89,c949bdc669605759e0b25262bd1dd6b2,dba243c2c21f75c38ef36837903bdf23,ec22fc7d0931bab25bd5d1d071c40335,ed6dada1429408f6692406c77aecab5e,f3c295da490f71292b200c9096cff494,ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d11">bbf148ae4d48422f8fdef754cfa2b9e4</data>
+      <data key="d12">29</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;RUSSIAN SFSR&quot;" target="&quot;TUVAN PEOPLE'S REPUBLIC&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Tuvan People's Republic joined the Russian SFSR in 1944."</data>
+      <data key="d10">79159412f9a30473b568dd34aebc329a</data>
+      <data key="d11">de61b2670999433f807a6a1dc2b81e43</data>
+      <data key="d12">30</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;RUSSIAN SFSR&quot;" target="&quot;TUVAN AUTONOMOUS OBLAST&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Tuvan Autonomous Oblast was created as an administrative division within the Russian SFSR."</data>
+      <data key="d10">79159412f9a30473b568dd34aebc329a</data>
+      <data key="d11">3e95dacfe57b4d57b5da4310ef2e157f</data>
+      <data key="d12">31</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;RUSSIAN SFSR&quot;" target="&quot;COMMUNIST PARTY OF THE SOVIET UNION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Russian SFSR was controlled by the Communist Party of the Soviet Union."</data>
+      <data key="d10">dba243c2c21f75c38ef36837903bdf23</data>
+      <data key="d11">1f1545308e9347af91fd03b94aadc21f</data>
+      <data key="d12">32</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;RUSSIAN SFSR&quot;" target="&quot;NEW UNION TREATY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Russian SFSR was scheduled to sign the New Union Treaty, indicating its involvement in the reform process."</data>
+      <data key="d10">70f61c1974e95a98e4db6dd9f0a45dbd</data>
+      <data key="d11">6ea81acaf232485e94fff638e03336e1</data>
+      <data key="d12">33</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;RUSSIAN SFSR&quot;" target="&quot;USSR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Russian SFSR seceded from the USSR, marking a significant change in their relationship."</data>
+      <data key="d10">496433093036655853deeda70b45a0a4</data>
+      <data key="d11">d136b08d586d488f9e4188b524c85a29</data>
+      <data key="d12">34</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;RUSSIAN SFSR&quot;" target="&quot;CONGRESS OF PEOPLE'S DEPUTIES OF THE REPUBLIC&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Congress of People's Deputies of the Republic adopted the Declaration of State Sovereignty of the Russian SFSR."</data>
+      <data key="d10">47f2ee562a72884aea4ffb5ebdf59c66</data>
+      <data key="d11">cccfa151fedc4b218a8d96adc7dceabe</data>
+      <data key="d12">35</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;RUSSIAN SFSR&quot;" target="&quot;CHECHEN-INGUSH AUTONOMOUS SOVIET SOCIALIST REPUBLIC&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Chechen-Ingush Autonomous Soviet Socialist Republic was transferred to the Russian SFSR on January 9, 1957."</data>
+      <data key="d10">9bb07b005588065c9b0574c491231579</data>
+      <data key="d11">ce54725672a74ebcabe6127577dacb2b</data>
+      <data key="d12">36</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;RUSSIAN SFSR&quot;" target="&quot;KARACHAY AUTONOMOUS OBLAST&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Karachay Autonomous Oblast was transferred to the Russian SFSR on January 9, 1957."</data>
+      <data key="d10">9bb07b005588065c9b0574c491231579</data>
+      <data key="d11">ea2b28ca1a974ffab4517811dc1d1e5c</data>
+      <data key="d12">37</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;TUVAN AUTONOMOUS OBLAST&quot;" target="&quot;AUTONOMOUS SOVIET SOCIALIST REPUBLIC&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Tuvan Autonomous Oblast became an Autonomous Soviet Socialist Republic in 1961."</data>
+      <data key="d10">79159412f9a30473b568dd34aebc329a</data>
+      <data key="d11">aff21f1da1654e7babdcf3fb0e4a75fc</data>
+      <data key="d12">38</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;USSR&quot;" target="&quot;RUSSIAN FEDERATION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Russian Federation declared itself as the continuator state of the USSR, acquiring its seat in the United Nations Security Council."</data>
+      <data key="d10">b1dd603f76a00774a595bf06b8b59bcb</data>
+      <data key="d11">dc2cc9016e3f49dbac7232f05cce794d</data>
+      <data key="d12">39</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;USSR&quot;" target="&quot;UNITED NATIONS SECURITY COUNCIL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The USSR had a permanent seat in the United Nations Security Council, which was later acquired by the Russian Federation."</data>
+      <data key="d10">b1dd603f76a00774a595bf06b8b59bcb</data>
+      <data key="d11">6ea0cef05f694dcea455478f40674e45</data>
+      <data key="d12">40</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;BORIS YELTSIN&quot;" target="&quot;RUSSIAN FEDERATION&quot;">
+      <data key="d8">2.0</data>
+      <data key="d9">Here is the comprehensive summary:
+
+Boris Yeltsin, as the President of the Russian Federation, played a crucial role in shaping the country's emergence as an independent post-Soviet state. Additionally, he was instrumental in ensuring the continuation of the USSR's membership in United Nations organs during his presidency.
+
+Let me know if you need any further assistance!</data>
+      <data key="d10">b045bc55aef2540584aee4f00f554f14,b1dd603f76a00774a595bf06b8b59bcb</data>
+      <data key="d11">7ab5d53a872f4dfc98f3d386879f3c75</data>
+      <data key="d12">41</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;BORIS YELTSIN&quot;" target="&quot;RUSSIAN SOVIET FEDERATIVE SOCIALIST REPUBLIC&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Boris Yeltsin was the President of the Russian Soviet Federative Socialist Republic."</data>
+      <data key="d10">59768f702f58d277d739938866e6bcd9</data>
+      <data key="d11">af1d0fec22114a3398b8016f5225f9ed</data>
+      <data key="d12">42</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;RUSSIAN FEDERATION&quot;" target="&quot;RUSSIAN SOVIET FEDERATIVE SOCIALIST REPUBLIC&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Russian Soviet Federative Socialist Republic became the independent Russian Federation in December 1991."</data>
+      <data key="d10">59768f702f58d277d739938866e6bcd9</data>
+      <data key="d11">b07a7f088364459098cd8511ff27a4c8</data>
+      <data key="d12">43</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;RUSSIAN EMPIRE&quot;" target="&quot;FEDOROV AVTOMAT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Russian Empire was a country where the Fedorov Avtomat was produced."</data>
+      <data key="d10">ec22fc7d0931bab25bd5d1d071c40335</data>
+      <data key="d11">8870cf2b5df64d2cab5820f67e29b9f1</data>
+      <data key="d12">44</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;RUSSIAN EMPIRE&quot;" target="&quot;SOVIET RUSSIAN REPUBLIC&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Soviet Russian Republic was formed from the former Russian Empire."</data>
+      <data key="d10">c949bdc669605759e0b25262bd1dd6b2</data>
+      <data key="d11">cd130938a2844050be991af70baf5ee0</data>
+      <data key="d12">45</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;RUSSIAN EMPIRE&quot;" target="&quot;FIRST REPUBLIC OF ARMENIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Russian Revolution led to the establishment of the First Republic of Armenia, declaring independence from the Russian empire."</data>
+      <data key="d10">f3c295da490f71292b200c9096cff494</data>
+      <data key="d11">43544b99c3b04b059546198a0ae6366d</data>
+      <data key="d12">46</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ARMENIAN SOVIET SOCIALIST REPUBLIC&quot;" target="&quot;TRANSCAUCASIAN SOCIALIST FEDERATIVE SOVIET REPUBLIC&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Transcaucasian state was dissolved in 1936, transforming its constituent states, including the Armenian Soviet Socialist Republic, into full Union republics."</data>
+      <data key="d10">f3c295da490f71292b200c9096cff494</data>
+      <data key="d11">a671bf7fea2f4514b6e96ba99127fafd</data>
+      <data key="d12">47</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;COMMUNIST PARTY OF THE SOVIET UNION&quot;" target="&quot;COMMUNIST PARTY OF THE RUSSIAN SOVIET FEDERATIVE SOCIALIST REPUBLIC&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Communist Party of the Soviet Union is related to the Communist Party of the Russian Soviet Federative Socialist Republic, which was recently created and later suspended."</data>
+      <data key="d10">dba243c2c21f75c38ef36837903bdf23</data>
+      <data key="d11">525f41ea20274a05af4e52b625b473f3</data>
+      <data key="d12">48</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;PRESIDENT YELTSIN&quot;" target="&quot;1991 AUGUST COUP&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"President Yeltsin responded to the 1991 August coup by suspending the Communist Party of the Russian Soviet Federative Socialist Republic."</data>
+      <data key="d10">dba243c2c21f75c38ef36837903bdf23</data>
+      <data key="d11">071a416efbec4f0886c19ac68f6d43cb</data>
+      <data key="d12">49</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;VLADIMIR GRIGORYEVICH FYODOROV&quot;" target="&quot;FEDOROV AVTOMAT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Vladimir Grigoryevich Fyodorov designed the Fedorov Avtomat."</data>
+      <data key="d10">ec22fc7d0931bab25bd5d1d071c40335</data>
+      <data key="d11">6d8473ef3b1042bf87178a611e3dbcc6</data>
+      <data key="d12">50</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;RUSSIAN SOVIET FEDERATIVE SOCIALIST REPUBLIC&quot;" target="&quot;RUSSIAN CONSTITUTION OF 1937&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Russian Constitution of 1937 renamed the republic to the Russian Soviet Federative Socialist Republic."</data>
+      <data key="d10">ed6dada1429408f6692406c77aecab5e</data>
+      <data key="d11">30c9641543c24773938bd8ec57ea98ab</data>
+      <data key="d12">51</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;KOVROV&quot;" target="&quot;FEDOROV AVTOMAT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Kovrov is a city where the Fedorov Avtomat rifles were manufactured."</data>
+      <data key="d10">ec22fc7d0931bab25bd5d1d071c40335</data>
+      <data key="d11">18b839da898e4026b81727d759d95c6a</data>
+      <data key="d12">52</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;RUSSIAN CIVIL WAR&quot;" target="&quot;RUSSIAN SOCIALIST FEDERATIVE SOVIET REPUBLIC&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Russian Socialist Federative Soviet Republic was affected by the Russian Civil War, resulting in secessions."</data>
+      <data key="d10">c949bdc669605759e0b25262bd1dd6b2</data>
+      <data key="d11">eeef6ae5c464400c8755900b4f1ac37a</data>
+      <data key="d12">53</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;CENTRAL ASIAN REPUBLICS&quot;" target="&quot;NEW UNION TREATY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Central Asian republics supported the New Union Treaty due to their economic interests."</data>
+      <data key="d10">70f61c1974e95a98e4db6dd9f0a45dbd</data>
+      <data key="d11">422433aa45804c7ebb973b2fafce5da6</data>
+      <data key="d12">54</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;GORBACHEV&quot;" target="&quot;KREMLIN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Gorbachev is associated with the Kremlin, but his potential stepping down indicates a shift in power dynamics."</data>
+      <data key="d10">496433093036655853deeda70b45a0a4</data>
+      <data key="d11">86505bca739d4bccaaa1a8e0f3baffdc</data>
+      <data key="d12">55</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;DECLARATION OF STATE SOVEREIGNTY OF THE RUSSIAN SFSR&quot;" target="&quot;WAR OF LAWS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Declaration of State Sovereignty of the Russian SFSR marked the beginning of the 'War of Laws'."&gt;</data>
+      <data key="d10">47f2ee562a72884aea4ffb5ebdf59c66</data>
+      <data key="d11">1af9faf341e14a5bbf4ddc9080e8dc0b</data>
+      <data key="d12">56</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;UKRAINE&quot;" target="&quot;UKRAINIAN SSR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Ukrainian SSR is a governing body that incorporated new territories into Ukraine."</data>
+      <data key="d10">a2787a7cdf858075907e62360d993842</data>
+      <data key="d11">353d91abc68648639d65a549e59b5cf3</data>
+      <data key="d12">57</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;GERMAN&quot;" target="&quot;POLAND&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Poland was invaded by German troops in September 1939."</data>
+      <data key="d10">a2787a7cdf858075907e62360d993842</data>
+      <data key="d11">7ce637e4f35b42e3a9f8272cab69cd22</data>
+      <data key="d12">58</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SOVIET&quot;" target="&quot;POLAND&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Poland was invaded and divided by Soviet troops in September 1939."</data>
+      <data key="d10">a2787a7cdf858075907e62360d993842</data>
+      <data key="d11">4d999d7744b04a998475f8f8531589f0</data>
+      <data key="d12">59</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;MOLDAVIAN AUTONOMOUS SOVIET SOCIALIST REPUBLIC&quot;" target="&quot;MOLDAVIAN SOVIET SOCIALIST REPUBLIC&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Moldavian Autonomous Soviet Socialist Republic ceded territory to the newly created Moldavian Soviet Socialist Republic."</data>
+      <data key="d10">a2787a7cdf858075907e62360d993842</data>
+      <data key="d11">9a6f414210e14841a5b0e661aedc898d</data>
+      <data key="d12">60</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;POLAND&quot;" target="&quot;WARSAW PACT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Warsaw Pact was signed in Warsaw, Poland."</data>
+      <data key="d10">95d4f143f4378ed2790157fbf2945fc5</data>
+      <data key="d11">db541b7260974db8bac94e953009f60e</data>
+      <data key="d12">61</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ROSHCHINO INTERNATIONAL AIRPORT&quot;" target="&quot;AEROFLOT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Aeroflot operated a flight from Roshchino International Airport."</data>
+      <data key="d10">ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d11">f2ff8044718648e18acef16dd9a65436</data>
+      <data key="d12">62</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ROSHCHINO INTERNATIONAL AIRPORT&quot;" target="&quot;TYUMEN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Roshchino International Airport is located in Tyumen."</data>
+      <data key="d10">ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d11">00d785e7d76b47ec81b508e768d40584</data>
+      <data key="d12">63</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SURGUT INTERNATIONAL AIRPORT&quot;" target="&quot;AEROFLOT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Aeroflot operated a flight that crashed at Surgut International Airport."</data>
+      <data key="d10">ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d11">87915637da3e474c9349bd0ae604bd95</data>
+      <data key="d12">64</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SURGUT INTERNATIONAL AIRPORT&quot;" target="&quot;SURGUT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Surgut International Airport is located in Surgut."</data>
+      <data key="d10">ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d11">8f1eba29f39e411188200bf0d14628ec</data>
+      <data key="d12">65</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;1971 JANUARY 31 SURGUT AEROFLOT ANTONOV AN-12 CRASH&quot;" target="&quot;AEROFLOT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The crash involved an Aeroflot aircraft."</data>
+      <data key="d10">ff847350fefbb16bb54c93d99908a6b1</data>
+      <data key="d11">7282c73622b8408e97289d959faff483</data>
+      <data key="d12">66</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;COUNCIL FOR MUTUAL ECONOMIC ASSISTANCE (COMECON)&quot;" target="&quot;WARSAW PACT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Council for Mutual Economic Assistance (CoMEcon) was the economic complement to the military alliance of the Warsaw Pact."</data>
+      <data key="d10">95d4f143f4378ed2790157fbf2945fc5</data>
+      <data key="d11">3deb220d31f74103aa44870a36a63220</data>
+      <data key="d12">67</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;WEST GERMANY&quot;" target="&quot;NATO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"West Germany joined NATO, prompting the creation of the Warsaw Pact as a response."</data>
+      <data key="d10">95d4f143f4378ed2790157fbf2945fc5</data>
+      <data key="d11">af7a1584dd15492cb9a4940e285f57fc</data>
+      <data key="d12">68</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;JOACHIM VON RIBBENTROP&quot;" target="&quot;MOLOTOV -- RIBBENTROP PACT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Joachim von Ribbentrop signed the Molotov -- Ribbentrop Pact on behalf of Nazi Germany."</data>
+      <data key="d10">6fa040b4d8cd2f23163367d48a74de17</data>
+      <data key="d11">6e8d9029ce4e4ea182367173ab2c7bbf</data>
+      <data key="d12">69</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;VYACHESLAV MOLOTOV&quot;" target="&quot;MOLOTOV -- RIBBENTROP PACT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Vyacheslav Molotov signed the Molotov -- Ribbentrop Pact on behalf of the Soviet Union."</data>
+      <data key="d10">6fa040b4d8cd2f23163367d48a74de17</data>
+      <data key="d11">cbf232211e7d4eb6abdbe182f71c2cf0</data>
+      <data key="d12">70</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;GEORGIAN SOVIET SOCIALIST REPUBLIC (GEORGIAN SSR)&quot;" target="&quot;DEMOCRATIC REPUBLIC OF GEORGIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Democratic Republic of Georgia was annexed by Soviet forces, leading to the formation of the Georgian SSR."</data>
+      <data key="d10">b8dfea88630925e9ab8e91f721951675</data>
+      <data key="d11">bb0cff774a4440b289cc6f3b929fe13c</data>
+      <data key="d12">71</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;CHECHEN-INGUSH AUTONOMOUS SOVIET SOCIALIST REPUBLIC&quot;" target="&quot;GEORGIAN SSR&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Chechen-Ingush Autonomous Soviet Socialist Republic was previously part of the Georgian SSR before being transferred to the Russian SFSR."</data>
+      <data key="d10">9bb07b005588065c9b0574c491231579</data>
+      <data key="d11">ce55841ebfdd47008bab8c258f10372e</data>
+      <data key="d12">72</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;KHRUSHCHEV&quot;" target="&quot;RESTORATION OF KARACHAY AUTONOMOUS OBLAST AND CHECHEN-INGUSH AUTONOMOUS SOVIET SOCIALIST REPUBLIC&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Khrushchev played a key role in the restoration of Karachay Autonomous Oblast and Chechen-Ingush Autonomous Soviet Socialist Republic."</data>
+      <data key="d10">9bb07b005588065c9b0574c491231579</data>
+      <data key="d11">6090e736374d45fd84f0e4610a314f8f</data>
+      <data key="d12">73</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;GEORGIAN SSR&quot;" target="&quot;KARACHAY AUTONOMOUS OBLAST&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Karachay Autonomous Oblast was previously part of the Georgian SSR before being transferred to the Russian SFSR."</data>
+      <data key="d10">9bb07b005588065c9b0574c491231579</data>
+      <data key="d11">0e8d921ccd8d4a8594b65b7fd19f7120</data>
+      <data key="d12">74</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ARMENIAN GENOCIDE&quot;" target="&quot;OTTOMAN EMPIRE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Ottoman Empire was responsible for the Armenian Genocide during World War I."</data>
+      <data key="d10">f3c295da490f71292b200c9096cff494</data>
+      <data key="d11">59c726a8792d443e84ab052cb7942b4a</data>
+      <data key="d12">75</data>
+      <data key="d13">1</data>
+    </edge>
+  </graph>
+</graphml>

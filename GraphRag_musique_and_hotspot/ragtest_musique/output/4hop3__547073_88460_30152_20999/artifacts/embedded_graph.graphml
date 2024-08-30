@@ -1,0 +1,582 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;SOMALIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Somalia is a country located in the Horn of Africa, where the majority of Somalis reside, with approximately 12.3 million ethnic Somalis. Additionally, Somalia is also home to Radio Mogadishu, which is based and operates within the country.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">36adf7cc0da059fa083bdcf262972469,e21171be48276f602498b4bb33fc4eb9</data>
+    </node>
+    <node id="&quot;TRANSITIONAL NATIONAL GOVERNMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Transitional National Government is an organization that re-opened Radio Mogadishu in the early 2000s."</data>
+      <data key="d2">36adf7cc0da059fa083bdcf262972469</data>
+    </node>
+    <node id="&quot;RADIO MOGADISHU&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">36adf7cc0da059fa083bdcf262972469</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">312003d4dc90cef2caea8f62ec5089d1,36adf7cc0da059fa083bdcf262972469,3911116d0441f6dfa8c9d6f7b07861e3,3ca43e020b70239192a9d14f9338bd44,4f075c05ced344aa9d3cfdc42dd2b3de,55cfeefa12a2f7b37acce058f2b8fe28,aee4e7ec6f787b41a9f683ca4c1983ed,c50d0ad1c2349bff31d4b03795ac28d1,e21171be48276f602498b4bb33fc4eb9,fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">312003d4dc90cef2caea8f62ec5089d1,36adf7cc0da059fa083bdcf262972469,3911116d0441f6dfa8c9d6f7b07861e3,3ca43e020b70239192a9d14f9338bd44,4f075c05ced344aa9d3cfdc42dd2b3de,55cfeefa12a2f7b37acce058f2b8fe28,aee4e7ec6f787b41a9f683ca4c1983ed,c50d0ad1c2349bff31d4b03795ac28d1,e21171be48276f602498b4bb33fc4eb9,fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">312003d4dc90cef2caea8f62ec5089d1,36adf7cc0da059fa083bdcf262972469,3911116d0441f6dfa8c9d6f7b07861e3,3ca43e020b70239192a9d14f9338bd44,4f075c05ced344aa9d3cfdc42dd2b3de,55cfeefa12a2f7b37acce058f2b8fe28,aee4e7ec6f787b41a9f683ca4c1983ed,c50d0ad1c2349bff31d4b03795ac28d1,e21171be48276f602498b4bb33fc4eb9,fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">312003d4dc90cef2caea8f62ec5089d1,36adf7cc0da059fa083bdcf262972469,3911116d0441f6dfa8c9d6f7b07861e3,3ca43e020b70239192a9d14f9338bd44,4f075c05ced344aa9d3cfdc42dd2b3de,55cfeefa12a2f7b37acce058f2b8fe28,aee4e7ec6f787b41a9f683ca4c1983ed,c50d0ad1c2349bff31d4b03795ac28d1,e21171be48276f602498b4bb33fc4eb9,fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">312003d4dc90cef2caea8f62ec5089d1,36adf7cc0da059fa083bdcf262972469,3911116d0441f6dfa8c9d6f7b07861e3,3ca43e020b70239192a9d14f9338bd44,4f075c05ced344aa9d3cfdc42dd2b3de,55cfeefa12a2f7b37acce058f2b8fe28,aee4e7ec6f787b41a9f683ca4c1983ed,c50d0ad1c2349bff31d4b03795ac28d1,e21171be48276f602498b4bb33fc4eb9,fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">312003d4dc90cef2caea8f62ec5089d1,36adf7cc0da059fa083bdcf262972469,3911116d0441f6dfa8c9d6f7b07861e3,3ca43e020b70239192a9d14f9338bd44,4f075c05ced344aa9d3cfdc42dd2b3de,55cfeefa12a2f7b37acce058f2b8fe28,aee4e7ec6f787b41a9f683ca4c1983ed,c50d0ad1c2349bff31d4b03795ac28d1,e21171be48276f602498b4bb33fc4eb9,fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">312003d4dc90cef2caea8f62ec5089d1,36adf7cc0da059fa083bdcf262972469,3911116d0441f6dfa8c9d6f7b07861e3,3ca43e020b70239192a9d14f9338bd44,4f075c05ced344aa9d3cfdc42dd2b3de,55cfeefa12a2f7b37acce058f2b8fe28,aee4e7ec6f787b41a9f683ca4c1983ed,c50d0ad1c2349bff31d4b03795ac28d1,e21171be48276f602498b4bb33fc4eb9,fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">312003d4dc90cef2caea8f62ec5089d1,36adf7cc0da059fa083bdcf262972469,3911116d0441f6dfa8c9d6f7b07861e3,3ca43e020b70239192a9d14f9338bd44,4f075c05ced344aa9d3cfdc42dd2b3de,55cfeefa12a2f7b37acce058f2b8fe28,aee4e7ec6f787b41a9f683ca4c1983ed,c50d0ad1c2349bff31d4b03795ac28d1,e21171be48276f602498b4bb33fc4eb9,fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">312003d4dc90cef2caea8f62ec5089d1,36adf7cc0da059fa083bdcf262972469,3911116d0441f6dfa8c9d6f7b07861e3,3ca43e020b70239192a9d14f9338bd44,4f075c05ced344aa9d3cfdc42dd2b3de,55cfeefa12a2f7b37acce058f2b8fe28,aee4e7ec6f787b41a9f683ca4c1983ed,c50d0ad1c2349bff31d4b03795ac28d1,e21171be48276f602498b4bb33fc4eb9,fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">312003d4dc90cef2caea8f62ec5089d1,36adf7cc0da059fa083bdcf262972469,3911116d0441f6dfa8c9d6f7b07861e3,3ca43e020b70239192a9d14f9338bd44,4f075c05ced344aa9d3cfdc42dd2b3de,55cfeefa12a2f7b37acce058f2b8fe28,aee4e7ec6f787b41a9f683ca4c1983ed,c50d0ad1c2349bff31d4b03795ac28d1,e21171be48276f602498b4bb33fc4eb9,fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;CHINA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"China is a country that shares a border with Myanmar."</data>
+      <data key="d2">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </node>
+    <node id="&quot;INDIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+India is a country that shares a border with Myanmar.</data>
+      <data key="d2">3ca43e020b70239192a9d14f9338bd44,aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </node>
+    <node id="&quot;BANGLADESH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Bangladesh is a country that shares a border with Myanmar and was created as a result of the Partition of British India in 1947. It is now known as the People's Republic of Bangladesh.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">3ca43e020b70239192a9d14f9338bd44,aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </node>
+    <node id="&quot;THAILAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Thailand is a country located in Southeast Asia, sharing a border with Myanmar. It comprises various provinces and districts, including Chiang Rai Province, Phan District, and Muang Kham. Additionally, Thailand has a region in its predominantly Malay Muslim south where the PULO (Patani United Liberation Organisation) is fighting for independence.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">312003d4dc90cef2caea8f62ec5089d1,4f075c05ced344aa9d3cfdc42dd2b3de,55cfeefa12a2f7b37acce058f2b8fe28,aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </node>
+    <node id="&quot;LAOS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Laos is a country that shares a border with Myanmar."</data>
+      <data key="d2">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </node>
+    <node id="&quot;HIMALAYAS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Himalayas are a mountain range located to the northwest of Myanmar."</data>
+      <data key="d2">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </node>
+    <node id="&quot;BAY OF BENGAL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Bay of Bengal is a body of water located to the west of Myanmar."</data>
+      <data key="d2">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </node>
+    <node id="&quot;ANDAMAN SEA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Andaman Sea is a body of water located to the south of Myanmar."</data>
+      <data key="d2">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </node>
+    <node id="&quot;MYANMAR&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </node>
+    <node id="&quot;PHAN DISTRICT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Phan District is an administrative district in Chiang Rai Province, Thailand, where Muang Kham is located.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">4f075c05ced344aa9d3cfdc42dd2b3de,55cfeefa12a2f7b37acce058f2b8fe28</data>
+    </node>
+    <node id="&quot;CHIANG RAI PROVINCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Chiang Rai Province is a province in Thailand where Phan District and Muang Kham are located.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">4f075c05ced344aa9d3cfdc42dd2b3de,55cfeefa12a2f7b37acce058f2b8fe28</data>
+    </node>
+    <node id="&quot;MUANG KHAM&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">55cfeefa12a2f7b37acce058f2b8fe28</data>
+    </node>
+    <node id="&quot;PATANI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Patani is a region in Thailand, where the PULO is calling for independence."</data>
+      <data key="d2">312003d4dc90cef2caea8f62ec5089d1</data>
+    </node>
+    <node id="&quot;PATANI UNITED LIBERATION ORGANISATION (PULO)&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">312003d4dc90cef2caea8f62ec5089d1</data>
+    </node>
+    <node id="&quot;INDEPENDENCE OF PATANI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">312003d4dc90cef2caea8f62ec5089d1</data>
+    </node>
+    <node id="&quot;MONASHEE COUNTRY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Monashee Country is a region in the Southern Interior of British Columbia, Canada."</data>
+      <data key="d2">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;SOUTHERN INTERIOR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Southern Interior is a region in British Columbia, Canada."</data>
+      <data key="d2">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;BRITISH COLUMBIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"British Columbia is a province in Canada."</data>
+      <data key="d2">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Canada is a country."</data>
+      <data key="d2">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;OKANAGAN VALLEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Okanagan Valley is a region in British Columbia, Canada."</data>
+      <data key="d2">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;BOUNDARY COUNTRY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Boundary Country is a region in British Columbia, Canada."</data>
+      <data key="d2">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;WEST KETTLE RIVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"West Kettle River is a river in British Columbia, Canada."</data>
+      <data key="d2">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;KELOWNA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Kelowna is a city in British Columbia, Canada."</data>
+      <data key="d2">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;ROCK CREEK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Rock Creek is a settlement in British Columbia, Canada."</data>
+      <data key="d2">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;BEAVERDELL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </node>
+    <node id="&quot;PAKISTAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pakistan is a country that was created as a result of the Partition of British India in 1947, and is now known as the Islamic Republic of Pakistan."</data>
+      <data key="d2">3ca43e020b70239192a9d14f9338bd44</data>
+    </node>
+    <node id="&quot;BRITISH INDIAN ARMY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The British Indian Army was a military organization that was divided between India and Pakistan during the Partition of British India in 1947."</data>
+      <data key="d2">3ca43e020b70239192a9d14f9338bd44</data>
+    </node>
+    <node id="&quot;ROYAL INDIAN NAVY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Royal Indian Navy was a naval organization that was divided between India and Pakistan during the Partition of British India in 1947."</data>
+      <data key="d2">3ca43e020b70239192a9d14f9338bd44</data>
+    </node>
+    <node id="&quot;INDIAN CIVIL SERVICE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Indian Civil Service was an administrative organization that was divided between India and Pakistan during the Partition of British India in 1947."</data>
+      <data key="d2">3ca43e020b70239192a9d14f9338bd44</data>
+    </node>
+    <node id="&quot;RADCLIFFE LINE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Radcliffe Line is a boundary that demarcates India and Pakistan, established as a result of the Partition of British India in 1947."</data>
+      <data key="d2">3ca43e020b70239192a9d14f9338bd44</data>
+    </node>
+    <node id="&quot;BRITISH RAJ&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The British Raj was the British government in India that was dissolved as a result of the Partition of British India in 1947."</data>
+      <data key="d2">3ca43e020b70239192a9d14f9338bd44</data>
+    </node>
+    <node id="&quot;MUEANG PHAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4f075c05ced344aa9d3cfdc42dd2b3de</data>
+    </node>
+    <node id="&quot;SI PHAN DON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Si Phan Don is a riverine archipelago located in the Mekong River, southern Laos."</data>
+      <data key="d2">3911116d0441f6dfa8c9d6f7b07861e3</data>
+    </node>
+    <node id="&quot;MEKONG RIVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mekong River is a major river where the Si Phan Don riverine archipelago is located."</data>
+      <data key="d2">3911116d0441f6dfa8c9d6f7b07861e3</data>
+    </node>
+    <node id="&quot;KHONG DISTRICT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Khong District is an administrative district in Champasak Province, southern Laos."</data>
+      <data key="d2">3911116d0441f6dfa8c9d6f7b07861e3</data>
+    </node>
+    <node id="&quot;CHAMPASAK PROVINCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Champasak Province is a province in southern Laos where Khong Island and Khong District are located."</data>
+      <data key="d2">3911116d0441f6dfa8c9d6f7b07861e3</data>
+    </node>
+    <node id="&quot;KHONG ISLAND&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3911116d0441f6dfa8c9d6f7b07861e3</data>
+    </node>
+    <node id="&quot;CHRISTIAN GREEKS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Christian Greeks are a minority group within The Empire's population, mentioned alongside other non-Muslim groups."</data>
+      <data key="d2">c50d0ad1c2349bff31d4b03795ac28d1</data>
+    </node>
+    <node id="&quot;ASSYRIANS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Assyrians are a minority group within The Empire's population, mentioned alongside other non-Muslim groups."</data>
+      <data key="d2">c50d0ad1c2349bff31d4b03795ac28d1</data>
+    </node>
+    <node id="&quot;ARMENIANS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Armenians are a minority group within The Empire's population, mentioned alongside other non-Muslim groups."</data>
+      <data key="d2">c50d0ad1c2349bff31d4b03795ac28d1</data>
+    </node>
+    <node id="&quot;JEWS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jews are a minority group within The Empire's population, mentioned alongside other non-Muslim groups."</data>
+      <data key="d2">c50d0ad1c2349bff31d4b03795ac28d1</data>
+    </node>
+    <node id="&quot;THE EMPIRE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c50d0ad1c2349bff31d4b03795ac28d1</data>
+    </node>
+    <node id="&quot;ETHIOPIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ethiopia is a country in the Horn of Africa where a significant number of Somalis reside, with around 4.6 million ethnic Somalis."</data>
+      <data key="d2">e21171be48276f602498b4bb33fc4eb9</data>
+    </node>
+    <node id="&quot;KENYA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Kenya is a country in East Africa where a significant number of Somalis reside, with around 2.4 million ethnic Somalis."</data>
+      <data key="d2">e21171be48276f602498b4bb33fc4eb9</data>
+    </node>
+    <node id="&quot;DJIBOUTI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Djibouti is a country in the Horn of Africa where a smaller number of Somalis reside, with around 464,600 ethnic Somalis."</data>
+      <data key="d2">e21171be48276f602498b4bb33fc4eb9</data>
+    </node>
+    <node id="&quot;SOMALIS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e21171be48276f602498b4bb33fc4eb9</data>
+    </node>
+    <edge source="&quot;SOMALIA&quot;" target="&quot;RADIO MOGADISHU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Radio Mogadishu is based and operates in Somalia."</data>
+      <data key="d5">36adf7cc0da059fa083bdcf262972469</data>
+    </edge>
+    <edge source="&quot;SOMALIA&quot;" target="&quot;SOMALIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The majority of Somalis reside in Somalia."</data>
+      <data key="d5">e21171be48276f602498b4bb33fc4eb9</data>
+    </edge>
+    <edge source="&quot;TRANSITIONAL NATIONAL GOVERNMENT&quot;" target="&quot;RADIO MOGADISHU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Transitional National Government re-opened Radio Mogadishu in the early 2000s."</data>
+      <data key="d5">36adf7cc0da059fa083bdcf262972469</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">312003d4dc90cef2caea8f62ec5089d1,36adf7cc0da059fa083bdcf262972469,3911116d0441f6dfa8c9d6f7b07861e3,3ca43e020b70239192a9d14f9338bd44,4f075c05ced344aa9d3cfdc42dd2b3de,55cfeefa12a2f7b37acce058f2b8fe28,aee4e7ec6f787b41a9f683ca4c1983ed,c50d0ad1c2349bff31d4b03795ac28d1,e21171be48276f602498b4bb33fc4eb9,fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">312003d4dc90cef2caea8f62ec5089d1,36adf7cc0da059fa083bdcf262972469,3911116d0441f6dfa8c9d6f7b07861e3,3ca43e020b70239192a9d14f9338bd44,4f075c05ced344aa9d3cfdc42dd2b3de,55cfeefa12a2f7b37acce058f2b8fe28,aee4e7ec6f787b41a9f683ca4c1983ed,c50d0ad1c2349bff31d4b03795ac28d1,e21171be48276f602498b4bb33fc4eb9,fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">312003d4dc90cef2caea8f62ec5089d1,36adf7cc0da059fa083bdcf262972469,3911116d0441f6dfa8c9d6f7b07861e3,3ca43e020b70239192a9d14f9338bd44,4f075c05ced344aa9d3cfdc42dd2b3de,55cfeefa12a2f7b37acce058f2b8fe28,aee4e7ec6f787b41a9f683ca4c1983ed,c50d0ad1c2349bff31d4b03795ac28d1,e21171be48276f602498b4bb33fc4eb9,fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">312003d4dc90cef2caea8f62ec5089d1,36adf7cc0da059fa083bdcf262972469,3911116d0441f6dfa8c9d6f7b07861e3,3ca43e020b70239192a9d14f9338bd44,4f075c05ced344aa9d3cfdc42dd2b3de,55cfeefa12a2f7b37acce058f2b8fe28,aee4e7ec6f787b41a9f683ca4c1983ed,c50d0ad1c2349bff31d4b03795ac28d1,e21171be48276f602498b4bb33fc4eb9,fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">312003d4dc90cef2caea8f62ec5089d1,36adf7cc0da059fa083bdcf262972469,3911116d0441f6dfa8c9d6f7b07861e3,3ca43e020b70239192a9d14f9338bd44,4f075c05ced344aa9d3cfdc42dd2b3de,55cfeefa12a2f7b37acce058f2b8fe28,aee4e7ec6f787b41a9f683ca4c1983ed,c50d0ad1c2349bff31d4b03795ac28d1,e21171be48276f602498b4bb33fc4eb9,fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">312003d4dc90cef2caea8f62ec5089d1,36adf7cc0da059fa083bdcf262972469,3911116d0441f6dfa8c9d6f7b07861e3,3ca43e020b70239192a9d14f9338bd44,4f075c05ced344aa9d3cfdc42dd2b3de,55cfeefa12a2f7b37acce058f2b8fe28,aee4e7ec6f787b41a9f683ca4c1983ed,c50d0ad1c2349bff31d4b03795ac28d1,e21171be48276f602498b4bb33fc4eb9,fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">312003d4dc90cef2caea8f62ec5089d1,36adf7cc0da059fa083bdcf262972469,3911116d0441f6dfa8c9d6f7b07861e3,3ca43e020b70239192a9d14f9338bd44,4f075c05ced344aa9d3cfdc42dd2b3de,55cfeefa12a2f7b37acce058f2b8fe28,aee4e7ec6f787b41a9f683ca4c1983ed,c50d0ad1c2349bff31d4b03795ac28d1,e21171be48276f602498b4bb33fc4eb9,fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">312003d4dc90cef2caea8f62ec5089d1,36adf7cc0da059fa083bdcf262972469,3911116d0441f6dfa8c9d6f7b07861e3,3ca43e020b70239192a9d14f9338bd44,4f075c05ced344aa9d3cfdc42dd2b3de,55cfeefa12a2f7b37acce058f2b8fe28,aee4e7ec6f787b41a9f683ca4c1983ed,c50d0ad1c2349bff31d4b03795ac28d1,e21171be48276f602498b4bb33fc4eb9,fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">312003d4dc90cef2caea8f62ec5089d1,36adf7cc0da059fa083bdcf262972469,3911116d0441f6dfa8c9d6f7b07861e3,3ca43e020b70239192a9d14f9338bd44,4f075c05ced344aa9d3cfdc42dd2b3de,55cfeefa12a2f7b37acce058f2b8fe28,aee4e7ec6f787b41a9f683ca4c1983ed,c50d0ad1c2349bff31d4b03795ac28d1,e21171be48276f602498b4bb33fc4eb9,fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;CHINA&quot;" target="&quot;MYANMAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Myanmar shares a border with China."</data>
+      <data key="d5">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;MYANMAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Myanmar shares a border with India."</data>
+      <data key="d5">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;PAKISTAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"India and Pakistan were created as two separate countries as a result of the Partition of British India in 1947."</data>
+      <data key="d5">3ca43e020b70239192a9d14f9338bd44</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;BRITISH INDIAN ARMY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The British Indian Army was divided between India and Pakistan during the Partition of British India in 1947, with some units going to India."</data>
+      <data key="d5">3ca43e020b70239192a9d14f9338bd44</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;RADCLIFFE LINE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Radcliffe Line is a boundary that demarcates India from Pakistan, established as a result of the Partition of British India in 1947."</data>
+      <data key="d5">3ca43e020b70239192a9d14f9338bd44</data>
+    </edge>
+    <edge source="&quot;BANGLADESH&quot;" target="&quot;MYANMAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Myanmar shares a border with Bangladesh."</data>
+      <data key="d5">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </edge>
+    <edge source="&quot;THAILAND&quot;" target="&quot;MYANMAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Myanmar shares a border with Thailand."</data>
+      <data key="d5">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </edge>
+    <edge source="&quot;THAILAND&quot;" target="&quot;CHIANG RAI PROVINCE&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Chiang Rai Province is a province in Thailand."</data>
+      <data key="d5">4f075c05ced344aa9d3cfdc42dd2b3de,55cfeefa12a2f7b37acce058f2b8fe28</data>
+    </edge>
+    <edge source="&quot;THAILAND&quot;" target="&quot;PATANI UNITED LIBERATION ORGANISATION (PULO)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The PULO is fighting for independence from Thailand."</data>
+      <data key="d5">312003d4dc90cef2caea8f62ec5089d1</data>
+    </edge>
+    <edge source="&quot;LAOS&quot;" target="&quot;MYANMAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Myanmar shares a border with Laos."</data>
+      <data key="d5">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </edge>
+    <edge source="&quot;HIMALAYAS&quot;" target="&quot;MYANMAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Himalayas are located to the northwest of Myanmar."</data>
+      <data key="d5">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </edge>
+    <edge source="&quot;BAY OF BENGAL&quot;" target="&quot;MYANMAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Bay of Bengal is located to the west of Myanmar."</data>
+      <data key="d5">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </edge>
+    <edge source="&quot;ANDAMAN SEA&quot;" target="&quot;MYANMAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Andaman Sea is located to the south of Myanmar."</data>
+      <data key="d5">aee4e7ec6f787b41a9f683ca4c1983ed</data>
+    </edge>
+    <edge source="&quot;PHAN DISTRICT&quot;" target="&quot;MUANG KHAM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Muang Kham is a subdistrict of Phan District."</data>
+      <data key="d5">55cfeefa12a2f7b37acce058f2b8fe28</data>
+    </edge>
+    <edge source="&quot;PHAN DISTRICT&quot;" target="&quot;CHIANG RAI PROVINCE&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Phan District is an administrative district in Chiang Rai Province."</data>
+      <data key="d5">4f075c05ced344aa9d3cfdc42dd2b3de,55cfeefa12a2f7b37acce058f2b8fe28</data>
+    </edge>
+    <edge source="&quot;PHAN DISTRICT&quot;" target="&quot;MUEANG PHAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mueang Phan is a subdistrict of Phan District."</data>
+      <data key="d5">4f075c05ced344aa9d3cfdc42dd2b3de</data>
+    </edge>
+    <edge source="&quot;PATANI&quot;" target="&quot;PATANI UNITED LIBERATION ORGANISATION (PULO)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The PULO is calling for the independence of Patani."</data>
+      <data key="d5">312003d4dc90cef2caea8f62ec5089d1</data>
+    </edge>
+    <edge source="&quot;PATANI UNITED LIBERATION ORGANISATION (PULO)&quot;" target="&quot;INDEPENDENCE OF PATANI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The PULO is fighting for the Independence of Patani."</data>
+      <data key="d5">312003d4dc90cef2caea8f62ec5089d1</data>
+    </edge>
+    <edge source="&quot;MONASHEE COUNTRY&quot;" target="&quot;BEAVERDELL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Beaverdell is located in the Monashee Country region."</data>
+      <data key="d5">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;SOUTHERN INTERIOR&quot;" target="&quot;BEAVERDELL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Beaverdell is located in the Southern Interior region of British Columbia, Canada."</data>
+      <data key="d5">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;BRITISH COLUMBIA&quot;" target="&quot;BEAVERDELL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Beaverdell is a settlement in the province of British Columbia, Canada."</data>
+      <data key="d5">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;BRITISH COLUMBIA&quot;" target="&quot;OKANAGAN VALLEY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Okanagan Valley is a region in British Columbia, Canada."</data>
+      <data key="d5">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;BRITISH COLUMBIA&quot;" target="&quot;BOUNDARY COUNTRY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Boundary Country is a region in British Columbia, Canada."</data>
+      <data key="d5">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;BRITISH COLUMBIA&quot;" target="&quot;KELOWNA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Kelowna is a city in British Columbia, Canada."</data>
+      <data key="d5">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;BRITISH COLUMBIA&quot;" target="&quot;ROCK CREEK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Rock Creek is a settlement in British Columbia, Canada."</data>
+      <data key="d5">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;CANADA&quot;" target="&quot;BEAVERDELL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Beaverdell is a settlement in the country of Canada."</data>
+      <data key="d5">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;WEST KETTLE RIVER&quot;" target="&quot;BEAVERDELL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Beaverdell is located along the West Kettle River."</data>
+      <data key="d5">fca0e26cd9066bd1b152aa203cff62d1</data>
+    </edge>
+    <edge source="&quot;PAKISTAN&quot;" target="&quot;ROYAL INDIAN NAVY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Royal Indian Navy was divided between India and Pakistan during the Partition of British India in 1947, with some units going to Pakistan."</data>
+      <data key="d5">3ca43e020b70239192a9d14f9338bd44</data>
+    </edge>
+    <edge source="&quot;SI PHAN DON&quot;" target="&quot;KHONG ISLAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Khong Island is part of the Si Phan Don riverine archipelago."</data>
+      <data key="d5">3911116d0441f6dfa8c9d6f7b07861e3</data>
+    </edge>
+    <edge source="&quot;SI PHAN DON&quot;" target="&quot;MEKONG RIVER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Si Phan Don is located in the Mekong River."</data>
+      <data key="d5">3911116d0441f6dfa8c9d6f7b07861e3</data>
+    </edge>
+    <edge source="&quot;KHONG DISTRICT&quot;" target="&quot;CHAMPASAK PROVINCE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Khong District is an administrative district in Champasak Province."</data>
+      <data key="d5">3911116d0441f6dfa8c9d6f7b07861e3</data>
+    </edge>
+    <edge source="&quot;KHONG DISTRICT&quot;" target="&quot;KHONG ISLAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Khong Island is located in Khong District."</data>
+      <data key="d5">3911116d0441f6dfa8c9d6f7b07861e3</data>
+    </edge>
+    <edge source="&quot;CHRISTIAN GREEKS&quot;" target="&quot;THE EMPIRE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Empire has Christian Greeks as part of its population."</data>
+      <data key="d5">c50d0ad1c2349bff31d4b03795ac28d1</data>
+    </edge>
+    <edge source="&quot;ASSYRIANS&quot;" target="&quot;THE EMPIRE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Empire has Assyrians as part of its population."</data>
+      <data key="d5">c50d0ad1c2349bff31d4b03795ac28d1</data>
+    </edge>
+    <edge source="&quot;ARMENIANS&quot;" target="&quot;THE EMPIRE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Empire has Armenians as part of its population."</data>
+      <data key="d5">c50d0ad1c2349bff31d4b03795ac28d1</data>
+    </edge>
+    <edge source="&quot;JEWS&quot;" target="&quot;THE EMPIRE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Empire has Jews as part of its population."</data>
+      <data key="d5">c50d0ad1c2349bff31d4b03795ac28d1</data>
+    </edge>
+    <edge source="&quot;ETHIOPIA&quot;" target="&quot;SOMALIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"A significant number of Somalis reside in Ethiopia."</data>
+      <data key="d5">e21171be48276f602498b4bb33fc4eb9</data>
+    </edge>
+    <edge source="&quot;KENYA&quot;" target="&quot;SOMALIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"A significant number of Somalis reside in Kenya."</data>
+      <data key="d5">e21171be48276f602498b4bb33fc4eb9</data>
+    </edge>
+    <edge source="&quot;DJIBOUTI&quot;" target="&quot;SOMALIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"A smaller number of Somalis reside in Djibouti."</data>
+      <data key="d5">e21171be48276f602498b4bb33fc4eb9</data>
+    </edge>
+  </graph>
+</graphml>

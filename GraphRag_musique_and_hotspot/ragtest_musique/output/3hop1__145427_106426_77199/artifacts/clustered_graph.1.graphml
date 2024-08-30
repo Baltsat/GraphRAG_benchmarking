@@ -1,0 +1,1670 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d14" for="edge" attr.name="level" attr.type="long" />
+  <key id="d13" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d12" for="edge" attr.name="id" attr.type="string" />
+  <key id="d11" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="description" attr.type="string" />
+  <key id="d9" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d8" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d7" for="node" attr.name="id" attr.type="string" />
+  <key id="d6" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d5" for="node" attr.name="degree" attr.type="long" />
+  <key id="d4" for="node" attr.name="level" attr.type="long" />
+  <key id="d3" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;NAZI GERMANY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Nazi Germany was a country involved in World War II, against which the Allied naval blockade was announced. Additionally, it declared war against the United States and Italy.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">2b4b47e827d48aae04b2e8e31e72ac4c,e12438d230ce4e38800798a5e0678add</data>
+      <data key="d3">8</data>
+      <data key="d4">1</data>
+      <data key="d5">3</data>
+      <data key="d6">0</data>
+      <data key="d7">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country that declared war on Germany and Italy. Additionally, it is a country where Tucson, Pima County, and Arizona are located.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">17fc289e5de58ee0011aa092593090c1,28ce4fba5ee546e1af133952d6609dc0,2b4b47e827d48aae04b2e8e31e72ac4c,2fb8f27db4d5fa2f555cc93f0ec181e7,3c5c3fd4d87e9bfc4a0b1ed745611129,62583da797d5b634568809380f599757,793d9bccdb5f558ae8bf74083c4e5ec9,7f9be1a77e0fdc4525c9c715083b3eed,97c204eae9e208edba2399a5875d040b,97d8f8dfd7100d7b8ae4d164469dc972,97e0dc762f4655701048add024396496,9b415aa5a7e26f71d2c59244118acc8d,a459f0c3fbe980368b138174a6603372,a93ce9b62cfdef0a197da45e5a1d9746,c337c6c7425b1fd15c57e30bbd64c6f0,d0d8b82536cfedbd61aa6788ebea72ce,e12438d230ce4e38800798a5e0678add,e30115f46188684dd6791bd1276cfef9,e46a5413f5450b1da37a8278b12a106d,f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d8">"GEO"</data>
+      <data key="d5">8</data>
+      <data key="d6">1</data>
+      <data key="d7">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;ITALY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Italy is a country that played a significant role in World War II as one of the Axis powers. Following the United States' declaration of war against Japan, Italy, being an ally of Japan, declared war on the United States. Notably, Italy is also the birthplace and final resting place of Annibale Bergonzoli, an Italian Lieutenant General who served during this period.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">62583da797d5b634568809380f599757,97c204eae9e208edba2399a5875d040b,97e0dc762f4655701048add024396496,e12438d230ce4e38800798a5e0678add</data>
+      <data key="d3">9</data>
+      <data key="d4">1</data>
+      <data key="d5">3</data>
+      <data key="d6">2</data>
+      <data key="d7">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;DECLARATION OF WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Declaration of War refers to the event where Nazi Germany declared war against the United States, and the United States declared war on Germany and Italy."</data>
+      <data key="d2">e12438d230ce4e38800798a5e0678add</data>
+      <data key="d3">8</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">3</data>
+      <data key="d7">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;ADOLF HITLER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e12438d230ce4e38800798a5e0678add</data>
+      <data key="d3">8</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">4</data>
+      <data key="d7">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">17fc289e5de58ee0011aa092593090c1,28ce4fba5ee546e1af133952d6609dc0,2b4b47e827d48aae04b2e8e31e72ac4c,2fb8f27db4d5fa2f555cc93f0ec181e7,3c5c3fd4d87e9bfc4a0b1ed745611129,62583da797d5b634568809380f599757,793d9bccdb5f558ae8bf74083c4e5ec9,7f9be1a77e0fdc4525c9c715083b3eed,97c204eae9e208edba2399a5875d040b,97d8f8dfd7100d7b8ae4d164469dc972,97e0dc762f4655701048add024396496,9b415aa5a7e26f71d2c59244118acc8d,a459f0c3fbe980368b138174a6603372,a93ce9b62cfdef0a197da45e5a1d9746,c337c6c7425b1fd15c57e30bbd64c6f0,d0d8b82536cfedbd61aa6788ebea72ce,e12438d230ce4e38800798a5e0678add,e30115f46188684dd6791bd1276cfef9,e46a5413f5450b1da37a8278b12a106d,f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d5">2</data>
+      <data key="d6">5</data>
+      <data key="d7">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">17fc289e5de58ee0011aa092593090c1,28ce4fba5ee546e1af133952d6609dc0,2b4b47e827d48aae04b2e8e31e72ac4c,2fb8f27db4d5fa2f555cc93f0ec181e7,3c5c3fd4d87e9bfc4a0b1ed745611129,62583da797d5b634568809380f599757,793d9bccdb5f558ae8bf74083c4e5ec9,7f9be1a77e0fdc4525c9c715083b3eed,97c204eae9e208edba2399a5875d040b,97d8f8dfd7100d7b8ae4d164469dc972,97e0dc762f4655701048add024396496,9b415aa5a7e26f71d2c59244118acc8d,a459f0c3fbe980368b138174a6603372,a93ce9b62cfdef0a197da45e5a1d9746,c337c6c7425b1fd15c57e30bbd64c6f0,d0d8b82536cfedbd61aa6788ebea72ce,e12438d230ce4e38800798a5e0678add,e30115f46188684dd6791bd1276cfef9,e46a5413f5450b1da37a8278b12a106d,f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d5">1</data>
+      <data key="d6">6</data>
+      <data key="d7">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">17fc289e5de58ee0011aa092593090c1,28ce4fba5ee546e1af133952d6609dc0,2b4b47e827d48aae04b2e8e31e72ac4c,2fb8f27db4d5fa2f555cc93f0ec181e7,3c5c3fd4d87e9bfc4a0b1ed745611129,62583da797d5b634568809380f599757,793d9bccdb5f558ae8bf74083c4e5ec9,7f9be1a77e0fdc4525c9c715083b3eed,97c204eae9e208edba2399a5875d040b,97d8f8dfd7100d7b8ae4d164469dc972,97e0dc762f4655701048add024396496,9b415aa5a7e26f71d2c59244118acc8d,a459f0c3fbe980368b138174a6603372,a93ce9b62cfdef0a197da45e5a1d9746,c337c6c7425b1fd15c57e30bbd64c6f0,d0d8b82536cfedbd61aa6788ebea72ce,e12438d230ce4e38800798a5e0678add,e30115f46188684dd6791bd1276cfef9,e46a5413f5450b1da37a8278b12a106d,f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d5">4</data>
+      <data key="d6">7</data>
+      <data key="d7">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">17fc289e5de58ee0011aa092593090c1,28ce4fba5ee546e1af133952d6609dc0,2b4b47e827d48aae04b2e8e31e72ac4c,2fb8f27db4d5fa2f555cc93f0ec181e7,3c5c3fd4d87e9bfc4a0b1ed745611129,62583da797d5b634568809380f599757,793d9bccdb5f558ae8bf74083c4e5ec9,7f9be1a77e0fdc4525c9c715083b3eed,97c204eae9e208edba2399a5875d040b,97d8f8dfd7100d7b8ae4d164469dc972,97e0dc762f4655701048add024396496,9b415aa5a7e26f71d2c59244118acc8d,a459f0c3fbe980368b138174a6603372,a93ce9b62cfdef0a197da45e5a1d9746,c337c6c7425b1fd15c57e30bbd64c6f0,d0d8b82536cfedbd61aa6788ebea72ce,e12438d230ce4e38800798a5e0678add,e30115f46188684dd6791bd1276cfef9,e46a5413f5450b1da37a8278b12a106d,f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d5">1</data>
+      <data key="d6">8</data>
+      <data key="d7">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">17fc289e5de58ee0011aa092593090c1,28ce4fba5ee546e1af133952d6609dc0,2b4b47e827d48aae04b2e8e31e72ac4c,2fb8f27db4d5fa2f555cc93f0ec181e7,3c5c3fd4d87e9bfc4a0b1ed745611129,62583da797d5b634568809380f599757,793d9bccdb5f558ae8bf74083c4e5ec9,7f9be1a77e0fdc4525c9c715083b3eed,97c204eae9e208edba2399a5875d040b,97d8f8dfd7100d7b8ae4d164469dc972,97e0dc762f4655701048add024396496,9b415aa5a7e26f71d2c59244118acc8d,a459f0c3fbe980368b138174a6603372,a93ce9b62cfdef0a197da45e5a1d9746,c337c6c7425b1fd15c57e30bbd64c6f0,d0d8b82536cfedbd61aa6788ebea72ce,e12438d230ce4e38800798a5e0678add,e30115f46188684dd6791bd1276cfef9,e46a5413f5450b1da37a8278b12a106d,f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d5">2</data>
+      <data key="d6">9</data>
+      <data key="d7">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">17fc289e5de58ee0011aa092593090c1,28ce4fba5ee546e1af133952d6609dc0,2b4b47e827d48aae04b2e8e31e72ac4c,2fb8f27db4d5fa2f555cc93f0ec181e7,3c5c3fd4d87e9bfc4a0b1ed745611129,62583da797d5b634568809380f599757,793d9bccdb5f558ae8bf74083c4e5ec9,7f9be1a77e0fdc4525c9c715083b3eed,97c204eae9e208edba2399a5875d040b,97d8f8dfd7100d7b8ae4d164469dc972,97e0dc762f4655701048add024396496,9b415aa5a7e26f71d2c59244118acc8d,a459f0c3fbe980368b138174a6603372,a93ce9b62cfdef0a197da45e5a1d9746,c337c6c7425b1fd15c57e30bbd64c6f0,d0d8b82536cfedbd61aa6788ebea72ce,e12438d230ce4e38800798a5e0678add,e30115f46188684dd6791bd1276cfef9,e46a5413f5450b1da37a8278b12a106d,f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d5">1</data>
+      <data key="d6">10</data>
+      <data key="d7">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">17fc289e5de58ee0011aa092593090c1,28ce4fba5ee546e1af133952d6609dc0,2b4b47e827d48aae04b2e8e31e72ac4c,2fb8f27db4d5fa2f555cc93f0ec181e7,3c5c3fd4d87e9bfc4a0b1ed745611129,62583da797d5b634568809380f599757,793d9bccdb5f558ae8bf74083c4e5ec9,7f9be1a77e0fdc4525c9c715083b3eed,97c204eae9e208edba2399a5875d040b,97d8f8dfd7100d7b8ae4d164469dc972,97e0dc762f4655701048add024396496,9b415aa5a7e26f71d2c59244118acc8d,a459f0c3fbe980368b138174a6603372,a93ce9b62cfdef0a197da45e5a1d9746,c337c6c7425b1fd15c57e30bbd64c6f0,d0d8b82536cfedbd61aa6788ebea72ce,e12438d230ce4e38800798a5e0678add,e30115f46188684dd6791bd1276cfef9,e46a5413f5450b1da37a8278b12a106d,f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d5">1</data>
+      <data key="d6">11</data>
+      <data key="d7">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">17fc289e5de58ee0011aa092593090c1,28ce4fba5ee546e1af133952d6609dc0,2b4b47e827d48aae04b2e8e31e72ac4c,2fb8f27db4d5fa2f555cc93f0ec181e7,3c5c3fd4d87e9bfc4a0b1ed745611129,62583da797d5b634568809380f599757,793d9bccdb5f558ae8bf74083c4e5ec9,7f9be1a77e0fdc4525c9c715083b3eed,97c204eae9e208edba2399a5875d040b,97d8f8dfd7100d7b8ae4d164469dc972,97e0dc762f4655701048add024396496,9b415aa5a7e26f71d2c59244118acc8d,a459f0c3fbe980368b138174a6603372,a93ce9b62cfdef0a197da45e5a1d9746,c337c6c7425b1fd15c57e30bbd64c6f0,d0d8b82536cfedbd61aa6788ebea72ce,e12438d230ce4e38800798a5e0678add,e30115f46188684dd6791bd1276cfef9,e46a5413f5450b1da37a8278b12a106d,f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d5">0</data>
+      <data key="d6">12</data>
+      <data key="d7">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">17fc289e5de58ee0011aa092593090c1,28ce4fba5ee546e1af133952d6609dc0,2b4b47e827d48aae04b2e8e31e72ac4c,2fb8f27db4d5fa2f555cc93f0ec181e7,3c5c3fd4d87e9bfc4a0b1ed745611129,62583da797d5b634568809380f599757,793d9bccdb5f558ae8bf74083c4e5ec9,7f9be1a77e0fdc4525c9c715083b3eed,97c204eae9e208edba2399a5875d040b,97d8f8dfd7100d7b8ae4d164469dc972,97e0dc762f4655701048add024396496,9b415aa5a7e26f71d2c59244118acc8d,a459f0c3fbe980368b138174a6603372,a93ce9b62cfdef0a197da45e5a1d9746,c337c6c7425b1fd15c57e30bbd64c6f0,d0d8b82536cfedbd61aa6788ebea72ce,e12438d230ce4e38800798a5e0678add,e30115f46188684dd6791bd1276cfef9,e46a5413f5450b1da37a8278b12a106d,f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d5">5</data>
+      <data key="d6">13</data>
+      <data key="d7">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;BARDIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bardia is a location in Libya where Annibale Bergonzoli commanded the defences in 1940."</data>
+      <data key="d2">97e0dc762f4655701048add024396496</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">14</data>
+      <data key="d7">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;LIBYA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Libya is a country where Annibale Bergonzoli served during World War II."</data>
+      <data key="d2">97e0dc762f4655701048add024396496</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">15</data>
+      <data key="d7">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;INDIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"India is a country where Annibale Bergonzoli was held as a prisoner of war."</data>
+      <data key="d2">97e0dc762f4655701048add024396496</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">16</data>
+      <data key="d7">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;USA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The USA is a country where various notable locations and attractions can be found, including Albuquerque and the Sandia Mountains, Georgia and the Faces Of War Memorial, The Pasadena Society of Artists, and Shirley Plantation. Additionally, it is also known for being a place where Annibale Bergonzoli was held as a prisoner of war.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">28ce4fba5ee546e1af133952d6609dc0,97d8f8dfd7100d7b8ae4d164469dc972,97e0dc762f4655701048add024396496,a459f0c3fbe980368b138174a6603372,f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d3">13</data>
+      <data key="d4">1</data>
+      <data key="d5">3</data>
+      <data key="d6">17</data>
+      <data key="d7">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;CANNOBIO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Cannobio is the birthplace and final resting place of Annibale Bergonzoli."</data>
+      <data key="d2">97e0dc762f4655701048add024396496</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">18</data>
+      <data key="d7">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;BATTLE OF BEDA FOMM&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Battle of Beda Fomm was a disastrous battle in 1941 where Annibale Bergonzoli surrendered to Australian forces."</data>
+      <data key="d2">97e0dc762f4655701048add024396496</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">19</data>
+      <data key="d7">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;ANNIBALE BERGONZOLI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">97e0dc762f4655701048add024396496</data>
+      <data key="d3">11</data>
+      <data key="d4">1</data>
+      <data key="d5">7</data>
+      <data key="d6">20</data>
+      <data key="d7">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;GOVERNOR JONATHAN TRUMBULL HOUSE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Governor Jonathan Trumbull House is another name for the John Trumbull Birthplace, a historic house museum."</data>
+      <data key="d2">e30115f46188684dd6791bd1276cfef9</data>
+      <data key="d5">0</data>
+      <data key="d6">21</data>
+      <data key="d7">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;JOSEPH TRUMBULL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Joseph Trumbull built the John Trumbull Birthplace as a wedding present for his son Jonathan in 1735."</data>
+      <data key="d2">e30115f46188684dd6791bd1276cfef9</data>
+      <data key="d5">1</data>
+      <data key="d6">22</data>
+      <data key="d7">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;JONATHAN TRUMBULL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jonathan Trumbull was the Governor of Connecticut during the American Revolutionary War and received the John Trumbull Birthplace as a wedding present from his father."</data>
+      <data key="d2">e30115f46188684dd6791bd1276cfef9</data>
+      <data key="d5">1</data>
+      <data key="d6">23</data>
+      <data key="d7">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;JOHN TRUMBULL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"John Trumbull was an artist born in 1756, known for his depictions of the American Revolutionary War and its people."</data>
+      <data key="d2">e30115f46188684dd6791bd1276cfef9</data>
+      <data key="d5">1</data>
+      <data key="d6">24</data>
+      <data key="d7">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;LEBANON GREEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Lebanon Green is a location in Lebanon, Connecticut, where the John Trumbull Birthplace is situated."</data>
+      <data key="d2">e30115f46188684dd6791bd1276cfef9</data>
+      <data key="d5">1</data>
+      <data key="d6">25</data>
+      <data key="d7">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;LEBANON, CONNECTICUT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lebanon, Connecticut is a geographic location where the John Trumbull Birthplace is located."</data>
+      <data key="d2">e30115f46188684dd6791bd1276cfef9</data>
+      <data key="d5">0</data>
+      <data key="d6">26</data>
+      <data key="d7">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;AMERICAN REVOLUTIONARY WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The American Revolutionary War was a significant event during which the John Trumbull Birthplace served as a center of political and military strategy."</data>
+      <data key="d2">e30115f46188684dd6791bd1276cfef9</data>
+      <data key="d5">1</data>
+      <data key="d6">27</data>
+      <data key="d7">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;JOHN TRUMBULL BIRTHPLACE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e30115f46188684dd6791bd1276cfef9</data>
+      <data key="d5">1</data>
+      <data key="d6">28</data>
+      <data key="d7">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;MRS. HORACE JASON (WANDA MCKAY)&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mrs. Horace Jason is a newlywed from Connecticut who checks into the Hotel Clarke in New York City with her husband."</data>
+      <data key="d2">d0d8b82536cfedbd61aa6788ebea72ce</data>
+      <data key="d5">3</data>
+      <data key="d6">29</data>
+      <data key="d7">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;CONNECTICUT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Connecticut is the state where Mr. and Mrs. Horace Jason are from."</data>
+      <data key="d2">d0d8b82536cfedbd61aa6788ebea72ce</data>
+      <data key="d5">2</data>
+      <data key="d6">30</data>
+      <data key="d7">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;HOTEL CLARKE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Hotel Clarke is a hotel in New York City where Mr. and Mrs. Horace Jason spend their first night together as a married couple."</data>
+      <data key="d2">d0d8b82536cfedbd61aa6788ebea72ce</data>
+      <data key="d5">2</data>
+      <data key="d6">31</data>
+      <data key="d7">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&quot;NEW YORK CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New York City is the location of the Hotel Clarke where Mr. and Mrs. Horace Jason spend their first night together as a married couple."</data>
+      <data key="d2">d0d8b82536cfedbd61aa6788ebea72ce</data>
+      <data key="d5">0</data>
+      <data key="d6">32</data>
+      <data key="d7">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&quot;THE ARMY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Army is the organization that Horace joins after his first night with his wife."</data>
+      <data key="d2">d0d8b82536cfedbd61aa6788ebea72ce</data>
+      <data key="d5">1</data>
+      <data key="d6">33</data>
+      <data key="d7">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&quot;MR. HORACE JASON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">d0d8b82536cfedbd61aa6788ebea72ce</data>
+      <data key="d5">4</data>
+      <data key="d6">34</data>
+      <data key="d7">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&quot;EMPIRE OF JAPAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Empire of Japan is a country that launched a surprise attack on Pearl Harbor, leading to the United States declaring war."</data>
+      <data key="d2">97c204eae9e208edba2399a5875d040b</data>
+      <data key="d5">2</data>
+      <data key="d6">35</data>
+      <data key="d7">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&quot;FRANKLIN D. ROOSEVELT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Franklin D. Roosevelt is the US President who delivered the Infamy Speech, which led to the declaration of war against Japan."</data>
+      <data key="d2">97c204eae9e208edba2399a5875d040b</data>
+      <data key="d5">1</data>
+      <data key="d6">36</data>
+      <data key="d7">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&quot;PEARL HARBOR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pearl Harbor is a location that was attacked by Japan, leading to the United States declaring war."</data>
+      <data key="d2">97c204eae9e208edba2399a5875d040b</data>
+      <data key="d5">1</data>
+      <data key="d6">37</data>
+      <data key="d7">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&quot;WASHINGTON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Washington is a location where the Japanese embassy is located and where the message from Japan was sent."</data>
+      <data key="d2">97c204eae9e208edba2399a5875d040b</data>
+      <data key="d3">9</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">38</data>
+      <data key="d7">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&quot;GERMANY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Germany is a country that played a significant role in World War II as one of the Axis powers. During this time, it formed an alliance with Japan and subsequently declared war on the United States following the US declaration of war against Japan. Additionally, Germany was blockaded by the Allies during World War II.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">2b4b47e827d48aae04b2e8e31e72ac4c,62583da797d5b634568809380f599757,97c204eae9e208edba2399a5875d040b</data>
+      <data key="d3">8</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">39</data>
+      <data key="d7">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <node id="&quot;UNITED STATES CONGRESS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">97c204eae9e208edba2399a5875d040b</data>
+      <data key="d5">2</data>
+      <data key="d6">40</data>
+      <data key="d7">3ce7c210a21b4deebad7cc9308148d86</data>
+    </node>
+    <node id="&quot;JAPAN&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Japan is a country that has been involved in various significant events and collaborations throughout its history. Notably, it participated in the production of the film "The Longest Night in Shanghai". Additionally, Japan played a major role as one of the Axis powers during World War II.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">3c5c3fd4d87e9bfc4a0b1ed745611129,62583da797d5b634568809380f599757,97c204eae9e208edba2399a5875d040b</data>
+      <data key="d3">9</data>
+      <data key="d4">1</data>
+      <data key="d5">3</data>
+      <data key="d6">41</data>
+      <data key="d7">d64ed762ea924caa95c8d06f072a9a96</data>
+    </node>
+    <node id="&quot;ALLIES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Allies were a group of countries that implemented a naval blockade against Germany during World War II."</data>
+      <data key="d2">2b4b47e827d48aae04b2e8e31e72ac4c</data>
+      <data key="d3">6</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">42</data>
+      <data key="d7">adf4ee3fbe9b4d0381044838c4f889c8</data>
+    </node>
+    <node id="&quot;THE BATTLE OF THE ATLANTIC&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2b4b47e827d48aae04b2e8e31e72ac4c</data>
+      <data key="d3">6</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">43</data>
+      <data key="d7">32ee140946e5461f9275db664dc541a5</data>
+    </node>
+    <node id="&quot;WORLD WAR II&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+World War II was a global conflict that involved the United States and other nations, taking place from 1939 to 1945. During this period, it had a significant impact on various aspects of life, including Mardi Gras celebrations.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">2b4b47e827d48aae04b2e8e31e72ac4c,62583da797d5b634568809380f599757,a93ce9b62cfdef0a197da45e5a1d9746,c337c6c7425b1fd15c57e30bbd64c6f0</data>
+      <data key="d3">5</data>
+      <data key="d4">1</data>
+      <data key="d5">5</data>
+      <data key="d6">44</data>
+      <data key="d7">c160b9cb27d6408ba6ab20214a2f3f81</data>
+    </node>
+    <node id="&quot;RICHMOND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Richmond is an independent city located near Shirley Plantation, connected by State Route 5."</data>
+      <data key="d2">f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d3">12</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">45</data>
+      <data key="d7">23527cd679ff4d5a988d52e7cd056078</data>
+    </node>
+    <node id="&quot;WILLIAMSBURG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Williamsburg is an independent city located near Shirley Plantation, connected by State Route 5."</data>
+      <data key="d2">f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d3">12</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">46</data>
+      <data key="d7">f1c6eed066f24cbdb376b910fce29ed4</data>
+    </node>
+    <node id="&quot;VIRGINIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Virginia is a state in the USA where Shirley Plantation is located."</data>
+      <data key="d2">f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d3">12</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">47</data>
+      <data key="d7">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+    </node>
+    <node id="&quot;CHARLES CITY COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Charles City County is a county in Virginia where Shirley Plantation is located."</data>
+      <data key="d2">f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d3">12</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">48</data>
+      <data key="d7">147c038aef3e4422acbbc5f7938c4ab8</data>
+    </node>
+    <node id="&quot;SHIRLEY PLANTATION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d3">12</data>
+      <data key="d4">1</data>
+      <data key="d5">5</data>
+      <data key="d6">49</data>
+      <data key="d7">b7702b90c7f24190b864e8c6e64612a5</data>
+    </node>
+    <node id="&quot;PRUSSIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Prussia is a entity seeking war reparations and colonial territories from France."</data>
+      <data key="d2">7f9be1a77e0fdc4525c9c715083b3eed</data>
+      <data key="d5">1</data>
+      <data key="d6">50</data>
+      <data key="d7">de6fa24480894518ab3cbcb66f739266</data>
+    </node>
+    <node id="&quot;GOVERNMENT OF NATIONAL DEFENSE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Government of National Defense is the governing body of France, led by Favre, that declares its refusal to yield territory or fortresses."</data>
+      <data key="d2">7f9be1a77e0fdc4525c9c715083b3eed</data>
+      <data key="d5">2</data>
+      <data key="d6">51</data>
+      <data key="d7">6fae5ee1a831468aa585a1ea09095998</data>
+    </node>
+    <node id="&quot;FAVRE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Favre is a leader who declares France's refusal to yield territory or fortresses on behalf of the Government of National Defense."</data>
+      <data key="d2">7f9be1a77e0fdc4525c9c715083b3eed</data>
+      <data key="d5">1</data>
+      <data key="d6">52</data>
+      <data key="d7">ef32c4b208d041cc856f6837915dc1b0</data>
+    </node>
+    <node id="&quot;GERMAN TROOPS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The German troops are the military forces that surround and blockade Paris, seeking to put pressure on the French enemy."</data>
+      <data key="d2">7f9be1a77e0fdc4525c9c715083b3eed</data>
+      <data key="d5">1</data>
+      <data key="d6">53</data>
+      <data key="d7">07b2425216bd4f0aa4e079827cb48ef5</data>
+    </node>
+    <node id="&quot;FRANCE&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+France is a geographic location that played a significant role in World War II, having been involved in the war declared by Benito Mussolini. Additionally, it is home to the iconic city of Paris, which is one of its most notable features.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">7f9be1a77e0fdc4525c9c715083b3eed,e46a5413f5450b1da37a8278b12a106d</data>
+      <data key="d5">1</data>
+      <data key="d6">54</data>
+      <data key="d7">2670deebfa3f4d69bb82c28ab250a209</data>
+    </node>
+    <node id="&quot;WAR REPARATIONS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7f9be1a77e0fdc4525c9c715083b3eed</data>
+      <data key="d5">1</data>
+      <data key="d6">55</data>
+      <data key="d7">404309e89a5241d6bff42c05a45df206</data>
+    </node>
+    <node id="&quot;PARIS&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Paris is a geographic location that was declared an open city during the German invasion.</data>
+      <data key="d2">7f9be1a77e0fdc4525c9c715083b3eed,e46a5413f5450b1da37a8278b12a106d</data>
+      <data key="d5">3</data>
+      <data key="d6">56</data>
+      <data key="d7">b785a9025069417f94950ad231bb1441</data>
+    </node>
+    <node id="&quot;ROSWELL CITY HALL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Roswell City Hall is a location where Faces Of War Memorial is situated."</data>
+      <data key="d2">28ce4fba5ee546e1af133952d6609dc0</data>
+      <data key="d5">1</data>
+      <data key="d6">57</data>
+      <data key="d7">3b6cd96a27304614850709aba1c9598b</data>
+    </node>
+    <node id="&quot;ROSWELL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Roswell is a city in Georgia, USA, where Faces Of War Memorial is located."</data>
+      <data key="d2">28ce4fba5ee546e1af133952d6609dc0</data>
+      <data key="d5">1</data>
+      <data key="d6">58</data>
+      <data key="d7">d54956b79dd147f894b67a8b97dcbef0</data>
+    </node>
+    <node id="&quot;GEORGIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Georgia is a state in the USA where Roswell and Faces Of War Memorial are located."</data>
+      <data key="d2">28ce4fba5ee546e1af133952d6609dc0</data>
+      <data key="d5">0</data>
+      <data key="d6">59</data>
+      <data key="d7">958beecdb5bb4060948415ffd75d2b03</data>
+    </node>
+    <node id="&quot;VIETNAM WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Vietnam War is an event that Faces Of War Memorial commemorates."</data>
+      <data key="d2">28ce4fba5ee546e1af133952d6609dc0</data>
+      <data key="d5">1</data>
+      <data key="d6">60</data>
+      <data key="d7">b999ed77e19e4f85b7f1ae79af5c002a</data>
+    </node>
+    <node id="&quot;FACES OF WAR MEMORIAL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">28ce4fba5ee546e1af133952d6609dc0</data>
+      <data key="d5">3</data>
+      <data key="d6">61</data>
+      <data key="d7">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+    </node>
+    <node id="&quot;ALBUQUERQUE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Albuquerque is a city in New Mexico, USA, adjacent to which the Sandia Peak Tramway is located."</data>
+      <data key="d2">97d8f8dfd7100d7b8ae4d164469dc972</data>
+      <data key="d5">1</data>
+      <data key="d6">62</data>
+      <data key="d7">4f3c97517f794ebfb49c4c6315f9cf23</data>
+    </node>
+    <node id="&quot;SANDIA MOUNTAINS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Sandia Mountains are a mountain range in New Mexico, USA, where the Sandia Peak Tramway stretches to its crestline."</data>
+      <data key="d2">97d8f8dfd7100d7b8ae4d164469dc972</data>
+      <data key="d5">1</data>
+      <data key="d6">63</data>
+      <data key="d7">1745a2485a9443bab76587ad650e9be0</data>
+    </node>
+    <node id="&quot;SANDIA PEAK TRAMWAY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">97d8f8dfd7100d7b8ae4d164469dc972</data>
+      <data key="d5">2</data>
+      <data key="d6">64</data>
+      <data key="d7">32e6ccab20d94029811127dbbe424c64</data>
+    </node>
+    <node id="&quot;IGNACIO ALLENDE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ignacio Allende was a Mexican General whose surname was added to the town's name in 1826, highlighting his importance in Mexican history."</data>
+      <data key="d2">17fc289e5de58ee0011aa092593090c1</data>
+      <data key="d5">1</data>
+      <data key="d6">65</data>
+      <data key="d7">94a964c6992945ebb3833dfdfdc8d655</data>
+    </node>
+    <node id="&quot;MEXICO CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico City is a major city located near San Miguel de Allende, with a distance of 274 km between them."</data>
+      <data key="d2">17fc289e5de58ee0011aa092593090c1</data>
+      <data key="d5">0</data>
+      <data key="d6">66</data>
+      <data key="d7">1eb829d0ace042089f0746f78729696c</data>
+    </node>
+    <node id="&quot;QUERETARO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Queretaro is a city located near San Miguel de Allende, with a distance of 86 km between them."</data>
+      <data key="d2">17fc289e5de58ee0011aa092593090c1</data>
+      <data key="d5">0</data>
+      <data key="d6">67</data>
+      <data key="d7">015e7b58d1a14b44beab3bbc9f912c18</data>
+    </node>
+    <node id="&quot;GUANAJUATO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Guanajuato is the state capital located near San Miguel de Allende, with a distance of 97 km between them."</data>
+      <data key="d2">17fc289e5de58ee0011aa092593090c1</data>
+      <data key="d5">0</data>
+      <data key="d6">68</data>
+      <data key="d7">26f88ab3e2e04c33a459ad6270ade565</data>
+    </node>
+    <node id="&quot;BAJ&#205;O&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Baj&#237;o is a macroregion in central Mexico where San Miguel de Allende is located."</data>
+      <data key="d2">17fc289e5de58ee0011aa092593090c1</data>
+      <data key="d5">0</data>
+      <data key="d6">69</data>
+      <data key="d7">babe97e1d9784cffa1c85abc1e588126</data>
+    </node>
+    <node id="&quot;MEXICAN WAR OF INDEPENDENCE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Mexican War of Independence was a significant event in which San Miguel de Allende played a crucial role as the first municipality declared independent of Spanish rule."</data>
+      <data key="d2">17fc289e5de58ee0011aa092593090c1</data>
+      <data key="d5">1</data>
+      <data key="d6">70</data>
+      <data key="d7">1033a18c45aa4584b2aef6ab96890351</data>
+    </node>
+    <node id="&quot;CHICHIMECA WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Chichimeca War was a historic conflict between the Chichimeca Confederation and the Spanish Empire, with San Miguel de Allende being a critical epicenter during this war."</data>
+      <data key="d2">17fc289e5de58ee0011aa092593090c1</data>
+      <data key="d5">1</data>
+      <data key="d6">71</data>
+      <data key="d7">c9b8ce91fc2945b4907fe35519339cac</data>
+    </node>
+    <node id="&quot;SAN MIGUEL DE ALLENDE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">17fc289e5de58ee0011aa092593090c1</data>
+      <data key="d5">3</data>
+      <data key="d6">72</data>
+      <data key="d7">fa3c4204421c48609e52c8de2da4c654</data>
+    </node>
+    <node id="&quot;SHANGHAI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Shanghai is the birthplace of You Wenhui, a Chinese beach volleyball player."</data>
+      <data key="d2">2fb8f27db4d5fa2f555cc93f0ec181e7</data>
+      <data key="d5">1</data>
+      <data key="d6">73</data>
+      <data key="d7">53af055f068244d0ac861b2e89376495</data>
+    </node>
+    <node id="&quot;2004 SUMMER OLYMPICS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The 2004 Summer Olympics is an event where You Wenhui competed as a beach volleyball player."</data>
+      <data key="d2">2fb8f27db4d5fa2f555cc93f0ec181e7</data>
+      <data key="d5">1</data>
+      <data key="d6">74</data>
+      <data key="d7">c03ab3ce8cb74ad2a03b94723bfab3c7</data>
+    </node>
+    <node id="&quot;YOU WENHUI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2fb8f27db4d5fa2f555cc93f0ec181e7</data>
+      <data key="d5">2</data>
+      <data key="d6">75</data>
+      <data key="d7">ed6d2eee9d7b4f5db466b1f6404d31cc</data>
+    </node>
+    <node id="&quot;CALIFORNIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"California is a state in the USA where The Pasadena Society of Artists is based."</data>
+      <data key="d2">a459f0c3fbe980368b138174a6603372</data>
+      <data key="d3">13</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">76</data>
+      <data key="d7">fc01e9baa80e417c9206f941bb279407</data>
+    </node>
+    <node id="&quot;THE PASADENA SOCIETY OF ARTISTS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a459f0c3fbe980368b138174a6603372</data>
+      <data key="d3">13</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">77</data>
+      <data key="d7">56d0e5ebe79e4814bd1463cf6ca21394</data>
+    </node>
+    <node id="&quot;RHONDA SHEAR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Rhonda Shear is a person associated with the TV show USA Up All Night, possibly as a host or presenter."</data>
+      <data key="d2">793d9bccdb5f558ae8bf74083c4e5ec9</data>
+      <data key="d5">1</data>
+      <data key="d6">78</data>
+      <data key="d7">7c49f2710e8b4d3b8dc9310834406ea5</data>
+    </node>
+    <node id="&quot;USA NETWORK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"USA Network is an American cable television network that aired the show USA Up All Night."</data>
+      <data key="d2">793d9bccdb5f558ae8bf74083c4e5ec9</data>
+      <data key="d5">1</data>
+      <data key="d6">79</data>
+      <data key="d7">c6d1e4f56c2843e89cf0b91c10bb6de2</data>
+    </node>
+    <node id="&quot;AMERICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"America refers to the United States of America, where the TV show USA Up All Night originated and aired."</data>
+      <data key="d2">793d9bccdb5f558ae8bf74083c4e5ec9</data>
+      <data key="d5">0</data>
+      <data key="d6">80</data>
+      <data key="d7">0adb2d9941f34ef7b2f7743cc6225844</data>
+    </node>
+    <node id="&quot;USA UP ALL NIGHT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">793d9bccdb5f558ae8bf74083c4e5ec9</data>
+      <data key="d5">2</data>
+      <data key="d6">81</data>
+      <data key="d7">6b02373137fd438ba96af28f735cdbdb</data>
+    </node>
+    <node id="&quot;MARDI GRAS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Mardi Gras is a Carnival celebration that has been observed in New Orleans, sometimes with cancellations due to economic, political, or weather conditions."</data>
+      <data key="d2">c337c6c7425b1fd15c57e30bbd64c6f0</data>
+      <data key="d3">7</data>
+      <data key="d4">1</data>
+      <data key="d5">4</data>
+      <data key="d6">82</data>
+      <data key="d7">36a4fcd8efc144e6b8af9a1c7ab8b2ce</data>
+    </node>
+    <node id="&quot;AMERICAN CIVIL WAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The American Civil War was a period during which Mardi Gras celebrations were affected."</data>
+      <data key="d2">c337c6c7425b1fd15c57e30bbd64c6f0</data>
+      <data key="d3">7</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">83</data>
+      <data key="d7">fbeef791d19b413a9c93c6608286ab63</data>
+    </node>
+    <node id="&quot;WORLD WAR I&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"World War I was a period during which Mardi Gras celebrations were affected."</data>
+      <data key="d2">c337c6c7425b1fd15c57e30bbd64c6f0</data>
+      <data key="d3">7</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">84</data>
+      <data key="d7">d2b629c0396f4180a03e16ddf3818589</data>
+    </node>
+    <node id="&quot;LOUISIANA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c337c6c7425b1fd15c57e30bbd64c6f0</data>
+      <data key="d3">7</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">85</data>
+      <data key="d7">6102fc6619ed422ebc42588bfa97355d</data>
+    </node>
+    <node id="&quot;FRANKLIN ROOSEVELT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Franklin Roosevelt was the President of the United States who thought it was improper to engage in hostilities without a declaration of war."</data>
+      <data key="d2">a93ce9b62cfdef0a197da45e5a1d9746</data>
+      <data key="d3">5</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">86</data>
+      <data key="d7">8d141c0b80f74b79a05eed7fe161fe49</data>
+    </node>
+    <node id="&quot;HUNGARY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hungary is a country that was part of the Axis alliance during World War II."</data>
+      <data key="d2">a93ce9b62cfdef0a197da45e5a1d9746</data>
+      <data key="d5">1</data>
+      <data key="d6">87</data>
+      <data key="d7">e22d1d1cd8d14f12b81828d940f40d70</data>
+    </node>
+    <node id="&quot;BULGARIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bulgaria is a country that was part of the Axis alliance during World War II."</data>
+      <data key="d2">a93ce9b62cfdef0a197da45e5a1d9746</data>
+      <data key="d5">1</data>
+      <data key="d6">88</data>
+      <data key="d7">9ab48505fb1b487babd0d1f6d3a3f980</data>
+    </node>
+    <node id="&quot;ROMANIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Romania is a country that was part of the Axis alliance during World War II."</data>
+      <data key="d2">a93ce9b62cfdef0a197da45e5a1d9746</data>
+      <data key="d5">1</data>
+      <data key="d6">89</data>
+      <data key="d7">148fffeb994541b2b4b6dcefda7001a8</data>
+    </node>
+    <node id="&quot;AXIS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Axis was an alliance of countries during World War II, including Hungary, Bulgaria, and Romania."</data>
+      <data key="d2">a93ce9b62cfdef0a197da45e5a1d9746</data>
+      <data key="d5">0</data>
+      <data key="d6">90</data>
+      <data key="d7">89c08e793298442686292454a1abff31</data>
+    </node>
+    <node id="&quot;MARSHAL BADOGLIO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Marshal Badoglio is the Army's Chief of Staff, indicating his position of authority."</data>
+      <data key="d2">e46a5413f5450b1da37a8278b12a106d</data>
+      <data key="d5">0</data>
+      <data key="d6">91</data>
+      <data key="d7">0467928aa65e4a4fba62bdb1467e3a54</data>
+    </node>
+    <node id="&quot;FRENCH GOVERNMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The French government is an organization that fled to Bordeaux during the German invasion, showing its response to the conflict."</data>
+      <data key="d2">e46a5413f5450b1da37a8278b12a106d</data>
+      <data key="d5">2</data>
+      <data key="d6">92</data>
+      <data key="d7">43c3390303c6476cb65f584e37c3e81c</data>
+    </node>
+    <node id="&quot;BRITAIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Britain is a geographic location involved in the war declared by Mussolini."</data>
+      <data key="d2">e46a5413f5450b1da37a8278b12a106d</data>
+      <data key="d5">1</data>
+      <data key="d6">93</data>
+      <data key="d7">fa14b16c17e3417dba5a4b473ea5b18d</data>
+    </node>
+    <node id="&quot;GERMAN INVASION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The German invasion is an event that led to the French government fleeing to Bordeaux and declaring Paris an open city."</data>
+      <data key="d2">e46a5413f5450b1da37a8278b12a106d</data>
+      <data key="d5">1</data>
+      <data key="d6">94</data>
+      <data key="d7">7cc3356d38de4328a51a5cbcb187dac3</data>
+    </node>
+    <node id="&quot;MUSSOLINI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e46a5413f5450b1da37a8278b12a106d</data>
+      <data key="d5">2</data>
+      <data key="d6">95</data>
+      <data key="d7">bef16fb5fd7344cca5e295b13ef3e0cd</data>
+    </node>
+    <node id="&quot;MOVIE EYE ENTERTAINMENT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Movie Eye Entertainment is a Japanese production company that produced The Longest Night in Shanghai film."</data>
+      <data key="d2">3c5c3fd4d87e9bfc4a0b1ed745611129</data>
+      <data key="d3">10</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">96</data>
+      <data key="d7">bb9e01bc171d4326a29afda59ece8d17</data>
+    </node>
+    <node id="&quot;ZHANG YIBAI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Zhang Yibai is a Chinese director who directed The Longest Night in Shanghai film."</data>
+      <data key="d2">3c5c3fd4d87e9bfc4a0b1ed745611129</data>
+      <data key="d3">10</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">97</data>
+      <data key="d7">3c063eea52e94164b70c99431ea30bae</data>
+    </node>
+    <node id="&quot;CHINA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"China is a country involved in the collaboration for producing The Longest Night in Shanghai film."</data>
+      <data key="d2">3c5c3fd4d87e9bfc4a0b1ed745611129</data>
+      <data key="d3">10</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">98</data>
+      <data key="d7">252cc8452bfc4c2aa58cab68d8b61879</data>
+    </node>
+    <node id="&quot;THE LONGEST NIGHT IN SHANGHAI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3c5c3fd4d87e9bfc4a0b1ed745611129</data>
+      <data key="d3">10</data>
+      <data key="d4">1</data>
+      <data key="d5">4</data>
+      <data key="d6">99</data>
+      <data key="d7">7e2c84548fb94ee395ba8588d8f2a006</data>
+    </node>
+    <node id="&quot;ALLIES OF WORLD WAR II&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Allies of World War II were a group of countries that together opposed the Axis powers during the Second World War."</data>
+      <data key="d2">62583da797d5b634568809380f599757</data>
+      <data key="d3">5</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">100</data>
+      <data key="d7">f034618dde7948beb6dab30176d0fc87</data>
+    </node>
+    <node id="&quot;AXIS POWERS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Axis powers were a group of countries, including Germany, Japan, and Italy, that fought against the Allies during World War II."</data>
+      <data key="d2">62583da797d5b634568809380f599757</data>
+      <data key="d3">9</data>
+      <data key="d4">1</data>
+      <data key="d5">4</data>
+      <data key="d6">101</data>
+      <data key="d7">5c41f96be13e49dba649454297834546</data>
+    </node>
+    <node id="&quot;UNITED NATIONS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">62583da797d5b634568809380f599757</data>
+      <data key="d3">5</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">102</data>
+      <data key="d7">7ea4afbf8a264f29af29950ce98105ba</data>
+    </node>
+    <node id="&quot;BALTIMORE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Baltimore is a location in Maryland, USA, where the Francis Scott Key Bridge is situated."</data>
+      <data key="d2">9b415aa5a7e26f71d2c59244118acc8d</data>
+      <data key="d5">1</data>
+      <data key="d6">103</data>
+      <data key="d7">91ff849d12b24574b0691dbddf44968b</data>
+    </node>
+    <node id="&quot;MARYLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Maryland is a state in the USA where the Francis Scott Key Bridge is located."</data>
+      <data key="d2">9b415aa5a7e26f71d2c59244118acc8d</data>
+      <data key="d5">1</data>
+      <data key="d6">104</data>
+      <data key="d7">d73c1f2fb3094d8dace42ad2a76e9a52</data>
+    </node>
+    <node id="&quot;PATAPSCO RIVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Patapsco River is a river in Maryland, USA, that the Francis Scott Key Bridge spans."</data>
+      <data key="d2">9b415aa5a7e26f71d2c59244118acc8d</data>
+      <data key="d5">1</data>
+      <data key="d6">105</data>
+      <data key="d7">cdc8901e668749889bd49bebdc4ff1f6</data>
+    </node>
+    <node id="&quot;FRANCIS SCOTT KEY BRIDGE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9b415aa5a7e26f71d2c59244118acc8d</data>
+      <data key="d5">3</data>
+      <data key="d6">106</data>
+      <data key="d7">36084a9fab53433493f079e97e68bf65</data>
+    </node>
+    <edge source="&quot;NAZI GERMANY&quot;" target="&quot;ADOLF HITLER&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Adolf Hitler was the leader of Nazi Germany."</data>
+      <data key="d11">e12438d230ce4e38800798a5e0678add</data>
+      <data key="d12">eebcc7ec8e3e4df7aea83659bbdc2199</data>
+      <data key="d13">0</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;NAZI GERMANY&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Nazi Germany declared war against the United States."</data>
+      <data key="d11">e12438d230ce4e38800798a5e0678add</data>
+      <data key="d12">ceadf262ef834e9ab146b20650912cae</data>
+      <data key="d13">1</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;NAZI GERMANY&quot;" target="&quot;GERMANY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Nazi Germany refers to the government of Germany during World War II."</data>
+      <data key="d11">2b4b47e827d48aae04b2e8e31e72ac4c</data>
+      <data key="d12">7f65feab75424b53b24470d305ba331a</data>
+      <data key="d13">2</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;ITALY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The United States declared war on Italy."</data>
+      <data key="d11">e12438d230ce4e38800798a5e0678add</data>
+      <data key="d12">fd9cb733b28d420cb5cef01e545a132c</data>
+      <data key="d13">3</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;DECLARATION OF WAR&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The United States was involved in the Declaration of War, declaring war on Germany and Italy."</data>
+      <data key="d11">e12438d230ce4e38800798a5e0678add</data>
+      <data key="d12">0fbcca3f17c649a08aea64b5a7d9ef36</data>
+      <data key="d13">4</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d9">20.0</data>
+      <data key="d10">"Arizona is a state in the United States."</data>
+      <data key="d11">17fc289e5de58ee0011aa092593090c1,28ce4fba5ee546e1af133952d6609dc0,2b4b47e827d48aae04b2e8e31e72ac4c,2fb8f27db4d5fa2f555cc93f0ec181e7,3c5c3fd4d87e9bfc4a0b1ed745611129,62583da797d5b634568809380f599757,793d9bccdb5f558ae8bf74083c4e5ec9,7f9be1a77e0fdc4525c9c715083b3eed,97c204eae9e208edba2399a5875d040b,97d8f8dfd7100d7b8ae4d164469dc972,97e0dc762f4655701048add024396496,9b415aa5a7e26f71d2c59244118acc8d,a459f0c3fbe980368b138174a6603372,a93ce9b62cfdef0a197da45e5a1d9746,c337c6c7425b1fd15c57e30bbd64c6f0,d0d8b82536cfedbd61aa6788ebea72ce,e12438d230ce4e38800798a5e0678add,e30115f46188684dd6791bd1276cfef9,e46a5413f5450b1da37a8278b12a106d,f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d12">482027a59f32484c9c44fd700615c1b6</data>
+      <data key="d13">5</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;FRANKLIN ROOSEVELT&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Franklin Roosevelt was the President of the United States during World War II."</data>
+      <data key="d11">a93ce9b62cfdef0a197da45e5a1d9746</data>
+      <data key="d12">de837ff3d626451282ff6ac77a82216d</data>
+      <data key="d13">6</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;HUNGARY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The United States declared war on Hungary during World War II."</data>
+      <data key="d11">a93ce9b62cfdef0a197da45e5a1d9746</data>
+      <data key="d12">460295fed3ae4cd39f9f274cec9c2506</data>
+      <data key="d13">7</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;BULGARIA&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The United States declared war on Bulgaria during World War II."</data>
+      <data key="d11">a93ce9b62cfdef0a197da45e5a1d9746</data>
+      <data key="d12">553b285bba60460ab1ed8341ae61282b</data>
+      <data key="d13">8</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;ROMANIA&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The United States declared war on Romania during World War II."</data>
+      <data key="d11">a93ce9b62cfdef0a197da45e5a1d9746</data>
+      <data key="d12">cec95bf17e7e4c939b56c9c6f402a29f</data>
+      <data key="d13">9</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;ITALY&quot;" target="&quot;ANNIBALE BERGONZOLI&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Annibale Bergonzoli was born and died in Italy."</data>
+      <data key="d11">97e0dc762f4655701048add024396496</data>
+      <data key="d12">599164aead034bc19446efacc77554d2</data>
+      <data key="d13">10</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;ITALY&quot;" target="&quot;AXIS POWERS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Italy was one of the Axis powers during World War II."</data>
+      <data key="d11">62583da797d5b634568809380f599757</data>
+      <data key="d12">bbf148ae4d48422f8fdef754cfa2b9e4</data>
+      <data key="d13">11</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;DECLARATION OF WAR&quot;" target="&quot;ADOLF HITLER&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Adolf Hitler was involved in the Declaration of War as the leader of Nazi Germany."</data>
+      <data key="d11">e12438d230ce4e38800798a5e0678add</data>
+      <data key="d12">de61b2670999433f807a6a1dc2b81e43</data>
+      <data key="d13">12</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d9">20.0</data>
+      <data key="d10">"Tucson is the county seat of Pima County."</data>
+      <data key="d11">17fc289e5de58ee0011aa092593090c1,28ce4fba5ee546e1af133952d6609dc0,2b4b47e827d48aae04b2e8e31e72ac4c,2fb8f27db4d5fa2f555cc93f0ec181e7,3c5c3fd4d87e9bfc4a0b1ed745611129,62583da797d5b634568809380f599757,793d9bccdb5f558ae8bf74083c4e5ec9,7f9be1a77e0fdc4525c9c715083b3eed,97c204eae9e208edba2399a5875d040b,97d8f8dfd7100d7b8ae4d164469dc972,97e0dc762f4655701048add024396496,9b415aa5a7e26f71d2c59244118acc8d,a459f0c3fbe980368b138174a6603372,a93ce9b62cfdef0a197da45e5a1d9746,c337c6c7425b1fd15c57e30bbd64c6f0,d0d8b82536cfedbd61aa6788ebea72ce,e12438d230ce4e38800798a5e0678add,e30115f46188684dd6791bd1276cfef9,e46a5413f5450b1da37a8278b12a106d,f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d12">3e95dacfe57b4d57b5da4310ef2e157f</data>
+      <data key="d13">13</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d9">20.0</data>
+      <data key="d10">"Pima County is a county in Arizona."</data>
+      <data key="d11">17fc289e5de58ee0011aa092593090c1,28ce4fba5ee546e1af133952d6609dc0,2b4b47e827d48aae04b2e8e31e72ac4c,2fb8f27db4d5fa2f555cc93f0ec181e7,3c5c3fd4d87e9bfc4a0b1ed745611129,62583da797d5b634568809380f599757,793d9bccdb5f558ae8bf74083c4e5ec9,7f9be1a77e0fdc4525c9c715083b3eed,97c204eae9e208edba2399a5875d040b,97d8f8dfd7100d7b8ae4d164469dc972,97e0dc762f4655701048add024396496,9b415aa5a7e26f71d2c59244118acc8d,a459f0c3fbe980368b138174a6603372,a93ce9b62cfdef0a197da45e5a1d9746,c337c6c7425b1fd15c57e30bbd64c6f0,d0d8b82536cfedbd61aa6788ebea72ce,e12438d230ce4e38800798a5e0678add,e30115f46188684dd6791bd1276cfef9,e46a5413f5450b1da37a8278b12a106d,f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d12">1f1545308e9347af91fd03b94aadc21f</data>
+      <data key="d13">14</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d9">20.0</data>
+      <data key="d10">"The University of Arizona is located in Tucson."</data>
+      <data key="d11">17fc289e5de58ee0011aa092593090c1,28ce4fba5ee546e1af133952d6609dc0,2b4b47e827d48aae04b2e8e31e72ac4c,2fb8f27db4d5fa2f555cc93f0ec181e7,3c5c3fd4d87e9bfc4a0b1ed745611129,62583da797d5b634568809380f599757,793d9bccdb5f558ae8bf74083c4e5ec9,7f9be1a77e0fdc4525c9c715083b3eed,97c204eae9e208edba2399a5875d040b,97d8f8dfd7100d7b8ae4d164469dc972,97e0dc762f4655701048add024396496,9b415aa5a7e26f71d2c59244118acc8d,a459f0c3fbe980368b138174a6603372,a93ce9b62cfdef0a197da45e5a1d9746,c337c6c7425b1fd15c57e30bbd64c6f0,d0d8b82536cfedbd61aa6788ebea72ce,e12438d230ce4e38800798a5e0678add,e30115f46188684dd6791bd1276cfef9,e46a5413f5450b1da37a8278b12a106d,f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d12">6ea81acaf232485e94fff638e03336e1</data>
+      <data key="d13">15</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d9">20.0</data>
+      <data key="d10">"Tucson is a city in Arizona."</data>
+      <data key="d11">17fc289e5de58ee0011aa092593090c1,28ce4fba5ee546e1af133952d6609dc0,2b4b47e827d48aae04b2e8e31e72ac4c,2fb8f27db4d5fa2f555cc93f0ec181e7,3c5c3fd4d87e9bfc4a0b1ed745611129,62583da797d5b634568809380f599757,793d9bccdb5f558ae8bf74083c4e5ec9,7f9be1a77e0fdc4525c9c715083b3eed,97c204eae9e208edba2399a5875d040b,97d8f8dfd7100d7b8ae4d164469dc972,97e0dc762f4655701048add024396496,9b415aa5a7e26f71d2c59244118acc8d,a459f0c3fbe980368b138174a6603372,a93ce9b62cfdef0a197da45e5a1d9746,c337c6c7425b1fd15c57e30bbd64c6f0,d0d8b82536cfedbd61aa6788ebea72ce,e12438d230ce4e38800798a5e0678add,e30115f46188684dd6791bd1276cfef9,e46a5413f5450b1da37a8278b12a106d,f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d12">d136b08d586d488f9e4188b524c85a29</data>
+      <data key="d13">16</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d9">20.0</data>
+      <data key="d10">"Phoenix is a city in Arizona."</data>
+      <data key="d11">17fc289e5de58ee0011aa092593090c1,28ce4fba5ee546e1af133952d6609dc0,2b4b47e827d48aae04b2e8e31e72ac4c,2fb8f27db4d5fa2f555cc93f0ec181e7,3c5c3fd4d87e9bfc4a0b1ed745611129,62583da797d5b634568809380f599757,793d9bccdb5f558ae8bf74083c4e5ec9,7f9be1a77e0fdc4525c9c715083b3eed,97c204eae9e208edba2399a5875d040b,97d8f8dfd7100d7b8ae4d164469dc972,97e0dc762f4655701048add024396496,9b415aa5a7e26f71d2c59244118acc8d,a459f0c3fbe980368b138174a6603372,a93ce9b62cfdef0a197da45e5a1d9746,c337c6c7425b1fd15c57e30bbd64c6f0,d0d8b82536cfedbd61aa6788ebea72ce,e12438d230ce4e38800798a5e0678add,e30115f46188684dd6791bd1276cfef9,e46a5413f5450b1da37a8278b12a106d,f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d12">cccfa151fedc4b218a8d96adc7dceabe</data>
+      <data key="d13">17</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d9">20.0</data>
+      <data key="d10">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d11">17fc289e5de58ee0011aa092593090c1,28ce4fba5ee546e1af133952d6609dc0,2b4b47e827d48aae04b2e8e31e72ac4c,2fb8f27db4d5fa2f555cc93f0ec181e7,3c5c3fd4d87e9bfc4a0b1ed745611129,62583da797d5b634568809380f599757,793d9bccdb5f558ae8bf74083c4e5ec9,7f9be1a77e0fdc4525c9c715083b3eed,97c204eae9e208edba2399a5875d040b,97d8f8dfd7100d7b8ae4d164469dc972,97e0dc762f4655701048add024396496,9b415aa5a7e26f71d2c59244118acc8d,a459f0c3fbe980368b138174a6603372,a93ce9b62cfdef0a197da45e5a1d9746,c337c6c7425b1fd15c57e30bbd64c6f0,d0d8b82536cfedbd61aa6788ebea72ce,e12438d230ce4e38800798a5e0678add,e30115f46188684dd6791bd1276cfef9,e46a5413f5450b1da37a8278b12a106d,f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d12">ce54725672a74ebcabe6127577dacb2b</data>
+      <data key="d13">18</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d9">20.0</data>
+      <data key="d10">"Mexico shares an international border with the United States."</data>
+      <data key="d11">17fc289e5de58ee0011aa092593090c1,28ce4fba5ee546e1af133952d6609dc0,2b4b47e827d48aae04b2e8e31e72ac4c,2fb8f27db4d5fa2f555cc93f0ec181e7,3c5c3fd4d87e9bfc4a0b1ed745611129,62583da797d5b634568809380f599757,793d9bccdb5f558ae8bf74083c4e5ec9,7f9be1a77e0fdc4525c9c715083b3eed,97c204eae9e208edba2399a5875d040b,97d8f8dfd7100d7b8ae4d164469dc972,97e0dc762f4655701048add024396496,9b415aa5a7e26f71d2c59244118acc8d,a459f0c3fbe980368b138174a6603372,a93ce9b62cfdef0a197da45e5a1d9746,c337c6c7425b1fd15c57e30bbd64c6f0,d0d8b82536cfedbd61aa6788ebea72ce,e12438d230ce4e38800798a5e0678add,e30115f46188684dd6791bd1276cfef9,e46a5413f5450b1da37a8278b12a106d,f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d12">ea2b28ca1a974ffab4517811dc1d1e5c</data>
+      <data key="d13">19</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d9">20.0</data>
+      <data key="d10">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d11">17fc289e5de58ee0011aa092593090c1,28ce4fba5ee546e1af133952d6609dc0,2b4b47e827d48aae04b2e8e31e72ac4c,2fb8f27db4d5fa2f555cc93f0ec181e7,3c5c3fd4d87e9bfc4a0b1ed745611129,62583da797d5b634568809380f599757,793d9bccdb5f558ae8bf74083c4e5ec9,7f9be1a77e0fdc4525c9c715083b3eed,97c204eae9e208edba2399a5875d040b,97d8f8dfd7100d7b8ae4d164469dc972,97e0dc762f4655701048add024396496,9b415aa5a7e26f71d2c59244118acc8d,a459f0c3fbe980368b138174a6603372,a93ce9b62cfdef0a197da45e5a1d9746,c337c6c7425b1fd15c57e30bbd64c6f0,d0d8b82536cfedbd61aa6788ebea72ce,e12438d230ce4e38800798a5e0678add,e30115f46188684dd6791bd1276cfef9,e46a5413f5450b1da37a8278b12a106d,f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d12">aff21f1da1654e7babdcf3fb0e4a75fc</data>
+      <data key="d13">20</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;BARDIA&quot;" target="&quot;ANNIBALE BERGONZOLI&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Annibale Bergonzoli commanded the defences of Bardia in 1940."</data>
+      <data key="d11">97e0dc762f4655701048add024396496</data>
+      <data key="d12">dc2cc9016e3f49dbac7232f05cce794d</data>
+      <data key="d13">21</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;LIBYA&quot;" target="&quot;ANNIBALE BERGONZOLI&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Annibale Bergonzoli served in Libya during World War II."</data>
+      <data key="d11">97e0dc762f4655701048add024396496</data>
+      <data key="d12">6ea0cef05f694dcea455478f40674e45</data>
+      <data key="d13">22</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;ANNIBALE BERGONZOLI&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Annibale Bergonzoli was held as a prisoner of war in India."</data>
+      <data key="d11">97e0dc762f4655701048add024396496</data>
+      <data key="d12">7ab5d53a872f4dfc98f3d386879f3c75</data>
+      <data key="d13">23</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;USA&quot;" target="&quot;ANNIBALE BERGONZOLI&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Annibale Bergonzoli was held as a prisoner of war in the USA."</data>
+      <data key="d11">97e0dc762f4655701048add024396496</data>
+      <data key="d12">af1d0fec22114a3398b8016f5225f9ed</data>
+      <data key="d13">24</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;USA&quot;" target="&quot;SHIRLEY PLANTATION&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Shirley Plantation is located in the USA."</data>
+      <data key="d11">f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d12">b07a7f088364459098cd8511ff27a4c8</data>
+      <data key="d13">25</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;USA&quot;" target="&quot;CALIFORNIA&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"California is a state in the USA."</data>
+      <data key="d11">a459f0c3fbe980368b138174a6603372</data>
+      <data key="d12">8870cf2b5df64d2cab5820f67e29b9f1</data>
+      <data key="d13">26</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;CANNOBIO&quot;" target="&quot;ANNIBALE BERGONZOLI&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Annibale Bergonzoli was born and died in Cannobio."</data>
+      <data key="d11">97e0dc762f4655701048add024396496</data>
+      <data key="d12">cd130938a2844050be991af70baf5ee0</data>
+      <data key="d13">27</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;BATTLE OF BEDA FOMM&quot;" target="&quot;ANNIBALE BERGONZOLI&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Annibale Bergonzoli surrendered to Australian forces after the Battle of Beda Fomm."</data>
+      <data key="d11">97e0dc762f4655701048add024396496</data>
+      <data key="d12">43544b99c3b04b059546198a0ae6366d</data>
+      <data key="d13">28</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;JOSEPH TRUMBULL&quot;" target="&quot;JONATHAN TRUMBULL&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Joseph Trumbull built the John Trumbull Birthplace as a wedding present for his son Jonathan."</data>
+      <data key="d11">e30115f46188684dd6791bd1276cfef9</data>
+      <data key="d12">a671bf7fea2f4514b6e96ba99127fafd</data>
+      <data key="d13">29</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;JOHN TRUMBULL&quot;" target="&quot;AMERICAN REVOLUTIONARY WAR&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"John Trumbull was an artist who depicted the American Revolutionary War and its people."</data>
+      <data key="d11">e30115f46188684dd6791bd1276cfef9</data>
+      <data key="d12">525f41ea20274a05af4e52b625b473f3</data>
+      <data key="d13">30</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;LEBANON GREEN&quot;" target="&quot;JOHN TRUMBULL BIRTHPLACE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The John Trumbull Birthplace is located on the Lebanon Green."</data>
+      <data key="d11">e30115f46188684dd6791bd1276cfef9</data>
+      <data key="d12">071a416efbec4f0886c19ac68f6d43cb</data>
+      <data key="d13">31</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MRS. HORACE JASON (WANDA MCKAY)&quot;" target="&quot;MR. HORACE JASON&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mr. and Mrs. Horace Jason are a newlywed couple who check into the Hotel Clarke together."</data>
+      <data key="d11">d0d8b82536cfedbd61aa6788ebea72ce</data>
+      <data key="d12">6d8473ef3b1042bf87178a611e3dbcc6</data>
+      <data key="d13">32</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MRS. HORACE JASON (WANDA MCKAY)&quot;" target="&quot;CONNECTICUT&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mrs. Horace Jason is from Connecticut."</data>
+      <data key="d11">d0d8b82536cfedbd61aa6788ebea72ce</data>
+      <data key="d12">30c9641543c24773938bd8ec57ea98ab</data>
+      <data key="d13">33</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MRS. HORACE JASON (WANDA MCKAY)&quot;" target="&quot;HOTEL CLARKE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mrs. Horace Jason checks into the Hotel Clarke with her husband."</data>
+      <data key="d11">d0d8b82536cfedbd61aa6788ebea72ce</data>
+      <data key="d12">18b839da898e4026b81727d759d95c6a</data>
+      <data key="d13">34</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;CONNECTICUT&quot;" target="&quot;MR. HORACE JASON&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mr. Horace Jason is from Connecticut."</data>
+      <data key="d11">d0d8b82536cfedbd61aa6788ebea72ce</data>
+      <data key="d12">eeef6ae5c464400c8755900b4f1ac37a</data>
+      <data key="d13">35</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;HOTEL CLARKE&quot;" target="&quot;MR. HORACE JASON&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mr. Horace Jason checks into the Hotel Clarke with his wife."</data>
+      <data key="d11">d0d8b82536cfedbd61aa6788ebea72ce</data>
+      <data key="d12">422433aa45804c7ebb973b2fafce5da6</data>
+      <data key="d13">36</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;THE ARMY&quot;" target="&quot;MR. HORACE JASON&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mr. Horace Jason joins The Army after his first night with his wife."</data>
+      <data key="d11">d0d8b82536cfedbd61aa6788ebea72ce</data>
+      <data key="d12">86505bca739d4bccaaa1a8e0f3baffdc</data>
+      <data key="d13">37</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;EMPIRE OF JAPAN&quot;" target="&quot;UNITED STATES CONGRESS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The United States Congress declared war on the Empire of Japan in response to the surprise attack on Pearl Harbor."</data>
+      <data key="d11">97c204eae9e208edba2399a5875d040b</data>
+      <data key="d12">1af9faf341e14a5bbf4ddc9080e8dc0b</data>
+      <data key="d13">38</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;EMPIRE OF JAPAN&quot;" target="&quot;PEARL HARBOR&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The Empire of Japan launched a surprise attack on Pearl Harbor, leading to the US declaration of war."</data>
+      <data key="d11">97c204eae9e208edba2399a5875d040b</data>
+      <data key="d12">353d91abc68648639d65a549e59b5cf3</data>
+      <data key="d13">39</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;FRANKLIN D. ROOSEVELT&quot;" target="&quot;UNITED STATES CONGRESS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Franklin D. Roosevelt delivered a speech that led to the United States Congress declaring war on Japan."</data>
+      <data key="d11">97c204eae9e208edba2399a5875d040b</data>
+      <data key="d12">7ce637e4f35b42e3a9f8272cab69cd22</data>
+      <data key="d13">40</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;WASHINGTON&quot;" target="&quot;JAPAN&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Japan sent a message to its embassy in Washington, but it was not delivered in time due to decoding issues."</data>
+      <data key="d11">97c204eae9e208edba2399a5875d040b</data>
+      <data key="d12">4d999d7744b04a998475f8f8531589f0</data>
+      <data key="d13">41</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GERMANY&quot;" target="&quot;AXIS POWERS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Germany was one of the Axis powers during World War II."</data>
+      <data key="d11">62583da797d5b634568809380f599757</data>
+      <data key="d12">9a6f414210e14841a5b0e661aedc898d</data>
+      <data key="d13">42</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;JAPAN&quot;" target="&quot;THE LONGEST NIGHT IN SHANGHAI&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Japan is a country involved in the collaboration for producing The Longest Night in Shanghai film."</data>
+      <data key="d11">3c5c3fd4d87e9bfc4a0b1ed745611129</data>
+      <data key="d12">db541b7260974db8bac94e953009f60e</data>
+      <data key="d13">43</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;JAPAN&quot;" target="&quot;AXIS POWERS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Japan was one of the Axis powers during World War II."</data>
+      <data key="d11">62583da797d5b634568809380f599757</data>
+      <data key="d12">f2ff8044718648e18acef16dd9a65436</data>
+      <data key="d13">44</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;ALLIES&quot;" target="&quot;THE BATTLE OF THE ATLANTIC&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The Allies were involved in The Battle of the Atlantic, implementing a naval blockade against Germany."</data>
+      <data key="d11">2b4b47e827d48aae04b2e8e31e72ac4c</data>
+      <data key="d12">00d785e7d76b47ec81b508e768d40584</data>
+      <data key="d13">45</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;THE BATTLE OF THE ATLANTIC&quot;" target="&quot;WORLD WAR II&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The Battle of the Atlantic was a major part of World War II."</data>
+      <data key="d11">2b4b47e827d48aae04b2e8e31e72ac4c</data>
+      <data key="d12">87915637da3e474c9349bd0ae604bd95</data>
+      <data key="d13">46</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;WORLD WAR II&quot;" target="&quot;MARDI GRAS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"World War II led to the cancellation of some or all of the major parades during Carnival celebrations."</data>
+      <data key="d11">c337c6c7425b1fd15c57e30bbd64c6f0</data>
+      <data key="d12">8f1eba29f39e411188200bf0d14628ec</data>
+      <data key="d13">47</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;WORLD WAR II&quot;" target="&quot;FRANKLIN ROOSEVELT&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Franklin Roosevelt was the President of the United States during World War II."</data>
+      <data key="d11">a93ce9b62cfdef0a197da45e5a1d9746</data>
+      <data key="d12">7282c73622b8408e97289d959faff483</data>
+      <data key="d13">48</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;WORLD WAR II&quot;" target="&quot;ALLIES OF WORLD WAR II&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The Allies of World War II fought against the Axis powers during World War II."</data>
+      <data key="d11">62583da797d5b634568809380f599757</data>
+      <data key="d12">3deb220d31f74103aa44870a36a63220</data>
+      <data key="d13">49</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;WORLD WAR II&quot;" target="&quot;AXIS POWERS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The Axis powers fought against the Allies during World War II."</data>
+      <data key="d11">62583da797d5b634568809380f599757</data>
+      <data key="d12">af7a1584dd15492cb9a4940e285f57fc</data>
+      <data key="d13">50</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;RICHMOND&quot;" target="&quot;SHIRLEY PLANTATION&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Shirley Plantation is located near Richmond, connected by State Route 5."</data>
+      <data key="d11">f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d12">6e8d9029ce4e4ea182367173ab2c7bbf</data>
+      <data key="d13">51</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;WILLIAMSBURG&quot;" target="&quot;SHIRLEY PLANTATION&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Shirley Plantation is located near Williamsburg, connected by State Route 5."</data>
+      <data key="d11">f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d12">cbf232211e7d4eb6abdbe182f71c2cf0</data>
+      <data key="d13">52</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;VIRGINIA&quot;" target="&quot;SHIRLEY PLANTATION&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Shirley Plantation is located in Virginia."</data>
+      <data key="d11">f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d12">bb0cff774a4440b289cc6f3b929fe13c</data>
+      <data key="d13">53</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;CHARLES CITY COUNTY&quot;" target="&quot;SHIRLEY PLANTATION&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Shirley Plantation is located in Charles City County."</data>
+      <data key="d11">f0b440db5489639c76b6e91d11397b0b</data>
+      <data key="d12">ce55841ebfdd47008bab8c258f10372e</data>
+      <data key="d13">54</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;PRUSSIA&quot;" target="&quot;WAR REPARATIONS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Prussia demands war reparations and colonial territories from France."</data>
+      <data key="d11">7f9be1a77e0fdc4525c9c715083b3eed</data>
+      <data key="d12">6090e736374d45fd84f0e4610a314f8f</data>
+      <data key="d13">55</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GOVERNMENT OF NATIONAL DEFENSE&quot;" target="&quot;FRANCE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The Government of National Defense is the governing body of France, making decisions on its behalf."</data>
+      <data key="d11">7f9be1a77e0fdc4525c9c715083b3eed</data>
+      <data key="d12">0e8d921ccd8d4a8594b65b7fd19f7120</data>
+      <data key="d13">56</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GOVERNMENT OF NATIONAL DEFENSE&quot;" target="&quot;FAVRE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Favre is a leader who represents the Government of National Defense in declaring France's refusal to yield territory or fortresses."</data>
+      <data key="d11">7f9be1a77e0fdc4525c9c715083b3eed</data>
+      <data key="d12">59c726a8792d443e84ab052cb7942b4a</data>
+      <data key="d13">57</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;GERMAN TROOPS&quot;" target="&quot;PARIS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The German troops surround and blockade Paris, seeking to put pressure on the French enemy."</data>
+      <data key="d11">7f9be1a77e0fdc4525c9c715083b3eed</data>
+      <data key="d12">4f2c665decf242b0bfcaf7350b0e02ed</data>
+      <data key="d13">58</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;PARIS&quot;" target="&quot;FRENCH GOVERNMENT&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The French government declared Paris an open city during the German invasion."</data>
+      <data key="d11">e46a5413f5450b1da37a8278b12a106d</data>
+      <data key="d12">66cdf168f36d4a57a505028c97dc06e0</data>
+      <data key="d13">59</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;PARIS&quot;" target="&quot;GERMAN INVASION&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The German invasion led to Paris being declared an open city."</data>
+      <data key="d11">e46a5413f5450b1da37a8278b12a106d</data>
+      <data key="d12">38f51478f41f48db9bee570859b6f43e</data>
+      <data key="d13">60</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;ROSWELL CITY HALL&quot;" target="&quot;FACES OF WAR MEMORIAL&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Faces Of War Memorial is located on the grounds of Roswell City Hall."</data>
+      <data key="d11">28ce4fba5ee546e1af133952d6609dc0</data>
+      <data key="d12">896d2a51e8de47de85ba8ced108c3d53</data>
+      <data key="d13">61</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;ROSWELL&quot;" target="&quot;FACES OF WAR MEMORIAL&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Faces Of War Memorial is located in Roswell, Georgia, USA."</data>
+      <data key="d11">28ce4fba5ee546e1af133952d6609dc0</data>
+      <data key="d12">14555b518e954637b83aa762dc03164e</data>
+      <data key="d13">62</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;VIETNAM WAR&quot;" target="&quot;FACES OF WAR MEMORIAL&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Faces Of War Memorial commemorates the Vietnam War."</data>
+      <data key="d11">28ce4fba5ee546e1af133952d6609dc0</data>
+      <data key="d12">b1f6164116d44fe8b8f135d7f65b9e58</data>
+      <data key="d13">63</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;ALBUQUERQUE&quot;" target="&quot;SANDIA PEAK TRAMWAY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The Sandia Peak Tramway is located adjacent to Albuquerque."</data>
+      <data key="d11">97d8f8dfd7100d7b8ae4d164469dc972</data>
+      <data key="d12">c8b2408617804483b620e1a6691ac90d</data>
+      <data key="d13">64</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;SANDIA MOUNTAINS&quot;" target="&quot;SANDIA PEAK TRAMWAY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The Sandia Peak Tramway stretches from the northeast edge of Albuquerque to the crestline of the Sandia Mountains."</data>
+      <data key="d11">97d8f8dfd7100d7b8ae4d164469dc972</data>
+      <data key="d12">a5e0d1644eb547ba9a5c3211aac4631a</data>
+      <data key="d13">65</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;IGNACIO ALLENDE&quot;" target="&quot;SAN MIGUEL DE ALLENDE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"San Miguel de Allende is named after Ignacio Allende, highlighting his significance in Mexican history."</data>
+      <data key="d11">17fc289e5de58ee0011aa092593090c1</data>
+      <data key="d12">5a28b94bc63b44edb30c54748fd14f15</data>
+      <data key="d13">66</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MEXICAN WAR OF INDEPENDENCE&quot;" target="&quot;SAN MIGUEL DE ALLENDE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"San Miguel de Allende was the first municipality declared independent of Spanish rule during the Mexican War of Independence."</data>
+      <data key="d11">17fc289e5de58ee0011aa092593090c1</data>
+      <data key="d12">f97011b2a99d44648e18d517e1eae15c</data>
+      <data key="d13">67</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;CHICHIMECA WAR&quot;" target="&quot;SAN MIGUEL DE ALLENDE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"San Miguel de Allende was a critical epicenter during the Chichimeca War, showcasing its historical importance."</data>
+      <data key="d11">17fc289e5de58ee0011aa092593090c1</data>
+      <data key="d12">35489ca6a63b47d6a8913cf333818bc1</data>
+      <data key="d13">68</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;SHANGHAI&quot;" target="&quot;YOU WENHUI&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"You Wenhui was born in Shanghai."</data>
+      <data key="d11">2fb8f27db4d5fa2f555cc93f0ec181e7</data>
+      <data key="d12">5d3344f45e654d2c808481672f2f08dd</data>
+      <data key="d13">69</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;2004 SUMMER OLYMPICS&quot;" target="&quot;YOU WENHUI&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"You Wenhui competed in the 2004 Summer Olympics as a beach volleyball player."</data>
+      <data key="d11">2fb8f27db4d5fa2f555cc93f0ec181e7</data>
+      <data key="d12">6fb57f83baec45c9b30490ee991f433f</data>
+      <data key="d13">70</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;CALIFORNIA&quot;" target="&quot;THE PASADENA SOCIETY OF ARTISTS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The Pasadena Society of Artists is based in California."</data>
+      <data key="d11">a459f0c3fbe980368b138174a6603372</data>
+      <data key="d12">68762e6f0d1c41cd857c6b964a8e76c3</data>
+      <data key="d13">71</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;RHONDA SHEAR&quot;" target="&quot;USA UP ALL NIGHT&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Rhonda Shear is associated with the TV show USA Up All Night."</data>
+      <data key="d11">793d9bccdb5f558ae8bf74083c4e5ec9</data>
+      <data key="d12">70634e10a5e845aa8c6a32fe7e8eb2b2</data>
+      <data key="d13">72</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;USA NETWORK&quot;" target="&quot;USA UP ALL NIGHT&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The USA Network aired the TV show USA Up All Night."</data>
+      <data key="d11">793d9bccdb5f558ae8bf74083c4e5ec9</data>
+      <data key="d12">04085f7cf46544b79597fc49286ff84d</data>
+      <data key="d13">73</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MARDI GRAS&quot;" target="&quot;LOUISIANA&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The state of Louisiana declared Mardi Gras a legal holiday in 1875."</data>
+      <data key="d11">c337c6c7425b1fd15c57e30bbd64c6f0</data>
+      <data key="d12">d203efdbfb2f4b2a899abfb31cf72e82</data>
+      <data key="d13">74</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MARDI GRAS&quot;" target="&quot;AMERICAN CIVIL WAR&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The American Civil War led to the cancellation of some or all of the major parades during Carnival celebrations."</data>
+      <data key="d11">c337c6c7425b1fd15c57e30bbd64c6f0</data>
+      <data key="d12">6731a665561840c2898ce8c9788e4c88</data>
+      <data key="d13">75</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MARDI GRAS&quot;" target="&quot;WORLD WAR I&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"World War I led to the cancellation of some or all of the major parades during Carnival celebrations."</data>
+      <data key="d11">c337c6c7425b1fd15c57e30bbd64c6f0</data>
+      <data key="d12">4026806fa92f4e849a59a7f5c9a45c79</data>
+      <data key="d13">76</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;FRENCH GOVERNMENT&quot;" target="&quot;MUSSOLINI&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mussolini declared war on France, which was governed by the French government."</data>
+      <data key="d11">e46a5413f5450b1da37a8278b12a106d</data>
+      <data key="d12">68e0c60d2e8845d89d9d0ad397833648</data>
+      <data key="d13">77</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;BRITAIN&quot;" target="&quot;MUSSOLINI&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Mussolini declared war on Britain, indicating a conflict between them."</data>
+      <data key="d11">e46a5413f5450b1da37a8278b12a106d</data>
+      <data key="d12">101572f552b54e529fe7765c05168981</data>
+      <data key="d13">78</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MOVIE EYE ENTERTAINMENT&quot;" target="&quot;THE LONGEST NIGHT IN SHANGHAI&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Movie Eye Entertainment produced The Longest Night in Shanghai film."</data>
+      <data key="d11">3c5c3fd4d87e9bfc4a0b1ed745611129</data>
+      <data key="d12">60c58026b2764b40adffca6eaa31d6d9</data>
+      <data key="d13">79</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;ZHANG YIBAI&quot;" target="&quot;THE LONGEST NIGHT IN SHANGHAI&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Zhang Yibai directed The Longest Night in Shanghai film."</data>
+      <data key="d11">3c5c3fd4d87e9bfc4a0b1ed745611129</data>
+      <data key="d12">ad1595a78935472999444c9330e7730e</data>
+      <data key="d13">80</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;CHINA&quot;" target="&quot;THE LONGEST NIGHT IN SHANGHAI&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"China is a country involved in the collaboration for producing The Longest Night in Shanghai film."</data>
+      <data key="d11">3c5c3fd4d87e9bfc4a0b1ed745611129</data>
+      <data key="d12">735d19aea0744b2295556841c5c4c3fd</data>
+      <data key="d13">81</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;ALLIES OF WORLD WAR II&quot;" target="&quot;UNITED NATIONS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The United Nations was another name for the Allies of World War II."</data>
+      <data key="d11">62583da797d5b634568809380f599757</data>
+      <data key="d12">c725babdb14a485582f8fbdf95429030</data>
+      <data key="d13">82</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;BALTIMORE&quot;" target="&quot;FRANCIS SCOTT KEY BRIDGE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The Francis Scott Key Bridge is located in Baltimore."</data>
+      <data key="d11">9b415aa5a7e26f71d2c59244118acc8d</data>
+      <data key="d12">a0047221896d418d849847d422fa4bb8</data>
+      <data key="d13">83</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;MARYLAND&quot;" target="&quot;FRANCIS SCOTT KEY BRIDGE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The Francis Scott Key Bridge is situated in the state of Maryland."</data>
+      <data key="d11">9b415aa5a7e26f71d2c59244118acc8d</data>
+      <data key="d12">98fc2ee593184c5a839454db4eec7013</data>
+      <data key="d13">84</data>
+      <data key="d14">1</data>
+    </edge>
+    <edge source="&quot;PATAPSCO RIVER&quot;" target="&quot;FRANCIS SCOTT KEY BRIDGE&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The Francis Scott Key Bridge spans the Patapsco River."</data>
+      <data key="d11">9b415aa5a7e26f71d2c59244118acc8d</data>
+      <data key="d12">80020a1da63042459e00266b2a605452</data>
+      <data key="d13">85</data>
+      <data key="d14">1</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,1459 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;PARIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Paris is a city where Anne Portugal lives and works."
+"Paris is a city where the funeral took place at the Church of the Madeleine."</data>
+      <data key="d2">051f246ad82ff18511e2d1ac851bb3c0,2099ece6049b23ee38b569d3c55027dc</data>
+    </node>
+    <node id="&quot;ANGERS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Angers is a city in Maine-et-Loire where Anne Portugal was born."</data>
+      <data key="d2">2099ece6049b23ee38b569d3c55027dc</data>
+    </node>
+    <node id="&quot;MAINE-ET-LOIRE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Maine-et-Loire is a region where Angers, Anne Portugal's birthplace, is located."</data>
+      <data key="d2">2099ece6049b23ee38b569d3c55027dc</data>
+    </node>
+    <node id="&quot;PARIS 8 UNIVERSITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Paris 8 University is an educational institution in the suburbs of Paris that Anne Portugal attended."</data>
+      <data key="d2">2099ece6049b23ee38b569d3c55027dc</data>
+    </node>
+    <node id="&quot;ANNE PORTUGAL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2099ece6049b23ee38b569d3c55027dc</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">051f246ad82ff18511e2d1ac851bb3c0,19e1227757d2ac47dc390c95e4ee4317,1ab1f2902da13abd5aca4811ecf0341c,1daf71ea2a886784f7c12da7278c02ba,2099ece6049b23ee38b569d3c55027dc,210260338b9a44401eec4565b223affc,2c29a052b3cf509f122c020f00c99ed9,3b7710bd1a998a078a459a41a5461ea8,3fc02e2a1d9aee11bf917a385be2aa01,5ef3000953a457d7b7a1ceb2a3cf1d79,661795151f6e50945c6c04c4ca05e939,8525309058d8ab7fe39c3d976604c4ae,9a7957b2a93659e903e78eca3e1e4471,b146a7addfbc969b9bd06239dfb2058d,b37eaa73e4c237f01232e40eba20fa4d,e098925f1c5c67ddc2274b1c05daf08e,e8191c5b1dac4f8f9bcecbb85ff5937b,ebc923a7e12da675d326bb8cb15422b3,fa30e01acf1a23ac406701c32d047903,fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">051f246ad82ff18511e2d1ac851bb3c0,19e1227757d2ac47dc390c95e4ee4317,1ab1f2902da13abd5aca4811ecf0341c,1daf71ea2a886784f7c12da7278c02ba,2099ece6049b23ee38b569d3c55027dc,210260338b9a44401eec4565b223affc,2c29a052b3cf509f122c020f00c99ed9,3b7710bd1a998a078a459a41a5461ea8,3fc02e2a1d9aee11bf917a385be2aa01,5ef3000953a457d7b7a1ceb2a3cf1d79,661795151f6e50945c6c04c4ca05e939,8525309058d8ab7fe39c3d976604c4ae,9a7957b2a93659e903e78eca3e1e4471,b146a7addfbc969b9bd06239dfb2058d,b37eaa73e4c237f01232e40eba20fa4d,e098925f1c5c67ddc2274b1c05daf08e,e8191c5b1dac4f8f9bcecbb85ff5937b,ebc923a7e12da675d326bb8cb15422b3,fa30e01acf1a23ac406701c32d047903,fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">051f246ad82ff18511e2d1ac851bb3c0,19e1227757d2ac47dc390c95e4ee4317,1ab1f2902da13abd5aca4811ecf0341c,1daf71ea2a886784f7c12da7278c02ba,2099ece6049b23ee38b569d3c55027dc,210260338b9a44401eec4565b223affc,2c29a052b3cf509f122c020f00c99ed9,3b7710bd1a998a078a459a41a5461ea8,3fc02e2a1d9aee11bf917a385be2aa01,5ef3000953a457d7b7a1ceb2a3cf1d79,661795151f6e50945c6c04c4ca05e939,8525309058d8ab7fe39c3d976604c4ae,9a7957b2a93659e903e78eca3e1e4471,b146a7addfbc969b9bd06239dfb2058d,b37eaa73e4c237f01232e40eba20fa4d,e098925f1c5c67ddc2274b1c05daf08e,e8191c5b1dac4f8f9bcecbb85ff5937b,ebc923a7e12da675d326bb8cb15422b3,fa30e01acf1a23ac406701c32d047903,fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">051f246ad82ff18511e2d1ac851bb3c0,19e1227757d2ac47dc390c95e4ee4317,1ab1f2902da13abd5aca4811ecf0341c,1daf71ea2a886784f7c12da7278c02ba,2099ece6049b23ee38b569d3c55027dc,210260338b9a44401eec4565b223affc,2c29a052b3cf509f122c020f00c99ed9,3b7710bd1a998a078a459a41a5461ea8,3fc02e2a1d9aee11bf917a385be2aa01,5ef3000953a457d7b7a1ceb2a3cf1d79,661795151f6e50945c6c04c4ca05e939,8525309058d8ab7fe39c3d976604c4ae,9a7957b2a93659e903e78eca3e1e4471,b146a7addfbc969b9bd06239dfb2058d,b37eaa73e4c237f01232e40eba20fa4d,e098925f1c5c67ddc2274b1c05daf08e,e8191c5b1dac4f8f9bcecbb85ff5937b,ebc923a7e12da675d326bb8cb15422b3,fa30e01acf1a23ac406701c32d047903,fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">051f246ad82ff18511e2d1ac851bb3c0,19e1227757d2ac47dc390c95e4ee4317,1ab1f2902da13abd5aca4811ecf0341c,1daf71ea2a886784f7c12da7278c02ba,2099ece6049b23ee38b569d3c55027dc,210260338b9a44401eec4565b223affc,2c29a052b3cf509f122c020f00c99ed9,3b7710bd1a998a078a459a41a5461ea8,3fc02e2a1d9aee11bf917a385be2aa01,5ef3000953a457d7b7a1ceb2a3cf1d79,661795151f6e50945c6c04c4ca05e939,8525309058d8ab7fe39c3d976604c4ae,9a7957b2a93659e903e78eca3e1e4471,b146a7addfbc969b9bd06239dfb2058d,b37eaa73e4c237f01232e40eba20fa4d,e098925f1c5c67ddc2274b1c05daf08e,e8191c5b1dac4f8f9bcecbb85ff5937b,ebc923a7e12da675d326bb8cb15422b3,fa30e01acf1a23ac406701c32d047903,fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">051f246ad82ff18511e2d1ac851bb3c0,19e1227757d2ac47dc390c95e4ee4317,1ab1f2902da13abd5aca4811ecf0341c,1daf71ea2a886784f7c12da7278c02ba,2099ece6049b23ee38b569d3c55027dc,210260338b9a44401eec4565b223affc,2c29a052b3cf509f122c020f00c99ed9,3b7710bd1a998a078a459a41a5461ea8,3fc02e2a1d9aee11bf917a385be2aa01,5ef3000953a457d7b7a1ceb2a3cf1d79,661795151f6e50945c6c04c4ca05e939,8525309058d8ab7fe39c3d976604c4ae,9a7957b2a93659e903e78eca3e1e4471,b146a7addfbc969b9bd06239dfb2058d,b37eaa73e4c237f01232e40eba20fa4d,e098925f1c5c67ddc2274b1c05daf08e,e8191c5b1dac4f8f9bcecbb85ff5937b,ebc923a7e12da675d326bb8cb15422b3,fa30e01acf1a23ac406701c32d047903,fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">051f246ad82ff18511e2d1ac851bb3c0,19e1227757d2ac47dc390c95e4ee4317,1ab1f2902da13abd5aca4811ecf0341c,1daf71ea2a886784f7c12da7278c02ba,2099ece6049b23ee38b569d3c55027dc,210260338b9a44401eec4565b223affc,2c29a052b3cf509f122c020f00c99ed9,3b7710bd1a998a078a459a41a5461ea8,3fc02e2a1d9aee11bf917a385be2aa01,5ef3000953a457d7b7a1ceb2a3cf1d79,661795151f6e50945c6c04c4ca05e939,8525309058d8ab7fe39c3d976604c4ae,9a7957b2a93659e903e78eca3e1e4471,b146a7addfbc969b9bd06239dfb2058d,b37eaa73e4c237f01232e40eba20fa4d,e098925f1c5c67ddc2274b1c05daf08e,e8191c5b1dac4f8f9bcecbb85ff5937b,ebc923a7e12da675d326bb8cb15422b3,fa30e01acf1a23ac406701c32d047903,fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">051f246ad82ff18511e2d1ac851bb3c0,19e1227757d2ac47dc390c95e4ee4317,1ab1f2902da13abd5aca4811ecf0341c,1daf71ea2a886784f7c12da7278c02ba,2099ece6049b23ee38b569d3c55027dc,210260338b9a44401eec4565b223affc,2c29a052b3cf509f122c020f00c99ed9,3b7710bd1a998a078a459a41a5461ea8,3fc02e2a1d9aee11bf917a385be2aa01,5ef3000953a457d7b7a1ceb2a3cf1d79,661795151f6e50945c6c04c4ca05e939,8525309058d8ab7fe39c3d976604c4ae,9a7957b2a93659e903e78eca3e1e4471,b146a7addfbc969b9bd06239dfb2058d,b37eaa73e4c237f01232e40eba20fa4d,e098925f1c5c67ddc2274b1c05daf08e,e8191c5b1dac4f8f9bcecbb85ff5937b,ebc923a7e12da675d326bb8cb15422b3,fa30e01acf1a23ac406701c32d047903,fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">051f246ad82ff18511e2d1ac851bb3c0,19e1227757d2ac47dc390c95e4ee4317,1ab1f2902da13abd5aca4811ecf0341c,1daf71ea2a886784f7c12da7278c02ba,2099ece6049b23ee38b569d3c55027dc,210260338b9a44401eec4565b223affc,2c29a052b3cf509f122c020f00c99ed9,3b7710bd1a998a078a459a41a5461ea8,3fc02e2a1d9aee11bf917a385be2aa01,5ef3000953a457d7b7a1ceb2a3cf1d79,661795151f6e50945c6c04c4ca05e939,8525309058d8ab7fe39c3d976604c4ae,9a7957b2a93659e903e78eca3e1e4471,b146a7addfbc969b9bd06239dfb2058d,b37eaa73e4c237f01232e40eba20fa4d,e098925f1c5c67ddc2274b1c05daf08e,e8191c5b1dac4f8f9bcecbb85ff5937b,ebc923a7e12da675d326bb8cb15422b3,fa30e01acf1a23ac406701c32d047903,fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</data>
+      <data key="d2">051f246ad82ff18511e2d1ac851bb3c0,19e1227757d2ac47dc390c95e4ee4317,1ab1f2902da13abd5aca4811ecf0341c,1daf71ea2a886784f7c12da7278c02ba,2099ece6049b23ee38b569d3c55027dc,210260338b9a44401eec4565b223affc,2c29a052b3cf509f122c020f00c99ed9,3b7710bd1a998a078a459a41a5461ea8,3fc02e2a1d9aee11bf917a385be2aa01,5ef3000953a457d7b7a1ceb2a3cf1d79,661795151f6e50945c6c04c4ca05e939,8525309058d8ab7fe39c3d976604c4ae,9a7957b2a93659e903e78eca3e1e4471,b146a7addfbc969b9bd06239dfb2058d,b37eaa73e4c237f01232e40eba20fa4d,e098925f1c5c67ddc2274b1c05daf08e,e8191c5b1dac4f8f9bcecbb85ff5937b,ebc923a7e12da675d326bb8cb15422b3,fa30e01acf1a23ac406701c32d047903,fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </node>
+    <node id="&quot;LONDON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"London is a city from which people traveled to attend the funeral."</data>
+      <data key="d2">051f246ad82ff18511e2d1ac851bb3c0</data>
+    </node>
+    <node id="&quot;BERLIN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Berlin is a city from which people traveled to attend the funeral."</data>
+      <data key="d2">051f246ad82ff18511e2d1ac851bb3c0</data>
+    </node>
+    <node id="&quot;VIENNA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Vienna is a city from which people traveled to attend the funeral."</data>
+      <data key="d2">051f246ad82ff18511e2d1ac851bb3c0</data>
+    </node>
+    <node id="&quot;THE FUNERAL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Funeral was an event held at the Church of the Madeleine in Paris, attended by over 3,000 people."</data>
+      <data key="d2">051f246ad82ff18511e2d1ac851bb3c0</data>
+    </node>
+    <node id="&quot;CHURCH OF THE MADELEINE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">051f246ad82ff18511e2d1ac851bb3c0</data>
+    </node>
+    <node id="&quot;MCA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"MCA is an agency that made a deal with Universal for its client James Stewart, changing the rules of the business."</data>
+      <data key="d2">19e1227757d2ac47dc390c95e4ee4317</data>
+    </node>
+    <node id="&quot;UNIVERSAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Universal is a film studio that made a deal with MCA agent Lew Wasserman for his client James Stewart, leading to a new arrangement for future productions."</data>
+      <data key="d2">19e1227757d2ac47dc390c95e4ee4317</data>
+    </node>
+    <node id="&quot;LEW WASSERMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lew Wasserman is an MCA agent who made a deal with Universal for his client James Stewart, changing the rules of the business."</data>
+      <data key="d2">19e1227757d2ac47dc390c95e4ee4317</data>
+    </node>
+    <node id="&quot;JAMES STEWART&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"James Stewart is an actor who benefited from a new arrangement with Universal, receiving a share in the profits of three pictures instead of a large salary."</data>
+      <data key="d2">19e1227757d2ac47dc390c95e4ee4317</data>
+    </node>
+    <node id="&quot;U.S.&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S. refers to the country where the film business was affected by the 1948 decision in the case of U.S. vs. Paramount Pictures, et al."</data>
+      <data key="d2">19e1227757d2ac47dc390c95e4ee4317</data>
+    </node>
+    <node id="&quot;PARAMOUNT PICTURES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Paramount Pictures is a film studio involved in the 1948 court case that led to changes in the film business."</data>
+      <data key="d2">19e1227757d2ac47dc390c95e4ee4317</data>
+    </node>
+    <node id="&quot;DECCA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">19e1227757d2ac47dc390c95e4ee4317</data>
+    </node>
+    <node id="&quot;GAVI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Gavi is a location in the Piedmont region, Italy, where Enzo Traverso was born."</data>
+      <data key="d2">fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </node>
+    <node id="&quot;PIEDMONT REGION&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Piedmont region is a geographic area in Italy where Gavi is located."</data>
+      <data key="d2">fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </node>
+    <node id="&quot;ITALY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Italy is the country where Enzo Traverso was born and has connections to."</data>
+      <data key="d2">fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </node>
+    <node id="&quot;CORNELL UNIVERSITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Cornell University is an institution where Enzo Traverso currently works as a professor."</data>
+      <data key="d2">fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </node>
+    <node id="&quot;ENZO TRAVERSO&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </node>
+    <node id="&quot;BEAUTY AND THE BEAST&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Beauty and the Beast is a Broadway musical adaptation where Susan Farrell Egan originated the role of Belle in 1994."</data>
+      <data key="d2">210260338b9a44401eec4565b223affc</data>
+    </node>
+    <node id="&quot;HERCULES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Hercules is an animated movie where Susan Farrell Egan provided the voice of Megara in 1997."</data>
+      <data key="d2">210260338b9a44401eec4565b223affc</data>
+    </node>
+    <node id="&quot;STEVEN UNIVERSE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Steven Universe is a TV show where Susan Farrell Egan provided the voice for Rose Quartz."</data>
+      <data key="d2">210260338b9a44401eec4565b223affc</data>
+    </node>
+    <node id="&quot;SUSAN FARRELL EGAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">210260338b9a44401eec4565b223affc</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF IOWA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The University of Iowa is a location where Nick Burd attended school."</data>
+      <data key="d2">8525309058d8ab7fe39c3d976604c4ae</data>
+    </node>
+    <node id="&quot;THE NEW SCHOOL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The New School is a location where Nick Burd received his MFA."</data>
+      <data key="d2">8525309058d8ab7fe39c3d976604c4ae</data>
+    </node>
+    <node id="&quot;THE VAST FIELDS OF ORDINARY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Vast Fields of Ordinary is the title of Nick Burd's first novel, published in 2009."</data>
+      <data key="d2">8525309058d8ab7fe39c3d976604c4ae</data>
+    </node>
+    <node id="&quot;NICK BURD&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">8525309058d8ab7fe39c3d976604c4ae</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF OKLAHOMA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"University of Oklahoma is a large employer in the MSA region with 11,900 employees."
+"The University of Oklahoma is an educational institution where Susan Winchester earned her bachelor's and master's degrees."</data>
+      <data key="d2">b146a7addfbc969b9bd06239dfb2058d,e8191c5b1dac4f8f9bcecbb85ff5937b</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF CENTRAL OKLAHOMA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"University of Central Oklahoma is a large employer in the MSA region with 2,900 employees."</data>
+      <data key="d2">e8191c5b1dac4f8f9bcecbb85ff5937b</data>
+    </node>
+    <node id="&quot;NORMAN REGIONAL HOSPITAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Norman Regional Hospital is a large employer in the MSA region with 2,800 employees."</data>
+      <data key="d2">e8191c5b1dac4f8f9bcecbb85ff5937b</data>
+    </node>
+    <node id="&quot;OKLAHOMA CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Oklahoma City is a location mentioned as not being part of the employers listed."</data>
+      <data key="d2">e8191c5b1dac4f8f9bcecbb85ff5937b</data>
+    </node>
+    <node id="&quot;TINKER AIR FORCE BASE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e8191c5b1dac4f8f9bcecbb85ff5937b</data>
+    </node>
+    <node id="&quot;OREGON STATE UNIVERSITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Oregon State University is a university where Randy Conrads graduated with a bachelor's degree in industrial engineering."</data>
+      <data key="d2">e098925f1c5c67ddc2274b1c05daf08e</data>
+    </node>
+    <node id="&quot;BOEING&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Boeing is an organization where Randy Conrads worked for twenty one years before founding Classmates Online, Inc."</data>
+      <data key="d2">e098925f1c5c67ddc2274b1c05daf08e</data>
+    </node>
+    <node id="&quot;CLASSMATES ONLINE, INC.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Classmates Online, Inc. is an organization founded by Randy Conrads, which became a very popular website."</data>
+      <data key="d2">e098925f1c5c67ddc2274b1c05daf08e</data>
+    </node>
+    <node id="&quot;REDWEEK.COM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"RedWeek.com is an organization co-founded by Randy Conrads after he left Classmates Online, Inc."</data>
+      <data key="d2">e098925f1c5c67ddc2274b1c05daf08e</data>
+    </node>
+    <node id="&quot;EBUSINESS REPORT'S 2001 ENTREPRENEUR OF THE YEAR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"eBusiness Report's 2001 Entrepreneur of the Year is an event where Randy Conrads received an honor as Entrepreneur of the Year."</data>
+      <data key="d2">e098925f1c5c67ddc2274b1c05daf08e</data>
+    </node>
+    <node id="&quot;RANDY CONRADS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e098925f1c5c67ddc2274b1c05daf08e</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF CAMBRIDGE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The University of Cambridge is a location where many leaders in the colony had attended, influencing the College's curriculum."</data>
+      <data key="d2">9a7957b2a93659e903e78eca3e1e4471</data>
+    </node>
+    <node id="&quot;CONGREGATIONAL CHURCHES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Congregational churches are a denomination that employed clergymen who graduated from the College."</data>
+      <data key="d2">9a7957b2a93659e903e78eca3e1e4471</data>
+    </node>
+    <node id="&quot;UNITARIAN CHURCHES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Unitarian churches are a denomination that employed clergymen who graduated from the College."</data>
+      <data key="d2">9a7957b2a93659e903e78eca3e1e4471</data>
+    </node>
+    <node id="&quot;COLLEGE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">9a7957b2a93659e903e78eca3e1e4471</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF VIRGINIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Virginia is an educational institution where Bob Lyon graduated from."</data>
+      <data key="d2">661795151f6e50945c6c04c4ca05e939</data>
+    </node>
+    <node id="&quot;GEORGE WASHINGTON UNIVERSITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"George Washington University is an educational institution where Bob Lyon graduated from."
+"George Washington University is an institution where Hugh Heclo previously worked as a professor of government."</data>
+      <data key="d2">661795151f6e50945c6c04c4ca05e939,fa30e01acf1a23ac406701c32d047903</data>
+    </node>
+    <node id="&quot;KANSAS STATE SENATE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Kansas State Senate is a legislative body where Bob Lyon served as a Senator."</data>
+      <data key="d2">661795151f6e50945c6c04c4ca05e939</data>
+    </node>
+    <node id="&quot;WINCHESTER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Winchester is a city in Kansas where Bob Lyon was a State Senator."</data>
+      <data key="d2">661795151f6e50945c6c04c4ca05e939</data>
+    </node>
+    <node id="&quot;BOB LYON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">661795151f6e50945c6c04c4ca05e939</data>
+    </node>
+    <node id="&quot;PORTSMOUTH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Portsmouth is a location in England where Richard Pare was born."</data>
+      <data key="d2">5ef3000953a457d7b7a1ceb2a3cf1d79</data>
+    </node>
+    <node id="&quot;ENGLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"England is a country where Richard Pare was born and studied."</data>
+      <data key="d2">5ef3000953a457d7b7a1ceb2a3cf1d79</data>
+    </node>
+    <node id="&quot;WINCHESTER COLLEGE OF ART&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Winchester College of Art is an institution where Richard Pare studied graphic design and photography."</data>
+      <data key="d2">5ef3000953a457d7b7a1ceb2a3cf1d79</data>
+    </node>
+    <node id="&quot;RAVENSBOURNE COLLEGE OF ART&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ravensbourne College of Art is an institution where Richard Pare studied graphic design and photography."</data>
+      <data key="d2">5ef3000953a457d7b7a1ceb2a3cf1d79</data>
+    </node>
+    <node id="&quot;ART INSTITUTE OF CHICAGO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Art Institute of Chicago is an institution where Richard Pare attended and received a Master of Fine Arts in 1973."</data>
+      <data key="d2">5ef3000953a457d7b7a1ceb2a3cf1d79</data>
+    </node>
+    <node id="&quot;CANADIAN CENTRE FOR ARCHITECTURE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Canadian Centre for Architecture is an organization where Richard Pare was a founding curator of the Photographic Collection."</data>
+      <data key="d2">5ef3000953a457d7b7a1ceb2a3cf1d79</data>
+    </node>
+    <node id="&quot;RICHARD PARE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5ef3000953a457d7b7a1ceb2a3cf1d79</data>
+    </node>
+    <node id="&quot;OTTUMWA, IOWA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ottumwa, Iowa is a geographic location where Schwartz was born."</data>
+      <data key="d2">b37eaa73e4c237f01232e40eba20fa4d</data>
+    </node>
+    <node id="&quot;CREIGHTON UNIVERSITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Creighton University is an educational institution that Schwartz attended."</data>
+      <data key="d2">b37eaa73e4c237f01232e40eba20fa4d</data>
+    </node>
+    <node id="&quot;IOWA HOUSE OF REPRESENTATIVES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Iowa House of Representatives is a legislative body where Schwartz served as a Democrat from 1969 to 1973."</data>
+      <data key="d2">b37eaa73e4c237f01232e40eba20fa4d</data>
+    </node>
+    <node id="&quot;SCHWARTZ&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b37eaa73e4c237f01232e40eba20fa4d</data>
+    </node>
+    <node id="&quot;GEORGE MASON UNIVERSITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"George Mason University is an institution where Hugh Heclo worked as a Clarence J. Robinson Professor of Public Affairs."</data>
+      <data key="d2">fa30e01acf1a23ac406701c32d047903</data>
+    </node>
+    <node id="&quot;HARVARD UNIVERSITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Harvard University is an institution where Hugh Heclo previously worked as a professor of government."</data>
+      <data key="d2">fa30e01acf1a23ac406701c32d047903</data>
+    </node>
+    <node id="&quot;ASHCROFT FARMS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ashcroft Farms is a Christmas tree farm operated by Hugh Heclo outside Winchester, Virginia."</data>
+      <data key="d2">fa30e01acf1a23ac406701c32d047903</data>
+    </node>
+    <node id="&quot;WINCHESTER, VIRGINIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Winchester, Virginia is the location of Ashcroft Farms, a Christmas tree farm operated by Hugh Heclo."</data>
+      <data key="d2">fa30e01acf1a23ac406701c32d047903</data>
+    </node>
+    <node id="&quot;HUGH HECLO&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fa30e01acf1a23ac406701c32d047903</data>
+    </node>
+    <node id="&quot;METHODIST GIRLS SCHOOL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Methodist Girls School is an educational institution where Nuraliza Osman studied and won many accolades."</data>
+      <data key="d2">3b7710bd1a998a078a459a41a5461ea8</data>
+    </node>
+    <node id="&quot;VICTORIA JUNIOR COLLEGE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Victoria Junior College is an educational institution where Nuraliza Osman studied pre-medicine classes and French."</data>
+      <data key="d2">3b7710bd1a998a078a459a41a5461ea8</data>
+    </node>
+    <node id="&quot;FRANCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"France is a country where Nuraliza Osman briefly studied prior to attending university."</data>
+      <data key="d2">3b7710bd1a998a078a459a41a5461ea8</data>
+    </node>
+    <node id="&quot;MISS UNIVERSE COMPETITION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Miss Universe competition is an event where Nuraliza Osman participated, showcasing her feminine side."</data>
+      <data key="d2">3b7710bd1a998a078a459a41a5461ea8</data>
+    </node>
+    <node id="&quot;NURALIZA OSMAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3b7710bd1a998a078a459a41a5461ea8</data>
+    </node>
+    <node id="&quot;GEORGE SOROS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"George Soros is a billionaire and the father of Alexander Soros."</data>
+      <data key="d2">1daf71ea2a886784f7c12da7278c02ba</data>
+    </node>
+    <node id="&quot;SUSAN WEBER SOROS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Susan Weber Soros is the mother of Alexander Soros."</data>
+      <data key="d2">1daf71ea2a886784f7c12da7278c02ba</data>
+    </node>
+    <node id="&quot;GREGORY SOROS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gregory Soros is the younger brother of Alexander Soros."</data>
+      <data key="d2">1daf71ea2a886784f7c12da7278c02ba</data>
+    </node>
+    <node id="&quot;KATONAH, NEW YORK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Katonah, New York is a location where Alexander Soros was raised."</data>
+      <data key="d2">1daf71ea2a886784f7c12da7278c02ba</data>
+    </node>
+    <node id="&quot;STAMFORD, CONNECTICUT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Stamford, Connecticut is a location where King Low Heywood Thomas is located."</data>
+      <data key="d2">1daf71ea2a886784f7c12da7278c02ba</data>
+    </node>
+    <node id="&quot;NEW YORK UNIVERSITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"New York University is an educational institution that Alexander Soros attended and graduated from in 2009."</data>
+      <data key="d2">1daf71ea2a886784f7c12da7278c02ba</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF CALIFORNIA, BERKELEY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"University of California, Berkeley is an educational institution where Alexander Soros earned a PhD in History in 2018."</data>
+      <data key="d2">1daf71ea2a886784f7c12da7278c02ba</data>
+    </node>
+    <node id="&quot;KING LOW HEYWOOD THOMAS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"King Low Heywood Thomas is an educational institution that Alexander Soros attended."</data>
+      <data key="d2">1daf71ea2a886784f7c12da7278c02ba</data>
+    </node>
+    <node id="&quot;ALEXANDER SOROS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1daf71ea2a886784f7c12da7278c02ba</data>
+    </node>
+    <node id="&quot;AUBURN UNIVERSITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Auburn University is an educational institution that Turner attended."</data>
+      <data key="d2">1ab1f2902da13abd5aca4811ecf0341c</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF GEORGIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"University of Georgia is an educational institution that Turner attended."</data>
+      <data key="d2">1ab1f2902da13abd5aca4811ecf0341c</data>
+    </node>
+    <node id="&quot;UNITED STATES ARMY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"United States Army is a military organization where Turner served from 1951 to 1953."</data>
+      <data key="d2">1ab1f2902da13abd5aca4811ecf0341c</data>
+    </node>
+    <node id="&quot;TURNER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1ab1f2902da13abd5aca4811ecf0341c</data>
+    </node>
+    <node id="&quot;WINCHESTER RIFLES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Winchester rifles are a type of rifle associated with the haunting of Sarah Winchester's property and mansion."</data>
+      <data key="d2">ebc923a7e12da675d326bb8cb15422b3</data>
+    </node>
+    <node id="&quot;MYSTERY HOUSE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mystery House is the name given to Sarah Winchester's property and mansion, claimed to be haunted by ghosts."</data>
+      <data key="d2">ebc923a7e12da675d326bb8cb15422b3</data>
+    </node>
+    <node id="&quot;SARAH WINCHESTER'S BIOGRAPHER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sarah Winchester's biographer provides an alternative account of the construction of the Mystery House, contradicting claims made by its proprietors."</data>
+      <data key="d2">ebc923a7e12da675d326bb8cb15422b3</data>
+    </node>
+    <node id="&quot;SARAH WINCHESTER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ebc923a7e12da675d326bb8cb15422b3</data>
+    </node>
+    <node id="&quot;NORTH CAROLINA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"North Carolina is a state where the person was born and attended school."</data>
+      <data key="d2">2c29a052b3cf509f122c020f00c99ed9</data>
+    </node>
+    <node id="&quot;WATERS TRAINING SCHOOL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Waters Training School is an educational institution where the person graduated as valedictorian in 1901."</data>
+      <data key="d2">2c29a052b3cf509f122c020f00c99ed9</data>
+    </node>
+    <node id="&quot;WAYLAND ACADEMY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Wayland Academy is an educational institution attended by the person from 1901 to 1903."</data>
+      <data key="d2">2c29a052b3cf509f122c020f00c99ed9</data>
+    </node>
+    <node id="&quot;VIRGINIA UNION UNIVERSITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Virginia Union University is an educational institution attended by the person from 1901 to 1903, located in Richmond, Virginia."</data>
+      <data key="d2">2c29a052b3cf509f122c020f00c99ed9</data>
+    </node>
+    <node id="&quot;WESTERN UNIVERSITY OF PENNSYLVANIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Western University of Pennsylvania (now the University of Pittsburgh) is an educational institution where the person graduated from law school in 1909."</data>
+      <data key="d2">2c29a052b3cf509f122c020f00c99ed9</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF PITTSBURGH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Pittsburgh is a university that was previously known as Western University of Pennsylvania, where the person graduated from law school in 1909."</data>
+      <data key="d2">2c29a052b3cf509f122c020f00c99ed9</data>
+    </node>
+    <node id="&quot;JESSIE MATTHEWS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jessie Matthews is the spouse of the person, whom they married on February 17, 1919."</data>
+      <data key="d2">2c29a052b3cf509f122c020f00c99ed9</data>
+    </node>
+    <node id="&quot;GETTYSBURG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Gettysburg is a location where Jessie Matthews is from."</data>
+      <data key="d2">2c29a052b3cf509f122c020f00c99ed9</data>
+    </node>
+    <node id="&quot;AHOSKIE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2c29a052b3cf509f122c020f00c99ed9</data>
+    </node>
+    <node id="&quot;AMERICAN DUSTING COMPANY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"American Dusting Company is a company co-owned and operated by Susan Winchester from 1976 to 1989."</data>
+      <data key="d2">b146a7addfbc969b9bd06239dfb2058d</data>
+    </node>
+    <node id="&quot;CHICKASHA FLYING SERVICE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Chickasha Flying Service is a company co-owned and operated by Susan Winchester from 1976 to 1989."</data>
+      <data key="d2">b146a7addfbc969b9bd06239dfb2058d</data>
+    </node>
+    <node id="&quot;CANADIAN VALLEY TECHNOLOGY CENTER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Canadian Valley Technology Center is an educational institution where Susan Winchester worked as a coordinator for Adult Training and Development."</data>
+      <data key="d2">b146a7addfbc969b9bd06239dfb2058d</data>
+    </node>
+    <node id="&quot;WINCHESTER GROUP&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Winchester Group is an educational group founded by Susan Winchester in 1992, providing training and consulting to businesses."</data>
+      <data key="d2">b146a7addfbc969b9bd06239dfb2058d</data>
+    </node>
+    <node id="&quot;CHICKASHA, OKLAHOMA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Chickasha, Oklahoma is a geographic location where Susan Winchester was born."</data>
+      <data key="d2">b146a7addfbc969b9bd06239dfb2058d</data>
+    </node>
+    <node id="&quot;SUSAN WINCHESTER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b146a7addfbc969b9bd06239dfb2058d</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF EDINBURGH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"University of Edinburgh is an educational institution where the person did his Ph.D."</data>
+      <data key="d2">3fc02e2a1d9aee11bf917a385be2aa01</data>
+    </node>
+    <node id="&quot;ADAM MICKIEWICZ UNIVERSITY IN POZNA&#323;&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Adam Mickiewicz University in Pozna&#324; is an educational institution where the person worked."</data>
+      <data key="d2">3fc02e2a1d9aee11bf917a385be2aa01</data>
+    </node>
+    <node id="&quot;IBM UK SCIENTIFIC CENTRE IN WINCHESTER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"IBM UK Scientific Centre in Winchester is a research institution where the person worked."</data>
+      <data key="d2">3fc02e2a1d9aee11bf917a385be2aa01</data>
+    </node>
+    <node id="&quot;UNIVERSITY COLLEGE LONDON&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"University College London is an educational institution where the person worked."</data>
+      <data key="d2">3fc02e2a1d9aee11bf917a385be2aa01</data>
+    </node>
+    <node id="&quot;UNIVERSITY COLLEGE DUBLIN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"University College Dublin is an educational institution where the person worked."</data>
+      <data key="d2">3fc02e2a1d9aee11bf917a385be2aa01</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF WALES, BANGOR&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"University of Wales, Bangor is an educational institution where the person became a lecturer in linguistics."</data>
+      <data key="d2">3fc02e2a1d9aee11bf917a385be2aa01</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ESSEX&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"University of Essex is an educational institution where the person moved to in 2000."</data>
+      <data key="d2">3fc02e2a1d9aee11bf917a385be2aa01</data>
+    </node>
+    <node id="&quot;HE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The person studied, worked, and lectured at various educational institutions."</data>
+      <data key="d2">3fc02e2a1d9aee11bf917a385be2aa01</data>
+    </node>
+    <node id="&quot;UNIVERSITY COLLEGE OF NORTH WALES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">3fc02e2a1d9aee11bf917a385be2aa01</data>
+    </node>
+    <edge source="&quot;PARIS&quot;" target="&quot;ANNE PORTUGAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Anne Portugal lives and works in Paris."</data>
+      <data key="d5">2099ece6049b23ee38b569d3c55027dc</data>
+    </edge>
+    <edge source="&quot;PARIS&quot;" target="&quot;CHURCH OF THE MADELEINE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Church of the Madeleine is located in Paris."</data>
+      <data key="d5">051f246ad82ff18511e2d1ac851bb3c0</data>
+    </edge>
+    <edge source="&quot;ANGERS&quot;" target="&quot;ANNE PORTUGAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Anne Portugal was born in Angers."</data>
+      <data key="d5">2099ece6049b23ee38b569d3c55027dc</data>
+    </edge>
+    <edge source="&quot;PARIS 8 UNIVERSITY&quot;" target="&quot;ANNE PORTUGAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Anne Portugal attended Paris 8 University."</data>
+      <data key="d5">2099ece6049b23ee38b569d3c55027dc</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."</data>
+      <data key="d5">051f246ad82ff18511e2d1ac851bb3c0,19e1227757d2ac47dc390c95e4ee4317,1ab1f2902da13abd5aca4811ecf0341c,1daf71ea2a886784f7c12da7278c02ba,2099ece6049b23ee38b569d3c55027dc,210260338b9a44401eec4565b223affc,2c29a052b3cf509f122c020f00c99ed9,3b7710bd1a998a078a459a41a5461ea8,3fc02e2a1d9aee11bf917a385be2aa01,5ef3000953a457d7b7a1ceb2a3cf1d79,661795151f6e50945c6c04c4ca05e939,8525309058d8ab7fe39c3d976604c4ae,9a7957b2a93659e903e78eca3e1e4471,b146a7addfbc969b9bd06239dfb2058d,b37eaa73e4c237f01232e40eba20fa4d,e098925f1c5c67ddc2274b1c05daf08e,e8191c5b1dac4f8f9bcecbb85ff5937b,ebc923a7e12da675d326bb8cb15422b3,fa30e01acf1a23ac406701c32d047903,fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."</data>
+      <data key="d5">051f246ad82ff18511e2d1ac851bb3c0,19e1227757d2ac47dc390c95e4ee4317,1ab1f2902da13abd5aca4811ecf0341c,1daf71ea2a886784f7c12da7278c02ba,2099ece6049b23ee38b569d3c55027dc,210260338b9a44401eec4565b223affc,2c29a052b3cf509f122c020f00c99ed9,3b7710bd1a998a078a459a41a5461ea8,3fc02e2a1d9aee11bf917a385be2aa01,5ef3000953a457d7b7a1ceb2a3cf1d79,661795151f6e50945c6c04c4ca05e939,8525309058d8ab7fe39c3d976604c4ae,9a7957b2a93659e903e78eca3e1e4471,b146a7addfbc969b9bd06239dfb2058d,b37eaa73e4c237f01232e40eba20fa4d,e098925f1c5c67ddc2274b1c05daf08e,e8191c5b1dac4f8f9bcecbb85ff5937b,ebc923a7e12da675d326bb8cb15422b3,fa30e01acf1a23ac406701c32d047903,fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."</data>
+      <data key="d5">051f246ad82ff18511e2d1ac851bb3c0,19e1227757d2ac47dc390c95e4ee4317,1ab1f2902da13abd5aca4811ecf0341c,1daf71ea2a886784f7c12da7278c02ba,2099ece6049b23ee38b569d3c55027dc,210260338b9a44401eec4565b223affc,2c29a052b3cf509f122c020f00c99ed9,3b7710bd1a998a078a459a41a5461ea8,3fc02e2a1d9aee11bf917a385be2aa01,5ef3000953a457d7b7a1ceb2a3cf1d79,661795151f6e50945c6c04c4ca05e939,8525309058d8ab7fe39c3d976604c4ae,9a7957b2a93659e903e78eca3e1e4471,b146a7addfbc969b9bd06239dfb2058d,b37eaa73e4c237f01232e40eba20fa4d,e098925f1c5c67ddc2274b1c05daf08e,e8191c5b1dac4f8f9bcecbb85ff5937b,ebc923a7e12da675d326bb8cb15422b3,fa30e01acf1a23ac406701c32d047903,fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."</data>
+      <data key="d5">051f246ad82ff18511e2d1ac851bb3c0,19e1227757d2ac47dc390c95e4ee4317,1ab1f2902da13abd5aca4811ecf0341c,1daf71ea2a886784f7c12da7278c02ba,2099ece6049b23ee38b569d3c55027dc,210260338b9a44401eec4565b223affc,2c29a052b3cf509f122c020f00c99ed9,3b7710bd1a998a078a459a41a5461ea8,3fc02e2a1d9aee11bf917a385be2aa01,5ef3000953a457d7b7a1ceb2a3cf1d79,661795151f6e50945c6c04c4ca05e939,8525309058d8ab7fe39c3d976604c4ae,9a7957b2a93659e903e78eca3e1e4471,b146a7addfbc969b9bd06239dfb2058d,b37eaa73e4c237f01232e40eba20fa4d,e098925f1c5c67ddc2274b1c05daf08e,e8191c5b1dac4f8f9bcecbb85ff5937b,ebc923a7e12da675d326bb8cb15422b3,fa30e01acf1a23ac406701c32d047903,fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."</data>
+      <data key="d5">051f246ad82ff18511e2d1ac851bb3c0,19e1227757d2ac47dc390c95e4ee4317,1ab1f2902da13abd5aca4811ecf0341c,1daf71ea2a886784f7c12da7278c02ba,2099ece6049b23ee38b569d3c55027dc,210260338b9a44401eec4565b223affc,2c29a052b3cf509f122c020f00c99ed9,3b7710bd1a998a078a459a41a5461ea8,3fc02e2a1d9aee11bf917a385be2aa01,5ef3000953a457d7b7a1ceb2a3cf1d79,661795151f6e50945c6c04c4ca05e939,8525309058d8ab7fe39c3d976604c4ae,9a7957b2a93659e903e78eca3e1e4471,b146a7addfbc969b9bd06239dfb2058d,b37eaa73e4c237f01232e40eba20fa4d,e098925f1c5c67ddc2274b1c05daf08e,e8191c5b1dac4f8f9bcecbb85ff5937b,ebc923a7e12da675d326bb8cb15422b3,fa30e01acf1a23ac406701c32d047903,fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."</data>
+      <data key="d5">051f246ad82ff18511e2d1ac851bb3c0,19e1227757d2ac47dc390c95e4ee4317,1ab1f2902da13abd5aca4811ecf0341c,1daf71ea2a886784f7c12da7278c02ba,2099ece6049b23ee38b569d3c55027dc,210260338b9a44401eec4565b223affc,2c29a052b3cf509f122c020f00c99ed9,3b7710bd1a998a078a459a41a5461ea8,3fc02e2a1d9aee11bf917a385be2aa01,5ef3000953a457d7b7a1ceb2a3cf1d79,661795151f6e50945c6c04c4ca05e939,8525309058d8ab7fe39c3d976604c4ae,9a7957b2a93659e903e78eca3e1e4471,b146a7addfbc969b9bd06239dfb2058d,b37eaa73e4c237f01232e40eba20fa4d,e098925f1c5c67ddc2274b1c05daf08e,e8191c5b1dac4f8f9bcecbb85ff5937b,ebc923a7e12da675d326bb8cb15422b3,fa30e01acf1a23ac406701c32d047903,fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">051f246ad82ff18511e2d1ac851bb3c0,19e1227757d2ac47dc390c95e4ee4317,1ab1f2902da13abd5aca4811ecf0341c,1daf71ea2a886784f7c12da7278c02ba,2099ece6049b23ee38b569d3c55027dc,210260338b9a44401eec4565b223affc,2c29a052b3cf509f122c020f00c99ed9,3b7710bd1a998a078a459a41a5461ea8,3fc02e2a1d9aee11bf917a385be2aa01,5ef3000953a457d7b7a1ceb2a3cf1d79,661795151f6e50945c6c04c4ca05e939,8525309058d8ab7fe39c3d976604c4ae,9a7957b2a93659e903e78eca3e1e4471,b146a7addfbc969b9bd06239dfb2058d,b37eaa73e4c237f01232e40eba20fa4d,e098925f1c5c67ddc2274b1c05daf08e,e8191c5b1dac4f8f9bcecbb85ff5937b,ebc923a7e12da675d326bb8cb15422b3,fa30e01acf1a23ac406701c32d047903,fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."</data>
+      <data key="d5">051f246ad82ff18511e2d1ac851bb3c0,19e1227757d2ac47dc390c95e4ee4317,1ab1f2902da13abd5aca4811ecf0341c,1daf71ea2a886784f7c12da7278c02ba,2099ece6049b23ee38b569d3c55027dc,210260338b9a44401eec4565b223affc,2c29a052b3cf509f122c020f00c99ed9,3b7710bd1a998a078a459a41a5461ea8,3fc02e2a1d9aee11bf917a385be2aa01,5ef3000953a457d7b7a1ceb2a3cf1d79,661795151f6e50945c6c04c4ca05e939,8525309058d8ab7fe39c3d976604c4ae,9a7957b2a93659e903e78eca3e1e4471,b146a7addfbc969b9bd06239dfb2058d,b37eaa73e4c237f01232e40eba20fa4d,e098925f1c5c67ddc2274b1c05daf08e,e8191c5b1dac4f8f9bcecbb85ff5937b,ebc923a7e12da675d326bb8cb15422b3,fa30e01acf1a23ac406701c32d047903,fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">051f246ad82ff18511e2d1ac851bb3c0,19e1227757d2ac47dc390c95e4ee4317,1ab1f2902da13abd5aca4811ecf0341c,1daf71ea2a886784f7c12da7278c02ba,2099ece6049b23ee38b569d3c55027dc,210260338b9a44401eec4565b223affc,2c29a052b3cf509f122c020f00c99ed9,3b7710bd1a998a078a459a41a5461ea8,3fc02e2a1d9aee11bf917a385be2aa01,5ef3000953a457d7b7a1ceb2a3cf1d79,661795151f6e50945c6c04c4ca05e939,8525309058d8ab7fe39c3d976604c4ae,9a7957b2a93659e903e78eca3e1e4471,b146a7addfbc969b9bd06239dfb2058d,b37eaa73e4c237f01232e40eba20fa4d,e098925f1c5c67ddc2274b1c05daf08e,e8191c5b1dac4f8f9bcecbb85ff5937b,ebc923a7e12da675d326bb8cb15422b3,fa30e01acf1a23ac406701c32d047903,fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </edge>
+    <edge source="&quot;LONDON&quot;" target="&quot;THE FUNERAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"People from London traveled to attend The Funeral."</data>
+      <data key="d5">051f246ad82ff18511e2d1ac851bb3c0</data>
+    </edge>
+    <edge source="&quot;BERLIN&quot;" target="&quot;THE FUNERAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"People from Berlin traveled to attend The Funeral."</data>
+      <data key="d5">051f246ad82ff18511e2d1ac851bb3c0</data>
+    </edge>
+    <edge source="&quot;VIENNA&quot;" target="&quot;THE FUNERAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"People from Vienna traveled to attend The Funeral."</data>
+      <data key="d5">051f246ad82ff18511e2d1ac851bb3c0</data>
+    </edge>
+    <edge source="&quot;MCA&quot;" target="&quot;UNIVERSAL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"MCA made a deal with Universal for its client James Stewart, changing the rules of the business."</data>
+      <data key="d5">19e1227757d2ac47dc390c95e4ee4317</data>
+    </edge>
+    <edge source="&quot;LEW WASSERMAN&quot;" target="&quot;JAMES STEWART&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lew Wasserman is James Stewart's agent, making deals on his behalf with Universal."</data>
+      <data key="d5">19e1227757d2ac47dc390c95e4ee4317</data>
+    </edge>
+    <edge source="&quot;U.S.&quot;" target="&quot;DECCA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Decca is a film studio operating in the U.S., affected by the 1948 court case."</data>
+      <data key="d5">19e1227757d2ac47dc390c95e4ee4317</data>
+    </edge>
+    <edge source="&quot;GAVI&quot;" target="&quot;ENZO TRAVERSO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Enzo Traverso was born in Gavi, Italy."</data>
+      <data key="d5">fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </edge>
+    <edge source="&quot;PIEDMONT REGION&quot;" target="&quot;ENZO TRAVERSO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Enzo Traverso was born in the Piedmont region of Italy."</data>
+      <data key="d5">fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </edge>
+    <edge source="&quot;ITALY&quot;" target="&quot;ENZO TRAVERSO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Enzo Traverso is from Italy and has connections to the country."</data>
+      <data key="d5">fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </edge>
+    <edge source="&quot;CORNELL UNIVERSITY&quot;" target="&quot;ENZO TRAVERSO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Enzo Traverso currently works as a professor at Cornell University."</data>
+      <data key="d5">fbc30a2e338cb0c34e9f68e5aff4ed9f</data>
+    </edge>
+    <edge source="&quot;BEAUTY AND THE BEAST&quot;" target="&quot;SUSAN FARRELL EGAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Susan Farrell Egan originated the role of Belle in Beauty and the Beast."</data>
+      <data key="d5">210260338b9a44401eec4565b223affc</data>
+    </edge>
+    <edge source="&quot;HERCULES&quot;" target="&quot;SUSAN FARRELL EGAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Susan Farrell Egan provided the voice of Megara in Hercules."</data>
+      <data key="d5">210260338b9a44401eec4565b223affc</data>
+    </edge>
+    <edge source="&quot;STEVEN UNIVERSE&quot;" target="&quot;SUSAN FARRELL EGAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Susan Farrell Egan provided the voice for Rose Quartz on Steven Universe."</data>
+      <data key="d5">210260338b9a44401eec4565b223affc</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF IOWA&quot;" target="&quot;NICK BURD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nick Burd attended the University of Iowa."</data>
+      <data key="d5">8525309058d8ab7fe39c3d976604c4ae</data>
+    </edge>
+    <edge source="&quot;THE NEW SCHOOL&quot;" target="&quot;NICK BURD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nick Burd received his MFA from The New School."</data>
+      <data key="d5">8525309058d8ab7fe39c3d976604c4ae</data>
+    </edge>
+    <edge source="&quot;THE VAST FIELDS OF ORDINARY&quot;" target="&quot;NICK BURD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nick Burd published his first novel, The Vast Fields of Ordinary, in 2009."</data>
+      <data key="d5">8525309058d8ab7fe39c3d976604c4ae</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF OKLAHOMA&quot;" target="&quot;OKLAHOMA CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"University of Oklahoma is located in the MSA region of Oklahoma City."</data>
+      <data key="d5">e8191c5b1dac4f8f9bcecbb85ff5937b</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF OKLAHOMA&quot;" target="&quot;SUSAN WINCHESTER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Susan Winchester earned degrees from the University of Oklahoma."</data>
+      <data key="d5">b146a7addfbc969b9bd06239dfb2058d</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF CENTRAL OKLAHOMA&quot;" target="&quot;OKLAHOMA CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"University of Central Oklahoma is located in the MSA region of Oklahoma City."</data>
+      <data key="d5">e8191c5b1dac4f8f9bcecbb85ff5937b</data>
+    </edge>
+    <edge source="&quot;NORMAN REGIONAL HOSPITAL&quot;" target="&quot;OKLAHOMA CITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Norman Regional Hospital is located in the MSA region of Oklahoma City."</data>
+      <data key="d5">e8191c5b1dac4f8f9bcecbb85ff5937b</data>
+    </edge>
+    <edge source="&quot;OKLAHOMA CITY&quot;" target="&quot;TINKER AIR FORCE BASE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tinker Air Force Base is located in the MSA region of Oklahoma City."</data>
+      <data key="d5">e8191c5b1dac4f8f9bcecbb85ff5937b</data>
+    </edge>
+    <edge source="&quot;OREGON STATE UNIVERSITY&quot;" target="&quot;RANDY CONRADS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Randy Conrads attended Oregon State University, graduating with a bachelor's degree in industrial engineering."</data>
+      <data key="d5">e098925f1c5c67ddc2274b1c05daf08e</data>
+    </edge>
+    <edge source="&quot;BOEING&quot;" target="&quot;RANDY CONRADS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Randy Conrads worked for Boeing for twenty one years before founding Classmates Online, Inc."</data>
+      <data key="d5">e098925f1c5c67ddc2274b1c05daf08e</data>
+    </edge>
+    <edge source="&quot;CLASSMATES ONLINE, INC.&quot;" target="&quot;RANDY CONRADS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Randy Conrads founded Classmates Online, Inc., which became a very popular website."</data>
+      <data key="d5">e098925f1c5c67ddc2274b1c05daf08e</data>
+    </edge>
+    <edge source="&quot;REDWEEK.COM&quot;" target="&quot;RANDY CONRADS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Randy Conrads co-founded RedWeek.com after he left Classmates Online, Inc."</data>
+      <data key="d5">e098925f1c5c67ddc2274b1c05daf08e</data>
+    </edge>
+    <edge source="&quot;EBUSINESS REPORT'S 2001 ENTREPRENEUR OF THE YEAR&quot;" target="&quot;RANDY CONRADS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Randy Conrads received an honor as eBusiness Report's 2001 Entrepreneur of the Year."</data>
+      <data key="d5">e098925f1c5c67ddc2274b1c05daf08e</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF CAMBRIDGE&quot;" target="&quot;COLLEGE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The College's curriculum was influenced by the University of Cambridge, where many leaders in the colony had attended."</data>
+      <data key="d5">9a7957b2a93659e903e78eca3e1e4471</data>
+    </edge>
+    <edge source="&quot;CONGREGATIONAL CHURCHES&quot;" target="&quot;COLLEGE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The College trained clergymen who went on to work in Congregational churches."</data>
+      <data key="d5">9a7957b2a93659e903e78eca3e1e4471</data>
+    </edge>
+    <edge source="&quot;UNITARIAN CHURCHES&quot;" target="&quot;COLLEGE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The College trained clergymen who went on to work in Unitarian churches."</data>
+      <data key="d5">9a7957b2a93659e903e78eca3e1e4471</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF VIRGINIA&quot;" target="&quot;BOB LYON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bob Lyon graduated from the University of Virginia."</data>
+      <data key="d5">661795151f6e50945c6c04c4ca05e939</data>
+    </edge>
+    <edge source="&quot;GEORGE WASHINGTON UNIVERSITY&quot;" target="&quot;BOB LYON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bob Lyon graduated from George Washington University."</data>
+      <data key="d5">661795151f6e50945c6c04c4ca05e939</data>
+    </edge>
+    <edge source="&quot;GEORGE WASHINGTON UNIVERSITY&quot;" target="&quot;HUGH HECLO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hugh Heclo previously worked as a professor at George Washington University."</data>
+      <data key="d5">fa30e01acf1a23ac406701c32d047903</data>
+    </edge>
+    <edge source="&quot;KANSAS STATE SENATE&quot;" target="&quot;BOB LYON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bob Lyon served as a Senator in the Kansas State Senate."</data>
+      <data key="d5">661795151f6e50945c6c04c4ca05e939</data>
+    </edge>
+    <edge source="&quot;WINCHESTER&quot;" target="&quot;BOB LYON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bob Lyon was a State Senator from the city of Winchester."</data>
+      <data key="d5">661795151f6e50945c6c04c4ca05e939</data>
+    </edge>
+    <edge source="&quot;PORTSMOUTH&quot;" target="&quot;RICHARD PARE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Richard Pare was born in Portsmouth, England."</data>
+      <data key="d5">5ef3000953a457d7b7a1ceb2a3cf1d79</data>
+    </edge>
+    <edge source="&quot;ENGLAND&quot;" target="&quot;RICHARD PARE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Richard Pare was born and studied in England."</data>
+      <data key="d5">5ef3000953a457d7b7a1ceb2a3cf1d79</data>
+    </edge>
+    <edge source="&quot;WINCHESTER COLLEGE OF ART&quot;" target="&quot;RICHARD PARE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Richard Pare studied graphic design and photography at Winchester College of Art."</data>
+      <data key="d5">5ef3000953a457d7b7a1ceb2a3cf1d79</data>
+    </edge>
+    <edge source="&quot;RAVENSBOURNE COLLEGE OF ART&quot;" target="&quot;RICHARD PARE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Richard Pare studied graphic design and photography at Ravensbourne College of Art."</data>
+      <data key="d5">5ef3000953a457d7b7a1ceb2a3cf1d79</data>
+    </edge>
+    <edge source="&quot;ART INSTITUTE OF CHICAGO&quot;" target="&quot;RICHARD PARE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Richard Pare attended the Art Institute of Chicago and received a Master of Fine Arts in 1973."</data>
+      <data key="d5">5ef3000953a457d7b7a1ceb2a3cf1d79</data>
+    </edge>
+    <edge source="&quot;CANADIAN CENTRE FOR ARCHITECTURE&quot;" target="&quot;RICHARD PARE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Richard Pare was a founding curator of the Photographic Collection at the Canadian Centre for Architecture."</data>
+      <data key="d5">5ef3000953a457d7b7a1ceb2a3cf1d79</data>
+    </edge>
+    <edge source="&quot;OTTUMWA, IOWA&quot;" target="&quot;SCHWARTZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Schwartz was born in Ottumwa, Iowa."</data>
+      <data key="d5">b37eaa73e4c237f01232e40eba20fa4d</data>
+    </edge>
+    <edge source="&quot;CREIGHTON UNIVERSITY&quot;" target="&quot;SCHWARTZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Schwartz attended Creighton University."</data>
+      <data key="d5">b37eaa73e4c237f01232e40eba20fa4d</data>
+    </edge>
+    <edge source="&quot;IOWA HOUSE OF REPRESENTATIVES&quot;" target="&quot;SCHWARTZ&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Schwartz served in the Iowa House of Representatives as a Democrat."</data>
+      <data key="d5">b37eaa73e4c237f01232e40eba20fa4d</data>
+    </edge>
+    <edge source="&quot;GEORGE MASON UNIVERSITY&quot;" target="&quot;HUGH HECLO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hugh Heclo worked as a professor at George Mason University."</data>
+      <data key="d5">fa30e01acf1a23ac406701c32d047903</data>
+    </edge>
+    <edge source="&quot;HARVARD UNIVERSITY&quot;" target="&quot;HUGH HECLO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hugh Heclo previously worked as a professor at Harvard University."</data>
+      <data key="d5">fa30e01acf1a23ac406701c32d047903</data>
+    </edge>
+    <edge source="&quot;ASHCROFT FARMS&quot;" target="&quot;HUGH HECLO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hugh Heclo operates Ashcroft Farms, a Christmas tree farm."</data>
+      <data key="d5">fa30e01acf1a23ac406701c32d047903</data>
+    </edge>
+    <edge source="&quot;ASHCROFT FARMS&quot;" target="&quot;WINCHESTER, VIRGINIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ashcroft Farms is located in Winchester, Virginia."</data>
+      <data key="d5">fa30e01acf1a23ac406701c32d047903</data>
+    </edge>
+    <edge source="&quot;METHODIST GIRLS SCHOOL&quot;" target="&quot;NURALIZA OSMAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nuraliza Osman attended Methodist Girls School and won many accolades."</data>
+      <data key="d5">3b7710bd1a998a078a459a41a5461ea8</data>
+    </edge>
+    <edge source="&quot;VICTORIA JUNIOR COLLEGE&quot;" target="&quot;NURALIZA OSMAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nuraliza Osman studied at Victoria Junior College, taking pre-medicine classes and French."</data>
+      <data key="d5">3b7710bd1a998a078a459a41a5461ea8</data>
+    </edge>
+    <edge source="&quot;FRANCE&quot;" target="&quot;NURALIZA OSMAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nuraliza Osman briefly studied in France prior to attending university."</data>
+      <data key="d5">3b7710bd1a998a078a459a41a5461ea8</data>
+    </edge>
+    <edge source="&quot;MISS UNIVERSE COMPETITION&quot;" target="&quot;NURALIZA OSMAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Nuraliza Osman participated in the Miss Universe competition, showcasing her feminine side."</data>
+      <data key="d5">3b7710bd1a998a078a459a41a5461ea8</data>
+    </edge>
+    <edge source="&quot;GEORGE SOROS&quot;" target="&quot;ALEXANDER SOROS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alexander Soros is the son of George Soros."</data>
+      <data key="d5">1daf71ea2a886784f7c12da7278c02ba</data>
+    </edge>
+    <edge source="&quot;SUSAN WEBER SOROS&quot;" target="&quot;ALEXANDER SOROS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alexander Soros is the son of Susan Weber Soros."</data>
+      <data key="d5">1daf71ea2a886784f7c12da7278c02ba</data>
+    </edge>
+    <edge source="&quot;GREGORY SOROS&quot;" target="&quot;ALEXANDER SOROS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alexander Soros is the older brother of Gregory Soros."</data>
+      <data key="d5">1daf71ea2a886784f7c12da7278c02ba</data>
+    </edge>
+    <edge source="&quot;KATONAH, NEW YORK&quot;" target="&quot;ALEXANDER SOROS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alexander Soros was raised in Katonah, New York."</data>
+      <data key="d5">1daf71ea2a886784f7c12da7278c02ba</data>
+    </edge>
+    <edge source="&quot;STAMFORD, CONNECTICUT&quot;" target="&quot;KING LOW HEYWOOD THOMAS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"King Low Heywood Thomas is located in Stamford, Connecticut."</data>
+      <data key="d5">1daf71ea2a886784f7c12da7278c02ba</data>
+    </edge>
+    <edge source="&quot;NEW YORK UNIVERSITY&quot;" target="&quot;ALEXANDER SOROS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alexander Soros attended and graduated from New York University."</data>
+      <data key="d5">1daf71ea2a886784f7c12da7278c02ba</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF CALIFORNIA, BERKELEY&quot;" target="&quot;ALEXANDER SOROS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alexander Soros earned a PhD in History from the University of California, Berkeley."</data>
+      <data key="d5">1daf71ea2a886784f7c12da7278c02ba</data>
+    </edge>
+    <edge source="&quot;AUBURN UNIVERSITY&quot;" target="&quot;TURNER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Turner attended Auburn University."</data>
+      <data key="d5">1ab1f2902da13abd5aca4811ecf0341c</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF GEORGIA&quot;" target="&quot;TURNER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Turner attended the University of Georgia."</data>
+      <data key="d5">1ab1f2902da13abd5aca4811ecf0341c</data>
+    </edge>
+    <edge source="&quot;UNITED STATES ARMY&quot;" target="&quot;TURNER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Turner served in the United States Army from 1951 to 1953."</data>
+      <data key="d5">1ab1f2902da13abd5aca4811ecf0341c</data>
+    </edge>
+    <edge source="&quot;WINCHESTER RIFLES&quot;" target="&quot;MYSTERY HOUSE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The haunting of the Mystery House is attributed to the ghosts of those killed by Winchester rifles."</data>
+      <data key="d5">ebc923a7e12da675d326bb8cb15422b3</data>
+    </edge>
+    <edge source="&quot;MYSTERY HOUSE&quot;" target="&quot;SARAH WINCHESTER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sarah Winchester is the owner and guiding force behind the construction of the Mystery House."</data>
+      <data key="d5">ebc923a7e12da675d326bb8cb15422b3</data>
+    </edge>
+    <edge source="&quot;SARAH WINCHESTER'S BIOGRAPHER&quot;" target="&quot;SARAH WINCHESTER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sarah Winchester's biographer provides a biography and alternative account of Sarah Winchester's life and construction of the Mystery House."</data>
+      <data key="d5">ebc923a7e12da675d326bb8cb15422b3</data>
+    </edge>
+    <edge source="&quot;NORTH CAROLINA&quot;" target="&quot;AHOSKIE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ahoskie is a city located in the state of North Carolina."</data>
+      <data key="d5">2c29a052b3cf509f122c020f00c99ed9</data>
+    </edge>
+    <edge source="&quot;NORTH CAROLINA&quot;" target="&quot;WATERS TRAINING SCHOOL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Waters Training School is an educational institution located in North Carolina."</data>
+      <data key="d5">2c29a052b3cf509f122c020f00c99ed9</data>
+    </edge>
+    <edge source="&quot;WAYLAND ACADEMY&quot;" target="&quot;VIRGINIA UNION UNIVERSITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Both Wayland Academy and Virginia Union University are educational institutions attended by the person from 1901 to 1903."</data>
+      <data key="d5">2c29a052b3cf509f122c020f00c99ed9</data>
+    </edge>
+    <edge source="&quot;WESTERN UNIVERSITY OF PENNSYLVANIA&quot;" target="&quot;UNIVERSITY OF PITTSBURGH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The University of Pittsburgh was previously known as Western University of Pennsylvania, where the person graduated from law school in 1909."</data>
+      <data key="d5">2c29a052b3cf509f122c020f00c99ed9</data>
+    </edge>
+    <edge source="&quot;JESSIE MATTHEWS&quot;" target="&quot;GETTYSBURG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jessie Matthews is from Gettysburg, Pennsylvania."</data>
+      <data key="d5">2c29a052b3cf509f122c020f00c99ed9</data>
+    </edge>
+    <edge source="&quot;AMERICAN DUSTING COMPANY&quot;" target="&quot;SUSAN WINCHESTER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Susan Winchester co-owned and operated American Dusting Company."</data>
+      <data key="d5">b146a7addfbc969b9bd06239dfb2058d</data>
+    </edge>
+    <edge source="&quot;CHICKASHA FLYING SERVICE&quot;" target="&quot;SUSAN WINCHESTER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Susan Winchester co-owned and operated Chickasha Flying Service."</data>
+      <data key="d5">b146a7addfbc969b9bd06239dfb2058d</data>
+    </edge>
+    <edge source="&quot;CANADIAN VALLEY TECHNOLOGY CENTER&quot;" target="&quot;SUSAN WINCHESTER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Susan Winchester worked at Canadian Valley Technology Center."</data>
+      <data key="d5">b146a7addfbc969b9bd06239dfb2058d</data>
+    </edge>
+    <edge source="&quot;WINCHESTER GROUP&quot;" target="&quot;SUSAN WINCHESTER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Susan Winchester founded Winchester Group."</data>
+      <data key="d5">b146a7addfbc969b9bd06239dfb2058d</data>
+    </edge>
+    <edge source="&quot;CHICKASHA, OKLAHOMA&quot;" target="&quot;SUSAN WINCHESTER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Susan Winchester was born in Chickasha, Oklahoma."</data>
+      <data key="d5">b146a7addfbc969b9bd06239dfb2058d</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF EDINBURGH&quot;" target="&quot;HE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The person did his Ph.D. at the University of Edinburgh."</data>
+      <data key="d5">3fc02e2a1d9aee11bf917a385be2aa01</data>
+    </edge>
+    <edge source="&quot;ADAM MICKIEWICZ UNIVERSITY IN POZNA&#323;&quot;" target="&quot;HE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The person worked at Adam Mickiewicz University in Pozna&#324;."</data>
+      <data key="d5">3fc02e2a1d9aee11bf917a385be2aa01</data>
+    </edge>
+    <edge source="&quot;IBM UK SCIENTIFIC CENTRE IN WINCHESTER&quot;" target="&quot;HE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The person worked at IBM UK Scientific Centre in Winchester."</data>
+      <data key="d5">3fc02e2a1d9aee11bf917a385be2aa01</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY COLLEGE LONDON&quot;" target="&quot;HE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The person worked at University College London."</data>
+      <data key="d5">3fc02e2a1d9aee11bf917a385be2aa01</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY COLLEGE DUBLIN&quot;" target="&quot;HE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The person worked at University College Dublin."</data>
+      <data key="d5">3fc02e2a1d9aee11bf917a385be2aa01</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF WALES, BANGOR&quot;" target="&quot;HE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The person became a lecturer in linguistics at the University of Wales, Bangor."</data>
+      <data key="d5">3fc02e2a1d9aee11bf917a385be2aa01</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ESSEX&quot;" target="&quot;HE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The person moved to the University of Essex in 2000."</data>
+      <data key="d5">3fc02e2a1d9aee11bf917a385be2aa01</data>
+    </edge>
+    <edge source="&quot;HE&quot;" target="&quot;UNIVERSITY COLLEGE OF NORTH WALES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The person studied at University College of North Wales."</data>
+      <data key="d5">3fc02e2a1d9aee11bf917a385be2aa01</data>
+    </edge>
+  </graph>
+</graphml>

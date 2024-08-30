@@ -1,0 +1,931 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;VINCENT DELERM&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Vincent Delerm is a French singer compared to B&#233;nabar, sharing similar musical styles and influences."</data>
+      <data key="d2">de86ca03373eb0b3e0e3ae608d1e1bc8</data>
+    </node>
+    <node id="&quot;GEORGES BRASSENS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Georges Brassens is a French artist who has influenced many singers, including B&#233;nabar and Vincent Delerm."</data>
+      <data key="d2">de86ca03373eb0b3e0e3ae608d1e1bc8</data>
+    </node>
+    <node id="&quot;RENAUD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Renaud is a French singer who has inspired B&#233;nabar's music style."</data>
+      <data key="d2">de86ca03373eb0b3e0e3ae608d1e1bc8</data>
+    </node>
+    <node id="&quot;JACQUES HIGELIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jacques Higelin is a French artist who has influenced B&#233;nabar's musical style."</data>
+      <data key="d2">de86ca03373eb0b3e0e3ae608d1e1bc8</data>
+    </node>
+    <node id="&quot;TOM WAITS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Tom Waits is an American singer-songwriter who has inspired B&#233;nabar's music."</data>
+      <data key="d2">de86ca03373eb0b3e0e3ae608d1e1bc8</data>
+    </node>
+    <node id="&quot;FRENCH CHANSON&quot;">
+      <data key="d0">"GENRE"</data>
+      <data key="d1">"French Chanson is a genre of music that emphasizes appreciation of lyrics and is linked to a specific French culture."</data>
+      <data key="d2">de86ca03373eb0b3e0e3ae608d1e1bc8</data>
+    </node>
+    <node id="&quot;B&#201;NABAR&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">de86ca03373eb0b3e0e3ae608d1e1bc8</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">15773e92788169544be83e5e875505f4,2014c4b0639ab6889106e1b810b721c1,242fbd80607dfd542c2c6e47597cf968,454eded714ba159188ff31ec799467ac,4b09867546b0f6dad9aa0b66e691698c,5bbf66384dcf094f6e5d2d8080a3d1bc,5e4bcfebb85aaf201347d2e16ba02361,7213815b796257f567d265f08615fdf2,73f47e3247b60f6c89aea5f8c5ab7891,82f105f42401e7b070641b59724114c4,bad51e0170fa55f05d16245dc9c5366c,bbcb2f00a60319733713d760d167af5e,bc6402613627f09a3cd5a33b75da489b,be3df8d517d16ac97623c875b816d2bb,dde33deac94ce5a4a0bece13e9a7b170,de86ca03373eb0b3e0e3ae608d1e1bc8,e33e48e08632588d1c79265fa2c58d1e,f809def576b1340c9adcdd20ce79378c,fb8b1b4c5c6f3bd3f0ed87cda4d29864,fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">15773e92788169544be83e5e875505f4,2014c4b0639ab6889106e1b810b721c1,242fbd80607dfd542c2c6e47597cf968,454eded714ba159188ff31ec799467ac,4b09867546b0f6dad9aa0b66e691698c,5bbf66384dcf094f6e5d2d8080a3d1bc,5e4bcfebb85aaf201347d2e16ba02361,7213815b796257f567d265f08615fdf2,73f47e3247b60f6c89aea5f8c5ab7891,82f105f42401e7b070641b59724114c4,bad51e0170fa55f05d16245dc9c5366c,bbcb2f00a60319733713d760d167af5e,bc6402613627f09a3cd5a33b75da489b,be3df8d517d16ac97623c875b816d2bb,dde33deac94ce5a4a0bece13e9a7b170,de86ca03373eb0b3e0e3ae608d1e1bc8,e33e48e08632588d1c79265fa2c58d1e,f809def576b1340c9adcdd20ce79378c,fb8b1b4c5c6f3bd3f0ed87cda4d29864,fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">15773e92788169544be83e5e875505f4,2014c4b0639ab6889106e1b810b721c1,242fbd80607dfd542c2c6e47597cf968,454eded714ba159188ff31ec799467ac,4b09867546b0f6dad9aa0b66e691698c,5bbf66384dcf094f6e5d2d8080a3d1bc,5e4bcfebb85aaf201347d2e16ba02361,7213815b796257f567d265f08615fdf2,73f47e3247b60f6c89aea5f8c5ab7891,82f105f42401e7b070641b59724114c4,bad51e0170fa55f05d16245dc9c5366c,bbcb2f00a60319733713d760d167af5e,bc6402613627f09a3cd5a33b75da489b,be3df8d517d16ac97623c875b816d2bb,dde33deac94ce5a4a0bece13e9a7b170,de86ca03373eb0b3e0e3ae608d1e1bc8,e33e48e08632588d1c79265fa2c58d1e,f809def576b1340c9adcdd20ce79378c,fb8b1b4c5c6f3bd3f0ed87cda4d29864,fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">15773e92788169544be83e5e875505f4,2014c4b0639ab6889106e1b810b721c1,242fbd80607dfd542c2c6e47597cf968,454eded714ba159188ff31ec799467ac,4b09867546b0f6dad9aa0b66e691698c,5bbf66384dcf094f6e5d2d8080a3d1bc,5e4bcfebb85aaf201347d2e16ba02361,7213815b796257f567d265f08615fdf2,73f47e3247b60f6c89aea5f8c5ab7891,82f105f42401e7b070641b59724114c4,bad51e0170fa55f05d16245dc9c5366c,bbcb2f00a60319733713d760d167af5e,bc6402613627f09a3cd5a33b75da489b,be3df8d517d16ac97623c875b816d2bb,dde33deac94ce5a4a0bece13e9a7b170,de86ca03373eb0b3e0e3ae608d1e1bc8,e33e48e08632588d1c79265fa2c58d1e,f809def576b1340c9adcdd20ce79378c,fb8b1b4c5c6f3bd3f0ed87cda4d29864,fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country where multiple locations are situated. Specifically, it encompasses areas such as Tucson, Pima County, and Arizona, as well as Delaware, New Castle County, and Glasgow. Additionally, Pennsylvania, Lawrence County, and New Castle Northwest are also located within its borders.</data>
+      <data key="d2">15773e92788169544be83e5e875505f4,2014c4b0639ab6889106e1b810b721c1,242fbd80607dfd542c2c6e47597cf968,454eded714ba159188ff31ec799467ac,4b09867546b0f6dad9aa0b66e691698c,5bbf66384dcf094f6e5d2d8080a3d1bc,5e4bcfebb85aaf201347d2e16ba02361,7213815b796257f567d265f08615fdf2,73f47e3247b60f6c89aea5f8c5ab7891,82f105f42401e7b070641b59724114c4,bad51e0170fa55f05d16245dc9c5366c,bbcb2f00a60319733713d760d167af5e,bc6402613627f09a3cd5a33b75da489b,be3df8d517d16ac97623c875b816d2bb,dde33deac94ce5a4a0bece13e9a7b170,de86ca03373eb0b3e0e3ae608d1e1bc8,e33e48e08632588d1c79265fa2c58d1e,f809def576b1340c9adcdd20ce79378c,fb8b1b4c5c6f3bd3f0ed87cda4d29864,fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">15773e92788169544be83e5e875505f4,2014c4b0639ab6889106e1b810b721c1,242fbd80607dfd542c2c6e47597cf968,454eded714ba159188ff31ec799467ac,4b09867546b0f6dad9aa0b66e691698c,5bbf66384dcf094f6e5d2d8080a3d1bc,5e4bcfebb85aaf201347d2e16ba02361,7213815b796257f567d265f08615fdf2,73f47e3247b60f6c89aea5f8c5ab7891,82f105f42401e7b070641b59724114c4,bad51e0170fa55f05d16245dc9c5366c,bbcb2f00a60319733713d760d167af5e,bc6402613627f09a3cd5a33b75da489b,be3df8d517d16ac97623c875b816d2bb,dde33deac94ce5a4a0bece13e9a7b170,de86ca03373eb0b3e0e3ae608d1e1bc8,e33e48e08632588d1c79265fa2c58d1e,f809def576b1340c9adcdd20ce79378c,fb8b1b4c5c6f3bd3f0ed87cda4d29864,fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">15773e92788169544be83e5e875505f4,2014c4b0639ab6889106e1b810b721c1,242fbd80607dfd542c2c6e47597cf968,454eded714ba159188ff31ec799467ac,4b09867546b0f6dad9aa0b66e691698c,5bbf66384dcf094f6e5d2d8080a3d1bc,5e4bcfebb85aaf201347d2e16ba02361,7213815b796257f567d265f08615fdf2,73f47e3247b60f6c89aea5f8c5ab7891,82f105f42401e7b070641b59724114c4,bad51e0170fa55f05d16245dc9c5366c,bbcb2f00a60319733713d760d167af5e,bc6402613627f09a3cd5a33b75da489b,be3df8d517d16ac97623c875b816d2bb,dde33deac94ce5a4a0bece13e9a7b170,de86ca03373eb0b3e0e3ae608d1e1bc8,e33e48e08632588d1c79265fa2c58d1e,f809def576b1340c9adcdd20ce79378c,fb8b1b4c5c6f3bd3f0ed87cda4d29864,fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">15773e92788169544be83e5e875505f4,2014c4b0639ab6889106e1b810b721c1,242fbd80607dfd542c2c6e47597cf968,454eded714ba159188ff31ec799467ac,4b09867546b0f6dad9aa0b66e691698c,5bbf66384dcf094f6e5d2d8080a3d1bc,5e4bcfebb85aaf201347d2e16ba02361,7213815b796257f567d265f08615fdf2,73f47e3247b60f6c89aea5f8c5ab7891,82f105f42401e7b070641b59724114c4,bad51e0170fa55f05d16245dc9c5366c,bbcb2f00a60319733713d760d167af5e,bc6402613627f09a3cd5a33b75da489b,be3df8d517d16ac97623c875b816d2bb,dde33deac94ce5a4a0bece13e9a7b170,de86ca03373eb0b3e0e3ae608d1e1bc8,e33e48e08632588d1c79265fa2c58d1e,f809def576b1340c9adcdd20ce79378c,fb8b1b4c5c6f3bd3f0ed87cda4d29864,fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">15773e92788169544be83e5e875505f4,2014c4b0639ab6889106e1b810b721c1,242fbd80607dfd542c2c6e47597cf968,454eded714ba159188ff31ec799467ac,4b09867546b0f6dad9aa0b66e691698c,5bbf66384dcf094f6e5d2d8080a3d1bc,5e4bcfebb85aaf201347d2e16ba02361,7213815b796257f567d265f08615fdf2,73f47e3247b60f6c89aea5f8c5ab7891,82f105f42401e7b070641b59724114c4,bad51e0170fa55f05d16245dc9c5366c,bbcb2f00a60319733713d760d167af5e,bc6402613627f09a3cd5a33b75da489b,be3df8d517d16ac97623c875b816d2bb,dde33deac94ce5a4a0bece13e9a7b170,de86ca03373eb0b3e0e3ae608d1e1bc8,e33e48e08632588d1c79265fa2c58d1e,f809def576b1340c9adcdd20ce79378c,fb8b1b4c5c6f3bd3f0ed87cda4d29864,fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">15773e92788169544be83e5e875505f4,2014c4b0639ab6889106e1b810b721c1,242fbd80607dfd542c2c6e47597cf968,454eded714ba159188ff31ec799467ac,4b09867546b0f6dad9aa0b66e691698c,5bbf66384dcf094f6e5d2d8080a3d1bc,5e4bcfebb85aaf201347d2e16ba02361,7213815b796257f567d265f08615fdf2,73f47e3247b60f6c89aea5f8c5ab7891,82f105f42401e7b070641b59724114c4,bad51e0170fa55f05d16245dc9c5366c,bbcb2f00a60319733713d760d167af5e,bc6402613627f09a3cd5a33b75da489b,be3df8d517d16ac97623c875b816d2bb,dde33deac94ce5a4a0bece13e9a7b170,de86ca03373eb0b3e0e3ae608d1e1bc8,e33e48e08632588d1c79265fa2c58d1e,f809def576b1340c9adcdd20ce79378c,fb8b1b4c5c6f3bd3f0ed87cda4d29864,fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </node>
+    <node id="&quot;GIORGIO VASARI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Giorgio Vasari was a biographer who referred to the Rondanini Piet&#224; in 1550, suggesting that the first version may have already been underway at that time."</data>
+      <data key="d2">5bbf66384dcf094f6e5d2d8080a3d1bc</data>
+    </node>
+    <node id="&quot;PALAZZO RONDANINI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Palazzo Rondanini is a location in Rome where the Rondanini Piet&#224; stood for centuries."</data>
+      <data key="d2">5bbf66384dcf094f6e5d2d8080a3d1bc</data>
+    </node>
+    <node id="&quot;MUSEUM OF RONDANINI PIET&#192; OF SFORZA CASTLE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Museum of Rondanini Piet&#224; of Sforza Castle is an organization that currently houses the Rondanini Piet&#224; in Milan."</data>
+      <data key="d2">5bbf66384dcf094f6e5d2d8080a3d1bc</data>
+    </node>
+    <node id="&quot;RONDANINI PIET&#192;&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Rondanini Piet&#224; is a marble sculpture created by Michelangelo, with multiple versions and a history of being displayed in different locations."</data>
+      <data key="d2">5bbf66384dcf094f6e5d2d8080a3d1bc</data>
+    </node>
+    <node id="&quot;MICHELANGELO&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5bbf66384dcf094f6e5d2d8080a3d1bc</data>
+    </node>
+    <node id="&quot;STEVE HAMPTON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Steve Hampton is a songwriter who co-wrote the theme songs for several Disney Channel series, including The Suite Life."</data>
+      <data key="d2">fb8b1b4c5c6f3bd3f0ed87cda4d29864</data>
+    </node>
+    <node id="&quot;GARY SCOTT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gary Scott is a composer who wrote the music cues and theme song for The Suite Life."</data>
+      <data key="d2">fb8b1b4c5c6f3bd3f0ed87cda4d29864</data>
+    </node>
+    <node id="&quot;STEVE RUSHTON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Steve Rushton is a British singer who performed the theme song for The Suite Life in its second season."</data>
+      <data key="d2">fb8b1b4c5c6f3bd3f0ed87cda4d29864</data>
+    </node>
+    <node id="&quot;THE SUITE LIFE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Suite Life is a TV show with a theme song written by John Adair and Steve Hampton."</data>
+      <data key="d2">fb8b1b4c5c6f3bd3f0ed87cda4d29864</data>
+    </node>
+    <node id="&quot;DISNEY CHANNEL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Disney Channel is the network that aired The Suite Life and other series, including The Suite Life of Zack &amp; Cody, Phil of the Future, and Wizards of Waverly Place."</data>
+      <data key="d2">fb8b1b4c5c6f3bd3f0ed87cda4d29864</data>
+    </node>
+    <node id="&quot;JOHN ADAIR&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fb8b1b4c5c6f3bd3f0ed87cda4d29864</data>
+    </node>
+    <node id="&quot;RICHMOND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Richmond is a city in Virginia that has been a prominent venue for live theatrical performances since the colonial era."</data>
+      <data key="d2">f809def576b1340c9adcdd20ce79378c</data>
+    </node>
+    <node id="&quot;LEWIS HALLAM&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lewis Hallam was an early producer of Shakespeare's plays in Williamsburg, contributing to the development of theater in Virginia."</data>
+      <data key="d2">f809def576b1340c9adcdd20ce79378c</data>
+    </node>
+    <node id="&quot;WILLIAM MACREADY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"William Macready was a celebrated English actor who performed in Richmond during the 19th century."</data>
+      <data key="d2">f809def576b1340c9adcdd20ce79378c</data>
+    </node>
+    <node id="&quot;EDWIN FORREST&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Edwin Forrest was a renowned American actor who performed in Richmond during the 19th century."</data>
+      <data key="d2">f809def576b1340c9adcdd20ce79378c</data>
+    </node>
+    <node id="&quot;THE BOOTH FAMILY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Booth family were celebrated actors who performed in Richmond during the 19th century."</data>
+      <data key="d2">f809def576b1340c9adcdd20ce79378c</data>
+    </node>
+    <node id="&quot;VIRGINIA MUSEUM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Virginia Museum has played a significant role in fostering theater in Richmond, including the establishment of a resident Equity company."</data>
+      <data key="d2">f809def576b1340c9adcdd20ce79378c</data>
+    </node>
+    <node id="&quot;LESLIE CHEEK THEATER&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Leslie Cheek Theater is a venue that was previously known as the Virginia Museum Theater and hosts live theatrical performances."</data>
+      <data key="d2">f809def576b1340c9adcdd20ce79378c</data>
+    </node>
+    <node id="&quot;THEATRE IV&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Theatre IV is a theater company that was established in Richmond in the 1960s and continues to operate to this day."</data>
+      <data key="d2">f809def576b1340c9adcdd20ce79378c</data>
+    </node>
+    <node id="&quot;VIRGINIA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f809def576b1340c9adcdd20ce79378c</data>
+    </node>
+    <node id="&quot;WILLIAMSBURG&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f809def576b1340c9adcdd20ce79378c</data>
+    </node>
+    <node id="&quot;ROY CASTLE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Roy Castle was a television presenter and entertainer, born in 1932 and died in 1994, and father of Ben Castle."</data>
+      <data key="d2">15773e92788169544be83e5e875505f4</data>
+    </node>
+    <node id="&quot;FIONA CASTLE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Fiona Castle is the wife of Roy Castle and mother of Ben Castle, born in 1940."</data>
+      <data key="d2">15773e92788169544be83e5e875505f4</data>
+    </node>
+    <node id="&quot;INTERNATIONAL SONGWRITING COMPETITION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The International Songwriting Competition is an event where Ben Castle won first place in the Jazz category with his song 'The Heckler' in 2003."</data>
+      <data key="d2">15773e92788169544be83e5e875505f4</data>
+    </node>
+    <node id="&quot;BEN CASTLE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">15773e92788169544be83e5e875505f4</data>
+    </node>
+    <node id="&quot;ALFRED KLEMENS PHILIPP FRIEDRICH JUSTINIAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alfred Klemens Philipp Friedrich Justinian was the father of Claus Philipp Maria Justinian Stauffenberg and the last Oberhofmarschall of the Kingdom of W&#252;rttemberg."</data>
+      <data key="d2">4b09867546b0f6dad9aa0b66e691698c</data>
+    </node>
+    <node id="&quot;CAROLINE SCHENK GR&#196;FIN VON STAUFFENBERG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Caroline Schenk Gr&#228;fin von Stauffenberg was the mother of Claus Philipp Maria Justinian Stauffenberg and a member of the noble family &#220;xk&#252;ll-Gyllenband."</data>
+      <data key="d2">4b09867546b0f6dad9aa0b66e691698c</data>
+    </node>
+    <node id="&quot;ALFRED RICHARD AUGUST GRAF VON &#220;XK&#220;LL-GYLLENBAND&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alfred Richard August Graf von &#220;xk&#252;ll-Gyllenband was the grandfather of Claus Philipp Maria Justinian Stauffenberg and a member of the noble family &#220;xk&#252;ll-Gyllenband."</data>
+      <data key="d2">4b09867546b0f6dad9aa0b66e691698c</data>
+    </node>
+    <node id="&quot;VALERIE GR&#196;FIN VON HOHENTHAL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Valerie Gr&#228;fin von Hohenthal was the grandmother of Claus Philipp Maria Justinian Stauffenberg."</data>
+      <data key="d2">4b09867546b0f6dad9aa0b66e691698c</data>
+    </node>
+    <node id="&quot;AUGUST VON GNEISENAU&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"August von Gneisenau was a famous Prussian Field Marshal and an ancestor of Claus Philipp Maria Justinian Stauffenberg."</data>
+      <data key="d2">4b09867546b0f6dad9aa0b66e691698c</data>
+    </node>
+    <node id="&quot;STAUFFENBERG FAMILY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Stauffenberg family is one of the oldest and most distinguished aristocratic Catholic families of southern Germany."</data>
+      <data key="d2">4b09867546b0f6dad9aa0b66e691698c</data>
+    </node>
+    <node id="&quot;KINGDOM OF BAVARIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Kingdom of Bavaria was a part of the German Empire where Claus Philipp Maria Justinian Stauffenberg was born."</data>
+      <data key="d2">4b09867546b0f6dad9aa0b66e691698c</data>
+    </node>
+    <node id="&quot;SWABIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Swabia is a region in southern Germany where Claus Philipp Maria Justinian Stauffenberg was born."</data>
+      <data key="d2">4b09867546b0f6dad9aa0b66e691698c</data>
+    </node>
+    <node id="&quot;JETTINGEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Jettingen is a location in Swabia, southern Germany, where Claus Philipp Maria Justinian Stauffenberg was born and his twin brother Konrad Maria died."</data>
+      <data key="d2">4b09867546b0f6dad9aa0b66e691698c</data>
+    </node>
+    <node id="&quot;ULM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ulm is a city in southern Germany near the birthplace of Claus Philipp Maria Justinian Stauffenberg."</data>
+      <data key="d2">4b09867546b0f6dad9aa0b66e691698c</data>
+    </node>
+    <node id="&quot;AUGSBURG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Augsburg is a city in southern Germany near the birthplace of Claus Philipp Maria Justinian Stauffenberg."</data>
+      <data key="d2">4b09867546b0f6dad9aa0b66e691698c</data>
+    </node>
+    <node id="&quot;CLAUS PHILIPP MARIA JUSTINIAN STAUFFENBERG&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4b09867546b0f6dad9aa0b66e691698c</data>
+    </node>
+    <node id="&quot;PARIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Paris is a location where Giovanni Cifolelli made his appearance as a mandolin virtuoso and published his 'Method for the mandolin'."</data>
+      <data key="d2">2014c4b0639ab6889106e1b810b721c1</data>
+    </node>
+    <node id="&quot;FRANCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"France is a country where Giovanni Cifolelli's 'Method for the mandolin' was highly successful."</data>
+      <data key="d2">2014c4b0639ab6889106e1b810b721c1</data>
+    </node>
+    <node id="&quot;GIOVANNI CIFOLELLI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2014c4b0639ab6889106e1b810b721c1</data>
+    </node>
+    <node id="&quot;SIR HENRY PELLATT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sir Henry Pellatt was a financier who commissioned the construction of Casa Loma as his residence."</data>
+      <data key="d2">82f105f42401e7b070641b59724114c4</data>
+    </node>
+    <node id="&quot;E. J. LENNOX&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"E. J. Lennox was the architect who designed Casa Loma and several other city landmarks in Toronto."</data>
+      <data key="d2">82f105f42401e7b070641b59724114c4</data>
+    </node>
+    <node id="&quot;TORONTO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Toronto is a city in Ontario, Canada, where notable landmarks such as Casa Loma are located. Additionally, it is also a base of operation for individuals like Gavin Bradley.</data>
+      <data key="d2">242fbd80607dfd542c2c6e47597cf968,82f105f42401e7b070641b59724114c4</data>
+    </node>
+    <node id="&quot;ONTARIO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Ontario is a province in Canada where Casa Loma is located."</data>
+      <data key="d2">82f105f42401e7b070641b59724114c4</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Canada is a country where Casa Loma is located."</data>
+      <data key="d2">82f105f42401e7b070641b59724114c4</data>
+    </node>
+    <node id="&quot;CASA LOMA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">82f105f42401e7b070641b59724114c4</data>
+    </node>
+    <node id="&quot;NELLY FURTADO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Nelly Furtado is an artist who has worked with Gavin Bradley."</data>
+      <data key="d2">242fbd80607dfd542c2c6e47597cf968</data>
+    </node>
+    <node id="&quot;TORI AMOS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Tori Amos is an artist who has worked with Gavin Bradley."</data>
+      <data key="d2">242fbd80607dfd542c2c6e47597cf968</data>
+    </node>
+    <node id="&quot;JANE SIBERRY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Jane Siberry is a musician and artist who released an album called "A Day in the Life" in 1997, and has also collaborated with Gavin Bradley on various projects.</data>
+      <data key="d2">242fbd80607dfd542c2c6e47597cf968,e33e48e08632588d1c79265fa2c58d1e</data>
+    </node>
+    <node id="&quot;UMI RECORDS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"UMI Records is a record label that released Gavin Bradley's debut album 'Deep Freeze' in 2006."</data>
+      <data key="d2">242fbd80607dfd542c2c6e47597cf968</data>
+    </node>
+    <node id="&quot;DEEP FREEZE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Deep Freeze is the title of Gavin Bradley's debut album, released in 2006."</data>
+      <data key="d2">242fbd80607dfd542c2c6e47597cf968</data>
+    </node>
+    <node id="&quot;GAVIN BRADLEY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">242fbd80607dfd542c2c6e47597cf968</data>
+    </node>
+    <node id="&quot;AMERICAN BALLET THEATRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"American Ballet Theatre is a ballet company portrayed in the documentary film Ballet, showing its rehearsals, performances, and business transactions."</data>
+      <data key="d2">be3df8d517d16ac97623c875b816d2bb</data>
+    </node>
+    <node id="&quot;GREECE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Greece is a country where the American Ballet Theatre went on tour, as shown in the documentary film Ballet."</data>
+      <data key="d2">be3df8d517d16ac97623c875b816d2bb</data>
+    </node>
+    <node id="&quot;COPENHAGEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Copenhagen is a city where the American Ballet Theatre performed during its European tour, as depicted in the documentary film Ballet."</data>
+      <data key="d2">be3df8d517d16ac97623c875b816d2bb</data>
+    </node>
+    <node id="&quot;BALLET&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Ballet is a 1995 American documentary film that portrays the daily life of the American Ballet Theatre."</data>
+      <data key="d2">be3df8d517d16ac97623c875b816d2bb</data>
+    </node>
+    <node id="&quot;FREDERICK WISEMAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">be3df8d517d16ac97623c875b816d2bb</data>
+    </node>
+    <node id="&quot;LAWRENCE COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lawrence County is a county in Pennsylvania, United States, where New Castle Northwest is located."</data>
+      <data key="d2">5e4bcfebb85aaf201347d2e16ba02361</data>
+    </node>
+    <node id="&quot;PENNSYLVANIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pennsylvania is a state in the United States where Lawrence County and New Castle Northwest are located."</data>
+      <data key="d2">5e4bcfebb85aaf201347d2e16ba02361</data>
+    </node>
+    <node id="&quot;NEW CASTLE NORTHWEST&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5e4bcfebb85aaf201347d2e16ba02361</data>
+    </node>
+    <node id="&quot;LOUIS DE CAHUSAC&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Louis de Cahusac is a librettist and frequent collaborator with Jean-Philippe Rameau, who wrote the libretto for 'La naissance d'Osiris, or The Festival of Pamylia'."</data>
+      <data key="d2">dde33deac94ce5a4a0bece13e9a7b170</data>
+    </node>
+    <node id="&quot;FONTAINEBLEAU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Fontainebleau is a location where the one-act opera 'La naissance d'Osiris, or The Festival of Pamylia' was first performed."</data>
+      <data key="d2">dde33deac94ce5a4a0bece13e9a7b170</data>
+    </node>
+    <node id="&quot;KING LOUIS XVI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"King Louis XVI is the future king whose birth is celebrated in the one-act opera 'La naissance d'Osiris, or The Festival of Pamylia'."</data>
+      <data key="d2">dde33deac94ce5a4a0bece13e9a7b170</data>
+    </node>
+    <node id="&quot;JUPITER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jupiter is a god who announces the birth of Osiris to a group of Egyptian shepherds."</data>
+      <data key="d2">dde33deac94ce5a4a0bece13e9a7b170</data>
+    </node>
+    <node id="&quot;OSIRIS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Osiris is a god who symbolizes the baby prince, King Louis XVI."</data>
+      <data key="d2">dde33deac94ce5a4a0bece13e9a7b170</data>
+    </node>
+    <node id="&quot;LES BEAUX JOURS DE L'AMOUR&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Les beaux jours de l'Amour is an unfinished 'op&#233;ra-ballet' planned by Jean-Philippe Rameau and Louis de Cahusac."</data>
+      <data key="d2">dde33deac94ce5a4a0bece13e9a7b170</data>
+    </node>
+    <node id="&quot;SHEEBA RECORDS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Sheeba Records is Jane Siberry's own record label, which released A Day in the Life."</data>
+      <data key="d2">e33e48e08632588d1c79265fa2c58d1e</data>
+    </node>
+    <node id="&quot;REPRISE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Reprise is a record label that Jane Siberry left to start her own label, Sheeba Records."</data>
+      <data key="d2">e33e48e08632588d1c79265fa2c58d1e</data>
+    </node>
+    <node id="&quot;A DAY IN THE LIFE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e33e48e08632588d1c79265fa2c58d1e</data>
+    </node>
+    <node id="&quot;MTV&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"MTV is the television network that airs the reality TV series Life of Ryan."</data>
+      <data key="d2">73f47e3247b60f6c89aea5f8c5ab7891</data>
+    </node>
+    <node id="&quot;SAN CLEMENTE, CALIFORNIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"San Clemente, California is the location where most episodes of Life of Ryan take place, specifically at Ryan Sheckler's home."</data>
+      <data key="d2">73f47e3247b60f6c89aea5f8c5ab7891</data>
+    </node>
+    <node id="&quot;LIFE OF RYAN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Life of Ryan is a reality TV series that follows the day-to-day life of professional skateboarder Ryan Sheckler."</data>
+      <data key="d2">73f47e3247b60f6c89aea5f8c5ab7891</data>
+    </node>
+    <node id="&quot;RYAN SHECKLER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">73f47e3247b60f6c89aea5f8c5ab7891</data>
+    </node>
+    <node id="&quot;THE MAN IN THE HIGH CASTLE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Man in the High Castle is an Amazon Original Series that uses Jeanette Olsson's performance as its opening sequence music."</data>
+      <data key="d2">454eded714ba159188ff31ec799467ac</data>
+    </node>
+    <node id="&quot;JEANETTE OLSSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">454eded714ba159188ff31ec799467ac</data>
+    </node>
+    <node id="&quot;NEW CASTLE COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New Castle County is a county in Delaware, United States, where Glasgow is located."</data>
+      <data key="d2">bad51e0170fa55f05d16245dc9c5366c</data>
+    </node>
+    <node id="&quot;DELAWARE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Delaware is a state in the United States where Glasgow and New Castle County are located."</data>
+      <data key="d2">bad51e0170fa55f05d16245dc9c5366c</data>
+    </node>
+    <node id="&quot;GLASGOW&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">bad51e0170fa55f05d16245dc9c5366c</data>
+    </node>
+    <node id="&quot;MARK ZUCKERBERG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mark Zuckerberg is a person who married Chan, launched Facebook's stock market, and had two daughters with Chan."</data>
+      <data key="d2">fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </node>
+    <node id="&quot;FACEBOOK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Facebook is an organization that launched its stock market on May 18, 2012."</data>
+      <data key="d2">fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </node>
+    <node id="&quot;MAXIMA CHAN ZUCKERBERG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Maxima Chan Zuckerberg is the first daughter of Chan and Mark Zuckerberg, born on December 1, 2015."</data>
+      <data key="d2">fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </node>
+    <node id="&quot;AUGUST&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"August is the second daughter of Chan and Mark Zuckerberg, born on August 28, 2017."</data>
+      <data key="d2">fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </node>
+    <node id="&quot;CHAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </node>
+    <node id="&quot;AMERICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"America is the country where Dr. Jesse Bennett lived and worked as a physician."</data>
+      <data key="d2">bbcb2f00a60319733713d760d167af5e</data>
+    </node>
+    <node id="&quot;CAESAREAN SECTION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Caesarean section was a medical procedure performed by Dr. Jesse Bennett on his own wife, marking a significant milestone in medical history."</data>
+      <data key="d2">bbcb2f00a60319733713d760d167af5e</data>
+    </node>
+    <node id="&quot;DR. JESSE BENNETT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">bbcb2f00a60319733713d760d167af5e</data>
+    </node>
+    <node id="&quot;ZULFIQAR BABAR&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Zulfiqar Babar is a person from Pakistan who debuted on 14 October 2013."</data>
+      <data key="d2">7213815b796257f567d265f08615fdf2</data>
+    </node>
+    <node id="&quot;MOHAMMAD HAFEEZ&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mohammad Hafeez is a person from Pakistan who debuted on 20 August 2003."</data>
+      <data key="d2">7213815b796257f567d265f08615fdf2</data>
+    </node>
+    <node id="&quot;SRI LANKA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Sri Lanka is a country of origin for Rangana Herath."</data>
+      <data key="d2">7213815b796257f567d265f08615fdf2</data>
+    </node>
+    <node id="&quot;PAKISTAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pakistan is a country of origin for Zulfiqar Babar and Mohammad Hafeez."</data>
+      <data key="d2">7213815b796257f567d265f08615fdf2</data>
+    </node>
+    <node id="&quot;RANGANA HERATH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7213815b796257f567d265f08615fdf2</data>
+    </node>
+    <edge source="&quot;VINCENT DELERM&quot;" target="&quot;B&#201;NABAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"B&#233;nabar and Vincent Delerm share similar musical styles and influences."</data>
+      <data key="d5">de86ca03373eb0b3e0e3ae608d1e1bc8</data>
+    </edge>
+    <edge source="&quot;GEORGES BRASSENS&quot;" target="&quot;B&#201;NABAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"B&#233;nabar was influenced by Georges Brassens' music style."</data>
+      <data key="d5">de86ca03373eb0b3e0e3ae608d1e1bc8</data>
+    </edge>
+    <edge source="&quot;RENAUD&quot;" target="&quot;B&#201;NABAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"B&#233;nabar's music style was inspired by Renaud."</data>
+      <data key="d5">de86ca03373eb0b3e0e3ae608d1e1bc8</data>
+    </edge>
+    <edge source="&quot;JACQUES HIGELIN&quot;" target="&quot;B&#201;NABAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"B&#233;nabar's music style was influenced by Jacques Higelin."</data>
+      <data key="d5">de86ca03373eb0b3e0e3ae608d1e1bc8</data>
+    </edge>
+    <edge source="&quot;TOM WAITS&quot;" target="&quot;B&#201;NABAR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"B&#233;nabar's music style was inspired by Tom Waits."</data>
+      <data key="d5">de86ca03373eb0b3e0e3ae608d1e1bc8</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">15773e92788169544be83e5e875505f4,2014c4b0639ab6889106e1b810b721c1,242fbd80607dfd542c2c6e47597cf968,454eded714ba159188ff31ec799467ac,4b09867546b0f6dad9aa0b66e691698c,5bbf66384dcf094f6e5d2d8080a3d1bc,5e4bcfebb85aaf201347d2e16ba02361,7213815b796257f567d265f08615fdf2,73f47e3247b60f6c89aea5f8c5ab7891,82f105f42401e7b070641b59724114c4,bad51e0170fa55f05d16245dc9c5366c,bbcb2f00a60319733713d760d167af5e,bc6402613627f09a3cd5a33b75da489b,be3df8d517d16ac97623c875b816d2bb,dde33deac94ce5a4a0bece13e9a7b170,de86ca03373eb0b3e0e3ae608d1e1bc8,e33e48e08632588d1c79265fa2c58d1e,f809def576b1340c9adcdd20ce79378c,fb8b1b4c5c6f3bd3f0ed87cda4d29864,fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">15773e92788169544be83e5e875505f4,2014c4b0639ab6889106e1b810b721c1,242fbd80607dfd542c2c6e47597cf968,454eded714ba159188ff31ec799467ac,4b09867546b0f6dad9aa0b66e691698c,5bbf66384dcf094f6e5d2d8080a3d1bc,5e4bcfebb85aaf201347d2e16ba02361,7213815b796257f567d265f08615fdf2,73f47e3247b60f6c89aea5f8c5ab7891,82f105f42401e7b070641b59724114c4,bad51e0170fa55f05d16245dc9c5366c,bbcb2f00a60319733713d760d167af5e,bc6402613627f09a3cd5a33b75da489b,be3df8d517d16ac97623c875b816d2bb,dde33deac94ce5a4a0bece13e9a7b170,de86ca03373eb0b3e0e3ae608d1e1bc8,e33e48e08632588d1c79265fa2c58d1e,f809def576b1340c9adcdd20ce79378c,fb8b1b4c5c6f3bd3f0ed87cda4d29864,fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">15773e92788169544be83e5e875505f4,2014c4b0639ab6889106e1b810b721c1,242fbd80607dfd542c2c6e47597cf968,454eded714ba159188ff31ec799467ac,4b09867546b0f6dad9aa0b66e691698c,5bbf66384dcf094f6e5d2d8080a3d1bc,5e4bcfebb85aaf201347d2e16ba02361,7213815b796257f567d265f08615fdf2,73f47e3247b60f6c89aea5f8c5ab7891,82f105f42401e7b070641b59724114c4,bad51e0170fa55f05d16245dc9c5366c,bbcb2f00a60319733713d760d167af5e,bc6402613627f09a3cd5a33b75da489b,be3df8d517d16ac97623c875b816d2bb,dde33deac94ce5a4a0bece13e9a7b170,de86ca03373eb0b3e0e3ae608d1e1bc8,e33e48e08632588d1c79265fa2c58d1e,f809def576b1340c9adcdd20ce79378c,fb8b1b4c5c6f3bd3f0ed87cda4d29864,fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">15773e92788169544be83e5e875505f4,2014c4b0639ab6889106e1b810b721c1,242fbd80607dfd542c2c6e47597cf968,454eded714ba159188ff31ec799467ac,4b09867546b0f6dad9aa0b66e691698c,5bbf66384dcf094f6e5d2d8080a3d1bc,5e4bcfebb85aaf201347d2e16ba02361,7213815b796257f567d265f08615fdf2,73f47e3247b60f6c89aea5f8c5ab7891,82f105f42401e7b070641b59724114c4,bad51e0170fa55f05d16245dc9c5366c,bbcb2f00a60319733713d760d167af5e,bc6402613627f09a3cd5a33b75da489b,be3df8d517d16ac97623c875b816d2bb,dde33deac94ce5a4a0bece13e9a7b170,de86ca03373eb0b3e0e3ae608d1e1bc8,e33e48e08632588d1c79265fa2c58d1e,f809def576b1340c9adcdd20ce79378c,fb8b1b4c5c6f3bd3f0ed87cda4d29864,fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">15773e92788169544be83e5e875505f4,2014c4b0639ab6889106e1b810b721c1,242fbd80607dfd542c2c6e47597cf968,454eded714ba159188ff31ec799467ac,4b09867546b0f6dad9aa0b66e691698c,5bbf66384dcf094f6e5d2d8080a3d1bc,5e4bcfebb85aaf201347d2e16ba02361,7213815b796257f567d265f08615fdf2,73f47e3247b60f6c89aea5f8c5ab7891,82f105f42401e7b070641b59724114c4,bad51e0170fa55f05d16245dc9c5366c,bbcb2f00a60319733713d760d167af5e,bc6402613627f09a3cd5a33b75da489b,be3df8d517d16ac97623c875b816d2bb,dde33deac94ce5a4a0bece13e9a7b170,de86ca03373eb0b3e0e3ae608d1e1bc8,e33e48e08632588d1c79265fa2c58d1e,f809def576b1340c9adcdd20ce79378c,fb8b1b4c5c6f3bd3f0ed87cda4d29864,fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">15773e92788169544be83e5e875505f4,2014c4b0639ab6889106e1b810b721c1,242fbd80607dfd542c2c6e47597cf968,454eded714ba159188ff31ec799467ac,4b09867546b0f6dad9aa0b66e691698c,5bbf66384dcf094f6e5d2d8080a3d1bc,5e4bcfebb85aaf201347d2e16ba02361,7213815b796257f567d265f08615fdf2,73f47e3247b60f6c89aea5f8c5ab7891,82f105f42401e7b070641b59724114c4,bad51e0170fa55f05d16245dc9c5366c,bbcb2f00a60319733713d760d167af5e,bc6402613627f09a3cd5a33b75da489b,be3df8d517d16ac97623c875b816d2bb,dde33deac94ce5a4a0bece13e9a7b170,de86ca03373eb0b3e0e3ae608d1e1bc8,e33e48e08632588d1c79265fa2c58d1e,f809def576b1340c9adcdd20ce79378c,fb8b1b4c5c6f3bd3f0ed87cda4d29864,fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;PENNSYLVANIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Pennsylvania is a state in the United States."</data>
+      <data key="d5">5e4bcfebb85aaf201347d2e16ba02361</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;DELAWARE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Delaware is a state in the United States."</data>
+      <data key="d5">bad51e0170fa55f05d16245dc9c5366c</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">15773e92788169544be83e5e875505f4,2014c4b0639ab6889106e1b810b721c1,242fbd80607dfd542c2c6e47597cf968,454eded714ba159188ff31ec799467ac,4b09867546b0f6dad9aa0b66e691698c,5bbf66384dcf094f6e5d2d8080a3d1bc,5e4bcfebb85aaf201347d2e16ba02361,7213815b796257f567d265f08615fdf2,73f47e3247b60f6c89aea5f8c5ab7891,82f105f42401e7b070641b59724114c4,bad51e0170fa55f05d16245dc9c5366c,bbcb2f00a60319733713d760d167af5e,bc6402613627f09a3cd5a33b75da489b,be3df8d517d16ac97623c875b816d2bb,dde33deac94ce5a4a0bece13e9a7b170,de86ca03373eb0b3e0e3ae608d1e1bc8,e33e48e08632588d1c79265fa2c58d1e,f809def576b1340c9adcdd20ce79378c,fb8b1b4c5c6f3bd3f0ed87cda4d29864,fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">15773e92788169544be83e5e875505f4,2014c4b0639ab6889106e1b810b721c1,242fbd80607dfd542c2c6e47597cf968,454eded714ba159188ff31ec799467ac,4b09867546b0f6dad9aa0b66e691698c,5bbf66384dcf094f6e5d2d8080a3d1bc,5e4bcfebb85aaf201347d2e16ba02361,7213815b796257f567d265f08615fdf2,73f47e3247b60f6c89aea5f8c5ab7891,82f105f42401e7b070641b59724114c4,bad51e0170fa55f05d16245dc9c5366c,bbcb2f00a60319733713d760d167af5e,bc6402613627f09a3cd5a33b75da489b,be3df8d517d16ac97623c875b816d2bb,dde33deac94ce5a4a0bece13e9a7b170,de86ca03373eb0b3e0e3ae608d1e1bc8,e33e48e08632588d1c79265fa2c58d1e,f809def576b1340c9adcdd20ce79378c,fb8b1b4c5c6f3bd3f0ed87cda4d29864,fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">20.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">15773e92788169544be83e5e875505f4,2014c4b0639ab6889106e1b810b721c1,242fbd80607dfd542c2c6e47597cf968,454eded714ba159188ff31ec799467ac,4b09867546b0f6dad9aa0b66e691698c,5bbf66384dcf094f6e5d2d8080a3d1bc,5e4bcfebb85aaf201347d2e16ba02361,7213815b796257f567d265f08615fdf2,73f47e3247b60f6c89aea5f8c5ab7891,82f105f42401e7b070641b59724114c4,bad51e0170fa55f05d16245dc9c5366c,bbcb2f00a60319733713d760d167af5e,bc6402613627f09a3cd5a33b75da489b,be3df8d517d16ac97623c875b816d2bb,dde33deac94ce5a4a0bece13e9a7b170,de86ca03373eb0b3e0e3ae608d1e1bc8,e33e48e08632588d1c79265fa2c58d1e,f809def576b1340c9adcdd20ce79378c,fb8b1b4c5c6f3bd3f0ed87cda4d29864,fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </edge>
+    <edge source="&quot;GIORGIO VASARI&quot;" target="&quot;RONDANINI PIET&#192;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Giorgio Vasari wrote about the Rondanini Piet&#224; in his biography."</data>
+      <data key="d5">5bbf66384dcf094f6e5d2d8080a3d1bc</data>
+    </edge>
+    <edge source="&quot;PALAZZO RONDANINI&quot;" target="&quot;RONDANINI PIET&#192;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Rondanini Piet&#224; was displayed at Palazzo Rondanini for centuries."</data>
+      <data key="d5">5bbf66384dcf094f6e5d2d8080a3d1bc</data>
+    </edge>
+    <edge source="&quot;MUSEUM OF RONDANINI PIET&#192; OF SFORZA CASTLE&quot;" target="&quot;RONDANINI PIET&#192;&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Museum of Rondanini Piet&#224; of Sforza Castle is the current location of the Rondanini Piet&#224;."</data>
+      <data key="d5">5bbf66384dcf094f6e5d2d8080a3d1bc</data>
+    </edge>
+    <edge source="&quot;RONDANINI PIET&#192;&quot;" target="&quot;MICHELANGELO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Michelangelo was the creator of the Rondanini Piet&#224;."</data>
+      <data key="d5">5bbf66384dcf094f6e5d2d8080a3d1bc</data>
+    </edge>
+    <edge source="&quot;STEVE HAMPTON&quot;" target="&quot;DISNEY CHANNEL&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Steve Hampton wrote theme songs for several Disney Channel series, including The Suite Life."</data>
+      <data key="d5">fb8b1b4c5c6f3bd3f0ed87cda4d29864</data>
+    </edge>
+    <edge source="&quot;GARY SCOTT&quot;" target="&quot;THE SUITE LIFE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gary Scott composed the music cues and theme song for The Suite Life."</data>
+      <data key="d5">fb8b1b4c5c6f3bd3f0ed87cda4d29864</data>
+    </edge>
+    <edge source="&quot;STEVE RUSHTON&quot;" target="&quot;THE SUITE LIFE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Steve Rushton performed the theme song for The Suite Life in its second season."</data>
+      <data key="d5">fb8b1b4c5c6f3bd3f0ed87cda4d29864</data>
+    </edge>
+    <edge source="&quot;THE SUITE LIFE&quot;" target="&quot;JOHN ADAIR&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"John Adair co-wrote the theme song for The Suite Life."</data>
+      <data key="d5">fb8b1b4c5c6f3bd3f0ed87cda4d29864</data>
+    </edge>
+    <edge source="&quot;RICHMOND&quot;" target="&quot;VIRGINIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Richmond is a city located in Virginia, with a shared history of live theatrical performances."</data>
+      <data key="d5">f809def576b1340c9adcdd20ce79378c</data>
+    </edge>
+    <edge source="&quot;RICHMOND&quot;" target="&quot;WILLIAM MACREADY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"William Macready performed in Richmond during the 19th century, contributing to the city's theatrical heritage."</data>
+      <data key="d5">f809def576b1340c9adcdd20ce79378c</data>
+    </edge>
+    <edge source="&quot;RICHMOND&quot;" target="&quot;EDWIN FORREST&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Edwin Forrest performed in Richmond during the 19th century, contributing to the city's theatrical heritage."</data>
+      <data key="d5">f809def576b1340c9adcdd20ce79378c</data>
+    </edge>
+    <edge source="&quot;RICHMOND&quot;" target="&quot;THE BOOTH FAMILY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Booth family performed in Richmond during the 19th century, contributing to the city's theatrical heritage."</data>
+      <data key="d5">f809def576b1340c9adcdd20ce79378c</data>
+    </edge>
+    <edge source="&quot;RICHMOND&quot;" target="&quot;THEATRE IV&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Theatre IV is a theater company based in Richmond, contributing to the city's vibrant cultural scene."</data>
+      <data key="d5">f809def576b1340c9adcdd20ce79378c</data>
+    </edge>
+    <edge source="&quot;LEWIS HALLAM&quot;" target="&quot;WILLIAMSBURG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lewis Hallam produced Shakespeare's plays in Williamsburg, contributing to the development of theater in Virginia."</data>
+      <data key="d5">f809def576b1340c9adcdd20ce79378c</data>
+    </edge>
+    <edge source="&quot;VIRGINIA MUSEUM&quot;" target="&quot;LESLIE CHEEK THEATER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Virginia Museum is associated with the Leslie Cheek Theater, which hosts live theatrical performances."</data>
+      <data key="d5">f809def576b1340c9adcdd20ce79378c</data>
+    </edge>
+    <edge source="&quot;ROY CASTLE&quot;" target="&quot;BEN CASTLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ben Castle is the son of Roy Castle."</data>
+      <data key="d5">15773e92788169544be83e5e875505f4</data>
+    </edge>
+    <edge source="&quot;FIONA CASTLE&quot;" target="&quot;BEN CASTLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ben Castle is the son of Fiona Castle."</data>
+      <data key="d5">15773e92788169544be83e5e875505f4</data>
+    </edge>
+    <edge source="&quot;INTERNATIONAL SONGWRITING COMPETITION&quot;" target="&quot;BEN CASTLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ben Castle won first place in the Jazz category of the International Songwriting Competition in 2003."</data>
+      <data key="d5">15773e92788169544be83e5e875505f4</data>
+    </edge>
+    <edge source="&quot;ALFRED KLEMENS PHILIPP FRIEDRICH JUSTINIAN&quot;" target="&quot;CLAUS PHILIPP MARIA JUSTINIAN STAUFFENBERG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alfred Klemens Philipp Friedrich Justinian is the father of Claus Philipp Maria Justinian Stauffenberg."</data>
+      <data key="d5">4b09867546b0f6dad9aa0b66e691698c</data>
+    </edge>
+    <edge source="&quot;CAROLINE SCHENK GR&#196;FIN VON STAUFFENBERG&quot;" target="&quot;CLAUS PHILIPP MARIA JUSTINIAN STAUFFENBERG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Caroline Schenk Gr&#228;fin von Stauffenberg is the mother of Claus Philipp Maria Justinian Stauffenberg."</data>
+      <data key="d5">4b09867546b0f6dad9aa0b66e691698c</data>
+    </edge>
+    <edge source="&quot;CAROLINE SCHENK GR&#196;FIN VON STAUFFENBERG&quot;" target="&quot;ALFRED RICHARD AUGUST GRAF VON &#220;XK&#220;LL-GYLLENBAND&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alfred Richard August Graf von &#220;xk&#252;ll-Gyllenband is the father of Caroline Schenk Gr&#228;fin von Stauffenberg."</data>
+      <data key="d5">4b09867546b0f6dad9aa0b66e691698c</data>
+    </edge>
+    <edge source="&quot;STAUFFENBERG FAMILY&quot;" target="&quot;CLAUS PHILIPP MARIA JUSTINIAN STAUFFENBERG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Claus Philipp Maria Justinian Stauffenberg is a member of the noble Stauffenberg family."</data>
+      <data key="d5">4b09867546b0f6dad9aa0b66e691698c</data>
+    </edge>
+    <edge source="&quot;PARIS&quot;" target="&quot;GIOVANNI CIFOLELLI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Giovanni Cifolelli made his appearance and published his work in Paris."</data>
+      <data key="d5">2014c4b0639ab6889106e1b810b721c1</data>
+    </edge>
+    <edge source="&quot;FRANCE&quot;" target="&quot;GIOVANNI CIFOLELLI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Giovanni Cifolelli's 'Method for the mandolin' was highly successful throughout France."</data>
+      <data key="d5">2014c4b0639ab6889106e1b810b721c1</data>
+    </edge>
+    <edge source="&quot;SIR HENRY PELLATT&quot;" target="&quot;CASA LOMA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Casa Loma was constructed as a residence for Sir Henry Pellatt."</data>
+      <data key="d5">82f105f42401e7b070641b59724114c4</data>
+    </edge>
+    <edge source="&quot;E. J. LENNOX&quot;" target="&quot;CASA LOMA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"E. J. Lennox designed Casa Loma."</data>
+      <data key="d5">82f105f42401e7b070641b59724114c4</data>
+    </edge>
+    <edge source="&quot;TORONTO&quot;" target="&quot;CASA LOMA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Casa Loma is located in Toronto, Ontario, Canada."</data>
+      <data key="d5">82f105f42401e7b070641b59724114c4</data>
+    </edge>
+    <edge source="&quot;TORONTO&quot;" target="&quot;GAVIN BRADLEY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gavin Bradley is based in Toronto."</data>
+      <data key="d5">242fbd80607dfd542c2c6e47597cf968</data>
+    </edge>
+    <edge source="&quot;NELLY FURTADO&quot;" target="&quot;GAVIN BRADLEY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gavin Bradley has worked with Nelly Furtado."</data>
+      <data key="d5">242fbd80607dfd542c2c6e47597cf968</data>
+    </edge>
+    <edge source="&quot;TORI AMOS&quot;" target="&quot;GAVIN BRADLEY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gavin Bradley has worked with Tori Amos."</data>
+      <data key="d5">242fbd80607dfd542c2c6e47597cf968</data>
+    </edge>
+    <edge source="&quot;JANE SIBERRY&quot;" target="&quot;GAVIN BRADLEY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gavin Bradley has worked with Jane Siberry."</data>
+      <data key="d5">242fbd80607dfd542c2c6e47597cf968</data>
+    </edge>
+    <edge source="&quot;JANE SIBERRY&quot;" target="&quot;A DAY IN THE LIFE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jane Siberry released an album called A Day in the Life."</data>
+      <data key="d5">e33e48e08632588d1c79265fa2c58d1e</data>
+    </edge>
+    <edge source="&quot;JANE SIBERRY&quot;" target="&quot;REPRISE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jane Siberry left Reprise to start her own label, Sheeba Records."</data>
+      <data key="d5">e33e48e08632588d1c79265fa2c58d1e</data>
+    </edge>
+    <edge source="&quot;UMI RECORDS&quot;" target="&quot;GAVIN BRADLEY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gavin Bradley's debut album 'Deep Freeze' was released on UMI Records."</data>
+      <data key="d5">242fbd80607dfd542c2c6e47597cf968</data>
+    </edge>
+    <edge source="&quot;DEEP FREEZE&quot;" target="&quot;GAVIN BRADLEY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Gavin Bradley is the artist behind the debut album 'Deep Freeze'."&gt;</data>
+      <data key="d5">242fbd80607dfd542c2c6e47597cf968</data>
+    </edge>
+    <edge source="&quot;AMERICAN BALLET THEATRE&quot;" target="&quot;BALLET&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The documentary film Ballet portrays the daily life of the American Ballet Theatre."</data>
+      <data key="d5">be3df8d517d16ac97623c875b816d2bb</data>
+    </edge>
+    <edge source="&quot;AMERICAN BALLET THEATRE&quot;" target="&quot;GREECE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The American Ballet Theatre went on tour in Greece, as shown in the documentary film Ballet."</data>
+      <data key="d5">be3df8d517d16ac97623c875b816d2bb</data>
+    </edge>
+    <edge source="&quot;AMERICAN BALLET THEATRE&quot;" target="&quot;COPENHAGEN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The American Ballet Theatre performed in Copenhagen during its European tour, as depicted in the documentary film Ballet."</data>
+      <data key="d5">be3df8d517d16ac97623c875b816d2bb</data>
+    </edge>
+    <edge source="&quot;BALLET&quot;" target="&quot;FREDERICK WISEMAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Frederick Wiseman directed the documentary film Ballet."</data>
+      <data key="d5">be3df8d517d16ac97623c875b816d2bb</data>
+    </edge>
+    <edge source="&quot;LAWRENCE COUNTY&quot;" target="&quot;NEW CASTLE NORTHWEST&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"New Castle Northwest is located in Lawrence County."</data>
+      <data key="d5">5e4bcfebb85aaf201347d2e16ba02361</data>
+    </edge>
+    <edge source="&quot;LAWRENCE COUNTY&quot;" target="&quot;PENNSYLVANIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lawrence County is a county in Pennsylvania."</data>
+      <data key="d5">5e4bcfebb85aaf201347d2e16ba02361</data>
+    </edge>
+    <edge source="&quot;SHEEBA RECORDS&quot;" target="&quot;A DAY IN THE LIFE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sheeba Records is the label that released Jane Siberry's album A Day in the Life."</data>
+      <data key="d5">e33e48e08632588d1c79265fa2c58d1e</data>
+    </edge>
+    <edge source="&quot;MTV&quot;" target="&quot;RYAN SHECKLER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ryan Sheckler's reality TV series Life of Ryan airs on MTV."</data>
+      <data key="d5">73f47e3247b60f6c89aea5f8c5ab7891</data>
+    </edge>
+    <edge source="&quot;MTV&quot;" target="&quot;LIFE OF RYAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"MTV is the television network that broadcasts the reality TV series Life of Ryan."</data>
+      <data key="d5">73f47e3247b60f6c89aea5f8c5ab7891</data>
+    </edge>
+    <edge source="&quot;SAN CLEMENTE, CALIFORNIA&quot;" target="&quot;RYAN SHECKLER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ryan Sheckler lives in San Clemente, California, where most episodes of Life of Ryan take place."</data>
+      <data key="d5">73f47e3247b60f6c89aea5f8c5ab7891</data>
+    </edge>
+    <edge source="&quot;THE MAN IN THE HIGH CASTLE&quot;" target="&quot;JEANETTE OLSSON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jeanette Olsson's performance is used in The Man in the High Castle, indicating a creative collaboration."</data>
+      <data key="d5">454eded714ba159188ff31ec799467ac</data>
+    </edge>
+    <edge source="&quot;NEW CASTLE COUNTY&quot;" target="&quot;GLASGOW&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Glasgow is located in New Castle County."</data>
+      <data key="d5">bad51e0170fa55f05d16245dc9c5366c</data>
+    </edge>
+    <edge source="&quot;NEW CASTLE COUNTY&quot;" target="&quot;DELAWARE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"New Castle County is a county in Delaware."</data>
+      <data key="d5">bad51e0170fa55f05d16245dc9c5366c</data>
+    </edge>
+    <edge source="&quot;MARK ZUCKERBERG&quot;" target="&quot;CHAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chan is married to Mark Zuckerberg."</data>
+      <data key="d5">fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </edge>
+    <edge source="&quot;MARK ZUCKERBERG&quot;" target="&quot;FACEBOOK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mark Zuckerberg launched Facebook's stock market."</data>
+      <data key="d5">fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </edge>
+    <edge source="&quot;MARK ZUCKERBERG&quot;" target="&quot;MAXIMA CHAN ZUCKERBERG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mark Zuckerberg is the father of Maxima Chan Zuckerberg."</data>
+      <data key="d5">fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </edge>
+    <edge source="&quot;MARK ZUCKERBERG&quot;" target="&quot;AUGUST&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mark Zuckerberg is the father of August."</data>
+      <data key="d5">fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </edge>
+    <edge source="&quot;MAXIMA CHAN ZUCKERBERG&quot;" target="&quot;CHAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chan is the mother of Maxima Chan Zuckerberg."</data>
+      <data key="d5">fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </edge>
+    <edge source="&quot;AUGUST&quot;" target="&quot;CHAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chan is the mother of August."</data>
+      <data key="d5">fe2ba47d6ab3b38d8c501d605d5f48b4</data>
+    </edge>
+    <edge source="&quot;AMERICA&quot;" target="&quot;DR. JESSE BENNETT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dr. Jesse Bennett lived and worked as a physician in America."</data>
+      <data key="d5">bbcb2f00a60319733713d760d167af5e</data>
+    </edge>
+    <edge source="&quot;CAESAREAN SECTION&quot;" target="&quot;DR. JESSE BENNETT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dr. Jesse Bennett performed the Caesarean section on his own wife, making him the first American physician to do so successfully."</data>
+      <data key="d5">bbcb2f00a60319733713d760d167af5e</data>
+    </edge>
+    <edge source="&quot;ZULFIQAR BABAR&quot;" target="&quot;PAKISTAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Zulfiqar Babar is from Pakistan."</data>
+      <data key="d5">7213815b796257f567d265f08615fdf2</data>
+    </edge>
+    <edge source="&quot;MOHAMMAD HAFEEZ&quot;" target="&quot;PAKISTAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mohammad Hafeez is from Pakistan."</data>
+      <data key="d5">7213815b796257f567d265f08615fdf2</data>
+    </edge>
+    <edge source="&quot;SRI LANKA&quot;" target="&quot;RANGANA HERATH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Rangana Herath is from Sri Lanka."</data>
+      <data key="d5">7213815b796257f567d265f08615fdf2</data>
+    </edge>
+  </graph>
+</graphml>

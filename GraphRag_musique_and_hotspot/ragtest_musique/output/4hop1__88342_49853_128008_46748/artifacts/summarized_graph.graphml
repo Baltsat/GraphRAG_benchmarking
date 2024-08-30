@@ -1,0 +1,890 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;AMERICAN LEAGUE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+The American League is one of the two leagues in Major League Baseball (MLB), comprising teams from the eastern United States. Notably, it is also the league where the Cleveland Indians achieved their remarkable 22-game winning streak.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">6cd92408ff4a79880d27152e5ce77641,7ba5d888b58e88c1fc31b7d0952eda43</data>
+    </node>
+    <node id="&quot;NATIONAL LEAGUE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The National League is a geographic region and one of the two leagues in Major League Baseball (MLB), comprising teams from the western United States. Notably, the Dodgers have won 21 pennants within this league. Additionally, the Chicago Cubs hold the record for consecutive wins without a tie in the National League.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">2e1dfe82f31956b1f698c65006ec486d,6cd92408ff4a79880d27152e5ce77641,7ba5d888b58e88c1fc31b7d0952eda43</data>
+    </node>
+    <node id="&quot;DIVISION SERIES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Division Series is a postseason tournament in Major League Baseball (MLB) where wild card teams face division winners."</data>
+      <data key="d2">6cd92408ff4a79880d27152e5ce77641</data>
+    </node>
+    <node id="&quot;MLB WILD CARD GAME&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The MLB Wild Card Game is a play-in game between the two wild card teams in each league, with the winner advancing to the Division Series."</data>
+      <data key="d2">6cd92408ff4a79880d27152e5ce77641</data>
+    </node>
+    <node id="&quot;MAJOR LEAGUE BASEBALL (MLB)&quot;">
+      <data key="d0" />
+      <data key="d1">Here is a comprehensive summary of the data:
+
+"Major League Baseball (MLB) is the top-level professional baseball league in the United States, where notable players such as Ichiro Suzuki and Miguel Cabrera have played. Specifically, Ichiro Suzuki has played for several teams within the league, while Miguel Cabrera has been an active player since his debut in 2003. Additionally, Major League Baseball is one of the four North American major professional leagues."</data>
+      <data key="d2">36e49d151fd8205750a0541edf5ca785,4d11aa061ab8b714239fbefbe3598f4e,6cd92408ff4a79880d27152e5ce77641,e1de46c2b0ff709227c82e6d3b026411</data>
+    </node>
+    <node id="&quot;WILD CARD&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6cd92408ff4a79880d27152e5ce77641</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">00482e73163f0fdccd792dec82bbf559,2534b3f54ab78122da1928c7a9aff448,2e1dfe82f31956b1f698c65006ec486d,36e49d151fd8205750a0541edf5ca785,4d11aa061ab8b714239fbefbe3598f4e,4d449a64d7945bd132c610d396b5946e,514a21d9ca254e6c937368a9d642c2e9,6a6ef9b403b039b5207c33e209015a3f,6a96233e1ff9f1c6290eeee91b430604,6cd92408ff4a79880d27152e5ce77641,7ba5d888b58e88c1fc31b7d0952eda43,88bffef2160505dd76573e79cc8b128a,abd9d67188e53744ad169a1be7ac5bff,b4532eb99fa4cc35ce40a97f70ca43b8,b72d2b0f9535c8635dc0fe1edd66021d,e1de46c2b0ff709227c82e6d3b026411,f16052e94e1098102c0aadff1c6dc11c,f6cb34c96a17c414da92e7c59f4b7298,f8ce4fb146d1c0776d74f4d14ab913f3</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">00482e73163f0fdccd792dec82bbf559,2534b3f54ab78122da1928c7a9aff448,2e1dfe82f31956b1f698c65006ec486d,36e49d151fd8205750a0541edf5ca785,4d11aa061ab8b714239fbefbe3598f4e,4d449a64d7945bd132c610d396b5946e,514a21d9ca254e6c937368a9d642c2e9,6a6ef9b403b039b5207c33e209015a3f,6a96233e1ff9f1c6290eeee91b430604,6cd92408ff4a79880d27152e5ce77641,7ba5d888b58e88c1fc31b7d0952eda43,88bffef2160505dd76573e79cc8b128a,abd9d67188e53744ad169a1be7ac5bff,b4532eb99fa4cc35ce40a97f70ca43b8,b72d2b0f9535c8635dc0fe1edd66021d,e1de46c2b0ff709227c82e6d3b026411,f16052e94e1098102c0aadff1c6dc11c,f6cb34c96a17c414da92e7c59f4b7298,f8ce4fb146d1c0776d74f4d14ab913f3</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">00482e73163f0fdccd792dec82bbf559,2534b3f54ab78122da1928c7a9aff448,2e1dfe82f31956b1f698c65006ec486d,36e49d151fd8205750a0541edf5ca785,4d11aa061ab8b714239fbefbe3598f4e,4d449a64d7945bd132c610d396b5946e,514a21d9ca254e6c937368a9d642c2e9,6a6ef9b403b039b5207c33e209015a3f,6a96233e1ff9f1c6290eeee91b430604,6cd92408ff4a79880d27152e5ce77641,7ba5d888b58e88c1fc31b7d0952eda43,88bffef2160505dd76573e79cc8b128a,abd9d67188e53744ad169a1be7ac5bff,b4532eb99fa4cc35ce40a97f70ca43b8,b72d2b0f9535c8635dc0fe1edd66021d,e1de46c2b0ff709227c82e6d3b026411,f16052e94e1098102c0aadff1c6dc11c,f6cb34c96a17c414da92e7c59f4b7298,f8ce4fb146d1c0776d74f4d14ab913f3</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">00482e73163f0fdccd792dec82bbf559,2534b3f54ab78122da1928c7a9aff448,2e1dfe82f31956b1f698c65006ec486d,36e49d151fd8205750a0541edf5ca785,4d11aa061ab8b714239fbefbe3598f4e,4d449a64d7945bd132c610d396b5946e,514a21d9ca254e6c937368a9d642c2e9,6a6ef9b403b039b5207c33e209015a3f,6a96233e1ff9f1c6290eeee91b430604,6cd92408ff4a79880d27152e5ce77641,7ba5d888b58e88c1fc31b7d0952eda43,88bffef2160505dd76573e79cc8b128a,abd9d67188e53744ad169a1be7ac5bff,b4532eb99fa4cc35ce40a97f70ca43b8,b72d2b0f9535c8635dc0fe1edd66021d,e1de46c2b0ff709227c82e6d3b026411,f16052e94e1098102c0aadff1c6dc11c,f6cb34c96a17c414da92e7c59f4b7298,f8ce4fb146d1c0776d74f4d14ab913f3</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The United States is a country where Tucson, Pima County, and Arizona are located. Additionally, it is also the country where the iconic World Series takes place.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">00482e73163f0fdccd792dec82bbf559,2534b3f54ab78122da1928c7a9aff448,2e1dfe82f31956b1f698c65006ec486d,36e49d151fd8205750a0541edf5ca785,4d11aa061ab8b714239fbefbe3598f4e,4d449a64d7945bd132c610d396b5946e,514a21d9ca254e6c937368a9d642c2e9,6a6ef9b403b039b5207c33e209015a3f,6a96233e1ff9f1c6290eeee91b430604,6cd92408ff4a79880d27152e5ce77641,7ba5d888b58e88c1fc31b7d0952eda43,88bffef2160505dd76573e79cc8b128a,abd9d67188e53744ad169a1be7ac5bff,b4532eb99fa4cc35ce40a97f70ca43b8,b72d2b0f9535c8635dc0fe1edd66021d,e1de46c2b0ff709227c82e6d3b026411,f16052e94e1098102c0aadff1c6dc11c,f6cb34c96a17c414da92e7c59f4b7298,f8ce4fb146d1c0776d74f4d14ab913f3</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">00482e73163f0fdccd792dec82bbf559,2534b3f54ab78122da1928c7a9aff448,2e1dfe82f31956b1f698c65006ec486d,36e49d151fd8205750a0541edf5ca785,4d11aa061ab8b714239fbefbe3598f4e,4d449a64d7945bd132c610d396b5946e,514a21d9ca254e6c937368a9d642c2e9,6a6ef9b403b039b5207c33e209015a3f,6a96233e1ff9f1c6290eeee91b430604,6cd92408ff4a79880d27152e5ce77641,7ba5d888b58e88c1fc31b7d0952eda43,88bffef2160505dd76573e79cc8b128a,abd9d67188e53744ad169a1be7ac5bff,b4532eb99fa4cc35ce40a97f70ca43b8,b72d2b0f9535c8635dc0fe1edd66021d,e1de46c2b0ff709227c82e6d3b026411,f16052e94e1098102c0aadff1c6dc11c,f6cb34c96a17c414da92e7c59f4b7298,f8ce4fb146d1c0776d74f4d14ab913f3</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">00482e73163f0fdccd792dec82bbf559,2534b3f54ab78122da1928c7a9aff448,2e1dfe82f31956b1f698c65006ec486d,36e49d151fd8205750a0541edf5ca785,4d11aa061ab8b714239fbefbe3598f4e,4d449a64d7945bd132c610d396b5946e,514a21d9ca254e6c937368a9d642c2e9,6a6ef9b403b039b5207c33e209015a3f,6a96233e1ff9f1c6290eeee91b430604,6cd92408ff4a79880d27152e5ce77641,7ba5d888b58e88c1fc31b7d0952eda43,88bffef2160505dd76573e79cc8b128a,abd9d67188e53744ad169a1be7ac5bff,b4532eb99fa4cc35ce40a97f70ca43b8,b72d2b0f9535c8635dc0fe1edd66021d,e1de46c2b0ff709227c82e6d3b026411,f16052e94e1098102c0aadff1c6dc11c,f6cb34c96a17c414da92e7c59f4b7298,f8ce4fb146d1c0776d74f4d14ab913f3</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">00482e73163f0fdccd792dec82bbf559,2534b3f54ab78122da1928c7a9aff448,2e1dfe82f31956b1f698c65006ec486d,36e49d151fd8205750a0541edf5ca785,4d11aa061ab8b714239fbefbe3598f4e,4d449a64d7945bd132c610d396b5946e,514a21d9ca254e6c937368a9d642c2e9,6a6ef9b403b039b5207c33e209015a3f,6a96233e1ff9f1c6290eeee91b430604,6cd92408ff4a79880d27152e5ce77641,7ba5d888b58e88c1fc31b7d0952eda43,88bffef2160505dd76573e79cc8b128a,abd9d67188e53744ad169a1be7ac5bff,b4532eb99fa4cc35ce40a97f70ca43b8,b72d2b0f9535c8635dc0fe1edd66021d,e1de46c2b0ff709227c82e6d3b026411,f16052e94e1098102c0aadff1c6dc11c,f6cb34c96a17c414da92e7c59f4b7298,f8ce4fb146d1c0776d74f4d14ab913f3</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">00482e73163f0fdccd792dec82bbf559,2534b3f54ab78122da1928c7a9aff448,2e1dfe82f31956b1f698c65006ec486d,36e49d151fd8205750a0541edf5ca785,4d11aa061ab8b714239fbefbe3598f4e,4d449a64d7945bd132c610d396b5946e,514a21d9ca254e6c937368a9d642c2e9,6a6ef9b403b039b5207c33e209015a3f,6a96233e1ff9f1c6290eeee91b430604,6cd92408ff4a79880d27152e5ce77641,7ba5d888b58e88c1fc31b7d0952eda43,88bffef2160505dd76573e79cc8b128a,abd9d67188e53744ad169a1be7ac5bff,b4532eb99fa4cc35ce40a97f70ca43b8,b72d2b0f9535c8635dc0fe1edd66021d,e1de46c2b0ff709227c82e6d3b026411,f16052e94e1098102c0aadff1c6dc11c,f6cb34c96a17c414da92e7c59f4b7298,f8ce4fb146d1c0776d74f4d14ab913f3</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">00482e73163f0fdccd792dec82bbf559,2534b3f54ab78122da1928c7a9aff448,2e1dfe82f31956b1f698c65006ec486d,36e49d151fd8205750a0541edf5ca785,4d11aa061ab8b714239fbefbe3598f4e,4d449a64d7945bd132c610d396b5946e,514a21d9ca254e6c937368a9d642c2e9,6a6ef9b403b039b5207c33e209015a3f,6a96233e1ff9f1c6290eeee91b430604,6cd92408ff4a79880d27152e5ce77641,7ba5d888b58e88c1fc31b7d0952eda43,88bffef2160505dd76573e79cc8b128a,abd9d67188e53744ad169a1be7ac5bff,b4532eb99fa4cc35ce40a97f70ca43b8,b72d2b0f9535c8635dc0fe1edd66021d,e1de46c2b0ff709227c82e6d3b026411,f16052e94e1098102c0aadff1c6dc11c,f6cb34c96a17c414da92e7c59f4b7298,f8ce4fb146d1c0776d74f4d14ab913f3</data>
+    </node>
+    <node id="&quot;NATIONAL LEAGUE (NL)&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The National League (NL) is a professional baseball league that has had several winning streaks in the All-Star Game series."</data>
+      <data key="d2">f6cb34c96a17c414da92e7c59f4b7298</data>
+    </node>
+    <node id="&quot;MAJOR LEAGUE BASEBALL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+"Major League Baseball is a professional baseball organization that consists of two leagues: the American League and the National League. As the top-level professional baseball league in North America, it hosts the annual All-Star Game. Additionally, Major League Baseball is responsible for presenting the prestigious Willie Mays World Series MVP Award."</data>
+      <data key="d2">7ba5d888b58e88c1fc31b7d0952eda43,f16052e94e1098102c0aadff1c6dc11c,f6cb34c96a17c414da92e7c59f4b7298</data>
+    </node>
+    <node id="&quot;AMERICAN LEAGUE (AL)&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+The American League (AL) is a division of Major League Baseball (MLB) where notable players such as Miguel Cabrera have achieved great success, winning several prestigious awards, including the Most Valuable Player (MVP) award.</data>
+      <data key="d2">4d11aa061ab8b714239fbefbe3598f4e,f6cb34c96a17c414da92e7c59f4b7298</data>
+    </node>
+    <node id="&quot;ALL-STAR GAME&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f6cb34c96a17c414da92e7c59f4b7298</data>
+    </node>
+    <node id="&quot;CLEVELAND INDIANS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Cleveland Indians are a professional baseball team that holds the American League record for the second-longest winning streak.</data>
+      <data key="d2">6a6ef9b403b039b5207c33e209015a3f,7ba5d888b58e88c1fc31b7d0952eda43</data>
+    </node>
+    <node id="&quot;CHICAGO CUBS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Chicago Cubs are a professional Major League Baseball team that holds the National League record for consecutive wins without a tie with 21 games, achieved in 1935. Notably, they have accomplished this feat twice in their franchise history.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">6a6ef9b403b039b5207c33e209015a3f,7ba5d888b58e88c1fc31b7d0952eda43</data>
+    </node>
+    <node id="&quot;CHICAGO WHITE STOCKINGS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Chicago White Stockings were a former name of the Chicago Cubs franchise, which won 21 games in 1880."</data>
+      <data key="d2">6a6ef9b403b039b5207c33e209015a3f</data>
+    </node>
+    <node id="&quot;NEW YORK&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New York is a location associated with the New York Giants baseball team."</data>
+      <data key="d2">6a6ef9b403b039b5207c33e209015a3f</data>
+    </node>
+    <node id="&quot;CLEVELAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Cleveland is a city located in Ohio, USA, and is closely associated with the Cleveland Indians baseball team.
+
+Let me know if you have any further requests!</data>
+      <data key="d2">6a6ef9b403b039b5207c33e209015a3f,7ba5d888b58e88c1fc31b7d0952eda43</data>
+    </node>
+    <node id="&quot;CHICAGO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+"Chicago is a city in Illinois, USA, and is closely associated with two prominent baseball teams: the Chicago Cubs and the former Chicago White Stockings."</data>
+      <data key="d2">6a6ef9b403b039b5207c33e209015a3f,7ba5d888b58e88c1fc31b7d0952eda43</data>
+    </node>
+    <node id="&quot;MLB HISTORY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"MLB history refers to the collective record of events in Major League Baseball, including winning streaks and unbeaten records."</data>
+      <data key="d2">6a6ef9b403b039b5207c33e209015a3f</data>
+    </node>
+    <node id="&quot;ROYAL PERTH YACHT CLUB&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Royal Perth Yacht Club fielded the Australia II, which won the America's Cup in 1983."</data>
+      <data key="d2">abd9d67188e53744ad169a1be7ac5bff</data>
+    </node>
+    <node id="&quot;JOHN BERTRAND&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"John Bertrand was the skipper of the Australia II, which won the America's Cup in 1983."</data>
+      <data key="d2">abd9d67188e53744ad169a1be7ac5bff</data>
+    </node>
+    <node id="&quot;DENNIS CONNER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Dennis Conner was the skipper of the defender Liberty, which lost to Australia II in the 1983 America's Cup."</data>
+      <data key="d2">abd9d67188e53744ad169a1be7ac5bff</data>
+    </node>
+    <node id="&quot;AUSTRALIA II&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Australia II won the match races to win the America's Cup in 1983, ending U.S. domination of the racing series."</data>
+      <data key="d2">abd9d67188e53744ad169a1be7ac5bff</data>
+    </node>
+    <node id="&quot;LIBERTY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Liberty was the defender in the 1983 America's Cup, skippered by Dennis Conner and lost to Australia II."</data>
+      <data key="d2">abd9d67188e53744ad169a1be7ac5bff</data>
+    </node>
+    <node id="&quot;NEW YORK YACHT CLUB&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">abd9d67188e53744ad169a1be7ac5bff</data>
+    </node>
+    <node id="&quot;AMERICA'S CUP&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">abd9d67188e53744ad169a1be7ac5bff</data>
+    </node>
+    <node id="&quot;2017&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"2017 was the year when the Cleveland Indians achieved their 22-game winning streak."</data>
+      <data key="d2">7ba5d888b58e88c1fc31b7d0952eda43</data>
+    </node>
+    <node id="&quot;1935&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"1935 was the year when the Chicago Cubs set the National League record for consecutive wins without a tie."</data>
+      <data key="d2">7ba5d888b58e88c1fc31b7d0952eda43</data>
+    </node>
+    <node id="&quot;THE DODGERS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2e1dfe82f31956b1f698c65006ec486d</data>
+    </node>
+    <node id="&quot;WORLD SERIES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+The World Series is the annual postseason baseball championship series of Major League Baseball, played between the champions of the American League and National League. It is the highest level of competition in professional baseball, determining the best team from the two leagues. Throughout its history, various teams have emerged victorious, including the Dodgers, who have won six World Series titles.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">2534b3f54ab78122da1928c7a9aff448,2e1dfe82f31956b1f698c65006ec486d,88bffef2160505dd76573e79cc8b128a,f16052e94e1098102c0aadff1c6dc11c</data>
+    </node>
+    <node id="&quot;TAIWAN BEER CLUB&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Taiwan Beer club is a team in the Super Basketball League (SBL) where Lin Chih-chieh has played and won several awards."</data>
+      <data key="d2">4d449a64d7945bd132c610d396b5946e</data>
+    </node>
+    <node id="&quot;SUPER BASKETBALL LEAGUE (SBL)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Super Basketball League (SBL) is a professional basketball league where Lin Chih-chieh's team, Taiwan Beer club, competes."</data>
+      <data key="d2">4d449a64d7945bd132c610d396b5946e</data>
+    </node>
+    <node id="&quot;HUALIEN COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hualien County is the birthplace of Lin Chih-chieh, located in Taiwan."</data>
+      <data key="d2">4d449a64d7945bd132c610d396b5946e</data>
+    </node>
+    <node id="&quot;LIN CHIH-CHIEH&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4d449a64d7945bd132c610d396b5946e</data>
+    </node>
+    <node id="&quot;TAIWAN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4d449a64d7945bd132c610d396b5946e</data>
+    </node>
+    <node id="&quot;BILL BELICHICK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bill Belichick is the head coach of The Patriots, who has led the team to numerous successes since his arrival in 2000."</data>
+      <data key="d2">b4532eb99fa4cc35ce40a97f70ca43b8</data>
+    </node>
+    <node id="&quot;TOM BRADY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Tom Brady is the quarterback of The Patriots, who has played a key role in the team's success since his arrival in 2000."</data>
+      <data key="d2">b4532eb99fa4cc35ce40a97f70ca43b8</data>
+    </node>
+    <node id="&quot;NFL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The NFL (National Football League) is the professional American football league in which teams, such as The Patriots, compete. It is also a platform where talented players like Brady have played and achieved numerous records and accolades.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">514a21d9ca254e6c937368a9d642c2e9,b4532eb99fa4cc35ce40a97f70ca43b8</data>
+    </node>
+    <node id="&quot;SUPER BOWL&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Super Bowl is the annual championship game of the NFL, which The Patriots have appeared in nine times."</data>
+      <data key="d2">b4532eb99fa4cc35ce40a97f70ca43b8</data>
+    </node>
+    <node id="&quot;THE PATRIOTS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b4532eb99fa4cc35ce40a97f70ca43b8</data>
+    </node>
+    <node id="&quot;FRANK FARRELL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Frank Farrell is a person who purchased the franchise with Bill Devery and moved it to New York City, renaming it the New York Highlanders."</data>
+      <data key="d2">6a96233e1ff9f1c6290eeee91b430604</data>
+    </node>
+    <node id="&quot;BILL DEVERY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bill Devery is a person who purchased the franchise with Frank Farrell and moved it to New York City, renaming it the New York Highlanders."</data>
+      <data key="d2">6a96233e1ff9f1c6290eeee91b430604</data>
+    </node>
+    <node id="&quot;NEW YORK CITY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New York City is the location where the New York Yankees are based, specifically in the Bronx borough."</data>
+      <data key="d2">6a96233e1ff9f1c6290eeee91b430604</data>
+    </node>
+    <node id="&quot;BALTIMORE ORIOLES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Baltimore Orioles are a major league club that was previously located in New York City before moving to Baltimore."</data>
+      <data key="d2">6a96233e1ff9f1c6290eeee91b430604</data>
+    </node>
+    <node id="&quot;NEW YORK METS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The New York Mets are a major league club based in New York City, competing in the National League."</data>
+      <data key="d2">6a96233e1ff9f1c6290eeee91b430604</data>
+    </node>
+    <node id="&quot;NEW YORK YANKEES&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+The New York Yankees are a team in Major League Baseball (MLB) where legendary player Ichiro Suzuki played for two and a half seasons.</data>
+      <data key="d2">36e49d151fd8205750a0541edf5ca785,6a96233e1ff9f1c6290eeee91b430604</data>
+    </node>
+    <node id="&quot;ORIX BLUE WAVE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Orix Blue Wave is a team in Nippon Professional Baseball (NPB) where Ichiro Suzuki began his career."</data>
+      <data key="d2">36e49d151fd8205750a0541edf5ca785</data>
+    </node>
+    <node id="&quot;SEATTLE MARINERS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Seattle Mariners is a team in Major League Baseball (MLB) where Ichiro Suzuki played for 12 seasons."</data>
+      <data key="d2">36e49d151fd8205750a0541edf5ca785</data>
+    </node>
+    <node id="&quot;MIAMI MARLINS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Miami Marlins is a team in MLB where Ichiro Suzuki played for three seasons."</data>
+      <data key="d2">36e49d151fd8205750a0541edf5ca785</data>
+    </node>
+    <node id="&quot;NIPPON PROFESSIONAL BASEBALL (NPB)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Nippon Professional Baseball (NPB) is the top-level professional baseball league in Japan where Ichiro Suzuki began his career."</data>
+      <data key="d2">36e49d151fd8205750a0541edf5ca785</data>
+    </node>
+    <node id="&quot;ICHIRO SUZUKI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">36e49d151fd8205750a0541edf5ca785</data>
+    </node>
+    <node id="&quot;BARRY BONDS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Barry Bonds is a baseball player who won the MVP award seven times in the MLB."</data>
+      <data key="d2">e1de46c2b0ff709227c82e6d3b026411</data>
+    </node>
+    <node id="&quot;MARK MESSIER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mark Messier is a hockey player and teammate of Wayne Gretzky on the Edmonton Oilers."</data>
+      <data key="d2">e1de46c2b0ff709227c82e6d3b026411</data>
+    </node>
+    <node id="&quot;EDMONTON OILERS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Edmonton Oilers are a professional ice hockey team that Wayne Gretzky and Mark Messier played for."</data>
+      <data key="d2">e1de46c2b0ff709227c82e6d3b026411</data>
+    </node>
+    <node id="&quot;NATIONAL BASKETBALL ASSOCIATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The National Basketball Association is one of the four North American major professional leagues."</data>
+      <data key="d2">e1de46c2b0ff709227c82e6d3b026411</data>
+    </node>
+    <node id="&quot;NATIONAL FOOTBALL LEAGUE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The National Football League is one of the four North American major professional leagues."</data>
+      <data key="d2">e1de46c2b0ff709227c82e6d3b026411</data>
+    </node>
+    <node id="&quot;WAYNE GRETZKY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e1de46c2b0ff709227c82e6d3b026411</data>
+    </node>
+    <node id="&quot;DODGERS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b72d2b0f9535c8635dc0fe1edd66021d</data>
+    </node>
+    <node id="&quot;NL MVP AWARD WINNERS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b72d2b0f9535c8635dc0fe1edd66021d</data>
+    </node>
+    <node id="&quot;CY YOUNG AWARD WINNERS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b72d2b0f9535c8635dc0fe1edd66021d</data>
+    </node>
+    <node id="&quot;ROOKIE OF THE YEAR AWARD WINNERS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b72d2b0f9535c8635dc0fe1edd66021d</data>
+    </node>
+    <node id="&quot;PHILADELPHIA / KANSAS CITY / OAKLAND ATHLETICS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Philadelphia / Kansas City / Oakland Athletics are a baseball team that has played in 14 World Series and won 9."</data>
+      <data key="d2">f8ce4fb146d1c0776d74f4d14ab913f3</data>
+    </node>
+    <node id="&quot;BOSTON RED SOX&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Boston Red Sox are a baseball team that has played in 12 World Series and won 8, including the first World Series."</data>
+      <data key="d2">f8ce4fb146d1c0776d74f4d14ab913f3</data>
+    </node>
+    <node id="&quot;ST. LOUIS CARDINALS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The St. Louis Cardinals are a baseball team that has appeared in 19 World Series and won 11."</data>
+      <data key="d2">f8ce4fb146d1c0776d74f4d14ab913f3</data>
+    </node>
+    <node id="&quot;NEW YORK / SAN FRANCISCO GIANTS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The New York / San Francisco Giants are a baseball team that has played in 20 World Series and won 8."</data>
+      <data key="d2">f8ce4fb146d1c0776d74f4d14ab913f3</data>
+    </node>
+    <node id="&quot;BROOKLYN / LOS ANGELES DODGERS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Brooklyn / Los Angeles Dodgers are a baseball team that has appeared in 18 World Series and won 6."</data>
+      <data key="d2">f8ce4fb146d1c0776d74f4d14ab913f3</data>
+    </node>
+    <node id="&quot;CINCINNATI REDS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Cincinnati Reds are a baseball team that has appeared in 9 World Series and won 5."</data>
+      <data key="d2">f8ce4fb146d1c0776d74f4d14ab913f3</data>
+    </node>
+    <node id="&quot;DETROIT TIGERS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Detroit Tigers are a Major League Baseball (MLB) team that Miguel Cabrera plays for as their first baseman."</data>
+      <data key="d2">4d11aa061ab8b714239fbefbe3598f4e</data>
+    </node>
+    <node id="&quot;MIGUEL CABRERA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4d11aa061ab8b714239fbefbe3598f4e</data>
+    </node>
+    <node id="&quot;NBA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The National Basketball Association (NBA) is a professional sports league where Kobe Bryant played."</data>
+      <data key="d2">00482e73163f0fdccd792dec82bbf559</data>
+    </node>
+    <node id="&quot;TORONTO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Toronto is a city where Kobe Bryant had an 81-point performance against the Toronto team in 2006."</data>
+      <data key="d2">00482e73163f0fdccd792dec82bbf559</data>
+    </node>
+    <node id="&quot;CHAMBERLAIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Chamberlain is a former NBA player who holds the record for the highest points scored in a single game (100)."</data>
+      <data key="d2">00482e73163f0fdccd792dec82bbf559</data>
+    </node>
+    <node id="&quot;JORDAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jordan is a former NBA player who holds the record for most 50-point games."</data>
+      <data key="d2">00482e73163f0fdccd792dec82bbf559</data>
+    </node>
+    <node id="&quot;THE REDEEM TEAM&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Redeem Team refers to the U.S. men's basketball team that won a gold medal at the 2008 Summer Olympics."</data>
+      <data key="d2">00482e73163f0fdccd792dec82bbf559</data>
+    </node>
+    <node id="&quot;KOBE BRYANT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">00482e73163f0fdccd792dec82bbf559</data>
+    </node>
+    <node id="&quot;GEORGE SPRINGER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"George Springer is a baseball player who won the 2017 World Series MVP award."</data>
+      <data key="d2">f16052e94e1098102c0aadff1c6dc11c</data>
+    </node>
+    <node id="&quot;HOUSTON ASTROS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Houston Astros are a baseball team that won the 2017 World Series."</data>
+      <data key="d2">f16052e94e1098102c0aadff1c6dc11c</data>
+    </node>
+    <node id="&quot;WILLIE MAYS WORLD SERIES MVP AWARD&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f16052e94e1098102c0aadff1c6dc11c</data>
+    </node>
+    <node id="&quot;SUPER BOWL XXXVI&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Super Bowl XXXVI is one of the four Super Bowls where Brady was awarded MVP."</data>
+      <data key="d2">514a21d9ca254e6c937368a9d642c2e9</data>
+    </node>
+    <node id="&quot;SUPER BOWL XXXVIII&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Super Bowl XXXVIII is another Super Bowl where Brady was awarded MVP."</data>
+      <data key="d2">514a21d9ca254e6c937368a9d642c2e9</data>
+    </node>
+    <node id="&quot;SUPER BOWL XLIX&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Super Bowl XLIX is one of the four Super Bowls where Brady was awarded MVP."</data>
+      <data key="d2">514a21d9ca254e6c937368a9d642c2e9</data>
+    </node>
+    <node id="&quot;SUPER BOWL LI&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Super Bowl LI is one of the four Super Bowls where Brady was awarded MVP."</data>
+      <data key="d2">514a21d9ca254e6c937368a9d642c2e9</data>
+    </node>
+    <node id="&quot;BRADY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">514a21d9ca254e6c937368a9d642c2e9</data>
+    </node>
+    <node id="&quot;MLB NETWORK&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"MLB Network is a television network that airs MLB Tonight and other programs related to Major League Baseball."</data>
+      <data key="d2">88bffef2160505dd76573e79cc8b128a</data>
+    </node>
+    <node id="&quot;STUDIO 3&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"Studio 3 is a facility at the MLB Network headquarters in Secaucus, New Jersey, where MLB Tonight is taped live."</data>
+      <data key="d2">88bffef2160505dd76573e79cc8b128a</data>
+    </node>
+    <node id="&quot;SECAUCUS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Secaucus is a location in New Jersey where the MLB Network facility is situated."</data>
+      <data key="d2">88bffef2160505dd76573e79cc8b128a</data>
+    </node>
+    <node id="&quot;NEW JERSEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New Jersey is a state in the United States where Secaucus, the location of the MLB Network facility, is situated."</data>
+      <data key="d2">88bffef2160505dd76573e79cc8b128a</data>
+    </node>
+    <node id="&quot;STUDIO 42&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"Studio 42 is a facility where segments of MLB Tonight are taped."</data>
+      <data key="d2">88bffef2160505dd76573e79cc8b128a</data>
+    </node>
+    <node id="&quot;HOT STOVE&quot;">
+      <data key="d0">"PROGRAM"</data>
+      <data key="d1">"Hot Stove is a program that airs on MLB Network during the offseason, providing news and updates on Major League Baseball."</data>
+      <data key="d2">88bffef2160505dd76573e79cc8b128a</data>
+    </node>
+    <node id="&quot;SPRING TRAINING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Spring Training is an event in the Major League Baseball calendar that marks the beginning of the season."</data>
+      <data key="d2">88bffef2160505dd76573e79cc8b128a</data>
+    </node>
+    <node id="&quot;MLB TONIGHT&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">88bffef2160505dd76573e79cc8b128a</data>
+    </node>
+    <node id="&quot;BBWAA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">2534b3f54ab78122da1928c7a9aff448</data>
+    </node>
+    <edge source="&quot;AMERICAN LEAGUE&quot;" target="&quot;NATIONAL LEAGUE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The American League and National League are the two leagues in Major League Baseball (MLB), each with its own wild card teams."</data>
+      <data key="d5">6cd92408ff4a79880d27152e5ce77641</data>
+    </edge>
+    <edge source="&quot;AMERICAN LEAGUE&quot;" target="&quot;CLEVELAND INDIANS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Cleveland Indians are part of the American League in Major League Baseball."</data>
+      <data key="d5">7ba5d888b58e88c1fc31b7d0952eda43</data>
+    </edge>
+    <edge source="&quot;NATIONAL LEAGUE&quot;" target="&quot;CHICAGO CUBS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Chicago Cubs are part of the National League in Major League Baseball."</data>
+      <data key="d5">7ba5d888b58e88c1fc31b7d0952eda43</data>
+    </edge>
+    <edge source="&quot;NATIONAL LEAGUE&quot;" target="&quot;THE DODGERS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Dodgers are part of the National League, winning 21 pennants."</data>
+      <data key="d5">2e1dfe82f31956b1f698c65006ec486d</data>
+    </edge>
+    <edge source="&quot;DIVISION SERIES&quot;" target="&quot;WILD CARD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Division Series is the postseason tournament where wild card teams face division winners."</data>
+      <data key="d5">6cd92408ff4a79880d27152e5ce77641</data>
+    </edge>
+    <edge source="&quot;DIVISION SERIES&quot;" target="&quot;MLB WILD CARD GAME&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The winner of the MLB Wild Card Game advances to the Division Series."</data>
+      <data key="d5">6cd92408ff4a79880d27152e5ce77641</data>
+    </edge>
+    <edge source="&quot;MAJOR LEAGUE BASEBALL (MLB)&quot;" target="&quot;WILD CARD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Major League Baseball (MLB) instituted the wild card system in 1994 and modified it in 2012."</data>
+      <data key="d5">6cd92408ff4a79880d27152e5ce77641</data>
+    </edge>
+    <edge source="&quot;MAJOR LEAGUE BASEBALL (MLB)&quot;" target="&quot;BARRY BONDS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Barry Bonds played in Major League Baseball."</data>
+      <data key="d5">e1de46c2b0ff709227c82e6d3b026411</data>
+    </edge>
+    <edge source="&quot;MAJOR LEAGUE BASEBALL (MLB)&quot;" target="&quot;DETROIT TIGERS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Detroit Tigers are a team in Major League Baseball (MLB)."</data>
+      <data key="d5">4d11aa061ab8b714239fbefbe3598f4e</data>
+    </edge>
+    <edge source="&quot;MAJOR LEAGUE BASEBALL (MLB)&quot;" target="&quot;MIGUEL CABRERA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Miguel Cabrera has played in Major League Baseball (MLB) since his debut in 2003, achieving numerous awards and accolades."</data>
+      <data key="d5">4d11aa061ab8b714239fbefbe3598f4e</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."</data>
+      <data key="d5">00482e73163f0fdccd792dec82bbf559,2534b3f54ab78122da1928c7a9aff448,2e1dfe82f31956b1f698c65006ec486d,36e49d151fd8205750a0541edf5ca785,4d11aa061ab8b714239fbefbe3598f4e,4d449a64d7945bd132c610d396b5946e,514a21d9ca254e6c937368a9d642c2e9,6a6ef9b403b039b5207c33e209015a3f,6a96233e1ff9f1c6290eeee91b430604,6cd92408ff4a79880d27152e5ce77641,7ba5d888b58e88c1fc31b7d0952eda43,88bffef2160505dd76573e79cc8b128a,abd9d67188e53744ad169a1be7ac5bff,b4532eb99fa4cc35ce40a97f70ca43b8,b72d2b0f9535c8635dc0fe1edd66021d,e1de46c2b0ff709227c82e6d3b026411,f16052e94e1098102c0aadff1c6dc11c,f6cb34c96a17c414da92e7c59f4b7298,f8ce4fb146d1c0776d74f4d14ab913f3</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"Pima County is a county in Arizona."</data>
+      <data key="d5">00482e73163f0fdccd792dec82bbf559,2534b3f54ab78122da1928c7a9aff448,2e1dfe82f31956b1f698c65006ec486d,36e49d151fd8205750a0541edf5ca785,4d11aa061ab8b714239fbefbe3598f4e,4d449a64d7945bd132c610d396b5946e,514a21d9ca254e6c937368a9d642c2e9,6a6ef9b403b039b5207c33e209015a3f,6a96233e1ff9f1c6290eeee91b430604,6cd92408ff4a79880d27152e5ce77641,7ba5d888b58e88c1fc31b7d0952eda43,88bffef2160505dd76573e79cc8b128a,abd9d67188e53744ad169a1be7ac5bff,b4532eb99fa4cc35ce40a97f70ca43b8,b72d2b0f9535c8635dc0fe1edd66021d,e1de46c2b0ff709227c82e6d3b026411,f16052e94e1098102c0aadff1c6dc11c,f6cb34c96a17c414da92e7c59f4b7298,f8ce4fb146d1c0776d74f4d14ab913f3</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."</data>
+      <data key="d5">00482e73163f0fdccd792dec82bbf559,2534b3f54ab78122da1928c7a9aff448,2e1dfe82f31956b1f698c65006ec486d,36e49d151fd8205750a0541edf5ca785,4d11aa061ab8b714239fbefbe3598f4e,4d449a64d7945bd132c610d396b5946e,514a21d9ca254e6c937368a9d642c2e9,6a6ef9b403b039b5207c33e209015a3f,6a96233e1ff9f1c6290eeee91b430604,6cd92408ff4a79880d27152e5ce77641,7ba5d888b58e88c1fc31b7d0952eda43,88bffef2160505dd76573e79cc8b128a,abd9d67188e53744ad169a1be7ac5bff,b4532eb99fa4cc35ce40a97f70ca43b8,b72d2b0f9535c8635dc0fe1edd66021d,e1de46c2b0ff709227c82e6d3b026411,f16052e94e1098102c0aadff1c6dc11c,f6cb34c96a17c414da92e7c59f4b7298,f8ce4fb146d1c0776d74f4d14ab913f3</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"Arizona is a state in the United States."</data>
+      <data key="d5">00482e73163f0fdccd792dec82bbf559,2534b3f54ab78122da1928c7a9aff448,2e1dfe82f31956b1f698c65006ec486d,36e49d151fd8205750a0541edf5ca785,4d11aa061ab8b714239fbefbe3598f4e,4d449a64d7945bd132c610d396b5946e,514a21d9ca254e6c937368a9d642c2e9,6a6ef9b403b039b5207c33e209015a3f,6a96233e1ff9f1c6290eeee91b430604,6cd92408ff4a79880d27152e5ce77641,7ba5d888b58e88c1fc31b7d0952eda43,88bffef2160505dd76573e79cc8b128a,abd9d67188e53744ad169a1be7ac5bff,b4532eb99fa4cc35ce40a97f70ca43b8,b72d2b0f9535c8635dc0fe1edd66021d,e1de46c2b0ff709227c82e6d3b026411,f16052e94e1098102c0aadff1c6dc11c,f6cb34c96a17c414da92e7c59f4b7298,f8ce4fb146d1c0776d74f4d14ab913f3</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"Tucson is a city in Arizona."</data>
+      <data key="d5">00482e73163f0fdccd792dec82bbf559,2534b3f54ab78122da1928c7a9aff448,2e1dfe82f31956b1f698c65006ec486d,36e49d151fd8205750a0541edf5ca785,4d11aa061ab8b714239fbefbe3598f4e,4d449a64d7945bd132c610d396b5946e,514a21d9ca254e6c937368a9d642c2e9,6a6ef9b403b039b5207c33e209015a3f,6a96233e1ff9f1c6290eeee91b430604,6cd92408ff4a79880d27152e5ce77641,7ba5d888b58e88c1fc31b7d0952eda43,88bffef2160505dd76573e79cc8b128a,abd9d67188e53744ad169a1be7ac5bff,b4532eb99fa4cc35ce40a97f70ca43b8,b72d2b0f9535c8635dc0fe1edd66021d,e1de46c2b0ff709227c82e6d3b026411,f16052e94e1098102c0aadff1c6dc11c,f6cb34c96a17c414da92e7c59f4b7298,f8ce4fb146d1c0776d74f4d14ab913f3</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."</data>
+      <data key="d5">00482e73163f0fdccd792dec82bbf559,2534b3f54ab78122da1928c7a9aff448,2e1dfe82f31956b1f698c65006ec486d,36e49d151fd8205750a0541edf5ca785,4d11aa061ab8b714239fbefbe3598f4e,4d449a64d7945bd132c610d396b5946e,514a21d9ca254e6c937368a9d642c2e9,6a6ef9b403b039b5207c33e209015a3f,6a96233e1ff9f1c6290eeee91b430604,6cd92408ff4a79880d27152e5ce77641,7ba5d888b58e88c1fc31b7d0952eda43,88bffef2160505dd76573e79cc8b128a,abd9d67188e53744ad169a1be7ac5bff,b4532eb99fa4cc35ce40a97f70ca43b8,b72d2b0f9535c8635dc0fe1edd66021d,e1de46c2b0ff709227c82e6d3b026411,f16052e94e1098102c0aadff1c6dc11c,f6cb34c96a17c414da92e7c59f4b7298,f8ce4fb146d1c0776d74f4d14ab913f3</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">00482e73163f0fdccd792dec82bbf559,2534b3f54ab78122da1928c7a9aff448,2e1dfe82f31956b1f698c65006ec486d,36e49d151fd8205750a0541edf5ca785,4d11aa061ab8b714239fbefbe3598f4e,4d449a64d7945bd132c610d396b5946e,514a21d9ca254e6c937368a9d642c2e9,6a6ef9b403b039b5207c33e209015a3f,6a96233e1ff9f1c6290eeee91b430604,6cd92408ff4a79880d27152e5ce77641,7ba5d888b58e88c1fc31b7d0952eda43,88bffef2160505dd76573e79cc8b128a,abd9d67188e53744ad169a1be7ac5bff,b4532eb99fa4cc35ce40a97f70ca43b8,b72d2b0f9535c8635dc0fe1edd66021d,e1de46c2b0ff709227c82e6d3b026411,f16052e94e1098102c0aadff1c6dc11c,f6cb34c96a17c414da92e7c59f4b7298,f8ce4fb146d1c0776d74f4d14ab913f3</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."</data>
+      <data key="d5">00482e73163f0fdccd792dec82bbf559,2534b3f54ab78122da1928c7a9aff448,2e1dfe82f31956b1f698c65006ec486d,36e49d151fd8205750a0541edf5ca785,4d11aa061ab8b714239fbefbe3598f4e,4d449a64d7945bd132c610d396b5946e,514a21d9ca254e6c937368a9d642c2e9,6a6ef9b403b039b5207c33e209015a3f,6a96233e1ff9f1c6290eeee91b430604,6cd92408ff4a79880d27152e5ce77641,7ba5d888b58e88c1fc31b7d0952eda43,88bffef2160505dd76573e79cc8b128a,abd9d67188e53744ad169a1be7ac5bff,b4532eb99fa4cc35ce40a97f70ca43b8,b72d2b0f9535c8635dc0fe1edd66021d,e1de46c2b0ff709227c82e6d3b026411,f16052e94e1098102c0aadff1c6dc11c,f6cb34c96a17c414da92e7c59f4b7298,f8ce4fb146d1c0776d74f4d14ab913f3</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">19.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">00482e73163f0fdccd792dec82bbf559,2534b3f54ab78122da1928c7a9aff448,2e1dfe82f31956b1f698c65006ec486d,36e49d151fd8205750a0541edf5ca785,4d11aa061ab8b714239fbefbe3598f4e,4d449a64d7945bd132c610d396b5946e,514a21d9ca254e6c937368a9d642c2e9,6a6ef9b403b039b5207c33e209015a3f,6a96233e1ff9f1c6290eeee91b430604,6cd92408ff4a79880d27152e5ce77641,7ba5d888b58e88c1fc31b7d0952eda43,88bffef2160505dd76573e79cc8b128a,abd9d67188e53744ad169a1be7ac5bff,b4532eb99fa4cc35ce40a97f70ca43b8,b72d2b0f9535c8635dc0fe1edd66021d,e1de46c2b0ff709227c82e6d3b026411,f16052e94e1098102c0aadff1c6dc11c,f6cb34c96a17c414da92e7c59f4b7298,f8ce4fb146d1c0776d74f4d14ab913f3</data>
+    </edge>
+    <edge source="&quot;NATIONAL LEAGUE (NL)&quot;" target="&quot;ALL-STAR GAME&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The National League (NL) participates in the All-Star Game and has had several winning streaks."</data>
+      <data key="d5">f6cb34c96a17c414da92e7c59f4b7298</data>
+    </edge>
+    <edge source="&quot;MAJOR LEAGUE BASEBALL&quot;" target="&quot;ALL-STAR GAME&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Major League Baseball hosts the annual All-Star Game, featuring teams from the American League and National League."</data>
+      <data key="d5">f6cb34c96a17c414da92e7c59f4b7298</data>
+    </edge>
+    <edge source="&quot;MAJOR LEAGUE BASEBALL&quot;" target="&quot;WILLIE MAYS WORLD SERIES MVP AWARD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Major League Baseball presents the Willie Mays World Series MVP Award."</data>
+      <data key="d5">f16052e94e1098102c0aadff1c6dc11c</data>
+    </edge>
+    <edge source="&quot;AMERICAN LEAGUE (AL)&quot;" target="&quot;ALL-STAR GAME&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The American League (AL) participates in and leads the series of the All-Star Game."</data>
+      <data key="d5">f6cb34c96a17c414da92e7c59f4b7298</data>
+    </edge>
+    <edge source="&quot;CLEVELAND INDIANS&quot;" target="&quot;2017&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Cleveland Indians achieved their 22-game winning streak in 2017."</data>
+      <data key="d5">7ba5d888b58e88c1fc31b7d0952eda43</data>
+    </edge>
+    <edge source="&quot;CHICAGO CUBS&quot;" target="&quot;MLB HISTORY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Chicago Cubs franchise has won 21 games twice, which is a notable event in MLB history."</data>
+      <data key="d5">6a6ef9b403b039b5207c33e209015a3f</data>
+    </edge>
+    <edge source="&quot;CHICAGO CUBS&quot;" target="&quot;1935&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Chicago Cubs set the National League record for consecutive wins without a tie in 1935."</data>
+      <data key="d5">7ba5d888b58e88c1fc31b7d0952eda43</data>
+    </edge>
+    <edge source="&quot;ROYAL PERTH YACHT CLUB&quot;" target="&quot;AUSTRALIA II&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Royal Perth Yacht Club fielded the Australia II, which won the America's Cup in 1983."</data>
+      <data key="d5">abd9d67188e53744ad169a1be7ac5bff</data>
+    </edge>
+    <edge source="&quot;JOHN BERTRAND&quot;" target="&quot;AUSTRALIA II&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"John Bertrand was the skipper of the Australia II, which won the America's Cup in 1983."</data>
+      <data key="d5">abd9d67188e53744ad169a1be7ac5bff</data>
+    </edge>
+    <edge source="&quot;DENNIS CONNER&quot;" target="&quot;LIBERTY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Dennis Conner was the skipper of the defender Liberty, which lost to Australia II in the 1983 America's Cup."</data>
+      <data key="d5">abd9d67188e53744ad169a1be7ac5bff</data>
+    </edge>
+    <edge source="&quot;NEW YORK YACHT CLUB&quot;" target="&quot;AMERICA'S CUP&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The New York Yacht Club had successfully defended the America's Cup for 132 years before losing to an Australian syndicate."</data>
+      <data key="d5">abd9d67188e53744ad169a1be7ac5bff</data>
+    </edge>
+    <edge source="&quot;THE DODGERS&quot;" target="&quot;WORLD SERIES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Dodgers have won six World Series titles."</data>
+      <data key="d5">2e1dfe82f31956b1f698c65006ec486d</data>
+    </edge>
+    <edge source="&quot;WORLD SERIES&quot;" target="&quot;HOUSTON ASTROS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Houston Astros won the 2017 World Series."</data>
+      <data key="d5">f16052e94e1098102c0aadff1c6dc11c</data>
+    </edge>
+    <edge source="&quot;WORLD SERIES&quot;" target="&quot;BBWAA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The BBWAA announces the MVP results after the World Series."</data>
+      <data key="d5">2534b3f54ab78122da1928c7a9aff448</data>
+    </edge>
+    <edge source="&quot;TAIWAN BEER CLUB&quot;" target="&quot;LIN CHIH-CHIEH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lin Chih-chieh plays for the Taiwan Beer club and has won several awards with the team."</data>
+      <data key="d5">4d449a64d7945bd132c610d396b5946e</data>
+    </edge>
+    <edge source="&quot;SUPER BASKETBALL LEAGUE (SBL)&quot;" target="&quot;LIN CHIH-CHIEH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Lin Chih-chieh participates in the Super Basketball League (SBL) as a player for the Taiwan Beer club."</data>
+      <data key="d5">4d449a64d7945bd132c610d396b5946e</data>
+    </edge>
+    <edge source="&quot;HUALIEN COUNTY&quot;" target="&quot;TAIWAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hualien County is located in Taiwan, which is Lin Chih-chieh's country of origin."</data>
+      <data key="d5">4d449a64d7945bd132c610d396b5946e</data>
+    </edge>
+    <edge source="&quot;BILL BELICHICK&quot;" target="&quot;THE PATRIOTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bill Belichick is the head coach of The Patriots."</data>
+      <data key="d5">b4532eb99fa4cc35ce40a97f70ca43b8</data>
+    </edge>
+    <edge source="&quot;BILL BELICHICK&quot;" target="&quot;TOM BRADY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bill Belichick and Tom Brady form a successful head coach-quarterback tandem that has led The Patriots to numerous victories."</data>
+      <data key="d5">b4532eb99fa4cc35ce40a97f70ca43b8</data>
+    </edge>
+    <edge source="&quot;TOM BRADY&quot;" target="&quot;THE PATRIOTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Tom Brady is the quarterback of The Patriots."</data>
+      <data key="d5">b4532eb99fa4cc35ce40a97f70ca43b8</data>
+    </edge>
+    <edge source="&quot;NFL&quot;" target="&quot;BRADY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Brady has played in the NFL and holds multiple records and accolades."</data>
+      <data key="d5">514a21d9ca254e6c937368a9d642c2e9</data>
+    </edge>
+    <edge source="&quot;SUPER BOWL&quot;" target="&quot;THE PATRIOTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Patriots have appeared in nine Super Bowls, winning five of them."</data>
+      <data key="d5">b4532eb99fa4cc35ce40a97f70ca43b8</data>
+    </edge>
+    <edge source="&quot;FRANK FARRELL&quot;" target="&quot;NEW YORK YANKEES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Frank Farrell is one of the founders of the New York Yankees, purchasing the franchise and moving it to New York City."</data>
+      <data key="d5">6a96233e1ff9f1c6290eeee91b430604</data>
+    </edge>
+    <edge source="&quot;BILL DEVERY&quot;" target="&quot;NEW YORK YANKEES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Bill Devery is one of the founders of the New York Yankees, purchasing the franchise and moving it to New York City."</data>
+      <data key="d5">6a96233e1ff9f1c6290eeee91b430604</data>
+    </edge>
+    <edge source="&quot;NEW YORK CITY&quot;" target="&quot;NEW YORK YANKEES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The New York Yankees are based in New York City, specifically in the Bronx borough."</data>
+      <data key="d5">6a96233e1ff9f1c6290eeee91b430604</data>
+    </edge>
+    <edge source="&quot;BALTIMORE ORIOLES&quot;" target="&quot;NEW YORK YANKEES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Baltimore Orioles were previously located in New York City before moving to Baltimore, while the New York Yankees remained in New York City."</data>
+      <data key="d5">6a96233e1ff9f1c6290eeee91b430604</data>
+    </edge>
+    <edge source="&quot;NEW YORK YANKEES&quot;" target="&quot;ICHIRO SUZUKI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ichiro Suzuki played for two and a half seasons with the New York Yankees."</data>
+      <data key="d5">36e49d151fd8205750a0541edf5ca785</data>
+    </edge>
+    <edge source="&quot;ORIX BLUE WAVE&quot;" target="&quot;ICHIRO SUZUKI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ichiro Suzuki began his career with Orix Blue Wave."</data>
+      <data key="d5">36e49d151fd8205750a0541edf5ca785</data>
+    </edge>
+    <edge source="&quot;SEATTLE MARINERS&quot;" target="&quot;ICHIRO SUZUKI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ichiro Suzuki played for 12 seasons with the Seattle Mariners."</data>
+      <data key="d5">36e49d151fd8205750a0541edf5ca785</data>
+    </edge>
+    <edge source="&quot;MIAMI MARLINS&quot;" target="&quot;ICHIRO SUZUKI&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Ichiro Suzuki played for three seasons with the Miami Marlins."</data>
+      <data key="d5">36e49d151fd8205750a0541edf5ca785</data>
+    </edge>
+    <edge source="&quot;MARK MESSIER&quot;" target="&quot;EDMONTON OILERS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mark Messier played for the Edmonton Oilers."</data>
+      <data key="d5">e1de46c2b0ff709227c82e6d3b026411</data>
+    </edge>
+    <edge source="&quot;EDMONTON OILERS&quot;" target="&quot;WAYNE GRETZKY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Wayne Gretzky played for the Edmonton Oilers."</data>
+      <data key="d5">e1de46c2b0ff709227c82e6d3b026411</data>
+    </edge>
+    <edge source="&quot;DODGERS&quot;" target="&quot;NL MVP AWARD WINNERS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Dodgers have had 11 NL MVP award winners who have won a total of 13 MVP Awards."</data>
+      <data key="d5">b72d2b0f9535c8635dc0fe1edd66021d</data>
+    </edge>
+    <edge source="&quot;DODGERS&quot;" target="&quot;CY YOUNG AWARD WINNERS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Dodgers have had eight Cy Young Award winners who have won a total of twelve Cy Young Awards."</data>
+      <data key="d5">b72d2b0f9535c8635dc0fe1edd66021d</data>
+    </edge>
+    <edge source="&quot;DODGERS&quot;" target="&quot;ROOKIE OF THE YEAR AWARD WINNERS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Dodgers have produced 18 Rookie of the Year Award winners, including four consecutive from 1979 to 1982 and five consecutive from 1992 to 1996."</data>
+      <data key="d5">b72d2b0f9535c8635dc0fe1edd66021d</data>
+    </edge>
+    <edge source="&quot;DETROIT TIGERS&quot;" target="&quot;MIGUEL CABRERA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Miguel Cabrera plays for the Detroit Tigers as their first baseman."</data>
+      <data key="d5">4d11aa061ab8b714239fbefbe3598f4e</data>
+    </edge>
+    <edge source="&quot;NBA&quot;" target="&quot;KOBE BRYANT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Kobe Bryant is a player in the NBA league with numerous achievements and records."</data>
+      <data key="d5">00482e73163f0fdccd792dec82bbf559</data>
+    </edge>
+    <edge source="&quot;NBA&quot;" target="&quot;CHAMBERLAIN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Chamberlain is a former NBA player who holds the record for the highest points scored in a single game."</data>
+      <data key="d5">00482e73163f0fdccd792dec82bbf559</data>
+    </edge>
+    <edge source="&quot;NBA&quot;" target="&quot;JORDAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jordan is a former NBA player who holds the record for most 50-point games."</data>
+      <data key="d5">00482e73163f0fdccd792dec82bbf559</data>
+    </edge>
+    <edge source="&quot;TORONTO&quot;" target="&quot;KOBE BRYANT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Kobe Bryant had an 81-point performance against Toronto in 2006."</data>
+      <data key="d5">00482e73163f0fdccd792dec82bbf559</data>
+    </edge>
+    <edge source="&quot;THE REDEEM TEAM&quot;" target="&quot;KOBE BRYANT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Kobe Bryant was a member of The Redeem Team that won a gold medal at the 2008 Summer Olympics."</data>
+      <data key="d5">00482e73163f0fdccd792dec82bbf559</data>
+    </edge>
+    <edge source="&quot;GEORGE SPRINGER&quot;" target="&quot;WILLIE MAYS WORLD SERIES MVP AWARD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"George Springer won the Willie Mays World Series MVP Award in 2017."</data>
+      <data key="d5">f16052e94e1098102c0aadff1c6dc11c</data>
+    </edge>
+    <edge source="&quot;SUPER BOWL XXXVI&quot;" target="&quot;BRADY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Brady was awarded MVP at Super Bowl XXXVI."</data>
+      <data key="d5">514a21d9ca254e6c937368a9d642c2e9</data>
+    </edge>
+    <edge source="&quot;SUPER BOWL XXXVIII&quot;" target="&quot;BRADY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Brady was awarded MVP at Super Bowl XXXVIII."</data>
+      <data key="d5">514a21d9ca254e6c937368a9d642c2e9</data>
+    </edge>
+    <edge source="&quot;SUPER BOWL XLIX&quot;" target="&quot;BRADY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Brady was awarded MVP at Super Bowl XLIX."</data>
+      <data key="d5">514a21d9ca254e6c937368a9d642c2e9</data>
+    </edge>
+    <edge source="&quot;SUPER BOWL LI&quot;" target="&quot;BRADY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Brady was awarded MVP at Super Bowl LI."</data>
+      <data key="d5">514a21d9ca254e6c937368a9d642c2e9</data>
+    </edge>
+    <edge source="&quot;MLB NETWORK&quot;" target="&quot;MLB TONIGHT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"MLB Tonight airs on MLB Network, indicating a strong association between the program and the network."</data>
+      <data key="d5">88bffef2160505dd76573e79cc8b128a</data>
+    </edge>
+    <edge source="&quot;STUDIO 3&quot;" target="&quot;SECAUCUS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Studio 3 is located in Secaucus, New Jersey, which is the headquarters of MLB Network."</data>
+      <data key="d5">88bffef2160505dd76573e79cc8b128a</data>
+    </edge>
+    <edge source="&quot;HOT STOVE&quot;" target="&quot;MLB TONIGHT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"MLB Tonight and Hot Stove are both programs that air on MLB Network, with Hot Stove replacing MLB Tonight during the offseason."</data>
+      <data key="d5">88bffef2160505dd76573e79cc8b128a</data>
+    </edge>
+  </graph>
+</graphml>

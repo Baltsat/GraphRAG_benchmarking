@@ -1,0 +1,1076 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="id" attr.type="string" />
+  <key id="d6" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d5" for="node" attr.name="degree" attr.type="long" />
+  <key id="d4" for="node" attr.name="level" attr.type="long" />
+  <key id="d3" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;PASSO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Passo is a subcompact car produced by Daihatsu since 2004."</data>
+      <data key="d2">0decd243d5dd20d58e07404b90c9d47b</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">0</data>
+      <data key="d7">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;TOYOTA COROLLA STORE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Toyota Corolla Store is a Japanese dealership that sells the Passo."</data>
+      <data key="d2">0decd243d5dd20d58e07404b90c9d47b</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">1</data>
+      <data key="d7">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;JAPAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+Japan is a country where several notable automotive events and companies are based. It was one of the countries where the first generation of Honda MDX was imported. Additionally, Japan is home to Daihatsu, a manufacturer that produces vehicles such as the Passo and the Daihatsu Charmant, which are sold in the country.</data>
+      <data key="d2">0decd243d5dd20d58e07404b90c9d47b,23969f84b9788f22412d2abd81354fbe,88929a48e25d32771914103a677fe5c2</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">2</data>
+      <data key="d7">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;DAIHATSU&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Daihatsu is a Japanese automobile manufacturer whose Charade model was used as the basis for Automeccanica's Zebra model.</data>
+      <data key="d2">0decd243d5dd20d58e07404b90c9d47b,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">3</data>
+      <data key="d7">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d5">2</data>
+      <data key="d6">4</data>
+      <data key="d7">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d5">1</data>
+      <data key="d6">5</data>
+      <data key="d7">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d5">4</data>
+      <data key="d6">6</data>
+      <data key="d7">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d5">1</data>
+      <data key="d6">7</data>
+      <data key="d7">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d5">1</data>
+      <data key="d6">8</data>
+      <data key="d7">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d5">2</data>
+      <data key="d6">9</data>
+      <data key="d7">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d5">1</data>
+      <data key="d6">10</data>
+      <data key="d7">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d5">1</data>
+      <data key="d6">11</data>
+      <data key="d7">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d5">0</data>
+      <data key="d6">12</data>
+      <data key="d7">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d5">5</data>
+      <data key="d6">13</data>
+      <data key="d7">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;LIGA LEUMIT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Liga Leumit is Israel's second football division where Hapoel Rishon LeZion F.C. currently plays."</data>
+      <data key="d2">4cc8798fe0892727af7500b75b9e9022</data>
+      <data key="d5">1</data>
+      <data key="d6">14</data>
+      <data key="d7">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;HABERFELD STADIUM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Haberfeld Stadium is the location where Hapoel Rishon LeZion F.C. hosts its home matches."</data>
+      <data key="d2">4cc8798fe0892727af7500b75b9e9022</data>
+      <data key="d5">1</data>
+      <data key="d6">15</data>
+      <data key="d7">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;ISRAEL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Israel is the country where Hapoel Rishon LeZion F.C. is based and plays its football matches."</data>
+      <data key="d2">4cc8798fe0892727af7500b75b9e9022</data>
+      <data key="d5">1</data>
+      <data key="d6">16</data>
+      <data key="d7">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;HAPOEL RISHON LEZION F.C.&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4cc8798fe0892727af7500b75b9e9022</data>
+      <data key="d5">3</data>
+      <data key="d6">17</data>
+      <data key="d7">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;JODY ALLEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jody Allen is a co-owner and executive producer of Vulcan Productions, a television and film production company."</data>
+      <data key="d2">f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d5">1</data>
+      <data key="d6">18</data>
+      <data key="d7">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;VULCAN PRODUCTIONS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Vulcan Productions is a television and film production company headquartered in Seattle, producing award-winning films and documentaries."</data>
+      <data key="d2">f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d5">4</data>
+      <data key="d6">19</data>
+      <data key="d7">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;SEATTLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Seattle is the location of Vulcan Productions' headquarters."</data>
+      <data key="d2">f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d5">1</data>
+      <data key="d6">20</data>
+      <data key="d7">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;VULCAN INC.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Vulcan Inc. is the parent company of Vulcan Productions, encompassing its entertainment division."</data>
+      <data key="d2">f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d5">1</data>
+      <data key="d6">21</data>
+      <data key="d7">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;WE THE ECONOMY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"We The Economy is a film produced by Vulcan Productions that won 12 awards in 2014, including a Webby award."</data>
+      <data key="d2">f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d5">0</data>
+      <data key="d6">22</data>
+      <data key="d7">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;ALLEN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d5">1</data>
+      <data key="d6">23</data>
+      <data key="d7">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;AUTOKINITOVIOMIHANIA ELLADOS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Autokinitoviomihania Ellados was a Greek car industry company founded in 1975, assembling Italian Fissore models and Fiat products."</data>
+      <data key="d2">34b7d6fcfe41f63f13919a3bd18e00c1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">24</data>
+      <data key="d7">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;FIAT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Fiat is an Italian automobile manufacturer whose products were assembled by Autokinitoviomihania Ellados."</data>
+      <data key="d2">34b7d6fcfe41f63f13919a3bd18e00c1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">25</data>
+      <data key="d7">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;LADA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Lada is a Soviet automobile manufacturer whose Niva model was produced under license by Automeccanica."</data>
+      <data key="d2">34b7d6fcfe41f63f13919a3bd18e00c1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">26</data>
+      <data key="d7">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;THIVA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Thiva is a location in Greece where Autokinitoviomihania Ellados had a factory acquired by Automeccanica in 1988."</data>
+      <data key="d2">34b7d6fcfe41f63f13919a3bd18e00c1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">27</data>
+      <data key="d7">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;GREECE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Greece is the country where Automeccanica and Autokinitoviomihania Ellados were based."</data>
+      <data key="d2">34b7d6fcfe41f63f13919a3bd18e00c1</data>
+      <data key="d5">0</data>
+      <data key="d6">28</data>
+      <data key="d7">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;AUTOMECCANICA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">34b7d6fcfe41f63f13919a3bd18e00c1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">29</data>
+      <data key="d7">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;CBS RECORDS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"CBS Records is a potential new name for the record company subsidiary of the Columbia Broadcasting System."</data>
+      <data key="d2">bee601dd72aae2e226339a7ad630df52</data>
+      <data key="d5">1</data>
+      <data key="d6">30</data>
+      <data key="d7">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;COLUMBIA BROADCASTING SYSTEM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Columbia Broadcasting System is a global operation that owns a record company subsidiary."</data>
+      <data key="d2">bee601dd72aae2e226339a7ad630df52</data>
+      <data key="d5">2</data>
+      <data key="d6">31</data>
+      <data key="d7">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&quot;COLUMBIA RECORDS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">bee601dd72aae2e226339a7ad630df52</data>
+      <data key="d5">1</data>
+      <data key="d6">32</data>
+      <data key="d7">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&quot;BRITISH MANUFACTURER BRISTOL AEROPLANE CO.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Bristol Aeroplane Co. is a British manufacturer that produced the Bristol 406 luxury car between 1958 and 1961."</data>
+      <data key="d2">842ef85bbb0945340ce6617045412ebe</data>
+      <data key="d5">2</data>
+      <data key="d6">33</data>
+      <data key="d7">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&quot;BRISTOL CARS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Bristol Cars is a car division that emerged from Bristol Aeroplane's car manufacturing activities."</data>
+      <data key="d2">842ef85bbb0945340ce6617045412ebe</data>
+      <data key="d5">1</data>
+      <data key="d6">34</data>
+      <data key="d7">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&quot;BRISTOL 406&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">842ef85bbb0945340ce6617045412ebe</data>
+      <data key="d5">1</data>
+      <data key="d6">35</data>
+      <data key="d7">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&quot;CORONA AUSTRALIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Corona Australis is a constellation where RX J1856.5&#8722;3754, a nearby neutron star, is located."</data>
+      <data key="d2">0866838641c5444f6c92a2ce9e344afc</data>
+      <data key="d5">0</data>
+      <data key="d6">36</data>
+      <data key="d7">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&quot;HYUNDAI MOTOR GROUP&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Hyundai Motor Group is a South Korean vehicle manufacturer and parent company of Genesis Motors."</data>
+      <data key="d2">4e638e0a2a773c833a9705711df5998a</data>
+      <data key="d5">2</data>
+      <data key="d6">37</data>
+      <data key="d7">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&quot;HYUNDAI GENESIS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Hyundai Genesis was a plan for a new luxury sedan announced in 2004, which led to the creation of the Genesis brand."</data>
+      <data key="d2">4e638e0a2a773c833a9705711df5998a</data>
+      <data key="d5">1</data>
+      <data key="d6">38</data>
+      <data key="d7">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&quot;SOUTH KOREA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"South Korea is the country where Hyundai Motor Group is based."</data>
+      <data key="d2">4e638e0a2a773c833a9705711df5998a</data>
+      <data key="d5">1</data>
+      <data key="d6">39</data>
+      <data key="d7">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <node id="&quot;GENESIS MOTORS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">4e638e0a2a773c833a9705711df5998a</data>
+      <data key="d5">2</data>
+      <data key="d6">40</data>
+      <data key="d7">3ce7c210a21b4deebad7cc9308148d86</data>
+    </node>
+    <node id="&quot;TOYOTA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Toyota is a Japanese company. It has provided engines for the Daihatsu Charmant, and its Corolla model served as a basis for the Charmant.</data>
+      <data key="d2">23969f84b9788f22412d2abd81354fbe,e9953f3e0560f4942d913a0acc292d3e</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">41</data>
+      <data key="d7">d64ed762ea924caa95c8d06f072a9a96</data>
+    </node>
+    <node id="&quot;DAIHATSU CHARMANT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Daihatsu Charmant is a subcompact sedan built by Daihatsu, with model changes paralleling those of the Toyota Corolla."</data>
+      <data key="d2">23969f84b9788f22412d2abd81354fbe</data>
+      <data key="d5">1</data>
+      <data key="d6">42</data>
+      <data key="d7">adf4ee3fbe9b4d0381044838c4f889c8</data>
+    </node>
+    <node id="&quot;TOYOTA COROLLA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">23969f84b9788f22412d2abd81354fbe</data>
+      <data key="d5">1</data>
+      <data key="d6">43</data>
+      <data key="d7">32ee140946e5461f9275db664dc541a5</data>
+    </node>
+    <node id="&quot;NISSAN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Nissan, formerly known as Datsun, is a Japanese automaker that introduced larger cars with added amenities, and established its luxury division, Infiniti."</data>
+      <data key="d2">e9953f3e0560f4942d913a0acc292d3e</data>
+      <data key="d5">1</data>
+      <data key="d6">44</data>
+      <data key="d7">c160b9cb27d6408ba6ab20214a2f3f81</data>
+    </node>
+    <node id="&quot;HONDA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Honda is a Japanese automaker that has been affected by the 1981 voluntary export restraints. As a result, it opened a US assembly plant and established its luxury division, Acura. Honda produces various vehicles through Acura, including the Acura MDX, a luxury crossover vehicle, and the Acura RL.</data>
+      <data key="d2">10964a732b6fdcad018c8f176bd6a882,88929a48e25d32771914103a677fe5c2,e9953f3e0560f4942d913a0acc292d3e</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">5</data>
+      <data key="d6">45</data>
+      <data key="d7">23527cd679ff4d5a988d52e7cd056078</data>
+    </node>
+    <node id="&quot;ACURA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Acura is the luxury division of Honda, established to distinguish itself from its mass-market brand."</data>
+      <data key="d2">e9953f3e0560f4942d913a0acc292d3e</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">46</data>
+      <data key="d7">f1c6eed066f24cbdb376b910fce29ed4</data>
+    </node>
+    <node id="&quot;LEXUS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Lexus is the luxury division of Toyota, established to distinguish itself from its mass-market brand."</data>
+      <data key="d2">e9953f3e0560f4942d913a0acc292d3e</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">47</data>
+      <data key="d7">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+    </node>
+    <node id="&quot;INFINITI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Infiniti is the luxury division of Nissan, established to distinguish itself from its mass-market brand."</data>
+      <data key="d2">e9953f3e0560f4942d913a0acc292d3e</data>
+      <data key="d5">1</data>
+      <data key="d6">48</data>
+      <data key="d7">147c038aef3e4422acbbc5f7938c4ab8</data>
+    </node>
+    <node id="&quot;MCCRORY STORES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"McCrory Stores is a chain of five and dime stores founded by John Graham McCrorey."</data>
+      <data key="d2">0cb60e8e7b36db422df732fc429fb938</data>
+      <data key="d5">2</data>
+      <data key="d6">49</data>
+      <data key="d7">b7702b90c7f24190b864e8c6e64612a5</data>
+    </node>
+    <node id="&quot;SCOTTSDALE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Scottsdale, Pennsylvania is the location where the first McCrory store opened in 1882."</data>
+      <data key="d2">0cb60e8e7b36db422df732fc429fb938</data>
+      <data key="d5">1</data>
+      <data key="d6">50</data>
+      <data key="d7">de6fa24480894518ab3cbcb66f739266</data>
+    </node>
+    <node id="&quot;JOHN GRAHAM MCCROREY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0cb60e8e7b36db422df732fc429fb938</data>
+      <data key="d5">1</data>
+      <data key="d6">51</data>
+      <data key="d7">6fae5ee1a831468aa585a1ea09095998</data>
+    </node>
+    <node id="&quot;AUSTRALIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Australia is a country where the first generation of Honda MDX was imported."</data>
+      <data key="d2">88929a48e25d32771914103a677fe5c2</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">52</data>
+      <data key="d7">ef32c4b208d041cc856f6837915dc1b0</data>
+    </node>
+    <node id="&quot;LEXUS RX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Lexus RX is a luxury crossover vehicle that offers only two rows of seats and ranks as the best-selling luxury crossover."</data>
+      <data key="d2">88929a48e25d32771914103a677fe5c2</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">53</data>
+      <data key="d7">07b2425216bd4f0aa4e079827cb48ef5</data>
+    </node>
+    <node id="&quot;ACURA MDX&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">88929a48e25d32771914103a677fe5c2</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">54</data>
+      <data key="d7">2670deebfa3f4d69bb82c28ab250a209</data>
+    </node>
+    <node id="&quot;VOLKSWAGEN DERBY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Volkswagen Derby is a sedan version of the Volkswagen Polo Mk2."</data>
+      <data key="d2">487193559108c8818c9a812fa248b39d</data>
+      <data key="d5">1</data>
+      <data key="d6">55</data>
+      <data key="d7">404309e89a5241d6bff42c05a45df206</data>
+    </node>
+    <node id="&quot;VOLKSWAGEN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Volkswagen is an automobile manufacturer that produced the Volkswagen Polo Mk2 and Volkswagen Derby."</data>
+      <data key="d2">487193559108c8818c9a812fa248b39d</data>
+      <data key="d5">2</data>
+      <data key="d6">56</data>
+      <data key="d7">b785a9025069417f94950ad231bb1441</data>
+    </node>
+    <node id="&quot;VOLKSWAGEN POLO MK2&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">487193559108c8818c9a812fa248b39d</data>
+      <data key="d5">1</data>
+      <data key="d6">57</data>
+      <data key="d7">3b6cd96a27304614850709aba1c9598b</data>
+    </node>
+    <node id="&quot;ACURA LEGEND&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Acura Legend is a predecessor to the Acura RL and was also manufactured by Acura division of Honda."</data>
+      <data key="d2">10964a732b6fdcad018c8f176bd6a882</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">58</data>
+      <data key="d7">d54956b79dd147f894b67a8b97dcbef0</data>
+    </node>
+    <node id="&quot;ACURA RLX&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Acura RLX is the successor to the Acura RL, manufactured by Acura division of Honda."</data>
+      <data key="d2">10964a732b6fdcad018c8f176bd6a882</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">59</data>
+      <data key="d7">958beecdb5bb4060948415ffd75d2b03</data>
+    </node>
+    <node id="&quot;HONDA LEGEND&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Honda Legend is a Japanese domestic market car that was adapted into the Acura Legend, RL and RLX lines."</data>
+      <data key="d2">10964a732b6fdcad018c8f176bd6a882</data>
+      <data key="d5">0</data>
+      <data key="d6">60</data>
+      <data key="d7">b999ed77e19e4f85b7f1ae79af5c002a</data>
+    </node>
+    <node id="&quot;ACURA RL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">10964a732b6fdcad018c8f176bd6a882</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">61</data>
+      <data key="d7">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+    </node>
+    <node id="&quot;SIR ERNEST RUTHERFORD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sir Ernest Rutherford is a person after whom The Rutherford Hotel is named."</data>
+      <data key="d2">e29bc6f09d18cee9d72cf874c374c65e</data>
+      <data key="d5">0</data>
+      <data key="d6">62</data>
+      <data key="d7">4f3c97517f794ebfb49c4c6315f9cf23</data>
+    </node>
+    <node id="&quot;NELSON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Nelson is a city in New Zealand where The Rutherford Hotel is located."</data>
+      <data key="d2">e29bc6f09d18cee9d72cf874c374c65e</data>
+      <data key="d5">1</data>
+      <data key="d6">63</data>
+      <data key="d7">1745a2485a9443bab76587ad650e9be0</data>
+    </node>
+    <node id="&quot;HERITAGE HOTELS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Heritage Hotels is a chain company that owns hotels based in many locations around New Zealand, including The Rutherford Hotel."</data>
+      <data key="d2">e29bc6f09d18cee9d72cf874c374c65e</data>
+      <data key="d5">1</data>
+      <data key="d6">64</data>
+      <data key="d7">32e6ccab20d94029811127dbbe424c64</data>
+    </node>
+    <node id="&quot;THE RUTHERFORD HOTEL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">e29bc6f09d18cee9d72cf874c374c65e</data>
+      <data key="d5">2</data>
+      <data key="d6">65</data>
+      <data key="d7">94a964c6992945ebb3833dfdfdc8d655</data>
+    </node>
+    <node id="&quot;HYUNDAI MOTOR COMPANY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Hyundai Motor Company is the manufacturer of the Hyundai Trago line of heavy-duty commercial vehicles."</data>
+      <data key="d2">77b59e249adc2933c71e0ea0a154d469</data>
+      <data key="d5">1</data>
+      <data key="d6">66</data>
+      <data key="d7">1eb829d0ace042089f0746f78729696c</data>
+    </node>
+    <node id="&quot;USA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"USA is a country where the Hyundai Trago was sold under the name Bering HD or Bering HDMX."</data>
+      <data key="d2">77b59e249adc2933c71e0ea0a154d469</data>
+      <data key="d5">1</data>
+      <data key="d6">67</data>
+      <data key="d7">015e7b58d1a14b44beab3bbc9f912c18</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Canada is a country where the Hyundai Trago was sold under the name Bering HD or Bering HDMX."</data>
+      <data key="d2">77b59e249adc2933c71e0ea0a154d469</data>
+      <data key="d5">1</data>
+      <data key="d6">68</data>
+      <data key="d7">26f88ab3e2e04c33a459ad6270ade565</data>
+    </node>
+    <node id="&quot;KOREA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Korea is a country where the Hyundai Trago was known as Hyundai New Power Truck."</data>
+      <data key="d2">77b59e249adc2933c71e0ea0a154d469</data>
+      <data key="d5">1</data>
+      <data key="d6">69</data>
+      <data key="d7">babe97e1d9784cffa1c85abc1e588126</data>
+    </node>
+    <node id="&quot;HYUNDAI TRAGO&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">77b59e249adc2933c71e0ea0a154d469</data>
+      <data key="d5">1</data>
+      <data key="d6">70</data>
+      <data key="d7">1033a18c45aa4584b2aef6ab96890351</data>
+    </node>
+    <node id="&quot;BERING HD/BERING HDMX&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">77b59e249adc2933c71e0ea0a154d469</data>
+      <data key="d5">2</data>
+      <data key="d6">71</data>
+      <data key="d7">c9b8ce91fc2945b4907fe35519339cac</data>
+    </node>
+    <node id="&quot;HYUNDAI NEW POWER TRUCK&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">77b59e249adc2933c71e0ea0a154d469</data>
+      <data key="d5">1</data>
+      <data key="d6">72</data>
+      <data key="d7">fa3c4204421c48609e52c8de2da4c654</data>
+    </node>
+    <edge source="&quot;PASSO&quot;" target="&quot;DAIHATSU&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Daihatsu produces the Passo subcompact car."</data>
+      <data key="d10">0decd243d5dd20d58e07404b90c9d47b</data>
+      <data key="d11">53af055f068244d0ac861b2e89376495</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PASSO&quot;" target="&quot;TOYOTA COROLLA STORE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Toyota Corolla Store sells the Passo."</data>
+      <data key="d10">0decd243d5dd20d58e07404b90c9d47b</data>
+      <data key="d11">c03ab3ce8cb74ad2a03b94723bfab3c7</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JAPAN&quot;" target="&quot;DAIHATSU&quot;">
+      <data key="d8">2.0</data>
+      <data key="d9">Here is the comprehensive summary:
+
+Japan is a country, and Daihatsu is a Japanese automaker and company that originates from Japan, indicating its strong geographical connection to the country.
+
+Let me know if you need any further assistance!</data>
+      <data key="d10">0decd243d5dd20d58e07404b90c9d47b,23969f84b9788f22412d2abd81354fbe</data>
+      <data key="d11">ed6d2eee9d7b4f5db466b1f6404d31cc</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JAPAN&quot;" target="&quot;HONDA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Honda imports the first generation of MDX to Japan."</data>
+      <data key="d10">88929a48e25d32771914103a677fe5c2</data>
+      <data key="d11">fc01e9baa80e417c9206f941bb279407</data>
+      <data key="d12">3</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DAIHATSU&quot;" target="&quot;AUTOMECCANICA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Automeccanica used the Daihatsu Charade as the basis for its Zebra model."</data>
+      <data key="d10">34b7d6fcfe41f63f13919a3bd18e00c1</data>
+      <data key="d11">56d0e5ebe79e4814bd1463cf6ca21394</data>
+      <data key="d12">4</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DAIHATSU&quot;" target="&quot;TOYOTA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Daihatsu used Toyota engines in its Charmant model and based it on the Toyota Corolla."</data>
+      <data key="d10">23969f84b9788f22412d2abd81354fbe</data>
+      <data key="d11">7c49f2710e8b4d3b8dc9310834406ea5</data>
+      <data key="d12">5</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">16.0</data>
+      <data key="d9">"Tucson is the county seat of Pima County."</data>
+      <data key="d10">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d11">c6d1e4f56c2843e89cf0b91c10bb6de2</data>
+      <data key="d12">6</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d8">16.0</data>
+      <data key="d9">"Pima County is a county in Arizona."</data>
+      <data key="d10">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d11">0adb2d9941f34ef7b2f7743cc6225844</data>
+      <data key="d12">7</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">16.0</data>
+      <data key="d9">"The University of Arizona is located in Tucson."</data>
+      <data key="d10">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d11">6b02373137fd438ba96af28f735cdbdb</data>
+      <data key="d12">8</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d8">16.0</data>
+      <data key="d9">"Arizona is a state in the United States."</data>
+      <data key="d10">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d11">36a4fcd8efc144e6b8af9a1c7ab8b2ce</data>
+      <data key="d12">9</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">16.0</data>
+      <data key="d9">"Tucson is a city in Arizona."</data>
+      <data key="d10">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d11">fbeef791d19b413a9c93c6608286ab63</data>
+      <data key="d12">10</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d8">16.0</data>
+      <data key="d9">"Phoenix is a city in Arizona."</data>
+      <data key="d10">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d11">d2b629c0396f4180a03e16ddf3818589</data>
+      <data key="d12">11</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">16.0</data>
+      <data key="d9">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d10">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d11">6102fc6619ed422ebc42588bfa97355d</data>
+      <data key="d12">12</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d8">16.0</data>
+      <data key="d9">"Mexico shares an international border with the United States."</data>
+      <data key="d10">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d11">8d141c0b80f74b79a05eed7fe161fe49</data>
+      <data key="d12">13</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">16.0</data>
+      <data key="d9">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d10">0866838641c5444f6c92a2ce9e344afc,0cb60e8e7b36db422df732fc429fb938,0decd243d5dd20d58e07404b90c9d47b,10964a732b6fdcad018c8f176bd6a882,23969f84b9788f22412d2abd81354fbe,34b7d6fcfe41f63f13919a3bd18e00c1,487193559108c8818c9a812fa248b39d,4cc8798fe0892727af7500b75b9e9022,4e638e0a2a773c833a9705711df5998a,77b59e249adc2933c71e0ea0a154d469,842ef85bbb0945340ce6617045412ebe,88929a48e25d32771914103a677fe5c2,bee601dd72aae2e226339a7ad630df52,e29bc6f09d18cee9d72cf874c374c65e,e9953f3e0560f4942d913a0acc292d3e,f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d11">e22d1d1cd8d14f12b81828d940f40d70</data>
+      <data key="d12">14</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LIGA LEUMIT&quot;" target="&quot;HAPOEL RISHON LEZION F.C.&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hapoel Rishon LeZion F.C. currently plays in Liga Leumit."</data>
+      <data key="d10">4cc8798fe0892727af7500b75b9e9022</data>
+      <data key="d11">9ab48505fb1b487babd0d1f6d3a3f980</data>
+      <data key="d12">15</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HABERFELD STADIUM&quot;" target="&quot;HAPOEL RISHON LEZION F.C.&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hapoel Rishon LeZion F.C. hosts its home matches at Haberfeld Stadium."</data>
+      <data key="d10">4cc8798fe0892727af7500b75b9e9022</data>
+      <data key="d11">148fffeb994541b2b4b6dcefda7001a8</data>
+      <data key="d12">16</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ISRAEL&quot;" target="&quot;HAPOEL RISHON LEZION F.C.&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hapoel Rishon LeZion F.C. is an Israeli football club."</data>
+      <data key="d10">4cc8798fe0892727af7500b75b9e9022</data>
+      <data key="d11">89c08e793298442686292454a1abff31</data>
+      <data key="d12">17</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;JODY ALLEN&quot;" target="&quot;VULCAN PRODUCTIONS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jody Allen is a co-owner and executive producer of Vulcan Productions."</data>
+      <data key="d10">f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d11">0467928aa65e4a4fba62bdb1467e3a54</data>
+      <data key="d12">18</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VULCAN PRODUCTIONS&quot;" target="&quot;ALLEN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Allen is a co-owner and executive producer of Vulcan Productions."</data>
+      <data key="d10">f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d11">43c3390303c6476cb65f584e37c3e81c</data>
+      <data key="d12">19</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VULCAN PRODUCTIONS&quot;" target="&quot;SEATTLE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Vulcan Productions is headquartered in Seattle."</data>
+      <data key="d10">f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d11">fa14b16c17e3417dba5a4b473ea5b18d</data>
+      <data key="d12">20</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VULCAN PRODUCTIONS&quot;" target="&quot;VULCAN INC.&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Vulcan Productions is a part of Vulcan Inc.'s entertainment division."</data>
+      <data key="d10">f6458a7958f3add369a016d1b0db994c</data>
+      <data key="d11">7cc3356d38de4328a51a5cbcb187dac3</data>
+      <data key="d12">21</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AUTOKINITOVIOMIHANIA ELLADOS&quot;" target="&quot;AUTOMECCANICA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Automeccanica was founded by former executives of Autokinitoviomihania Ellados."</data>
+      <data key="d10">34b7d6fcfe41f63f13919a3bd18e00c1</data>
+      <data key="d11">bef16fb5fd7344cca5e295b13ef3e0cd</data>
+      <data key="d12">22</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;AUTOKINITOVIOMIHANIA ELLADOS&quot;" target="&quot;THIVA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Autokinitoviomihania Ellados had a factory in Thiva acquired by Automeccanica in 1988."</data>
+      <data key="d10">34b7d6fcfe41f63f13919a3bd18e00c1</data>
+      <data key="d11">bb9e01bc171d4326a29afda59ece8d17</data>
+      <data key="d12">23</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;FIAT&quot;" target="&quot;AUTOMECCANICA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Automeccanica assembled Fiat models and variants."</data>
+      <data key="d10">34b7d6fcfe41f63f13919a3bd18e00c1</data>
+      <data key="d11">3c063eea52e94164b70c99431ea30bae</data>
+      <data key="d12">24</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LADA&quot;" target="&quot;AUTOMECCANICA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Automeccanica produced the Lada Niva under license."</data>
+      <data key="d10">34b7d6fcfe41f63f13919a3bd18e00c1</data>
+      <data key="d11">252cc8452bfc4c2aa58cab68d8b61879</data>
+      <data key="d12">25</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CBS RECORDS&quot;" target="&quot;COLUMBIA BROADCASTING SYSTEM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"CBS Records is a potential new name for a subsidiary of the Columbia Broadcasting System."</data>
+      <data key="d10">bee601dd72aae2e226339a7ad630df52</data>
+      <data key="d11">7e2c84548fb94ee395ba8588d8f2a006</data>
+      <data key="d12">26</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;COLUMBIA BROADCASTING SYSTEM&quot;" target="&quot;COLUMBIA RECORDS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Columbia Records is a subsidiary of the Columbia Broadcasting System."</data>
+      <data key="d10">bee601dd72aae2e226339a7ad630df52</data>
+      <data key="d11">f034618dde7948beb6dab30176d0fc87</data>
+      <data key="d12">27</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BRITISH MANUFACTURER BRISTOL AEROPLANE CO.&quot;" target="&quot;BRISTOL 406&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The British manufacturer Bristol Aeroplane Co. produced the Bristol 406 luxury car between 1958 and 1961."</data>
+      <data key="d10">842ef85bbb0945340ce6617045412ebe</data>
+      <data key="d11">5c41f96be13e49dba649454297834546</data>
+      <data key="d12">28</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;BRITISH MANUFACTURER BRISTOL AEROPLANE CO.&quot;" target="&quot;BRISTOL CARS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Bristol Aeroplane's car division later became Bristol Cars."</data>
+      <data key="d10">842ef85bbb0945340ce6617045412ebe</data>
+      <data key="d11">7ea4afbf8a264f29af29950ce98105ba</data>
+      <data key="d12">29</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HYUNDAI MOTOR GROUP&quot;" target="&quot;GENESIS MOTORS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Genesis Motors is a division of Hyundai Motor Group."</data>
+      <data key="d10">4e638e0a2a773c833a9705711df5998a</data>
+      <data key="d11">91ff849d12b24574b0691dbddf44968b</data>
+      <data key="d12">30</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HYUNDAI MOTOR GROUP&quot;" target="&quot;SOUTH KOREA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hyundai Motor Group is based in South Korea."</data>
+      <data key="d10">4e638e0a2a773c833a9705711df5998a</data>
+      <data key="d11">d73c1f2fb3094d8dace42ad2a76e9a52</data>
+      <data key="d12">31</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HYUNDAI GENESIS&quot;" target="&quot;GENESIS MOTORS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The plan for Hyundai Genesis led to the creation of the Genesis Motors brand."</data>
+      <data key="d10">4e638e0a2a773c833a9705711df5998a</data>
+      <data key="d11">cdc8901e668749889bd49bebdc4ff1f6</data>
+      <data key="d12">32</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;TOYOTA&quot;" target="&quot;LEXUS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Toyota established Lexus as its luxury division."</data>
+      <data key="d10">e9953f3e0560f4942d913a0acc292d3e</data>
+      <data key="d11">36084a9fab53433493f079e97e68bf65</data>
+      <data key="d12">33</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;DAIHATSU CHARMANT&quot;" target="&quot;TOYOTA COROLLA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Daihatsu Charmant was originally a spin-off of the Toyota Corolla, with model changes paralleling those of the Corolla."</data>
+      <data key="d10">23969f84b9788f22412d2abd81354fbe</data>
+      <data key="d11">eebcc7ec8e3e4df7aea83659bbdc2199</data>
+      <data key="d12">34</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NISSAN&quot;" target="&quot;INFINITI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Nissan established Infiniti as its luxury division."</data>
+      <data key="d10">e9953f3e0560f4942d913a0acc292d3e</data>
+      <data key="d11">ceadf262ef834e9ab146b20650912cae</data>
+      <data key="d12">35</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HONDA&quot;" target="&quot;ACURA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Honda established Acura as its luxury division."</data>
+      <data key="d10">e9953f3e0560f4942d913a0acc292d3e</data>
+      <data key="d11">7f65feab75424b53b24470d305ba331a</data>
+      <data key="d12">36</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HONDA&quot;" target="&quot;ACURA MDX&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Acura MDX is produced by Honda under its Acura luxury nameplate."</data>
+      <data key="d10">88929a48e25d32771914103a677fe5c2</data>
+      <data key="d11">fd9cb733b28d420cb5cef01e545a132c</data>
+      <data key="d12">37</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HONDA&quot;" target="&quot;AUSTRALIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Honda imports the first generation of MDX to Australia."</data>
+      <data key="d10">88929a48e25d32771914103a677fe5c2</data>
+      <data key="d11">0fbcca3f17c649a08aea64b5a7d9ef36</data>
+      <data key="d12">38</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HONDA&quot;" target="&quot;ACURA RL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Acura RL is manufactured by the Acura division of Honda."</data>
+      <data key="d10">10964a732b6fdcad018c8f176bd6a882</data>
+      <data key="d11">482027a59f32484c9c44fd700615c1b6</data>
+      <data key="d12">39</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MCCRORY STORES&quot;" target="&quot;JOHN GRAHAM MCCROREY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"John Graham McCrorey founded McCrory Stores."</data>
+      <data key="d10">0cb60e8e7b36db422df732fc429fb938</data>
+      <data key="d11">de837ff3d626451282ff6ac77a82216d</data>
+      <data key="d12">40</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;MCCRORY STORES&quot;" target="&quot;SCOTTSDALE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The first McCrory store opened in Scottsdale, Pennsylvania."</data>
+      <data key="d10">0cb60e8e7b36db422df732fc429fb938</data>
+      <data key="d11">460295fed3ae4cd39f9f274cec9c2506</data>
+      <data key="d12">41</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;LEXUS RX&quot;" target="&quot;ACURA MDX&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Acura MDX ranks as the second-best selling luxury crossover after the Lexus RX."</data>
+      <data key="d10">88929a48e25d32771914103a677fe5c2</data>
+      <data key="d11">553b285bba60460ab1ed8341ae61282b</data>
+      <data key="d12">42</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VOLKSWAGEN DERBY&quot;" target="&quot;VOLKSWAGEN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Volkswagen Derby is a product of Volkswagen."</data>
+      <data key="d10">487193559108c8818c9a812fa248b39d</data>
+      <data key="d11">cec95bf17e7e4c939b56c9c6f402a29f</data>
+      <data key="d12">43</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;VOLKSWAGEN&quot;" target="&quot;VOLKSWAGEN POLO MK2&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Volkswagen Polo Mk2 is a product of Volkswagen."</data>
+      <data key="d10">487193559108c8818c9a812fa248b39d</data>
+      <data key="d11">599164aead034bc19446efacc77554d2</data>
+      <data key="d12">44</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ACURA LEGEND&quot;" target="&quot;ACURA RL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Acura RL succeeded the Acura Legend."</data>
+      <data key="d10">10964a732b6fdcad018c8f176bd6a882</data>
+      <data key="d11">bbf148ae4d48422f8fdef754cfa2b9e4</data>
+      <data key="d12">45</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;ACURA RLX&quot;" target="&quot;ACURA RL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Acura RLX replaced the Acura RL in 2013."</data>
+      <data key="d10">10964a732b6fdcad018c8f176bd6a882</data>
+      <data key="d11">de61b2670999433f807a6a1dc2b81e43</data>
+      <data key="d12">46</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;NELSON&quot;" target="&quot;THE RUTHERFORD HOTEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Rutherford Hotel is located in Nelson, New Zealand."</data>
+      <data key="d10">e29bc6f09d18cee9d72cf874c374c65e</data>
+      <data key="d11">3e95dacfe57b4d57b5da4310ef2e157f</data>
+      <data key="d12">47</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HERITAGE HOTELS&quot;" target="&quot;THE RUTHERFORD HOTEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Rutherford Hotel is part of the chain company Heritage Hotels."</data>
+      <data key="d10">e29bc6f09d18cee9d72cf874c374c65e</data>
+      <data key="d11">1f1545308e9347af91fd03b94aadc21f</data>
+      <data key="d12">48</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;HYUNDAI MOTOR COMPANY&quot;" target="&quot;HYUNDAI TRAGO&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hyundai Motor Company manufactures the Hyundai Trago line of heavy-duty commercial vehicles."</data>
+      <data key="d10">77b59e249adc2933c71e0ea0a154d469</data>
+      <data key="d11">6ea81acaf232485e94fff638e03336e1</data>
+      <data key="d12">49</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;USA&quot;" target="&quot;BERING HD/BERING HDMX&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Hyundai Trago was sold under the name Bering HD or Bering HDMX in USA."</data>
+      <data key="d10">77b59e249adc2933c71e0ea0a154d469</data>
+      <data key="d11">d136b08d586d488f9e4188b524c85a29</data>
+      <data key="d12">50</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;CANADA&quot;" target="&quot;BERING HD/BERING HDMX&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Hyundai Trago was sold under the name Bering HD or Bering HDMX in Canada."</data>
+      <data key="d10">77b59e249adc2933c71e0ea0a154d469</data>
+      <data key="d11">cccfa151fedc4b218a8d96adc7dceabe</data>
+      <data key="d12">51</data>
+      <data key="d13">0</data>
+    </edge>
+    <edge source="&quot;KOREA&quot;" target="&quot;HYUNDAI NEW POWER TRUCK&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Hyundai Trago was known as Hyundai New Power Truck in Korea."</data>
+      <data key="d10">77b59e249adc2933c71e0ea0a154d469</data>
+      <data key="d11">ce54725672a74ebcabe6127577dacb2b</data>
+      <data key="d12">52</data>
+      <data key="d13">0</data>
+    </edge>
+  </graph>
+</graphml>

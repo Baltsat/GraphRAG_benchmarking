@@ -1,0 +1,1656 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="level" attr.type="long" />
+  <key id="d12" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d11" for="edge" attr.name="id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d7" for="node" attr.name="level" attr.type="long" />
+  <key id="d6" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d5" for="node" attr.name="id" attr.type="string" />
+  <key id="d4" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d3" for="node" attr.name="degree" attr.type="long" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;KHILJI DYNASTY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Khilji dynasty was a ruling power that conquered most of central India but failed to unite the subcontinent."</data>
+      <data key="d2">1d774df0ca51de94ad68abc5e1705ee8</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;DELHI SULTANATE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Delhi Sultanate was a period of Indian cultural renaissance, marked by Indo-Muslim fusion and syncretic monuments in various fields."</data>
+      <data key="d2">1d774df0ca51de94ad68abc5e1705ee8</data>
+      <data key="d3">3</data>
+      <data key="d4">1</data>
+      <data key="d5">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;RAZIA SULTANA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Razia Sultana was one of the few female rulers in India, enthroned during the Delhi Sultanate period (1236-1240)."</data>
+      <data key="d2">1d774df0ca51de94ad68abc5e1705ee8</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;URDU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Urdu is a language that originated during the Delhi Sultanate period as a result of cultural intermingling."</data>
+      <data key="d2">1d774df0ca51de94ad68abc5e1705ee8</data>
+      <data key="d3">0</data>
+      <data key="d4">3</data>
+      <data key="d5">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;SLAVE DYNASTY OF DELHI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1d774df0ca51de94ad68abc5e1705ee8</data>
+      <data key="d3">1</data>
+      <data key="d4">4</data>
+      <data key="d5">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">0f8731d1ff46c5e16ffda2953e631e69,1492aaa36e8a89a279ffade05e455c8c,1d774df0ca51de94ad68abc5e1705ee8,3ca43e020b70239192a9d14f9338bd44,5391b4b990b38910302a1e8510c93713,57a511eb05dfe7c21a59cd526b7ea034,6b57db5daedd7d1078c4b92bcb6a7851,76b254c26c1bc06b077968bfa4463d02,7a5ea759f585f016ee4f06b1b9897447,7b37a64badb4948c4c09d17c86442ff8,87e3a5e55fbab0d872b443fc69648b67,a4e34b2f689c439c34ba18ab1f78c0ab,a7e0b68f174fbe0ad5b725679110a051,aa4514271996a98508e6e4d81b8e8cf4,ade5e8d76cf55a10486b0516917da76e,ae020cac66b11a489705830b61724b78,c4ed73cccc642758cfb557547241271e,cad8ce84927d99ede8d5b095f2c51478,cdd9aa6d00557d8b71b34525234995f7,d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d3">2</data>
+      <data key="d4">5</data>
+      <data key="d5">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">0f8731d1ff46c5e16ffda2953e631e69,1492aaa36e8a89a279ffade05e455c8c,1d774df0ca51de94ad68abc5e1705ee8,3ca43e020b70239192a9d14f9338bd44,5391b4b990b38910302a1e8510c93713,57a511eb05dfe7c21a59cd526b7ea034,6b57db5daedd7d1078c4b92bcb6a7851,76b254c26c1bc06b077968bfa4463d02,7a5ea759f585f016ee4f06b1b9897447,7b37a64badb4948c4c09d17c86442ff8,87e3a5e55fbab0d872b443fc69648b67,a4e34b2f689c439c34ba18ab1f78c0ab,a7e0b68f174fbe0ad5b725679110a051,aa4514271996a98508e6e4d81b8e8cf4,ade5e8d76cf55a10486b0516917da76e,ae020cac66b11a489705830b61724b78,c4ed73cccc642758cfb557547241271e,cad8ce84927d99ede8d5b095f2c51478,cdd9aa6d00557d8b71b34525234995f7,d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d3">1</data>
+      <data key="d4">6</data>
+      <data key="d5">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">0f8731d1ff46c5e16ffda2953e631e69,1492aaa36e8a89a279ffade05e455c8c,1d774df0ca51de94ad68abc5e1705ee8,3ca43e020b70239192a9d14f9338bd44,5391b4b990b38910302a1e8510c93713,57a511eb05dfe7c21a59cd526b7ea034,6b57db5daedd7d1078c4b92bcb6a7851,76b254c26c1bc06b077968bfa4463d02,7a5ea759f585f016ee4f06b1b9897447,7b37a64badb4948c4c09d17c86442ff8,87e3a5e55fbab0d872b443fc69648b67,a4e34b2f689c439c34ba18ab1f78c0ab,a7e0b68f174fbe0ad5b725679110a051,aa4514271996a98508e6e4d81b8e8cf4,ade5e8d76cf55a10486b0516917da76e,ae020cac66b11a489705830b61724b78,c4ed73cccc642758cfb557547241271e,cad8ce84927d99ede8d5b095f2c51478,cdd9aa6d00557d8b71b34525234995f7,d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d3">4</data>
+      <data key="d4">7</data>
+      <data key="d5">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">0f8731d1ff46c5e16ffda2953e631e69,1492aaa36e8a89a279ffade05e455c8c,1d774df0ca51de94ad68abc5e1705ee8,3ca43e020b70239192a9d14f9338bd44,5391b4b990b38910302a1e8510c93713,57a511eb05dfe7c21a59cd526b7ea034,6b57db5daedd7d1078c4b92bcb6a7851,76b254c26c1bc06b077968bfa4463d02,7a5ea759f585f016ee4f06b1b9897447,7b37a64badb4948c4c09d17c86442ff8,87e3a5e55fbab0d872b443fc69648b67,a4e34b2f689c439c34ba18ab1f78c0ab,a7e0b68f174fbe0ad5b725679110a051,aa4514271996a98508e6e4d81b8e8cf4,ade5e8d76cf55a10486b0516917da76e,ae020cac66b11a489705830b61724b78,c4ed73cccc642758cfb557547241271e,cad8ce84927d99ede8d5b095f2c51478,cdd9aa6d00557d8b71b34525234995f7,d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d3">1</data>
+      <data key="d4">8</data>
+      <data key="d5">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">0f8731d1ff46c5e16ffda2953e631e69,1492aaa36e8a89a279ffade05e455c8c,1d774df0ca51de94ad68abc5e1705ee8,3ca43e020b70239192a9d14f9338bd44,5391b4b990b38910302a1e8510c93713,57a511eb05dfe7c21a59cd526b7ea034,6b57db5daedd7d1078c4b92bcb6a7851,76b254c26c1bc06b077968bfa4463d02,7a5ea759f585f016ee4f06b1b9897447,7b37a64badb4948c4c09d17c86442ff8,87e3a5e55fbab0d872b443fc69648b67,a4e34b2f689c439c34ba18ab1f78c0ab,a7e0b68f174fbe0ad5b725679110a051,aa4514271996a98508e6e4d81b8e8cf4,ade5e8d76cf55a10486b0516917da76e,ae020cac66b11a489705830b61724b78,c4ed73cccc642758cfb557547241271e,cad8ce84927d99ede8d5b095f2c51478,cdd9aa6d00557d8b71b34525234995f7,d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d3">1</data>
+      <data key="d4">9</data>
+      <data key="d5">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">0f8731d1ff46c5e16ffda2953e631e69,1492aaa36e8a89a279ffade05e455c8c,1d774df0ca51de94ad68abc5e1705ee8,3ca43e020b70239192a9d14f9338bd44,5391b4b990b38910302a1e8510c93713,57a511eb05dfe7c21a59cd526b7ea034,6b57db5daedd7d1078c4b92bcb6a7851,76b254c26c1bc06b077968bfa4463d02,7a5ea759f585f016ee4f06b1b9897447,7b37a64badb4948c4c09d17c86442ff8,87e3a5e55fbab0d872b443fc69648b67,a4e34b2f689c439c34ba18ab1f78c0ab,a7e0b68f174fbe0ad5b725679110a051,aa4514271996a98508e6e4d81b8e8cf4,ade5e8d76cf55a10486b0516917da76e,ae020cac66b11a489705830b61724b78,c4ed73cccc642758cfb557547241271e,cad8ce84927d99ede8d5b095f2c51478,cdd9aa6d00557d8b71b34525234995f7,d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d3">2</data>
+      <data key="d4">10</data>
+      <data key="d5">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">0f8731d1ff46c5e16ffda2953e631e69,1492aaa36e8a89a279ffade05e455c8c,1d774df0ca51de94ad68abc5e1705ee8,3ca43e020b70239192a9d14f9338bd44,5391b4b990b38910302a1e8510c93713,57a511eb05dfe7c21a59cd526b7ea034,6b57db5daedd7d1078c4b92bcb6a7851,76b254c26c1bc06b077968bfa4463d02,7a5ea759f585f016ee4f06b1b9897447,7b37a64badb4948c4c09d17c86442ff8,87e3a5e55fbab0d872b443fc69648b67,a4e34b2f689c439c34ba18ab1f78c0ab,a7e0b68f174fbe0ad5b725679110a051,aa4514271996a98508e6e4d81b8e8cf4,ade5e8d76cf55a10486b0516917da76e,ae020cac66b11a489705830b61724b78,c4ed73cccc642758cfb557547241271e,cad8ce84927d99ede8d5b095f2c51478,cdd9aa6d00557d8b71b34525234995f7,d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d3">1</data>
+      <data key="d4">11</data>
+      <data key="d5">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">0f8731d1ff46c5e16ffda2953e631e69,1492aaa36e8a89a279ffade05e455c8c,1d774df0ca51de94ad68abc5e1705ee8,3ca43e020b70239192a9d14f9338bd44,5391b4b990b38910302a1e8510c93713,57a511eb05dfe7c21a59cd526b7ea034,6b57db5daedd7d1078c4b92bcb6a7851,76b254c26c1bc06b077968bfa4463d02,7a5ea759f585f016ee4f06b1b9897447,7b37a64badb4948c4c09d17c86442ff8,87e3a5e55fbab0d872b443fc69648b67,a4e34b2f689c439c34ba18ab1f78c0ab,a7e0b68f174fbe0ad5b725679110a051,aa4514271996a98508e6e4d81b8e8cf4,ade5e8d76cf55a10486b0516917da76e,ae020cac66b11a489705830b61724b78,c4ed73cccc642758cfb557547241271e,cad8ce84927d99ede8d5b095f2c51478,cdd9aa6d00557d8b71b34525234995f7,d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d3">1</data>
+      <data key="d4">12</data>
+      <data key="d5">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">0f8731d1ff46c5e16ffda2953e631e69,1492aaa36e8a89a279ffade05e455c8c,1d774df0ca51de94ad68abc5e1705ee8,3ca43e020b70239192a9d14f9338bd44,5391b4b990b38910302a1e8510c93713,57a511eb05dfe7c21a59cd526b7ea034,6b57db5daedd7d1078c4b92bcb6a7851,76b254c26c1bc06b077968bfa4463d02,7a5ea759f585f016ee4f06b1b9897447,7b37a64badb4948c4c09d17c86442ff8,87e3a5e55fbab0d872b443fc69648b67,a4e34b2f689c439c34ba18ab1f78c0ab,a7e0b68f174fbe0ad5b725679110a051,aa4514271996a98508e6e4d81b8e8cf4,ade5e8d76cf55a10486b0516917da76e,ae020cac66b11a489705830b61724b78,c4ed73cccc642758cfb557547241271e,cad8ce84927d99ede8d5b095f2c51478,cdd9aa6d00557d8b71b34525234995f7,d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d3">0</data>
+      <data key="d4">13</data>
+      <data key="d5">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0f8731d1ff46c5e16ffda2953e631e69,1492aaa36e8a89a279ffade05e455c8c,1d774df0ca51de94ad68abc5e1705ee8,3ca43e020b70239192a9d14f9338bd44,5391b4b990b38910302a1e8510c93713,57a511eb05dfe7c21a59cd526b7ea034,6b57db5daedd7d1078c4b92bcb6a7851,76b254c26c1bc06b077968bfa4463d02,7a5ea759f585f016ee4f06b1b9897447,7b37a64badb4948c4c09d17c86442ff8,87e3a5e55fbab0d872b443fc69648b67,a4e34b2f689c439c34ba18ab1f78c0ab,a7e0b68f174fbe0ad5b725679110a051,aa4514271996a98508e6e4d81b8e8cf4,ade5e8d76cf55a10486b0516917da76e,ae020cac66b11a489705830b61724b78,c4ed73cccc642758cfb557547241271e,cad8ce84927d99ede8d5b095f2c51478,cdd9aa6d00557d8b71b34525234995f7,d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d3">5</data>
+      <data key="d4">14</data>
+      <data key="d5">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;SARDAR PATEL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sardar Patel is another name for Vallabhbhai Patel, meaning 'chief' in Hindi, Urdu, and Persian."</data>
+      <data key="d2">76b254c26c1bc06b077968bfa4463d02</data>
+      <data key="d3">1</data>
+      <data key="d4">15</data>
+      <data key="d5">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;INDIAN NATIONAL CONGRESS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Indian National Congress is a political party that Vallabhbhai Patel was a senior leader of and served as its 49th President."</data>
+      <data key="d2">76b254c26c1bc06b077968bfa4463d02</data>
+      <data key="d3">1</data>
+      <data key="d4">16</data>
+      <data key="d5">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;REPUBLIC OF INDIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Republic of India is a country that Vallabhbhai Patel played a leading role in integrating into a united, independent nation."</data>
+      <data key="d2">76b254c26c1bc06b077968bfa4463d02</data>
+      <data key="d3">1</data>
+      <data key="d4">17</data>
+      <data key="d5">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;GUJARAT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+Gujarat is a state in India that holds significant historical importance, particularly in the country's struggle for independence from the British Raj. It was here that Vallabhbhai Patel, a prominent Indian leader, was raised and played a key role in organizing peasants in non-violent civil disobedience against the British rule. Additionally, Gujarat was also the site of the Bardoli Satyagraha, a notable event in India's freedom movement.</data>
+      <data key="d2">76b254c26c1bc06b077968bfa4463d02,c4ed73cccc642758cfb557547241271e</data>
+      <data key="d3">2</data>
+      <data key="d4">18</data>
+      <data key="d5">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;VALLABHBHAI PATEL&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+Vallabhbhai Patel was a leader of the Indian Independence Movement, leading the Bardoli Satyagraha and becoming one of its main leaders.</data>
+      <data key="d2">76b254c26c1bc06b077968bfa4463d02,c4ed73cccc642758cfb557547241271e</data>
+      <data key="d3">5</data>
+      <data key="d4">19</data>
+      <data key="d5">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;GEORGETOWN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Georgetown is an area in Chennai, India where Casa Verona's Mosque is located."</data>
+      <data key="d2">7b37a64badb4948c4c09d17c86442ff8</data>
+      <data key="d3">2</data>
+      <data key="d4">20</data>
+      <data key="d5">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;CHENNAI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Chennai is a city in India where Casa Verona's Mosque is located."</data>
+      <data key="d2">7b37a64badb4948c4c09d17c86442ff8</data>
+      <data key="d3">2</data>
+      <data key="d4">21</data>
+      <data key="d5">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;INDIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+India is a country referred to by various names, including Hindush, Hinduv&#257;n, and Al-Hind, in ancient records. It has a complex border with Pakistan, marked by numerous conflicts and wars. Historically, India was brought under British colonial rule in 1858, during which time the British East India Company exercised significant control over the region. The Government of India Act 1858 was implemented, creating the office of Secretary of State for India. Prior to British rule, the Gupta Empire ruled over India and Hindu culture developed in the region. In the 8th century, local dynasties successfully defeated Arab armies that attempted to invade the area. During the British Raj period, significant events such as the Bardoli Satyagraha took place. Additionally, notable landmarks like Casa Verona's Mosque are located within India's borders. After gaining independence, India was formed out of the majority Hindu regions of British India.</data>
+      <data key="d2">1492aaa36e8a89a279ffade05e455c8c,3ca43e020b70239192a9d14f9338bd44,5391b4b990b38910302a1e8510c93713,57a511eb05dfe7c21a59cd526b7ea034,7a5ea759f585f016ee4f06b1b9897447,7b37a64badb4948c4c09d17c86442ff8,87e3a5e55fbab0d872b443fc69648b67,aa4514271996a98508e6e4d81b8e8cf4,ade5e8d76cf55a10486b0516917da76e,c4ed73cccc642758cfb557547241271e,cad8ce84927d99ede8d5b095f2c51478,cdd9aa6d00557d8b71b34525234995f7,d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d6">7</data>
+      <data key="d7">1</data>
+      <data key="d3">14</data>
+      <data key="d4">22</data>
+      <data key="d5">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;CASA VERONA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Casa Verona was a dubash of the British East India Company who constructed Casa Verona's Mosque."</data>
+      <data key="d2">7b37a64badb4948c4c09d17c86442ff8</data>
+      <data key="d3">2</data>
+      <data key="d4">23</data>
+      <data key="d5">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;BRITISH EAST INDIA COMPANY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The British East India Company is an organization that had a dubash named Casa Verona. Additionally, it played a significant role in bringing immigrants from southern India to Singapore, where they worked as coolies and indentured laborers.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">7a5ea759f585f016ee4f06b1b9897447,7b37a64badb4948c4c09d17c86442ff8,ae020cac66b11a489705830b61724b78</data>
+      <data key="d3">4</data>
+      <data key="d4">24</data>
+      <data key="d5">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;CASA VERONA'S MOSQUE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7b37a64badb4948c4c09d17c86442ff8</data>
+      <data key="d3">2</data>
+      <data key="d4">25</data>
+      <data key="d5">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;BRITAIN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Britain was responsible for governing the British Mandate of Palestine and ultimately decided to withdraw its military presence in 1948."</data>
+      <data key="d2">a7e0b68f174fbe0ad5b725679110a051</data>
+      <data key="d3">1</data>
+      <data key="d4">26</data>
+      <data key="d5">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;UNITED NATIONS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The United Nations played a key role in resolving the issue of Palestine, with the UN General Assembly voting for a plan to partition the region into two states."</data>
+      <data key="d2">a7e0b68f174fbe0ad5b725679110a051</data>
+      <data key="d3">1</data>
+      <data key="d4">27</data>
+      <data key="d5">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;JEWISH REFUGEES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jewish refugees were seeking to be admitted to Palestine following the Holocaust, adding to the complexity of the problem."</data>
+      <data key="d2">a7e0b68f174fbe0ad5b725679110a051</data>
+      <data key="d3">1</data>
+      <data key="d4">28</data>
+      <data key="d5">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;ARABS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Arabs were opposed to the creation of a Jewish state in Palestine, contributing to the intractability of the issue."</data>
+      <data key="d2">a7e0b68f174fbe0ad5b725679110a051</data>
+      <data key="d3">1</data>
+      <data key="d4">29</data>
+      <data key="d5">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;BRITISH MANDATE OF PALESTINE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a7e0b68f174fbe0ad5b725679110a051</data>
+      <data key="d3">1</data>
+      <data key="d4">30</data>
+      <data key="d5">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <node id="&quot;PALESTINE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a7e0b68f174fbe0ad5b725679110a051</data>
+      <data key="d3">3</data>
+      <data key="d4">31</data>
+      <data key="d5">68105770b523412388424d984e711917</data>
+    </node>
+    <node id="&quot;COUNCIL OF INDIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Council of India was a new council created by the Government of India Act 1858 to advise the Secretary of State for India."</data>
+      <data key="d2">5391b4b990b38910302a1e8510c93713</data>
+      <data key="d3">1</data>
+      <data key="d4">32</data>
+      <data key="d5">85c79fd84f5e4f918471c386852204c5</data>
+    </node>
+    <node id="&quot;COUNCIL OF GOVERNOR GENERAL OF INDIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Council of Governor General of India, also known as the Executive Council of India, was formally renamed from the existing Council of Four."</data>
+      <data key="d2">5391b4b990b38910302a1e8510c93713</data>
+      <data key="d3">1</data>
+      <data key="d4">33</data>
+      <data key="d5">eae4259b19a741ab9f9f6af18c4a0470</data>
+    </node>
+    <node id="&quot;GOVERNMENT OF INDIA ACT 1858&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Government of India Act 1858 was a significant event that created the office of Secretary of State for India and established the Council of India, ultimately leading to the British Crown's assuming direct control of the Indian subcontinent in the form of the new British Raj.</data>
+      <data key="d2">5391b4b990b38910302a1e8510c93713,7a5ea759f585f016ee4f06b1b9897447</data>
+      <data key="d3">3</data>
+      <data key="d4">34</data>
+      <data key="d5">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+    </node>
+    <node id="&quot;GOVERNMENT OF INDIA ACT 1935&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Government of India Act 1935 was an event that abolished the Council of India."</data>
+      <data key="d2">5391b4b990b38910302a1e8510c93713</data>
+      <data key="d3">0</data>
+      <data key="d4">35</data>
+      <data key="d5">dde131ab575d44dbb55289a6972be18f</data>
+    </node>
+    <node id="&quot;BRITISH INDIA&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+British India refers to the territories under British colonial rule in India, which was a historical entity that preceded the independence of India and Pakistan. This region played a significant role in the partition plan, where the border between India and Pakistan was ultimately determined.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">5391b4b990b38910302a1e8510c93713,6b57db5daedd7d1078c4b92bcb6a7851,ade5e8d76cf55a10486b0516917da76e,d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d3">2</data>
+      <data key="d4">36</data>
+      <data key="d5">de9e343f2e334d88a8ac7f8813a915e5</data>
+    </node>
+    <node id="&quot;LORD CURZON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lord Curzon was the Viceroy of British India who led to the Partition of Bengal, sparking massive political and religious upsurge."</data>
+      <data key="d2">0f8731d1ff46c5e16ffda2953e631e69</data>
+      <data key="d3">1</data>
+      <data key="d4">37</data>
+      <data key="d5">e2bf260115514fb3b252fd879fb3e7be</data>
+    </node>
+    <node id="&quot;BRITISH RAJ&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+The British Raj was the colonial government that ruled India, facing anti-colonial sentiments and boycotts from the public. It was the British government in India that ultimately dissolved as a result of the Partition of British India in 1947. During its rule, the British Raj was also the ruling authority in India during significant events such as the Bardoli Satyagraha.
+
+Let me know if you need any further assistance!</data>
+      <data key="d2">0f8731d1ff46c5e16ffda2953e631e69,3ca43e020b70239192a9d14f9338bd44,c4ed73cccc642758cfb557547241271e</data>
+      <data key="d3">3</data>
+      <data key="d4">38</data>
+      <data key="d5">b462b94ce47a4b8c8fffa33f7242acec</data>
+    </node>
+    <node id="&quot;NEW DELHI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"New Delhi became the new capital of India after the shift from Calcutta in 1911."</data>
+      <data key="d2">0f8731d1ff46c5e16ffda2953e631e69</data>
+      <data key="d3">1</data>
+      <data key="d4">39</data>
+      <data key="d5">17ed1d92075643579a712cc6c29e8ddb</data>
+    </node>
+    <node id="&quot;CALCUTTA (NOW KOLKATA)&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0f8731d1ff46c5e16ffda2953e631e69</data>
+      <data key="d3">1</data>
+      <data key="d4">40</data>
+      <data key="d5">3ce7c210a21b4deebad7cc9308148d86</data>
+    </node>
+    <node id="&quot;PARTITION OF BENGAL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0f8731d1ff46c5e16ffda2953e631e69</data>
+      <data key="d3">1</data>
+      <data key="d4">41</data>
+      <data key="d5">d64ed762ea924caa95c8d06f072a9a96</data>
+    </node>
+    <node id="&quot;GAVIN FLOOD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gavin Flood is a scholar who states that the term 'hindu' first occurs as a Persian geographical term for people living beyond the Indus river."</data>
+      <data key="d2">1492aaa36e8a89a279ffade05e455c8c</data>
+      <data key="d3">1</data>
+      <data key="d4">42</data>
+      <data key="d5">adf4ee3fbe9b4d0381044838c4f889c8</data>
+    </node>
+    <node id="&quot;DARIUS I&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Darius I is an ancient king who mentioned the province of Hi(n)dush, referring to northwestern India, in his 6th-century BCE inscription."</data>
+      <data key="d2">1492aaa36e8a89a279ffade05e455c8c</data>
+      <data key="d3">1</data>
+      <data key="d4">43</data>
+      <data key="d5">32ee140946e5461f9275db664dc541a5</data>
+    </node>
+    <node id="&quot;INDUS RIVER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Indus river is a large body of water that was used as a geographical reference point for the term 'Hindu'."</data>
+      <data key="d2">1492aaa36e8a89a279ffade05e455c8c</data>
+      <data key="d3">1</data>
+      <data key="d4">44</data>
+      <data key="d5">c160b9cb27d6408ba6ab20214a2f3f81</data>
+    </node>
+    <node id="&quot;PUNJAB REGION&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Punjab region, also known as Sapta Sindhava in the Vedas and Hapta Hindu in Zend Avesta, is a geographical area referred to in ancient records."</data>
+      <data key="d2">1492aaa36e8a89a279ffade05e455c8c</data>
+      <data key="d3">1</data>
+      <data key="d4">45</data>
+      <data key="d5">23527cd679ff4d5a988d52e7cd056078</data>
+    </node>
+    <node id="&quot;HINDU&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1492aaa36e8a89a279ffade05e455c8c</data>
+      <data key="d3">2</data>
+      <data key="d4">46</data>
+      <data key="d5">f1c6eed066f24cbdb376b910fce29ed4</data>
+    </node>
+    <node id="&quot;PAKISTAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+The Islamic Republic of Pakistan came into being in 1947 as a result of the Partition of British India. Initially, it consisted of two non-contiguous enclaves, East Pakistan (now Bangladesh) and West Pakistan, separated geographically by India. Today, Pakistan is a country with a complex border with India, marked by numerous conflicts and wars, which has led to ongoing political tensions affecting various aspects of the nation, including international events. The country comprises several provinces, including Khyber Pakhtunkhwa, where Upper Dir District and Barawal are located.</data>
+      <data key="d2">3ca43e020b70239192a9d14f9338bd44,a4e34b2f689c439c34ba18ab1f78c0ab,ade5e8d76cf55a10486b0516917da76e,cad8ce84927d99ede8d5b095f2c51478,d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d6">7</data>
+      <data key="d7">1</data>
+      <data key="d3">4</data>
+      <data key="d4">47</data>
+      <data key="d5">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+    </node>
+    <node id="&quot;RADCLIFFE LINE&quot;">
+      <data key="d0" />
+      <data key="d1">Here is the comprehensive summary:
+
+The Radcliffe Line is a boundary that demarcates India and Pakistan, established as a result of the Partition of British India in 1947.</data>
+      <data key="d2">3ca43e020b70239192a9d14f9338bd44,ade5e8d76cf55a10486b0516917da76e,d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d6">8</data>
+      <data key="d7">1</data>
+      <data key="d3">3</data>
+      <data key="d4">48</data>
+      <data key="d5">147c038aef3e4422acbbc5f7938c4ab8</data>
+    </node>
+    <node id="&quot;BIHAR AND ORISSA PROVINCE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bihar and Orissa Province is a geographic region that was partitioned to create Bihar Province."</data>
+      <data key="d2">6b57db5daedd7d1078c4b92bcb6a7851</data>
+      <data key="d3">1</data>
+      <data key="d4">49</data>
+      <data key="d5">b7702b90c7f24190b864e8c6e64612a5</data>
+    </node>
+    <node id="&quot;BIHAR PROVINCE&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">6b57db5daedd7d1078c4b92bcb6a7851</data>
+      <data key="d3">2</data>
+      <data key="d4">50</data>
+      <data key="d5">de6fa24480894518ab3cbcb66f739266</data>
+    </node>
+    <node id="&quot;BARDOLI SATYAGRAHA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">c4ed73cccc642758cfb557547241271e</data>
+      <data key="d3">1</data>
+      <data key="d4">51</data>
+      <data key="d5">6fae5ee1a831468aa585a1ea09095998</data>
+    </node>
+    <node id="&quot;BANGLADESH&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bangladesh is a country that was created as a result of the Partition of British India in 1947, and is now known as the People's Republic of Bangladesh."</data>
+      <data key="d2">3ca43e020b70239192a9d14f9338bd44</data>
+      <data key="d3">0</data>
+      <data key="d4">52</data>
+      <data key="d5">ef32c4b208d041cc856f6837915dc1b0</data>
+    </node>
+    <node id="&quot;BRITISH INDIAN ARMY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The British Indian Army was a military organization that was divided between India and Pakistan during the Partition of British India in 1947."</data>
+      <data key="d2">3ca43e020b70239192a9d14f9338bd44</data>
+      <data key="d6">7</data>
+      <data key="d7">1</data>
+      <data key="d3">1</data>
+      <data key="d4">53</data>
+      <data key="d5">07b2425216bd4f0aa4e079827cb48ef5</data>
+    </node>
+    <node id="&quot;ROYAL INDIAN NAVY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Royal Indian Navy was a naval organization that was divided between India and Pakistan during the Partition of British India in 1947."</data>
+      <data key="d2">3ca43e020b70239192a9d14f9338bd44</data>
+      <data key="d6">7</data>
+      <data key="d7">1</data>
+      <data key="d3">1</data>
+      <data key="d4">54</data>
+      <data key="d5">2670deebfa3f4d69bb82c28ab250a209</data>
+    </node>
+    <node id="&quot;INDIAN CIVIL SERVICE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Indian Civil Service was an administrative organization that was divided between India and Pakistan during the Partition of British India in 1947."</data>
+      <data key="d2">3ca43e020b70239192a9d14f9338bd44</data>
+      <data key="d3">0</data>
+      <data key="d4">55</data>
+      <data key="d5">404309e89a5241d6bff42c05a45df206</data>
+    </node>
+    <node id="&quot;HINDUISM&quot;">
+      <data key="d0">"RELIGION"</data>
+      <data key="d1">"Hinduism is the most practiced religion in India, with 79.8% of the population following it."</data>
+      <data key="d2">87e3a5e55fbab0d872b443fc69648b67</data>
+      <data key="d6">7</data>
+      <data key="d7">1</data>
+      <data key="d3">1</data>
+      <data key="d4">56</data>
+      <data key="d5">b785a9025069417f94950ad231bb1441</data>
+    </node>
+    <node id="&quot;ISLAM&quot;">
+      <data key="d0">"RELIGION"</data>
+      <data key="d1">"Islam is the second most practiced religion in India, with 14.2% of the population following it."</data>
+      <data key="d2">87e3a5e55fbab0d872b443fc69648b67</data>
+      <data key="d6">7</data>
+      <data key="d7">1</data>
+      <data key="d3">1</data>
+      <data key="d4">57</data>
+      <data key="d5">3b6cd96a27304614850709aba1c9598b</data>
+    </node>
+    <node id="&quot;CHRISTIANITY&quot;">
+      <data key="d0">"RELIGION"</data>
+      <data key="d1">"Christianity is a minor but significant religion in India, with 2.3% of the population following it."</data>
+      <data key="d2">87e3a5e55fbab0d872b443fc69648b67</data>
+      <data key="d3">0</data>
+      <data key="d4">58</data>
+      <data key="d5">d54956b79dd147f894b67a8b97dcbef0</data>
+    </node>
+    <node id="&quot;SIKHISM&quot;">
+      <data key="d0">"RELIGION"</data>
+      <data key="d1">"Sikhism is a minor but significant religion in India, with 1.7% of the population following it."</data>
+      <data key="d2">87e3a5e55fbab0d872b443fc69648b67</data>
+      <data key="d3">0</data>
+      <data key="d4">59</data>
+      <data key="d5">958beecdb5bb4060948415ffd75d2b03</data>
+    </node>
+    <node id="&quot;BUDDHISM&quot;">
+      <data key="d0">"RELIGION"</data>
+      <data key="d1">"Buddhism is a minor but significant religion in India, with 0.7% of the population following it."</data>
+      <data key="d2">87e3a5e55fbab0d872b443fc69648b67</data>
+      <data key="d3">0</data>
+      <data key="d4">60</data>
+      <data key="d5">b999ed77e19e4f85b7f1ae79af5c002a</data>
+    </node>
+    <node id="&quot;JAINISM&quot;">
+      <data key="d0">"RELIGION"</data>
+      <data key="d1">"Jainism is a minor but significant religion in India, with 0.4% of the population following it."</data>
+      <data key="d2">87e3a5e55fbab0d872b443fc69648b67</data>
+      <data key="d3">0</data>
+      <data key="d4">61</data>
+      <data key="d5">48c0c4d72da74ff5bb926fa0c856d1a7</data>
+    </node>
+    <node id="&quot;SARNAISM&quot;">
+      <data key="d0">"RELIGION"</data>
+      <data key="d1">"Sarnaism is a tribal religion found in India, influenced by major religions such as Hinduism and Buddhism."</data>
+      <data key="d2">87e3a5e55fbab0d872b443fc69648b67</data>
+      <data key="d3">0</data>
+      <data key="d4">62</data>
+      <data key="d5">4f3c97517f794ebfb49c4c6315f9cf23</data>
+    </node>
+    <node id="&quot;ZOROASTRIANISM&quot;">
+      <data key="d0">"RELIGION"</data>
+      <data key="d1">"Zoroastrianism is an influential but minor religion in India."</data>
+      <data key="d2">87e3a5e55fbab0d872b443fc69648b67</data>
+      <data key="d3">0</data>
+      <data key="d4">63</data>
+      <data key="d5">1745a2485a9443bab76587ad650e9be0</data>
+    </node>
+    <node id="&quot;JUDAISM&quot;">
+      <data key="d0">"RELIGION"</data>
+      <data key="d1">"Judaism is an influential but minor religion in India."</data>
+      <data key="d2">87e3a5e55fbab0d872b443fc69648b67</data>
+      <data key="d3">0</data>
+      <data key="d4">64</data>
+      <data key="d5">32e6ccab20d94029811127dbbe424c64</data>
+    </node>
+    <node id="&quot;BAH&#193;'&#205; FAITH&quot;">
+      <data key="d0">"RELIGION"</data>
+      <data key="d1">"The Bah&#225;'&#237; Faith is an influential but minor religion in India."</data>
+      <data key="d2">87e3a5e55fbab0d872b443fc69648b67</data>
+      <data key="d3">0</data>
+      <data key="d4">65</data>
+      <data key="d5">94a964c6992945ebb3833dfdfdc8d655</data>
+    </node>
+    <node id="&quot;PEW RESEARCH CENTRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Pew Research Centre conducted a study on the religious demographics of India."</data>
+      <data key="d2">87e3a5e55fbab0d872b443fc69648b67</data>
+      <data key="d6">7</data>
+      <data key="d7">1</data>
+      <data key="d3">1</data>
+      <data key="d4">66</data>
+      <data key="d5">1eb829d0ace042089f0746f78729696c</data>
+    </node>
+    <node id="&quot;GUPTA EMPIRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Gupta Empire was a ruling power that united much of the Indian subcontinent during Classical India, fostering a Golden Age of achievements in various fields."</data>
+      <data key="d2">aa4514271996a98508e6e4d81b8e8cf4</data>
+      <data key="d3">1</data>
+      <data key="d4">67</data>
+      <data key="d5">015e7b58d1a14b44beab3bbc9f912c18</data>
+    </node>
+    <node id="&quot;HINDU-ARABIC NUMERALS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Hindu-Arabic numeral system originated in India and was later transmitted to the West through the Arabs, featuring a positional notation with nine symbols initially and later adding zero."</data>
+      <data key="d2">aa4514271996a98508e6e4d81b8e8cf4</data>
+      <data key="d6">7</data>
+      <data key="d7">1</data>
+      <data key="d3">1</data>
+      <data key="d4">68</data>
+      <data key="d5">26f88ab3e2e04c33a459ad6270ade565</data>
+    </node>
+    <node id="&quot;GUPTAS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Guptas were leaders who enabled peace and prosperity in India, allowing for scientific and artistic pursuits during Classical India."</data>
+      <data key="d2">aa4514271996a98508e6e4d81b8e8cf4</data>
+      <data key="d3">1</data>
+      <data key="d4">69</data>
+      <data key="d5">babe97e1d9784cffa1c85abc1e588126</data>
+    </node>
+    <node id="&quot;CLASSICAL INDIA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">aa4514271996a98508e6e4d81b8e8cf4</data>
+      <data key="d3">2</data>
+      <data key="d4">70</data>
+      <data key="d5">1033a18c45aa4584b2aef6ab96890351</data>
+    </node>
+    <node id="&quot;UPPER DIR DISTRICT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Upper Dir District is a district in the Khyber Pakhtunkhwa province of Pakistan where Barawal is located."</data>
+      <data key="d2">a4e34b2f689c439c34ba18ab1f78c0ab</data>
+      <data key="d3">2</data>
+      <data key="d4">71</data>
+      <data key="d5">c9b8ce91fc2945b4907fe35519339cac</data>
+    </node>
+    <node id="&quot;KHYBER PAKHTUNKHWA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Khyber Pakhtunkhwa is a province in Pakistan where Upper Dir District and Barawal are located."</data>
+      <data key="d2">a4e34b2f689c439c34ba18ab1f78c0ab</data>
+      <data key="d3">2</data>
+      <data key="d4">72</data>
+      <data key="d5">fa3c4204421c48609e52c8de2da4c654</data>
+    </node>
+    <node id="&quot;BARAWAL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a4e34b2f689c439c34ba18ab1f78c0ab</data>
+      <data key="d3">1</data>
+      <data key="d4">73</data>
+      <data key="d5">53af055f068244d0ac861b2e89376495</data>
+    </node>
+    <node id="&quot;MOUNTBATTEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mountbatten replied to Abul Kalam Azad's concerns, assuring him that he would take measures to prevent bloodshed and riot."</data>
+      <data key="d2">ade5e8d76cf55a10486b0516917da76e</data>
+      <data key="d3">2</data>
+      <data key="d4">74</data>
+      <data key="d5">c03ab3ce8cb74ad2a03b94723bfab3c7</data>
+    </node>
+    <node id="&quot;JAGMOHAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jagmohan stated that the government machinery failed in preventing communal disturbances."</data>
+      <data key="d2">ade5e8d76cf55a10486b0516917da76e</data>
+      <data key="d3">1</data>
+      <data key="d4">75</data>
+      <data key="d5">ed6d2eee9d7b4f5db466b1f6404d31cc</data>
+    </node>
+    <node id="&quot;GANDHI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Gandhi was reportedly isolated by Nehru and Patel, observing a day of silence (maun vrat)."</data>
+      <data key="d2">ade5e8d76cf55a10486b0516917da76e</data>
+      <data key="d3">2</data>
+      <data key="d4">76</data>
+      <data key="d5">fc01e9baa80e417c9206f941bb279407</data>
+    </node>
+    <node id="&quot;NEHRU&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Nehru, along with Patel, isolated Gandhi."</data>
+      <data key="d2">ade5e8d76cf55a10486b0516917da76e</data>
+      <data key="d3">1</data>
+      <data key="d4">77</data>
+      <data key="d5">56d0e5ebe79e4814bd1463cf6ca21394</data>
+    </node>
+    <node id="&quot;PATEL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Patel, along with Nehru, isolated Gandhi."</data>
+      <data key="d2">ade5e8d76cf55a10486b0516917da76e</data>
+      <data key="d3">1</data>
+      <data key="d4">78</data>
+      <data key="d5">7c49f2710e8b4d3b8dc9310834406ea5</data>
+    </node>
+    <node id="&quot;SIR CYRIL RADCLIFFE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sir Cyril Radcliffe chaired a British Government-commissioned report to determine the border between India and Pakistan (the Radcliffe Line)."</data>
+      <data key="d2">ade5e8d76cf55a10486b0516917da76e</data>
+      <data key="d6">8</data>
+      <data key="d7">1</data>
+      <data key="d3">1</data>
+      <data key="d4">79</data>
+      <data key="d5">c6d1e4f56c2843e89cf0b91c10bb6de2</data>
+    </node>
+    <node id="&quot;EAST PAKISTAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"East Pakistan is now known as Bangladesh, a non-contiguous enclave of Pakistan."</data>
+      <data key="d2">ade5e8d76cf55a10486b0516917da76e</data>
+      <data key="d3">0</data>
+      <data key="d4">80</data>
+      <data key="d5">0adb2d9941f34ef7b2f7743cc6225844</data>
+    </node>
+    <node id="&quot;WEST PAKISTAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"West Pakistan is a non-contiguous enclave of Pakistan, separated geographically from East Pakistan by India."</data>
+      <data key="d2">ade5e8d76cf55a10486b0516917da76e</data>
+      <data key="d3">0</data>
+      <data key="d4">81</data>
+      <data key="d5">6b02373137fd438ba96af28f735cdbdb</data>
+    </node>
+    <node id="&quot;CONGRESS WORKING COMMITTEE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Congress Working Committee accepted the partition plan on 3 June 1947."</data>
+      <data key="d2">ade5e8d76cf55a10486b0516917da76e</data>
+      <data key="d3">0</data>
+      <data key="d4">82</data>
+      <data key="d5">36a4fcd8efc144e6b8af9a1c7ab8b2ce</data>
+    </node>
+    <node id="&quot;PARTITION PLAN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Partition Plan was accepted by the Congress Working Committee on 3 June 1947, leading to the formation of India and Pakistan."</data>
+      <data key="d2">ade5e8d76cf55a10486b0516917da76e</data>
+      <data key="d3">1</data>
+      <data key="d4">83</data>
+      <data key="d5">fbeef791d19b413a9c93c6608286ab63</data>
+    </node>
+    <node id="&quot;ABUL KALAM AZAD&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ade5e8d76cf55a10486b0516917da76e</data>
+      <data key="d3">1</data>
+      <data key="d4">84</data>
+      <data key="d5">d2b629c0396f4180a03e16ddf3818589</data>
+    </node>
+    <node id="&quot;GOVERNMENT MACHINERY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ade5e8d76cf55a10486b0516917da76e</data>
+      <data key="d3">1</data>
+      <data key="d4">85</data>
+      <data key="d5">6102fc6619ed422ebc42588bfa97355d</data>
+    </node>
+    <node id="&quot;UNITED ARAB EMIRATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United Arab Emirates is a country where the tournament was moved to due to political tensions between India and Pakistan."</data>
+      <data key="d2">cad8ce84927d99ede8d5b095f2c51478</data>
+      <data key="d3">1</data>
+      <data key="d4">86</data>
+      <data key="d5">8d141c0b80f74b79a05eed7fe161fe49</data>
+    </node>
+    <node id="&quot;TOURNAMENT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The tournament is an event that was moved from India to the United Arab Emirates due to political tensions between India and Pakistan."</data>
+      <data key="d2">cad8ce84927d99ede8d5b095f2c51478</data>
+      <data key="d3">2</data>
+      <data key="d4">87</data>
+      <data key="d5">e22d1d1cd8d14f12b81828d940f40d70</data>
+    </node>
+    <node id="&quot;SINGAPORE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Singapore is a location where Hindu culture and religion have been present for centuries, with a significant wave of immigration from southern India."</data>
+      <data key="d2">ae020cac66b11a489705830b61724b78</data>
+      <data key="d3">1</data>
+      <data key="d4">88</data>
+      <data key="d5">9ab48505fb1b487babd0d1f6d3a3f980</data>
+    </node>
+    <node id="&quot;SRIVIJAYA EMPIRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Srivijaya empire was a Hindu-Buddhist empire that had a trading post in Temasek, which is now Singapore."</data>
+      <data key="d2">ae020cac66b11a489705830b61724b78</data>
+      <data key="d3">1</data>
+      <data key="d4">89</data>
+      <data key="d5">148fffeb994541b2b4b6dcefda7001a8</data>
+    </node>
+    <node id="&quot;COLONIAL BRITISH EMPIRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Colonial British Empire was involved in the administration of Singapore and sought to stabilize a reliable labor force through immigration and settlement policies."</data>
+      <data key="d2">ae020cac66b11a489705830b61724b78</data>
+      <data key="d3">1</data>
+      <data key="d4">90</data>
+      <data key="d5">89c08e793298442686292454a1abff31</data>
+    </node>
+    <node id="&quot;LITTLE INDIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Little India is a community in Singapore that was established by Hindus who settled there, with temples and other cultural institutions."</data>
+      <data key="d2">ae020cac66b11a489705830b61724b78</data>
+      <data key="d3">0</data>
+      <data key="d4">91</data>
+      <data key="d5">0467928aa65e4a4fba62bdb1467e3a54</data>
+    </node>
+    <node id="&quot;HINDU RELIGION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ae020cac66b11a489705830b61724b78</data>
+      <data key="d3">1</data>
+      <data key="d4">92</data>
+      <data key="d5">43c3390303c6476cb65f584e37c3e81c</data>
+    </node>
+    <node id="&quot;TEMASEK&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">ae020cac66b11a489705830b61724b78</data>
+      <data key="d3">1</data>
+      <data key="d4">93</data>
+      <data key="d5">fa14b16c17e3417dba5a4b473ea5b18d</data>
+    </node>
+    <node id="&quot;INDIA OFFICE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"India Office is a government department responsible for the administration of the British Raj."</data>
+      <data key="d2">57a511eb05dfe7c21a59cd526b7ea034</data>
+      <data key="d3">2</data>
+      <data key="d4">94</data>
+      <data key="d5">7cc3356d38de4328a51a5cbcb187dac3</data>
+    </node>
+    <node id="&quot;EAST INDIA COMPANY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"East India Company was a company that ruled Bengal before 1858, when its rule ended and India came under direct British administration."</data>
+      <data key="d2">57a511eb05dfe7c21a59cd526b7ea034</data>
+      <data key="d3">1</data>
+      <data key="d4">95</data>
+      <data key="d5">bef16fb5fd7344cca5e295b13ef3e0cd</data>
+    </node>
+    <node id="&quot;BRITISH EMPIRE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"British Empire refers to the territories under British colonial rule, including India, Aden, and Burma."</data>
+      <data key="d2">57a511eb05dfe7c21a59cd526b7ea034</data>
+      <data key="d3">3</data>
+      <data key="d4">96</data>
+      <data key="d5">bb9e01bc171d4326a29afda59ece8d17</data>
+    </node>
+    <node id="&quot;ADEN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Aden is a location that was part of the British Raj."</data>
+      <data key="d2">57a511eb05dfe7c21a59cd526b7ea034</data>
+      <data key="d3">0</data>
+      <data key="d4">97</data>
+      <data key="d5">3c063eea52e94164b70c99431ea30bae</data>
+    </node>
+    <node id="&quot;BURMA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Burma is a country that was part of the British Raj."</data>
+      <data key="d2">57a511eb05dfe7c21a59cd526b7ea034</data>
+      <data key="d3">0</data>
+      <data key="d4">98</data>
+      <data key="d5">252cc8452bfc4c2aa58cab68d8b61879</data>
+    </node>
+    <node id="&quot;PRINCELY STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Princely States are regions in India that were not under direct British administration."</data>
+      <data key="d2">57a511eb05dfe7c21a59cd526b7ea034</data>
+      <data key="d3">0</data>
+      <data key="d4">99</data>
+      <data key="d5">7e2c84548fb94ee395ba8588d8f2a006</data>
+    </node>
+    <node id="&quot;LONDON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"London is the location of the government responsible for the administration of the British Raj."</data>
+      <data key="d2">57a511eb05dfe7c21a59cd526b7ea034</data>
+      <data key="d3">1</data>
+      <data key="d4">100</data>
+      <data key="d5">f034618dde7948beb6dab30176d0fc87</data>
+    </node>
+    <node id="&quot;THE SECRETARY OF STATE FOR INDIA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">57a511eb05dfe7c21a59cd526b7ea034</data>
+      <data key="d3">1</data>
+      <data key="d4">101</data>
+      <data key="d5">5c41f96be13e49dba649454297834546</data>
+    </node>
+    <node id="&quot;BRITISH ARMY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The British Army was a smaller force compared to the private army of the British East India Company, highlighting the company's significant military power."</data>
+      <data key="d2">7a5ea759f585f016ee4f06b1b9897447</data>
+      <data key="d3">1</data>
+      <data key="d4">102</data>
+      <data key="d5">7ea4afbf8a264f29af29950ce98105ba</data>
+    </node>
+    <node id="&quot;INDIAN REBELLION OF 1857&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Indian Rebellion of 1857 was a pivotal event that prompted the Government of India Act 1858 and ultimately led to the British Crown's assuming direct control of India."</data>
+      <data key="d2">7a5ea759f585f016ee4f06b1b9897447</data>
+      <data key="d3">1</data>
+      <data key="d4">103</data>
+      <data key="d5">91ff849d12b24574b0691dbddf44968b</data>
+    </node>
+    <node id="&quot;BRITISH CROWN&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7a5ea759f585f016ee4f06b1b9897447</data>
+      <data key="d6">7</data>
+      <data key="d7">1</data>
+      <data key="d3">1</data>
+      <data key="d4">104</data>
+      <data key="d5">d73c1f2fb3094d8dace42ad2a76e9a52</data>
+    </node>
+    <node id="&quot;HISHAM&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hisham is a ruler who witnessed the end of expansion in the west and faced several challenges during his reign."</data>
+      <data key="d2">cdd9aa6d00557d8b71b34525234995f7</data>
+      <data key="d3">1</data>
+      <data key="d4">105</data>
+      <data key="d5">cdc8901e668749889bd49bebdc4ff1f6</data>
+    </node>
+    <node id="&quot;FRANKS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Franks are a group that defeated the Arab army at the Battle of Tours in 732."</data>
+      <data key="d2">cdd9aa6d00557d8b71b34525234995f7</data>
+      <data key="d3">1</data>
+      <data key="d4">106</data>
+      <data key="d5">36084a9fab53433493f079e97e68bf65</data>
+    </node>
+    <node id="&quot;BERBERS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Berbers are a group that revolted against Umayyad authority in North Africa in 739."</data>
+      <data key="d2">cdd9aa6d00557d8b71b34525234995f7</data>
+      <data key="d3">1</data>
+      <data key="d4">107</data>
+      <data key="d5">eebcc7ec8e3e4df7aea83659bbdc2199</data>
+    </node>
+    <node id="&quot;CHALUKYA DYNASTY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Chalukya dynasty is a south Indian dynasty that defeated the Arab armies in the 8th century."</data>
+      <data key="d2">cdd9aa6d00557d8b71b34525234995f7</data>
+      <data key="d3">1</data>
+      <data key="d4">108</data>
+      <data key="d5">ceadf262ef834e9ab146b20650912cae</data>
+    </node>
+    <node id="&quot;PRATIHARAS DYNASTY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Pratiharas Dynasty is a north Indian dynasty that defeated the Arab armies in the 8th century."</data>
+      <data key="d2">cdd9aa6d00557d8b71b34525234995f7</data>
+      <data key="d3">1</data>
+      <data key="d4">109</data>
+      <data key="d5">7f65feab75424b53b24470d305ba331a</data>
+    </node>
+    <node id="&quot;KHAZARS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Khazars are a nomadic group that resisted Umayyad authority in the Caucasus region."</data>
+      <data key="d2">cdd9aa6d00557d8b71b34525234995f7</data>
+      <data key="d3">2</data>
+      <data key="d4">110</data>
+      <data key="d5">fd9cb733b28d420cb5cef01e545a132c</data>
+    </node>
+    <node id="&quot;MARWAN IBN MUHAMMAD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Marwan ibn Muhammad is a future ruler who ended the war with the Khazars in 737."</data>
+      <data key="d2">cdd9aa6d00557d8b71b34525234995f7</data>
+      <data key="d3">1</data>
+      <data key="d4">111</data>
+      <data key="d5">0fbcca3f17c649a08aea64b5a7d9ef36</data>
+    </node>
+    <node id="&quot;DERBENT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Derbent is a major military base established by the Arabs in the Caucasus region."</data>
+      <data key="d2">cdd9aa6d00557d8b71b34525234995f7</data>
+      <data key="d3">0</data>
+      <data key="d4">112</data>
+      <data key="d5">482027a59f32484c9c44fd700615c1b6</data>
+    </node>
+    <node id="&quot;IBERIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Iberia is a region occupied by the Umayyads starting in 711."</data>
+      <data key="d2">cdd9aa6d00557d8b71b34525234995f7</data>
+      <data key="d3">1</data>
+      <data key="d4">113</data>
+      <data key="d5">de837ff3d626451282ff6ac77a82216d</data>
+    </node>
+    <node id="&quot;GAUL&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Gaul is a region where the Umayyads had a stronghold at Narbonne until 759."</data>
+      <data key="d2">cdd9aa6d00557d8b71b34525234995f7</data>
+      <data key="d3">0</data>
+      <data key="d4">114</data>
+      <data key="d5">460295fed3ae4cd39f9f274cec9c2506</data>
+    </node>
+    <node id="&quot;CAUCASUS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Caucasus is a region where the Arabs confronted the Khazars and established Derbent as a major military base."</data>
+      <data key="d2">cdd9aa6d00557d8b71b34525234995f7</data>
+      <data key="d3">0</data>
+      <data key="d4">115</data>
+      <data key="d5">553b285bba60460ab1ed8341ae61282b</data>
+    </node>
+    <node id="&quot;VOLGA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Volga is a region reached by Marwan ibn Muhammad's massive invasion in 737."</data>
+      <data key="d2">cdd9aa6d00557d8b71b34525234995f7</data>
+      <data key="d3">0</data>
+      <data key="d4">116</data>
+      <data key="d5">cec95bf17e7e4c939b56c9c6f402a29f</data>
+    </node>
+    <node id="&quot;UMAYYADS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">cdd9aa6d00557d8b71b34525234995f7</data>
+      <data key="d3">3</data>
+      <data key="d4">117</data>
+      <data key="d5">599164aead034bc19446efacc77554d2</data>
+    </node>
+    <node id="&quot;ARAB ARMIES&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">cdd9aa6d00557d8b71b34525234995f7</data>
+      <data key="d3">2</data>
+      <data key="d4">118</data>
+      <data key="d5">bbf148ae4d48422f8fdef754cfa2b9e4</data>
+    </node>
+    <edge source="&quot;KHILJI DYNASTY&quot;" target="&quot;DELHI SULTANATE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Khilji dynasty was also part of the Delhi Sultanate, although it failed to unite the subcontinent."</data>
+      <data key="d10">1d774df0ca51de94ad68abc5e1705ee8</data>
+      <data key="d11">de61b2670999433f807a6a1dc2b81e43</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;DELHI SULTANATE&quot;" target="&quot;SLAVE DYNASTY OF DELHI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Slave dynasty of Delhi was part of the Delhi Sultanate, contributing to its cultural renaissance."</data>
+      <data key="d10">1d774df0ca51de94ad68abc5e1705ee8</data>
+      <data key="d11">3e95dacfe57b4d57b5da4310ef2e157f</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;DELHI SULTANATE&quot;" target="&quot;RAZIA SULTANA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Razia Sultana was a ruler during the Delhi Sultanate period, marking a significant milestone in Indian history."</data>
+      <data key="d10">1d774df0ca51de94ad68abc5e1705ee8</data>
+      <data key="d11">1f1545308e9347af91fd03b94aadc21f</data>
+      <data key="d12">2</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is the county seat of Pima County."</data>
+      <data key="d10">0f8731d1ff46c5e16ffda2953e631e69,1492aaa36e8a89a279ffade05e455c8c,1d774df0ca51de94ad68abc5e1705ee8,3ca43e020b70239192a9d14f9338bd44,5391b4b990b38910302a1e8510c93713,57a511eb05dfe7c21a59cd526b7ea034,6b57db5daedd7d1078c4b92bcb6a7851,76b254c26c1bc06b077968bfa4463d02,7a5ea759f585f016ee4f06b1b9897447,7b37a64badb4948c4c09d17c86442ff8,87e3a5e55fbab0d872b443fc69648b67,a4e34b2f689c439c34ba18ab1f78c0ab,a7e0b68f174fbe0ad5b725679110a051,aa4514271996a98508e6e4d81b8e8cf4,ade5e8d76cf55a10486b0516917da76e,ae020cac66b11a489705830b61724b78,c4ed73cccc642758cfb557547241271e,cad8ce84927d99ede8d5b095f2c51478,cdd9aa6d00557d8b71b34525234995f7,d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d11">6ea81acaf232485e94fff638e03336e1</data>
+      <data key="d12">3</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Pima County is a county in Arizona."</data>
+      <data key="d10">0f8731d1ff46c5e16ffda2953e631e69,1492aaa36e8a89a279ffade05e455c8c,1d774df0ca51de94ad68abc5e1705ee8,3ca43e020b70239192a9d14f9338bd44,5391b4b990b38910302a1e8510c93713,57a511eb05dfe7c21a59cd526b7ea034,6b57db5daedd7d1078c4b92bcb6a7851,76b254c26c1bc06b077968bfa4463d02,7a5ea759f585f016ee4f06b1b9897447,7b37a64badb4948c4c09d17c86442ff8,87e3a5e55fbab0d872b443fc69648b67,a4e34b2f689c439c34ba18ab1f78c0ab,a7e0b68f174fbe0ad5b725679110a051,aa4514271996a98508e6e4d81b8e8cf4,ade5e8d76cf55a10486b0516917da76e,ae020cac66b11a489705830b61724b78,c4ed73cccc642758cfb557547241271e,cad8ce84927d99ede8d5b095f2c51478,cdd9aa6d00557d8b71b34525234995f7,d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d11">d136b08d586d488f9e4188b524c85a29</data>
+      <data key="d12">4</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The University of Arizona is located in Tucson."</data>
+      <data key="d10">0f8731d1ff46c5e16ffda2953e631e69,1492aaa36e8a89a279ffade05e455c8c,1d774df0ca51de94ad68abc5e1705ee8,3ca43e020b70239192a9d14f9338bd44,5391b4b990b38910302a1e8510c93713,57a511eb05dfe7c21a59cd526b7ea034,6b57db5daedd7d1078c4b92bcb6a7851,76b254c26c1bc06b077968bfa4463d02,7a5ea759f585f016ee4f06b1b9897447,7b37a64badb4948c4c09d17c86442ff8,87e3a5e55fbab0d872b443fc69648b67,a4e34b2f689c439c34ba18ab1f78c0ab,a7e0b68f174fbe0ad5b725679110a051,aa4514271996a98508e6e4d81b8e8cf4,ade5e8d76cf55a10486b0516917da76e,ae020cac66b11a489705830b61724b78,c4ed73cccc642758cfb557547241271e,cad8ce84927d99ede8d5b095f2c51478,cdd9aa6d00557d8b71b34525234995f7,d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d11">cccfa151fedc4b218a8d96adc7dceabe</data>
+      <data key="d12">5</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Arizona is a state in the United States."</data>
+      <data key="d10">0f8731d1ff46c5e16ffda2953e631e69,1492aaa36e8a89a279ffade05e455c8c,1d774df0ca51de94ad68abc5e1705ee8,3ca43e020b70239192a9d14f9338bd44,5391b4b990b38910302a1e8510c93713,57a511eb05dfe7c21a59cd526b7ea034,6b57db5daedd7d1078c4b92bcb6a7851,76b254c26c1bc06b077968bfa4463d02,7a5ea759f585f016ee4f06b1b9897447,7b37a64badb4948c4c09d17c86442ff8,87e3a5e55fbab0d872b443fc69648b67,a4e34b2f689c439c34ba18ab1f78c0ab,a7e0b68f174fbe0ad5b725679110a051,aa4514271996a98508e6e4d81b8e8cf4,ade5e8d76cf55a10486b0516917da76e,ae020cac66b11a489705830b61724b78,c4ed73cccc642758cfb557547241271e,cad8ce84927d99ede8d5b095f2c51478,cdd9aa6d00557d8b71b34525234995f7,d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d11">ce54725672a74ebcabe6127577dacb2b</data>
+      <data key="d12">6</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Tucson is a city in Arizona."</data>
+      <data key="d10">0f8731d1ff46c5e16ffda2953e631e69,1492aaa36e8a89a279ffade05e455c8c,1d774df0ca51de94ad68abc5e1705ee8,3ca43e020b70239192a9d14f9338bd44,5391b4b990b38910302a1e8510c93713,57a511eb05dfe7c21a59cd526b7ea034,6b57db5daedd7d1078c4b92bcb6a7851,76b254c26c1bc06b077968bfa4463d02,7a5ea759f585f016ee4f06b1b9897447,7b37a64badb4948c4c09d17c86442ff8,87e3a5e55fbab0d872b443fc69648b67,a4e34b2f689c439c34ba18ab1f78c0ab,a7e0b68f174fbe0ad5b725679110a051,aa4514271996a98508e6e4d81b8e8cf4,ade5e8d76cf55a10486b0516917da76e,ae020cac66b11a489705830b61724b78,c4ed73cccc642758cfb557547241271e,cad8ce84927d99ede8d5b095f2c51478,cdd9aa6d00557d8b71b34525234995f7,d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d11">ea2b28ca1a974ffab4517811dc1d1e5c</data>
+      <data key="d12">7</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Phoenix is a city in Arizona."</data>
+      <data key="d10">0f8731d1ff46c5e16ffda2953e631e69,1492aaa36e8a89a279ffade05e455c8c,1d774df0ca51de94ad68abc5e1705ee8,3ca43e020b70239192a9d14f9338bd44,5391b4b990b38910302a1e8510c93713,57a511eb05dfe7c21a59cd526b7ea034,6b57db5daedd7d1078c4b92bcb6a7851,76b254c26c1bc06b077968bfa4463d02,7a5ea759f585f016ee4f06b1b9897447,7b37a64badb4948c4c09d17c86442ff8,87e3a5e55fbab0d872b443fc69648b67,a4e34b2f689c439c34ba18ab1f78c0ab,a7e0b68f174fbe0ad5b725679110a051,aa4514271996a98508e6e4d81b8e8cf4,ade5e8d76cf55a10486b0516917da76e,ae020cac66b11a489705830b61724b78,c4ed73cccc642758cfb557547241271e,cad8ce84927d99ede8d5b095f2c51478,cdd9aa6d00557d8b71b34525234995f7,d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d11">aff21f1da1654e7babdcf3fb0e4a75fc</data>
+      <data key="d12">8</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d10">0f8731d1ff46c5e16ffda2953e631e69,1492aaa36e8a89a279ffade05e455c8c,1d774df0ca51de94ad68abc5e1705ee8,3ca43e020b70239192a9d14f9338bd44,5391b4b990b38910302a1e8510c93713,57a511eb05dfe7c21a59cd526b7ea034,6b57db5daedd7d1078c4b92bcb6a7851,76b254c26c1bc06b077968bfa4463d02,7a5ea759f585f016ee4f06b1b9897447,7b37a64badb4948c4c09d17c86442ff8,87e3a5e55fbab0d872b443fc69648b67,a4e34b2f689c439c34ba18ab1f78c0ab,a7e0b68f174fbe0ad5b725679110a051,aa4514271996a98508e6e4d81b8e8cf4,ade5e8d76cf55a10486b0516917da76e,ae020cac66b11a489705830b61724b78,c4ed73cccc642758cfb557547241271e,cad8ce84927d99ede8d5b095f2c51478,cdd9aa6d00557d8b71b34525234995f7,d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d11">dc2cc9016e3f49dbac7232f05cce794d</data>
+      <data key="d12">9</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Mexico shares an international border with the United States."</data>
+      <data key="d10">0f8731d1ff46c5e16ffda2953e631e69,1492aaa36e8a89a279ffade05e455c8c,1d774df0ca51de94ad68abc5e1705ee8,3ca43e020b70239192a9d14f9338bd44,5391b4b990b38910302a1e8510c93713,57a511eb05dfe7c21a59cd526b7ea034,6b57db5daedd7d1078c4b92bcb6a7851,76b254c26c1bc06b077968bfa4463d02,7a5ea759f585f016ee4f06b1b9897447,7b37a64badb4948c4c09d17c86442ff8,87e3a5e55fbab0d872b443fc69648b67,a4e34b2f689c439c34ba18ab1f78c0ab,a7e0b68f174fbe0ad5b725679110a051,aa4514271996a98508e6e4d81b8e8cf4,ade5e8d76cf55a10486b0516917da76e,ae020cac66b11a489705830b61724b78,c4ed73cccc642758cfb557547241271e,cad8ce84927d99ede8d5b095f2c51478,cdd9aa6d00557d8b71b34525234995f7,d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d11">6ea0cef05f694dcea455478f40674e45</data>
+      <data key="d12">10</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d8">20.0</data>
+      <data key="d9">"Optics Valley is a nickname for Tucson."</data>
+      <data key="d10">0f8731d1ff46c5e16ffda2953e631e69,1492aaa36e8a89a279ffade05e455c8c,1d774df0ca51de94ad68abc5e1705ee8,3ca43e020b70239192a9d14f9338bd44,5391b4b990b38910302a1e8510c93713,57a511eb05dfe7c21a59cd526b7ea034,6b57db5daedd7d1078c4b92bcb6a7851,76b254c26c1bc06b077968bfa4463d02,7a5ea759f585f016ee4f06b1b9897447,7b37a64badb4948c4c09d17c86442ff8,87e3a5e55fbab0d872b443fc69648b67,a4e34b2f689c439c34ba18ab1f78c0ab,a7e0b68f174fbe0ad5b725679110a051,aa4514271996a98508e6e4d81b8e8cf4,ade5e8d76cf55a10486b0516917da76e,ae020cac66b11a489705830b61724b78,c4ed73cccc642758cfb557547241271e,cad8ce84927d99ede8d5b095f2c51478,cdd9aa6d00557d8b71b34525234995f7,d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d11">7ab5d53a872f4dfc98f3d386879f3c75</data>
+      <data key="d12">11</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SARDAR PATEL&quot;" target="&quot;VALLABHBHAI PATEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Sardar Patel is another name for Vallabhbhai Patel."</data>
+      <data key="d10">76b254c26c1bc06b077968bfa4463d02</data>
+      <data key="d11">af1d0fec22114a3398b8016f5225f9ed</data>
+      <data key="d12">12</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;INDIAN NATIONAL CONGRESS&quot;" target="&quot;VALLABHBHAI PATEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Vallabhbhai Patel was a senior leader of the Indian National Congress and served as its 49th President."</data>
+      <data key="d10">76b254c26c1bc06b077968bfa4463d02</data>
+      <data key="d11">b07a7f088364459098cd8511ff27a4c8</data>
+      <data key="d12">13</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;REPUBLIC OF INDIA&quot;" target="&quot;VALLABHBHAI PATEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Vallabhbhai Patel played a leading role in integrating the Republic of India into a united, independent nation."</data>
+      <data key="d10">76b254c26c1bc06b077968bfa4463d02</data>
+      <data key="d11">8870cf2b5df64d2cab5820f67e29b9f1</data>
+      <data key="d12">14</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;GUJARAT&quot;" target="&quot;VALLABHBHAI PATEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Vallabhbhai Patel was raised in Gujarat and organised peasants there in non-violent civil disobedience against the British Raj."</data>
+      <data key="d10">76b254c26c1bc06b077968bfa4463d02</data>
+      <data key="d11">cd130938a2844050be991af70baf5ee0</data>
+      <data key="d12">15</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;GUJARAT&quot;" target="&quot;INDIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Gujarat is a state in India where the Bardoli Satyagraha took place."</data>
+      <data key="d10">c4ed73cccc642758cfb557547241271e</data>
+      <data key="d11">43544b99c3b04b059546198a0ae6366d</data>
+      <data key="d12">16</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;VALLABHBHAI PATEL&quot;" target="&quot;BARDOLI SATYAGRAHA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Vallabhbhai Patel led the Bardoli Satyagraha, a major episode of civil disobedience and revolt."</data>
+      <data key="d10">c4ed73cccc642758cfb557547241271e</data>
+      <data key="d11">a671bf7fea2f4514b6e96ba99127fafd</data>
+      <data key="d12">17</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;GEORGETOWN&quot;" target="&quot;CASA VERONA'S MOSQUE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Casa Verona's Mosque is located in Georgetown."</data>
+      <data key="d10">7b37a64badb4948c4c09d17c86442ff8</data>
+      <data key="d11">525f41ea20274a05af4e52b625b473f3</data>
+      <data key="d12">18</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;GEORGETOWN&quot;" target="&quot;CHENNAI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Georgetown is an area in Chennai."</data>
+      <data key="d10">7b37a64badb4948c4c09d17c86442ff8</data>
+      <data key="d11">071a416efbec4f0886c19ac68f6d43cb</data>
+      <data key="d12">19</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;CHENNAI&quot;" target="&quot;INDIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Chennai is a city in India."</data>
+      <data key="d10">7b37a64badb4948c4c09d17c86442ff8</data>
+      <data key="d11">6d8473ef3b1042bf87178a611e3dbcc6</data>
+      <data key="d12">20</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;GOVERNMENT OF INDIA ACT 1858&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Government of India Act 1858 was implemented in India, creating a new system of governance."</data>
+      <data key="d10">5391b4b990b38910302a1e8510c93713</data>
+      <data key="d11">30c9641543c24773938bd8ec57ea98ab</data>
+      <data key="d12">21</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;PAKISTAN&quot;">
+      <data key="d8">4.0</data>
+      <data key="d9">Here is the comprehensive summary:
+
+India and Pakistan are two separate countries that were created in 1947 as a result of the Partition of British India. The Radcliffe Line serves as their border. Unfortunately, they have had an ongoing complex and contentious relationship marked by numerous conflicts and wars along their shared border, which has led to political tensions between them. These tensions have even affected the location of tournaments and other events.
+
+Let me know if you need any further assistance!</data>
+      <data key="d10">3ca43e020b70239192a9d14f9338bd44,ade5e8d76cf55a10486b0516917da76e,cad8ce84927d99ede8d5b095f2c51478,d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d11">18b839da898e4026b81727d759d95c6a</data>
+      <data key="d12">22</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;RADCLIFFE LINE&quot;">
+      <data key="d8">2.0</data>
+      <data key="d9">Here is the comprehensive summary:
+
+India and the Radcliffe Line: The Radcliffe Line is a boundary that demarcates India from Pakistan, established as a result of the Partition of British India in 1947. It forms part of the border between India and Pakistan.
+
+Let me know if you need any further assistance!</data>
+      <data key="d10">3ca43e020b70239192a9d14f9338bd44,d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d11">eeef6ae5c464400c8755900b4f1ac37a</data>
+      <data key="d12">23</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;BRITISH RAJ&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The British Raj was the ruling authority in India during the time of the Bardoli Satyagraha."</data>
+      <data key="d10">c4ed73cccc642758cfb557547241271e</data>
+      <data key="d11">422433aa45804c7ebb973b2fafce5da6</data>
+      <data key="d12">24</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;BRITISH INDIAN ARMY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The British Indian Army was divided between India and Pakistan during the Partition of British India in 1947, with some units going to India."</data>
+      <data key="d10">3ca43e020b70239192a9d14f9338bd44</data>
+      <data key="d11">86505bca739d4bccaaa1a8e0f3baffdc</data>
+      <data key="d12">25</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;HINDUISM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"India has the largest population of Hindus, with 79.8% of its population practicing Hinduism."</data>
+      <data key="d10">87e3a5e55fbab0d872b443fc69648b67</data>
+      <data key="d11">1af9faf341e14a5bbf4ddc9080e8dc0b</data>
+      <data key="d12">26</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;ISLAM&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"India will have the world's largest population of Muslims by 2050, making up around 19-20% of its population."</data>
+      <data key="d10">87e3a5e55fbab0d872b443fc69648b67</data>
+      <data key="d11">353d91abc68648639d65a549e59b5cf3</data>
+      <data key="d12">27</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;PEW RESEARCH CENTRE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Pew Research Centre conducted a study on India's religious demographics, projecting the country's future religious landscape."</data>
+      <data key="d10">87e3a5e55fbab0d872b443fc69648b67</data>
+      <data key="d11">7ce637e4f35b42e3a9f8272cab69cd22</data>
+      <data key="d12">28</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;HINDU-ARABIC NUMERALS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Hindu-Arabic numeral system originated in India and contributed to its cultural identity."</data>
+      <data key="d10">aa4514271996a98508e6e4d81b8e8cf4</data>
+      <data key="d11">4d999d7744b04a998475f8f8531589f0</data>
+      <data key="d12">29</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;TOURNAMENT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The tournament was originally scheduled to be played in India."</data>
+      <data key="d10">cad8ce84927d99ede8d5b095f2c51478</data>
+      <data key="d11">9a6f414210e14841a5b0e661aedc898d</data>
+      <data key="d12">30</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;BRITISH EAST INDIA COMPANY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The British East India Company ruled large areas of India, exercising military power and administrative functions."</data>
+      <data key="d10">7a5ea759f585f016ee4f06b1b9897447</data>
+      <data key="d11">db541b7260974db8bac94e953009f60e</data>
+      <data key="d12">31</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;INDIA&quot;" target="&quot;BRITISH CROWN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The British Crown assumed direct control of the Indian subcontinent through the Government of India Act 1858 and the formation of the British Raj."</data>
+      <data key="d10">7a5ea759f585f016ee4f06b1b9897447</data>
+      <data key="d11">f2ff8044718648e18acef16dd9a65436</data>
+      <data key="d12">32</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;CASA VERONA&quot;" target="&quot;BRITISH EAST INDIA COMPANY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Casa Verona was a dubash of the British East India Company."</data>
+      <data key="d10">7b37a64badb4948c4c09d17c86442ff8</data>
+      <data key="d11">00d785e7d76b47ec81b508e768d40584</data>
+      <data key="d12">33</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;CASA VERONA&quot;" target="&quot;CASA VERONA'S MOSQUE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Casa Verona constructed Casa Verona's Mosque."</data>
+      <data key="d10">7b37a64badb4948c4c09d17c86442ff8</data>
+      <data key="d11">87915637da3e474c9349bd0ae604bd95</data>
+      <data key="d12">34</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;BRITISH EAST INDIA COMPANY&quot;" target="&quot;COLONIAL BRITISH EMPIRE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The British East India Company and Colonial British Empire worked together to bring immigrants from southern India to Singapore."</data>
+      <data key="d10">ae020cac66b11a489705830b61724b78</data>
+      <data key="d11">8f1eba29f39e411188200bf0d14628ec</data>
+      <data key="d12">35</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;BRITISH EAST INDIA COMPANY&quot;" target="&quot;BRITISH ARMY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The British East India Company had a private army that was twice the size of the British Army, highlighting its significant military power."</data>
+      <data key="d10">7a5ea759f585f016ee4f06b1b9897447</data>
+      <data key="d11">7282c73622b8408e97289d959faff483</data>
+      <data key="d12">36</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;BRITAIN&quot;" target="&quot;BRITISH MANDATE OF PALESTINE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Britain was responsible for governing the British Mandate of Palestine until its withdrawal in 1948."</data>
+      <data key="d10">a7e0b68f174fbe0ad5b725679110a051</data>
+      <data key="d11">3deb220d31f74103aa44870a36a63220</data>
+      <data key="d12">37</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;UNITED NATIONS&quot;" target="&quot;PALESTINE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The United Nations played a key role in resolving the issue of Palestine, voting for a plan to partition the region into two states."</data>
+      <data key="d10">a7e0b68f174fbe0ad5b725679110a051</data>
+      <data key="d11">af7a1584dd15492cb9a4940e285f57fc</data>
+      <data key="d12">38</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;JEWISH REFUGEES&quot;" target="&quot;PALESTINE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jewish refugees sought to be admitted to Palestine following the Holocaust, leading to increased tensions in the region."</data>
+      <data key="d10">a7e0b68f174fbe0ad5b725679110a051</data>
+      <data key="d11">6e8d9029ce4e4ea182367173ab2c7bbf</data>
+      <data key="d12">39</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;ARABS&quot;" target="&quot;PALESTINE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Arabs were opposed to the creation of a Jewish state in Palestine, contributing to the conflict."</data>
+      <data key="d10">a7e0b68f174fbe0ad5b725679110a051</data>
+      <data key="d11">cbf232211e7d4eb6abdbe182f71c2cf0</data>
+      <data key="d12">40</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;COUNCIL OF INDIA&quot;" target="&quot;BRITISH INDIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Council of India oversaw the affairs of British India."</data>
+      <data key="d10">5391b4b990b38910302a1e8510c93713</data>
+      <data key="d11">bb0cff774a4440b289cc6f3b929fe13c</data>
+      <data key="d12">41</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;COUNCIL OF GOVERNOR GENERAL OF INDIA&quot;" target="&quot;GOVERNMENT OF INDIA ACT 1858&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Council of Governor General of India was formally renamed from the existing Council of Four by the Government of India Act 1858."</data>
+      <data key="d10">5391b4b990b38910302a1e8510c93713</data>
+      <data key="d11">ce55841ebfdd47008bab8c258f10372e</data>
+      <data key="d12">42</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;GOVERNMENT OF INDIA ACT 1858&quot;" target="&quot;INDIAN REBELLION OF 1857&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Government of India Act 1858 was a direct response to the Indian Rebellion of 1857, leading to a change in control of India."</data>
+      <data key="d10">7a5ea759f585f016ee4f06b1b9897447</data>
+      <data key="d11">6090e736374d45fd84f0e4610a314f8f</data>
+      <data key="d12">43</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;BRITISH INDIA&quot;" target="&quot;BIHAR PROVINCE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Bihar Province was a province of British India."</data>
+      <data key="d10">6b57db5daedd7d1078c4b92bcb6a7851</data>
+      <data key="d11">0e8d921ccd8d4a8594b65b7fd19f7120</data>
+      <data key="d12">44</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;LORD CURZON&quot;" target="&quot;PARTITION OF BENGAL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Lord Curzon led to the Partition of Bengal, sparking massive political and religious upsurge."</data>
+      <data key="d10">0f8731d1ff46c5e16ffda2953e631e69</data>
+      <data key="d11">59c726a8792d443e84ab052cb7942b4a</data>
+      <data key="d12">45</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;BRITISH RAJ&quot;" target="&quot;CALCUTTA (NOW KOLKATA)&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Calcutta was the capital of India during the British Raj until 1911."</data>
+      <data key="d10">0f8731d1ff46c5e16ffda2953e631e69</data>
+      <data key="d11">4f2c665decf242b0bfcaf7350b0e02ed</data>
+      <data key="d12">46</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;BRITISH RAJ&quot;" target="&quot;NEW DELHI&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The British Raj shifted its capital from Calcutta to New Delhi in 1911."</data>
+      <data key="d10">0f8731d1ff46c5e16ffda2953e631e69</data>
+      <data key="d11">66cdf168f36d4a57a505028c97dc06e0</data>
+      <data key="d12">47</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;GAVIN FLOOD&quot;" target="&quot;HINDU&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Gavin Flood provides insight into the origins of the term 'Hindu' as a geographical concept."</data>
+      <data key="d10">1492aaa36e8a89a279ffade05e455c8c</data>
+      <data key="d11">38f51478f41f48db9bee570859b6f43e</data>
+      <data key="d12">48</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;DARIUS I&quot;" target="&quot;INDUS RIVER&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Darius I's inscription mentions the province of Hi(n)dush, which refers to northwestern India and the Indus river."</data>
+      <data key="d10">1492aaa36e8a89a279ffade05e455c8c</data>
+      <data key="d11">896d2a51e8de47de85ba8ced108c3d53</data>
+      <data key="d12">49</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;PUNJAB REGION&quot;" target="&quot;HINDU&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Punjab region is referred to by different names in ancient records, including Sapta Sindhava and Hapta Hindu."</data>
+      <data key="d10">1492aaa36e8a89a279ffade05e455c8c</data>
+      <data key="d11">14555b518e954637b83aa762dc03164e</data>
+      <data key="d12">50</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;PAKISTAN&quot;" target="&quot;RADCLIFFE LINE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Radcliffe line forms part of the border between Pakistan and India."</data>
+      <data key="d10">d2f3dbddaa94d594009e2e7ff447099c</data>
+      <data key="d11">b1f6164116d44fe8b8f135d7f65b9e58</data>
+      <data key="d12">51</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;PAKISTAN&quot;" target="&quot;ROYAL INDIAN NAVY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Royal Indian Navy was divided between India and Pakistan during the Partition of British India in 1947, with some units going to Pakistan."</data>
+      <data key="d10">3ca43e020b70239192a9d14f9338bd44</data>
+      <data key="d11">c8b2408617804483b620e1a6691ac90d</data>
+      <data key="d12">52</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;PAKISTAN&quot;" target="&quot;KHYBER PAKHTUNKHWA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Khyber Pakhtunkhwa is a province in Pakistan."</data>
+      <data key="d10">a4e34b2f689c439c34ba18ab1f78c0ab</data>
+      <data key="d11">a5e0d1644eb547ba9a5c3211aac4631a</data>
+      <data key="d12">53</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;RADCLIFFE LINE&quot;" target="&quot;SIR CYRIL RADCLIFFE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Sir Cyril Radcliffe chaired the report that determined the border between India and Pakistan (the Radcliffe Line)."</data>
+      <data key="d10">ade5e8d76cf55a10486b0516917da76e</data>
+      <data key="d11">5a28b94bc63b44edb30c54748fd14f15</data>
+      <data key="d12">54</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;BIHAR AND ORISSA PROVINCE&quot;" target="&quot;BIHAR PROVINCE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Bihar Province was created by the partition of Bihar and Orissa Province."</data>
+      <data key="d10">6b57db5daedd7d1078c4b92bcb6a7851</data>
+      <data key="d11">f97011b2a99d44648e18d517e1eae15c</data>
+      <data key="d12">55</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;GUPTA EMPIRE&quot;" target="&quot;CLASSICAL INDIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Classical India was a period marked by the rule of the Gupta Empire."</data>
+      <data key="d10">aa4514271996a98508e6e4d81b8e8cf4</data>
+      <data key="d11">35489ca6a63b47d6a8913cf333818bc1</data>
+      <data key="d12">56</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;GUPTAS&quot;" target="&quot;CLASSICAL INDIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Guptas led India during the Classical period, fostering a Golden Age of achievements."</data>
+      <data key="d10">aa4514271996a98508e6e4d81b8e8cf4</data>
+      <data key="d11">5d3344f45e654d2c808481672f2f08dd</data>
+      <data key="d12">57</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;UPPER DIR DISTRICT&quot;" target="&quot;BARAWAL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Barawal is an administrative unit within Upper Dir District."</data>
+      <data key="d10">a4e34b2f689c439c34ba18ab1f78c0ab</data>
+      <data key="d11">6fb57f83baec45c9b30490ee991f433f</data>
+      <data key="d12">58</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;UPPER DIR DISTRICT&quot;" target="&quot;KHYBER PAKHTUNKHWA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Upper Dir District is a district in the Khyber Pakhtunkhwa province."</data>
+      <data key="d10">a4e34b2f689c439c34ba18ab1f78c0ab</data>
+      <data key="d11">68762e6f0d1c41cd857c6b964a8e76c3</data>
+      <data key="d12">59</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;MOUNTBATTEN&quot;" target="&quot;ABUL KALAM AZAD&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Abul Kalam Azad expressed concern over violent riots, and Mountbatten replied with assurances."</data>
+      <data key="d10">ade5e8d76cf55a10486b0516917da76e</data>
+      <data key="d11">70634e10a5e845aa8c6a32fe7e8eb2b2</data>
+      <data key="d12">60</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;MOUNTBATTEN&quot;" target="&quot;PARTITION PLAN&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Mountbatten played a role in the acceptance of the Partition Plan."</data>
+      <data key="d10">ade5e8d76cf55a10486b0516917da76e</data>
+      <data key="d11">04085f7cf46544b79597fc49286ff84d</data>
+      <data key="d12">61</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;JAGMOHAN&quot;" target="&quot;GOVERNMENT MACHINERY&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Jagmohan stated that the government machinery failed to prevent communal disturbances."</data>
+      <data key="d10">ade5e8d76cf55a10486b0516917da76e</data>
+      <data key="d11">d203efdbfb2f4b2a899abfb31cf72e82</data>
+      <data key="d12">62</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;GANDHI&quot;" target="&quot;NEHRU&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Gandhi was isolated by Nehru and Patel."</data>
+      <data key="d10">ade5e8d76cf55a10486b0516917da76e</data>
+      <data key="d11">6731a665561840c2898ce8c9788e4c88</data>
+      <data key="d12">63</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;GANDHI&quot;" target="&quot;PATEL&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Gandhi was isolated by Nehru and Patel."</data>
+      <data key="d10">ade5e8d76cf55a10486b0516917da76e</data>
+      <data key="d11">4026806fa92f4e849a59a7f5c9a45c79</data>
+      <data key="d12">64</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;UNITED ARAB EMIRATES&quot;" target="&quot;TOURNAMENT&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The tournament was moved to the United Arab Emirates due to political tensions between India and Pakistan."</data>
+      <data key="d10">cad8ce84927d99ede8d5b095f2c51478</data>
+      <data key="d11">68e0c60d2e8845d89d9d0ad397833648</data>
+      <data key="d12">65</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SINGAPORE&quot;" target="&quot;HINDU RELIGION&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Hindu religion has a significant presence in Singapore, with a history dating back to the 7th century AD."</data>
+      <data key="d10">ae020cac66b11a489705830b61724b78</data>
+      <data key="d11">101572f552b54e529fe7765c05168981</data>
+      <data key="d12">66</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;SRIVIJAYA EMPIRE&quot;" target="&quot;TEMASEK&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Temasek was a trading post of the Srivijaya empire, which is now part of Singapore."</data>
+      <data key="d10">ae020cac66b11a489705830b61724b78</data>
+      <data key="d11">60c58026b2764b40adffca6eaa31d6d9</data>
+      <data key="d12">67</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;INDIA OFFICE&quot;" target="&quot;THE SECRETARY OF STATE FOR INDIA&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Secretary of State for India is the political head of the India Office."</data>
+      <data key="d10">57a511eb05dfe7c21a59cd526b7ea034</data>
+      <data key="d11">ad1595a78935472999444c9330e7730e</data>
+      <data key="d12">68</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;INDIA OFFICE&quot;" target="&quot;BRITISH EMPIRE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The India Office is responsible for the administration of the British Raj."</data>
+      <data key="d10">57a511eb05dfe7c21a59cd526b7ea034</data>
+      <data key="d11">735d19aea0744b2295556841c5c4c3fd</data>
+      <data key="d12">69</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;EAST INDIA COMPANY&quot;" target="&quot;BRITISH EMPIRE&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The East India Company's rule in Bengal ended, and India came under direct British administration."</data>
+      <data key="d10">57a511eb05dfe7c21a59cd526b7ea034</data>
+      <data key="d11">c725babdb14a485582f8fbdf95429030</data>
+      <data key="d12">70</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;BRITISH EMPIRE&quot;" target="&quot;LONDON&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"London is the location of the government responsible for the administration of the British Raj."</data>
+      <data key="d10">57a511eb05dfe7c21a59cd526b7ea034</data>
+      <data key="d11">a0047221896d418d849847d422fa4bb8</data>
+      <data key="d12">71</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;HISHAM&quot;" target="&quot;BERBERS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Hisham faced a major Berber Revolt in North Africa during his reign."</data>
+      <data key="d10">cdd9aa6d00557d8b71b34525234995f7</data>
+      <data key="d11">98fc2ee593184c5a839454db4eec7013</data>
+      <data key="d12">72</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;FRANKS&quot;" target="&quot;UMAYYADS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Franks defeated the Arab army at the Battle of Tours in 732."</data>
+      <data key="d10">cdd9aa6d00557d8b71b34525234995f7</data>
+      <data key="d11">80020a1da63042459e00266b2a605452</data>
+      <data key="d12">73</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;CHALUKYA DYNASTY&quot;" target="&quot;ARAB ARMIES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Chalukya dynasty defeated the Arab armies in the 8th century."</data>
+      <data key="d10">cdd9aa6d00557d8b71b34525234995f7</data>
+      <data key="d11">31a7e680c4d54101afe4c8d52d246913</data>
+      <data key="d12">74</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;PRATIHARAS DYNASTY&quot;" target="&quot;ARAB ARMIES&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Pratiharas Dynasty defeated the Arab armies in the 8th century."</data>
+      <data key="d10">cdd9aa6d00557d8b71b34525234995f7</data>
+      <data key="d11">351abba16e5c448994c6daf48121b14d</data>
+      <data key="d12">75</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;KHAZARS&quot;" target="&quot;UMAYYADS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Khazars resisted Umayyad authority in the Caucasus region."</data>
+      <data key="d10">cdd9aa6d00557d8b71b34525234995f7</data>
+      <data key="d11">50ea7d3b69614bcdbfbff7ddbfbf3d34</data>
+      <data key="d12">76</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;KHAZARS&quot;" target="&quot;MARWAN IBN MUHAMMAD&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"Marwan ibn Muhammad ended the war with the Khazars in 737."</data>
+      <data key="d10">cdd9aa6d00557d8b71b34525234995f7</data>
+      <data key="d11">004f40a5aeca48a1879db728eb12bcba</data>
+      <data key="d12">77</data>
+      <data key="d13">1</data>
+    </edge>
+    <edge source="&quot;IBERIA&quot;" target="&quot;UMAYYADS&quot;">
+      <data key="d8">1.0</data>
+      <data key="d9">"The Umayyads occupied most of Iberia starting in 711."</data>
+      <data key="d10">cdd9aa6d00557d8b71b34525234995f7</data>
+      <data key="d11">4465efb7f6ed4dedad72a658184addd2</data>
+      <data key="d12">78</data>
+      <data key="d13">1</data>
+    </edge>
+  </graph>
+</graphml>

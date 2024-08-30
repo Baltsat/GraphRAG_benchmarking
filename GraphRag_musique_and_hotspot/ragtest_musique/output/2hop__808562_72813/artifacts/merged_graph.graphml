@@ -1,0 +1,301 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;ITALY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Italy is a country that participated in the Eurovision Song Contest 1967 with the song 'Non andare pi&#249; lontano'."</data>
+      <data key="d2">1ab6460947ace598f5f912fa13a4262d</data>
+    </node>
+    <node id="&quot;EUROVISION SONG CONTEST 1967&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Eurovision Song Contest 1967 was an international singing competition where Italy participated with the song 'Non andare pi&#249; lontano'."</data>
+      <data key="d2">1ab6460947ace598f5f912fa13a4262d</data>
+    </node>
+    <node id="&quot;CLAUDIO VILLA&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">1ab6460947ace598f5f912fa13a4262d</data>
+    </node>
+    <node id="&quot;PIMA COUNTY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."
+"Pima County is a county in Arizona, United States, with Tucson as its county seat."</data>
+      <data key="d2">0caaa64852213f899e13d1a88ed2bf15,1ab6460947ace598f5f912fa13a4262d,5615593db1f818f95d15af74c5f3ea7b,64122ba0bbee390a5107c32b1c48cc2b,f443f3f22eeba4490b975775dfeecd6d</data>
+    </node>
+    <node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."
+"The University of Arizona is an educational institution located in Tucson, Arizona."</data>
+      <data key="d2">0caaa64852213f899e13d1a88ed2bf15,1ab6460947ace598f5f912fa13a4262d,5615593db1f818f95d15af74c5f3ea7b,64122ba0bbee390a5107c32b1c48cc2b,f443f3f22eeba4490b975775dfeecd6d</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."
+"Arizona is a state in the United States, where Tucson and Phoenix are located."</data>
+      <data key="d2">0caaa64852213f899e13d1a88ed2bf15,1ab6460947ace598f5f912fa13a4262d,5615593db1f818f95d15af74c5f3ea7b,64122ba0bbee390a5107c32b1c48cc2b,f443f3f22eeba4490b975775dfeecd6d</data>
+    </node>
+    <node id="&quot;PHOENIX&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."
+"Phoenix is a city in Arizona, United States, and the largest populated city in the state."</data>
+      <data key="d2">0caaa64852213f899e13d1a88ed2bf15,1ab6460947ace598f5f912fa13a4262d,5615593db1f818f95d15af74c5f3ea7b,64122ba0bbee390a5107c32b1c48cc2b,f443f3f22eeba4490b975775dfeecd6d</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."
+"The United States is a country where Tucson, Pima County, and Arizona are located."</data>
+      <data key="d2">0caaa64852213f899e13d1a88ed2bf15,1ab6460947ace598f5f912fa13a4262d,5615593db1f818f95d15af74c5f3ea7b,64122ba0bbee390a5107c32b1c48cc2b,f443f3f22eeba4490b975775dfeecd6d</data>
+    </node>
+    <node id="&quot;U.S.-MEXICO BORDER&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."
+"The U.S.-Mexico border is an international border between the United States and Mexico, located near Tucson."</data>
+      <data key="d2">0caaa64852213f899e13d1a88ed2bf15,1ab6460947ace598f5f912fa13a4262d,5615593db1f818f95d15af74c5f3ea7b,64122ba0bbee390a5107c32b1c48cc2b,f443f3f22eeba4490b975775dfeecd6d</data>
+    </node>
+    <node id="&quot;OPTICS VALLEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."
+"Optics Valley is a nickname for Tucson due to its involvement in the design and manufacture of optics and optoelectronics systems."</data>
+      <data key="d2">0caaa64852213f899e13d1a88ed2bf15,1ab6460947ace598f5f912fa13a4262d,5615593db1f818f95d15af74c5f3ea7b,64122ba0bbee390a5107c32b1c48cc2b,f443f3f22eeba4490b975775dfeecd6d</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."
+"Mexico is a country that shares an international border with the United States, near Tucson."</data>
+      <data key="d2">0caaa64852213f899e13d1a88ed2bf15,1ab6460947ace598f5f912fa13a4262d,5615593db1f818f95d15af74c5f3ea7b,64122ba0bbee390a5107c32b1c48cc2b,f443f3f22eeba4490b975775dfeecd6d</data>
+    </node>
+    <node id="&quot;COUNTY SEAT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."
+"A county seat is an administrative center for a county, such as Pima County."</data>
+      <data key="d2">0caaa64852213f899e13d1a88ed2bf15,1ab6460947ace598f5f912fa13a4262d,5615593db1f818f95d15af74c5f3ea7b,64122ba0bbee390a5107c32b1c48cc2b,f443f3f22eeba4490b975775dfeecd6d</data>
+    </node>
+    <node id="&quot;TUCSON&quot;">
+      <data key="d0" />
+      <data key="d1">
+
+
+
+</data>
+      <data key="d2">0caaa64852213f899e13d1a88ed2bf15,1ab6460947ace598f5f912fa13a4262d,5615593db1f818f95d15af74c5f3ea7b,64122ba0bbee390a5107c32b1c48cc2b,f443f3f22eeba4490b975775dfeecd6d</data>
+    </node>
+    <node id="&quot;GARRETT P.I.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Garrett P.I. is a series of novels that combines elements of mystery and fantasy, following the adventures of private investigator Garrett."</data>
+      <data key="d2">f443f3f22eeba4490b975775dfeecd6d</data>
+    </node>
+    <node id="&quot;CRUEL ZINC MELODIES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Cruel Zinc Melodies is the twelfth novel in Glen Cook's ongoing Garrett P.I. series."</data>
+      <data key="d2">f443f3f22eeba4490b975775dfeecd6d</data>
+    </node>
+    <node id="&quot;GLEN COOK&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">f443f3f22eeba4490b975775dfeecd6d</data>
+    </node>
+    <node id="&quot;ADULT CONTEMPORARY CHART&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Adult Contemporary chart is a music ranking system where 'Don't Ask Me Why' spent two weeks at number one."</data>
+      <data key="d2">64122ba0bbee390a5107c32b1c48cc2b</data>
+    </node>
+    <node id="&quot;BILLBOARD HOT 100&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Billboard Hot 100 is a music ranking system where 'Don't Ask Me Why' peaked at number nineteen."</data>
+      <data key="d2">64122ba0bbee390a5107c32b1c48cc2b</data>
+    </node>
+    <node id="&quot;BILLY JOEL&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">64122ba0bbee390a5107c32b1c48cc2b</data>
+    </node>
+    <node id="&quot;DON'T ASK ME WHY&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">64122ba0bbee390a5107c32b1c48cc2b</data>
+    </node>
+    <node id="&quot;BUSTED&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Busted is a group that Matt Willis was part of before releasing solo music."</data>
+      <data key="d2">0caaa64852213f899e13d1a88ed2bf15</data>
+    </node>
+    <node id="&quot;DON'T LET IT GO TO WASTE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Don't Let It Go to Waste is the debut album of Matt Willis, released in 2006."</data>
+      <data key="d2">0caaa64852213f899e13d1a88ed2bf15</data>
+    </node>
+    <node id="&quot;MATT WILLIS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">0caaa64852213f899e13d1a88ed2bf15</data>
+    </node>
+    <node id="&quot;YORKSHIRE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Yorkshire is a geographic location associated with a traditional dartboard design."</data>
+      <data key="d2">5615593db1f818f95d15af74c5f3ea7b</data>
+    </node>
+    <node id="&quot;INDOOR LEAGUE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Indoor League is a television show that featured a dartboard game."</data>
+      <data key="d2">5615593db1f818f95d15af74c5f3ea7b</data>
+    </node>
+    <edge source="&quot;ITALY&quot;" target="&quot;CLAUDIO VILLA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Claudio Villa represented Italy in the Eurovision Song Contest 1967."</data>
+      <data key="d5">1ab6460947ace598f5f912fa13a4262d</data>
+    </edge>
+    <edge source="&quot;ITALY&quot;" target="&quot;EUROVISION SONG CONTEST 1967&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Eurovision Song Contest 1967 featured Italy as a participating country."</data>
+      <data key="d5">1ab6460947ace598f5f912fa13a4262d</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."
+"Tucson is the county seat of Pima County."</data>
+      <data key="d5">0caaa64852213f899e13d1a88ed2bf15,1ab6460947ace598f5f912fa13a4262d,5615593db1f818f95d15af74c5f3ea7b,64122ba0bbee390a5107c32b1c48cc2b,f443f3f22eeba4490b975775dfeecd6d</data>
+    </edge>
+    <edge source="&quot;PIMA COUNTY&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."
+"Pima County is a county in Arizona."</data>
+      <data key="d5">0caaa64852213f899e13d1a88ed2bf15,1ab6460947ace598f5f912fa13a4262d,5615593db1f818f95d15af74c5f3ea7b,64122ba0bbee390a5107c32b1c48cc2b,f443f3f22eeba4490b975775dfeecd6d</data>
+    </edge>
+    <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."
+"The University of Arizona is located in Tucson."</data>
+      <data key="d5">0caaa64852213f899e13d1a88ed2bf15,1ab6460947ace598f5f912fa13a4262d,5615593db1f818f95d15af74c5f3ea7b,64122ba0bbee390a5107c32b1c48cc2b,f443f3f22eeba4490b975775dfeecd6d</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."
+"Arizona is a state in the United States."</data>
+      <data key="d5">0caaa64852213f899e13d1a88ed2bf15,1ab6460947ace598f5f912fa13a4262d,5615593db1f818f95d15af74c5f3ea7b,64122ba0bbee390a5107c32b1c48cc2b,f443f3f22eeba4490b975775dfeecd6d</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."
+"Tucson is a city in Arizona."</data>
+      <data key="d5">0caaa64852213f899e13d1a88ed2bf15,1ab6460947ace598f5f912fa13a4262d,5615593db1f818f95d15af74c5f3ea7b,64122ba0bbee390a5107c32b1c48cc2b,f443f3f22eeba4490b975775dfeecd6d</data>
+    </edge>
+    <edge source="&quot;ARIZONA&quot;" target="&quot;PHOENIX&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."
+"Phoenix is a city in Arizona."</data>
+      <data key="d5">0caaa64852213f899e13d1a88ed2bf15,1ab6460947ace598f5f912fa13a4262d,5615593db1f818f95d15af74c5f3ea7b,64122ba0bbee390a5107c32b1c48cc2b,f443f3f22eeba4490b975775dfeecd6d</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."
+"The U.S.-Mexico border is located near Tucson."</data>
+      <data key="d5">0caaa64852213f899e13d1a88ed2bf15,1ab6460947ace598f5f912fa13a4262d,5615593db1f818f95d15af74c5f3ea7b,64122ba0bbee390a5107c32b1c48cc2b,f443f3f22eeba4490b975775dfeecd6d</data>
+    </edge>
+    <edge source="&quot;U.S.-MEXICO BORDER&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."
+"Mexico shares an international border with the United States."</data>
+      <data key="d5">0caaa64852213f899e13d1a88ed2bf15,1ab6460947ace598f5f912fa13a4262d,5615593db1f818f95d15af74c5f3ea7b,64122ba0bbee390a5107c32b1c48cc2b,f443f3f22eeba4490b975775dfeecd6d</data>
+    </edge>
+    <edge source="&quot;OPTICS VALLEY&quot;" target="&quot;TUCSON&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."
+"Optics Valley is a nickname for Tucson."</data>
+      <data key="d5">0caaa64852213f899e13d1a88ed2bf15,1ab6460947ace598f5f912fa13a4262d,5615593db1f818f95d15af74c5f3ea7b,64122ba0bbee390a5107c32b1c48cc2b,f443f3f22eeba4490b975775dfeecd6d</data>
+    </edge>
+    <edge source="&quot;GARRETT P.I.&quot;" target="&quot;GLEN COOK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Glen Cook is the author of the Garrett P.I. series, which includes Cruel Zinc Melodies."</data>
+      <data key="d5">f443f3f22eeba4490b975775dfeecd6d</data>
+    </edge>
+    <edge source="&quot;CRUEL ZINC MELODIES&quot;" target="&quot;GLEN COOK&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Glen Cook wrote Cruel Zinc Melodies, the twelfth novel in his Garrett P.I. series."</data>
+      <data key="d5">f443f3f22eeba4490b975775dfeecd6d</data>
+    </edge>
+    <edge source="&quot;ADULT CONTEMPORARY CHART&quot;" target="&quot;DON'T ASK ME WHY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The song 'Don't Ask Me Why' reached number one on the Adult Contemporary chart."</data>
+      <data key="d5">64122ba0bbee390a5107c32b1c48cc2b</data>
+    </edge>
+    <edge source="&quot;BILLBOARD HOT 100&quot;" target="&quot;DON'T ASK ME WHY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The song 'Don't Ask Me Why' peaked at number nineteen on the Billboard Hot 100."</data>
+      <data key="d5">64122ba0bbee390a5107c32b1c48cc2b</data>
+    </edge>
+    <edge source="&quot;BILLY JOEL&quot;" target="&quot;DON'T ASK ME WHY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Billy Joel released the song 'Don't Ask Me Why' in 1980."</data>
+      <data key="d5">64122ba0bbee390a5107c32b1c48cc2b</data>
+    </edge>
+    <edge source="&quot;BUSTED&quot;" target="&quot;MATT WILLIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Matt Willis was a member of Busted before pursuing a solo career."</data>
+      <data key="d5">0caaa64852213f899e13d1a88ed2bf15</data>
+    </edge>
+    <edge source="&quot;DON'T LET IT GO TO WASTE&quot;" target="&quot;MATT WILLIS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Matt Willis is the artist behind the album Don't Let It Go to Waste."</data>
+      <data key="d5">0caaa64852213f899e13d1a88ed2bf15</data>
+    </edge>
+  </graph>
+</graphml>
