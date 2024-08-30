@@ -49,7 +49,8 @@ Test approaches that can map and analyze contextual relationships between entiti
 ### Full Online version of the report
 
 [Google Docs](https://docs.google.com/document/d/1u8KYps1oAbqJuWYZ5v49LpA5oPJ1TUzRIqFm-11ygD8/edit#heading=h.vbkrpx3o7dwm)
-![Graph showing benchmarking results](images/Safari 12_32_59 30_August_2024.jpg)
+
+![Graph showing benchmarking results](<images/Safari 12_32_59 30_August_2024.jpg>)
 
 
 ### 🤝 Contributing
