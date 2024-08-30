@@ -46,6 +46,10 @@ Test approaches that can map and analyze contextual relationships between entiti
 | Global   | 4.0      | 5.1   | 3.2         | 1.7   | 61.5    | 33.2  | 0                         | 0     |
 | Arigraph | 43.0     | 51.8  | 27.0        | 36.7  | 61.5    | 67.2  | 0.3                       | 0.3   |
 
+### Full Online version of the report
+
+[Google Docs](https://docs.google.com/document/d/1u8KYps1oAbqJuWYZ5v49LpA5oPJ1TUzRIqFm-11ygD8/edit#heading=h.vbkrpx3o7dwm)
+
 ### 🤝 Contributing
 
 **We welcome contributions from the community to help enhance GraphRAG Local Ollama! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more details on how to get involved.**
