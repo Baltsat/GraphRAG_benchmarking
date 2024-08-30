@@ -1,8 +1,10 @@
 # GraphRAG_benchmarking
-Benchmarking GraphRAG and Arigraph on Musique, HotpotQA and Babilong QA1 datasets locally using Ollama with LLama3. 
+Benchmarking GraphRAG and Arigraph on Musique, HotpotQA and Babilong QA1 datasets locally using Ollama with LLama3.
 
 # Benchmarking [GraphRAG](https://github.com/microsoft/graphrag) on Musique, HotpotQA 
-**Credits [TheAiSingularity/graphrag-local-ollama](https://github.com/TheAiSingularity/graphrag-local-ollama)**
+**Credits**
+- [TheAiSingularity/graphrag-local-ollama](https://github.com/TheAiSingularity/graphrag-local-ollama)
+- [AIRI-Institute/AriGraph](https://github.com/AIRI-Institute/AriGraph)
 
 
 ### 🤝 Contributing
