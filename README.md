@@ -14,7 +14,7 @@ Test approaches that can map and analyze contextual relationships between entiti
 
 ## Results
 ### GraphRAG vs. AriGraph
-| Метод | GraphRAG (GPT-4o-mini) | AriGraph (GPT-40-mini) | AriGraph wwwww (LLama-3-70B) | AriGraph (GPT-4) |
+| Method | GraphRAG (GPT-4o-mini) | AriGraph (GPT-40-mini) | AriGraph (LLama-3-70B) | AriGraph (GPT-4) |
 |-------|------------------------|------------------------|------------------------------|-------------------|
 | **MuSiQue** |
 | EM | 40.0 | 23.0 | 27.0 | 37.0 |
@@ -24,7 +24,7 @@ Test approaches that can map and analyze contextual relationships between entiti
 | F1 | 63.3 | 60.3 | 51.8 | <u>69.6</u> |
 
 ### AriGraph benchmarking (N=10) on Babilong QA1 dataset
-| Metric\Context | 0k     | 4k     | 8k     | 16k    |
+| Metric \ Context | 0k     | 4k     | 8k     | 16k    |
 |-----------------|--------|--------|--------|--------|
 | EM              | 0.615  | 0.5    | 0.3    | 0.3    |
 | F1              | 0.675  | 0.5    | 0.3    | 0.3    |
